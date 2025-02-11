@@ -1,0 +1,18 @@
+,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+0,2024,2023-24,MBA,115,Campbell,1,I,CAA,8586146,30,Kamau Freeman,,,Fr,P,6-4,R/R,15081,,4,,9.00,4.0,,0,4,4,10,3,,23,12,,,,,4,1,,3,1,,,43,3,6,,,,2,
+1,2024,2023-24,MBA,115,Campbell,1,I,CAA,8586168,47,Will Palmer,,,Fr,P,6-1,L/L,15081,,17,,11.15,15.1,,24,20,19,23,13,,90,63,6,,,2,12,,,13,6,,4,300,17,13,,,,4,
+2,2024,2023-24,MBA,115,Campbell,1,I,CAA,8586169,45,Cole Peschl,,,Jr,P,6-1,R/R,15081,,13,13,5.48,69.0,,73,47,42,19,83,,307,277,19,1,1,10,5,8,,,,3,,"1,068",53,63,3,3,,21,1
+3,2024,2023-24,MBA,115,Campbell,1,I,CAA,8586177,14,Zach Sabers,,,So,P,6-2,R/R,15081,,13,12,5.04,64.1,,59,40,36,33,51,,297,245,10,1,1,4,16,16,,,,2,1,"1,048",73,59,6,,,17,1
+4,2024,2023-24,MBA,115,Campbell,1,I,CAA,8586180,49,Drew Siegner,,,Fr,P,6-0,R/R,15081,,23,,7.18,26.1,,34,23,21,11,22,,126,105,5,1,1,3,3,4,1,37,18,1,5,412,27,24,3,2,,9,1
+5,2024,2023-24,MBA,115,Campbell,1,I,CAA,8267023,50,Garret Kangas,,,Jr,P,6-0,,15081,,17,,4.50,14.0,,14,7,7,6,13,,62,49,4,,,,5,5,,18,10,,2,262,10,14,1,1,,5,2
+6,2024,2023-24,MBA,115,Campbell,1,I,CAA,8269083,20,David Rossow,,,Jr,P,6-3,R/R,15081,,2,1,43.20,1.2,,3,8,8,5,1,,16,7,2,,,,2,3,,,,,1,32,2,2,,1,,,
+7,2024,2023-24,MBA,115,Campbell,1,I,CAA,8586183,26,Ethan  Snyder,,,Fr,P,6-4,R/R,15081,,10,,7.45,9.2,,11,8,8,13,6,,53,37,5,,,,4,2,,11,9,1,,180,6,15,1,,,2,1
+8,2024,2023-24,MBA,115,Campbell,1,I,CAA,8586219,48,Derek Vartanian,,,Jr,P,6-4,R/R,15081,,3,3,7.36,11.0,,14,12,9,6,15,,54,48,2,,,2,,,,,,,,127,11,6,1,2,,4,
+9,2024,2023-24,MBA,115,Campbell,1,I,CAA,8274480,28,Jeremy Wiegman,,,Sr,P,6-3,R/R,15081,,21,,8.33,31.1,,39,36,29,29,28,,175,134,8,,,5,7,10,1,17,5,1,1,620,33,27,2,2,1,7,
+10,2024,2023-24,MBA,115,Campbell,1,I,CAA,8262848,23,Grant Knipp,,,Jr,C,6-2,,15081,,4,,1.59,5.2,,6,1,1,1,6,,24,22,1,,,,,,,6,3,1,,70,5,6,,,2,4,
+11,2024,2023-24,MBA,115,Campbell,1,I,CAA,8287175,17,Jackson Roberts,,,So,P,6-1,R/R,15081,,23,,5.36,45.1,,43,30,27,19,44,,205,176,14,,,4,1,6,,26,8,2,2,728,19,70,6,4,2,14,
+12,2024,2023-24,MBA,115,Campbell,1,I,CAA,8586112,44,Packy Bradley-Cooney,,,Jr,P,6-2,R/R,15081,,25,,6.00,39.0,,27,30,26,28,53,,180,140,4,,,4,10,7,,11,7,1,4,692,31,31,2,,6,16,
+13,2024,2023-24,MBA,115,Campbell,1,I,CAA,8586114,41,Nate Brittain,,,Fr,P,6-4,R/R,15081,,13,7,6.51,37.1,,40,27,27,20,41,,176,147,7,1,1,1,9,7,,,,1,1,649,32,36,1,4,1,17,2
+14,2024,2023-24,MBA,115,Campbell,1,I,CAA,8586120,12,Cooper  Clark,,,Fr,P,6-4,R/R,15081,,13,11,7.71,51.1,,66,47,44,15,47,,242,216,12,1,,7,8,11,,,,,,773,50,50,4,1,,14,1
+15,2024,2023-24,MBA,115,Campbell,1,I,CAA,8586131,11,Cy Cox,,,Jr,P,6-0,L/L,15081,,11,4,18.00,14.0,,30,36,28,15,13,,88,72,4,,,5,,1,,2,2,,,300,14,13,,2,,6,
+16,2024,2023-24,MBA,115,Campbell,1,I,CAA,8586102,35,Simon Bargo,,,Fr,P,6-5,R/R,15081,,14,2,8.88,25.1,,21,28,25,32,23,,139,89,2,,,1,17,10,,9,4,3,5,527,20,30,1,,1,7,

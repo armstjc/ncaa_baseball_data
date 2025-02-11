@@ -1,0 +1,22 @@
+,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+0,2024,2023-24,MBA,490,NC State,1,I,ACC,8269985,43,John Miralia,,,Sr,P,6-7,R/L,15081,,6,,0.00,2.1,,1,,,1,3,,11,8,,,,,,2,,11,2,,,42,2,2,,,,1,
+1,2024,2023-24,MBA,490,NC State,1,I,ACC,8262044,29,Logan Whitaker,,,Sr,P,6-6,R/R,15081,,13,9,5.49,59.0,,59,39,36,22,69,,267,234,14,,,11,1,6,2,6,3,1,3,"1,113",35,72,3,1,,20,2
+2,2024,2023-24,MBA,490,NC State,1,I,ACC,8259684,51,Dominic Fritton,,,So,P,6-1,L/L,15081,,17,17,7.64,73.0,,72,67,62,47,72,,348,285,19,1,1,22,11,11,,,,3,2,"1,346",56,84,3,7,,24,1
+3,2024,2023-24,MBA,490,NC State,1,I,ACC,8270272,17,Sam HIghfill,,,Sr,P,6-3,R/R,15081,,17,17,4.97,87.0,1,71,49,48,43,82,1,374,314,18,2,,19,4,8,,,,4,5,"1,432",55,114,7,2,,19,
+4,2024,2023-24,MBA,490,NC State,1,I,ACC,8271749,42,Jacob Dienes,,,Jr,P,6-2,L/L,15081,,1,,,,,1,,,1,,,2,1,,,,,,,,,,,,10,,,,,,,
+5,2024,2023-24,MBA,490,NC State,1,I,ACC,8270683,48,Andrew Shaffner,,,So,P,6-2,L/R,15081,,7,,5.56,11.1,,10,7,7,5,8,,50,42,1,1,,1,1,2,,5,3,,1,133,10,15,,,1,1,
+6,2024,2023-24,MBA,490,NC State,1,I,ACC,8258997,40,Jacob Halford,,,Jr,P,6-3,R/R,15081,,4,,15.43,2.1,,3,4,4,5,4,,16,10,1,,,,1,1,,7,5,,,72,2,1,,,,1,
+7,2024,2023-24,MBA,490,NC State,1,I,ACC,8263887,34,P.J. Labriola,,,Sr,P,6-7,L/L,15081,,9,,17.61,7.2,,16,17,15,8,12,,47,38,6,,,1,1,,,12,8,,1,182,4,6,1,,,3,
+8,2024,2023-24,MBA,490,NC State,1,I,ACC,8269594,11,Garrett Payne,,,Jr,P,6-8,R/R,15081,,3,,21.60,1.2,,4,4,4,1,1,,10,9,,,,1,,,,,,,,46,4,,,,,,
+9,2024,2023-24,MBA,490,NC State,1,I,ACC,8275881,27,Win Scott,,,Jr,P,6-2,L/L,15081,,8,,9.00,10.0,,8,10,10,8,10,,48,39,1,,,2,1,1,,3,1,,,180,7,13,,1,,6,
+10,2024,2023-24,MBA,490,NC State,1,I,ACC,8287670,25,Derrick Smith,,,So,P,6-2,R/R,15081,,24,,4.55,29.2,,19,17,15,11,41,,123,105,5,,,5,4,5,,18,3,1,1,469,26,21,3,2,8,10,
+11,2024,2023-24,MBA,490,NC State,1,I,ACC,8287140,24,Carson Kelly,,,Jr,P,6-2,R/R,15081,,7,,9.64,4.2,,5,5,5,6,6,,23,16,,,,1,,1,,7,2,,,92,2,3,1,,1,,1
+12,2024,2023-24,MBA,490,NC State,1,I,ACC,8414494,41,Jacob Dudan,,,Fr,P,6-2,L/R,15081,,27,,4.50,48.0,,37,25,24,34,56,,215,170,5,,1,7,11,6,,34,8,2,3,846,56,25,4,2,6,9,
+13,2024,2023-24,MBA,490,NC State,1,I,ACC,8414476,28,Cooper Consiglio,,,Fr,P,6-0,L/L,15081,,15,5,4.97,41.2,,29,27,23,24,38,,178,145,2,1,,4,7,7,,10,,1,1,614,35,43,5,4,,9,2
+14,2024,2023-24,MBA,490,NC State,1,I,ACC,8414446,19,Heath Andrews,,,Fr,P,6-3,R/R,15081,,10,1,11.57,9.1,,18,13,12,8,6,,55,43,4,,,3,,2,,13,10,2,,168,9,11,,1,,2,
+15,2024,2023-24,MBA,490,NC State,1,I,ACC,8414456,20,Ryan Marohn,,,Fr,P,6-2,L/L,15081,,16,10,3.97,59.0,,68,31,26,25,46,,259,225,14,2,,7,1,5,1,4,2,3,1,934,68,44,4,2,1,16,6
+16,2024,2023-24,MBA,490,NC State,1,I,ACC,8414483,31,Shane Van Dam,,,So,P,6-6,R/R,15081,,16,,4.58,37.1,,30,21,19,20,38,,168,139,4,1,,8,3,7,,22,6,1,1,514,37,33,4,,1,9,
+17,2024,2023-24,MBA,490,NC State,1,I,ACC,8414427,10,Chance Mako,,,Fr,P,6-7,R/R,15081,,2,,27.00,1.1,,2,4,4,2,1,,8,5,1,,,,,1,,,,,,33,2,,,,,,
+18,2024,2023-24,MBA,490,NC State,1,I,ACC,8414512,45,Hollis Fanning,,,Sr,P,6-8,R/R,15081,,15,1,7.41,17.0,,26,15,14,4,14,,84,72,6,1,1,4,3,6,,11,8,1,1,310,16,17,2,1,,5,1
+19,2024,2023-24,MBA,490,NC State,1,I,ACC,8414489,36,Camden Wimbish,,,Fr,UT,6-2,B/R,15081,,5,,9.82,3.2,,5,4,4,3,4,,19,16,,,,1,2,,,4,2,,,83,5,2,,,,1,
+20,2024,2023-24,MBA,490,NC State,1,I,ACC,8414438,18,Jaxon Lucas,,,Fr,UT,6-3,R/R,15081,,15,1,9.43,21.0,,30,24,22,12,22,,106,89,3,1,,4,1,2,,14,5,,2,417,20,19,1,,,7,

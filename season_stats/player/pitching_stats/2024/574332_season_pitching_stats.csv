@@ -1,0 +1,21 @@
+,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+0,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8261926,22,Jonah Prokott,,,Jr,P,-,R/R,15081,,12,10,6.75,53.1,,69,50,40,14,43,,257,227,15,2,1,2,1,9,,3,1,,7,319,54,56,4,2,,21,1
+1,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8264276,21,Colton Bagshaw,,,Jr,UT,-,R/R,15081,,6,4,3.65,12.1,,11,6,5,9,11,,57,45,,,1,,3,2,,2,1,1,,94,12,11,,,,3,
+2,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8271477,38,Ayden Sauerbrei,,,So,P,-,R/R,15081,,10,,9.75,12.0,,21,15,13,6,18,,66,55,7,1,,,1,4,,5,3,,1,119,8,7,1,1,,5,
+3,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8259728,25,Cameron Carr,,,Sr,C,-,R/R,15081,,1,,9.00,1.0,,2,1,1,0,1,,6,5,2,,,,,1,,1,,,,20,1,1,,,,,
+4,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8269709,3,Parker Collett,,,Sr,P,-,R/R,15081,,10,,17.65,8.2,,18,23,17,8,8,,56,46,5,,,2,5,1,,3,3,,1,74,9,9,1,,,3,
+5,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8274694,34,Alex Engel,,,So,P,-,R/R,15081,,2,,40.50,1.1,,6,6,6,1,2,,13,10,,,,1,1,2,,2,2,,,19,2,,,,,1,
+6,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8277532,12,Trevyn Badger,,,Sr,P,-,R/R,15081,,11,10,10.01,47.2,,76,58,53,15,35,,238,213,17,5,,10,6,7,,2,,1,2,340,49,52,1,7,,7,1
+7,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8269899,24,Jack Bright,,,Jr,P,-,L/L,15081,,9,,12.38,8.0,,12,11,11,8,8,,46,34,2,1,,3,4,3,,6,2,,1,81,3,12,,,,3,
+8,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8281975,36,Cameron Bagshaw,,,Sr,P,-,R/R,15081,,19,,8.14,24.1,,27,30,22,20,19,,133,103,5,1,1,4,5,6,,21,11,2,2,201,34,17,3,,,6,
+9,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8279701,44,Conner Meldrim,,,So,P,-,R/R,15081,,19,2,6.86,21.0,,25,23,16,16,28,,109,90,5,2,1,1,4,3,,13,6,,,238,18,15,,1,1,5,
+10,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8282191,15,Gage Yost,,,Sr,P,-,R/R,15081,,9,5,16.62,21.2,,51,47,40,19,19,,145,112,10,2,2,4,12,9,1,3,2,1,4,106,22,21,1,6,,7,
+11,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8283416,23,Tim Carlson,,,Jr,P,-,R/R,15081,,10,1,16.34,12.2,,18,24,23,14,12,,74,52,4,,,1,5,7,,7,2,,1,85,15,8,,2,,2,
+12,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8283470,27,Noah Balandran,,,Sr,,-,R/R,15081,,20,,6.00,24.0,,33,17,16,10,17,,114,98,6,2,1,2,5,2,,21,9,,4,163,26,26,,,,5,
+13,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8285886,17,Craig Schmich,,,Sr,P,-,R/R,15081,,14,11,7.46,56.2,1,87,54,47,25,63,,282,246,16,1,3,7,7,5,,2,,3,3,451,43,53,2,9,,15,4
+14,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8593561,40,Devin Marton,,,Jr,p,-,,15081,,10,,16.39,9.1,,15,17,17,15,11,,60,41,1,,,1,2,4,,8,5,,,89,7,8,,,2,2,
+15,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8593562,30,Oscar Tucci,,,Jr,p,-,,15081,,4,,13.50,2.2,,7,6,4,3,2,,17,13,2,,,1,,,,10,6,,1,37,1,4,,,,1,
+16,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8597570,7,Hayden Bode,,,Jr,p,-,,15081,,15,,9.98,15.1,,26,24,17,9,15,,87,69,9,1,,2,2,6,,14,9,1,2,141,12,18,1,1,,6,
+17,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8593165,16,Gage Eastlick,,,Jr,p,-,,15081,,11,5,7.64,33.0,,46,33,28,18,37,,168,140,9,,,3,6,5,,7,2,3,2,219,29,26,1,4,,12,2
+18,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8593147,19,Ricky Apodaca,,,Sr,P,6-0,L/L,15081,,1,1,3.86,2.1,,2,1,1,2,3,,11,8,,,,,,,,,,,1,,2,2,,,,1,
+19,2024,2023-24,MBA,30125,Minot St.,2,II,NSIC,8593164,26,Jacob Thompson,,,Fr,p,-,,15081,,7,,12.15,6.2,,13,11,9,3,5,,38,32,1,1,,,1,1,,8,5,1,1,33,5,10,,,,2,

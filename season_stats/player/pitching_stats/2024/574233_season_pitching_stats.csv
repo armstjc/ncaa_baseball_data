@@ -1,0 +1,18 @@
+,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+0,2024,2023-24,MBA,682,Stonehill,1,I,NEC,8259810,8,Jack Iannibelli,,,So,P,6-1,B/L,15081,,13,,4.43,20.1,,18,11,10,13,14,,94,76,4,2,,1,1,2,,16,12,,3,287,20,25,1,1,,4,
+1,2024,2023-24,MBA,682,Stonehill,1,I,NEC,8276443,22,Joe Castrichini,,,Sr,P,6-2,R/R,15081,,16,,8.16,28.2,,30,28,26,25,30,,147,114,4,,2,5,4,6,,9,5,1,1,408,20,34,1,,4,7,
+2,2024,2023-24,MBA,682,Stonehill,1,I,NEC,8263639,7,Zach Gleason,,,Jr,P,6-2,R/R,15081,,8,6,4.61,27.1,,26,18,14,13,30,,122,107,5,1,2,1,,1,,2,,,1,456,13,35,1,,,9,
+3,2024,2023-24,MBA,682,Stonehill,1,I,NEC,8260522,6,Ryan Douglas,,,Jr,UT,6-0,R/R,15081,,14,13,5.50,73.2,,98,52,45,15,45,,331,306,12,,1,9,1,6,,,,2,2,764,91,69,4,7,,10,2
+4,2024,2023-24,MBA,682,Stonehill,1,I,NEC,8286384,13,Pierce Friedman,,,So,P,6-0,R/R,15081,,9,4,13.79,15.2,,19,25,24,25,18,,96,62,4,,,1,7,8,,3,3,1,,370,16,10,,2,,2,
+5,2024,2023-24,MBA,682,Stonehill,1,I,NEC,8285164,32,Jordan Marot,,,Sr,P,6-4,R/R,15081,,12,2,7.94,17.0,,22,26,15,15,13,,91,71,5,,,4,5,5,,10,5,,,228,16,16,1,1,1,5,
+6,2024,2023-24,MBA,682,Stonehill,1,I,NEC,8280804,9,Peter Haas,,,Jr,P,6-2,R/R,15081,,12,10,5.33,54.0,1,67,45,32,22,49,,258,231,10,,,6,4,4,,,,1,,736,67,40,3,6,,13,
+7,2024,2023-24,MBA,682,Stonehill,1,I,NEC,8278405,44,Tim Cotter,,,Sr,P,6-5,R/R,15081,,9,1,4.97,12.2,,18,17,7,17,12,,78,55,4,,1,2,,5,,,,1,,268,5,19,,2,,2,
+8,2024,2023-24,MBA,682,Stonehill,1,I,NEC,8284844,26,Max Brulport,,,Jr,P,5-10,L/L,15081,,11,,5.19,8.2,,11,5,5,6,6,,43,35,4,,,,,1,,6,2,,1,147,7,12,,,,3,
+9,2024,2023-24,MBA,682,Stonehill,1,I,NEC,8449146,24,Jake Lanzer,,,So,P,6-4,L/L,15081,,8,,5.84,12.1,,18,11,8,7,8,,64,50,,1,,1,2,4,,,,,3,185,14,12,,,1,2,
+10,2024,2023-24,MBA,682,Stonehill,1,I,NEC,8449148,28,Zach Brockner,,,Fr,P,6-0,L/L,15081,,17,1,5.08,28.1,,20,17,16,26,30,,134,104,2,,2,2,6,4,,2,,,,344,16,36,1,,,10,
+11,2024,2023-24,MBA,682,Stonehill,1,I,NEC,8449149,29,James Gilleran,,,So,P,6-3,R/R,15081,,15,2,9.29,31.0,,41,32,32,22,27,,156,125,5,1,1,5,3,5,1,5,,3,1,480,28,33,3,5,,7,
+12,2024,2023-24,MBA,682,Stonehill,1,I,NEC,8449154,35,Billy Duff,,,Sr,P,6-9,R/R,15081,,12,2,12.79,19.0,,36,30,27,13,10,,108,89,5,,,6,2,4,,8,5,,2,311,23,21,,2,1,3,1
+13,2024,2023-24,MBA,682,Stonehill,1,I,NEC,8449152,33,Rob Moynihan,,,So,P,6-2,L/R,15081,,5,,10.80,3.1,,5,7,4,8,3,,24,14,1,,,1,,1,,5,4,,1,79,2,5,,,,1,
+14,2024,2023-24,MBA,682,Stonehill,1,I,NEC,8449147,27,Francisco Melendez,,,Fr,P,6-3,R/R,15081,,2,,16.20,1.2,,2,3,3,6,,,13,6,,,,1,1,,,2,1,,1,63,3,2,,,,,
+15,2024,2023-24,MBA,682,Stonehill,1,I,NEC,8449150,30,Braydon Gray,,,Fr,P,6-2,R/R,15081,,14,6,5.26,49.2,,60,33,29,22,27,,235,202,11,1,,5,2,6,,,,3,2,593,44,69,3,3,1,7,1
+16,2024,2023-24,MBA,682,Stonehill,1,I,NEC,8679824,23,Justin Tullish,,,Fr,P,5-10,R/R,15081,,1,,0.00,0.1,,2,4,,2,,,5,2,,,,,1,,,3,3,,1,17,,1,,,,,

@@ -1,0 +1,19 @@
+,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+0,2024,2023-24,MBA,363,Longwood,1,I,Big South,8261074,22,Josiah Harrison,,,So,OF,6-0,R/R,15081,,7,,28.80,5.0,,10,17,16,14,8,,43,26,,,,4,9,3,,1,1,,,155,3,4,,,,3,
+1,2024,2023-24,MBA,363,Longwood,1,I,Big South,8262325,17,Andrew Potojecki,,,Sr,P,6-0,R/R,15081,,19,8,8.92,38.1,,55,40,38,25,28,,194,161,10,,1,4,1,2,,6,4,1,5,662,41,41,,5,,5,
+2,2024,2023-24,MBA,363,Longwood,1,I,Big South,8260079,40,Dallas Hairfield,,,So,P,5-9,R/R,15081,,12,2,11.45,22.0,,28,28,28,24,24,,114,87,6,,1,5,3,1,,2,2,2,,408,20,17,2,3,,9,
+3,2024,2023-24,MBA,363,Longwood,1,I,Big South,8277293,11,Brenton Fisher,,,Sr,P,6-3,R/R,15081,,15,15,3.63,44.2,,47,24,18,18,42,,199,177,10,,,4,3,4,,,,,,700,40,43,2,3,,17,2
+4,2024,2023-24,MBA,363,Longwood,1,I,Big South,8272108,38,Kevin Warunek,,,Jr,P,6-4,L/L,15081,,12,,2.08,21.2,,23,6,5,13,25,,102,85,4,1,,2,3,2,,2,,1,1,386,13,26,2,,,2,
+5,2024,2023-24,MBA,363,Longwood,1,I,Big South,8265353,46,Ethan Walker,,,So,P,6-2,L/L,15081,,15,9,4.50,42.0,,29,24,21,31,59,,189,152,8,2,,6,3,6,1,9,4,,,734,18,46,1,4,,22,1
+6,2024,2023-24,MBA,363,Longwood,1,I,Big South,8272356,39,Ried Dittner,,,Sr,P,6-4,R/R,15081,,18,1,6.00,21.0,,14,14,14,21,32,,100,73,2,,,3,4,4,,10,5,1,1,418,13,17,1,2,1,6,
+7,2024,2023-24,MBA,363,Longwood,1,I,Big South,8259412,31,"Guillermo Garcia, Jr.",,,Sr,P,6-1,R/R,15081,,17,7,7.36,33.0,,35,27,27,27,44,,161,126,9,3,,6,6,4,1,15,12,1,3,585,18,33,1,3,,8,
+8,2024,2023-24,MBA,363,Longwood,1,I,Big South,8263184,5,Dylan Saale,,,Sr,P,6-4,R/R,15081,,17,,6.11,35.1,,42,29,24,14,26,,163,138,11,,,4,6,5,,4,2,3,3,484,35,39,3,1,,8,
+9,2024,2023-24,MBA,363,Longwood,1,I,Big South,8282856,34,Sean Gibbons,,,Sr,P,6-3,L/L,15081,,15,1,4.91,47.2,,53,31,26,23,52,,219,183,11,2,,2,2,7,,8,4,4,2,733,32,48,2,1,1,16,
+10,2024,2023-24,MBA,363,Longwood,1,I,Big South,8283731,43,Wyatt Bunch,,,So,P,6-4,R/R,15081,,15,,7.15,11.1,,15,10,9,10,12,,60,48,3,1,,3,,1,,21,7,,1,232,13,8,1,1,,,
+11,2024,2023-24,MBA,363,Longwood,1,I,Big South,8283779,28,Corbin McCloud,,,Sr,C,6-0,R/R,15081,,2,,0.00,1.1,,2,,,0,1,,6,6,,,,,,,,3,,,,23,1,2,,,,,
+12,2024,2023-24,MBA,363,Longwood,1,I,Big South,8286303,26,Dominick D'Ercole,,,Sr,P,6-0,R/R,15081,,19,6,5.65,51.0,,65,44,32,23,51,,249,212,18,3,1,3,5,9,2,8,3,4,1,761,64,31,5,2,,10,2
+13,2024,2023-24,MBA,363,Longwood,1,I,Big South,8423016,35,Caleb Ketchie,,,So,P,5-11,R/R,15081,,9,,19.73,8.2,,11,20,19,15,6,,56,34,1,,,2,4,5,,7,4,,2,205,8,11,1,,,,1
+14,2024,2023-24,MBA,363,Longwood,1,I,Big South,8423019,37,Sam DiLella,,,Jr,P,6-2,R/R,15081,,1,,0.00,1.0,,0,,,1,1,,4,3,,,,,,,,,,,,18,,2,,,,,
+15,2024,2023-24,MBA,363,Longwood,1,I,Big South,8423030,44,Johnny Sayres,,,Fr,P,6-5,R/R,15081,,10,,36.45,6.2,,18,29,27,14,8,,57,38,2,,,3,1,4,,8,7,,1,177,2,10,,,,1,
+16,2024,2023-24,MBA,363,Longwood,1,I,Big South,8423000,32,Owen Simmons,,,Fr,P,6-1,R/R,15081,,18,3,8.80,29.2,,45,39,29,29,26,,165,125,11,1,,4,6,5,1,5,1,2,4,596,28,26,1,4,,8,
+17,2024,2023-24,MBA,363,Longwood,1,I,Big South,8423036,47,Kyle Miller,,,Fr,P,6-5,R/R,15081,,9,,7.15,11.1,,10,10,9,16,12,,61,43,3,,,1,5,2,,12,10,,,260,13,6,1,,,6,

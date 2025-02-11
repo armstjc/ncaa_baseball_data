@@ -1,0 +1,35 @@
+,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
+0,2023,2022-23,MBA,574,Rice,1,I,CUSA,7991543,45,Krishna Raj,,,Sr,P,6-2,R/R,15002,25,1,2,2,4,,1.000,,,2,1,,,
+1,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830051,23,Cullen Hannigan,,,Jr,C,-,R/R,15002,7,1,20,1,22,1,0.955,,,1,,,,1.000
+2,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830053,10,Ben Dukes,,,Jr,UT,6-0,L/R,15002,9,8,16,,17,1,0.941,,,,,,,
+3,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830057,40,Mathew Linskey,,,Jr,P,-,R/R,15002,26,0,1,1,2,,1.000,,,3,3,,,
+4,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830061,19,Cristian Cienfuegos,,,Jr,P,5-9,R/R,15002,25,1,,4,5,1,0.800,,,2,2,,,
+5,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830062,7,Nathan Becker,,,Jr,INF,6-2,L/L,15002,11,10,,,0,,,,,,,,,
+6,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830063,2,"Guy Garibay, Jr.",,,Jr,OF,-,L/L,15002,51,50,58,4,65,3,0.954,,,,,,,
+7,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830066,21,Blake Brogdon,,,Sr,P,-,R/R,15002,17,2,,3,3,,1.000,,,4,1,,,1.000
+8,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830067,5,Connor Walsh,,,Jr,OF,6-2,R/R,15002,54,52,116,2,120,2,0.983,,,,,,,
+9,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830068,30,Justin Long,,,Jr,P,-,R/R,15002,21,2,1,3,4,,1.000,,,2,1,,,
+10,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830069,38,Garret Zaskoda,,,Jr,P,-,B/R,15002,12,4,,3,3,,1.000,,,3,1,,,0.500
+11,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830071,17,Graiden West,,,So,INF,6-3,R/R,15002,8,6,1,4,6,1,0.833,,,,,1,,
+12,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830073,42,Manny Garza,,,So,C,5-11,B/R,15002,53,51,414,38,461,9,0.980,,5,25,22,1,,2.800
+13,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830074,15,Jack Riedel,,,Jr,INF,6-1,R/R,15002,53,51,41,89,139,9,0.935,,,,,8,,
+14,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830075,28,Aaron Smigelski,,,So,INF,6-2,L/R,15002,36,35,23,4,28,1,0.964,,,,,,,
+15,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830076,12,Jack Ben-Shoshan,,,So,INF,6-0,R/R,15002,21,0,,3,3,,1.000,,,,,,,
+16,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830077,26,Parker Smith,,,So,P,6-4,R/R,15002,15,15,7,15,23,1,0.957,,,8,7,1,,0.667
+17,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830078,36,Thomas Vincent,,,So,P,6-3,L/L,15002,18,6,1,13,14,,1.000,,,3,5,1,,
+18,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830081,32,Mark Perkins,,,So,P,6-1,R/R,15002,12,1,1,2,3,,1.000,,,,,,,
+19,2023,2022-23,MBA,574,Rice,1,I,CUSA,7830084,3,Pierce Gallo,,,Jr,INF,6-2,R/R,15002,54,53,92,159,257,6,0.977,,,,,25,,
+20,2023,2022-23,MBA,574,Rice,1,I,CUSA,7991599,43,Jake Crews,,,Fr,P,-,R/R,15002,1,0,,,0,,,,,1,,,,
+21,2023,2022-23,MBA,574,Rice,1,I,CUSA,7991601,9,Trey Duffield,,,Fr,OF,6-3,R/R,15002,12,4,6,,6,,1.000,,,,,,,
+22,2023,2022-23,MBA,574,Rice,1,I,CUSA,7991626,4,Mauricio Rodriguez,,,So,P,6-2,R/R,15002,11,5,2,6,9,1,0.889,,,1,2,,,
+23,2023,2022-23,MBA,574,Rice,1,I,CUSA,7991600,24,Jacob Devenny,,,Fr,OF,5-11,L/R,15002,19,16,26,2,28,,1.000,,,,,,,
+24,2023,2022-23,MBA,574,Rice,1,I,CUSA,7991623,29,J.D. McCracken,,,So,P,6-3,L/L,15002,19,13,3,8,16,5,0.688,,,5,4,,,
+25,2023,2022-23,MBA,574,Rice,1,I,CUSA,7991627,6,Ben Rosengard,,,Sr,INF,6-2,L/R,15002,13,10,25,2,27,,1.000,,,,,,,
+26,2023,2022-23,MBA,574,Rice,1,I,CUSA,7991630,18,Ben Royo,,,Fr,INF,6-2,R/R,15002,49,48,67,133,209,9,0.957,,,,,13,,
+27,2023,2022-23,MBA,574,Rice,1,I,CUSA,7991631,8,Christian Salazar,,,Fr,OF,5-10,R/R,15002,30,17,29,1,31,1,0.968,,,,,,,
+28,2023,2022-23,MBA,574,Rice,1,I,CUSA,7991633,14,Paul Smith,,,Fr,C,5-11,B/R,15002,31,24,60,1,63,2,0.968,1,3,17,,,,
+29,2023,2022-23,MBA,574,Rice,1,I,CUSA,7991636,25,Ryland Urbanczyk,,,Fr,P,6-1,R/R,15002,14,2,1,3,5,1,0.800,,,4,,,,1.000
+30,2023,2022-23,MBA,574,Rice,1,I,CUSA,7991618,35,Drew Holderbach,,,Sr,UT,6-0,R/R,15002,56,56,464,37,501,,1.000,,,,,32,,
+31,2023,2022-23,MBA,574,Rice,1,I,CUSA,7991619,47,Max Johnson,,,So,INF,6-1,B/R,15002,31,30,40,42,84,2,0.976,,,,,6,,
+32,2023,2022-23,MBA,574,Rice,1,I,CUSA,7991635,16,Garrett Stratton,,,Fr,P,6-2,R/R,15002,10,5,,1,1,,1.000,,,,2,,,
+33,2023,2022-23,MBA,574,Rice,1,I,CUSA,7991615,27,Tyler Hamilton,,,Jr,P,6-1,R/R,15002,19,1,1,6,7,,1.000,,,5,,,,1.000

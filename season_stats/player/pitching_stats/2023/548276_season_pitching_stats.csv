@@ -1,0 +1,31 @@
+,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+0,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,7830315,13,Sam Delcollo,,,Jr,OF,-,,15001,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,7830316,15,Joey Vitiello,,,Jr,INF,5-10,R/R,15001,46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,7830317,14,Christian Coombes,,,Jr,P,6-2,,15001,12,12,10,8.35,50.2,,55,54,47,40,36,,256,196,8,5,,7,7,14,1,,,2,4,913,39,68,2,6,,10,1
+3,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,7830318,18,Jack Gannon,,,So,P,6-4,-/R,15001,18,18,11,8.36,65.2,,81,70,61,50,50,,334,266,21,2,1,9,11,12,,5,2,2,4,919,48,88,2,7,1,12,1
+4,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,7830319,16,Robert Black III,,,Jr,P,-,L/L,15001,24,24,,9.42,35.1,,55,42,37,25,21,,187,155,12,1,1,5,2,2,,20,11,1,4,519,24,58,,,,4,1
+5,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,7830322,3,Kyle Mahady,,,Jr,P,-,,15001,18,18,13,10.77,64.1,1,123,95,77,19,38,,342,310,27,7,3,15,4,7,,,,2,4,815,63,81,1,9,,8,
+6,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,7830324,28,Tyler Smith,,,So,1B,6-3,,15001,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,7830325,25,Collin Jensen,,,Jr,OF,-,,15001,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,7830326,12,Jeff Massicotte,,,Jr,3B,-,,15001,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,7830327,44,Cole Watson,,,Fr,C,-,,15001,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,7830328,1,Michael Pollard,,,Fr,OF,-,,15001,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,7830330,0,Nick Constantino,,,So,2b,5-10,R/R,15001,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,7830331,29,Michael Cardone,,,Jr,C,6-0,R/R,15001,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,7830332,9,Sam Haney,,,Fr,1B,6-0,,15001,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,7830333,2,Jack Eichler,,,Jr,SS,-,,15001,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,7830334,22,Nick Markantonatos,,,Jr,OF,-,,15001,48,1,1,9.00,4.0,,6,4,4,2,5,,19,16,2,,,,2,,,,,,1,73,2,4,,,,2,
+16,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,8009367,17,Kenji Lamdin,,,Jr,UT,-,,15001,21,9,,13.50,11.1,,18,19,17,19,3,,70,46,2,1,,1,5,4,,2,2,,1,277,12,14,,1,,,
+17,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,8009370,23,Zach Walker,,,Jr,P,5-10,R/R,15001,18,18,2,15.16,24.1,,35,43,41,20,19,,137,99,9,2,,3,9,16,,10,6,,2,322,20,27,1,3,2,5,
+18,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,8009365,7,Anthony Abbatine,,,Sr,OF,-,,15001,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,8009369,21,Robert Nunez,,,So,P,-,,15001,10,10,,13.91,11.0,,18,18,17,10,8,,65,50,8,,1,3,3,4,,1,1,,1,160,8,15,,,,3,1
+20,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,8009368,19,Zach Frasher,,,Jr,P,6-3,R/R,15001,23,23,8,13.68,49.1,,86,78,75,48,38,,285,224,17,5,,14,9,5,,3,2,2,6,835,38,65,1,6,,8,
+21,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,8009366,4,Tyler DeClusin,,,Jr,OF,5-10,,15001,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,8009372,33,Jayden Asencio,,,Fr,C,5-10,,15001,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,8009371,26,Michael Diforte,,,Jr,P,-,,15001,21,21,1,8.49,29.2,,58,37,28,14,19,,162,144,8,3,2,1,5,3,,5,4,,1,442,31,32,,3,1,9,1
+24,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,8009374,42,"David Bernard, Jr.",,,Fr,1B,-,,15001,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,8009373,35,Johnny Behm,,,Fr,OF,5-10,R/R,15001,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,8009440,20,Ryan Seymour,,,Fr,P,-,,15001,19,19,1,17.56,34.1,,61,78,67,47,17,,218,158,9,1,3,9,4,9,1,11,4,1,1,589,40,41,1,1,1,2,
+27,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,8009436,5,Garrett Greco,,,So,INF,5-11,,15001,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,8009439,11,Rece Stapp,,,Jr,3B,-,,15001,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,2023,2022-23,MBA,617,Saint Peter's,1,I,MAAC,8009442,31,Austin Rohlfing,,,Jr,P,-,,15001,16,16,2,11.06,27.2,,45,37,34,15,11,,141,118,10,2,1,4,6,5,,6,3,,3,253,28,35,1,3,,5,1

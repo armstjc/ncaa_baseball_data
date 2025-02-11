@@ -1,0 +1,31 @@
+,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
+0,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,7825868,50,Tyler Nichol,,,Jr,P,5-9,B/R,15002,17,6,1,4,5,,1.000,,,17,,,,
+1,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,7825869,11,Giovanni Canales,,,Jr,P,6-1,,15002,16,2,1,7,9,1,0.889,,,4,1,,,
+2,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,7825870,55,Sebastien Sarabia,,,Jr,C,-,,15002,30,29,227,8,238,3,0.987,,,,,15,,
+3,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,7825873,4,Tim Ruffino,,,Jr,P,5-10,,15002,20,0,,5,5,,1.000,,,9,3,,,
+4,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,7825874,27,Mario Cuevas,,,Jr,OF,6-1,L/L,15002,4,1,2,,2,,1.000,,,,,,,
+5,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,7825875,21,John Neeld,,,Jr,P,6-1,,15002,5,0,,,0,,,,,2,1,,,
+6,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,7825876,8,Bruce Hilton,,,Jr,INF,-,,15002,17,3,5,7,12,,1.000,,,,,,,
+7,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,7825878,25,Mike Dorcean,,,Jr,C,5-11,R/R,15002,46,37,296,31,336,9,0.973,1,6,94,11,1,,3.500
+8,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,7825881,36,Nico Felber,,,Jr,P,6-0,,15002,21,2,,9,9,,1.000,,,10,,,,1.000
+9,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,7825883,2,Jordan Hamberg,,,Jr,P,6-1,L/L,15002,43,43,28,5,36,3,0.917,,,22,2,,,1.500
+10,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,7825884,9,Rashad Ruff,,,Jr,P,6-0,R/R,15002,24,0,1,7,8,,1.000,,,8,,,,1.000
+11,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,7825885,22,Toran Smith,,,Jr,INF,6-0,R/R,15002,10,5,2,3,5,,1.000,,,,,,,
+12,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,7825888,14,Marcos Herrand,,,So,P,-,,15002,14,14,2,11,14,1,0.929,,,26,2,,,1.000
+13,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,7825890,29,Corey Miley,,,Sr,INF,5-10,R/R,15002,36,27,38,44,85,3,0.965,,,,,6,,
+14,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,7825891,28,Brian Nicolas,,,Sr,INF,-,,15002,49,47,38,97,146,11,0.925,,,,,6,,
+15,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,7825892,6,Josh Hankins,,,So,INF,6-0,R/R,15002,50,49,83,110,197,4,0.980,,,,,22,,
+16,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,7825896,20,Justin Johnson,,,So,P,-,,15002,1,1,2,4,6,,1.000,,,,,,,
+17,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,8004774,15,Brody Black,,,Jr,OF,6-0,R/R,15002,50,45,93,1,97,3,0.969,,,,,,,
+18,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,8004785,99,Liam McCallum,,,So,P,6-2,L/L,15002,43,39,60,7,71,4,0.944,,,15,4,1,,
+19,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,8004770,1,Angel Colon,,,Fr,INF,5-11,R/R,15002,39,29,40,61,107,6,0.944,,,,,12,,
+20,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,8004775,13,Clay Thompson,,,Sr,P,6-1,L/L,15002,12,1,,2,2,,1.000,,,6,2,,,
+21,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,8004777,16,Sam Nieves,,,Jr,C,5-11,B/R,15002,28,19,94,7,105,4,0.962,1,4,25,2,,,
+22,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,8004779,17,Juan Pablo Hernandez,,,Fr,P,5-10,R/R,15002,7,1,2,1,3,,1.000,,,9,1,,,0.800
+23,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,8004781,19,Bryce Thompson,,,Fr,OF,6-0,R/R,15002,22,12,24,1,25,,1.000,,,,,,,
+24,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,8004782,23,Noah Murciano,,,Jr,C,6-3,L/R,15002,11,8,36,4,41,1,0.976,,6,22,3,,,0.800
+25,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,8004783,30,Keith Gardner,,,Fr,INF,6-1,R/R,15002,12,9,43,3,46,,1.000,,,,,4,,
+26,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,8004784,32,Christian Pareja,,,Fr,P,5-11,R/R,15002,10,7,,5,5,,1.000,,,13,2,,,
+27,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,8004771,3,Anthony Divittorio,,,So,INF,5-7,L/R,15002,29,13,13,1,14,,1.000,,,,,1,,
+28,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,8004772,5,Brett Curran,,,Jr,OF,5-10,L/L,15002,48,44,109,2,113,2,0.982,,,,,,,
+29,2023,2022-23,MBA,165,Coppin St.,1,I,NEC,8004773,7,Nathan Burdette,,,Jr,UT,5-9,R/R,15002,18,12,98,4,104,2,0.981,,,,,6,,

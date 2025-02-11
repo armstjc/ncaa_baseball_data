@@ -1,0 +1,21 @@
+,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+0,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8264300,27,Alex Seymour,,,Sr,P,6-0,L/L,15081,,14,,11.93,14.1,,29,27,19,8,12,,81,72,3,,,7,1,,,3,,,1,196,14,12,1,1,,3,1
+1,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8266945,22,Conor McSparran,,,Sr,P,6-0,R/R,15081,,7,5,9.86,21.0,,29,25,23,12,10,,111,90,10,,1,3,4,8,,,,,1,271,15,35,,1,,2,
+2,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8274195,5,Ryan Goff,,,Jr,INF,6-0,R/R,15081,,1,,0.00,0.2,,1,,,2,,,5,2,,,,,1,,,2,2,,1,21,,2,,,,,
+3,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8491344,30,Liam Samuels,,,Jr,UT,6-1,R/R,15081,,5,,40.50,3.1,,2,16,15,12,1,,31,13,,,,,4,5,,,,,1,48,,9,,1,,1,
+4,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8267344,16,Evan McDade,,,Jr,P,6-3,R/R,15081,,11,,7.67,27.0,,38,27,23,14,27,,139,119,9,2,,8,1,4,,3,3,1,1,283,20,34,1,,,7,
+5,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8272105,42,Elias Gordon,,,Jr,P,6-3,R/R,15081,,4,,15.75,4.0,,5,7,7,6,,,26,14,,,,1,,4,,3,1,,2,58,4,7,,,,,
+6,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8277479,35,Andrew Coursin,,,Jr,P,6-3,R/R,15081,,12,,2.84,19.0,,20,9,6,10,16,,91,70,4,1,,2,3,5,1,5,2,3,3,245,14,25,4,1,,4,
+7,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8265432,15,Ben Taylor,,,Sr,P,6-1,R/R,15081,,12,2,16.14,29.0,,62,56,52,13,21,,174,147,14,1,,13,4,11,2,1,,2,1,425,30,33,1,5,,11,1
+8,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8276060,20,Zane Loveday,,,So,P,6-6,L/L,15081,,10,9,4.54,35.2,,31,24,18,30,29,,173,133,5,,,4,6,8,,,,1,1,535,38,31,2,1,,10,
+9,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8259374,26,Grant Lowther,,,So,INF,6-0,R/R,15081,,1,,18.00,1.0,,4,2,2,1,1,,8,7,1,,,,,,,,,,,32,2,,,,,,
+10,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8285534,9,Logan McClure,,,Sr,P,5-10,R/R,15081,,14,10,5.28,58.0,2,60,36,34,19,49,,246,215,8,3,,7,3,4,,,,4,4,654,55,56,5,5,,17,
+11,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8284555,29,Andrew Manley,,,So,P,-,R/R,15081,,2,,67.50,1.1,,7,10,10,4,1,,16,11,1,,,3,,1,,,,,,34,1,2,,,,1,
+12,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8491337,33,Brycen Virgili,,,Jr,OF,6-0,R/R,15081,,6,,14.54,4.1,,4,8,7,2,,,25,15,2,,,,1,5,,,,,3,63,4,9,,,,,
+13,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8491342,32,Will Knight,,,So,1B,-,,15081,,13,12,9.00,57.0,1,78,61,57,27,38,1,297,243,19,3,4,4,1,19,,,,3,5,664,76,49,3,4,,15,
+14,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8491375,12,Connor Tingler,,,Fr,P,-,R/R,15081,,11,11,5.85,52.1,2,45,41,34,36,32,1,242,189,8,,3,6,5,8,,,,4,5,556,65,51,2,6,,11,
+15,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8491377,19,Will Hunt,,,So,P,-,R/R,15081,,5,,22.50,4.0,,9,10,10,8,3,,30,20,2,2,,1,1,1,1,2,2,1,,79,4,5,,1,,,
+16,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8491438,44,Nick George,,,Fr,UT,-,R/R,15081,,12,,9.24,12.2,,9,14,13,17,20,,66,48,,,,4,3,1,1,,,,,186,5,13,,1,,3,
+17,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8491426,31,Luke Emory,,,Jr,P,-,L/L,15081,,2,,3.86,2.1,,3,1,1,5,3,,14,9,,,,,,,,,,,,,2,1,,,,,1
+18,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8491428,36,Mac Schnur,,,Fr,P,-,R/R,15081,,10,,5.73,11.0,,11,9,7,5,10,,51,41,3,,,2,1,2,,1,,2,1,151,9,13,1,2,2,4,
+19,2024,2023-24,MBA,1076,Fairmont St.,2,II,MEC,8687783,17,Josh Gribble,,,Fr,p,-,,15081,,2,,13.50,2.2,,4,4,4,1,3,,14,11,1,,,1,,1,,,,,1,71,,5,,,,1,

@@ -1,0 +1,19 @@
+,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+0,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8273979,28,JD Greeley,,,Jr,INF,6-1,R/R,15081,,5,,19.29,2.1,,5,5,5,4,2,,16,12,1,,,1,,,,4,,,,59,1,4,1,,,,
+1,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8276842,34,Tommy Kent,,,So,P,6-2,L/L,15081,,7,,4.50,10.0,,8,6,5,9,8,,52,38,1,,,2,3,4,,7,5,1,,225,9,12,2,1,,2,
+2,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8262392,46,Jimmy Wigo,,,So,P,6-6,L/L,15081,,11,,9.37,16.1,,23,20,17,5,15,,79,67,4,,,3,2,3,,4,,3,1,230,13,19,1,1,,3,
+3,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8269614,40,Caden Carlin,,,So,P,6-2,L/L,15081,,9,1,8.74,11.1,,21,16,11,4,7,,61,53,3,2,,2,,2,,4,3,1,1,202,12,12,1,3,,1,1
+4,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8273559,55,David Horvath,,,So,P,6-2,R/R,15081,,1,,27.00,0.2,,1,5,2,2,1,,8,3,1,,,,1,2,,,,1,,,1,,,,,,
+5,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8280922,58,Nick Galvan,,,So,P,6-3,R/R,15081,,1,,,,,1,2,2,3,,,4,1,,,,,1,,,,,,,,,,,,,,
+6,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8286179,43,Nick Tamburro,,,Jr,P,6-2,R/R,15081,,8,6,5.23,31.0,,34,20,18,10,18,,135,121,6,3,1,3,1,2,,1,,,2,309,31,37,1,2,,4,
+7,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8418393,16,Kevin Opanel,,,Jr,P,6-3,R/R,15081,,14,12,4.84,70.2,,65,41,38,35,48,,315,263,8,,,12,7,13,,1,,4,,"1,068",64,85,3,5,,18,4
+8,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8418398,18,Colin Ruddy,,,So,P,6-4,R/R,15081,,14,,5.84,24.2,,30,17,16,13,23,,111,95,10,,1,6,5,,,9,5,1,2,390,13,31,2,2,1,7,2
+9,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8418404,20,Alec Couture,,,Jr,P,6-4,R/R,15081,,14,14,3.98,83.2,,84,48,37,28,65,,368,318,17,3,,7,9,15,,,,5,2,"1,269",85,82,3,4,,17,1
+10,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8418423,32,Jacob Ciccone,,,Sr,P,5-10,L/L,15081,,3,,15.00,3.0,,6,5,5,6,3,,23,14,2,,,,,2,,4,2,,1,84,4,2,,,,1,
+11,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8418425,37,Stefan Swee,,,Fr,P,6-2,R/R,15081,,6,,22.09,3.2,,4,9,9,7,2,,25,15,,,,,1,3,,5,3,,,81,3,6,,,,,
+12,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8418416,24,Josh Halcisak,,,Fr,P,5-11,R/R,15081,,9,,6.14,7.1,,12,5,5,9,6,,42,32,2,,,1,1,1,,9,5,,,123,5,9,,,,1,
+13,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8418413,21,Derek Benzinger,,,Jr,P,6-1,R/R,15081,,17,,4.26,25.1,,23,15,12,11,18,,114,96,5,1,,1,2,4,,16,7,1,2,388,25,31,2,3,5,4,
+14,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8418429,48,Nick Hios,,,Fr,P,6-3,R/L,15081,,4,,9.00,5.0,,7,5,5,4,4,,26,20,1,,,1,,1,,4,1,,1,87,4,6,,,,2,
+15,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8408308,42,Drew Helmstetter,,,Sr,P,5-10,L/L,15081,,14,14,4.57,82.2,,81,52,42,25,59,,351,309,18,,1,10,3,10,,,,4,3,"1,158",96,75,2,5,,17,2
+16,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8408306,27,Dante Ciaramella,,,Sr,P,5-11,R/R,15081,,13,1,7.36,25.2,,27,21,21,14,21,,117,98,10,,,5,5,4,,3,3,,1,391,15,36,,3,1,8,
+17,2024,2023-24,MBA,439,Monmouth,1,I,CAA,8408307,35,Jake Fraher,,,Sr,P,5-11,R/R,15081,,15,,7.20,15.0,,21,16,12,7,12,,75,58,5,,,3,1,5,,10,2,4,1,221,20,9,,1,,2,1
