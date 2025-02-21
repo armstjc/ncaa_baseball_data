@@ -1,36 +1,36 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-0,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989289,12,Sam Swygert,,,Fr,P,6-1,,15002,17,12,6,6,15,3,0.800,,,2,5,1,,
-1,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989290,19,Tyler Jones,,,Sr,P,-,,15002,8,1,,,0,,,,,5,,,,1.000
-2,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989316,28,Aryan Patel,,,Fr,UT,6-0,,15002,6,1,1,2,3,,1.000,,,,,1,,
-3,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825707,6,Anthony Badala,,,Jr,INF,-,,15002,39,30,49,9,59,1,0.983,,,,,2,,
-4,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825708,15,Cameron Reeves,,,Sr,P,-,,15002,14,14,8,9,17,,1.000,,,11,1,1,,2.000
-5,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825709,4,Will Bastain,,,Sr,P,-,,15002,12,1,,2,2,,1.000,,,1,1,,,1.000
-6,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825713,39,Chace Cooper,,,Jr,P,-,,15002,12,0,1,1,2,,1.000,,,1,1,,,
-7,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825714,14,Travis Lott,,,Jr,C,6-1,,15002,54,54,390,20,415,5,0.988,,5,41,11,5,,4.417
-8,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825715,10,Crosby Jones,,,Jr,INF,-,,15002,45,39,63,1,64,,1.000,,,,,,,
-9,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825716,40,Gray Sobel,,,Jr,C,-,,15002,5,0,2,,2,,1.000,,,,,,,
-10,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825717,32,Noah Mitchell,,,Jr,INF,-,,15002,53,53,289,36,334,9,0.973,,,,,30,,
-11,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825720,3,Luke Montenery,,,Jr,UT,-,,15002,33,24,46,1,48,1,0.979,,,,,,,
-12,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825721,24,Gant Starling,,,Jr,P,-,,15002,23,2,,3,4,1,0.750,,,3,3,,,
-13,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825722,22,Chase Loggins,,,Fr,OF,6-2,R/R,15002,26,14,10,1,11,,1.000,,,,,,,
-14,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825723,38,Conner Cummiskey,,,Jr,P,5-10,,15002,23,2,1,3,4,,1.000,,,7,,,,1.000
-15,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825725,29,Clay Wilson,,,Jr,OF,-,,15002,19,2,8,,8,,1.000,,,,,,,
-16,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825727,30,Luke Kissenberth,,,Jr,P,6-2,,15002,2,0,,,0,,,,,,,,,
-17,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825728,9,Ben Hutchins,,,Jr,P,6-1,,15002,10,10,2,7,9,,1.000,,,6,1,,,
-18,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825729,25,Antonio Colon,,,Jr,INF,5-10,,15002,2,0,,,0,,,,,,,,,
-19,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825731,20,Travis Elliott,,,Jr,INF,5-9,,15002,45,41,59,79,140,2,0.986,,,,,13,,
-20,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825732,37,Simon Graf,,,Jr,P,-,,15002,2,0,,,0,,,,,,,,,
-21,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825734,5,Sawyer Reeves,,,Jr,INF,6-3,,15002,54,54,62,133,202,7,0.965,,,,,28,,
-22,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825738,0,Wells Sykes,,,So,OF,5-9,R/R,15002,51,51,144,3,147,,1.000,,,,,3,,
-23,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825740,8,Garrett Dill,,,So,INF,5-11,R/R,15002,27,14,61,2,63,,1.000,,,,,8,,
-24,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825742,1,Dylan Costa,,,Sr,INF,-,,15002,41,33,60,80,144,4,0.972,,,,,19,,
-25,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825743,13,George Derek Floyd,,,So,P,5-10,L/R,15002,21,3,1,9,11,1,0.909,,,2,,,,
-26,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825744,17,Fisher Paulsen,,,So,P,6-1,L/L,15002,10,3,,1,2,1,0.500,,,1,,,,1.000
-27,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825745,23,Will Holmes,,,So,UT,6-0,L/L,15002,20,5,2,5,9,2,0.778,,,5,,,,
-28,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989274,2,Thomas Rollauer,,,Fr,INF,5-10,,15002,52,52,46,44,99,9,0.909,,,,,4,,
-29,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989320,44,Yates Bland,,,Fr,P,6-5,,15002,13,1,,2,2,,1.000,,,4,,,,
-30,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989321,36,Brandon Gielow,,,Jr,P,-,,15002,2,0,,,0,,,,,,,,,
-31,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989291,35,Ethan Fewell,,,So,P,6-3,,15002,16,0,1,1,2,,1.000,,,2,,,,
-32,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989299,18,Matthew Lively,,,Fr,OF,6-3,R/R,15002,30,20,50,1,53,2,0.962,,,,,,,
-33,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989311,21,Phillips Daniels,,,Fr,INF,6-0,,15002,14,4,37,1,39,1,0.974,1,1,11,,,,1.000
-34,2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989338,33,CJ Van Slooten,,,Fr,P,6-6,,15002,11,0,,2,2,,1.000,,,3,,,,1.000
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989289,12,Sam Swygert,,,Fr,P,6-1,,15002,17,12,6,6,15,3,0.800,,,2,5,1,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989290,19,Tyler Jones,,,Sr,P,-,,15002,8,1,,,0,,,,,5,,,,1.000
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989316,28,Aryan Patel,,,Fr,UT,6-0,,15002,6,1,1,2,3,,1.000,,,,,1,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825707,6,Anthony Badala,,,Jr,INF,-,,15002,39,30,49,9,59,1,0.983,,,,,2,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825708,15,Cameron Reeves,,,Sr,P,-,,15002,14,14,8,9,17,,1.000,,,11,1,1,,2.000
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825709,4,Will Bastain,,,Sr,P,-,,15002,12,1,,2,2,,1.000,,,1,1,,,1.000
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825713,39,Chace Cooper,,,Jr,P,-,,15002,12,0,1,1,2,,1.000,,,1,1,,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825714,14,Travis Lott,,,Jr,C,6-1,,15002,54,54,390,20,415,5,0.988,,5,41,11,5,,4.417
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825715,10,Crosby Jones,,,Jr,INF,-,,15002,45,39,63,1,64,,1.000,,,,,,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825716,40,Gray Sobel,,,Jr,C,-,,15002,5,0,2,,2,,1.000,,,,,,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825717,32,Noah Mitchell,,,Jr,INF,-,,15002,53,53,289,36,334,9,0.973,,,,,30,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825720,3,Luke Montenery,,,Jr,UT,-,,15002,33,24,46,1,48,1,0.979,,,,,,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825721,24,Gant Starling,,,Jr,P,-,,15002,23,2,,3,4,1,0.750,,,3,3,,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825722,22,Chase Loggins,,,Fr,OF,6-2,R/R,15002,26,14,10,1,11,,1.000,,,,,,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825723,38,Conner Cummiskey,,,Jr,P,5-10,,15002,23,2,1,3,4,,1.000,,,7,,,,1.000
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825725,29,Clay Wilson,,,Jr,OF,-,,15002,19,2,8,,8,,1.000,,,,,,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825727,30,Luke Kissenberth,,,Jr,P,6-2,,15002,2,0,,,0,,,,,,,,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825728,9,Ben Hutchins,,,Jr,P,6-1,,15002,10,10,2,7,9,,1.000,,,6,1,,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825729,25,Antonio Colon,,,Jr,INF,5-10,,15002,2,0,,,0,,,,,,,,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825731,20,Travis Elliott,,,Jr,INF,5-9,,15002,45,41,59,79,140,2,0.986,,,,,13,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825732,37,Simon Graf,,,Jr,P,-,,15002,2,0,,,0,,,,,,,,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825734,5,Sawyer Reeves,,,Jr,INF,6-3,,15002,54,54,62,133,202,7,0.965,,,,,28,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825738,0,Wells Sykes,,,So,OF,5-9,R/R,15002,51,51,144,3,147,,1.000,,,,,3,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825740,8,Garrett Dill,,,So,INF,5-11,R/R,15002,27,14,61,2,63,,1.000,,,,,8,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825742,1,Dylan Costa,,,Sr,INF,-,,15002,41,33,60,80,144,4,0.972,,,,,19,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825743,13,George Derek Floyd,,,So,P,5-10,L/R,15002,21,3,1,9,11,1,0.909,,,2,,,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825744,17,Fisher Paulsen,,,So,P,6-1,L/L,15002,10,3,,1,2,1,0.500,,,1,,,,1.000
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7825745,23,Will Holmes,,,So,UT,6-0,L/L,15002,20,5,2,5,9,2,0.778,,,5,,,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989274,2,Thomas Rollauer,,,Fr,INF,5-10,,15002,52,52,46,44,99,9,0.909,,,,,4,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989320,44,Yates Bland,,,Fr,P,6-5,,15002,13,1,,2,2,,1.000,,,4,,,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989321,36,Brandon Gielow,,,Jr,P,-,,15002,2,0,,,0,,,,,,,,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989291,35,Ethan Fewell,,,So,P,6-3,,15002,16,0,1,1,2,,1.000,,,2,,,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989299,18,Matthew Lively,,,Fr,OF,6-3,R/R,15002,30,20,50,1,53,2,0.962,,,,,,,
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989311,21,Phillips Daniels,,,Fr,INF,6-0,,15002,14,4,37,1,39,1,0.974,1,1,11,,,,1.000
+2023,2022-23,MBA,141,The Citadel,1,I,SoCon,7989338,33,CJ Van Slooten,,,Fr,P,6-6,,15002,11,0,,2,2,,1.000,,,3,,,,1.000

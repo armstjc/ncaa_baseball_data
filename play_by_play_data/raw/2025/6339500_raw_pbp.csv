@@ -1,83 +1,83 @@
-game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,1,top,J. Elizondo singled to right field.,1,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,1,top,G. Brooks struck out swinging3a J. Elizondo stole second.,2,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,1,top,B. Concannon walked.,3,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,1,top,E. Parrish reached first on an error by lf3a B. Concannon advanced to second3a J. Elizondo advanced to third.,4,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,1,top,"J. King doubled to left center, 2 RBI3a E. Parrish advanced to third3a B. Concannon scored3a J. Elizondo scored.",5,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,1,top,"T. Guajardo flied out to lf, sacrifice fly, RBI3a E. Parrish scored.",6,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,1,top,C. Keller struck out looking.,7,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,1,bot,E. Laus struck out swinging.,8,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,1,bot,T. Migl out at first 1b to p.,9,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,1,bot,H. Jones walked.,10,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,1,bot,"M. Adair homered, 2 RBI3a H. Jones scored.",11,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,1,bot,J. Spencer flied out to cf.,12,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,2,top,"H. Heller struck out swinging, reached first on a wild pitch.",13,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,2,top,"J. Cuevas grounded out to 3b, SAC3a H. Heller advanced to second.",14,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,2,top,J. Elizondo popped up to 2b.,15,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,2,top,G. Brooks struck out swinging.,16,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,S. Laird walked.,17,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,"S. Laird advanced to second on an error by p, advanced to third.",18,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,C. Gregory walked.,19,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,"C. Gregory out at second p to 2b, caught stealing.",20,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,"R. Thomas singled to right field, RBI3a S. Laird scored.",21,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,"J. Liebbe reached first on a throwing error by 3b, advanced to third, RBI3a R. Thomas scored, unearned.",22,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,"E. Laus singled through the right side, RBI3a J. Liebbe scored, unearned.",23,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,T. Migl flied out to lf.,24,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,"E. Laus stole second, advanced to third on an error by 2b.",25,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,H. Jones grounded out to 2b.,26,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,3,top,B. Concannon struck out looking.,27,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,3,top,E. Parrish struck out swinging.,28,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,3,top,J. King grounded out to ss.,29,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,M. Adair walked.,30,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,J. Spencer lined out to 2b.,31,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,"M. Adair out at second p to 2b, caught stealing.",32,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,S. Laird singled through the left side.,33,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,C. Gregory walked3a S. Laird advanced to second.,34,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,"R. Thomas tripled to center field, 2 RBI3a C. Gregory scored3a S. Laird scored.",35,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,C. Molinar to p for K. Gauna.,36,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,J. Liebbe walked.,37,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,J. Liebbe stole second.,38,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,E. Laus struck out swinging.,39,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,4,top,T. Guajardo singled to center field.,40,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,4,top,C. Keller popped up to ss.,41,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,4,top,H. Heller singled through the right side3a T. Guajardo advanced to second.,42,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,4,top,J. Cuevas grounded into double play ss to 2b to 1b3a H. Heller out on the play.,43,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,4,bot,T. Migl grounded out to 2b.,44,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,4,bot,H. Jones walked.,45,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,4,bot,M. Adair flied out to cf.,46,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,4,bot,J. Spencer walked3a H. Jones advanced to second.,47,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,4,bot,S. Laird grounded out to p.,48,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,J. Elizondo reached first on a throwing error by ss.,49,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,G. Brooks struck out swinging.,50,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,J. Elizondo advanced to second on a wild pitch.,51,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,"B. Concannon singled through the left side, RBI3a J. Elizondo scored, unearned.",52,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,B. Concannon advanced to second on a wild pitch.,53,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,E. Parrish hit by pitch.,54,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,B. Concannon stole third.,55,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,J. King reached on a fielder's choice3a E. Parrish advanced to second3a B. Concannon out at home 3b to c.,56,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,T. Guajardo struck out swinging.,57,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,C. Gregory doubled to left center.,58,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,R. Thomas singled through the left side3a C. Gregory advanced to third.,59,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,J. Liebbe popped up to lf.,60,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,E. Laus hit by pitch3a R. Thomas advanced to second.,61,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,T. Migl walked3a E. Laus advanced to second3a R. Thomas advanced to third3a C. Gregory scored.,62,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,H. Jones struck out looking.,63,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,M. Bustamant to p for C. Molinar.,64,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,M. Adair walked3a T. Migl advanced to second3a E. Laus advanced to third3a R. Thomas scored.,65,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,J. Spencer walked3a M. Adair advanced to second3a T. Migl advanced to third3a E. Laus scored.,66,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,S. Laird walked3a J. Spencer advanced to second3a M. Adair advanced to third3a T. Migl scored.,67,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,Bra. Brown to p for M. Bustamant.,68,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,"C. Gregory tripled to left center, 3 RBI3a S. Laird scored3a J. Spencer scored3a M. Adair scored.",69,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,R. Thomas popped up to 2b.,70,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,6,top,T. Copeland to p for C. Jones.,71,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,6,top,C. Keller struck out swinging.,72,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,6,top,H. Heller struck out swinging.,73,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,6,top,J. Cuevas struck out swinging.,74,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,6,bot,J. Liebbe singled through the right side.,75,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,6,bot,E. Laus struck out swinging.,76,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,6,bot,T. Migl struck out swinging.,77,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,6,bot,H. Jones walked3a J. Liebbe advanced to second.,78,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,6,bot,"M. Adair reached on a fielder's choice3a H. Jones advanced to second3a J. Liebbe advanced to third, out at home 2b to c.",79,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,7,top,J. Elizondo struck out swinging.,80,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,7,top,G. Brooks struck out swinging.,81,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
-6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,7,top,B. Concannon popped up to c.,82,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,1,top,J. Elizondo singled to right field.,1,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,1,top,G. Brooks struck out swinging3a J. Elizondo stole second.,2,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,1,top,B. Concannon walked.,3,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,1,top,E. Parrish reached first on an error by lf3a B. Concannon advanced to second3a J. Elizondo advanced to third.,4,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,1,top,"J. King doubled to left center, 2 RBI3a E. Parrish advanced to third3a B. Concannon scored3a J. Elizondo scored.",5,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,1,top,"T. Guajardo flied out to lf, sacrifice fly, RBI3a E. Parrish scored, unearned.",6,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,1,top,C. Keller struck out looking.,7,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,1,bot,E. Laus struck out swinging.,8,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,1,bot,T. Migl out at first 1b to p.,9,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,1,bot,H. Jones walked.,10,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,1,bot,"M. Adair homered, 2 RBI3a H. Jones scored.",11,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,1,bot,J. Spencer flied out to cf.,12,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,2,top,"H. Heller struck out swinging, reached first on a wild pitch.",13,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,2,top,"J. Cuevas grounded out to 3b, SAC3a H. Heller advanced to second.",14,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,2,top,J. Elizondo popped up to 2b.,15,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,2,top,G. Brooks struck out swinging.,16,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,S. Laird walked.,17,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,"S. Laird advanced to second on an error by 1b, failed pickoff attempt, advanced to third on the error.",18,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,C. Gregory walked.,19,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,"C. Gregory out at second c to ss, caught stealing.",20,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,"R. Thomas singled to right field, RBI3a S. Laird scored.",21,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,"J. Liebbe reached first on a throwing error by 3b, advanced to third, RBI3a R. Thomas scored, unearned.",22,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,"E. Laus singled through the right side, RBI3a J. Liebbe scored, unearned.",23,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,T. Migl flied out to lf.,24,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,"E. Laus stole second, advanced to third on an error by 2b.",25,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,2,bot,H. Jones grounded out to 2b.,26,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,3,top,B. Concannon struck out looking.,27,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,3,top,E. Parrish struck out swinging.,28,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,3,top,J. King grounded out to ss.,29,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,M. Adair walked.,30,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,J. Spencer lined out to 2b.,31,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,"M. Adair out at second p to 2b, caught stealing.",32,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,S. Laird singled through the left side.,33,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,C. Gregory walked3a S. Laird advanced to second.,34,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,"R. Thomas tripled to center field, 2 RBI3a C. Gregory scored3a S. Laird scored.",35,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,C. Molinar to p for K. Gauna.,36,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,J. Liebbe walked.,37,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,J. Liebbe stole second.,38,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,3,bot,E. Laus struck out swinging.,39,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,4,top,T. Guajardo singled to center field.,40,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,4,top,C. Keller popped up to ss.,41,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,4,top,H. Heller singled through the right side3a T. Guajardo advanced to second.,42,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,4,top,J. Cuevas grounded into double play ss to 2b to 1b3a H. Heller out on the play.,43,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,4,bot,T. Migl grounded out to 2b.,44,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,4,bot,H. Jones walked.,45,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,4,bot,M. Adair flied out to cf.,46,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,4,bot,J. Spencer walked3a H. Jones advanced to second.,47,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,4,bot,S. Laird grounded out to p.,48,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,J. Elizondo reached first on a throwing error by ss.,49,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,G. Brooks struck out swinging.,50,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,J. Elizondo advanced to second on a wild pitch.,51,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,"B. Concannon singled through the left side, RBI3a J. Elizondo scored, unearned.",52,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,B. Concannon advanced to second on a wild pitch.,53,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,E. Parrish hit by pitch.,54,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,B. Concannon stole third.,55,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,J. King reached on a fielder's choice3a E. Parrish advanced to second3a B. Concannon out at home 3b to c.,56,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,5,top,T. Guajardo struck out swinging.,57,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,C. Gregory doubled to left center.,58,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,R. Thomas singled through the left side3a C. Gregory advanced to third.,59,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,J. Liebbe popped up to lf.,60,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,E. Laus hit by pitch3a R. Thomas advanced to second.,61,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,"T. Migl walked, RBI3a E. Laus advanced to second3a R. Thomas advanced to third3a C. Gregory scored.",62,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,H. Jones struck out looking.,63,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,M. Bustamant to p for C. Molinar.,64,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,"M. Adair walked, RBI3a T. Migl advanced to second3a E. Laus advanced to third3a R. Thomas scored.",65,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,"J. Spencer walked, RBI3a M. Adair advanced to second3a T. Migl advanced to third3a E. Laus scored.",66,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,"S. Laird walked, RBI3a J. Spencer advanced to second3a M. Adair advanced to third3a T. Migl scored.",67,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,Bra. Brown to p for M. Bustamant.,68,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,"C. Gregory tripled to left center, 3 RBI3a S. Laird scored3a J. Spencer scored3a M. Adair scored.",69,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,5,bot,R. Thomas popped up to 2b.,70,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,6,top,T. Copeland to p for C. Jones.,71,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,6,top,C. Keller struck out swinging.,72,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,6,top,H. Heller struck out swinging.,73,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,6,top,J. Cuevas struck out swinging.,74,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,6,bot,J. Liebbe singled through the right side.,75,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,6,bot,E. Laus struck out swinging.,76,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,6,bot,T. Migl struck out swinging.,77,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,6,bot,H. Jones walked3a J. Liebbe advanced to second.,78,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596833,6,bot,"M. Adair singled to second base3a H. Jones advanced to second3a J. Liebbe advanced to third, out at home 2b to c.",79,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,7,top,J. Elizondo struck out swinging.,80,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,7,top,G. Brooks struck out swinging.,81,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025
+6339500,596748,St. Mary's (TX) Rattlers,596833,Okla. Christian Eagles,596748,7,top,B. Concannon popped up to c.,82,2025-02-07T00:00:00-05:00,"Dobson Field (Edmond, OK)",150,MBA,2025

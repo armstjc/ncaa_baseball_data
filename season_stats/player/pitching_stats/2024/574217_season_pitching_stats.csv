@@ -1,20 +1,20 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8265594,39,Carlos Tumpkin,,,Sr,P,6-2,R/R,15081,,2,,4.50,2.0,,1,1,1,2,1,,10,5,,,,,1,2,,,,,1,,,4,,,,1,
-1,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8263404,51,Oliver Brown,,,So,P,6-0,L/L,15081,,6,,15.63,6.1,,6,11,11,17,6,,40,23,1,,,2,2,,,2,2,,,75,6,5,,,,1,
-2,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8277884,36,Jerry Burkett II,,,Sr,P,6-2,L/L,15081,,15,1,6.61,31.1,,37,26,23,19,30,,153,119,7,,,10,2,10,,4,1,3,2,108,22,34,1,1,3,5,
-3,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8269019,43,Nyle Banks,,,Jr,P,5-11,R/R,15081,,6,,6.43,7.0,,8,10,5,9,6,,37,28,4,,,1,1,,,8,7,,,24,4,9,,,,3,
-4,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8262173,0,Nick Luckett,,,Jr,P,5-10,R/R,15081,,10,7,10.54,27.1,,40,35,32,16,22,,142,119,13,2,1,5,5,4,,2,2,3,,198,24,33,1,4,,10,1
-5,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8266024,22,Ranard Grace,,,So,P,5-11,L/L,15081,,9,9,6.28,53.0,1,66,43,37,18,53,,242,213,10,2,,6,4,5,,,,4,2,353,36,47,3,3,,10,2
-6,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8267265,27,Perry Kyles,,,Jr,P,6-1,R/R,15081,,6,,23.40,5.0,,7,13,13,9,5,,33,19,1,1,,1,3,3,,2,,,2,71,4,5,,,,2,
-7,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8267391,12,Christian Davis,,,Sr,P,-,L/L,15081,,17,,4.54,33.2,,32,19,17,10,37,,145,128,6,1,,4,1,2,,12,3,4,1,85,31,29,1,4,2,9,
-8,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8270691,30,Drew Lasseigne,,,Sr,P,6-5,R/R,15081,,14,14,6.18,71.1,,103,60,49,23,63,,340,307,20,,1,7,,6,,,,2,2,62,62,71,5,5,,12,2
-9,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8273459,34,DeOnte Dotson,,,Sr,P,6-4,L/L,15081,,3,,12.00,3.0,,4,4,4,3,3,,16,12,1,,,1,,,,1,1,,1,33,3,3,,,,1,
-10,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8285262,40,Caleb Washington,,,Sr,P,5-10,L/L,15081,,9,1,9.49,12.1,,21,17,13,11,15,,68,53,5,1,,1,1,1,,10,6,,3,86,11,9,1,,,2,
-11,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8280810,50,Jaden Brasseaux,,,Sr,P,5-9,R/R,15081,,17,3,6.61,31.1,,42,31,23,18,23,,168,133,10,5,,2,6,11,,16,11,1,5,214,26,40,,5,1,8,
-12,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8283488,19,Rashard Grace,,,Jr,C,5-11,R/R,15081,,6,6,5.30,35.2,1,41,23,21,16,33,,164,144,7,2,,3,3,2,,,,2,,,33,35,4,,,12,
-13,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8287841,35,Ryan Sadie,,,So,C,5-11,R/R,15081,,1,,0.00,2.1,,0,,,1,1,,8,6,,,,,,1,,1,,,,,2,3,,,,1,
-14,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8282590,10,Antione Harris,,,Sr,P,6-4,R/R,15081,,14,4,12.35,31.1,,48,53,43,33,25,,185,144,11,1,1,2,11,6,,8,7,1,1,438,39,27,2,3,,8,
-15,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8596193,26,Joseph Semien,,,Jr,p,6-1,,15081,,9,4,5.83,29.1,,34,30,19,18,38,,144,119,3,,,3,3,3,,2,1,2,2,104,25,21,2,2,,10,1
-16,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8597659,17,Genesis Prosper,,,Fr,p,6-2,,15081,,12,2,12.71,22.2,,40,43,32,17,14,,130,102,9,1,,2,4,4,2,9,6,3,4,170,22,26,2,1,,4,1
-17,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8658176,18,Charles Green,,,Fr,P,6-2,R/R,15081,,6,,12.00,6.0,,8,9,8,6,8,,34,27,1,,2,2,1,1,,1,1,,,61,5,5,,,,3,
-18,2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8683478,39,Peyton Huff,,,Fr,1B,6-1,,15081,,12,,12.10,9.2,,9,19,13,17,8,,55,35,2,1,,,4,2,,2,1,,1,59,8,8,,1,,1,
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8265594,39,Carlos Tumpkin,,,Sr,P,6-2,R/R,15081,,2,,4.50,2.0,,1,1,1,2,1,,10,5,,,,,1,2,,,,,1,,,4,,,,1,
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8263404,51,Oliver Brown,,,So,P,6-0,L/L,15081,,6,,15.63,6.1,,6,11,11,17,6,,40,23,1,,,2,2,,,2,2,,,75,6,5,,,,1,
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8277884,36,Jerry Burkett II,,,Sr,P,6-2,L/L,15081,,15,1,6.61,31.1,,37,26,23,19,30,,153,119,7,,,10,2,10,,4,1,3,2,108,22,34,1,1,3,5,
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8269019,43,Nyle Banks,,,Jr,P,5-11,R/R,15081,,6,,6.43,7.0,,8,10,5,9,6,,37,28,4,,,1,1,,,8,7,,,24,4,9,,,,3,
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8262173,0,Nick Luckett,,,Jr,P,5-10,R/R,15081,,10,7,10.54,27.1,,40,35,32,16,22,,142,119,13,2,1,5,5,4,,2,2,3,,198,24,33,1,4,,10,1
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8266024,22,Ranard Grace,,,So,P,5-11,L/L,15081,,9,9,6.28,53.0,1,66,43,37,18,53,,242,213,10,2,,6,4,5,,,,4,2,353,36,47,3,3,,10,2
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8267265,27,Perry Kyles,,,Jr,P,6-1,R/R,15081,,6,,23.40,5.0,,7,13,13,9,5,,33,19,1,1,,1,3,3,,2,,,2,71,4,5,,,,2,
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8267391,12,Christian Davis,,,Sr,P,-,L/L,15081,,17,,4.54,33.2,,32,19,17,10,37,,145,128,6,1,,4,1,2,,12,3,4,1,85,31,29,1,4,2,9,
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8270691,30,Drew Lasseigne,,,Sr,P,6-5,R/R,15081,,14,14,6.18,71.1,,103,60,49,23,63,,340,307,20,,1,7,,6,,,,2,2,62,62,71,5,5,,12,2
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8273459,34,DeOnte Dotson,,,Sr,P,6-4,L/L,15081,,3,,12.00,3.0,,4,4,4,3,3,,16,12,1,,,1,,,,1,1,,1,33,3,3,,,,1,
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8285262,40,Caleb Washington,,,Sr,P,5-10,L/L,15081,,9,1,9.49,12.1,,21,17,13,11,15,,68,53,5,1,,1,1,1,,10,6,,3,86,11,9,1,,,2,
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8280810,50,Jaden Brasseaux,,,Sr,P,5-9,R/R,15081,,17,3,6.61,31.1,,42,31,23,18,23,,168,133,10,5,,2,6,11,,16,11,1,5,214,26,40,,5,1,8,
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8283488,19,Rashard Grace,,,Jr,C,5-11,R/R,15081,,6,6,5.30,35.2,1,41,23,21,16,33,,164,144,7,2,,3,3,2,,,,2,,,33,35,4,,,12,
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8287841,35,Ryan Sadie,,,So,C,5-11,R/R,15081,,1,,0.00,2.1,,0,,,1,1,,8,6,,,,,,1,,1,,,,,2,3,,,,1,
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8282590,10,Antione Harris,,,Sr,P,6-4,R/R,15081,,14,4,12.35,31.1,,48,53,43,33,25,,185,144,11,1,1,2,11,6,,8,7,1,1,438,39,27,2,3,,8,
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8596193,26,Joseph Semien,,,Jr,p,6-1,,15081,,9,4,5.83,29.1,,34,30,19,18,38,,144,119,3,,,3,3,3,,2,1,2,2,104,25,21,2,2,,10,1
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8597659,17,Genesis Prosper,,,Fr,p,6-2,,15081,,12,2,12.71,22.2,,40,43,32,17,14,,130,102,9,1,,2,4,4,2,9,6,3,4,170,22,26,2,1,,4,1
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8658176,18,Charles Green,,,Fr,P,6-2,R/R,15081,,6,,12.00,6.0,,8,9,8,6,8,,34,27,1,,2,2,1,1,,1,1,,,61,5,5,,,,3,
+2024,2023-24,MBA,665,Southern U.,1,I,SWAC,8683478,39,Peyton Huff,,,Fr,1B,6-1,,15081,,12,,12.10,9.2,,9,19,13,17,8,,55,35,2,1,,,4,2,,2,1,,1,59,8,8,,1,,1,

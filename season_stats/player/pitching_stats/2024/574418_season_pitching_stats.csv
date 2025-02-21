@@ -1,17 +1,17 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8271504,31,Derek Lilledahl,,,Jr,P,6-2,R/R,15081,,12,,5.52,14.2,,21,10,9,5,11,,71,62,4,,,1,1,1,,4,3,1,2,147,15,17,,,,3,
-1,2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8274172,12,Spencer Wright,,,Jr,P,6-2,R/R,15081,,16,10,4.19,62.1,,63,39,29,29,55,,282,241,8,3,,10,7,3,,5,1,5,4,570,54,70,5,3,,9,
-2,2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8273003,36,Ryan Friedges,,,Sr,INF,6-2,R/R,15081,,1,,0.00,1.0,,2,,,0,,,5,5,,,,,,,,,,,,,2,1,,,,,
-3,2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8274233,39,Mack Crowley,,,So,P,6-3,R/R,15081,,12,7,5.45,33.0,,44,21,20,10,29,,148,135,6,,,5,,,,,,2,1,364,31,32,2,1,,9,1
-4,2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8269459,30,Mitch Gutknecht,,,Jr,P,6-2,L/L,15081,,18,6,4.34,64.1,1,63,33,31,19,74,,273,247,12,3,2,7,1,3,,7,3,2,2,706,56,56,4,3,2,27,1
-5,2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8272280,32,Aiden McGee,,,So,P,6-4,R/R,15081,,10,,13.94,10.1,,18,16,16,8,13,,57,47,5,,1,3,2,,,,,,2,154,10,6,1,1,,6,
-6,2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8284475,14,Louis Magers,,,So,P,6-5,L/R,15081,,10,10,4.32,41.2,,41,28,20,23,31,,197,162,5,2,,1,9,8,,,,2,1,471,59,31,3,2,,13,2
-7,2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8279659,38,Taisei Yahiro,,,Sr,P,6-2,L/L,15081,,16,3,8.46,22.1,,24,22,21,22,25,,119,90,5,1,1,2,4,6,,3,,,1,216,19,20,,1,,4,1
-8,2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8280952,29,Ethan Stade,,,So,P,6-4,L/L,15081,,15,,6.14,22.0,,31,15,15,7,25,,105,93,4,,,1,,2,,14,8,1,2,359,18,22,1,1,1,8,1
-9,2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8281094,20,Sean Gamble,,,Sr,P,6-0,R/R,15081,,19,,4.78,32.0,,35,26,17,17,30,,150,125,3,,,5,2,6,,6,5,1,1,331,33,26,6,1,,13,1
-10,2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8278931,19,Ben Irsfeld,,,So,P,5-10,R/R,15081,,8,1,3.00,15.0,,13,5,5,5,16,,62,55,3,,,3,,1,,,,,1,147,8,19,1,,,4,
-11,2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8281439,34,Tanner Shumski,,,So,P,6-1,R/R,15081,,12,,6.19,16.0,,22,12,11,4,13,,76,69,5,,,3,1,2,,7,4,,1,127,18,15,3,,,3,
-12,2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8596972,23,Sam George,,,Fr,p,-,,15081,,14,6,3.95,41.0,,31,21,18,16,44,,166,147,7,,,5,1,,,,,2,1,465,36,38,2,2,,16,
-13,2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8596973,26,Aiden Hansen,,,Fr,p,-,,15081,,7,,9.95,6.1,,8,8,7,6,7,,37,27,2,,1,1,,4,,,,,,93,6,5,,,,4,
-14,2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8593172,16,UNKNOWN Matthaidess,,,Jr,p,-,,15081,,13,5,7.91,33.0,,37,30,29,18,17,,159,130,8,,,5,3,7,,4,1,2,2,314,35,42,3,2,,2,1
-15,2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8593171,10,C. Haugen,,,Fr,p,-,,15081,,16,9,7.04,47.1,,49,37,37,22,48,,213,183,6,1,1,10,4,6,,6,1,1,1,527,31,56,6,3,,13,1
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8271504,31,Derek Lilledahl,,,Jr,P,6-2,R/R,15081,,12,,5.52,14.2,,21,10,9,5,11,,71,62,4,,,1,1,1,,4,3,1,2,147,15,17,,,,3,
+2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8274172,12,Spencer Wright,,,Jr,P,6-2,R/R,15081,,16,10,4.19,62.1,,63,39,29,29,55,,282,241,8,3,,10,7,3,,5,1,5,4,570,54,70,5,3,,9,
+2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8273003,36,Ryan Friedges,,,Sr,INF,6-2,R/R,15081,,1,,0.00,1.0,,2,,,0,,,5,5,,,,,,,,,,,,,2,1,,,,,
+2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8274233,39,Mack Crowley,,,So,P,6-3,R/R,15081,,12,7,5.45,33.0,,44,21,20,10,29,,148,135,6,,,5,,,,,,2,1,364,31,32,2,1,,9,1
+2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8269459,30,Mitch Gutknecht,,,Jr,P,6-2,L/L,15081,,18,6,4.34,64.1,1,63,33,31,19,74,,273,247,12,3,2,7,1,3,,7,3,2,2,706,56,56,4,3,2,27,1
+2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8272280,32,Aiden McGee,,,So,P,6-4,R/R,15081,,10,,13.94,10.1,,18,16,16,8,13,,57,47,5,,1,3,2,,,,,,2,154,10,6,1,1,,6,
+2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8284475,14,Louis Magers,,,So,P,6-5,L/R,15081,,10,10,4.32,41.2,,41,28,20,23,31,,197,162,5,2,,1,9,8,,,,2,1,471,59,31,3,2,,13,2
+2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8279659,38,Taisei Yahiro,,,Sr,P,6-2,L/L,15081,,16,3,8.46,22.1,,24,22,21,22,25,,119,90,5,1,1,2,4,6,,3,,,1,216,19,20,,1,,4,1
+2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8280952,29,Ethan Stade,,,So,P,6-4,L/L,15081,,15,,6.14,22.0,,31,15,15,7,25,,105,93,4,,,1,,2,,14,8,1,2,359,18,22,1,1,1,8,1
+2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8281094,20,Sean Gamble,,,Sr,P,6-0,R/R,15081,,19,,4.78,32.0,,35,26,17,17,30,,150,125,3,,,5,2,6,,6,5,1,1,331,33,26,6,1,,13,1
+2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8278931,19,Ben Irsfeld,,,So,P,5-10,R/R,15081,,8,1,3.00,15.0,,13,5,5,5,16,,62,55,3,,,3,,1,,,,,1,147,8,19,1,,,4,
+2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8281439,34,Tanner Shumski,,,So,P,6-1,R/R,15081,,12,,6.19,16.0,,22,12,11,4,13,,76,69,5,,,3,1,2,,7,4,,1,127,18,15,3,,,3,
+2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8596972,23,Sam George,,,Fr,p,-,,15081,,14,6,3.95,41.0,,31,21,18,16,44,,166,147,7,,,5,1,,,,,2,1,465,36,38,2,2,,16,
+2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8596973,26,Aiden Hansen,,,Fr,p,-,,15081,,7,,9.95,6.1,,8,8,7,6,7,,37,27,2,,1,1,,4,,,,,,93,6,5,,,,4,
+2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8593172,16,UNKNOWN Matthaidess,,,Jr,p,-,,15081,,13,5,7.91,33.0,,37,30,29,18,17,,159,130,8,,,5,3,7,,4,1,2,2,314,35,42,3,2,,2,1
+2024,2023-24,MBA,383,Minnesota St.,2,II,NSIC,8593171,10,C. Haugen,,,Fr,p,-,,15081,,16,9,7.04,47.1,,49,37,37,22,48,,213,183,6,1,1,10,4,6,,6,1,1,1,527,31,56,6,3,,13,1

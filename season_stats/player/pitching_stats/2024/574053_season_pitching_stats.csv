@@ -1,19 +1,19 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8592761,30,Ricardo Gonzalez,,,Fr,P,6-2,,15081,,13,10,8.46,44.2,,64,51,42,26,32,,238,195,11,,1,2,4,13,,3,2,1,3,656,50,47,2,6,,7,1
-1,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8269958,7,Wilfredo Mendez,,,Sr,OF,5-10,,15081,,1,,,,,2,2,2,3,,,5,2,,,,,2,,,,,,,,,,,,,,
-2,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8259477,21,Nathan Vidmar,,,So,P,6-4,,15081,,18,3,12.04,24.2,,42,41,33,19,25,,150,119,5,1,2,4,4,9,1,5,2,1,2,388,29,19,2,2,,9,
-3,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8266831,36,Krew Bouldin,,,Sr,UT,6-3,R/R,15081,,1,,0.00,0.1,,,,,,,,1,1,,,,,,,,,,,,,,1,,,,,
-4,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8259532,25,Jack Messmore,,,So,P,6-1,,15081,,14,13,6.17,77.1,,82,61,53,40,77,,361,314,18,1,,11,6,6,,3,1,1,,858,61,86,2,4,,19,
-5,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8276233,34,Hunter Thompson,,,So,1B,6-0,,15081,,8,1,24.00,9.0,,12,25,24,18,11,,63,38,4,,,1,1,5,,3,3,2,,173,7,9,,1,,3,
-6,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8262206,23,Brandon Hatch,,,Jr,P,6-3,R/R,15081,,15,1,9.43,27.2,,36,30,29,24,14,,143,109,6,1,,2,2,5,,3,,2,3,280,28,36,1,3,,7,1
-7,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8260233,10,Amari Gordon,,,So,P,6-0,,15081,,9,1,12.27,11.0,,19,17,15,11,5,,67,52,4,,,2,1,3,,8,4,,1,204,11,17,,1,1,1,
-8,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8269803,17,Peter Carreca,,,Sr,P,6-2,R/R,15081,,12,3,9.68,17.2,,25,27,19,18,12,,103,77,5,,,6,2,6,,7,4,1,1,267,15,24,1,2,,4,1
-9,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8279106,8,Hiram Davis,,,Sr,P,5-10,R/R,15081,,20,,9.00,17.0,,18,18,17,12,17,,86,67,2,,,4,2,5,,21,8,1,1,258,16,18,2,,,7,
-10,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8285428,19,Evan Harris,,,Sr,P,6-1,R/R,15081,,2,,32.40,1.2,,4,6,6,5,2,,14,9,1,,,,1,,,,,,,,2,1,,1,,1,
-11,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8283784,22,Evan Bouldin,,,So,INF,6-2,,15081,,16,,4.08,28.2,,18,16,13,23,35,,132,99,3,1,,1,3,7,,1,1,3,,410,24,24,,1,4,13,1
-12,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8593059,15,Kieran Etwaru,,,Fr,p,6-1,,15081,,13,13,3.91,73.2,,66,38,32,33,74,,326,274,15,,1,3,3,14,,,,2,3,868,65,69,7,,,27,2
-13,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8594386,41,Brooks Kendall,,,Fr,p,5-7,,15081,,11,1,16.20,13.1,,26,24,24,9,4,,79,63,4,,,4,,6,,12,8,,1,127,12,22,,2,,1,
-14,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8592763,42,Michael Lane,,,Fr,P,6-1,,15081,,12,3,6.51,27.2,,25,22,20,25,39,,137,105,5,1,,2,3,4,,3,1,1,2,440,19,25,2,3,1,12,
-15,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8682820,35,Drew Brady,,,Fr,P,6-1,,15081,,4,,16.20,1.2,,2,3,3,5,1,,12,6,1,,,,3,1,,1,,,,60,1,2,,,,1,
-16,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8592762,6,Kobe Head,,,Fr,P,6-1,,15081,,20,,3.90,27.2,,35,15,12,12,20,,125,110,5,1,2,,4,2,,9,3,,1,338,31,24,2,,,4,1
-17,2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8592294,43,Eddie Del Valle,,,Fr,P,6-0,,15081,,15,,10.98,19.2,,22,24,24,24,18,,103,73,9,,,,4,2,,16,7,1,3,191,12,24,1,1,,5,2
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8592761,30,Ricardo Gonzalez,,,Fr,P,6-2,,15081,,13,10,8.46,44.2,,64,51,42,26,32,,238,195,11,,1,2,4,13,,3,2,1,3,656,50,47,2,6,,7,1
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8269958,7,Wilfredo Mendez,,,Sr,OF,5-10,,15081,,1,,,,,2,2,2,3,,,5,2,,,,,2,,,,,,,,,,,,,,
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8259477,21,Nathan Vidmar,,,So,P,6-4,,15081,,18,3,12.04,24.2,,42,41,33,19,25,,150,119,5,1,2,4,4,9,1,5,2,1,2,388,29,19,2,2,,9,
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8266831,36,Krew Bouldin,,,Sr,UT,6-3,R/R,15081,,1,,0.00,0.1,,,,,,,,1,1,,,,,,,,,,,,,,1,,,,,
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8259532,25,Jack Messmore,,,So,P,6-1,,15081,,14,13,6.17,77.1,,82,61,53,40,77,,361,314,18,1,,11,6,6,,3,1,1,,858,61,86,2,4,,19,
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8276233,34,Hunter Thompson,,,So,1B,6-0,,15081,,8,1,24.00,9.0,,12,25,24,18,11,,63,38,4,,,1,1,5,,3,3,2,,173,7,9,,1,,3,
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8262206,23,Brandon Hatch,,,Jr,P,6-3,R/R,15081,,15,1,9.43,27.2,,36,30,29,24,14,,143,109,6,1,,2,2,5,,3,,2,3,280,28,36,1,3,,7,1
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8260233,10,Amari Gordon,,,So,P,6-0,,15081,,9,1,12.27,11.0,,19,17,15,11,5,,67,52,4,,,2,1,3,,8,4,,1,204,11,17,,1,1,1,
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8269803,17,Peter Carreca,,,Sr,P,6-2,R/R,15081,,12,3,9.68,17.2,,25,27,19,18,12,,103,77,5,,,6,2,6,,7,4,1,1,267,15,24,1,2,,4,1
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8279106,8,Hiram Davis,,,Sr,P,5-10,R/R,15081,,20,,9.00,17.0,,18,18,17,12,17,,86,67,2,,,4,2,5,,21,8,1,1,258,16,18,2,,,7,
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8285428,19,Evan Harris,,,Sr,P,6-1,R/R,15081,,2,,32.40,1.2,,4,6,6,5,2,,14,9,1,,,,1,,,,,,,,2,1,,1,,1,
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8283784,22,Evan Bouldin,,,So,INF,6-2,,15081,,16,,4.08,28.2,,18,16,13,23,35,,132,99,3,1,,1,3,7,,1,1,3,,410,24,24,,1,4,13,1
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8593059,15,Kieran Etwaru,,,Fr,p,6-1,,15081,,13,13,3.91,73.2,,66,38,32,33,74,,326,274,15,,1,3,3,14,,,,2,3,868,65,69,7,,,27,2
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8594386,41,Brooks Kendall,,,Fr,p,5-7,,15081,,11,1,16.20,13.1,,26,24,24,9,4,,79,63,4,,,4,,6,,12,8,,1,127,12,22,,2,,1,
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8592763,42,Michael Lane,,,Fr,P,6-1,,15081,,12,3,6.51,27.2,,25,22,20,25,39,,137,105,5,1,,2,3,4,,3,1,1,2,440,19,25,2,3,1,12,
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8682820,35,Drew Brady,,,Fr,P,6-1,,15081,,4,,16.20,1.2,,2,3,3,5,1,,12,6,1,,,,3,1,,1,,,,60,1,2,,,,1,
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8592762,6,Kobe Head,,,Fr,P,6-1,,15081,,20,,3.90,27.2,,35,15,12,12,20,,125,110,5,1,2,,4,2,,9,3,,1,338,31,24,2,,,4,1
+2024,2023-24,MBA,178,Delaware St.,1,I,NEC,8592294,43,Eddie Del Valle,,,Fr,P,6-0,,15081,,15,,10.98,19.2,,22,24,24,24,18,,103,73,9,,,,4,2,,16,7,1,3,191,12,24,1,1,,5,2

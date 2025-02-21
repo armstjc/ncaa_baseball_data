@@ -1,0 +1,21 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8263367,6,Noah Stennett,,,So,OF,-,,15081,,1,,27.00,1.0,,2,3,3,1,2,,6,5,,,,1,1,,,,,,,,,1,,,,,
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8261011,32,Aviv Drucker,,,So,P,-,,15081,,7,4,13.14,12.1,,26,24,18,7,4,,74,64,9,1,2,2,1,2,,,,1,,128,11,20,,,,1,
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8262263,12,Jason Pace,,,So,P,-,,15081,,2,,27.00,1.0,,1,3,3,3,3,,7,4,,,,1,,,,,,,,,,,,,,1,
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8270351,47,Sage Goeke,,,So,P,-,,15081,,2,,15.43,2.1,,4,5,4,1,3,,14,12,,,1,1,1,,,,,,1,24,2,3,,,,1,
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8266186,15,Sean Ahrens,,,So,UT,-,,15081,,3,,15.00,3.0,,6,7,5,2,3,,20,14,2,1,,1,,3,,,,,1,79,4,2,,,,1,
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8266299,14,Trevor Laraia,,,Sr,UT,-,,15081,,13,2,8.63,32.1,,34,33,31,25,20,,154,124,7,,,5,1,3,,3,1,1,1,228,23,47,2,1,,9,2
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8260292,30,Gabe Marshall,,,Jr,P,-,,15081,,7,,8.44,10.2,,17,10,10,4,11,,54,45,3,,,1,1,3,,3,3,,2,60,10,9,,,,4,
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8268760,16,Cameron Nebel,,,Jr,P,6-0,L/R,15081,,19,3,6.03,37.1,,38,26,25,20,39,,169,134,7,,,1,5,6,1,14,3,4,5,356,38,26,3,2,7,14,1
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8278999,42,Nadell Booker,,,Sr,P,-,,15081,,15,9,5.04,64.1,2,73,37,36,22,49,2,292,251,11,1,,2,3,10,,6,4,6,3,684,55,78,6,5,,13,1
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8280997,23,Vinny Versaci,,,Jr,UT,-,,15081,,13,2,6.75,25.1,,34,26,19,4,13,,115,105,5,,,3,,4,,12,2,1,1,204,23,35,3,1,,2,1
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8281107,18,Jadon Dormer,,,Jr,P,-,,15081,,2,,4.91,3.2,,4,2,2,0,2,,14,14,,,,1,,,,3,,,,,2,6,,,,1,
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8454715,21,Trevor Hurst,,,So,P,-,,15081,,1,,0.00,1.0,,0,,,2,,,6,4,,,,,,,,,,,,,1,2,,,,,
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8281327,7,Drew Pecorilli,,,Sr,P,-,,15081,,5,,20.25,5.1,,10,12,12,4,4,,36,25,1,,,1,2,6,,3,2,1,,90,5,7,,,,2,
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8280085,46,Will Conroy,,,So,P,-,,15081,,10,9,2.52,50.0,,44,17,14,20,46,,217,190,8,2,,,3,5,,1,,2,,288,42,56,4,,,11,
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8454733,31,Michael McCullagh,,,Jr,P,-,,15081,,8,,8.44,10.2,,15,11,10,7,13,,59,46,4,,2,2,2,5,,8,6,1,,104,7,11,2,,,5,
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8454739,37,Luke Hinkle,,,Fr,UT,-,,15081,,4,2,10.57,7.2,,13,9,9,1,3,,37,34,1,,,4,,1,,3,1,1,,58,10,7,1,1,,2,2
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8454742,40,Xavier Sjostedt,,,Fr,P,-,,15081,,7,4,6.20,20.1,,19,14,14,17,15,,101,74,4,,,,2,5,,,,3,2,235,17,26,2,2,,4,
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8454743,45,Jack Dovidio,,,Sr,P,5-10,R/R,15081,,13,1,8.73,33.0,,51,32,32,13,19,,162,138,7,,,4,2,4,,6,3,5,2,417,41,33,4,1,1,3,
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8454749,44,Hunter Curley,,,Sr,P,-,,15081,,11,11,5.43,56.1,,60,34,34,25,37,,261,223,11,2,,5,9,9,,,,1,3,444,56,70,4,1,,13,
+2024,2023-24,MBA,966,Arcadia,3,III,MAC Freedom,8454735,17,Patrick Dougherty,,,Fr,P,-,,15081,,6,,10.22,12.1,,19,14,14,6,8,,62,53,3,,,3,2,1,,8,4,,2,117,10,16,2,,,4,

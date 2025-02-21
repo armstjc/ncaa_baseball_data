@@ -1,16 +1,16 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8266886,42,Hunter Reynolds,,,Sr,P,6-1,R/R,15081,,5,2,12.10,9.2,,8,13,13,13,10,,52,37,2,,,2,2,2,,,,,,231,6,12,,,,5,
-1,2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8273886,24,Esteban Rivera III,,,Jr,P,6-1,R/R,15081,,14,7,4.66,46.1,,37,28,24,27,49,,202,172,10,1,,4,4,1,,2,,2,,656,42,42,2,2,1,19,1
-2,2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8276371,28,Sean Yoest,,,So,P,6-1,R/R,15081,,4,,19.29,2.1,,3,5,5,5,1,,15,9,1,,,,6,,,,,,1,14,4,2,,,,,
-3,2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8276390,6,D. DeLucia,,,So,1B,6-3,R/R,15081,,9,5,7.23,23.2,,29,22,19,10,22,,115,101,6,,2,5,5,2,,1,,2,,303,23,27,2,2,,6,
-4,2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8268220,26,Kyle Roche,,,Sr,P,6-0,R/R,15081,,13,13,4.23,72.1,,63,46,34,42,92,,322,274,7,2,1,8,7,3,,,,3,,"1,159",62,49,8,5,,30,
-5,2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8261433,9,Chaz Powell,,,Sr,P,6-2,R/R,15081,,8,7,3.14,43.0,2,35,17,15,13,21,,175,154,9,1,,2,3,4,,,,3,1,428,49,52,4,3,,8,
-6,2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8273539,4,Stephen Bangs,,,Jr,P,5-11,R/R,15081,,19,2,4.63,46.2,,41,26,24,28,30,,213,168,4,,,3,2,9,,4,,6,2,654,78,23,4,,6,7,1
-7,2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8279096,5,Sean Foody,,,Sr,P,6-2,R/R,15081,,12,,9.35,17.1,,17,18,18,16,11,,86,63,4,,2,2,5,3,1,,,4,,229,25,13,1,2,1,2,
-8,2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8286522,10,Tyler  McDonald,,,Sr,P,6-1,R/R,15081,,13,,2.88,25.0,,22,16,8,16,29,,119,98,2,,,3,8,2,,3,2,1,2,341,28,15,1,1,2,11,
-9,2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8280476,44,Kyle Salvati,,,So,P,6-5,R/R,15081,,11,6,6.14,29.1,,32,25,20,24,29,,146,115,6,1,,1,5,4,,,,2,1,327,22,30,1,,,6,1
-10,2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8594724,23,Michael Bokis,,,Fr,P,5-10,R/R,15081,,4,,9.00,4.0,,6,7,4,5,5,,25,17,4,,,,1,1,,,,,2,28,2,5,,,,1,
-11,2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8594750,41,Steven Parent,,,Fr,P,6-2,R/R,15081,,1,,54.00,0.1,,1,2,2,1,,,4,2,,,,1,,1,,,,,,14,,1,,,,,
-12,2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8594722,17,Nevin Belanger,,,Fr,P,5-10,L/L,15081,,2,,13.50,3.1,,3,5,5,1,3,,16,12,,,,1,,3,,,,,,48,1,5,,,,1,1
-13,2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8594742,32,Jamie Leggett,,,Fr,P,6-2,R/R,15081,,9,,3.52,15.1,,13,6,6,10,11,,67,52,,,,1,1,2,,,,,3,195,13,18,,1,,6,
-14,2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8594743,33,Niklas Pavia,,,Fr,P,6-4,R/R,15081,,15,5,2.82,54.1,1,32,22,17,26,68,1,228,194,5,,,2,4,4,,3,1,4,,763,55,36,5,3,2,24,
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8266886,42,Hunter Reynolds,,,Sr,P,6-1,R/R,15081,,5,2,12.10,9.2,,8,13,13,13,10,,52,37,2,,,2,2,2,,,,,,231,6,12,,,,5,
+2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8273886,24,Esteban Rivera III,,,Jr,P,6-1,R/R,15081,,14,7,4.66,46.1,,37,28,24,27,49,,202,172,10,1,,4,4,1,,2,,2,,656,42,42,2,2,1,19,1
+2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8276371,28,Sean Yoest,,,So,P,6-1,R/R,15081,,4,,19.29,2.1,,3,5,5,5,1,,15,9,1,,,,6,,,,,,1,14,4,2,,,,,
+2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8276390,6,D. DeLucia,,,So,1B,6-3,R/R,15081,,9,5,7.23,23.2,,29,22,19,10,22,,115,101,6,,2,5,5,2,,1,,2,,303,23,27,2,2,,6,
+2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8268220,26,Kyle Roche,,,Sr,P,6-0,R/R,15081,,13,13,4.23,72.1,,63,46,34,42,92,,322,274,7,2,1,8,7,3,,,,3,,"1,159",62,49,8,5,,30,
+2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8261433,9,Chaz Powell,,,Sr,P,6-2,R/R,15081,,8,7,3.14,43.0,2,35,17,15,13,21,,175,154,9,1,,2,3,4,,,,3,1,428,49,52,4,3,,8,
+2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8273539,4,Stephen Bangs,,,Jr,P,5-11,R/R,15081,,19,2,4.63,46.2,,41,26,24,28,30,,213,168,4,,,3,2,9,,4,,6,2,654,78,23,4,,6,7,1
+2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8279096,5,Sean Foody,,,Sr,P,6-2,R/R,15081,,12,,9.35,17.1,,17,18,18,16,11,,86,63,4,,2,2,5,3,1,,,4,,229,25,13,1,2,1,2,
+2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8286522,10,Tyler  McDonald,,,Sr,P,6-1,R/R,15081,,13,,2.88,25.0,,22,16,8,16,29,,119,98,2,,,3,8,2,,3,2,1,2,341,28,15,1,1,2,11,
+2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8280476,44,Kyle Salvati,,,So,P,6-5,R/R,15081,,11,6,6.14,29.1,,32,25,20,24,29,,146,115,6,1,,1,5,4,,,,2,1,327,22,30,1,,,6,1
+2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8594724,23,Michael Bokis,,,Fr,P,5-10,R/R,15081,,4,,9.00,4.0,,6,7,4,5,5,,25,17,4,,,,1,1,,,,,2,28,2,5,,,,1,
+2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8594750,41,Steven Parent,,,Fr,P,6-2,R/R,15081,,1,,54.00,0.1,,1,2,2,1,,,4,2,,,,1,,1,,,,,,14,,1,,,,,
+2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8594722,17,Nevin Belanger,,,Fr,P,5-10,L/L,15081,,2,,13.50,3.1,,3,5,5,1,3,,16,12,,,,1,,3,,,,,,48,1,5,,,,1,1
+2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8594742,32,Jamie Leggett,,,Fr,P,6-2,R/R,15081,,9,,3.52,15.1,,13,6,6,10,11,,67,52,,,,1,1,2,,,,,3,195,13,18,,1,,6,
+2024,2023-24,MBA,241,Franklin Pierce,2,II,NE10,8594743,33,Niklas Pavia,,,Fr,P,6-4,R/R,15081,,15,5,2.82,54.1,1,32,22,17,26,68,1,228,194,5,,,2,4,4,,3,1,4,,763,55,36,5,3,2,24,

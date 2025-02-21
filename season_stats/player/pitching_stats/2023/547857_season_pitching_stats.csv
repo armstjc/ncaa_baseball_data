@@ -1,0 +1,36 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812451,14,Jeremy Klick,,,Jr,P,-,R/R,15001,10,10,,17.18,11.0,,27,25,21,11,12,,70,58,5,2,,4,3,1,,7,5,,,242,8,11,,1,,7,1
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812452,44,Duke Coborn,,,Jr,P,6-2,R/R,15001,11,11,2,6.21,33.1,,46,27,23,14,31,,162,138,3,3,2,2,2,5,,5,1,4,1,529,34,32,2,5,,10,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812453,27,Charlie Bartholomew,,,Sr,C,-,,15001,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812454,2,Matthew Enck,,,Sr,INF,6-0,L/R,15001,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812457,35,Jack Blesch,,,Jr,P,6-1,,15001,7,7,,10.45,10.1,,17,13,12,9,7,,59,46,2,1,,2,,3,,9,6,1,,223,11,11,,,,2,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812458,28,Kolby Gartner,,,Jr,P,6-2,,15001,11,11,11,6.60,60.0,1,68,56,44,27,46,,277,240,8,3,1,4,3,4,,,,3,2,819,63,63,1,7,,12,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812459,19,Max Moris,,,Jr,C,6-0,,15001,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812462,37,Griffen Leiner,,,Jr,P,6-3,,15001,1,1,,,,,3,4,4,1,,,5,3,,,,,,1,,,,,,21,,,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812463,21,Jonah Hoeg,,,Jr,1B,6-1,,15001,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812464,6,Sam Kulesa,,,Jr,INF,-,,15001,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812466,11,Tommy Golbranson,,,So,INF,6-2,R/R,15001,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812468,17,Joe Vos,,,So,P,6-1,,15001,30,2,,7.71,2.1,,2,2,2,1,1,,9,8,,,,1,,,,2,,,,5,5,,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812469,3,Colin Dailey,,,So,P,6-0,R/R,15001,3,3,,16.88,2.2,,0,5,5,8,3,,19,6,,,,,1,4,,,,,1,73,1,3,,,,1,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812470,41,Tucker Huhn,,,So,P,6-2,,15001,14,14,,6.62,17.2,,23,15,13,9,9,,85,72,6,,1,2,1,3,,15,5,,1,238,20,20,1,,,6,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812471,9,Tanner Marsh,,,So,OF,-,,15001,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812472,8,Walker Retz,,,So,P,6-3,,15001,10,10,9,5.57,51.2,,61,41,32,25,55,,246,207,10,3,3,8,3,9,,1,1,4,1,644,44,49,2,6,,19,1
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812473,33,Carl Cano,,,So,P,6-1,,15001,8,8,,11.05,7.1,,9,11,9,8,5,,40,28,2,,,2,2,2,,9,4,1,1,121,5,10,,1,,2,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812474,22,Evan Esch,,,So,P,5-10,,15001,11,11,7,4.73,45.2,,40,28,24,35,48,,217,171,7,2,1,2,3,6,,2,2,4,1,702,40,45,2,3,1,8,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812475,12,Parker Mathieson,,,Jr,UT,-,,15001,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812476,39,Kevin Millar,,,So,P,-,R/R,15001,5,5,,36.00,3.0,,7,14,12,7,6,,28,16,2,,,,4,3,,4,1,,2,129,1,3,,1,,1,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812477,5,Brigs Richartz,,,So,OF,5-9,,15001,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812479,4,Ben Vujovich,,,So,OF,6-0,,15001,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812481,15,Bryce Leedle,,,So,P,5-10,,15001,10,10,1,7.47,15.2,,11,14,13,18,14,,74,53,2,2,,1,1,1,,3,1,,2,327,13,17,1,1,1,6,1
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7812482,32,Will Nigut,,,Sr,P,-,,15001,10,10,,12.10,9.2,,12,15,13,9,7,,53,36,4,1,1,,2,4,,9,6,2,2,189,8,11,,,,3,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7980588,47,Owen Marsh,,,Fr,P,-,,15001,9,9,3,7.77,22.0,,27,22,19,25,19,,118,89,2,1,2,1,3,3,,2,2,1,,387,22,21,1,3,,5,1
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7980614,1,Wyatt Jensen,,,Fr,OF,-,,15001,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7980617,7,Dylan O'Connell,,,Fr,UT,5-10,R/R,15001,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7980618,16,Joe Roder,,,Fr,1B,6-0,,15001,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7980622,26,Ben Taxdahl,,,Fr,P,6-2,,15001,28,2,,20.25,2.2,,4,7,6,3,2,,18,11,2,,,1,1,4,,,,,,88,3,2,,,,1,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7980633,36,Jack Zupfer,,,Fr,P,-,,15001,4,4,,12.00,3.0,,5,4,4,2,1,,16,13,1,,,,,1,,7,4,,,46,3,4,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7980634,38,Jacob Mrosko,,,Fr,P,6-2,,15001,10,10,4,7.01,25.2,,28,21,20,23,22,,128,100,5,2,,5,10,3,,4,1,1,1,455,16,33,,3,,8,2
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7980635,46,Nolan Kemp,,,Fr,P,5-11,,15001,12,12,6,6.21,33.1,,31,24,23,23,37,,158,125,1,3,2,6,1,8,,8,4,1,1,652,23,33,,3,1,13,2
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7980620,25,Colin Lewandowski,,,Fr,INF,6-0,,15001,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7980630,31,Santiago Gutierrez Albarran,,,Fr,P,-,,15001,1,1,,,,,2,3,3,2,,,4,2,1,,,,1,,,,,,,27,,,,,,,
+2023,2022-23,MBA,620,St. Thomas (MN),1,I,Summit League,7980636,48,Max Skilbeck,,,Fr,P,6-5,,15001,7,7,1,3.68,7.1,,8,3,3,7,6,,37,28,1,,,,2,2,,5,2,,,117,9,5,,,,1,

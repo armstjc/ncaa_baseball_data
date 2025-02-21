@@ -1,17 +1,17 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8427249,18,Noah Smith,,,Fr,P,6-3,R/R,15081,,7,,9.95,6.1,,5,7,7,7,6,,32,21,3,,,,1,3,1,10,4,1,,125,6,5,,,,2,
-1,2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8427250,21,Cody New,,,Fr,P,6-3,L/L,15081,,22,7,7.29,45.2,,55,42,37,34,44,,236,179,10,,,6,9,20,,16,6,2,1,721,44,37,2,2,,7,5
-2,2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8427251,24,Ryan Hetzler,,,Fr,P,5-11,R/R,15081,,25,,2.59,41.2,,44,14,12,14,38,,176,155,2,,,3,4,4,,32,15,1,2,593,42,34,5,1,4,15,
-3,2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8427253,30,Lukas Pirko,,,Fr,P,6-1,R/R,15081,,15,14,3.84,72.2,,76,35,31,22,76,,314,282,9,,,5,5,3,,2,,3,4,"1,028",68,63,5,3,1,15,
-4,2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8427254,32,Andrew Rudd,,,Fr,P,6-5,R/R,15081,,6,1,2.84,6.1,,9,6,2,6,5,,35,29,1,,,,2,,,2,,,,93,4,10,,,,1,
-5,2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8261968,36,Brandon Downer,,,Jr,P,6-5,R/R,15081,,16,15,4.35,82.2,,76,48,40,32,63,,357,308,11,1,,10,6,8,,3,1,5,4,990,101,67,6,6,,22,
-6,2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8266114,19,Ryne Palmer,,,So,P,6-4,R/R,15081,,13,2,7.50,12.0,,13,13,10,12,13,,67,49,3,1,,5,2,6,1,9,6,,,257,9,14,,,1,4,
-7,2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8268332,41,Jacob Wilson,,,Sr,P,6-3,R/R,15081,,19,5,3.55,38.0,,31,18,15,16,36,,162,140,5,,,1,5,5,1,6,,1,,507,39,34,5,5,,12,
-8,2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8265145,13,Seth Mattox,,,Jr,P,6-2,R/R,15081,,15,6,4.41,32.2,,35,22,16,16,31,,151,127,6,1,1,3,1,5,,9,3,1,2,481,30,30,2,1,1,9,1
-9,2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8272303,34,Carson Olsen,,,Jr,P,6-5,R/R,15081,,8,,10.80,6.2,,13,8,8,8,4,,40,30,4,,,,,1,,7,4,,1,156,4,10,,,,1,
-10,2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8275992,17,Luis Becerra,,,So,P,6-4,R/R,15081,,13,1,8.10,16.2,,24,19,15,9,18,,84,73,5,1,,7,3,2,,10,6,,,273,11,19,1,1,,5,
-11,2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8279618,42,Ryan Hernandez,,,Sr,P,5-9,L/L,15081,,27,1,1.55,29.0,,18,7,5,11,20,,115,101,2,,,1,2,1,,21,8,1,1,372,29,35,,,,6,
-12,2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8279933,16,Ryan Delgado,,,Sr,P,6-1,R/R,15081,,25,8,6.42,67.1,,87,51,48,29,45,,312,274,13,1,1,9,6,5,1,9,2,,4,912,74,68,6,1,,16,
-13,2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8278932,37,Ryan Kittredge,,,So,P,6-2,R/R,15081,,16,1,12.32,19.0,,22,28,26,19,18,,101,76,5,1,,5,2,5,,9,6,1,,353,20,15,1,,,6,
-14,2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8427259,33,Nathan Hemmerling,,,Sr,P,6-2,R/R,15081,,27,1,3.22,58.2,,53,25,21,26,47,,255,218,7,,,2,5,6,1,26,7,4,1,771,58,64,5,4,3,10,1
-15,2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8427260,39,Jared Villalobos,,,Sr,P,5-11,L/L,15081,,5,,12.60,5.0,,9,8,7,3,1,,28,23,2,,,1,,2,,4,2,,,47,4,9,,,,1,
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8427249,18,Noah Smith,,,Fr,P,6-3,R/R,15081,,7,,9.95,6.1,,5,7,7,7,6,,32,21,3,,,,1,3,1,10,4,1,,125,6,5,,,,2,
+2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8427250,21,Cody New,,,Fr,P,6-3,L/L,15081,,22,7,7.29,45.2,,55,42,37,34,44,,236,179,10,,,6,9,20,,16,6,2,1,721,44,37,2,2,,7,5
+2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8427251,24,Ryan Hetzler,,,Fr,P,5-11,R/R,15081,,25,,2.59,41.2,,44,14,12,14,38,,176,155,2,,,3,4,4,,32,15,1,2,593,42,34,5,1,4,15,
+2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8427253,30,Lukas Pirko,,,Fr,P,6-1,R/R,15081,,15,14,3.84,72.2,,76,35,31,22,76,,314,282,9,,,5,5,3,,2,,3,4,"1,028",68,63,5,3,1,15,
+2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8427254,32,Andrew Rudd,,,Fr,P,6-5,R/R,15081,,6,1,2.84,6.1,,9,6,2,6,5,,35,29,1,,,,2,,,2,,,,93,4,10,,,,1,
+2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8261968,36,Brandon Downer,,,Jr,P,6-5,R/R,15081,,16,15,4.35,82.2,,76,48,40,32,63,,357,308,11,1,,10,6,8,,3,1,5,4,990,101,67,6,6,,22,
+2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8266114,19,Ryne Palmer,,,So,P,6-4,R/R,15081,,13,2,7.50,12.0,,13,13,10,12,13,,67,49,3,1,,5,2,6,1,9,6,,,257,9,14,,,1,4,
+2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8268332,41,Jacob Wilson,,,Sr,P,6-3,R/R,15081,,19,5,3.55,38.0,,31,18,15,16,36,,162,140,5,,,1,5,5,1,6,,1,,507,39,34,5,5,,12,
+2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8265145,13,Seth Mattox,,,Jr,P,6-2,R/R,15081,,15,6,4.41,32.2,,35,22,16,16,31,,151,127,6,1,1,3,1,5,,9,3,1,2,481,30,30,2,1,1,9,1
+2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8272303,34,Carson Olsen,,,Jr,P,6-5,R/R,15081,,8,,10.80,6.2,,13,8,8,8,4,,40,30,4,,,,,1,,7,4,,1,156,4,10,,,,1,
+2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8275992,17,Luis Becerra,,,So,P,6-4,R/R,15081,,13,1,8.10,16.2,,24,19,15,9,18,,84,73,5,1,,7,3,2,,10,6,,,273,11,19,1,1,,5,
+2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8279618,42,Ryan Hernandez,,,Sr,P,5-9,L/L,15081,,27,1,1.55,29.0,,18,7,5,11,20,,115,101,2,,,1,2,1,,21,8,1,1,372,29,35,,,,6,
+2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8279933,16,Ryan Delgado,,,Sr,P,6-1,R/R,15081,,25,8,6.42,67.1,,87,51,48,29,45,,312,274,13,1,1,9,6,5,1,9,2,,4,912,74,68,6,1,,16,
+2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8278932,37,Ryan Kittredge,,,So,P,6-2,R/R,15081,,16,1,12.32,19.0,,22,28,26,19,18,,101,76,5,1,,5,2,5,,9,6,1,,353,20,15,1,,,6,
+2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8427259,33,Nathan Hemmerling,,,Sr,P,6-2,R/R,15081,,27,1,3.22,58.2,,53,25,21,26,47,,255,218,7,,,2,5,6,1,26,7,4,1,771,58,64,5,4,3,10,1
+2024,2023-24,MBA,30135,California Baptist,1,I,WAC,8427260,39,Jared Villalobos,,,Sr,P,5-11,L/L,15081,,5,,12.60,5.0,,9,8,7,3,1,,28,23,2,,,1,,2,,4,2,,,47,4,9,,,,1,

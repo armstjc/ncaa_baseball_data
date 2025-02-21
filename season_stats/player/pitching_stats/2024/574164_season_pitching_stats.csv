@@ -1,20 +1,20 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447441,31,Keenan Mork,,,Fr,P,6-2,L/R,15081,,3,,3.00,3.0,,0,1,1,4,1,,14,8,,,,,,1,,2,,1,,63,4,4,1,1,,,
-1,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447437,51,Justin Mayes,,,Fr,P,5-10,L/L,15081,,1,,0.00,1.0,,0,,,0,2,,4,3,,,,,,1,,,,,,16,1,,,,,1,
-2,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447438,23,Tobey McDonough,,,Sr,P,6-3,R/R,15081,,18,5,4.94,31.0,,30,22,17,15,35,,144,122,6,,,4,4,6,,7,3,,1,577,29,26,3,3,,6,
-3,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447449,27,Jack Radel,,,Fr,P,6-5,R/R,15081,,14,10,4.58,53.0,,54,27,27,19,39,,234,201,6,2,2,8,1,9,,,,3,2,816,38,75,4,3,,13,1
-4,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8277674,10,Rory Fox,,,So,UT,6-3,L/R,15081,,15,9,6.48,50.0,,59,44,36,15,38,,225,201,12,,,15,,5,1,4,2,,4,800,50,55,2,3,,9,
-5,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8261991,26,Caden Spivey,,,So,P,6-1,R/R,15081,,15,3,8.46,27.2,,40,26,26,19,24,,146,120,5,,,2,1,4,,4,2,1,2,516,29,29,1,1,,9,
-6,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8259807,33,Radek Birkholz,,,Jr,P,5-11,R/R,15081,,9,,4.67,17.1,,10,9,9,17,20,,78,57,1,1,,2,1,2,,2,2,2,,286,18,11,3,,,9,
-7,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8278020,5,David Lally Jr.,,,So,P,6-5,R/R,15081,,13,,9.22,13.2,,14,18,14,15,16,,74,53,2,,,,,5,,9,4,,1,294,12,10,,1,,7,1
-8,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8263769,32,Matt Bedford,,,Sr,P,6-2,R/R,15081,,15,15,4.65,62.0,,55,35,32,28,40,,269,229,15,3,,9,3,9,1,,,2,1,961,79,56,3,6,,4,
-9,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8270875,41,Jackson Dennies,,,Sr,P,6-4,R/R,15081,,5,4,15.55,11.0,,26,20,19,6,7,,64,55,2,,,8,1,1,1,,,1,1,202,11,13,,,,4,
-10,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8268673,50,Sammy Cooper,,,Sr,P,6-0,R/R,15081,,10,,4.91,11.0,,8,6,6,8,13,,54,39,4,1,,1,,6,,7,1,,1,247,10,8,1,,,5,
-11,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8269799,40,Aidan Krupp,,,Jr,P,6-3,R/R,15081,,2,,54.00,0.2,,1,4,4,4,1,,7,3,1,,,,1,,,1,,,,38,1,,,,,,
-12,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447185,34,Nate Hardman,,,Sr,P,6-2,R/R,15081,,24,,4.45,30.1,,26,16,15,9,29,,127,112,5,,,6,,3,2,24,12,1,2,462,26,33,2,1,6,12,1
-13,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8281676,49,Ricky Reeth,,,Jr,P,6-4,L/R,15081,,17,1,5.21,48.1,,54,29,28,10,38,,210,189,11,,,7,3,7,,8,2,3,1,693,60,38,2,4,,11,2
-14,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8282262,25,Ryan Lynch,,,Sr,P,6-2,R/L,15081,,8,,9.00,2.0,,5,3,2,2,2,,13,10,,,,2,1,,,11,6,,1,39,1,3,1,,,,
-15,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447456,39,Hagan Ward,,,Fr,P,6-7,R/R,15081,,4,1,12.60,5.0,,7,7,7,2,4,,23,20,2,,1,1,2,1,,3,,,,65,4,5,,,,1,
-16,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447423,52,Will Jacobsen,,,Sr,P,6-2,R/R,15081,,18,,6.75,25.1,,17,20,19,13,25,,107,90,1,1,,8,4,3,,7,5,,1,428,19,30,2,,,6,
-17,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447142,42,Bennett Flynn,,,Sr,P,6-1,R/R,15081,,19,,5.40,40.0,,36,26,24,27,53,,184,144,6,1,,7,5,6,1,17,5,2,5,756,28,34,1,2,3,17,
-18,2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447217,45,DJ Helwig,,,Fr,P,6-5,R/R,15081,,8,4,4.11,15.1,,13,8,7,4,10,,65,57,,,,2,4,4,,,,,,199,18,15,1,,,3,
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447441,31,Keenan Mork,,,Fr,P,6-2,L/R,15081,,3,,3.00,3.0,,0,1,1,4,1,,14,8,,,,,,1,,2,,1,,63,4,4,1,1,,,
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447437,51,Justin Mayes,,,Fr,P,5-10,L/L,15081,,1,,0.00,1.0,,0,,,0,2,,4,3,,,,,,1,,,,,,16,1,,,,,1,
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447438,23,Tobey McDonough,,,Sr,P,6-3,R/R,15081,,18,5,4.94,31.0,,30,22,17,15,35,,144,122,6,,,4,4,6,,7,3,,1,577,29,26,3,3,,6,
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447449,27,Jack Radel,,,Fr,P,6-5,R/R,15081,,14,10,4.58,53.0,,54,27,27,19,39,,234,201,6,2,2,8,1,9,,,,3,2,816,38,75,4,3,,13,1
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8277674,10,Rory Fox,,,So,UT,6-3,L/R,15081,,15,9,6.48,50.0,,59,44,36,15,38,,225,201,12,,,15,,5,1,4,2,,4,800,50,55,2,3,,9,
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8261991,26,Caden Spivey,,,So,P,6-1,R/R,15081,,15,3,8.46,27.2,,40,26,26,19,24,,146,120,5,,,2,1,4,,4,2,1,2,516,29,29,1,1,,9,
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8259807,33,Radek Birkholz,,,Jr,P,5-11,R/R,15081,,9,,4.67,17.1,,10,9,9,17,20,,78,57,1,1,,2,1,2,,2,2,2,,286,18,11,3,,,9,
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8278020,5,David Lally Jr.,,,So,P,6-5,R/R,15081,,13,,9.22,13.2,,14,18,14,15,16,,74,53,2,,,,,5,,9,4,,1,294,12,10,,1,,7,1
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8263769,32,Matt Bedford,,,Sr,P,6-2,R/R,15081,,15,15,4.65,62.0,,55,35,32,28,40,,269,229,15,3,,9,3,9,1,,,2,1,961,79,56,3,6,,4,
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8270875,41,Jackson Dennies,,,Sr,P,6-4,R/R,15081,,5,4,15.55,11.0,,26,20,19,6,7,,64,55,2,,,8,1,1,1,,,1,1,202,11,13,,,,4,
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8268673,50,Sammy Cooper,,,Sr,P,6-0,R/R,15081,,10,,4.91,11.0,,8,6,6,8,13,,54,39,4,1,,1,,6,,7,1,,1,247,10,8,1,,,5,
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8269799,40,Aidan Krupp,,,Jr,P,6-3,R/R,15081,,2,,54.00,0.2,,1,4,4,4,1,,7,3,1,,,,1,,,1,,,,38,1,,,,,,
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447185,34,Nate Hardman,,,Sr,P,6-2,R/R,15081,,24,,4.45,30.1,,26,16,15,9,29,,127,112,5,,,6,,3,2,24,12,1,2,462,26,33,2,1,6,12,1
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8281676,49,Ricky Reeth,,,Jr,P,6-4,L/R,15081,,17,1,5.21,48.1,,54,29,28,10,38,,210,189,11,,,7,3,7,,8,2,3,1,693,60,38,2,4,,11,2
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8282262,25,Ryan Lynch,,,Sr,P,6-2,R/L,15081,,8,,9.00,2.0,,5,3,2,2,2,,13,10,,,,2,1,,,11,6,,1,39,1,3,1,,,,
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447456,39,Hagan Ward,,,Fr,P,6-7,R/R,15081,,4,1,12.60,5.0,,7,7,7,2,4,,23,20,2,,1,1,2,1,,3,,,,65,4,5,,,,1,
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447423,52,Will Jacobsen,,,Sr,P,6-2,R/R,15081,,18,,6.75,25.1,,17,20,19,13,25,,107,90,1,1,,8,4,3,,7,5,,1,428,19,30,2,,,6,
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447142,42,Bennett Flynn,,,Sr,P,6-1,R/R,15081,,19,,5.40,40.0,,36,26,24,27,53,,184,144,6,1,,7,5,6,1,17,5,2,5,756,28,34,1,2,3,17,
+2024,2023-24,MBA,513,Notre Dame,1,I,ACC,8447217,45,DJ Helwig,,,Fr,P,6-5,R/R,15081,,8,4,4.11,15.1,,13,8,7,4,10,,65,57,,,,2,4,4,,,,,,199,18,15,1,,,3,

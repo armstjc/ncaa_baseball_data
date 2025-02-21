@@ -1,17 +1,17 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,732,Utah,1,I,Pac-12,8528760,25,Mason Kelley,,,Fr,P,6-3,R/R,15081,,1,,18.00,1.0,,3,2,2,0,1,,6,6,1,,,,,,,2,2,,,21,,2,,,,,
-1,2024,2023-24,MBA,732,Utah,1,I,Pac-12,8269956,33,Ernesto Lugo-Canchola,,,Sr,P,6-6,L/L,15081,,17,1,3.32,21.2,,25,11,8,8,21,,96,86,6,,,3,3,1,,10,4,1,,361,16,23,2,,,,1
-2,2024,2023-24,MBA,732,Utah,1,I,Pac-12,8272571,22,Payton Riske,,,Fr,P,5-10,R/R,15081,,8,1,5.29,17.0,,15,10,10,7,14,,71,60,4,,,1,,2,,2,1,,2,215,15,18,2,,,6,
-3,2024,2023-24,MBA,732,Utah,1,I,Pac-12,8274985,36,Randon Hostert,,,Sr,P,6-5,R/R,15081,,25,,5.01,50.1,,51,29,28,9,48,,214,191,9,,,9,3,5,1,15,7,5,4,725,44,54,5,3,,22,
-4,2024,2023-24,MBA,732,Utah,1,I,Pac-12,8277877,11,Merit Jones,,,So,P,6-3,R/R,15081,,14,13,5.66,68.1,,79,49,43,33,68,,319,269,19,2,,6,7,8,,,,5,4,"1,070",77,53,3,5,1,17,2
-5,2024,2023-24,MBA,732,Utah,1,I,Pac-12,8261033,1,Bryson Van Sickle,,,Sr,P,6-0,L/L,15081,,15,15,2.67,94.1,2,79,32,28,21,69,1,396,357,11,5,,7,4,11,,,,5,2,"1,332",122,84,5,1,,16,2
-6,2024,2023-24,MBA,732,Utah,1,I,Pac-12,8273262,57,Micah Ashman,,,Jr,P,6-7,L/L,15081,,24,,3.08,26.1,,23,9,9,3,26,,106,96,4,,,1,,2,1,20,7,3,2,347,27,25,1,4,11,8,
-7,2024,2023-24,MBA,732,Utah,1,I,Pac-12,8262895,12,Bransen Kuehl,,,Jr,P,6-2,R/R,15081,,15,1,6.15,26.1,,28,20,18,12,20,,120,101,5,1,,2,1,2,2,12,3,1,4,371,26,28,2,1,,7,
-8,2024,2023-24,MBA,732,Utah,1,I,Pac-12,8282552,28,Jaden Harris,,,Jr,P,6-2,R/R,15081,,18,6,6.75,36.0,,46,31,27,22,27,,179,149,7,3,1,6,4,5,1,13,5,,3,606,42,35,4,1,,5,
-9,2024,2023-24,MBA,732,Utah,1,I,Pac-12,8528799,30,Carter Wall,,,Fr,P,6-2,L/L,15081,,4,,13.50,4.0,,6,6,6,3,2,,22,15,3,,,1,2,3,,1,,1,,85,5,3,,,,1,
-10,2024,2023-24,MBA,732,Utah,1,I,Pac-12,8528709,38,Billy Bird,,,Fr,P,6-3,L/L,15081,,2,,9.82,3.2,,2,4,4,3,2,,15,12,,,,1,1,,,2,,,,55,4,4,,,,1,
-11,2024,2023-24,MBA,732,Utah,1,I,Pac-12,8528736,19,Jackson Elder,,,Jr,P,6-2,R/R,15081,,20,,5.15,36.2,,48,23,21,16,29,,168,146,7,,,1,6,1,1,11,2,3,2,582,44,24,2,2,,13,1
-12,2024,2023-24,MBA,732,Utah,1,I,Pac-12,8528773,40,Colter McAnelly,,,Fr,P,6-4,R/R,15081,,15,10,4.76,51.0,,47,30,27,17,45,,222,197,7,1,,11,3,7,1,5,1,,1,791,41,61,5,4,,17,1
-13,2024,2023-24,MBA,732,Utah,1,I,Pac-12,8528777,6,Cameron Nielson,,,Fr,P,6-1,R/R,15081,,5,,4.76,5.2,,10,6,3,3,4,,31,27,1,,,,,1,,3,2,,,107,7,4,1,,,1,
-14,2024,2023-24,MBA,732,Utah,1,I,Pac-12,8528778,39,Brett Porthan,,,Sr,P,6-3,R/R,15081,,16,8,7.55,47.2,,74,40,40,10,30,,223,205,12,,,9,1,5,,8,,,3,716,51,53,1,1,,15,
-15,2024,2023-24,MBA,732,Utah,1,I,Pac-12,8528790,45,Michael Alan Stanford,,,Jr,P,6-5,R/L,15081,,2,,18.00,2.0,,3,4,4,4,,,14,8,1,,,,,2,,2,2,,,55,5,,,,,,
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,732,Utah,1,I,Pac-12,8528760,25,Mason Kelley,,,Fr,P,6-3,R/R,15081,,1,,18.00,1.0,,3,2,2,0,1,,6,6,1,,,,,,,2,2,,,21,,2,,,,,
+2024,2023-24,MBA,732,Utah,1,I,Pac-12,8269956,33,Ernesto Lugo-Canchola,,,Sr,P,6-6,L/L,15081,,17,1,3.32,21.2,,25,11,8,8,21,,96,86,6,,,3,3,1,,10,4,1,,361,16,23,2,,,,1
+2024,2023-24,MBA,732,Utah,1,I,Pac-12,8272571,22,Payton Riske,,,Fr,P,5-10,R/R,15081,,8,1,5.29,17.0,,15,10,10,7,14,,71,60,4,,,1,,2,,2,1,,2,215,15,18,2,,,6,
+2024,2023-24,MBA,732,Utah,1,I,Pac-12,8274985,36,Randon Hostert,,,Sr,P,6-5,R/R,15081,,25,,5.01,50.1,,51,29,28,9,48,,214,191,9,,,9,3,5,1,15,7,5,4,725,44,54,5,3,,22,
+2024,2023-24,MBA,732,Utah,1,I,Pac-12,8277877,11,Merit Jones,,,So,P,6-3,R/R,15081,,14,13,5.66,68.1,,79,49,43,33,68,,319,269,19,2,,6,7,8,,,,5,4,"1,070",77,53,3,5,1,17,2
+2024,2023-24,MBA,732,Utah,1,I,Pac-12,8261033,1,Bryson Van Sickle,,,Sr,P,6-0,L/L,15081,,15,15,2.67,94.1,2,79,32,28,21,69,1,396,357,11,5,,7,4,11,,,,5,2,"1,332",122,84,5,1,,16,2
+2024,2023-24,MBA,732,Utah,1,I,Pac-12,8273262,57,Micah Ashman,,,Jr,P,6-7,L/L,15081,,24,,3.08,26.1,,23,9,9,3,26,,106,96,4,,,1,,2,1,20,7,3,2,347,27,25,1,4,11,8,
+2024,2023-24,MBA,732,Utah,1,I,Pac-12,8262895,12,Bransen Kuehl,,,Jr,P,6-2,R/R,15081,,15,1,6.15,26.1,,28,20,18,12,20,,120,101,5,1,,2,1,2,2,12,3,1,4,371,26,28,2,1,,7,
+2024,2023-24,MBA,732,Utah,1,I,Pac-12,8282552,28,Jaden Harris,,,Jr,P,6-2,R/R,15081,,18,6,6.75,36.0,,46,31,27,22,27,,179,149,7,3,1,6,4,5,1,13,5,,3,606,42,35,4,1,,5,
+2024,2023-24,MBA,732,Utah,1,I,Pac-12,8528799,30,Carter Wall,,,Fr,P,6-2,L/L,15081,,4,,13.50,4.0,,6,6,6,3,2,,22,15,3,,,1,2,3,,1,,1,,85,5,3,,,,1,
+2024,2023-24,MBA,732,Utah,1,I,Pac-12,8528709,38,Billy Bird,,,Fr,P,6-3,L/L,15081,,2,,9.82,3.2,,2,4,4,3,2,,15,12,,,,1,1,,,2,,,,55,4,4,,,,1,
+2024,2023-24,MBA,732,Utah,1,I,Pac-12,8528736,19,Jackson Elder,,,Jr,P,6-2,R/R,15081,,20,,5.15,36.2,,48,23,21,16,29,,168,146,7,,,1,6,1,1,11,2,3,2,582,44,24,2,2,,13,1
+2024,2023-24,MBA,732,Utah,1,I,Pac-12,8528773,40,Colter McAnelly,,,Fr,P,6-4,R/R,15081,,15,10,4.76,51.0,,47,30,27,17,45,,222,197,7,1,,11,3,7,1,5,1,,1,791,41,61,5,4,,17,1
+2024,2023-24,MBA,732,Utah,1,I,Pac-12,8528777,6,Cameron Nielson,,,Fr,P,6-1,R/R,15081,,5,,4.76,5.2,,10,6,3,3,4,,31,27,1,,,,,1,,3,2,,,107,7,4,1,,,1,
+2024,2023-24,MBA,732,Utah,1,I,Pac-12,8528778,39,Brett Porthan,,,Sr,P,6-3,R/R,15081,,16,8,7.55,47.2,,74,40,40,10,30,,223,205,12,,,9,1,5,,8,,,3,716,51,53,1,1,,15,
+2024,2023-24,MBA,732,Utah,1,I,Pac-12,8528790,45,Michael Alan Stanford,,,Jr,P,6-5,R/L,15081,,2,,18.00,2.0,,3,4,4,4,,,14,8,1,,,,,2,,2,2,,,55,5,,,,,,

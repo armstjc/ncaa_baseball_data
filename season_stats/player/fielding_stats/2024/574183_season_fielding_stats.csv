@@ -1,35 +1,35 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-0,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8260920,27,Aaron Suval,,,Sr,P,5-11,R/R,15082,21,0,1,5,7,1,0.857,,,3,2,,,2.500
-1,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8276302,18,Jonathan Blackwell,,,Sr,P,6-1,L/L,15082,10,9,2,4,7,1,0.857,,,3,,,,1.000
-2,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8267175,49,Luke Gaffney,,,So,C,6-2,R/R,15082,53,53,424,25,450,1,0.998,,,3,,44,,1.000
-3,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8276959,20,Couper Cornblum,,,Sr,OF,6-0,R/R,15082,57,57,158,1,162,3,0.981,,,,,2,,
-4,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8268169,36,Carter Doorn,,,Jr,P,6-3,R/R,15082,21,0,1,1,2,,1.000,,,,,,,
-5,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8262566,11,Cal Lambert,,,Sr,P,6-2,L/L,15082,10,0,,2,3,1,0.667,,,,,,,
-6,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8274394,3,Jo Stevens,,,Sr,INF,6-2,R/R,15082,54,51,38,95,140,7,0.950,,,,,8,,
-7,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8275595,34,Corbin Malott,,,So,INF,6-1,R/R,15082,23,0,,,0,,,,,,,,,
-8,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8266423,2,Ty Gill,,,Jr,INF,6-2,L/R,15082,44,27,43,74,120,3,0.975,,,,,23,,
-9,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8267627,9,Camden Melvin,,,Jr,OF,6-0,L/L,15082,14,0,,,0,,,,,,,,,
-10,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8259235,32,CJ Backer,,,Sr,P,6-7,R/R,15082,10,0,,1,1,,1.000,,,,1,,,
-11,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8281644,41,Brody Chrisman,,,So,OF,6-3,L/R,15082,34,10,16,1,19,2,0.895,,,,,,,
-12,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8279326,48,Griffin Lohman,,,Sr,P,6-6,L/R,15082,8,0,1,1,3,1,0.667,,,,,1,,
-13,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8283031,6,Weston Gingerich,,,Sr,OF,5-10,L/L,15082,32,0,16,,16,,1.000,,,,,,,
-14,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8283069,43,Avery Cook,,,Sr,P,6-6,R/R,15082,26,0,,4,4,,1.000,,,1,,,,1.000
-15,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8278417,19,Jackson  Dannelley,,,Sr,P,5-10,R/R,15082,16,0,3,7,12,2,0.833,,,,1,,,
-16,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8285992,29,Kyle Iwinski,,,Sr,P,6-2,R/R,15082,12,10,5,4,9,,1.000,,,3,3,1,,3.000
-17,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8283628,13,Keenan Taylor,,,Sr,INF,5-10,R/R,15082,45,26,9,1,10,,1.000,,,,,,,
-18,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8284740,8,Davis Pratt,,,Sr,P,6-2,R/R,15082,21,0,2,2,4,,1.000,,,1,,,,1.000
-19,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8278729,35,Connor Caskenette,,,Sr,C,6-0,R/R,15082,55,51,336,26,362,,1.000,,4,14,8,1,,9.000
-20,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417197,1,Mike Bolton Jr.,,,Sr,OF,5-9,L/R,15082,53,49,79,,83,4,0.952,,,,,,,
-21,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417205,7,Camden Gasser,,,Jr,INF,5-10,L/R,15082,51,51,80,157,246,9,0.963,,,,,41,,
-22,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417208,37,Jordan Morales,,,Sr,P,5-9,L/L,15082,15,15,2,7,10,1,0.900,,,2,,,,1.000
-23,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417211,42,Chase Brown,,,Jr,INF,6-2,R/R,15082,16,1,3,4,8,1,0.875,,,,,2,,
-24,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417204,5,Thomas Green,,,Sr,INF,6-0,R/R,15082,48,35,47,107,159,5,0.969,,,,,16,,
-25,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417206,14,Breck Nowik,,,So,INF,6-3,R/R,15082,24,8,59,7,67,1,0.985,,,,,9,,
-26,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417218,10,Logan Sutter,,,Jr,INF,6-1,R/R,15082,49,39,13,9,25,3,0.880,,,,,1,,
-27,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417202,40,Aaron Dolney,,,Sr,C,6-4,L/R,15082,29,8,68,2,71,1,0.986,,3,8,,,,4.000
-28,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417207,28,Enas Hayden,,,Jr,P,6-3,R/R,15082,5,0,,,0,,,,,1,,,,1.000
-29,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417210,44,Keenan Spence,,,Jr,OF,6-5,R/R,15082,49,47,86,3,92,3,0.967,,,,,,,
-30,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417214,25,Brayden Olson,,,Fr,P,6-2,R/R,15082,7,0,,2,2,,1.000,,,2,,,,1.000
-31,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417216,22,Easton Storey,,,Fr,P,5-11,L/L,15082,6,0,,,0,,,,,,,,,
-32,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417203,4,Luke Wagner,,,Sr,UT,6-0,R/L,15082,15,15,3,17,20,,1.000,,,8,,3,,4.000
-33,2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417213,26,Cole Van Assen,,,Fr,P,6-3,R/R,15082,13,8,2,4,7,1,0.857,,,1,2,1,,1.000
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8260920,27,Aaron Suval,,,Sr,P,5-11,R/R,15082,21,0,1,5,7,1,0.857,,,3,2,,,2.500
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8276302,18,Jonathan Blackwell,,,Sr,P,6-1,L/L,15082,10,9,2,4,7,1,0.857,,,3,,,,1.000
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8267175,49,Luke Gaffney,,,So,C,6-2,R/R,15082,53,53,424,25,450,1,0.998,,,3,,44,,1.000
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8276959,20,Couper Cornblum,,,Sr,OF,6-0,R/R,15082,57,57,158,1,162,3,0.981,,,,,2,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8268169,36,Carter Doorn,,,Jr,P,6-3,R/R,15082,21,0,1,1,2,,1.000,,,,,,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8262566,11,Cal Lambert,,,Sr,P,6-2,L/L,15082,10,0,,2,3,1,0.667,,,,,,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8274394,3,Jo Stevens,,,Sr,INF,6-2,R/R,15082,54,51,38,95,140,7,0.950,,,,,8,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8275595,34,Corbin Malott,,,So,INF,6-1,R/R,15082,23,0,,,0,,,,,,,,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8266423,2,Ty Gill,,,Jr,INF,6-2,L/R,15082,44,27,43,74,120,3,0.975,,,,,23,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8267627,9,Camden Melvin,,,Jr,OF,6-0,L/L,15082,14,0,,,0,,,,,,,,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8259235,32,CJ Backer,,,Sr,P,6-7,R/R,15082,10,0,,1,1,,1.000,,,,1,,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8281644,41,Brody Chrisman,,,So,OF,6-3,L/R,15082,34,10,16,1,19,2,0.895,,,,,,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8279326,48,Griffin Lohman,,,Sr,P,6-6,L/R,15082,8,0,1,1,3,1,0.667,,,,,1,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8283031,6,Weston Gingerich,,,Sr,OF,5-10,L/L,15082,32,0,16,,16,,1.000,,,,,,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8283069,43,Avery Cook,,,Sr,P,6-6,R/R,15082,26,0,,4,4,,1.000,,,1,,,,1.000
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8278417,19,Jackson  Dannelley,,,Sr,P,5-10,R/R,15082,16,0,3,7,12,2,0.833,,,,1,,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8285992,29,Kyle Iwinski,,,Sr,P,6-2,R/R,15082,12,10,5,4,9,,1.000,,,3,3,1,,3.000
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8283628,13,Keenan Taylor,,,Sr,INF,5-10,R/R,15082,45,26,9,1,10,,1.000,,,,,,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8284740,8,Davis Pratt,,,Sr,P,6-2,R/R,15082,21,0,2,2,4,,1.000,,,1,,,,1.000
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8278729,35,Connor Caskenette,,,Sr,C,6-0,R/R,15082,55,51,336,26,362,,1.000,,4,14,8,1,,9.000
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417197,1,Mike Bolton Jr.,,,Sr,OF,5-9,L/R,15082,53,49,79,,83,4,0.952,,,,,,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417205,7,Camden Gasser,,,Jr,INF,5-10,L/R,15082,51,51,80,157,246,9,0.963,,,,,41,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417208,37,Jordan Morales,,,Sr,P,5-9,L/L,15082,15,15,2,7,10,1,0.900,,,2,,,,1.000
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417211,42,Chase Brown,,,Jr,INF,6-2,R/R,15082,16,1,3,4,8,1,0.875,,,,,2,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417204,5,Thomas Green,,,Sr,INF,6-0,R/R,15082,48,35,47,107,159,5,0.969,,,,,16,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417206,14,Breck Nowik,,,So,INF,6-3,R/R,15082,24,8,59,7,67,1,0.985,,,,,9,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417218,10,Logan Sutter,,,Jr,INF,6-1,R/R,15082,49,39,13,9,25,3,0.880,,,,,1,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417202,40,Aaron Dolney,,,Sr,C,6-4,L/R,15082,29,8,68,2,71,1,0.986,,3,8,,,,4.000
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417207,28,Enas Hayden,,,Jr,P,6-3,R/R,15082,5,0,,,0,,,,,1,,,,1.000
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417210,44,Keenan Spence,,,Jr,OF,6-5,R/R,15082,49,47,86,3,92,3,0.967,,,,,,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417214,25,Brayden Olson,,,Fr,P,6-2,R/R,15082,7,0,,2,2,,1.000,,,2,,,,1.000
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417216,22,Easton Storey,,,Fr,P,5-11,L/L,15082,6,0,,,0,,,,,,,,,
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417203,4,Luke Wagner,,,Sr,UT,6-0,R/L,15082,15,15,3,17,20,,1.000,,,8,,3,,4.000
+2024,2023-24,MBA,559,Purdue,1,I,Big Ten,8417213,26,Cole Van Assen,,,Fr,P,6-3,R/R,15082,13,8,2,4,7,1,0.857,,,1,2,1,,1.000

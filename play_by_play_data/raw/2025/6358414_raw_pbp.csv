@@ -1,0 +1,95 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,1,top,"DIMARTINI, M grounded out to 3b (1-2).",1,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,1,top,"CAZORLA, A. flied out to lf to left field (2-2).",2,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,1,top,"LUJO, R. fouled out to c (1-0).",3,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,1,bot,"Caufield, C. hit by pitch (0-0).",4,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,1,bot,"Walsh, C. struck out swinging (2-2).",5,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,1,bot,"Andrews, C. singled through the right side (2-2); Caufield, C. advanced to second.",6,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,1,bot,"Lovarco, N. struck out looking (1-2).",7,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,1,bot,"Padden, H. flied out to ss to left field (2-0).",8,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,2,top,"STANG, B. struck out swinging (3-2).",9,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,2,top,"ZORN, A. grounded out to 1b unassisted (2-2).",10,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,2,top,"DOBIE, M. singled through the left side (0-1).",11,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,2,top,"HOWELL, M. struck out swinging, out at first c to 1b (1-2).",12,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,2,bot,"Hunt, Wyatt hit by pitch (1-0).",13,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,2,bot,"Dux, Shane walked (3-1); Hunt, Wyatt advanced to second.",14,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,2,bot,"Schmid, A. reached on a throwing error by p, advanced to second, SAC (0-0); Dux, Shane advanced to third; Hunt, Wyatt scored, unearned.",15,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,2,bot,"Porter, T. grounded out to 3b, RBI (0-0); Schmid, A. advanced to third; Dux, Shane scored, unearned.",16,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,2,bot,"Caufield, C. flied out to 3b (0-1).",17,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,2,bot,"Walsh, C. grounded out to 3b (0-1).",18,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,3,top,"WOUTERS, D. grounded out to ss (1-1).",19,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,3,top,"MAINOLFI, T. struck out looking (0-2).",20,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,3,top,"DIMARTINI, M struck out swinging (0-2).",21,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,3,bot,"Andrews, C. walked (3-1).",22,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,3,bot,"Lovarco, N. walked (3-1); Andrews, C. advanced to second.",23,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,3,bot,"Padden, H. reached on a throwing error by p, bunt, SAC (1-1); Lovarco, N. advanced to second; Andrews, C. advanced to third.",24,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,3,bot,"MCGOVERN, J. to p for GATTI, J..",25,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,3,bot,"Hunt, Wyatt singled to right field, 2 RBI (2-0); Padden, H. advanced to third; Lovarco, N. scored; Andrews, C. scored.",26,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,3,bot,"Hunt, Wyatt advanced to second on a passed ball.",27,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,3,bot,"Dux, Shane flied out to cf, SF, RBI (3-2); Padden, H. scored, unearned.",28,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,3,bot,"Schmid, A. doubled down the lf line, RBI (0-0); Hunt, Wyatt scored.",29,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,3,bot,"Porter, T. lined out to rf to right field (2-2).",30,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,3,bot,"Caufield, C. singled through the right side, RBI (2-2); Schmid, A. scored, team unearned.",31,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,3,bot,"Caufield, C. stole second.",32,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,3,bot,"Walsh, C. lined out to lf to left field (1-2).",33,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,4,top,"CAZORLA, A. flied out to cf to left center (1-0).",34,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,4,top,"LUJO, R. walked (3-0).",35,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,4,top,"STANG, B. grounded into double play 3b to 2b to 1b (0-1); LUJO, R. out on the play.",36,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,4,bot,"HELLER, J. to p for MCGOVERN, J..",37,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,4,bot,"Andrews, C. flied out to cf to center field (1-2).",38,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,4,bot,"Lovarco, N. singled to center field (2-0).",39,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,4,bot,"Padden, H. hit by pitch (1-0); Lovarco, N. advanced to second.",40,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,4,bot,"Hunt, Wyatt flied out to cf to right center (0-1); Lovarco, N. advanced to third.",41,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,4,bot,"Dux, Shane singled to shortstop, RBI (0-1); Padden, H. advanced to second, advanced to third on the throw; Lovarco, N. scored.",42,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,4,bot,"Schmid, A. grounded out to 3b (0-1).",43,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,5,top,"ZORN, A. flied out to cf to center field (0-1).",44,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,5,top,"DOBIE, M. out at first 1b to p (1-0).",45,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,5,top,"HOWELL, M. hit by pitch (0-0).",46,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,5,top,"WOUTERS, D. grounded out to 3b (3-2).",47,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,5,bot,"Porter, T. struck out swinging (1-2).",48,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,5,bot,"Caufield, C. flied out to lf to left field (3-2).",49,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,5,bot,"Walsh, C. grounded out to 3b (0-0).",50,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,6,top,"MAINOLFI, T. flied out to lf to left field (1-0).",51,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,6,top,"DIMARTINI, M flied out to lf to left field (0-0).",52,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,6,top,"HEBERLIE, A. pinch hit for CAZORLA, A..",53,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,6,top,"HEBERLIE, A. grounded out to p (3-1).",54,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,6,bot,"DIMARTINI, M to rf.",55,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,6,bot,"HEBERLIE, A. to cf.",56,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,6,bot,"Andrews, C. struck out looking (3-2).",57,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,6,bot,"Lovarco, N. singled to third base (1-0).",58,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,6,bot,"Lovarco, N. stole second.",59,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,6,bot,"Padden, H. grounded out to 2b (2-2); Lovarco, N. advanced to third.",60,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,6,bot,"Hunt, Wyatt fouled out to c (3-2).",61,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,7,top,"Mealy, Ryan to p for Kent, Tommy.",62,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,7,top,"LUJO, R. flied out to rf to right field (2-2).",63,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,7,top,"STANG, B. singled to left center (0-0).",64,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,7,top,"ZORN, A. reached on a fielder's choice (0-0); STANG, B. advanced to second on a throwing error by 3b.",65,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,7,top,"DOBIE, M. flied out to rf to right center (2-2).",66,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,7,top,"HOWELL, M. singled to center field, RBI (0-0); ZORN, A. advanced to second; STANG, B. scored, unearned.",67,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,7,top,"WOUTERS, D. singled to center field, RBI (3-2); HOWELL, M. advanced to second; ZORN, A. scored, unearned.",68,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,7,top,"MAINOLFI, T. out at first 1b to p (1-1).",69,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,7,bot,"CAHILL, R. to p for HELLER, J..",70,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,7,bot,"Dux, Shane walked (3-1).",71,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,7,bot,"Schmid, A. walked (3-0); Dux, Shane advanced to second.",72,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,7,bot,"Porter, T. singled, bunt (2-1); Schmid, A. advanced to second; Dux, Shane advanced to third.",73,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,7,bot,"GRAZZAL, D. to p for CAHILL, R..",74,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,7,bot,"Caufield, C. singled up the middle, 2 RBI (0-2); Porter, T. advanced to second; Schmid, A. scored; Dux, Shane scored.",75,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,7,bot,"Walsh, C. flied out to lf to left field (0-2).",76,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,7,bot,"Caufield, C. stole second; Porter, T. stole third.",77,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,7,bot,"Andrews, C. flied out to cf to center field, SF, RBI (1-2); Porter, T. scored.",78,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,7,bot,"Lovarco, N. lined out to cf to center field (0-1).",79,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,8,top,"DIMARTINI, M homered to left center, RBI (0-0).",80,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,8,top,"HEBERLIE, A. struck out looking (3-2).",81,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,8,top,"LUJO, R. struck out swinging, out at first c to 1b (0-2).",82,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,8,top,"STANG, B. grounded out to p (0-0).",83,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,8,bot,"Padden, H. hit by pitch (3-2).",84,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,8,bot,"Hunt, Wyatt walked (3-0); Padden, H. advanced to second.",85,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,8,bot,"Dux, Shane singled up the middle, RBI (2-1); Hunt, Wyatt advanced to second; Padden, H. scored.",86,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,8,bot,"Schmid, A. singled to left field, RBI (0-0); Dux, Shane advanced to second; Hunt, Wyatt scored.",87,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,8,bot,"Porter, T. flied out to cf to right center (0-1).",88,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596609,8,bot,"Caufield, C. reached on a fielder's choice (0-0); Schmid, A. out at second ss to 2b; Dux, Shane advanced to third, out at third 2b to 3b.",89,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,9,top,"Danyluk, J. to p for Mealy, Ryan.",90,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,9,top,"ZORN, A. flied out to cf to center field (0-1).",91,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,9,top,"CARROLL, C. pinch hit for DOBIE, M..",92,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,9,top,"CARROLL, C. struck out swinging (2-2).",93,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025
+6358414,596532,Dayton Flyers,596609,Monmouth Hawks,596532,9,top,"HOWELL, M. flied out to cf to center field.",94,2025-02-14T00:00:00-05:00,"Cary, NC",132,MBA,2025

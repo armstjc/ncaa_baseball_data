@@ -1,18 +1,18 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8268019,25,Tyler Bremner,,,So,P,6-2,R/R,15081,,19,9,2.54,88.2,1,57,27,25,21,104,,344,313,10,,1,6,6,3,1,13,6,5,2,970,80,78,11,1,,27,1
-1,2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8271354,22,Frank Camarillo,,,So,P,6-4,R/R,15081,,13,1,7.97,20.1,,27,18,18,12,18,,98,82,6,1,,6,5,1,,9,5,1,2,295,13,26,2,,,7,
-2,2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8275020,44,Hayden Hattenbach,,,Sr,P,6-7,L/L,15081,,4,,8.10,3.1,,5,3,3,3,4,,18,13,1,1,,,2,,,3,1,,2,41,1,5,,,,2,
-3,2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8267015,18,Brady Huddlestun,,,Sr,P,6-0,R/R,15081,,7,,2.45,7.1,,10,2,2,1,8,,33,30,1,1,,,1,1,,,,1,,96,7,6,,,,2,
-4,2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8273058,17,Ryan Gallagher,,,Jr,P,6-3,L/R,15081,,14,14,2.22,89.0,1,50,26,22,25,96,1,351,310,10,,,3,8,6,,,,7,3,987,71,97,10,1,,20,1
-5,2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8273331,48,Reed Moring,,,So,P,6-1,R/R,15081,,16,3,7.12,30.1,,42,25,24,20,31,,156,126,7,1,,4,2,6,1,8,2,1,3,411,26,31,1,3,,8,
-6,2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8275726,36,Hudson Barrett,,,So,P,6-5,L/L,15081,,2,,7.71,2.1,,0,2,2,6,3,,14,7,,,,,,,,1,,1,,31,3,1,,1,,1,
-7,2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8267788,34,Matt Ager,,,Jr,P,6-5,R/R,15081,,24,9,4.02,62.2,,59,34,28,28,59,,284,245,13,,,4,8,7,2,17,3,1,3,677,45,81,3,4,11,11,
-8,2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8265370,20,Mike Gutierrez,,,Sr,P,6-2,L/L,15081,,16,16,3.18,90.2,,70,36,32,34,86,,384,332,14,,4,7,4,10,,,,7,1,"1,054",76,104,10,,,26,1
-9,2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8280477,30,Jed Decooman,,,So,P,6-3,R/R,15081,,1,,9.00,1.0,,2,1,1,0,1,,4,4,1,,,,,,,,,,,15,,1,,,,,
-10,2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8418202,24,Ryan Troye,,,So,P,6-3,R/R,15081,,8,,11.05,7.1,,4,9,9,10,8,,38,24,1,,,,8,3,1,10,5,1,,101,10,3,,,,4,
-11,2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8418201,23,Peter Storjohann,,,So,P,6-5,R/R,15081,,2,,0.00,2.1,,2,1,,0,2,,10,10,,,,,,,,1,,,,37,,5,,,,1,
-12,2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8418205,32,Calvin Proskey,,,Fr,P,6-2,R/R,15081,,8,,6.10,10.1,,10,7,7,11,6,,49,35,1,,,,1,2,1,4,3,,1,116,7,13,1,,,3,
-13,2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8418211,39,Nic Peterson,,,Fr,P,6-2,R/L,15081,,2,,13.50,2.2,,7,4,4,0,3,,15,15,1,,,,,,,,,,,48,1,4,,,,,
-14,2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8418215,45,AJ Krodel,,,Fr,P,6-4,R/R,15081,,3,1,9.82,3.2,,2,5,4,3,4,,18,13,,,,,,1,,,,,1,59,3,4,,,,,
-15,2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8418204,31,Cole Tryba,,,Fr,P,6-0,L/L,15081,,27,1,3.64,47.0,,42,25,19,14,65,,206,175,8,,,1,3,11,1,21,8,3,3,657,43,29,3,2,3,27,2
-16,2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8418203,28,Jackson Flora,,,Fr,P,6-5,R/R,15081,,23,4,3.83,47.0,,43,24,20,25,40,,205,170,8,2,,6,2,5,1,19,9,2,3,583,43,46,3,2,5,9,1
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8268019,25,Tyler Bremner,,,So,P,6-2,R/R,15081,,19,9,2.54,88.2,1,57,27,25,21,104,,344,313,10,,1,6,6,3,1,13,6,5,2,970,80,78,11,1,,27,1
+2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8271354,22,Frank Camarillo,,,So,P,6-4,R/R,15081,,13,1,7.97,20.1,,27,18,18,12,18,,98,82,6,1,,6,5,1,,9,5,1,2,295,13,26,2,,,7,
+2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8275020,44,Hayden Hattenbach,,,Sr,P,6-7,L/L,15081,,4,,8.10,3.1,,5,3,3,3,4,,18,13,1,1,,,2,,,3,1,,2,41,1,5,,,,2,
+2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8267015,18,Brady Huddlestun,,,Sr,P,6-0,R/R,15081,,7,,2.45,7.1,,10,2,2,1,8,,33,30,1,1,,,1,1,,,,1,,96,7,6,,,,2,
+2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8273058,17,Ryan Gallagher,,,Jr,P,6-3,L/R,15081,,14,14,2.22,89.0,1,50,26,22,25,96,1,351,310,10,,,3,8,6,,,,7,3,987,71,97,10,1,,20,1
+2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8273331,48,Reed Moring,,,So,P,6-1,R/R,15081,,16,3,7.12,30.1,,42,25,24,20,31,,156,126,7,1,,4,2,6,1,8,2,1,3,411,26,31,1,3,,8,
+2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8275726,36,Hudson Barrett,,,So,P,6-5,L/L,15081,,2,,7.71,2.1,,0,2,2,6,3,,14,7,,,,,,,,1,,1,,31,3,1,,1,,1,
+2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8267788,34,Matt Ager,,,Jr,P,6-5,R/R,15081,,24,9,4.02,62.2,,59,34,28,28,59,,284,245,13,,,4,8,7,2,17,3,1,3,677,45,81,3,4,11,11,
+2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8265370,20,Mike Gutierrez,,,Sr,P,6-2,L/L,15081,,16,16,3.18,90.2,,70,36,32,34,86,,384,332,14,,4,7,4,10,,,,7,1,"1,054",76,104,10,,,26,1
+2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8280477,30,Jed Decooman,,,So,P,6-3,R/R,15081,,1,,9.00,1.0,,2,1,1,0,1,,4,4,1,,,,,,,,,,,15,,1,,,,,
+2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8418202,24,Ryan Troye,,,So,P,6-3,R/R,15081,,8,,11.05,7.1,,4,9,9,10,8,,38,24,1,,,,8,3,1,10,5,1,,101,10,3,,,,4,
+2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8418201,23,Peter Storjohann,,,So,P,6-5,R/R,15081,,2,,0.00,2.1,,2,1,,0,2,,10,10,,,,,,,,1,,,,37,,5,,,,1,
+2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8418205,32,Calvin Proskey,,,Fr,P,6-2,R/R,15081,,8,,6.10,10.1,,10,7,7,11,6,,49,35,1,,,,1,2,1,4,3,,1,116,7,13,1,,,3,
+2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8418211,39,Nic Peterson,,,Fr,P,6-2,R/L,15081,,2,,13.50,2.2,,7,4,4,0,3,,15,15,1,,,,,,,,,,,48,1,4,,,,,
+2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8418215,45,AJ Krodel,,,Fr,P,6-4,R/R,15081,,3,1,9.82,3.2,,2,5,4,3,4,,18,13,,,,,,1,,,,,1,59,3,4,,,,,
+2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8418204,31,Cole Tryba,,,Fr,P,6-0,L/L,15081,,27,1,3.64,47.0,,42,25,19,14,65,,206,175,8,,,1,3,11,1,21,8,3,3,657,43,29,3,2,3,27,2
+2024,2023-24,MBA,104,UC Santa Barbara,1,I,Big West,8418203,28,Jackson Flora,,,Fr,P,6-5,R/R,15081,,23,4,3.83,47.0,,43,24,20,25,40,,205,170,8,2,,6,2,5,1,19,9,2,3,583,43,46,3,2,5,9,1

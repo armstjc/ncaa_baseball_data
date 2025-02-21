@@ -1,0 +1,34 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
+2023,2022-23,MBA,490,NC State,1,I,ACC,7829125,2,Noah Soles,,,Jr,OF,6-1,L/L,15002,36,33,42,,43,1,0.977,,,,,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7829126,43,John Miralia,,,Jr,P,6-7,R/L,15002,13,0,,1,1,,1.000,,,5,1,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7829127,22,Baker Nelson,,,Sr,P,6-0,R/R,15002,27,5,2,5,7,,1.000,,,4,2,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7829129,29,Logan Whitaker,,,Jr,P,6-6,R/R,15002,16,15,11,8,20,1,0.950,,,4,3,,,1.000
+2023,2022-23,MBA,490,NC State,1,I,ACC,7829131,1,Carson Falsken,,,So,UT,5-11,R/R,15002,6,0,,2,3,1,0.667,,,,,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7829135,17,Sam HIghfill,,,Jr,P,6-3,R/R,15002,22,6,,4,4,,1.000,,,2,2,,,2.000
+2023,2022-23,MBA,490,NC State,1,I,ACC,7829136,23,Matt Willadsen,,,Jr,P,6-3,R/R,15002,16,16,10,11,22,1,0.955,,,6,2,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7829138,13,Dominic Pilolli,,,Jr,OF,5-11,L/L,15002,17,1,3,,3,,1.000,,,,,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7829139,3,Will Marcy,,,So,UT,6-3,R/R,15002,45,33,71,2,76,3,0.961,,,,,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7829142,14,Jacob Cozart,,,So,C,6-3,L/R,15002,52,48,472,38,514,4,0.992,,12,34,9,2,,4.000
+2023,2022-23,MBA,490,NC State,1,I,ACC,7829144,6,LuJames Groover III,,,Jr,INF,6-2,R/R,15002,57,57,33,100,143,10,0.930,,,,,6,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7829145,8,Payton Green,,,So,INF,6-3,R/R,15002,55,54,58,113,180,9,0.950,,,,,16,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7829146,12,Chase Nixon,,,So,OF,6-1,L/R,15002,32,18,12,,12,,1.000,,,,,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7829147,24,Carson Kelly,,,So,P,6-2,R/R,15002,21,0,3,4,8,1,0.875,,,4,2,1,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7829152,40,Jacob Halford,,,So,P,6-3,R/R,15002,3,1,,,0,,,,,1,,,,1.000
+2023,2022-23,MBA,490,NC State,1,I,ACC,7829156,31,Win Scott,,,So,P,6-2,L/L,15002,7,0,1,,1,,1.000,,,1,,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7829157,30,Justin Lawson,,,Jr,P,6-3,R/R,15002,27,0,5,8,13,,1.000,,,,1,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7979670,48,Andrew Shaffner,,,Fr,P,6-2,L/R,15002,15,0,,2,3,1,0.667,,,2,2,,,1.000
+2023,2022-23,MBA,490,NC State,1,I,ACC,7979021,20,Trevor Candelaria,,,Sr,OF,6-1,R/R,15002,51,51,101,4,107,2,0.981,,,,,1,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7979022,7,Kalae Harrison,,,Jr,INF,5-11,L/R,15002,57,57,80,132,216,4,0.981,,,,,24,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7979669,16,Eli Serrano III,,,Fr,OF,6-5,L/L,15002,53,49,381,43,429,5,0.988,,,,,25,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7979023,27,Parker Nolan,,,Sr,OF,6-5,R/R,15002,51,41,96,3,102,3,0.971,,,,,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7979595,10,Isaiah Barkett,,,Fr,INF,5-11,R/R,15002,10,0,,3,4,1,0.750,,,,,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7979674,25,Derrick Smith,,,Fr,P,6-2,R/R,15002,3,0,2,,2,,1.000,,,,,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7979664,37,Everette Harris,,,Fr,P,6-2,R/R,15002,4,0,,,0,,,,,,,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7979019,0,Rio Britton,,,Jr,P,6-2,B/L,15002,22,1,,3,4,1,0.750,,,4,2,,,1.000
+2023,2022-23,MBA,490,NC State,1,I,ACC,7979024,15,Carter Trice,,,Jr,OF,6-0,R/R,15002,41,28,45,,46,1,0.978,,,,,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7979026,33,Creed Watkins,,,Jr,P,6-5,R/R,15002,5,0,,1,1,,1.000,,,,,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7979663,19,Michael Gupton,,,Fr,OF,5-10,R/R,15002,15,0,1,,1,,1.000,,,,,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7979678,51,Dominic Fritton,,,Fr,P,6-1,L/L,15002,17,9,3,6,10,1,0.900,,,3,,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7979679,32,Matt Heavner,,,Fr,INF,5-10,R/R,15002,17,4,4,12,18,2,0.889,,,,,2,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7978995,34,P.J. Labriola,,,Jr,P,6-7,L/L,15002,13,4,1,4,5,,1.000,,,2,,,,
+2023,2022-23,MBA,490,NC State,1,I,ACC,7979686,5,Cannon Peebles,,,Fr,C,5-11,B/R,15002,46,39,77,7,84,,1.000,,1,3,5,,,

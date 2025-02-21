@@ -1,0 +1,29 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,7833416,10,Reece Homan,,,Sr,INF,-,,15001,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,7833417,16,Sean Sodaro,,,Sr,P,6-1,R/R,15001,14,14,,9.55,21.2,,27,24,23,10,13,,104,87,4,,,4,1,5,,6,,1,1,353,20,28,3,1,,1,1
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,7833421,8,Kaleb Schulist,,,Jr,P,6-6,L/L,15001,15,14,1,8.64,16.2,,20,17,16,11,17,,83,66,4,,,6,2,4,,9,7,1,1,209,13,18,1,2,,9,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,7833423,15,Chris Conrad,,,Sr,P,-,,15001,16,15,11,7.71,56.0,,85,60,48,26,31,,278,240,17,3,2,10,3,3,,1,1,3,6,882,43,81,2,8,,7,1
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,7833424,27,Jared Heinzen,,,Sr,OF,6-2,R/R,15001,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,7833425,41,Caden Bronkhorst,,,Sr,P,-,,15001,14,14,8,7.55,39.1,,51,41,33,27,26,,202,164,8,1,1,1,8,6,,6,2,3,2,686,47,38,2,4,,9,4
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,7833426,12,Ryan Brouch,,,Sr,INF,-,,15001,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,7833427,19,Maguire Delagrave,,,So,P,6-1,R/R,15001,17,15,,7.81,27.2,,36,27,24,14,16,,137,112,11,,2,3,5,7,1,8,4,1,3,479,29,29,,1,,5,1
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,7833428,25,Andrew Harris,,,Jr,UT,6-1,R/R,15001,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,7833429,30,Zach Alburg,,,So,C,6-0,R/R,15001,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,7833431,29,Andrew Sumner,,,Sr,P,5-9,R/R,15001,15,15,3,9.98,15.1,,21,18,17,12,8,,85,68,3,2,,,2,5,,5,4,,,279,16,21,,,,4,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,7833432,39,Matt Felske,,,So,UT,6-0,R/R,15001,22,7,,5.79,14.0,,20,10,9,7,5,,66,58,1,1,,1,,,,3,2,,1,222,21,12,1,,,2,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,7833433,35,Noah Gerritson,,,So,P,6-5,L/L,15001,15,15,10,8.60,45.0,,58,59,43,47,41,,250,184,12,2,,1,6,12,1,1,,5,2,957,53,32,,8,,10,2
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,7833434,14,Ryan McGonegle,,,So,OF,5-9,R/R,15001,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,7833435,2,Angel Rades,,,So,OF,5-8,L/L,15001,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,7833436,32,Max Bruff,,,Sr,C,-,,15001,47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,8012329,21,Emanuel Andujar Ferreira,,,Jr,1B,5-8,L/L,15001,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,8012330,44,Michael Zordani,,,Fr,UT,6-5,R/R,15001,29,17,2,8.07,29.0,,37,31,26,21,23,,148,115,5,1,,6,3,9,,4,,2,1,556,26,29,2,,,8,1
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,8012357,34,Daniel Llanas,,,Jr,UT,6-0,R/R,15001,36,13,8,7.38,39.0,,46,37,32,23,30,,188,154,6,4,,9,2,5,,3,3,4,2,606,41,39,,7,,3,1
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,8012355,22,Bryce Inman,,,Sr,UT,-,,15001,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,8012356,5,Camden Kearney,,,Fr,1B,6-1,L/R,15001,40,9,,2.31,11.2,,11,3,3,8,7,,53,44,1,1,,1,,1,,2,1,,,181,16,10,1,,3,2,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,8012370,9,Jorden Rauch,,,So,1B,-,,15001,1,1,1,36.00,1.0,,2,4,4,3,2,,9,5,1,,,,,1,,,,,,41,1,,,,,1,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,8012354,26,Patrick Connolly,,,Jr,INF,-,,15001,30,1,,54.00,0.2,,3,4,4,3,1,,9,6,,,,1,,,,,,,,36,2,,,,,,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,8012353,40,Charlie Campbell,,,Jr,P,6-7,R/R,15001,16,16,3,10.20,30.0,,48,46,34,19,24,,179,142,10,3,,6,3,14,,6,2,2,2,614,33,32,,3,1,11,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,8012358,13,Joe Prudhom,,,Fr,C,-,,15001,23,1,,5.40,1.2,,1,1,1,0,1,,6,6,,1,,,,,,3,,,,22,1,3,,,,1,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,8012360,17,Noah Tyrrell,,,Sr,UT,-,,15001,35,1,,0.00,0.1,,0,,,0,,,1,1,,,,,,,,3,,,,4,,1,,,,,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,8020078,11,Nicholas Schouten,,,Sr,P,-,,15001,10,10,2,13.91,22.0,,46,36,34,18,8,,131,105,10,4,,2,2,4,,1,,2,2,360,24,30,1,2,,1,
+2023,2022-23,MBA,799,Wis.-Parkside,2,II,GLIAC,8020079,36,Juan Maldonado,,,So,UT,-,,15001,5,4,,22.50,6.0,,18,15,15,5,2,,42,34,3,1,,3,2,3,,,,,,156,7,7,,,,,

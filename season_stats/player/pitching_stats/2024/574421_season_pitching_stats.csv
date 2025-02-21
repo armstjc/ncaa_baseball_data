@@ -1,0 +1,24 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8266771,47,Diego Wirz,,,So,P,6-1,R/R,15081,,9,4,7.71,16.1,,13,14,14,15,13,,78,54,2,,,2,3,7,,,,1,1,239,19,11,,3,,5,1
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8276611,46,Gabriel Soto,,,Sr,P,6-0,R/R,15081,,5,,6.35,5.2,,10,4,4,1,,,28,24,1,,,1,,1,,,,1,1,63,11,5,,,1,,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8259643,40,Scott Scheppy,,,Jr,P,6-1,B/R,15081,,10,4,8.18,33.0,,41,36,30,18,17,,160,136,7,3,4,2,1,3,,,,1,2,397,38,40,2,1,,3,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8276773,36,Ryan Ehret,,,So,P,5-9,R/R,15081,,9,,5.11,12.1,,16,11,7,8,9,,57,47,2,,,,5,,,,,,2,192,11,11,1,,,1,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8265943,24,Ryan Rozinski,,,Sr,P,6-2,R/R,15081,,11,9,6.44,43.1,,53,38,31,17,34,,204,180,8,5,3,3,6,6,,,,1,,629,38,53,3,4,,10,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8262339,31,Denis Garcia,,,Jr,P,6-4,R/R,15081,,4,,9.64,4.2,,8,5,5,9,7,,31,22,,,,,5,,,,,,,46,3,4,,,,3,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8274343,23,Matthew Manzoeillo,,,Jr,P,6-0,R/L,15081,,16,3,4.19,43.0,,39,23,20,18,29,,182,152,9,,,2,3,4,,4,3,3,5,506,39,46,3,4,,9,3
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8263973,15,Brian Zbytniewski,,,So,P,6-0,R/R,15081,,13,2,8.47,17.0,,30,21,16,16,13,,98,76,5,1,,,2,3,,7,1,2,1,292,15,19,,1,2,6,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8269840,22,Joshua Alvarado,,,Sr,P,6-1,R/R,15081,,8,,9.00,6.0,,9,6,6,5,6,,33,28,,1,,2,,,,4,4,,,74,4,7,,,,2,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8284130,33,Riley Williams,,,So,P,6-2,R/R,15081,,15,6,6.84,48.2,,61,47,37,29,26,,235,198,9,1,1,7,2,4,,3,,2,2,694,66,44,2,4,2,6,1
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8280747,43,Gaetano Pennisi,,,Sr,P,5-11,R/R,15081,,1,,18.00,1.0,,1,2,2,,1,,7,4,,,,,2,3,,,,,,20,1,1,,,,,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8287277,51,Nelson Perez Jr.,,,Sr,P,6-0,R/R,15081,,5,,6.00,3.0,,3,2,2,7,,,19,11,1,,,,1,,,2,2,,1,55,2,7,,,,,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8411148,34,John Gillespie,,,Sr,P,6-8,L/L,15081,,10,5,7.54,22.2,,17,20,19,21,16,,111,83,2,1,,1,6,6,,,,1,,229,24,27,1,3,1,4,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8411146,17,Ryan Dieguez,,,Sr,P,6-4,R/R,15081,,9,4,16.78,12.1,,19,24,23,16,18,,76,56,6,,4,3,12,4,,1,1,,,211,9,10,,4,,3,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8421136,3,Nevin Scaperotti,,,Fr,INF,6-0,R/R,15081,,15,10,4.52,67.2,1,64,43,34,30,52,,301,266,16,2,,5,5,4,,5,3,1,,852,54,83,5,3,,15,1
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8421138,6,Jack Esposito,,,Fr,P,6-0,R/R,15081,,7,,25.31,5.1,,11,16,15,13,5,,40,25,1,,,1,4,1,,1,,,1,112,3,7,,,,3,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8421152,39,Amaury Soto,,,Jr,P,6-4,L/R,15081,,2,,9.00,1.0,,1,1,1,4,1,,8,4,,,,,1,,,1,,,,19,,2,,,,,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8421155,41,Lucas Prokosch,,,Sr,P,6-0,L/R,15081,,10,,11.77,13.0,,22,18,17,15,8,,75,56,6,,1,2,3,2,,,,,2,155,9,19,,,,3,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8421161,45,Will Sullo,,,Jr,P,6-4,R/R,15081,,5,,9.00,6.0,,13,7,6,2,3,,34,30,3,,,2,,1,,3,3,,1,74,7,8,,,,1,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8421147,28,Jack  Sullivan,,,Jr,P,6-2,R/R,15081,,14,2,6.66,24.1,,33,20,18,20,14,,126,101,8,4,,3,3,4,,4,3,,1,337,24,29,3,2,,1,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8421163,52,Vonzell Rivera,,,Jr,P,5-9,R/R,15081,,8,,8.18,11.0,,15,12,10,8,8,,58,49,3,,,1,3,,,1,1,,1,126,9,14,,,,4,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8594203,6,Marcos Feliz,,,Fr,SS,5-7,R/R,15081,,1,,9.00,1.0,,1,1,1,,,,5,3,,,,,,2,,,,,,19,2,,,,,,
+2024,2023-24,MBA,407,Mercy,2,II,ECC,8594202,47,Ryan DeMille,,,Sr,P,5-9,R/R,15081,,1,,18.00,1.0,,4,2,2,,1,,7,7,,,,1,,,,,,,,20,1,1,,,,1,

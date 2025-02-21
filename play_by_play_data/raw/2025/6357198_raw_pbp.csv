@@ -1,91 +1,91 @@
-game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,1,top,Wright doubled to center field (1-0).,1,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,1,top,"Wright advanced to third on a wild pitch, out at home c to 3b to p.",2,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,1,top,Blaszak flied out to cf (2-2).,3,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,1,top,Nehler doubled down the lf line (0-0).,4,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,1,top,Kirshenbaum grounded out to ss (0-1).,5,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,1,bot,DANIELS struck out swinging (1-2).,6,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,1,bot,"BROWN reached on a dropped fly by 3b, advanced to second (1-1).",7,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,1,bot,"GRANT singled to right center, advanced to second on the throw, advanced to third on an error by c, RBI (2-2)3a BROWN scored, unearned.",8,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,1,bot,MARTINI walked (3-2).,9,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,1,bot,AYRES hit by pitch (0-2)3a MARTINI advanced to second.,10,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,1,bot,"KLINOVSKY homered to right field, 4 RBI (1-1)3a AYRES scored3a MARTINI scored3a GRANT scored.",11,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,1,bot,HODGES lined out to 1b (1-1).,12,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,1,bot,THOMSON flied out to rf to right center (1-1).,13,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,2,top,McDonald doubled to left field (1-2).,14,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,2,top,Jeffrey grounded out to 2b (0-0)3a McDonald advanced to third.,15,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,2,top,"Bleggi doubled to left field, RBI (1-1)3a McDonald scored.",16,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,2,top,Elmer struck out looking (0-2).,17,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,2,top,Fortier reached on a fielding error by ss (0-0)3a Bleggi advanced to third.,18,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,2,top,Wright hit by pitch (0-0)3a Fortier advanced to second.,19,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,2,top,Blaszak grounded out to 2b (2-1).,20,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,2,bot,CERVANTES flied out to lf (2-2).,21,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,2,bot,DANIELS struck out swinging (0-2).,22,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,2,bot,BROWN struck out looking (2-2).,23,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,3,top,Nehler flied out to rf to right center (0-0).,24,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,3,top,Kirshenbaum doubled to left field (1-1).,25,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,3,top,McDonald singled to shortstop (1-0).,26,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,3,top,"Jeffrey singled to center field, RBI (0-2)3a McDonald advanced to second3a Kirshenbaum scored.",27,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,3,top,Bleggi struck out looking (1-2).,28,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,3,top,Elmer flied out to lf (1-0).,29,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,3,bot,"GRANT struck out swinging, out at first c to 1b (3-2).",30,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,3,bot,MARTINI walked (3-2).,31,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,3,bot,AYRES singled to left field (0-0)3a MARTINI advanced to second.,32,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,3,bot,KLINOVSKY lined out to ss (2-1).,33,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,3,bot,"HODGES singled to third base (1-1)3a AYRES advanced to second, advanced to third on the error3a MARTINI advanced to third, scored on a throwing error by 3b, unearned.",34,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,3,bot,Smith to 1b for Nehler.,35,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,3,bot,"HODGES stole second3a AYRES stole home, unearned.",36,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,3,bot,THOMSON grounded out to 2b (0-1).,37,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,4,top,Fortier flied out to cf to right center (1-0).,38,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,4,top,Wright lined out to 3b (1-1).,39,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,4,top,Blaszak doubled down the lf line (3-2).,40,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,4,top,Smith grounded out to p (1-2).,41,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,4,bot,Bakker to p for Coxen.,42,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,4,bot,CERVANTES flied out to lf (2-2).,43,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,4,bot,DANIELS walked (3-2).,44,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,4,bot,BROWN reached on a fielder's choice (1-0)3a DANIELS out at second 2b to ss.,45,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,4,bot,GRANT grounded out to 3b (0-0).,46,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,5,top,Kirshenbaum flied out to cf (1-0).,47,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,5,top,McDonald fouled out to 1b (3-2).,48,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,5,top,Jeffrey walked (3-1).,49,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,5,top,"Bleggi singled to shortstop (0-0)3a Jeffrey advanced to second, advanced to third on a throwing error by ss.",50,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,5,top,"Elmer grounded out to p, bunt (0-1).",51,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,5,bot,MARTINI struck out looking (2-2).,52,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,5,bot,AYRES grounded out to 1b unassisted (1-1).,53,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,5,bot,KLINOVSKY hit by pitch (2-2).,54,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,5,bot,HODGES walked (3-2)3a KLINOVSKY advanced to second.,55,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,5,bot,THOMSON grounded out to 1b unassisted (0-0).,56,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,6,top,GALLEGOS to p for DE LEON.,57,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,6,top,Fortier flied out to rf to right center (1-2).,58,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,6,top,Wright doubled to left field (0-0).,59,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,6,top,Blaszak struck out swinging (0-2).,60,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,6,top,Smith flied out to lf (1-2).,61,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,6,bot,CERVANTES singled to right center (1-1).,62,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,6,bot,DANIELS flied out to lf (0-2).,63,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,6,bot,BROWN flied out to cf to left center (0-2).,64,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,6,bot,McClellan to p for Bakker.,65,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,6,bot,CERVANTES stole second.,66,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,6,bot,GRANT flied out to rf (0-0).,67,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,7,top,Kirshenbaum walked (3-0).,68,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,7,top,Kirshenbaum advanced to second on a wild pitch.,69,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,7,top,McDonald flied out to rf (2-2).,70,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,7,top,Jeffrey grounded out to ss (0-1).,71,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,7,top,Bleggi struck out looking (2-2).,72,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,7,bot,MARTINI flied out to lf (0-2).,73,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,7,bot,AYRES grounded out to ss (0-1).,74,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,7,bot,KLINOVSKY fouled out to 2b (0-1).,75,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,8,top,GOFF to p for GALLEGOS.,76,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,8,top,Elmer walked (3-1).,77,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,8,top,Fortier flied out to rf (3-2).,78,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,8,top,Wright struck out swinging (3-2).,79,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,8,top,Blaszak grounded out to ss (3-2).,80,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,8,bot,Thompson to p for McClellan.,81,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,8,bot,HODGES flied out to rf (1-1).,82,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,8,bot,THOMSON grounded out to 1b unassisted (1-1).,83,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,8,bot,CERVANTES flied out to lf (0-0).,84,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,9,top,PALERMO to p for GOFF.,85,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,9,top,ELLWANGER to 2b for THOMSON.,86,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,9,top,"Bertram, K pinch hit for Smith.",87,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,9,top,"Bertram, K struck out looking (3-2).",88,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,9,top,Kirshenbaum struck out swinging (0-2).,89,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
-6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,9,top,McDonald struck out swinging (3-2).,90,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,1,top,Wright doubled to center field (1-0).,1,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,1,top,"Wright advanced to third on a wild pitch, out at home c to 3b to p.",2,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,1,top,Blaszak flied out to cf (2-2).,3,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,1,top,Nehler doubled down the lf line (0-0).,4,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,1,top,Kirshenbaum grounded out to ss (0-1).,5,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,1,bot,DANIELS struck out swinging (1-2).,6,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,1,bot,"BROWN reached on a dropped fly by 3b, advanced to second (1-1).",7,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,1,bot,"GRANT singled to right center, advanced to second on the throw, advanced to third on an error by c, RBI (2-2)3a BROWN scored, unearned.",8,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,1,bot,MARTINI walked (3-2).,9,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,1,bot,AYRES hit by pitch (0-2)3a MARTINI advanced to second.,10,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,1,bot,"KLINOVSKY homered to right field, 4 RBI (1-1)3a AYRES scored3a MARTINI scored3a GRANT scored.",11,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,1,bot,HODGES lined out to 1b (1-1).,12,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,1,bot,THOMSON flied out to rf to right center (1-1).,13,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,2,top,McDonald doubled to left field (1-2).,14,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,2,top,Jeffrey grounded out to 2b (0-0)3a McDonald advanced to third.,15,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,2,top,"Bleggi doubled to left field, RBI (1-1)3a McDonald scored.",16,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,2,top,Elmer struck out looking (0-2).,17,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,2,top,Fortier reached on a fielding error by ss (0-0)3a Bleggi advanced to third.,18,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,2,top,Wright hit by pitch (0-0)3a Fortier advanced to second.,19,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,2,top,Blaszak grounded out to 2b (2-1).,20,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,2,bot,CERVANTES flied out to lf (2-2).,21,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,2,bot,DANIELS struck out swinging (0-2).,22,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,2,bot,BROWN struck out looking (2-2).,23,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,3,top,Nehler flied out to rf to right center (0-0).,24,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,3,top,Kirshenbaum doubled to left field (1-1).,25,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,3,top,McDonald singled to shortstop (1-0).,26,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,3,top,"Jeffrey singled to center field, RBI (0-2)3a McDonald advanced to second3a Kirshenbaum scored.",27,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,3,top,Bleggi struck out looking (1-2).,28,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,3,top,Elmer flied out to lf (1-0).,29,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,3,bot,"GRANT struck out swinging, out at first c to 1b (3-2).",30,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,3,bot,MARTINI walked (3-2).,31,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,3,bot,AYRES singled to left field (0-0)3a MARTINI advanced to second.,32,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,3,bot,KLINOVSKY lined out to ss (2-1).,33,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,3,bot,"HODGES singled to third base (1-1)3a AYRES advanced to second, advanced to third on the error3a MARTINI advanced to third, scored on a throwing error by 3b, unearned.",34,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,3,bot,Smith to 1b for Nehler.,35,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,3,bot,"HODGES stole second3a AYRES stole home, unearned.",36,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,3,bot,THOMSON grounded out to 2b (0-1).,37,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,4,top,Fortier flied out to cf to right center (1-0).,38,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,4,top,Wright lined out to 3b (1-1).,39,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,4,top,Blaszak doubled down the lf line (3-2).,40,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,4,top,Smith grounded out to p (1-2).,41,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,4,bot,Bakker to p for Coxen.,42,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,4,bot,CERVANTES flied out to lf (2-2).,43,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,4,bot,DANIELS walked (3-2).,44,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,4,bot,BROWN reached on a fielder's choice (1-0)3a DANIELS out at second 2b to ss.,45,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,4,bot,GRANT grounded out to 3b (0-0).,46,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,5,top,Kirshenbaum flied out to cf (1-0).,47,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,5,top,McDonald fouled out to 1b (3-2).,48,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,5,top,Jeffrey walked (3-1).,49,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,5,top,"Bleggi singled to shortstop (0-0)3a Jeffrey advanced to second, advanced to third on a throwing error by ss.",50,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,5,top,"Elmer grounded out to p, bunt (0-1).",51,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,5,bot,MARTINI struck out looking (2-2).,52,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,5,bot,AYRES grounded out to 1b unassisted (1-1).,53,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,5,bot,KLINOVSKY hit by pitch (2-2).,54,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,5,bot,HODGES walked (3-2)3a KLINOVSKY advanced to second.,55,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,5,bot,THOMSON grounded out to 1b unassisted (0-0).,56,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,6,top,GALLEGOS to p for DE LEON.,57,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,6,top,Fortier flied out to rf to right center (1-2).,58,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,6,top,Wright doubled to left field (0-0).,59,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,6,top,Blaszak struck out swinging (0-2).,60,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,6,top,Smith flied out to lf (1-2).,61,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,6,bot,CERVANTES singled to right center (1-1).,62,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,6,bot,DANIELS flied out to lf (0-2).,63,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,6,bot,BROWN flied out to cf to left center (0-2).,64,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,6,bot,McClellan to p for Bakker.,65,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,6,bot,CERVANTES stole second.,66,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,6,bot,GRANT flied out to rf (0-0).,67,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,7,top,Kirshenbaum walked (3-0).,68,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,7,top,Kirshenbaum advanced to second on a wild pitch.,69,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,7,top,McDonald flied out to rf (2-2).,70,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,7,top,Jeffrey grounded out to ss (0-1).,71,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,7,top,Bleggi struck out looking (2-2).,72,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,7,bot,MARTINI flied out to lf (0-2).,73,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,7,bot,AYRES grounded out to ss (0-1).,74,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,7,bot,KLINOVSKY fouled out to 2b (0-1).,75,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,8,top,GOFF to p for GALLEGOS.,76,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,8,top,Elmer walked (3-1).,77,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,8,top,Fortier flied out to rf (3-2).,78,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,8,top,Wright struck out swinging (3-2).,79,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,8,top,Blaszak grounded out to ss (3-2).,80,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,8,bot,Thompson to p for McClellan.,81,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,8,bot,HODGES flied out to rf (1-1).,82,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,8,bot,THOMSON grounded out to 1b unassisted (1-1).,83,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596869,8,bot,CERVANTES flied out to lf (0-0).,84,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,9,top,PALERMO to p for GOFF.,85,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,9,top,ELLWANGER to 2b for THOMSON.,86,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,9,top,"Bertram, K pinch hit for Smith.",87,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,9,top,"Bertram, K struck out looking (3-2).",88,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,9,top,Kirshenbaum struck out swinging (0-2).,89,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025
+6357198,596882,Mont. St. Billings Yellowjackets,596869,Cal St. East Bay Pioneers,596882,9,top,McDonald struck out swinging (3-2).,90,2025-02-03T00:00:00-05:00,"Hayward, CA",27,MBA,2025

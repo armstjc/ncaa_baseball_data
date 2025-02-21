@@ -1,0 +1,19 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8268834,26,Zach Czarnecki,,,So,P,6-0,R/R,15081,,11,,3.09,11.2,,9,8,4,5,10,,58,45,2,,,1,,6,,,,1,1,205,11,14,,,,2,
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8272543,14,Dom Grady,,,Sr,P,6-0,R/R,15081,,19,,3.72,19.1,,11,13,8,14,24,,87,70,1,,1,2,5,1,,,,2,,265,14,19,2,4,7,10,1
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8266128,8,Steven Mann,,,So,P,6-1,R/L,15081,,12,,3.86,11.2,,7,5,5,10,10,,52,38,1,,,3,3,2,,,,,2,159,10,12,,,,6,1
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8273029,29,Justin Barcoski,,,Sr,P,6-1,L/L,15081,,11,,1.64,11.0,,4,9,2,10,8,,50,35,,,,1,5,4,,1,,,1,222,10,11,1,1,,2,
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8273192,10,Alex Krick,,,Jr,UT,6-0,R/R,15081,,12,,4.50,12.0,,11,7,6,6,10,,54,47,5,,1,,1,1,,,,,,142,6,19,,,3,4,
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8267865,9,CJ Deery,,,Sr,OF,5-10,R/R,15081,,8,,3.38,8.0,,5,3,3,6,3,,35,27,2,,,,2,1,,,,,1,105,7,13,,1,,,
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8264183,27,Shawn Edevane,,,Jr,INF,6-3,L/R,15081,,4,,23.63,2.2,,4,8,7,4,3,,20,13,1,,,,3,3,,,,,,61,1,4,,,,2,
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8272393,5,Matt Warrington,,,Sr,UT,6-0,R/R,15081,,12,9,3.88,60.1,1,54,26,26,19,73,,258,229,4,3,,7,2,8,,,,2,,542,44,54,5,2,,24,4
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8281513,32,Anthony Giordano,,,So,P,6-0,R/L,15081,,13,6,3.93,36.2,,36,21,16,20,36,,164,136,8,,,4,1,2,,,,4,2,514,41,27,3,,,10,2
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8526671,36,Steve Schenning,,,So,P,6-0,R/R,15081,,10,5,4.55,27.2,,31,21,14,9,29,,131,113,8,1,,2,7,6,,,,,3,326,30,21,3,1,,7,1
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8526675,22,Zach Walker,,,Jr,P,5-10,R/R,15081,,7,,8.31,4.1,,9,10,4,5,4,,28,21,,1,,,,1,,,,,1,113,6,2,,,,,
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8526667,11,Derek Huff,,,Sr,P,6-6,R/R,15081,,15,11,4.60,47.0,,52,38,24,19,39,,217,191,11,4,,1,3,4,,,,1,2,480,46,48,3,4,,13,1
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8526678,24,Scott Borgmann,,,So,P,6-0,R/R,15081,,12,7,6.75,29.1,,44,33,22,16,19,,154,130,7,3,,3,2,5,,,,3,,289,38,27,,2,,8,1
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8526679,2,Xavier Cortez,,,Fr,P,5-8,R/R,15081,,12,2,2.11,21.1,,23,8,5,5,19,,95,88,6,,,2,2,2,,1,,,,289,18,22,2,1,1,6,
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8526681,7,Brandon Grygo,,,Fr,OF,5-10,L/L,15081,,8,,4.26,12.2,,10,7,6,8,6,,57,44,2,2,2,,,3,,,,1,1,76,13,13,1,,,1,2
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8526684,15,Garrett Quinn,,,Fr,SS,5-11,R/R,15081,,14,,4.50,16.0,,16,13,8,18,12,,79,58,3,1,,4,2,2,,,,1,,185,17,12,4,1,,7,1
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8526686,20,Chase Fleming,,,Fr,P,5-11,R/L,15081,,11,5,2.77,26.0,,24,16,8,14,28,,120,98,8,,,2,3,5,,,,2,1,414,23,22,,1,,11,1
+2024,2023-24,MBA,1460,Wilmington (DE),2,II,CACC,8526691,13,Alec Roselli,,,Jr,P,5-11,L/L,15081,,11,,12.15,6.2,,5,11,9,12,3,,41,21,1,1,,,1,5,,1,,1,2,106,9,6,,3,,1,

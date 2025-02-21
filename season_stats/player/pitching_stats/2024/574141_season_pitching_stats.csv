@@ -1,16 +1,16 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8274818,23,Hunter  Shuey,,,Jr,P,6-3,R/R,15081,,15,8,4.10,52.2,,46,29,24,21,39,,226,191,11,2,,4,8,12,,4,2,1,1,625,71,35,6,2,,16,2
-1,2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8272943,31,Jay Miller,,,So,P,6-6,R/R,15081,,11,8,6.38,42.1,,52,32,30,15,34,,194,165,16,2,1,8,5,7,,3,3,5,2,406,43,42,1,4,,8,1
-2,2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8269356,48,Caleb Cozart,,,Sr,P,6-5,R/R,15081,,4,2,4.22,10.2,,10,5,5,5,11,,47,41,1,,,2,,1,,,,,,92,6,13,,1,,6,
-3,2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8263899,35,Sam  Murchison,,,Sr,P,6-1,R/R,15081,,7,2,4.82,18.2,,19,10,10,3,20,,75,69,5,2,,,2,1,,3,1,1,1,147,14,17,,,1,3,
-4,2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8270963,27,Luke Thomas,,,So,P,6-2,R/R,15081,,12,,6.97,20.2,,21,16,16,12,15,,95,79,5,,,1,1,1,1,13,5,1,2,154,21,25,2,1,3,3,
-5,2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8273519,6,Grant Aycock,,,So,INF,6-5,B/R,15081,,17,,4.59,33.1,,27,19,17,20,38,,148,124,4,1,1,5,7,3,,18,13,,1,458,30,29,3,1,2,13,1
-6,2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8263079,26,Brandon Hudson,,,Jr,P,6-4,R/R,15081,,19,,6.15,33.2,,36,23,23,15,23,,153,130,7,,,7,3,4,1,12,5,4,,439,39,36,4,1,2,6,1
-7,2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8282067,34,Rob Ready,,,Jr,P,6-3,R/R,15081,,12,12,3.95,66.0,1,74,38,29,22,41,,299,266,18,2,,4,4,3,,,,3,4,604,80,70,3,1,,12,
-8,2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8280082,29,Julien Peissel,,,So,P,6-1,R/R,15081,,14,14,4.70,74.2,,74,43,39,32,64,,337,292,18,3,,10,10,7,,,,4,2,"1,120",66,89,4,2,,16,
-9,2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8420760,14,Mayson Dear,,,Fr,P,6-0,R/R,15081,,9,,8.82,16.1,,23,17,16,14,14,,84,69,6,1,,2,2,1,,3,,,,203,15,17,1,1,,6,
-10,2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8420782,21,Noah Chapman,,,Fr,P,6-0,L/L,15081,,19,4,5.72,45.2,,42,35,29,27,37,,215,174,9,2,,5,9,8,1,9,6,4,2,546,45,49,3,3,1,14,1
-11,2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8420789,36,Dylan Smith,,,Fr,P,6-4,R/R,15081,,1,,108.00,0.1,,2,4,4,2,1,,6,3,,,,,,1,,,,,,,,,,,,1,
-12,2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8420794,38,Daniel Thompson,,,Jr,P,6-0,R/R,15081,,21,,4.50,38.0,,35,21,19,18,51,,168,145,7,,,3,3,3,,9,6,1,1,465,34,27,5,3,4,17,1
-13,2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8420799,40,Sammy Tortorella,,,Sr,P,6-3,L/L,15081,,6,4,7.40,20.2,1,27,20,17,16,20,1,107,88,2,,,5,2,1,,1,,,2,321,18,25,1,1,,4,
-14,2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8420786,30,Sean Smith,,,Fr,P,6-1,R/R,15081,,1,,0.00,0.2,,0,,,0,,,2,1,,,,,,,,2,1,,1,,1,1,,,,,
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8274818,23,Hunter  Shuey,,,Jr,P,6-3,R/R,15081,,15,8,4.10,52.2,,46,29,24,21,39,,226,191,11,2,,4,8,12,,4,2,1,1,625,71,35,6,2,,16,2
+2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8272943,31,Jay Miller,,,So,P,6-6,R/R,15081,,11,8,6.38,42.1,,52,32,30,15,34,,194,165,16,2,1,8,5,7,,3,3,5,2,406,43,42,1,4,,8,1
+2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8269356,48,Caleb Cozart,,,Sr,P,6-5,R/R,15081,,4,2,4.22,10.2,,10,5,5,5,11,,47,41,1,,,2,,1,,,,,,92,6,13,,1,,6,
+2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8263899,35,Sam  Murchison,,,Sr,P,6-1,R/R,15081,,7,2,4.82,18.2,,19,10,10,3,20,,75,69,5,2,,,2,1,,3,1,1,1,147,14,17,,,1,3,
+2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8270963,27,Luke Thomas,,,So,P,6-2,R/R,15081,,12,,6.97,20.2,,21,16,16,12,15,,95,79,5,,,1,1,1,1,13,5,1,2,154,21,25,2,1,3,3,
+2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8273519,6,Grant Aycock,,,So,INF,6-5,B/R,15081,,17,,4.59,33.1,,27,19,17,20,38,,148,124,4,1,1,5,7,3,,18,13,,1,458,30,29,3,1,2,13,1
+2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8263079,26,Brandon Hudson,,,Jr,P,6-4,R/R,15081,,19,,6.15,33.2,,36,23,23,15,23,,153,130,7,,,7,3,4,1,12,5,4,,439,39,36,4,1,2,6,1
+2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8282067,34,Rob Ready,,,Jr,P,6-3,R/R,15081,,12,12,3.95,66.0,1,74,38,29,22,41,,299,266,18,2,,4,4,3,,,,3,4,604,80,70,3,1,,12,
+2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8280082,29,Julien Peissel,,,So,P,6-1,R/R,15081,,14,14,4.70,74.2,,74,43,39,32,64,,337,292,18,3,,10,10,7,,,,4,2,"1,120",66,89,4,2,,16,
+2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8420760,14,Mayson Dear,,,Fr,P,6-0,R/R,15081,,9,,8.82,16.1,,23,17,16,14,14,,84,69,6,1,,2,2,1,,3,,,,203,15,17,1,1,,6,
+2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8420782,21,Noah Chapman,,,Fr,P,6-0,L/L,15081,,19,4,5.72,45.2,,42,35,29,27,37,,215,174,9,2,,5,9,8,1,9,6,4,2,546,45,49,3,3,1,14,1
+2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8420789,36,Dylan Smith,,,Fr,P,6-4,R/R,15081,,1,,108.00,0.1,,2,4,4,2,1,,6,3,,,,,,1,,,,,,,,,,,,1,
+2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8420794,38,Daniel Thompson,,,Jr,P,6-0,R/R,15081,,21,,4.50,38.0,,35,21,19,18,51,,168,145,7,,,3,3,3,,9,6,1,1,465,34,27,5,3,4,17,1
+2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8420799,40,Sammy Tortorella,,,Sr,P,6-3,L/L,15081,,6,4,7.40,20.2,1,27,20,17,16,20,1,107,88,2,,,5,2,1,,1,,,2,321,18,25,1,1,,4,
+2024,2023-24,MBA,459,UNC Greensboro,1,I,SoCon,8420786,30,Sean Smith,,,Fr,P,6-1,R/R,15081,,1,,0.00,0.2,,0,,,0,,,2,1,,,,,,,,2,1,,1,,1,1,,,,,

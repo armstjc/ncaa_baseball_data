@@ -1,17 +1,17 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8260825,12,Ryan Porter,,,Jr,INF,6-0,R/R,15081,,13,1,9.25,24.1,,38,25,25,13,19,,124,104,7,1,1,5,4,5,,7,4,1,1,444,27,22,,2,2,2,1
-1,2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8275309,17,William Stephens,,,Sr,P,6-2,R/R,15081,,3,,36.00,1.0,,2,4,4,4,1,,11,4,2,,,,,3,,1,1,,,46,1,,,,,1,
-2,2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8275390,9,Story Kimura,,,Sr,P,6-0,R/R,15081,,10,,9.49,12.1,,17,14,13,13,10,,67,49,4,,,2,4,2,2,9,3,,2,227,11,13,2,1,,2,
-3,2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8274263,26,Tom Clancy,,,Jr,P,6-1,R/R,15081,,2,,20.25,1.1,,0,3,3,3,2,,8,4,,,,,,1,,,,,,41,,2,,,,,
-4,2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8260228,42,Josh Shea,,,So,P,5-11,R/R,15081,,1,,0.00,1.0,,1,,,0,1,,4,4,,,,,,,,,,,,22,,2,,,,,
-5,2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8266404,33,Von Baker,,,Sr,P,6-7,R/R,15081,,13,1,8.56,27.1,,26,26,26,23,20,,139,101,5,1,,6,4,9,,11,7,2,4,476,30,30,2,,,9,
-6,2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8261732,30,William Jaun,,,Jr,UT,6-3,L/L,15081,,12,6,9.71,29.2,,30,33,32,29,25,,151,111,4,,,3,8,5,,6,4,4,2,527,31,30,1,4,1,6,
-7,2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8274779,25,Beck Urofsky,,,So,UT,6-4,R/R,15081,,4,1,9.82,3.2,,7,4,4,2,2,,22,18,3,,,1,1,2,,4,2,,,86,4,5,,,,1,
-8,2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8260691,32,Carson Mayfield,,,So,P,6-5,R/R,15081,,8,8,8.55,33.2,,41,32,32,13,27,,155,137,5,2,,5,3,4,,,,1,,428,38,29,2,2,,6,
-9,2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8281901,3,Chris Ellison,,,Jr,P,6-0,R/R,15081,,16,,5.70,23.2,,14,16,15,18,15,,106,82,3,,,1,2,3,,16,6,1,2,368,31,22,4,,1,7,
-10,2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8284564,13,Ethan Hamill,,,So,P,6-3,R/R,15081,,12,9,5.71,58.1,,62,44,37,25,28,,266,223,11,2,1,7,4,11,,7,7,4,2,854,70,65,3,3,1,9,2
-11,2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8284567,21,John Gerfen,,,So,P,6-0,R/L,15081,,6,,8.44,5.1,,8,6,5,3,8,,28,25,3,,1,,,,,7,5,,,113,3,4,,,,4,
-12,2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8278633,16,Noah Keller,,,So,P,6-1,L/L,15081,,13,8,6.55,45.1,,61,46,33,30,41,,230,189,17,,1,5,1,5,,3,2,4,2,796,39,47,1,6,,15,1
-13,2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8422864,28,Max Foster,,,Fr,P,6-3,R/R,15081,,6,,9.64,4.2,,9,5,5,9,6,,31,22,3,1,,2,1,,,10,5,,,74,1,6,,,,2,
-14,2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8422877,36,Nathaniel Jennewein,,,Fr,P,5-11,R/L,15081,,12,1,8.66,17.2,,18,17,17,17,22,,92,69,3,1,,2,4,5,,12,5,,1,293,9,20,,1,,9,1
-15,2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8422879,37,Huxley Holcombe,,,Fr,P,6-6,L/L,15081,,14,3,7.78,41.2,,48,39,36,30,26,,203,162,12,4,,8,6,4,,13,11,5,2,644,47,47,2,2,,6,1
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8260825,12,Ryan Porter,,,Jr,INF,6-0,R/R,15081,,13,1,9.25,24.1,,38,25,25,13,19,,124,104,7,1,1,5,4,5,,7,4,1,1,444,27,22,,2,2,2,1
+2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8275309,17,William Stephens,,,Sr,P,6-2,R/R,15081,,3,,36.00,1.0,,2,4,4,4,1,,11,4,2,,,,,3,,1,1,,,46,1,,,,,1,
+2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8275390,9,Story Kimura,,,Sr,P,6-0,R/R,15081,,10,,9.49,12.1,,17,14,13,13,10,,67,49,4,,,2,4,2,2,9,3,,2,227,11,13,2,1,,2,
+2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8274263,26,Tom Clancy,,,Jr,P,6-1,R/R,15081,,2,,20.25,1.1,,0,3,3,3,2,,8,4,,,,,,1,,,,,,41,,2,,,,,
+2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8260228,42,Josh Shea,,,So,P,5-11,R/R,15081,,1,,0.00,1.0,,1,,,0,1,,4,4,,,,,,,,,,,,22,,2,,,,,
+2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8266404,33,Von Baker,,,Sr,P,6-7,R/R,15081,,13,1,8.56,27.1,,26,26,26,23,20,,139,101,5,1,,6,4,9,,11,7,2,4,476,30,30,2,,,9,
+2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8261732,30,William Jaun,,,Jr,UT,6-3,L/L,15081,,12,6,9.71,29.2,,30,33,32,29,25,,151,111,4,,,3,8,5,,6,4,4,2,527,31,30,1,4,1,6,
+2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8274779,25,Beck Urofsky,,,So,UT,6-4,R/R,15081,,4,1,9.82,3.2,,7,4,4,2,2,,22,18,3,,,1,1,2,,4,2,,,86,4,5,,,,1,
+2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8260691,32,Carson Mayfield,,,So,P,6-5,R/R,15081,,8,8,8.55,33.2,,41,32,32,13,27,,155,137,5,2,,5,3,4,,,,1,,428,38,29,2,2,,6,
+2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8281901,3,Chris Ellison,,,Jr,P,6-0,R/R,15081,,16,,5.70,23.2,,14,16,15,18,15,,106,82,3,,,1,2,3,,16,6,1,2,368,31,22,4,,1,7,
+2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8284564,13,Ethan Hamill,,,So,P,6-3,R/R,15081,,12,9,5.71,58.1,,62,44,37,25,28,,266,223,11,2,1,7,4,11,,7,7,4,2,854,70,65,3,3,1,9,2
+2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8284567,21,John Gerfen,,,So,P,6-0,R/L,15081,,6,,8.44,5.1,,8,6,5,3,8,,28,25,3,,1,,,,,7,5,,,113,3,4,,,,4,
+2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8278633,16,Noah Keller,,,So,P,6-1,L/L,15081,,13,8,6.55,45.1,,61,46,33,30,41,,230,189,17,,1,5,1,5,,3,2,4,2,796,39,47,1,6,,15,1
+2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8422864,28,Max Foster,,,Fr,P,6-3,R/R,15081,,6,,9.64,4.2,,9,5,5,9,6,,31,22,3,1,,2,1,,,10,5,,,74,1,6,,,,2,
+2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8422877,36,Nathaniel Jennewein,,,Fr,P,5-11,R/L,15081,,12,1,8.66,17.2,,18,17,17,17,22,,92,69,3,1,,2,4,5,,12,5,,1,293,9,20,,1,,9,1
+2024,2023-24,MBA,167,Cornell,1,I,Ivy League,8422879,37,Huxley Holcombe,,,Fr,P,6-6,L/L,15081,,14,3,7.78,41.2,,48,39,36,30,26,,203,162,12,4,,8,6,4,,13,11,5,2,644,47,47,2,2,,6,1

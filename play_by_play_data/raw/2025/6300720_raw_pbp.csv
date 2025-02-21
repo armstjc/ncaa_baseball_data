@@ -1,0 +1,107 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,1,top,"Potestio, A. doubled down the rf line (3-2 KKBBB).",1,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,1,top,"Crossland, M homered to center field, 2 RBI (2-1 BSB); Potestio, A. scored.",2,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,1,top,"Leopard, A. struck out looking (3-2 BKSBBK).",3,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,1,top,"Gonzalez, E. struck out swinging (0-2 KFS).",4,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,1,top,"Lazuka, N. reached on an error by ss (0-0).",5,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,1,top,"Camacho, G. popped up to 3b (1-1 KB).",6,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,1,bot,Brown fouled out to 1b (1-1 KB).,7,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,1,bot,Davis struck out swinging (1-2 KKBS).,8,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,1,bot,Scott singled up the middle (3-2 BBFFB).,9,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,1,bot,Schnabel struck out swinging (0-2 KFS).,10,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,2,top,"Allen, J. lined out to 3b (1-0 B).",11,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,2,top,"Hackworth, P flied out to cf to left center (0-1 K).",12,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,2,top,"Lomanto, C. flied out to cf to left center (2-1 BSB).",13,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,2,bot,Gomez flied out to cf (1-1 KB).,14,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,2,bot,Orr flied out to cf to left center (2-1 KBB).,15,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,2,bot,Tandy grounded out to ss (1-1 BK).,16,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,3,top,"Potestio, A. singled to right center (0-2 KKF).",17,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,3,top,"Crossland, M struck out swinging (1-2 BKFS).",18,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,3,top,"Leopard, A. singled to right center (1-2 KBK); Potestio, A. advanced to second.",19,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,3,top,"Gonzalez, E. struck out swinging (1-2 KFBS); Leopard, A. stole second; Potestio, A. stole third.",20,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,3,top,"Lazuka, N. walked (3-1 KBBBB).",21,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,3,top,"Camacho, G. reached on an error by p (1-1 BK); Lazuka, N. advanced to third; Leopard, A. scored, unearned; Potestio, A. scored, unearned.",22,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,3,top,"Allen, J. grounded out to ss (0-0).",23,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,3,bot,Bobo walked (3-2 BBSKBB).,24,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,3,bot,Bicknell grounded out to ss (0-0); Bobo advanced to second.,25,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,3,bot,Brown struck out looking (1-2 BSF).,26,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,3,bot,"Davis singled to shortstop, RBI (0-0); Bobo scored.",27,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,3,bot,Davis stole second.,28,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,3,bot,Scott flied out to cf to right center (2-2 BSKB).,29,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,4,top,"Hackworth, P walked (3-1 BKBBB).",30,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,4,top,"Lomanto, C. popped up to ss (0-0).",31,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,4,top,"Potestio, A. singled to right field (3-2 BBKFB); Hackworth, P advanced to third.",32,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,4,top,"Crossland, M struck out swinging (1-2 BKKS).",33,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,4,top,Revay to p for Nino.,34,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,4,top,"Potestio, A. stole second.",35,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,4,top,"Leopard, A. grounded out to 2b (0-0).",36,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,4,bot,Schnabel struck out swinging (3-2 BBSSBS).,37,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,4,bot,Gomez flied out to cf (1-2 BFF).,38,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,4,bot,Orr fouled out to c (1-0 B).,39,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,5,top,"Gonzalez, E. grounded out to 2b (1-0 B).",40,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,5,top,"Lazuka, N. singled to right center (1-2 FFB).",41,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,5,top,"Camacho, G. singled to right field (3-1 BBFB); Lazuka, N. advanced to third.",42,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,5,top,"Allen, J. struck out swinging (0-2 KSFFK).",43,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,5,top,"Hackworth, P reached on an error by 2b (0-1 K); Camacho, G. advanced to second; Lazuka, N. scored, unearned.",44,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,5,top,"Lomanto, C. reached on a fielder's choice (2-2 KBBF); Hackworth, P advanced to second; Camacho, G. out at third 3b unassisted.",45,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,5,bot,Tandy flied out to cf (0-1 K).,46,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,5,bot,Bobo flied out to rf (0-0).,47,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,5,bot,Bicknell singled to second base (2-2 BFBFF).,48,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,5,bot,"Brown homered to left field, 2 RBI (1-0 B); Bicknell scored.",49,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,5,bot,Davis grounded out to ss (0-0).,50,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,6,top,"Potestio, A. struck out swinging (1-2 BKKS).",51,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,6,top,"Crossland, M flied out to cf to left center (2-2 BKBS).",52,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,6,top,"Leopard, A. walked (3-1 BBKBB).",53,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,6,top,"Gonzalez, E. grounded out to 3b (0-1 S).",54,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,6,bot,"Murdock, S. to p for Seid, S..",55,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,6,bot,Scott singled to left field (0-0).,56,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,6,bot,Schnabel grounded out to 2b (0-2 KKF); Scott advanced to second.,57,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,6,bot,"Gomez struck out swinging, out at first c to 1b (1-2 SFBS).",58,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,6,bot,Orr grounded out to 1b unassisted (3-1 BBFB).,59,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,7,top,"Lazuka, N. grounded out to ss (0-1 K).",60,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,7,top,"Camacho, G. doubled down the rf line (0-0).",61,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,7,top,"Allen, J. doubled to left field, RBI (1-2 KBS); Camacho, G. scored.",62,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,7,top,"Hackworth, P struck out swinging (2-2 KKBBS).",63,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,7,top,"Lomanto, C. hit by pitch (2-2 BSBKFF).",64,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,7,top,"Lanier, D. pinch ran for Lomanto, C..",65,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,7,top,"Potestio, A. singled up the middle, RBI (2-2 KBKB); Lanier, D. advanced to second; Allen, J. scored.",66,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,7,top,Cruz to p for Revay.,67,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,7,top,"Crossland, M walked (3-2 KBSBBB); Potestio, A. advanced to second; Lanier, D. advanced to third.",68,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,7,top,"Leopard, A. hit by pitch, RBI (1-1 KB); Crossland, M advanced to second; Potestio, A. advanced to third; Lanier, D. scored.",69,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,7,top,"Gonzalez, E. grounded out to ss (2-2 BSSB).",70,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,7,bot,Tandy doubled to left field (0-0).,71,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,7,bot,Romney pinch hit for Bobo.,72,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,7,bot,Romney struck out swinging (0-2 SKS).,73,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,7,bot,Bicknell struck out looking (0-2 KSK).,74,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,7,bot,"Brown singled to right field, RBI (1-0 B); Tandy scored.",75,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,7,bot,Davis struck out swinging (0-2 FFS).,76,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,8,top,Romney to cf.,77,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,8,top,Davis to c.,78,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,8,top,Bicknell to dh.,79,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,8,top,"Lazuka, N. flied out to rf (1-0 B).",80,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,8,top,"Camacho, G. out at first 1b to p (2-1 BKB).",81,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,8,top,"Allen, J. flied out to rf (0-1 K).",82,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,8,bot,"King, D. to p for Murdock, S..",83,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,8,bot,Scott struck out looking (3-2 BKBKFBK).,84,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,8,bot,Schnabel grounded out to 3b (0-2 KKF).,85,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,8,bot,Gomez struck out looking (2-2 BKSBK).,86,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,9,top,Wood to 3b for Gomez.,87,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,9,top,Andrus to p for Cruz.,88,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,9,top,"Thacker, C. pinch hit for Hackworth, P.",89,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,9,top,"Thacker, C. reached on a fielding error by 1b (3-2 KKBBB).",90,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,9,top,"Lanier, D. to dh.",91,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,9,top,"Lanier, D. walked (3-2 BBFFBB); Thacker, C. advanced to second.",92,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,9,top,"Potestio, A. hit by pitch (1-0 B); Lanier, D. advanced to second; Thacker, C. advanced to third.",93,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,9,top,"Crossland, M singled through the right side, 2 RBI (2-2 BBKK); Potestio, A. advanced to second; Lanier, D. scored; Thacker, C. scored, unearned.",94,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,9,top,"Leopard, A. hit by pitch (1-1 BK); Crossland, M advanced to second; Potestio, A. advanced to third.",95,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,9,top,Moll to p for Andrus.,96,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,9,top,"Gonzalez, E. reached on a throwing error by 3b (0-1 S); Leopard, A. advanced to third; Crossland, M out at third 3b unassisted; Potestio, A. scored, unearned.",97,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,9,top,"Lazuka, N. struck out looking (0-2 KKK).",98,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,9,top,"Camacho, G. walked (3-1 KBBBB); Gonzalez, E. advanced to second.",99,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596694,9,top,"Allen, J. reached on a fielder's choice (1-0 B); Camacho, G. advanced to second; Gonzalez, E. out at third 3b unassisted.",100,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,9,bot,"Thacker, C. to rf.",101,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,9,bot,Ad. Vidal pinch hit for Orr.,102,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,9,bot,Ad. Vidal struck out swinging (3-2 BBSSBFS).,103,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,9,bot,Evans pinch hit for Tandy.,104,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,9,bot,Evans grounded out to ss (0-1 F).,105,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025
+6300720,596694,UC San Diego Tritons,596645,Pacific Tigers,596645,9,bot,Romney grounded out to 3b (1-1 KB).,106,2025-02-15T00:00:00-05:00,"Klein Family Field (Stockton, CA)",635,MBA,2025

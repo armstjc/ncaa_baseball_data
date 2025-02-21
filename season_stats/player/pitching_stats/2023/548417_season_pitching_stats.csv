@@ -1,0 +1,35 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7996704,32,Kylan LaCaze,,,So,INF,-,,15001,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809036,8,Colby Entwistle,,,Jr,C,-,,15001,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809037,3,Peyton Vinyard,,,Sr,OF,-,,15001,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809038,14,Jacob Owen,,,Sr,INF,-,,15001,10,10,2,9.16,18.2,,28,24,19,8,12,,98,86,6,1,,5,4,3,,3,3,,1,327,18,23,1,1,,3,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809039,6,Jake Schow,,,Jr,INF,-,,15001,7,7,,15.43,11.2,,25,22,20,5,8,,72,59,3,,,8,3,6,,,,2,,233,15,10,1,,,2,2
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809040,18,Tyler Broyles,,,Sr,C,-,,15001,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809043,98,Landon Hamm,,,So,UT,-,,15001,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809045,96,Chandler Wilburding,,,Sr,C,-,,15001,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809047,15,Casey Minchey,,,Jr,P,-,,15001,12,12,12,7.79,69.1,3,98,69,60,21,57,,342,293,17,2,,12,6,19,,,,7,2,"1,042",59,81,2,6,,19,1
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809048,30,Zach Isham,,,Jr,P,-,,15001,19,19,,9.67,22.1,,34,29,24,21,29,,134,97,6,1,,6,6,11,,6,4,1,4,463,15,19,2,,,8,1
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809049,31,Jacob Tison,,,So,UT,-,,15001,6,6,2,17.18,7.1,,14,20,14,7,5,,50,35,2,1,,,4,6,,,,,2,206,8,6,,1,,4,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809050,1,Jonathan Crist,,,Jr,OF,-,,15001,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809051,20,Cobey Gorrell,,,So,P,-,,15001,17,17,4,11.45,22.0,,36,33,28,11,13,,117,97,3,,,4,1,8,,6,2,,1,353,19,27,1,,,3,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809052,22,Hutch Underwood,,,Sr,P,-,,15001,19,19,3,13.96,29.2,,49,50,46,34,22,,176,129,15,3,,4,13,8,,2,1,1,4,511,33,27,2,1,1,4,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809053,24,Weston Hicks,,,So,C,-,,15001,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809054,33,DJ Van Atten,,,So,UT,6-0,R/R,15001,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809055,7,Drake Irby,,,Sr,INF,-,,15001,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809056,10,Parker Presley,,,So,P,-,,15001,22,22,,7.81,40.1,,47,36,35,17,35,,192,160,9,1,1,8,,7,1,4,1,6,2,554,28,54,2,6,2,11,1
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7809058,11,Oliver Wilson,,,Jr,OF,-,,15001,35,16,10,9.64,60.2,,95,70,65,26,35,,313,272,17,2,3,16,6,8,,2,2,4,3,857,51,84,1,8,1,5,4
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7989950,13,Sebastian Figga,,,So,C,-,,15001,20,1,,0.00,1.0,,1,,,,,,5,4,,,,,,1,,,,,,14,2,1,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7996551,21,William Emerson,,,Jr,INF,-,,15001,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7996719,34,Lane Behymer,,,So,P,-,,15001,15,15,5,9.88,27.1,,35,33,30,23,21,,148,116,3,,,5,5,6,,,,,3,458,23,37,1,5,,6,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7989922,23,Carson Kinnaird,,,Jr,C,-,,15001,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7996717,27,Chance Bufford,,,Jr,C,-,,15001,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7989944,2,Cole Embrey,,,Sr,OF,-,,15001,47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7989947,5,Alex Leon,,,Fr,,-,,15001,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7989948,9,O'Shea Whiteside,,,So,OF,-,,15001,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7989953,17,Patrick Hine,,,Sr,P,-,,15001,15,15,11,9.55,49.0,,79,62,52,25,30,,251,213,16,1,1,13,3,5,1,3,,5,3,701,37,66,2,5,1,13,1
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7989945,4,Noah Edmond,,,Fr,,-,,15001,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7989952,16,Logan Isbell,,,Fr,P,-,,15001,20,20,1,12.09,32.0,,55,47,43,20,18,,175,147,13,2,,12,4,6,,2,,1,1,567,29,42,,2,,6,2
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7989954,19,Dax Edmonds,,,So,INF,5-9,R/R,15001,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,7989949,12,Tanner Bare,,,Fr,OF,-,,15001,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,8021936,16,Caleb DeSouza,,,Fr,INF,-,,15001,5,3,,9.00,3.0,,1,3,3,3,4,,13,10,,,,,1,,,,,,,35,,5,,,,2,
+2023,2022-23,MBA,30152,Southern Nazarene,2,II,GAC,8017782,40,Adam Atwell,,,N/A,ph,-,,15001,3,1,,,,,,2,2,3,,,3,,,,,,,,,,,,,15,,,,,,,

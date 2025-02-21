@@ -1,78 +1,78 @@
-game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,1,top,"Carroll, Zac singled to left field.",1,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,1,top,"Sherrell, We reached on a fielder's choice; Carroll, Zac out at second 3b to 2b.",2,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,1,top,"Rone, Ethan reached on a fielder's choice; Sherrell, We out at second 1b to ss.",3,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,1,top,"Seefeldt,Bla struck out swinging.",4,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,1,bot,"Randall,G. struck out looking.",5,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,1,bot,"Chapman,T. struck out swinging.",6,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,1,bot,"Carpenter,C. grounded out to 2b.",7,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,2,top,"Strickland, flied out to lf.",8,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,2,top,"Tremblay, Ma struck out looking.",9,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,2,top,"Necessary, T struck out swinging.",10,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,2,bot,"Hammack,T. grounded out to 2b.",11,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,2,bot,"Stout,L, walked.",12,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,2,bot,"Stout,L, stole second.",13,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,2,bot,"Robertson,C. struck out looking.",14,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,2,bot,"Lee,D. hit by pitch.",15,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,2,bot,"Baughn,M. grounded out to p.",16,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,3,top,"Brecheen, Se out at first 1b to p.",17,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,3,top,"Morales, DeA grounded out to p.",18,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,3,top,"Carroll, Zac doubled to right field.",19,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,3,top,"Sherrell, We popped up to 2b.",20,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,3,bot,"Long,G. flied out to lf.",21,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,3,bot,"Randall,G. struck out looking.",22,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,3,bot,"Chapman,T. tripled to right center.",23,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,3,bot,"Carpenter,C. singled through the right side, RBI; Chapman,T. scored.",24,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,3,bot,"Hammack,T. grounded out to ss.",25,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,4,top,"Rone, Ethan singled to left field.",26,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,4,top,"Seefeldt,Bla reached on a fielding error by 3b; Rone, Ethan advanced to second.",27,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,4,top,"Strickland, flied out to lf.",28,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,4,top,"Tremblay, Ma lined out to cf.",29,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,4,top,"Seefeldt,Bla out at second c to 1b to 2b, picked off.",30,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,4,bot,"Stout,L, grounded out to ss.",31,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,4,bot,"Robertson,C. grounded out to ss.",32,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,4,bot,"Lee,D. grounded out to 1b unassisted.",33,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,5,top,"Necessary, T grounded out to 3b.",34,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,5,top,"Brecheen, Se struck out swinging, out at first c to 1b.",35,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,5,top,"Morales, DeA grounded out to ss.",36,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,5,bot,"Baughn,M. walked.",37,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,5,bot,"Long,G. popped up to 3b.",38,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,5,bot,"Randall,G. hit by pitch; Baughn,M. advanced to second.",39,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,5,bot,"Chapman,T. grounded into double play 3b to 2b to 1b; Randall,G. out on the play.",40,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,6,top,"Gerber,T. to p for Burchfield,C.",41,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,6,top,"Carroll, Zac struck out swinging.",42,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,6,top,"Sherrell, We grounded out to 3b.",43,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,6,top,"Rone, Ethan struck out swinging.",44,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,6,bot,"Carpenter,C. struck out swinging, out at first c to 1b.",45,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,6,bot,"Hammack,T. grounded out to 3b.",46,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,6,bot,"Stout,L, flied out to lf.",47,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,7,top,"Seefeldt,Bla grounded out to ss.",48,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,7,top,"Strickland, struck out swinging.",49,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,7,top,"Tremblay, Ma struck out swinging.",50,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,7,bot,"Ebert, Camer to p for Gustafson, E.",51,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,7,bot,"Robertson,C. singled up the middle.",52,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,7,bot,"Lee,D. grounded out to p, bunt, SAC; Robertson,C. advanced to second.",53,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,7,bot,"Baughn,M. flied out to cf.",54,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,7,bot,"Long,G. homered to right center, 2 RBI; Robertson,C. scored.",55,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,7,bot,"Randall,G. flied out to rf.",56,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,8,top,"Necessary, T singled up the middle.",57,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,8,top,"Wittau,T. to p for Gerber,T..",58,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,8,top,"Brecheen, Se struck out swinging.",59,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,8,top,"Morales, DeA struck out swinging.",60,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,8,top,"Carroll, Zac flied out to cf.",61,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Chapman,T. struck out looking.",62,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Carpenter,C. flied out to lf.",63,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Hammack,T. reached on a fielding error by ss.",64,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Hammack,T. stole second.",65,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Stout,L, reached on a fielding error by 2b; Hammack,T. advanced to third.",66,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Robertson,C. walked; Stout,L, advanced to second.",67,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Lee,D. walked, RBI; Robertson,C. advanced to second; Stout,L, advanced to third; Hammack,T. scored, unearned.",68,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Driggers, Be to p for Ebert, Camer.",69,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Baughn,M. hit by pitch, RBI; Lee,D. advanced to second; Robertson,C. advanced to third; Stout,L, scored, unearned.",70,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Long,G. singled to right center, 2 RBI; Baughn,M. advanced to third; Lee,D. scored, unearned; Robertson,C. scored, unearned.",71,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Long,G. stole second.",72,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Randall,G. struck out looking.",73,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,9,top,"Berlowitz,B. to p for Wittau,T..",74,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,9,top,"Sherrell, We lined out to ss.",75,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,9,top,"Rone, Ethan struck out swinging.",76,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
-6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,9,top,"Seefeldt,Bla struck out swinging.",77,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,1,top,"Carroll, Zac singled to left field.",1,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,1,top,"Sherrell, We reached on a fielder's choice; Carroll, Zac out at second 3b to 2b.",2,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,1,top,"Rone, Ethan reached on a fielder's choice; Sherrell, We out at second 1b to ss.",3,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,1,top,"Seefeldt,Bla struck out swinging.",4,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,1,bot,"Randall,G. struck out looking.",5,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,1,bot,"Chapman,T. struck out swinging.",6,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,1,bot,"Carpenter,C. grounded out to 2b.",7,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,2,top,"Strickland, flied out to lf.",8,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,2,top,"Tremblay, Ma struck out looking.",9,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,2,top,"Necessary, T struck out swinging.",10,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,2,bot,"Hammack,T. grounded out to 2b.",11,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,2,bot,"Stout,L, walked.",12,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,2,bot,"Stout,L, stole second.",13,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,2,bot,"Robertson,C. struck out looking.",14,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,2,bot,"Lee,D. hit by pitch.",15,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,2,bot,"Baughn,M. grounded out to p.",16,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,3,top,"Brecheen, Se out at first 1b to p.",17,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,3,top,"Morales, DeA grounded out to p.",18,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,3,top,"Carroll, Zac doubled to right field.",19,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,3,top,"Sherrell, We popped up to 2b.",20,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,3,bot,"Long,G. flied out to lf.",21,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,3,bot,"Randall,G. struck out looking.",22,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,3,bot,"Chapman,T. tripled to right center.",23,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,3,bot,"Carpenter,C. singled through the right side, RBI; Chapman,T. scored.",24,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,3,bot,"Hammack,T. grounded out to ss.",25,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,4,top,"Rone, Ethan singled to left field.",26,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,4,top,"Seefeldt,Bla reached on a fielding error by 3b; Rone, Ethan advanced to second.",27,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,4,top,"Strickland, flied out to lf.",28,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,4,top,"Tremblay, Ma lined out to cf.",29,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,4,top,"Seefeldt,Bla out at second c to 1b to 2b, picked off.",30,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,4,bot,"Stout,L, grounded out to ss.",31,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,4,bot,"Robertson,C. grounded out to ss.",32,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,4,bot,"Lee,D. grounded out to 1b unassisted.",33,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,5,top,"Necessary, T grounded out to 3b.",34,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,5,top,"Brecheen, Se struck out swinging, out at first c to 1b.",35,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,5,top,"Morales, DeA grounded out to ss.",36,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,5,bot,"Baughn,M. walked.",37,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,5,bot,"Long,G. popped up to 3b.",38,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,5,bot,"Randall,G. hit by pitch; Baughn,M. advanced to second.",39,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,5,bot,"Chapman,T. grounded into double play 3b to 2b to 1b; Randall,G. out on the play.",40,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,6,top,"Gerber,T. to p for Burchfield,C.",41,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,6,top,"Carroll, Zac struck out swinging.",42,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,6,top,"Sherrell, We grounded out to 3b.",43,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,6,top,"Rone, Ethan struck out swinging.",44,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,6,bot,"Carpenter,C. struck out swinging, out at first c to 1b.",45,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,6,bot,"Hammack,T. grounded out to 3b.",46,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,6,bot,"Stout,L, flied out to lf.",47,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,7,top,"Seefeldt,Bla grounded out to ss.",48,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,7,top,"Strickland, struck out swinging.",49,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,7,top,"Tremblay, Ma struck out swinging.",50,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,7,bot,"Ebert, Camer to p for Gustafson, E.",51,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,7,bot,"Robertson,C. singled up the middle.",52,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,7,bot,"Lee,D. grounded out to p, bunt, SAC; Robertson,C. advanced to second.",53,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,7,bot,"Baughn,M. flied out to cf.",54,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,7,bot,"Long,G. homered to right center, 2 RBI; Robertson,C. scored.",55,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,7,bot,"Randall,G. flied out to rf.",56,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,8,top,"Necessary, T singled up the middle.",57,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,8,top,"Wittau,T. to p for Gerber,T..",58,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,8,top,"Brecheen, Se struck out swinging.",59,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,8,top,"Morales, DeA struck out swinging.",60,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,8,top,"Carroll, Zac flied out to cf.",61,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Chapman,T. struck out looking.",62,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Carpenter,C. flied out to lf.",63,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Hammack,T. reached on a fielding error by ss.",64,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Hammack,T. stole second.",65,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Stout,L, reached on a fielding error by 2b; Hammack,T. advanced to third.",66,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Robertson,C. walked; Stout,L, advanced to second.",67,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Lee,D. walked, RBI; Robertson,C. advanced to second; Stout,L, advanced to third; Hammack,T. scored, unearned.",68,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Driggers, Be to p for Ebert, Camer.",69,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Baughn,M. hit by pitch, RBI; Lee,D. advanced to second; Robertson,C. advanced to third; Stout,L, scored, unearned.",70,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Long,G. singled to right center, 2 RBI; Baughn,M. advanced to third; Lee,D. scored, unearned; Robertson,C. scored, unearned.",71,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Long,G. stole second.",72,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596959,8,bot,"Randall,G. struck out looking.",73,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,9,top,"Berlowitz,B. to p for Wittau,T..",74,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,9,top,"Sherrell, We lined out to ss.",75,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,9,top,"Rone, Ethan struck out swinging.",76,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025
+6339398,596774,East Central Tigers,596959,Central Okla. Bronchos,596774,9,top,"Seefeldt,Bla struck out swinging.",77,2025-02-03T00:00:00-05:00,"Wendell Simmons Field (Edmond, OK)",312,MBA,2025

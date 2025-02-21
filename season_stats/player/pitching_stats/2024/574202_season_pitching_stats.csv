@@ -1,18 +1,18 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,629,San Francisco,1,I,WCC,8271822,27,Cal Amborn,,,So,P,6-4,R/R,15081,,15,,6.75,24.0,,32,20,18,10,15,,112,97,4,1,,1,4,2,,1,1,2,1,360,31,21,,2,1,2,
-1,2024,2023-24,MBA,629,San Francisco,1,I,WCC,8260539,39,Blake Wittman,,,Jr,P,6-0,R/R,15081,,3,,0.00,3.0,,2,,,3,4,,14,10,,,,,,,,3,3,,1,64,4,2,,,,2,
-2,2024,2023-24,MBA,629,San Francisco,1,I,WCC,8273681,16,Max Jones,,,Sr,P,5-9,R/R,15081,,20,,4.94,23.2,,32,16,13,5,17,,105,93,8,,,2,2,,1,15,8,3,4,304,24,27,2,1,,5,
-3,2024,2023-24,MBA,629,San Francisco,1,I,WCC,8285074,40,Gabriel Barrett,,,So,P,6-0,R/R,15081,,19,1,2.63,51.1,,42,20,15,10,48,,207,187,8,2,,3,3,5,,10,3,2,3,711,46,51,3,5,5,22,
-4,2024,2023-24,MBA,629,San Francisco,1,I,WCC,8285184,13,Hunter Holzemer,,,So,P,5-11,L/L,15081,,14,4,3.68,22.0,,21,15,9,12,14,,100,79,5,,1,,1,4,,4,3,4,1,326,35,13,,2,,6,
-5,2024,2023-24,MBA,629,San Francisco,1,I,WCC,8282632,24,Adam Shew,,,Jr,P,6-2,B/R,15081,,10,10,4.10,41.2,,41,31,19,10,25,,189,161,7,,,8,1,12,,,,4,2,469,47,45,1,6,,5,1
-6,2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424767,35,Matthew McConnell,,,Sr,P,6-1,R/R,15081,,20,5,6.62,34.0,,41,25,25,13,25,,157,131,7,2,,3,3,8,,10,7,2,3,502,28,42,2,3,1,8,
-7,2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424784,36,Magnus Nelson,,,Fr,P,-,R/R,15081,,6,,6.75,6.2,,12,5,5,0,2,,31,29,1,2,,,,1,,1,1,,1,125,7,9,,,,,
-8,2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424809,26,Joe Soberon,,,Sr,P,6-1,R/R,15081,,14,14,3.20,78.2,,66,32,28,31,67,,336,283,16,2,1,6,3,11,,,,8,3,"1,258",90,64,4,6,,18,2
-9,2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424787,46,Gavin Pacheco,,,Fr,P,6-2,R/R,15081,,2,,20.25,1.1,,0,3,3,5,1,,10,2,,,,,,2,,2,,,1,54,1,1,,,,,
-10,2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424806,10,Kolby Calia,,,So,P,6-2,R/R,15081,,17,3,2.97,33.1,,25,13,11,12,31,,140,117,2,,,4,1,7,3,11,4,2,2,508,29,36,1,1,1,5,
-11,2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424823,43,Quentin Pohorski,,,Jr,P,-,R/R,15081,,17,,1.59,17.0,,15,4,3,10,11,,76,64,2,2,,,2,2,,3,2,,,252,14,22,,,,4,
-12,2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424785,41,Austin Cupic,,,Fr,P,6-2,R/R,15081,,10,,11.32,10.1,,15,13,13,5,8,,51,45,5,,,4,,,,5,3,,1,179,9,13,,,,3,
-13,2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424811,9,Andrew Hazell,,,Sr,P,6-2,R/R,15081,,12,2,6.50,36.0,,35,26,26,29,46,,170,136,8,,,6,3,4,,6,,,1,733,31,26,3,2,1,13,
-14,2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424819,21,Lance Santerre,,,Sr,P,6-1,L/L,15081,,14,13,4.57,63.0,,62,38,32,23,63,,273,232,15,2,,4,2,15,,3,2,2,1,952,59,46,2,4,,13,3
-15,2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424818,20,Blake Shepardson,,,Jr,P,-,R/R,15081,,19,3,7.80,30.0,,24,28,26,29,34,,150,108,4,1,1,2,6,13,,5,2,,,540,35,17,3,2,,7,
-16,2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424825,52,Marcelo Saldana,,,Sr,P,6-0,L/L,15081,,5,,13.50,5.1,,6,10,8,9,3,,33,21,1,,,,,3,,8,1,,,139,4,7,,,,1,
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,629,San Francisco,1,I,WCC,8271822,27,Cal Amborn,,,So,P,6-4,R/R,15081,,15,,6.75,24.0,,32,20,18,10,15,,112,97,4,1,,1,4,2,,1,1,2,1,360,31,21,,2,1,2,
+2024,2023-24,MBA,629,San Francisco,1,I,WCC,8260539,39,Blake Wittman,,,Jr,P,6-0,R/R,15081,,3,,0.00,3.0,,2,,,3,4,,14,10,,,,,,,,3,3,,1,64,4,2,,,,2,
+2024,2023-24,MBA,629,San Francisco,1,I,WCC,8273681,16,Max Jones,,,Sr,P,5-9,R/R,15081,,20,,4.94,23.2,,32,16,13,5,17,,105,93,8,,,2,2,,1,15,8,3,4,304,24,27,2,1,,5,
+2024,2023-24,MBA,629,San Francisco,1,I,WCC,8285074,40,Gabriel Barrett,,,So,P,6-0,R/R,15081,,19,1,2.63,51.1,,42,20,15,10,48,,207,187,8,2,,3,3,5,,10,3,2,3,711,46,51,3,5,5,22,
+2024,2023-24,MBA,629,San Francisco,1,I,WCC,8285184,13,Hunter Holzemer,,,So,P,5-11,L/L,15081,,14,4,3.68,22.0,,21,15,9,12,14,,100,79,5,,1,,1,4,,4,3,4,1,326,35,13,,2,,6,
+2024,2023-24,MBA,629,San Francisco,1,I,WCC,8282632,24,Adam Shew,,,Jr,P,6-2,B/R,15081,,10,10,4.10,41.2,,41,31,19,10,25,,189,161,7,,,8,1,12,,,,4,2,469,47,45,1,6,,5,1
+2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424767,35,Matthew McConnell,,,Sr,P,6-1,R/R,15081,,20,5,6.62,34.0,,41,25,25,13,25,,157,131,7,2,,3,3,8,,10,7,2,3,502,28,42,2,3,1,8,
+2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424784,36,Magnus Nelson,,,Fr,P,-,R/R,15081,,6,,6.75,6.2,,12,5,5,0,2,,31,29,1,2,,,,1,,1,1,,1,125,7,9,,,,,
+2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424809,26,Joe Soberon,,,Sr,P,6-1,R/R,15081,,14,14,3.20,78.2,,66,32,28,31,67,,336,283,16,2,1,6,3,11,,,,8,3,"1,258",90,64,4,6,,18,2
+2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424787,46,Gavin Pacheco,,,Fr,P,6-2,R/R,15081,,2,,20.25,1.1,,0,3,3,5,1,,10,2,,,,,,2,,2,,,1,54,1,1,,,,,
+2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424806,10,Kolby Calia,,,So,P,6-2,R/R,15081,,17,3,2.97,33.1,,25,13,11,12,31,,140,117,2,,,4,1,7,3,11,4,2,2,508,29,36,1,1,1,5,
+2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424823,43,Quentin Pohorski,,,Jr,P,-,R/R,15081,,17,,1.59,17.0,,15,4,3,10,11,,76,64,2,2,,,2,2,,3,2,,,252,14,22,,,,4,
+2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424785,41,Austin Cupic,,,Fr,P,6-2,R/R,15081,,10,,11.32,10.1,,15,13,13,5,8,,51,45,5,,,4,,,,5,3,,1,179,9,13,,,,3,
+2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424811,9,Andrew Hazell,,,Sr,P,6-2,R/R,15081,,12,2,6.50,36.0,,35,26,26,29,46,,170,136,8,,,6,3,4,,6,,,1,733,31,26,3,2,1,13,
+2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424819,21,Lance Santerre,,,Sr,P,6-1,L/L,15081,,14,13,4.57,63.0,,62,38,32,23,63,,273,232,15,2,,4,2,15,,3,2,2,1,952,59,46,2,4,,13,3
+2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424818,20,Blake Shepardson,,,Jr,P,-,R/R,15081,,19,3,7.80,30.0,,24,28,26,29,34,,150,108,4,1,1,2,6,13,,5,2,,,540,35,17,3,2,,7,
+2024,2023-24,MBA,629,San Francisco,1,I,WCC,8424825,52,Marcelo Saldana,,,Sr,P,6-0,L/L,15081,,5,,13.50,5.1,,6,10,8,9,3,,33,21,1,,,,,3,,8,1,,,139,4,7,,,,1,

@@ -1,18 +1,18 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8268871,14,Ryan Berry,,,So,P,6-3,R/R,15081,,3,1,5.40,5.0,,3,3,3,8,6,,29,18,1,,,,2,3,,,,,,119,1,8,,,,3,
-1,2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8262008,8,Brady Krile,,,Jr,P,6-0,R/R,15081,,16,,6.11,28.0,,41,25,19,13,29,,145,116,4,,,2,3,10,,11,2,5,1,507,22,26,3,2,1,9,1
-2,2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8265738,9,Jack Rhodes,,,Sr,P,6-3,R/R,15081,,2,1,1.23,7.1,,5,2,1,2,4,,29,26,1,,,1,1,1,,,,,,102,5,11,1,,,,
-3,2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8267052,50,Cody Brooks,,,Jr,P,6-3,R/R,15081,,8,1,8.80,15.1,,16,23,15,10,11,,80,62,2,,,5,3,6,,,,1,1,327,15,17,2,1,,5,
-4,2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8271533,20,Trent Anderson,,,Sr,P,6-4,L/L,15081,,20,,2.17,37.1,,40,12,9,9,48,,167,149,8,,,1,1,6,,12,2,2,1,621,25,37,3,1,7,12,
-5,2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8267365,19,Grant Brunstetter,,,Sr,P,6-2,L/L,15081,,4,,22.50,2.0,,1,5,5,4,3,,12,6,,1,,,,1,,1,,1,,66,2,1,,,,2,
-6,2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8267470,17,Jacob Arndt,,,Jr,P,6-3,R/R,15081,,15,,3.97,22.2,,19,16,10,21,26,,118,90,5,,,,7,6,2,6,2,1,,457,23,15,1,1,2,5,1
-7,2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410913,26,Zach Haygood,,,Jr,P,6-0,R/R,15081,,13,9,3.59,62.2,3,58,26,25,11,50,1,252,233,11,,,6,,3,,4,4,4,1,874,42,86,7,2,,14,
-8,2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410903,10,Will Johnson,,,Jr,P,6-5,R/R,15081,,7,,6.14,7.1,,6,5,5,8,5,,37,25,2,,,,,3,,6,3,,1,130,3,12,,,,1,
-9,2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410933,40,Shane Kearbey,,,Jr,P,6-1,L/L,15081,,9,3,7.27,17.1,,13,15,14,13,13,,82,58,2,,3,1,2,9,,2,,,2,331,14,19,,1,,4,1
-10,2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410878,16,RJ Elmore,,,Jr,P,6-5,R/R,15081,,13,13,6.39,76.0,3,101,60,54,20,49,,353,315,18,2,1,8,7,8,,,,5,5,"1,136",98,66,4,5,,11,
-11,2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410901,6,Dustin Hagens,,,Fr,P,6-1,R/R,15081,,13,11,9.90,50.0,,45,61,55,49,80,,254,188,7,,2,8,9,9,,,,3,5,"1,044",20,48,3,5,,12,
-12,2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410935,43,Jake Weissenberger,,,Jr,P,5-9,R/R,15081,,4,,4.50,2.0,,3,1,1,2,1,,11,9,2,,,,,,,10,7,,,38,5,,,,,,
-13,2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410877,34,Nate Kemp,,,Fr,P,5-11,R/R,15081,,12,,9.00,8.0,,14,8,8,2,3,,43,36,2,1,1,3,1,3,,15,10,2,,137,13,8,1,,,1,
-14,2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410885,11,Garrett Brunstetter,,,So,P,6-2,L/L,15081,,12,11,5.71,52.0,,50,40,33,52,65,,268,197,3,,,5,17,8,,,,7,3,"1,081",42,43,3,4,,22,
-15,2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410908,12,Nate Zyzda,,,Jr,P,6-2,R/R,15081,,8,2,8.79,14.1,,17,17,14,9,16,,73,58,4,,,2,6,4,,2,1,2,,266,11,14,2,,,7,
-16,2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410936,45,Will Newberry,,,Jr,P,6-0,R/R,15081,,4,,13.50,3.1,,4,5,5,4,2,,21,13,,,,1,2,2,,4,2,1,1,67,4,4,,,,,
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8268871,14,Ryan Berry,,,So,P,6-3,R/R,15081,,3,1,5.40,5.0,,3,3,3,8,6,,29,18,1,,,,2,3,,,,,,119,1,8,,,,3,
+2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8262008,8,Brady Krile,,,Jr,P,6-0,R/R,15081,,16,,6.11,28.0,,41,25,19,13,29,,145,116,4,,,2,3,10,,11,2,5,1,507,22,26,3,2,1,9,1
+2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8265738,9,Jack Rhodes,,,Sr,P,6-3,R/R,15081,,2,1,1.23,7.1,,5,2,1,2,4,,29,26,1,,,1,1,1,,,,,,102,5,11,1,,,,
+2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8267052,50,Cody Brooks,,,Jr,P,6-3,R/R,15081,,8,1,8.80,15.1,,16,23,15,10,11,,80,62,2,,,5,3,6,,,,1,1,327,15,17,2,1,,5,
+2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8271533,20,Trent Anderson,,,Sr,P,6-4,L/L,15081,,20,,2.17,37.1,,40,12,9,9,48,,167,149,8,,,1,1,6,,12,2,2,1,621,25,37,3,1,7,12,
+2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8267365,19,Grant Brunstetter,,,Sr,P,6-2,L/L,15081,,4,,22.50,2.0,,1,5,5,4,3,,12,6,,1,,,,1,,1,,1,,66,2,1,,,,2,
+2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8267470,17,Jacob Arndt,,,Jr,P,6-3,R/R,15081,,15,,3.97,22.2,,19,16,10,21,26,,118,90,5,,,,7,6,2,6,2,1,,457,23,15,1,1,2,5,1
+2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410913,26,Zach Haygood,,,Jr,P,6-0,R/R,15081,,13,9,3.59,62.2,3,58,26,25,11,50,1,252,233,11,,,6,,3,,4,4,4,1,874,42,86,7,2,,14,
+2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410903,10,Will Johnson,,,Jr,P,6-5,R/R,15081,,7,,6.14,7.1,,6,5,5,8,5,,37,25,2,,,,,3,,6,3,,1,130,3,12,,,,1,
+2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410933,40,Shane Kearbey,,,Jr,P,6-1,L/L,15081,,9,3,7.27,17.1,,13,15,14,13,13,,82,58,2,,3,1,2,9,,2,,,2,331,14,19,,1,,4,1
+2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410878,16,RJ Elmore,,,Jr,P,6-5,R/R,15081,,13,13,6.39,76.0,3,101,60,54,20,49,,353,315,18,2,1,8,7,8,,,,5,5,"1,136",98,66,4,5,,11,
+2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410901,6,Dustin Hagens,,,Fr,P,6-1,R/R,15081,,13,11,9.90,50.0,,45,61,55,49,80,,254,188,7,,2,8,9,9,,,,3,5,"1,044",20,48,3,5,,12,
+2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410935,43,Jake Weissenberger,,,Jr,P,5-9,R/R,15081,,4,,4.50,2.0,,3,1,1,2,1,,11,9,2,,,,,,,10,7,,,38,5,,,,,,
+2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410877,34,Nate Kemp,,,Fr,P,5-11,R/R,15081,,12,,9.00,8.0,,14,8,8,2,3,,43,36,2,1,1,3,1,3,,15,10,2,,137,13,8,1,,,1,
+2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410885,11,Garrett Brunstetter,,,So,P,6-2,L/L,15081,,12,11,5.71,52.0,,50,40,33,52,65,,268,197,3,,,5,17,8,,,,7,3,"1,081",42,43,3,4,,22,
+2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410908,12,Nate Zyzda,,,Jr,P,6-2,R/R,15081,,8,2,8.79,14.1,,17,17,14,9,16,,73,58,4,,,2,6,4,,2,1,2,,266,11,14,2,,,7,
+2024,2023-24,MBA,436,Mo.-St. Louis,2,II,GLVC,8410936,45,Will Newberry,,,Jr,P,6-0,R/R,15081,,4,,13.50,3.1,,4,5,5,4,2,,21,13,,,,1,2,2,,4,2,1,1,67,4,4,,,,,

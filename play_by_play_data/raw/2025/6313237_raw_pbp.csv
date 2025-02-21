@@ -1,0 +1,85 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,1,top,SMITH struck out looking.,1,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,1,top,JONES struck out swinging.,2,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,1,top,SCHUBART struck out swinging.,3,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,1,bot,CANNARELLA struck out swinging.,4,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,1,bot,GAFFNEY walked.,5,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,1,bot,McCLADDIE grounded out to 2b; GAFFNEY advanced to second.,6,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,1,bot,JARRELL struck out swinging.,7,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,2,top,MEOLA struck out swinging.,8,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,2,top,BRUEGGEMANN struck out swinging.,9,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,2,top,"LaSALLE struck out swinging, out at first c to 1b.",10,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,2,bot,LISTI hit by pitch.,11,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,2,bot,PAINO walked; LISTI advanced to second.,12,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,2,bot,BISSETTA flied out to lf.,13,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,2,bot,CIUFO singled to third base; PAINO advanced to second; LISTI advanced to third.,14,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,2,bot,"PURIFY out at first 3b to c to 1b, RBI; CIUFO advanced to second; PAINO advanced to third; LISTI scored.",15,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,2,bot,CANNARELLA struck out looking.,16,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,3,top,THOMPSON flied out to cf.,17,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,3,top,DAUGHERTY struck out looking.,18,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,3,top,"ORTIZ homered to left field, RBI.",19,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,3,top,SMITH walked.,20,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,3,top,JONES singled through the right side; SMITH advanced to third.,21,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,3,top,"SCHUBART doubled down the rf line, 2 RBI, advanced to third on a throwing error by rf; JONES scored; SMITH scored.",22,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,3,top,MEOLA popped up to 2b.,23,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,3,bot,GAFFNEY lined out to cf.,24,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,3,bot,McCLADDIE struck out swinging to catcher.,25,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,3,bot,JARRELL singled to left center.,26,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,3,bot,LISTI struck out looking.,27,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,4,top,BRUEGGEMANN lined out to lf.,28,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,4,top,"LaSALLE homered to left field, RBI.",29,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,4,top,THOMPSON doubled down the lf line.,30,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,4,top,DAUGHERTY lined out to rf; THOMPSON advanced to third.,31,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,4,top,ORTIZ flied out to rf to right center.,32,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,4,bot,PAINO struck out swinging.,33,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,4,bot,BISSETTA lined out to 1b.,34,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,4,bot,CIUFO flied out to rf down the rf line.,35,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,5,top,McGOVERN to p for KNAAK.,36,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,5,top,SMITH struck out swinging.,37,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,5,top,JONES lined out to lf.,38,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,5,top,"SCHUBART struck out swinging, reached first on a passed ball.",39,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,5,top,MEOLA struck out swinging.,40,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,5,bot,PURIFY doubled down the lf line.,41,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,5,bot,CANNARELLA lined out to 2b.,42,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,5,bot,GAFFNEY walked.,43,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,5,bot,LUND to p for DAVIS.,44,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,5,bot,McCLADDIE singled down the lf line; GAFFNEY advanced to second; PURIFY advanced to third.,45,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,5,bot,JARRELL struck out looking.,46,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,5,bot,"LISTI walked, RBI; McCLADDIE advanced to second; GAFFNEY advanced to third; PURIFY scored.",47,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,5,bot,"PAINO walked, RBI; LISTI advanced to second; McCLADDIE advanced to third; GAFFNEY scored.",48,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,5,bot,BISSETTA struck out swinging.,49,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,6,top,BRUEGGEMANN struck out looking.,50,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,6,top,LaSALLE flied out to cf.,51,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,6,top,THOMPSON doubled down the 3b line.,52,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,6,top,"DAUGHERTY doubled down the 3b line, RBI; THOMPSON scored.",53,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,6,top,ORTIZ grounded out to ss.,54,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,6,bot,CIUFO struck out swinging.,55,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,6,bot,PURIFY struck out swinging.,56,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,6,bot,CANNARELLA hit by pitch.,57,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,6,bot,"GAFFNEY doubled down the lf line, RBI; CANNARELLA scored.",58,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,6,bot,McCLADDIE grounded out to ss.,59,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,7,top,DVORSKY to p for McGOVERN.,60,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,7,top,SMITH grounded out to 1b unassisted.,61,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,7,top,JONES grounded out to 3b.,62,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,7,top,SCHUBART out at first 1b to p.,63,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,7,bot,WECH to p for LUND.,64,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,7,bot,JARRELL grounded out to ss.,65,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,7,bot,"LISTI singled to left field, advanced to third on a fielding error by lf.",66,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,7,bot,PAINO walked.,67,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,7,bot,BLAKE to p for WECH.,68,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,7,bot,PAINO stole second.,69,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,7,bot,"BISSETTA grounded out to ss, RBI; PAINO advanced to third; LISTI scored.",70,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,7,bot,"PAINO scored on a wild pitch, unearned.",71,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,7,bot,CIUFO flied out to cf.,72,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,8,top,MAHLSTEDT to p for DVORSKY.,73,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,8,top,MEOLA struck out swinging.,74,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,8,top,BRUEGGEMANN flied out to rf.,75,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,8,top,LaSALLE grounded out to 3b.,76,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,8,bot,YOUNGERMAN to p for BLAKE.,77,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,8,bot,PURIFY struck out swinging.,78,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,8,bot,CANNARELLA struck out looking.,79,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596523,8,bot,GAFFNEY struck out swinging.,80,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,9,top,THOMPSON grounded out to 3b.,81,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,9,top,SHULL pinch hit for DAUGHERTY.,82,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,9,top,SHULL grounded out to 3b.,83,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025
+6313237,596714,Oklahoma St. Cowboys,596523,Clemson Tigers,596714,9,top,ORTIZ struck out swinging.,84,2025-02-14T00:00:00-05:00,"Globe Life Field (Arlington, TX)",8344,MBA,2025

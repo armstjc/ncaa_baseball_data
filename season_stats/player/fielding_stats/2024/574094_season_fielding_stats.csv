@@ -1,31 +1,31 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-0,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587313,2,Arjun Huerta,,,Sr,P,6-1,L/L,15082,15,10,14,1,17,2,0.882,,,1,,,,1.000
-1,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8262053,28,Erick Gonzalez,,,Jr,P,5-10,R/R,15082,11,9,3,11,15,1,0.933,,,9,,,,5.000
-2,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587418,32,Darrell Hardrick Jr.,,,Fr,P,5-6,R/R,15082,5,0,1,2,3,,1.000,,,,,,,
-3,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8276891,17,Myles White,,,Sr,INF,5-11,L/R,15082,52,48,63,59,129,7,0.946,,,,,11,,
-4,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8275432,25,Brandon Haston,,,Jr,P,6-0,L/L,15082,19,2,3,7,12,2,0.833,,,1,2,,,1.000
-5,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8286397,27,Steve Spurgeon Jr.,,,Sr,P,6-1,L/L,15082,11,3,2,7,9,,1.000,,,6,1,,,3.500
-6,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8284476,20,Christian Womble,,,Sr,P,5-11,R/R,15082,24,6,1,10,13,2,0.846,,,4,1,1,,4.000
-7,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8282542,19,Jaelen Williams,,,Sr,UT,6-2,R/R,15082,27,25,88,9,101,4,0.960,,,,,8,,
-8,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8280080,30,Miles Thomas,,,So,UT,6-2,R/R,15082,22,7,10,7,17,,1.000,,,2,,1,,2.000
-9,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8528237,3,Rodney Hibler Jr.,,,Sr,OF,6-3,R/R,15082,55,55,125,2,130,3,0.977,,,,,1,,
-10,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587257,1,Joseph Eichelberger,,,Jr,OF,5-9,R/R,15082,53,53,39,,44,5,0.886,,,,,,,
-11,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587279,26,Satchel  Greene,,,So,P,6-1,R/R,15082,1,0,,,0,,,,,,,,,
-12,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587251,12,Sebastian Cabeza,,,Jr,C,5-9,R/R,15082,54,50,393,26,422,3,0.993,1,9,52,6,1,,28.333
-13,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587296,6,Edward  Gregory Jr.,,,So,INF,5-10,R/R,15082,18,10,25,19,46,2,0.957,,,,,7,,
-14,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587322,4,Jordan  McCladdie,,,Jr,OF,6-0,L/L,15082,55,55,117,4,126,5,0.960,,,,,1,,
-15,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587353,7,Chance Pollard,,,Sr,OF,5-9,R/R,15082,8,1,3,1,4,,1.000,,,,,,,
-16,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587377,18,Tyshon Patty,,,Fr,INF,6-0,R/R,15082,14,8,17,15,32,,1.000,,,3,1,4,,2.000
-17,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587387,21,Lenny Montesano,,,Jr,INF,6-4,R/R,15082,55,55,162,81,248,5,0.980,,,,,21,,
-18,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587407,23,Hederick Torres,,,Fr,C,6-2,R/R,15082,6,4,36,1,37,,1.000,,1,9,,,,3.000
-19,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587328,9,Hasan Standifer,,,Sr,P,6-3,L/L,15082,28,19,138,1,143,4,0.972,,,,,18,,
-20,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587350,15,Garrett  VanDeventer,,,Sr,P,6-2,L/L,15082,20,16,3,18,23,2,0.913,,,12,1,2,,5.750
-21,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587416,31,Je-andrick Lourens,,,Jr,P,5-10,L/L,15082,15,4,,8,8,,1.000,,,5,1,,,2.750
-22,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587367,8,Davione Hull,,,Sr,OF,6-1,L/L,15082,21,19,23,1,24,,1.000,,,,,,,
-23,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587382,16,Shemar Harris,,,Fr,INF,6-1,R/R,15082,29,15,17,30,53,6,0.887,,,3,,5,,2.000
-24,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587398,22,Isaiah Williams,,,Jr,P,6-5,L/L,15082,20,13,7,9,18,2,0.889,,,13,1,2,,6.500
-25,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587413,29,DeVante Wells,,,Fr,C,6-0,R/R,15082,2,1,11,,12,1,0.917,,2,,,,,
-26,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587422,35,CJ Lewis,,,Sr,P,6-2,R/R,15082,23,0,,3,3,,1.000,,,3,,,,3.000
-27,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587345,11,Robert Tate Jr.,,,Fr,INF,6-2,R/R,15082,48,43,73,102,185,10,0.946,,,,,25,,
-28,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587199,24,Ledy Alvarez,,,So,INF,5-10,R/R,15082,31,26,34,47,94,13,0.862,,,,,14,,
-29,2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587308,0,Darrell Pender Jr.,,,Fr,OF,5-6,R/R,15082,8,3,,,0,,,,,,,,,
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587313,2,Arjun Huerta,,,Sr,P,6-1,L/L,15082,15,10,14,1,17,2,0.882,,,1,,,,1.000
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8262053,28,Erick Gonzalez,,,Jr,P,5-10,R/R,15082,11,9,3,11,15,1,0.933,,,9,,,,5.000
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587418,32,Darrell Hardrick Jr.,,,Fr,P,5-6,R/R,15082,5,0,1,2,3,,1.000,,,,,,,
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8276891,17,Myles White,,,Sr,INF,5-11,L/R,15082,52,48,63,59,129,7,0.946,,,,,11,,
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8275432,25,Brandon Haston,,,Jr,P,6-0,L/L,15082,19,2,3,7,12,2,0.833,,,1,2,,,1.000
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8286397,27,Steve Spurgeon Jr.,,,Sr,P,6-1,L/L,15082,11,3,2,7,9,,1.000,,,6,1,,,3.500
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8284476,20,Christian Womble,,,Sr,P,5-11,R/R,15082,24,6,1,10,13,2,0.846,,,4,1,1,,4.000
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8282542,19,Jaelen Williams,,,Sr,UT,6-2,R/R,15082,27,25,88,9,101,4,0.960,,,,,8,,
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8280080,30,Miles Thomas,,,So,UT,6-2,R/R,15082,22,7,10,7,17,,1.000,,,2,,1,,2.000
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8528237,3,Rodney Hibler Jr.,,,Sr,OF,6-3,R/R,15082,55,55,125,2,130,3,0.977,,,,,1,,
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587257,1,Joseph Eichelberger,,,Jr,OF,5-9,R/R,15082,53,53,39,,44,5,0.886,,,,,,,
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587279,26,Satchel  Greene,,,So,P,6-1,R/R,15082,1,0,,,0,,,,,,,,,
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587251,12,Sebastian Cabeza,,,Jr,C,5-9,R/R,15082,54,50,393,26,422,3,0.993,1,9,52,6,1,,28.333
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587296,6,Edward  Gregory Jr.,,,So,INF,5-10,R/R,15082,18,10,25,19,46,2,0.957,,,,,7,,
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587322,4,Jordan  McCladdie,,,Jr,OF,6-0,L/L,15082,55,55,117,4,126,5,0.960,,,,,1,,
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587353,7,Chance Pollard,,,Sr,OF,5-9,R/R,15082,8,1,3,1,4,,1.000,,,,,,,
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587377,18,Tyshon Patty,,,Fr,INF,6-0,R/R,15082,14,8,17,15,32,,1.000,,,3,1,4,,2.000
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587387,21,Lenny Montesano,,,Jr,INF,6-4,R/R,15082,55,55,162,81,248,5,0.980,,,,,21,,
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587407,23,Hederick Torres,,,Fr,C,6-2,R/R,15082,6,4,36,1,37,,1.000,,1,9,,,,3.000
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587328,9,Hasan Standifer,,,Sr,P,6-3,L/L,15082,28,19,138,1,143,4,0.972,,,,,18,,
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587350,15,Garrett  VanDeventer,,,Sr,P,6-2,L/L,15082,20,16,3,18,23,2,0.913,,,12,1,2,,5.750
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587416,31,Je-andrick Lourens,,,Jr,P,5-10,L/L,15082,15,4,,8,8,,1.000,,,5,1,,,2.750
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587367,8,Davione Hull,,,Sr,OF,6-1,L/L,15082,21,19,23,1,24,,1.000,,,,,,,
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587382,16,Shemar Harris,,,Fr,INF,6-1,R/R,15082,29,15,17,30,53,6,0.887,,,3,,5,,2.000
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587398,22,Isaiah Williams,,,Jr,P,6-5,L/L,15082,20,13,7,9,18,2,0.889,,,13,1,2,,6.500
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587413,29,DeVante Wells,,,Fr,C,6-0,R/R,15082,2,1,11,,12,1,0.917,,2,,,,,
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587422,35,CJ Lewis,,,Sr,P,6-2,R/R,15082,23,0,,3,3,,1.000,,,3,,,,3.000
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587345,11,Robert Tate Jr.,,,Fr,INF,6-2,R/R,15082,48,43,73,102,185,10,0.946,,,,,25,,
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587199,24,Ledy Alvarez,,,So,INF,5-10,R/R,15082,31,26,34,47,94,13,0.862,,,,,14,,
+2024,2023-24,MBA,314,Jackson St.,1,I,SWAC,8587308,0,Darrell Pender Jr.,,,Fr,OF,5-6,R/R,15082,8,3,,,0,,,,,,,,,

@@ -1,0 +1,36 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822958,22,Jacob Farrar,,,Jr,INF,-,,15002,5,0,,,0,,,,,,,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822959,9,Cole Jenkins,,,Jr,INF,6-3,,15002,55,55,120,8,135,7,0.948,,,,,2,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822960,27,Cole Garrett,,,Jr,C,6-0,,15002,55,55,395,48,449,6,0.987,2,3,58,21,,,4.000
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822962,24,Will Riley,,,Jr,UT,6-0,,15002,23,4,1,7,9,1,0.889,,,7,4,,,2.000
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822963,21,Ty Barker,,,Sr,P,-,,15002,12,0,1,3,5,1,0.800,,,1,2,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822964,29,Jack Thompson,,,Jr,P,6-1,,15002,25,0,2,4,7,1,0.857,,,2,1,,,1.000
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822965,40,Alex LaRou,,,Jr,P,6-7,,15002,9,0,,,0,,,,,6,,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822969,6,Justin Starke,,,Sr,C,6-2,,15002,55,55,61,58,133,14,0.895,,,,,5,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822970,1,Trey Morgan,,,Sr,UT,5-10,,15002,55,55,150,13,165,2,0.988,,,3,2,1,,0.500
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822971,10,JT Inskeep,,,Sr,UT,6-3,R/R,15002,6,4,2,,2,,1.000,,,,,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822972,3,Zac Morris,,,Sr,INF,5-11,R/R,15002,55,55,89,150,258,19,0.926,,,,,18,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822973,12,Jed Barrett,,,Jr,INF,5-11,,15002,23,19,8,10,21,3,0.857,,,,,1,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822976,17,Evan Parmer,,,So,P,6-0,L/R,15002,6,1,,3,3,,1.000,,,2,,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822977,8,Brett Cook,,,Jr,INF,5-9,,15002,52,50,33,1,37,3,0.919,,,,,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822978,14,Ty Swaim,,,Jr,INF,5-11,,15002,55,55,108,117,238,13,0.945,,,,,19,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822983,19,Tyler Kaltreider,,,So,P,6-3,,15002,15,2,1,,1,,1.000,,,4,2,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822984,23,Holden Wilkerson,,,So,P,6-4,,15002,11,8,1,1,3,1,0.667,,,5,5,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822985,30,Addison Clark,,,So,1B,6-3,R/R,15002,6,1,,,0,,,,,,,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822987,37,James Newsome,,,So,P,6-7,L/R,15002,17,3,7,1,8,,1.000,,,,,1,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822988,7,Jaxon Lloyd,,,So,P,6-1,L/L,15002,3,2,,,1,1,0.000,,,2,,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822989,25,Nathan Hawley,,,So,P,6-2,L/R,15002,20,0,,3,3,,1.000,,,2,1,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7822990,34,Caden Plummer,,,So,P,5-11,R/R,15002,15,5,2,,2,,1.000,,,2,,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7999804,13,Hunter Sipe,,,Fr,P,6-1,L/L,15002,23,0,3,6,10,1,0.900,,,4,2,2,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7999810,35,Will Lopez,,,Sr,P,-,,15002,2,2,,2,3,1,0.667,,,1,,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7999806,26,Marcus Van Alstine,,,Fr,P,6-0,R/R,15002,17,1,1,2,4,1,0.750,,,,,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7999807,28,Roberto Velasquez,,,Fr,P,5-11,R/R,15002,15,5,,2,2,,1.000,,,8,1,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7999805,18,Darrell Fletcher-Knight,,,Fr,P,6-1,,15002,12,1,1,,1,,1.000,,,4,,,,1.000
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7999799,2,Owen Prince,,,Fr,INF,5-9,L/R,15002,20,9,21,1,22,,1.000,,,,,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7999808,33,Clark Driscoll,,,Fr,UT,5-5,R/R,15002,9,0,,2,2,,1.000,,,1,1,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7999811,31,Nathan Light,,,Sr,P,-,,15002,16,8,2,3,6,1,0.833,,,5,1,,,1.000
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7999820,5,Matthew Wright,,,Fr,P,-,R/R,15002,9,4,5,,5,,1.000,,,,,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7999827,32,Andrew Jones,,,Fr,P,6-0,R/R,15002,11,3,1,,1,,1.000,,,,2,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7999828,43,Kazuya Jordan,,,Fr,UT,5-9,R/R,15002,24,1,13,1,15,1,0.933,,,,,,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7999824,11,Jimmy Koza,,,Fr,UT,5-9,R/R,15002,37,31,42,1,44,1,0.977,,,,,1,,
+2023,2022-23,MBA,741,VMI,1,I,SoCon,7999825,20,Grayson Fitzwater,,,Fr,UT,6-1,L/L,15002,51,50,337,18,361,6,0.983,,,,,21,,

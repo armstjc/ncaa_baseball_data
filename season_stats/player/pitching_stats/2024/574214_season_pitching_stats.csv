@@ -1,18 +1,18 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8271279,27,Scott Harper,,,Sr,P,6-1,R/R,15081,,18,,6.48,16.2,,21,12,12,9,19,,85,68,6,,,3,1,6,3,21,13,2,,276,19,10,1,2,,5,
-1,2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8276175,15,Jake Combs,,,Sr,P,5-11,R/R,15081,,12,7,8.37,33.1,,48,33,31,12,21,,162,145,8,1,,7,3,4,1,4,2,1,,567,31,45,3,1,,9,
-2,2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8272833,34,Ben Riffe,,,Sr,P,6-3,R/R,15081,,26,6,4.91,33.0,,35,21,18,18,32,,155,132,4,1,,6,3,3,,19,9,,2,580,26,38,3,4,1,10,
-3,2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8587698,19,Kade Coombe,,,Jr,P,6-0,-/R,15081,,8,,11.81,10.2,,19,19,14,10,14,,62,49,1,1,,4,2,2,1,7,4,,1,240,5,10,1,,1,4,
-4,2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8260310,29,Shane Wilhelm,,,Jr,P,5-10,R/R,15081,,21,,7.57,27.1,,27,24,23,16,20,,126,102,4,1,,4,4,6,,25,5,1,1,466,28,27,,1,,5,
-5,2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8259395,30,Easton Dermody,,,Sr,P,6-3,R/R,15081,,22,,4.08,57.1,,53,27,26,29,63,,256,217,11,,,4,3,6,,18,6,1,3,984,50,55,4,3,3,8,
-6,2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8282831,14,Cade Carter,,,Sr,OF,5-9,R/R,15081,,2,1,4.50,2.0,,2,1,1,0,1,,8,8,1,,,,,,,,,,,40,5,,,,,,
-7,2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8588214,22,Andrew Yusypchuk,,,Jr,P,6-3,-/R,15081,,7,,8.64,8.1,,14,10,8,7,6,,47,36,1,,,1,3,2,1,3,3,1,1,177,9,7,,,,1,
-8,2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8588229,24,Sam Myers,,,Jr,P,6-2,-/R,15081,,8,,14.46,9.1,,18,18,15,13,7,,64,45,3,,,3,3,3,,12,4,,3,285,6,15,,,,3,
-9,2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8587505,17,Aidan  Foeller,,,Jr,P,6-3,-/R,15081,,15,14,4.52,77.2,,75,51,39,36,105,,347,301,10,,,9,3,6,,,,4,,"1,373",55,65,5,3,,32,
-10,2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8588392,39,Anthony Pron,,,Sr,P,6-2,R/R,15081,,28,,4.43,42.2,,37,22,21,25,42,,192,157,8,1,1,3,2,6,4,17,5,1,3,703,23,58,3,2,9,8,
-11,2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8588396,40,Tanner Gerdes,,,Sr,INF,6-0,R/R,15081,,13,,9.00,8.0,,10,8,8,10,11,,46,33,2,,,1,1,2,,16,5,1,,204,8,4,,1,,3,
-12,2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8588407,99,Cole Koonce,,,Jr,P,6-0,,15081,,24,,6.32,31.1,,27,24,22,24,25,,144,106,6,1,,1,2,5,1,30,10,3,6,542,26,33,3,1,,8,3
-13,2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8587448,9,Alec Nigut,,,Jr,P,6-2,-/L,15081,,18,9,6.75,57.1,,72,57,43,21,49,,273,244,11,1,,10,5,6,1,8,5,,2,887,64,52,4,1,,18,1
-14,2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8587464,11,Oliver Parizek,,,Jr,P,5-11,,15081,,3,,6.75,2.2,,1,2,2,4,3,,13,9,,,,,1,,,5,2,,,60,3,2,,,,,
-15,2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8588201,21,Mike Hansell,,,Sr,P,6-4,R/R,15081,,15,10,5.93,54.2,,60,45,36,20,46,,252,221,18,,,6,9,6,,6,6,2,3,963,53,59,3,5,1,13,
-16,2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8588236,25,Al Holguin,,,Jr,UT,6-0,L/L,15081,,13,13,4.94,54.2,,59,32,30,24,43,,251,215,15,,,7,2,8,,,,3,1,"1,005",43,71,3,3,,7,1
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8271279,27,Scott Harper,,,Sr,P,6-1,R/R,15081,,18,,6.48,16.2,,21,12,12,9,19,,85,68,6,,,3,1,6,3,21,13,2,,276,19,10,1,2,,5,
+2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8276175,15,Jake Combs,,,Sr,P,5-11,R/R,15081,,12,7,8.37,33.1,,48,33,31,12,21,,162,145,8,1,,7,3,4,1,4,2,1,,567,31,45,3,1,,9,
+2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8272833,34,Ben Riffe,,,Sr,P,6-3,R/R,15081,,26,6,4.91,33.0,,35,21,18,18,32,,155,132,4,1,,6,3,3,,19,9,,2,580,26,38,3,4,1,10,
+2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8587698,19,Kade Coombe,,,Jr,P,6-0,-/R,15081,,8,,11.81,10.2,,19,19,14,10,14,,62,49,1,1,,4,2,2,1,7,4,,1,240,5,10,1,,1,4,
+2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8260310,29,Shane Wilhelm,,,Jr,P,5-10,R/R,15081,,21,,7.57,27.1,,27,24,23,16,20,,126,102,4,1,,4,4,6,,25,5,1,1,466,28,27,,1,,5,
+2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8259395,30,Easton Dermody,,,Sr,P,6-3,R/R,15081,,22,,4.08,57.1,,53,27,26,29,63,,256,217,11,,,4,3,6,,18,6,1,3,984,50,55,4,3,3,8,
+2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8282831,14,Cade Carter,,,Sr,OF,5-9,R/R,15081,,2,1,4.50,2.0,,2,1,1,0,1,,8,8,1,,,,,,,,,,,40,5,,,,,,
+2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8588214,22,Andrew Yusypchuk,,,Jr,P,6-3,-/R,15081,,7,,8.64,8.1,,14,10,8,7,6,,47,36,1,,,1,3,2,1,3,3,1,1,177,9,7,,,,1,
+2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8588229,24,Sam Myers,,,Jr,P,6-2,-/R,15081,,8,,14.46,9.1,,18,18,15,13,7,,64,45,3,,,3,3,3,,12,4,,3,285,6,15,,,,3,
+2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8587505,17,Aidan  Foeller,,,Jr,P,6-3,-/R,15081,,15,14,4.52,77.2,,75,51,39,36,105,,347,301,10,,,9,3,6,,,,4,,"1,373",55,65,5,3,,32,
+2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8588392,39,Anthony Pron,,,Sr,P,6-2,R/R,15081,,28,,4.43,42.2,,37,22,21,25,42,,192,157,8,1,1,3,2,6,4,17,5,1,3,703,23,58,3,2,9,8,
+2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8588396,40,Tanner Gerdes,,,Sr,INF,6-0,R/R,15081,,13,,9.00,8.0,,10,8,8,10,11,,46,33,2,,,1,1,2,,16,5,1,,204,8,4,,1,,3,
+2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8588407,99,Cole Koonce,,,Jr,P,6-0,,15081,,24,,6.32,31.1,,27,24,22,24,25,,144,106,6,1,,1,2,5,1,30,10,3,6,542,26,33,3,1,,8,3
+2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8587448,9,Alec Nigut,,,Jr,P,6-2,-/L,15081,,18,9,6.75,57.1,,72,57,43,21,49,,273,244,11,1,,10,5,6,1,8,5,,2,887,64,52,4,1,,18,1
+2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8587464,11,Oliver Parizek,,,Jr,P,5-11,,15081,,3,,6.75,2.2,,1,2,2,4,3,,13,9,,,,,1,,,5,2,,,60,3,2,,,,,
+2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8588201,21,Mike Hansell,,,Sr,P,6-4,R/R,15081,,15,10,5.93,54.2,,60,45,36,20,46,,252,221,18,,,6,9,6,,6,6,2,3,963,53,59,3,5,1,13,
+2024,2023-24,MBA,659,Southern Ill.,1,I,MVC,8588236,25,Al Holguin,,,Jr,UT,6-0,L/L,15081,,13,13,4.94,54.2,,59,32,30,24,43,,251,215,15,,,7,2,8,,,,3,1,"1,005",43,71,3,3,,7,1

@@ -1,0 +1,21 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8265864,37,Adam Schwartz,,,So,P,-,,15081,,3,,10.13,2.2,,3,3,3,3,1,,13,10,1,,,1,,,,2,1,,,36,3,3,,,,1,
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8275280,35,Zack Lurie,,,Jr,P,-,,15081,,7,,7.94,5.2,,4,5,5,9,7,,32,20,,,,,1,3,,,,,,148,7,2,1,,,1,
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8274428,23,Nicholas Thompson,,,Sr,P,-,,15081,,9,9,4.81,39.1,1,39,26,21,17,28,1,179,151,6,1,1,2,1,7,,,,1,3,676,40,42,3,4,,13,1
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8264003,30,Michael Ciaccio,,,Jr,P,-,,15081,,4,2,7.71,7.0,,8,8,6,7,6,,41,29,1,,,1,,4,,,,1,,159,6,8,,,,3,
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8265316,24,Derek Woods,,,So,P,-,,15081,,12,9,3.00,57.0,1,63,24,19,8,41,,248,226,14,1,1,,3,8,,,,4,2,818,53,69,6,2,,11,1
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8260647,14,Greg Levin,,,So,INF,-,,15081,,10,,10.13,10.2,,15,12,12,12,11,,58,45,1,,,2,2,,,,,,1,237,8,11,1,,,3,
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8273693,41,Ryan Grecco,,,Jr,P,-,,15081,,19,,2.63,37.2,,33,14,11,11,35,,158,144,4,,2,2,3,2,,,,1,,559,32,42,5,,3,8,
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8280276,39,Teddy Durbin,,,Sr,P,-,,15081,,10,,5.79,9.1,,7,6,6,5,7,,38,26,1,,,,2,2,,,,3,2,109,9,6,,,,3,2
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8284062,47,Matthew Scibilio,,,Sr,P,-,,15081,,16,,3.00,24.0,,20,10,8,9,39,,105,90,4,3,,1,,6,,5,,,,402,19,12,3,2,6,9,
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8279330,27,Joe Sylvester,,,So,P,-,,15081,,13,6,6.91,27.1,,39,29,21,19,28,,143,122,6,1,,5,3,2,,,,,,560,24,25,1,3,1,9,
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8281954,25,Thomas Rioux,,,So,P,-,,15081,,12,11,3.72,55.2,1,65,30,23,13,32,1,243,222,9,,2,2,4,2,,,,3,3,757,69,56,5,1,,8,
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8282207,32,Kyle Bourque,,,So,P,-,,15081,,6,,3.60,5.0,,7,2,2,4,5,,31,22,,,,,2,4,,2,2,,1,96,6,4,,,,3,
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8283590,22,Jack Bohrer,,,Jr,P,-,,15081,,3,2,12.00,3.0,,2,4,4,6,3,,18,10,1,,,,,2,,,,,,62,2,3,,,,1,
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8288021,28,Elijah Cohen,,,Sr,P,-,,15081,,7,2,6.57,12.1,,18,10,9,4,5,,65,55,6,,,,1,3,,3,3,1,2,214,22,9,1,,,3,
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8597805,21,Aidan Aggarwal,,,Fr,P,-,,15081,,11,,2.57,14.0,,5,5,4,13,11,,60,43,1,,1,,2,1,1,,,1,2,240,17,12,2,,,2,
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8597809,45,Charles Collins,,,Fr,INF,-,,15081,,6,,5.59,9.2,,5,6,6,10,8,,44,29,1,1,,1,,2,,,,,3,180,2,17,1,,,,1
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8597802,15,Kam Douin,,,Fr,P,-,,15081,,8,,2.45,11.0,,5,4,3,10,9,,46,34,,,,,,2,,,,,,208,11,8,,,,5,1
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8597806,33,Elliott Seymour,,,Fr,P,-,,15081,,3,,27.00,2.0,,5,6,6,2,1,,14,12,1,,,,1,,,,,,,57,2,4,,,,,
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8597807,36,Aidan Murray,,,Fr,P,-,,15081,,4,,16.20,3.1,,5,8,6,8,4,,24,16,1,,,,4,,,1,1,,,107,2,4,,,,1,
+2024,2023-24,MBA,151,Colby,3,III,NESCAC,8597811,50,Lachlan Armstrong,,,Fr,P,-,,15081,,1,,0.00,0.1,,,,,,,,1,1,,,,,,,,,,,,3,1,,,,,,

@@ -1,18 +1,18 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527300,19,Landon Stump,,,Fr,P,6-3,R/R,15081,,16,11,6.80,49.0,,60,44,37,27,38,,239,195,15,2,2,5,5,8,,1,1,3,6,913,48,53,,5,,9,2
-1,2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527305,34,Luke Rodriguez,,,Fr,P,6-4,R/R,15081,,24,10,5.92,51.2,,50,43,34,29,53,,243,203,11,1,1,10,3,7,,5,2,3,1,999,39,61,2,5,,16,1
-2,2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527307,37,Will Goldberg,,,Fr,P,6-1,L/L,15081,,8,,10.38,8.2,,13,12,10,6,9,,47,36,2,,,3,2,3,,1,,1,1,180,4,12,,,,4,
-3,2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527308,38,Owen Egan,,,Fr,P,6-0,R/R,15081,,4,,4.50,6.0,,8,3,3,0,5,,26,24,1,,,1,1,1,,2,2,,1,109,6,6,,1,,2,
-4,2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527314,47,Kaena Kiakona,,,Fr,P,6-2,L/L,15081,,2,,9.00,1.0,,,1,1,3,1,,7,3,,,,,,1,,,,,,33,2,,,,,,
-5,2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8261188,35,Luke Jewett,,,Jr,P,6-4,R/R,15081,,14,14,4.35,82.2,,87,50,40,34,72,,370,322,11,2,2,11,11,9,,,,3,2,"1,336",76,85,2,5,,21,
-6,2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8277270,55,Michael Barnett,,,So,P,6-5,R/R,15081,,14,14,5.47,79.0,,98,54,48,25,55,,370,330,17,1,1,8,4,11,,,,1,3,"1,312",95,79,5,3,,18,
-7,2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8261646,21,JonJon Vaughns,,,Sr,OF,6-2,L/R,15081,,10,,3.26,19.1,,13,8,7,14,16,,87,66,6,,,1,3,5,,6,,2,,349,22,16,2,1,,3,1
-8,2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8264108,31,Chris Aldrich,,,Jr,P,6-2,R/R,15081,,3,,7.20,5.0,,5,4,4,2,4,,25,18,1,,,,1,4,,,,,1,92,6,3,1,,,1,
-9,2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8273689,8,Cody Delvecchio,,,So,P,5-10,R/R,15081,,16,,2.42,26.0,,19,12,7,11,27,,110,97,2,2,,4,2,1,,5,3,,1,414,12,36,1,1,,4,
-10,2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8283295,10,Nate Leibold,,,Jr,P,6-3,R/R,15081,,10,,7.00,9.0,,12,11,7,6,8,,50,41,1,,,2,2,2,,10,5,1,,172,6,13,1,,,2,
-11,2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8283517,51,Caedon Kottinger,,,Sr,P,6-0,R/R,15081,,15,,8.64,16.2,,14,17,16,15,7,,81,57,,,,1,2,6,,4,1,1,2,302,14,24,,2,,2,1
-12,2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8278684,29,Finn McIlroy,,,So,P,6-7,R/R,15081,,4,3,2.25,12.0,,14,4,3,2,8,,54,50,1,,1,,1,1,,,,,1,206,16,10,1,1,,3,1
-13,2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527301,20,Justin Lee,,,Fr,P,6-3,R/R,15081,,24,,7.55,39.1,,41,35,33,27,40,,186,151,8,1,,6,12,5,,5,1,1,1,741,32,38,2,2,1,9,19
-14,2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527303,28,Cal Randall,,,Fr,P,6-4,R/R,15081,,4,,6.35,5.2,,4,4,4,4,9,,28,21,,,,,,3,,1,,,,107,2,6,,,1,,
-15,2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527311,43,Matthew Gobel,,,Fr,P,6-5,R/R,15081,,6,,14.40,5.0,,4,9,8,8,7,,34,19,1,,2,2,1,7,,,,,,151,3,5,,1,,1,
-16,2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527317,50,Rashad Ruff,,,Sr,P,6-0,R/R,15081,,27,,4.02,47.0,,41,24,21,16,54,,207,176,7,1,,4,3,4,3,7,2,9,2,795,45,41,2,6,7,13,
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527300,19,Landon Stump,,,Fr,P,6-3,R/R,15081,,16,11,6.80,49.0,,60,44,37,27,38,,239,195,15,2,2,5,5,8,,1,1,3,6,913,48,53,,5,,9,2
+2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527305,34,Luke Rodriguez,,,Fr,P,6-4,R/R,15081,,24,10,5.92,51.2,,50,43,34,29,53,,243,203,11,1,1,10,3,7,,5,2,3,1,999,39,61,2,5,,16,1
+2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527307,37,Will Goldberg,,,Fr,P,6-1,L/L,15081,,8,,10.38,8.2,,13,12,10,6,9,,47,36,2,,,3,2,3,,1,,1,1,180,4,12,,,,4,
+2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527308,38,Owen Egan,,,Fr,P,6-0,R/R,15081,,4,,4.50,6.0,,8,3,3,0,5,,26,24,1,,,1,1,1,,2,2,,1,109,6,6,,1,,2,
+2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527314,47,Kaena Kiakona,,,Fr,P,6-2,L/L,15081,,2,,9.00,1.0,,,1,1,3,1,,7,3,,,,,,1,,,,,,33,2,,,,,,
+2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8261188,35,Luke Jewett,,,Jr,P,6-4,R/R,15081,,14,14,4.35,82.2,,87,50,40,34,72,,370,322,11,2,2,11,11,9,,,,3,2,"1,336",76,85,2,5,,21,
+2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8277270,55,Michael Barnett,,,So,P,6-5,R/R,15081,,14,14,5.47,79.0,,98,54,48,25,55,,370,330,17,1,1,8,4,11,,,,1,3,"1,312",95,79,5,3,,18,
+2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8261646,21,JonJon Vaughns,,,Sr,OF,6-2,L/R,15081,,10,,3.26,19.1,,13,8,7,14,16,,87,66,6,,,1,3,5,,6,,2,,349,22,16,2,1,,3,1
+2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8264108,31,Chris Aldrich,,,Jr,P,6-2,R/R,15081,,3,,7.20,5.0,,5,4,4,2,4,,25,18,1,,,,1,4,,,,,1,92,6,3,1,,,1,
+2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8273689,8,Cody Delvecchio,,,So,P,5-10,R/R,15081,,16,,2.42,26.0,,19,12,7,11,27,,110,97,2,2,,4,2,1,,5,3,,1,414,12,36,1,1,,4,
+2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8283295,10,Nate Leibold,,,Jr,P,6-3,R/R,15081,,10,,7.00,9.0,,12,11,7,6,8,,50,41,1,,,2,2,2,,10,5,1,,172,6,13,1,,,2,
+2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8283517,51,Caedon Kottinger,,,Sr,P,6-0,R/R,15081,,15,,8.64,16.2,,14,17,16,15,7,,81,57,,,,1,2,6,,4,1,1,2,302,14,24,,2,,2,1
+2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8278684,29,Finn McIlroy,,,So,P,6-7,R/R,15081,,4,3,2.25,12.0,,14,4,3,2,8,,54,50,1,,1,,1,1,,,,,1,206,16,10,1,1,,3,1
+2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527301,20,Justin Lee,,,Fr,P,6-3,R/R,15081,,24,,7.55,39.1,,41,35,33,27,40,,186,151,8,1,,6,12,5,,5,1,1,1,741,32,38,2,2,1,9,19
+2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527303,28,Cal Randall,,,Fr,P,6-4,R/R,15081,,4,,6.35,5.2,,4,4,4,4,9,,28,21,,,,,,3,,1,,,,107,2,6,,,1,,
+2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527311,43,Matthew Gobel,,,Fr,P,6-5,R/R,15081,,6,,14.40,5.0,,4,9,8,8,7,,34,19,1,,2,2,1,7,,,,,,151,3,5,,1,,1,
+2024,2023-24,MBA,110,UCLA,1,I,Pac-12,8527317,50,Rashad Ruff,,,Sr,P,6-0,R/R,15081,,27,,4.02,47.0,,41,24,21,16,54,,207,176,7,1,,4,3,4,3,7,2,9,2,795,45,41,2,6,7,13,

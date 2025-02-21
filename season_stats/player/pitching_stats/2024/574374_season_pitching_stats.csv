@@ -1,21 +1,21 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8276646,22,Angel Cespedes,,,Sr,P,6-5,R/R,15081,,14,13,3.43,81.1,,77,41,31,30,58,,356,315,12,,1,7,13,7,,,,2,2,"1,258",68,106,8,2,,20,2
-1,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8270144,39,Anthony Bennetti,,,Sr,P,6-2,R/R,15081,,11,4,6.26,27.1,,27,25,19,24,23,,139,107,3,,1,6,1,8,1,,,,,522,22,33,1,4,,8,
-2,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8260954,16,Joe Morrissey,,,Jr,P,6-0,R/R,15081,,14,14,3.89,76.1,,80,45,33,31,61,,336,295,9,2,,3,4,4,1,,,4,2,"1,207",52,100,5,4,,18,1
-3,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8276288,5,Collin McLaughlin,,,Jr,P,5-9,R/R,15081,,11,,6.75,8.0,,6,7,6,11,13,,44,30,1,,,,5,3,1,6,2,,,161,3,7,,,,5,1
-4,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8262157,19,Frederico Zapata,,,So,P,6-1,R/R,15081,,20,,2.25,28.0,,30,8,7,10,16,,127,110,5,,,2,,3,1,12,4,4,,453,39,26,1,3,9,2,
-5,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8276966,11,Steven Nitch,,,Jr,C,6-0,L/R,15081,,1,,0.00,1.0,,3,2,,,2,,7,7,1,,,,,,,,,,,53,,1,,,,,
-6,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8274259,28,Johnny Vazquez,,,Jr,P,6-1,L/L,15081,,3,,0.00,2.0,,1,,,2,2,,11,6,,,,,,3,,,,,,38,2,1,,,,,
-7,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8275437,42,Sean Shelly,,,So,OF,6-3,R/R,15081,,1,,9.00,1.0,,,1,1,4,1,,7,3,,,,,,,,,,,,,1,1,,,,1,
-8,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8260115,10,Miguel Villafane,,,Jr,P,6-0,R/R,15081,,2,,5.40,1.2,,5,1,1,1,1,,10,8,,,,,,,,2,2,,1,43,2,1,,,,,
-9,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8281723,13,Luis Rivera,,,So,P,5-9,R/R,15081,,1,,0.00,0.1,,0,,,3,,,4,1,,,,,,,1,1,1,,,13,1,,,,,,
-10,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8286922,18,Frank Gonzalez,,,Sr,P,6-3,L/R,15081,,13,13,3.64,54.1,,41,22,22,26,51,,229,190,7,2,,5,3,6,1,,,4,3,907,42,59,2,1,,19,1
-11,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8283546,0,Billy Eich,,,So,P,6-7,R/R,15081,,4,,27.00,2.0,,1,6,6,6,2,,14,7,,,,,,1,,,,,,65,2,1,,1,,,
-12,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8282625,30,Nick Vanderhoef,,,Sr,P,6-0,L/R,15081,,22,,3.23,30.2,,33,18,11,13,26,,142,121,3,1,,1,2,3,1,15,9,4,1,463,33,27,2,1,1,10,
-13,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8585483,41,F. Arroyo,,,Fr,p,-,,15081,,5,,9.00,6.0,,7,6,6,3,4,,28,25,1,,,2,1,,,1,,,,108,4,9,1,,,1,
-14,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8404982,25,Gavin Pomper,,,So,P,6-3,R/R,15081,,1,,81.00,0.1,,1,3,3,1,1,,4,2,,,,,1,1,,,,,,14,,,,,,,
-15,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8405001,37,Aiden Denton,,,Fr,P,6-4,R/R,15081,,14,2,5.45,39.2,1,43,30,24,17,15,,182,155,6,1,,6,3,5,,6,,3,2,661,44,52,2,3,2,8,
-16,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8404969,35,Dominic Murgo III,,,Sr,P,6-2,R/R,15081,,24,,3.18,62.1,,57,26,22,17,38,,265,231,9,1,,5,5,11,1,13,4,3,3,916,63,74,6,1,,15,
-17,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8404983,26,Chase Muir,,,Sr,P,6-4,R/R,15081,,9,3,8.50,18.0,,15,20,17,15,18,,95,64,,,,3,2,12,,2,2,1,3,399,17,16,,1,,10,
-18,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8404980,15,Benito Valle-Jhanda,,,Jr,P,6-0,R/R,15081,,5,1,7.50,6.0,,7,7,5,10,5,,36,23,1,1,,,4,2,,2,,,1,124,5,6,,1,,1,
-19,2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8405002,40,Jean Zambrano,,,So,P,6-0,R/R,15081,,1,,9.00,2.0,,2,2,2,0,4,,8,8,,,,2,,,,,,,,41,1,1,,,,,
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8276646,22,Angel Cespedes,,,Sr,P,6-5,R/R,15081,,14,13,3.43,81.1,,77,41,31,30,58,,356,315,12,,1,7,13,7,,,,2,2,"1,258",68,106,8,2,,20,2
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8270144,39,Anthony Bennetti,,,Sr,P,6-2,R/R,15081,,11,4,6.26,27.1,,27,25,19,24,23,,139,107,3,,1,6,1,8,1,,,,,522,22,33,1,4,,8,
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8260954,16,Joe Morrissey,,,Jr,P,6-0,R/R,15081,,14,14,3.89,76.1,,80,45,33,31,61,,336,295,9,2,,3,4,4,1,,,4,2,"1,207",52,100,5,4,,18,1
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8276288,5,Collin McLaughlin,,,Jr,P,5-9,R/R,15081,,11,,6.75,8.0,,6,7,6,11,13,,44,30,1,,,,5,3,1,6,2,,,161,3,7,,,,5,1
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8262157,19,Frederico Zapata,,,So,P,6-1,R/R,15081,,20,,2.25,28.0,,30,8,7,10,16,,127,110,5,,,2,,3,1,12,4,4,,453,39,26,1,3,9,2,
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8276966,11,Steven Nitch,,,Jr,C,6-0,L/R,15081,,1,,0.00,1.0,,3,2,,,2,,7,7,1,,,,,,,,,,,53,,1,,,,,
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8274259,28,Johnny Vazquez,,,Jr,P,6-1,L/L,15081,,3,,0.00,2.0,,1,,,2,2,,11,6,,,,,,3,,,,,,38,2,1,,,,,
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8275437,42,Sean Shelly,,,So,OF,6-3,R/R,15081,,1,,9.00,1.0,,,1,1,4,1,,7,3,,,,,,,,,,,,,1,1,,,,1,
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8260115,10,Miguel Villafane,,,Jr,P,6-0,R/R,15081,,2,,5.40,1.2,,5,1,1,1,1,,10,8,,,,,,,,2,2,,1,43,2,1,,,,,
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8281723,13,Luis Rivera,,,So,P,5-9,R/R,15081,,1,,0.00,0.1,,0,,,3,,,4,1,,,,,,,1,1,1,,,13,1,,,,,,
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8286922,18,Frank Gonzalez,,,Sr,P,6-3,L/R,15081,,13,13,3.64,54.1,,41,22,22,26,51,,229,190,7,2,,5,3,6,1,,,4,3,907,42,59,2,1,,19,1
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8283546,0,Billy Eich,,,So,P,6-7,R/R,15081,,4,,27.00,2.0,,1,6,6,6,2,,14,7,,,,,,1,,,,,,65,2,1,,1,,,
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8282625,30,Nick Vanderhoef,,,Sr,P,6-0,L/R,15081,,22,,3.23,30.2,,33,18,11,13,26,,142,121,3,1,,1,2,3,1,15,9,4,1,463,33,27,2,1,1,10,
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8585483,41,F. Arroyo,,,Fr,p,-,,15081,,5,,9.00,6.0,,7,6,6,3,4,,28,25,1,,,2,1,,,1,,,,108,4,9,1,,,1,
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8404982,25,Gavin Pomper,,,So,P,6-3,R/R,15081,,1,,81.00,0.1,,1,3,3,1,1,,4,2,,,,,1,1,,,,,,14,,,,,,,
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8405001,37,Aiden Denton,,,Fr,P,6-4,R/R,15081,,14,2,5.45,39.2,1,43,30,24,17,15,,182,155,6,1,,6,3,5,,6,,3,2,661,44,52,2,3,2,8,
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8404969,35,Dominic Murgo III,,,Sr,P,6-2,R/R,15081,,24,,3.18,62.1,,57,26,22,17,38,,265,231,9,1,,5,5,11,1,13,4,3,3,916,63,74,6,1,,15,
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8404983,26,Chase Muir,,,Sr,P,6-4,R/R,15081,,9,3,8.50,18.0,,15,20,17,15,18,,95,64,,,,3,2,12,,2,2,1,3,399,17,16,,1,,10,
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8404980,15,Benito Valle-Jhanda,,,Jr,P,6-0,R/R,15081,,5,1,7.50,6.0,,7,7,5,10,5,,36,23,1,1,,,4,2,,2,,,1,124,5,6,,1,,1,
+2024,2023-24,MBA,49,Barry,2,II,Sunshine State,8405002,40,Jean Zambrano,,,So,P,6-0,R/R,15081,,1,,9.00,2.0,,2,2,2,0,4,,8,8,,,,2,,,,,,,,41,1,1,,,,,

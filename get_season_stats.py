@@ -50,14 +50,16 @@ def get_season_stats(teams_df: pd.DataFrame, year: int):
         if len(df) > 0:
             df.to_csv(
                 "season_stats/player/batting_stats/" +
-                f"{year}/{team_id}_season_batting_stats.csv"
+                f"{year}/{team_id}_season_batting_stats.csv",
+                index=False
             )
 
         df = get_baseball_player_season_pitching_stats(team_id=team_id)
         if len(df) > 0:
             df.to_csv(
                 "season_stats/player/pitching_stats/" +
-                f"{year}/{team_id}_season_pitching_stats.csv"
+                f"{year}/{team_id}_season_pitching_stats.csv",
+                index=False
             )
 
         if year >= 2017:
@@ -65,7 +67,8 @@ def get_season_stats(teams_df: pd.DataFrame, year: int):
             if len(df) > 0:
                 df.to_csv(
                     "season_stats/player/fielding_stats/" +
-                    f"{year}/{team_id}_season_fielding_stats.csv"
+                    f"{year}/{team_id}_season_fielding_stats.csv",
+                    index=False
                 )
 
 
@@ -73,11 +76,15 @@ def main():
     """ """
     year = 2024
     for i in range(year, 2014, -1):
+        print(
+            f"Parsing {i} season stats"
+        )
         for div_str in [
             "I",
             "II",
             "III"
         ]:
+            print(f"Parsing D{div_str} stats")
             df = get_baseball_teams(season=i, level=div_str)
             get_season_stats(teams_df=df, year=i)
 

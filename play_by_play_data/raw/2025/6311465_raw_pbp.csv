@@ -1,0 +1,93 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,1,top,No play.,1,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,1,top,Haskell struck out swinging (1-2 BKFS).,2,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,1,top,Rogacki flied out to lf (2-1 BKB).,3,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,1,top,Bade struck out swinging (1-2 KSBFFS).,4,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,1,bot,"Farber, R. doubled to left center (1-1 BS).",5,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,1,bot,"Galloway, R. walked (3-0 BBBB).",6,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,1,bot,Mound Visit (0-0 Count).,7,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,1,bot,"Farber, R. stole third.",8,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,1,bot,"Mora, C. struck out looking (1-2 KSBK).",9,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,1,bot,"Eaton, A. reached on a fielder's choice, RBI (0-2 KK)3a Galloway, R. out at second 2b to ss3a Farber, R. scored.",10,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,1,bot,"Gingrich, Z. walked (3-2 BBKSBB)3a Eaton, A. advanced to second.",11,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,1,bot,"Farris, E. singled up the middle, RBI (0-2 KF)3a Gingrich, Z. advanced to second3a Eaton, A. scored.",12,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,1,bot,"DeFury, C. struck out swinging (0-2 KSS).",13,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,2,top,Sullivan struck out looking (1-2 BSFK).,14,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,2,top,Kent struck out swinging (0-2 KKS).,15,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,2,top,Forgione struck out looking (1-2 KKBK).,16,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,2,bot,"Pugh, S. doubled to center field (0-0).",17,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,2,bot,"Park, D. hit by pitch (1-2 SFFB).",18,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,2,bot,"Farber, R. flied out to cf to left center (0-1 K).",19,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,2,bot,"Munguia, A. pinch hit for Galloway, R..",20,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,2,bot,"Munguia, A. struck out looking (1-2 FBFK).",21,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,2,bot,"Mora, C. struck out swinging (1-2 KBSFS).",22,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,3,top,"Munguia, A. to c.",23,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,3,top,"Bolton homered to right center, inside the park, RBI (3-2 KBFFBFB).",24,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,3,top,Stellrecht singled up the middle (1-2 SSB).,25,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,3,top,Miller struck out swinging (1-2 BKFS).,26,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,3,top,Haskell walked (3-2 KBSFBBFB)3a Stellrecht advanced to second.,27,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,3,top,Mound Visit (0-0 count).,28,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,3,top,Rogacki grounded out to 2b (2-2 FBBS)3a Haskell advanced to second3a Stellrecht advanced to third.,29,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,3,top,Bade flied out to rf (2-2 BSFB).,30,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,3,bot,"Eaton, A. popped up to 2b (2-2 BKBS).",31,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,3,bot,"Gingrich, Z. struck out swinging (2-2 KFBFBFS).",32,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,3,bot,"Farris, E. flied out to cf (1-2 FBS).",33,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,4,top,Sullivan grounded out to 3b (2-2 FBSB).,34,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,4,top,Kent struck out swinging (3-2 BFBSBFS).,35,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,4,top,Forgione singled to left field (1-1 BF).,36,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,4,top,"Timmins, B. to p for Teer, J..",37,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,4,top,Forgione advanced to second on a balk.,38,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,4,top,Bolton fouled out to 1b (2-2 BBKK).,39,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,4,bot,"DeFury, C. struck out swinging (3-2 BSBBFS).",40,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,4,bot,"Pugh, S. struck out looking (1-2 BKFK).",41,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,4,bot,"Park, D. reached on a fielding error by ss (1-2 BSF).",42,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,4,bot,"Park, D. out at second c to ss, caught stealing.",43,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,5,top,Stellrecht doubled to right field (2-1 BFB).,44,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,5,top,Miller walked (3-2 FSBBBB).,45,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,5,top,"Dudley, B. to p for Timmins, B..",46,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,5,top,Haskell struck out looking (3-2 BFKFBBK).,47,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,5,top,Rogacki lined out to lf (0-0).,48,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,5,top,Bade walked (3-2 SBBSBFB)3a Miller advanced to second3a Stellrecht advanced to third.,49,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,5,top,Sullivan flied out to cf to left center (2-1 FBB).,50,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,5,bot,Packard to p for Bates.,51,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,5,bot,"Farber, R. flied out to lf to left center (1-1 BF).",52,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,5,bot,"Munguia, A. fouled out to c (1-0 B).",53,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,5,bot,"Mora, C. flied out to cf to right center (2-1 SBB).",54,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,6,top,Kent walked (3-2 FBKBFBB).,55,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,6,top,Forgione singled through the left side (0-2 KK)3a Kent advanced to second.,56,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,6,top,Fielder Mound Visit (0-0 count).,57,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,6,top,Mound visit (1-0 Count).,58,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,6,top,Bolton struck out swinging (1-2 BKFS).,59,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,6,top,Stellrecht struck out swinging (3-2 BBSFBFS).,60,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,6,top,Miller struck out swinging (3-2 BKFBBS).,61,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,6,bot,"Eaton, A. struck out swinging (0-2 KSFS).",62,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,6,bot,"Gingrich, Z. struck out swinging (1-2 BKKS).",63,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,6,bot,Offensive timeout.,64,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,6,bot,"Farris, E. flied out to cf to left center (2-1 BBS).",65,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,7,top,Haskell hit by pitch (0-0).,66,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,7,top,Rogacki struck out swinging (0-2 KFS).,67,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,7,top,Bade reached on a fielder's choice (1-1 BK)3a Haskell out at second ss to 2b.,68,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,7,top,Sullivan popped up to ss (1-2 BFF).,69,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,7,bot,"DeFury, C. reached on a fielding error by ss down the lf line, advanced to second (1-0 B).",70,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,7,bot,"Pugh, S. singled to pitcher, bunt (0-0)3a DeFury, C. advanced to third.",71,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,7,bot,Mound visit (0-0 count).,72,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,7,bot,"Pugh, S. stole second.",73,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,7,bot,"Pugh, S. advanced to third on a balk3a DeFury, C. scored on a balk, unearned.",74,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,7,bot,"Park, D. struck out looking (1-2 FFBK).",75,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,7,bot,"Farber, R. singled through the right side, RBI (0-0)3a Pugh, S. scored.",76,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,7,bot,"Farber, R. out at second c to ss, caught stealing.",77,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,7,bot,"Munguia, A. popped up to ss (1-1 KB).",78,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,8,top,"Tippie, M. to p for Dudley, B..",79,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,8,top,Kent flied out to rf (1-0 B).,80,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,8,top,Forgione grounded out to ss (2-2 BKBFF).,81,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,8,top,Bolton struck out looking (2-2 FBSBK).,82,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,8,bot,"Mora, C. grounded out to 2b (1-0 B).",83,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,8,bot,"Eaton, A. struck out swinging (2-2 BFFBS).",84,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,8,bot,"Gingrich, Z. doubled to right center (3-2 BBBKF).",85,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,8,bot,"Rucker, T. pinch ran for Gingrich, Z..",86,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596686,8,bot,"Farris, E. fouled out to 2b (1-1 FB).",87,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,9,top,"Rucker, T. to lf.",88,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,9,top,"Laws, C. to p for Tippie, M..",89,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,9,top,Stellrecht flied out to lf (3-2 KBBSBFF).,90,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,9,top,Miller struck out swinging (0-2 KFS).,91,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025
+6311465,596495,Binghamton Bearcats,596686,Texas St. Bobcats,596495,9,top,Haskell struck out swinging (3-2 BKBSFFBFS).,92,2025-02-14T00:00:00-05:00,"Bobcat Ballpark (San Marcos, TX)",1258,MBA,2025

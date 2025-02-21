@@ -1,100 +1,100 @@
-game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,Z. Wasserlau walked.,1,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,J. Lawson grounded into double play 2b to ss to 1b; Z. Wasserlau out on the play.,2,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,M. Sicoli doubled to left center.,3,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,"J. Halloran singled to center field, RBI; M. Sicoli scored.",4,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,A. Conley walked; J. Halloran advanced to second.,5,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,A. Conley stole second; J. Halloran stole third.,6,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,B. Dincman walked.,7,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,"R. Henry singled to center field, 2 RBI; B. Dincman advanced to second; A. Conley scored; J. Halloran scored.",8,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,Z. Hanson walked; R. Henry advanced to second; B. Dincman advanced to third.,9,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,M. Smallwood flied out to cf.,10,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,1,bot,A. Knapp grounded out to ss.,11,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,1,bot,J. Garcia walked.,12,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,1,bot,N. Brunswick struck out looking.,13,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,1,bot,"J. Garcia out at second c to ss, caught stealing.",14,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,2,top,Z. Wasserlau grounded out to ss.,15,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,2,top,J. Lawson out at first 1b to p.,16,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,2,top,M. Sicoli grounded out to 2b.,17,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,"A. Pendleton struck out swinging, reached first on a throwing error by c.",18,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,R. Uhls flied out to rf.,19,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,A. Jetmore singled to shortstop; A. Pendleton advanced to second.,20,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,C. Pulaski walked; A. Jetmore advanced to second; A. Pendleton advanced to third.,21,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,"G. Lang walked, RBI; C. Pulaski advanced to second; A. Jetmore advanced to third; A. Pendleton scored, unearned.",22,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,"J. Farley reached on a fielder's choice, advanced to second on a throwing error by 2b, RBI; G. Lang advanced to third; C. Pulaski scored, unearned; A. Jetmore scored, unearned.",23,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,"A. Knapp tripled, 2 RBI; J. Farley scored, unearned; G. Lang scored, unearned.",24,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,J. Garcia walked.,25,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,J. Garcia advanced to second on a wild pitch.,26,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,N. Brunswick walked.,27,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,"A. Pendleton hit by pitch, RBI; N. Brunswick advanced to second; J. Garcia advanced to third; A. Knapp scored, unearned.",28,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,"R. Uhls lined out to rf, sacrifice fly, RBI; J. Garcia scored, unearned.",29,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,A. Jetmore flied out to cf.,30,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,3,top,J. Halloran struck out swinging.,31,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,3,top,A. Conley lined out to 2b.,32,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,3,top,B. Dincman fouled out to rf.,33,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,3,bot,C. Pulaski grounded out to p.,34,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,3,bot,G. Lang struck out looking.,35,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,3,bot,J. Farley struck out swinging.,36,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,4,top,R. Henry grounded out to ss.,37,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,4,top,Z. Hanson grounded out to ss.,38,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,4,top,M. Smallwood lined out to ss.,39,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,B. Speicher to p for A. Geller.,40,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,A. Knapp singled to pitcher.,41,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,A. Knapp stole second.,42,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,J. Garcia singled to right center; A. Knapp advanced to third.,43,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,J. Garcia advanced to second; A. Knapp scored on a balk.,44,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,N. Brunswick walked.,45,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,A. Pendleton reached on a fielder's choice; N. Brunswick out at second 2b to ss; J. Garcia advanced to third.,46,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,"R. Uhls singled through the right side, advanced to second on the throw, RBI; A. Pendleton advanced to third; J. Garcia scored.",47,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,A. Jetmore lined out to 2b.,48,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,C. Pulaski struck out swinging.,49,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,5,top,A. Higgins to p for J. Collett.,50,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,5,top,Z. Wasserlau grounded out to ss.,51,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,5,top,J. Lawson popped up to 2b.,52,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,5,top,M. Sicoli walked.,53,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,5,top,J. Halloran reached on a fielder's choice; M. Sicoli out at second 3b to 2b.,54,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,5,bot,G. Lang grounded out to 3b.,55,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,5,bot,J. Farley struck out looking.,56,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,5,bot,A. Knapp doubled to left center.,57,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,5,bot,"J. Garcia singled to right field, RBI; A. Knapp scored.",58,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,5,bot,N. Brunswick grounded out to ss.,59,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,T. Cassidy to p for A. Higgins.,60,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,A. Conley singled through the left side.,61,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,B. Dincman singled down the lf line; A. Conley advanced to second.,62,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,R. Henry hit by pitch; B. Dincman advanced to second; A. Conley advanced to third.,63,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,"Z. Hanson walked, RBI; R. Henry advanced to second; B. Dincman advanced to third; A. Conley scored.",64,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,"M. Smallwood singled through the left side, RBI; Z. Hanson advanced to second; R. Henry advanced to third; B. Dincman scored.",65,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,Z. Wasserlau struck out swinging.,66,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,"J. Lawson doubled to left center, 3 RBI; M. Smallwood scored; Z. Hanson scored; R. Henry scored.",67,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,"M. Sicoli singled, advanced to second on a throwing error by rf; J. Lawson advanced to third.",68,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,A. Moraitaki to p for T. Cassidy.,69,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,J. Halloran struck out swinging.,70,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,A. Conley flied out to rf.,71,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,M. Sicoli to p.,72,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,N. Sullo to rf for B. Speicher.,73,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,A. Pendleton flied out to lf.,74,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,R. Uhls reached first on a fielding error by ss.,75,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,A. Jetmore singled through the right side; R. Uhls advanced to second.,76,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,T. Mukono pinch hit for C. Pulaski.,77,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,A. Jetmore advanced to second on a wild pitch; R. Uhls advanced to third.,78,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,T. Mukono hit by pitch.,79,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,"G. Lang grounded out to 2b, RBI; T. Mukono advanced to second; A. Jetmore advanced to third; R. Uhls scored, unearned.",80,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,"J. Farley singled to shortstop, RBI; T. Mukono advanced to third; A. Jetmore scored, unearned.",81,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,"A. Knapp homered to left field, unearned, 3 RBI; J. Farley scored, unearned; T. Mukono scored, unearned.",82,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,J. Garcia singled to left field.,83,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,N. Brunswick walked; J. Garcia advanced to second.,84,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,A. Pendleton walked; N. Brunswick advanced to second; J. Garcia advanced to third.,85,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,"R. Uhls singled to right center, 2 RBI; A. Pendleton advanced to third; N. Brunswick scored, unearned; J. Garcia scored, unearned.",86,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,A. Jetmore reached on a fielder's choice; R. Uhls out at second ss to 2b.,87,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,T. Mukono to lf.,88,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,S. Slezak to p for A. Moraitaki.,89,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,B. Dincman walked.,90,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,/  for N. Sullo.,91,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,N. Sullo to rf for R. Henry.,92,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,B. Dincman advanced to second on a wild pitch.,93,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,N. Sullo singled through the left side; B. Dincman advanced to third.,94,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,Z. Hanson walked; N. Sullo advanced to second.,95,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,C. Porter to p for S. Slezak.,96,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,M. Smallwood popped up to ss.,97,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,Z. Wasserlau struck out swinging.,98,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
-6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,J. Lawson flied out to cf.,99,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,Z. Wasserlau walked.,1,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,J. Lawson grounded into double play 2b to ss to 1b; Z. Wasserlau out on the play.,2,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,M. Sicoli doubled to left center.,3,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,"J. Halloran singled to center field, RBI; M. Sicoli scored.",4,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,A. Conley walked; J. Halloran advanced to second.,5,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,A. Conley stole second; J. Halloran stole third.,6,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,B. Dincman walked.,7,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,"R. Henry singled to center field, 2 RBI; B. Dincman advanced to second; A. Conley scored; J. Halloran scored.",8,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,Z. Hanson walked; R. Henry advanced to second; B. Dincman advanced to third.,9,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,1,top,M. Smallwood flied out to cf.,10,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,1,bot,A. Knapp grounded out to ss.,11,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,1,bot,J. Garcia walked.,12,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,1,bot,N. Brunswick struck out looking.,13,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,1,bot,"J. Garcia out at second c to ss, caught stealing.",14,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,2,top,Z. Wasserlau grounded out to ss.,15,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,2,top,J. Lawson out at first 1b to p.,16,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,2,top,M. Sicoli grounded out to 2b.,17,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,"A. Pendleton struck out swinging, reached first on a throwing error by c.",18,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,R. Uhls flied out to rf.,19,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,A. Jetmore singled to shortstop; A. Pendleton advanced to second.,20,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,C. Pulaski walked; A. Jetmore advanced to second; A. Pendleton advanced to third.,21,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,"G. Lang walked, RBI; C. Pulaski advanced to second; A. Jetmore advanced to third; A. Pendleton scored, unearned.",22,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,"J. Farley reached on a fielder's choice, advanced to second on a throwing error by 2b, RBI; G. Lang advanced to third; C. Pulaski scored, unearned; A. Jetmore scored, unearned.",23,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,"A. Knapp tripled, 2 RBI; J. Farley scored, unearned; G. Lang scored, unearned.",24,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,J. Garcia walked.,25,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,J. Garcia advanced to second on a wild pitch.,26,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,N. Brunswick walked.,27,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,"A. Pendleton hit by pitch, RBI; N. Brunswick advanced to second; J. Garcia advanced to third; A. Knapp scored, unearned.",28,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,"R. Uhls lined out to rf, sacrifice fly, RBI; J. Garcia scored, unearned.",29,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,2,bot,A. Jetmore flied out to cf.,30,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,3,top,J. Halloran struck out swinging.,31,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,3,top,A. Conley lined out to 2b.,32,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,3,top,B. Dincman fouled out to rf.,33,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,3,bot,C. Pulaski grounded out to p.,34,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,3,bot,G. Lang struck out looking.,35,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,3,bot,J. Farley struck out swinging.,36,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,4,top,R. Henry grounded out to ss.,37,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,4,top,Z. Hanson grounded out to ss.,38,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,4,top,M. Smallwood lined out to ss.,39,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,B. Speicher to p for A. Geller.,40,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,A. Knapp singled to pitcher.,41,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,A. Knapp stole second.,42,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,J. Garcia singled to right center; A. Knapp advanced to third.,43,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,J. Garcia advanced to second; A. Knapp scored on a balk.,44,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,N. Brunswick walked.,45,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,A. Pendleton reached on a fielder's choice; N. Brunswick out at second 2b to ss; J. Garcia advanced to third.,46,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,"R. Uhls singled through the right side, advanced to second on the throw, RBI; A. Pendleton advanced to third; J. Garcia scored.",47,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,A. Jetmore lined out to 2b.,48,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,4,bot,C. Pulaski struck out swinging.,49,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,5,top,A. Higgins to p for J. Collett.,50,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,5,top,Z. Wasserlau grounded out to ss.,51,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,5,top,J. Lawson popped up to 2b.,52,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,5,top,M. Sicoli walked.,53,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,5,top,J. Halloran reached on a fielder's choice; M. Sicoli out at second 3b to 2b.,54,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,5,bot,G. Lang grounded out to 3b.,55,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,5,bot,J. Farley struck out looking.,56,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,5,bot,A. Knapp doubled to left center.,57,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,5,bot,"J. Garcia singled to right field, RBI; A. Knapp scored.",58,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,5,bot,N. Brunswick grounded out to ss.,59,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,T. Cassidy to p for A. Higgins.,60,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,A. Conley singled through the left side.,61,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,B. Dincman singled down the lf line; A. Conley advanced to second.,62,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,R. Henry hit by pitch; B. Dincman advanced to second; A. Conley advanced to third.,63,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,"Z. Hanson walked, RBI; R. Henry advanced to second; B. Dincman advanced to third; A. Conley scored.",64,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,"M. Smallwood singled through the left side, RBI; Z. Hanson advanced to second; R. Henry advanced to third; B. Dincman scored.",65,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,Z. Wasserlau struck out swinging.,66,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,"J. Lawson doubled to left center, 3 RBI; M. Smallwood scored; Z. Hanson scored; R. Henry scored.",67,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,"M. Sicoli singled, advanced to second on a throwing error by rf; J. Lawson advanced to third.",68,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,A. Moraitaki to p for T. Cassidy.,69,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,J. Halloran struck out swinging.,70,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,6,top,A. Conley flied out to rf.,71,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,M. Sicoli to p.,72,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,N. Sullo to rf for B. Speicher.,73,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,A. Pendleton flied out to lf.,74,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,R. Uhls reached first on a fielding error by ss.,75,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,A. Jetmore singled through the right side; R. Uhls advanced to second.,76,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,T. Mukono pinch hit for C. Pulaski.,77,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,A. Jetmore advanced to second on a wild pitch; R. Uhls advanced to third.,78,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,T. Mukono hit by pitch.,79,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,"G. Lang grounded out to 2b, RBI; T. Mukono advanced to second; A. Jetmore advanced to third; R. Uhls scored, unearned.",80,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,"J. Farley singled to shortstop, RBI; T. Mukono advanced to third; A. Jetmore scored, unearned.",81,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,"A. Knapp homered to left field, unearned, 3 RBI; J. Farley scored, unearned; T. Mukono scored, unearned.",82,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,J. Garcia singled to left field.,83,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,N. Brunswick walked; J. Garcia advanced to second.,84,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,A. Pendleton walked; N. Brunswick advanced to second; J. Garcia advanced to third.,85,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,"R. Uhls singled to right center, 2 RBI; A. Pendleton advanced to third; N. Brunswick scored, unearned; J. Garcia scored, unearned.",86,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597100,6,bot,A. Jetmore reached on a fielder's choice; R. Uhls out at second ss to 2b.,87,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,T. Mukono to lf.,88,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,S. Slezak to p for A. Moraitaki.,89,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,B. Dincman walked.,90,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,/  for N. Sullo.,91,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,N. Sullo to rf for R. Henry.,92,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,B. Dincman advanced to second on a wild pitch.,93,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,N. Sullo singled through the left side; B. Dincman advanced to third.,94,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,Z. Hanson walked; N. Sullo advanced to second.,95,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,C. Porter to p for S. Slezak.,96,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,M. Smallwood popped up to ss.,97,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,Z. Wasserlau struck out swinging.,98,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025
+6349339,597276,Emory Eagles,597100,Berry Vikings,597276,7,top,J. Lawson flied out to cf.,99,2025-02-08T00:00:00-05:00,"William R. Bowdoin (Rome, GA)",227,MBA,2025

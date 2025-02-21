@@ -1,0 +1,92 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,1,top,A. Carson hit by pitch.,1,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,1,top,A. Carson stole second.,2,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,1,top,J. Jimenez walked.,3,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,1,top,J. Gonzalez lined out to ss.,4,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,1,top,A. Carson stole third.,5,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,1,top,J. Jimenez stole second.,6,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,1,top,R. Howe struck out swinging.,7,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,1,top,D. Aponte flied out to lf down the lf line.,8,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,1,bot,O. Prince flied out to lf.,9,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,1,bot,"G. Fitzwater homered to left field, RBI.",10,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,1,bot,C. Raile walked.,11,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,1,bot,C. Raile stole second.,12,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,1,bot,C. Raile advanced to third on a throwing error by p.,13,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,1,bot,B. Torres walked.,14,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,1,bot,"B. Torres out at second c to ss, caught stealing3a C. Raile scored, unearned.",15,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,1,bot,B. Garner struck out looking.,16,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,2,top,M. Blackisto struck out swinging.,17,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,2,top,J. Brown lined out to 3b.,18,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,2,top,"R. Davis homered to left field, RBI.",19,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,2,top,E. Negron walked.,20,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,2,top,E. Negron stole second.,21,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,2,top,A. Carson reached first on a throwing error by 3b3a E. Negron advanced to third.,22,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,2,top,A. Carson stole second.,23,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,2,top,"J. Jimenez doubled to right field, 2 RBI3a A. Carson scored, unearned3a E. Negron scored, unearned.",24,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,2,top,"J. Gonzalez singled to right field, RBI3a J. Jimenez scored, unearned.",25,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,2,top,R. Howe struck out swinging.,26,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,2,bot,A. Schnarrs walked.,27,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,2,bot,R. Peterson walked3a A. Schnarrs advanced to second.,28,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,2,bot,M. Perry struck out looking.,29,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,2,bot,"K. Jordan grounded out to p, SAC3a R. Peterson advanced to second3a A. Schnarrs advanced to third.",30,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,2,bot,O. Prince popped up to ss.,31,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,3,top,D. Aponte struck out swinging.,32,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,3,top,M. Blackisto walked.,33,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,3,top,"J. Brown grounded out to 3b, SAC3a M. Blackisto advanced to second.",34,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,3,top,R. Davis flied out to rf.,35,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,3,bot,"G. Fitzwater struck out swinging, out at first c to 1b.",36,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,3,bot,C. Raile popped up to 2b.,37,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,3,bot,B. Torres grounded out to 2b.,38,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,4,top,E. Negron grounded out to 3b.,39,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,4,top,A. Carson grounded out to 2b.,40,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,4,top,J. Jimenez flied out to cf to right center.,41,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,4,bot,B. Garner hit by pitch.,42,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,4,bot,A. Schnarrs singled to second base3a B. Garner advanced to second.,43,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,4,bot,R. Peterson struck out swinging.,44,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,4,bot,M. Perry struck out swinging.,45,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,4,bot,"K. Jordan singled to left field, RBI3a A. Schnarrs advanced to second3a B. Garner scored.",46,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,4,bot,"O. Prince singled up the middle, RBI3a K. Jordan advanced to third3a A. Schnarrs scored.",47,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,4,bot,O. Prince stole second.,48,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,4,bot,G. Fitzwater was intentionally walked.,49,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,4,bot,"C. Raile walked, RBI3a G. Fitzwater advanced to second3a O. Prince advanced to third3a K. Jordan scored.",50,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,4,bot,"B. Torres walked, RBI3a C. Raile advanced to second3a G. Fitzwater advanced to third3a O. Prince scored.",51,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,4,bot,J. Spencer to p for C. Champey.,52,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,4,bot,"B. Garner walked, RBI3a B. Torres advanced to second3a C. Raile advanced to third3a G. Fitzwater scored.",53,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,4,bot,A. Schnarrs popped up to 2b.,54,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,5,top,R. Velasquez to p for J. Lloyd.,55,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,5,top,J. Gonzalez singled up the middle.,56,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,5,top,R. Howe lined out to lf.,57,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,5,top,D. Aponte reached first on a fielding error by 2b3a J. Gonzalez advanced to second.,58,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,5,top,M. Blackisto grounded into double play 2b to 1b3a D. Aponte out on the play.,59,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,5,bot,R. Peterson walked.,60,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,5,bot,"M. Perry reached on a fielder's choice, bunt3a R. Peterson out at second p to ss.",61,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,5,bot,M. Perry stole second.,62,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,5,bot,"K. Jordan grounded out to p, SAC3a M. Perry advanced to third.",63,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,5,bot,O. Prince grounded out to 2b.,64,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,6,top,J. Brown flied out to cf.,65,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,6,top,R. Davis grounded out to 3b.,66,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,6,top,"E. Negron struck out swinging, out at first c to 1b.",67,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,6,bot,G. Fitzwater grounded out to 1b unassisted.,68,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,6,bot,C. Raile singled to third base.,69,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,6,bot,"B. Torres doubled to left center, advanced to third on a throwing error by ss, RBI3a C. Raile scored.",70,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,6,bot,"B. Garner singled through the left side, RBI3a B. Torres scored.",71,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,6,bot,B. Garner stole second.,72,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,6,bot,A. Schnarrs flied out to lf.,73,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,6,bot,"B. Garner stole third, scored on a throwing error by c, unearned.",74,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,6,bot,R. Peterson struck out swinging.,75,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,7,top,A. Carson singled through the right side.,76,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,7,top,J. Jimenez lined out to 2b.,77,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,7,top,J. Gonzalez struck out swinging.,78,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,7,top,R. Howe singled to left field3a A. Carson advanced to second.,79,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596594,7,top,D. Aponte out at first 1b to p.,80,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,7,bot,J. Santiago to p for J. Spencer.,81,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,7,bot,M. Perry walked.,82,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,7,bot,M. Perry stole second.,83,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,7,bot,"K. Jordan singled to pitcher, bunt3a M. Perry advanced to third.",84,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,7,bot,K. Jordan stole second.,85,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,7,bot,"O. Prince flied out to lf, sacrifice fly, RBI3a K. Jordan advanced to third3a M. Perry scored.",86,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,7,bot,"G. Fitzwater flied out to cf, sacrifice fly, RBI3a K. Jordan scored.",87,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,7,bot,C. Raile doubled down the lf line.,88,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,7,bot,"B. Torres doubled to right field, RBI3a C. Raile scored.",89,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,7,bot,B. Torres stole third.,90,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025
+6309444,596594,UMES Hawks,596437,VMI Keydets,596437,7,bot,"B. Garner singled to center field, RBI3a B. Torres scored.",91,2025-02-14T00:00:00-05:00,"Gray-Minor Stadium (Lexington, VA)",256,MBA,2025

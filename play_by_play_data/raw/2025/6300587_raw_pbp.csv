@@ -1,0 +1,100 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,1,top,No play.,1,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,1,top,DECELLE flied out to rf (0-1 K).,2,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,1,top,LEWIS grounded out to p (1-0 B).,3,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,1,top,ROGERS struck out swinging (2-2 FKBFBFFFS).,4,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,1,bot,White walked (3-2 KBKBFBB).,5,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,1,bot,"Smith, JP flied out to lf (1-1 BF)3a White no advance.",6,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,1,bot,Poturnak flied out to cf (0-0)3a White no advance.,7,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,1,bot,"Kligman, E walked (3-2 BBBKKB)3a White advanced to second.",8,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,1,bot,Christiansen grounded out to p (0-1 K).,9,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,2,top,KEIGHRAN popped up to ss (2-2 KBKB).,10,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,2,top,ESQUIVEL popped up to 3b (2-2 FKBBF).,11,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,2,top,HARRIES flied out to cf (2-2 KBSBFF).,12,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,2,bot,Pimentel-Gue grounded out to 1b unassisted (0-1 K).,13,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,2,bot,Cortez grounded out to 3b (2-2 BFBF).,14,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,2,bot,Perazzo struck out swinging (1-2 BSSFS).,15,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,3,top,FUNG grounded out to 1b unassisted (1-2 BKF).,16,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,3,top,"RAMPPEN homered down the lf line, RBI (1-2 KFB).",17,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,3,top,WATANABE grounded out to 1b unassisted (1-1 KB).,18,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,3,top,DECELLE flied out to rf to right center (0-1 S).,19,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,3,bot,Walton singled to left center (2-1 KBB).,20,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,3,bot,White walked (3-2 FBBFBB)3a Walton advanced to second.,21,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,3,bot,"Smith, JP hit by pitch (0-2 FFF)3a White advanced to second3a Walton advanced to third.",22,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,3,bot,"Poturnak walked, RBI (3-2 BBBKFB)3a Smith, JP advanced to second3a White advanced to third3a Walton scored.",23,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,3,bot,"Kligman, E singled to right field, 2 RBI (0-1 K)3a Poturnak advanced to second3a Smith, JP scored3a White scored.",24,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,3,bot,"Christiansen singled to first base, bunt (1-0 B)3a Kligman, E advanced to second3a Poturnak advanced to third.",25,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,3,bot,Pimentel-Gue struck out swinging (3-2 SSFBBFBS).,26,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,3,bot,Cortez lined out to ss (0-0).,27,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,3,bot,Perazzo struck out swinging (0-2 FFS).,28,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,4,top,LEWIS walked (3-0 BBBB).,29,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,4,top,ROGERS struck out swinging (2-2 FKFBBS).,30,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,4,top,"LEWIS out at second c to 2b, caught stealing.",31,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,4,top,KEIGHRAN struck out swinging (3-2 KBFBFBFFFFS).,32,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,4,bot,Walton grounded out to 2b (0-1 K).,33,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,4,bot,White singled up the middle (0-0).,34,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,4,bot,"Smith, JP singled through the right side (2-1 BBF)3a White advanced to second.",35,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,4,bot,PRYSTAJKO to p for SANTERRE.,36,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,4,bot,"Poturnak flied out to cf (1-1 SB)3a Smith, JP no advance3a White advanced to third.",37,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,4,bot,"Kligman, E walked (3-0 BBBB)3a Smith, JP advanced to second3a White scored on a wild pitch.",38,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,4,bot,Christiansen struck out swinging (1-2 KBSS).,39,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,5,top,ESQUIVEL fouled out to c (2-1 BKB).,40,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,5,top,HARRIES flied out to rf (2-2 BKKBF).,41,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,5,top,FUNG singled up the middle (1-2 SKBFFFFF).,42,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,5,top,RAMPPEN doubled down the lf line (2-1 KBB)3a FUNG advanced to third.,43,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,5,top,WATANABE popped up to ss (2-1 BBK).,44,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,5,bot,Pimentel-Gue struck out looking (2-2 KBBKFK).,45,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,5,bot,Cortez walked (3-2 SBKBBB).,46,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,5,bot,"Cortez out at second c to ss, caught stealing.",47,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,5,bot,Perazzo hit by pitch (2-2 BKSB).,48,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,5,bot,"Perazzo picked off, out at first c to 1b.",49,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,6,top,Monson to p for Stewart.,50,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,6,top,DECELLE walked (3-2 BFFBBFB).,51,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,6,top,LEWIS struck out swinging (2-2 BFFFBS).,52,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,6,top,ROGERS doubled down the lf line (0-2 FS)3a DECELLE advanced to third.,53,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,6,top,KEIGHRAN hit by pitch (3-1 BBKB).,54,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,6,top,ESQUIVEL struck out looking (0-2 KSK).,55,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,6,top,"HARRIES walked, RBI (3-2 KBBBKB)3a KEIGHRAN advanced to second3a ROGERS advanced to third3a DECELLE scored.",56,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,6,top,"FUNG walked, RBI (3-1 BFBBB)3a HARRIES advanced to second3a KEIGHRAN advanced to third3a ROGERS scored.",57,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,6,top,Lucchesi to p for Monson.,58,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,6,top,RAMPPEN struck out swinging (0-2 KSFS).,59,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,6,bot,POHORSKI to p for PRYSTAJKO.,60,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,6,bot,Walton walked (3-2 BFBSBB).,61,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,6,bot,Walton stole second.,62,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,6,bot,White struck out swinging (0-2 FKS).,63,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,6,bot,Walton advanced to third on a wild pitch.,64,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,6,bot,"Smith, JP intentionally walked (3-0 BBB).",65,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,6,bot,Poturnak struck out swinging (1-2 KSBS).,66,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,6,bot,"Kligman, E popped up to 3b (1-0 B).",67,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,7,top,WATANABE singled down the lf line (0-1 F).,68,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,7,top,DECELLE struck out swinging (3-2 BFSFFBBS).,69,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,7,top,LEWIS flied out to rf (1-1 BF)3a WATANABE no advance.,70,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,7,top,Stockton to p for Lucchesi.,71,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,7,top,ROGERS flied out to lf (1-0 B).,72,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,7,bot,Christiansen walked (3-2 SBSBBFFB).,73,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,7,bot,"Pimentel-Gue grounded out to p, SAC (0-0)3a Christiansen advanced to second.",74,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,7,bot,Christiansen advanced to third on a wild pitch.,75,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,7,bot,Cortez walked (3-2 FKBBFBB).,76,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,7,bot,Perazzo struck out swinging (1-2 FBFFS).,77,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,7,bot,Perez pinch hit for Walton.,78,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,7,bot,Cortez stole second.,79,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,7,bot,Perez struck out swinging (3-2 BBKKBFS).,80,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,8,top,Sewell to 2b for Pimentel-Gue.,81,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,8,top,Masciangelo to lf for Perez.,82,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,8,top,"Brown, Ka to p for Stockton.",83,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,8,top,KEIGHRAN walked (3-2 BBBKFB).,84,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,8,top,SCHWEIZER pinch hit for ESQUIVEL.,85,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,8,top,SCHWEIZER singled through the left side (1-1 BS)3a KEIGHRAN advanced to second.,86,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,8,top,HARRIES fouled out to 1b (2-0 BB).,87,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,8,top,FUNG reached on a fielder's choice to first base (0-2 KK)3a SCHWEIZER out at second 1b to ss3a KEIGHRAN advanced to third.,88,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,8,top,RAMPPEN grounded out to 3b (1-1 BF).,89,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,8,bot,BROWN to p for POHORSKI.,90,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,8,bot,White walked (3-2 KBSBBB).,91,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,8,bot,White advanced to second on a wild pitch.,92,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,8,bot,"Smith, JP struck out swinging (2-2 SBBFFS).",93,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,8,bot,Poturnak grounded out to ss (0-2 KF)3a White no advance.,94,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596509,8,bot,"Kligman, E grounded out to c (0-0).",95,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,9,top,WATANABE grounded out to ss (1-0 B).,96,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,9,top,DECELLE lined out to 1b (2-2 BBKF).,97,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,9,top,BELLISIMO pinch hit for LEWIS.,98,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025
+6300587,596671,San Francisco Dons,596509,Sacramento St. Hornets,596671,9,top,BELLISIMO popped up to 1b (2-2 FKFFBB).,99,2025-02-14T00:00:00-05:00,"John Smith Field (Sacramento, CA)",357,MBA,2025

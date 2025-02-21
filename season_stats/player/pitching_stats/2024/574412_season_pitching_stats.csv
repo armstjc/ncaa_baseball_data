@@ -1,14 +1,14 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8526933,19,Billy Canale,,,Fr,P,6-1,R/R,15081,,4,,3.86,7.0,,5,3,3,2,13,,29,26,,,,1,2,1,,,,,,49,1,7,,,2,6,
-1,2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8266758,27,Eric Swiencicki,,,So,P,5-11,R/R,15081,,3,,7.36,3.2,,4,4,3,0,4,,16,14,,,,2,,,,3,1,1,1,43,4,2,,,,3,
-2,2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8263458,15,Max Parker,,,Sr,P,6-2,L/L,15081,,14,14,4.65,91.0,,107,60,47,27,66,,422,366,7,3,3,10,2,17,,,,7,5,928,99,98,4,5,,16,2
-3,2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8270437,17,Jordan Goldmann,,,Jr,P,6-2,R/R,15081,,14,13,6.60,73.2,,93,64,54,38,50,,365,303,18,4,1,5,7,18,,,,3,3,822,98,59,5,5,,14,
-4,2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8264809,30,Jacob Crystal,,,Jr,P,6-2,L/L,15081,,14,14,4.70,88.0,,94,62,46,26,73,,393,340,26,,1,7,10,12,,,,10,5,900,90,85,3,8,,17,4
-5,2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8273428,7,Adam Sullivan,,,So,INF,6-1,L/R,15081,,6,,4.82,9.1,,5,5,5,8,5,,39,30,,1,,2,,,,,,,1,88,4,17,,,1,4,
-6,2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8273612,32,Kennen Smith,,,Sr,P,6-4,R/R,15081,,16,,10.87,27.1,,46,38,33,23,22,,156,125,6,3,2,4,2,2,,1,,2,4,357,18,40,1,,,4,
-7,2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8526925,28,Andrew Roden,,,Sr,1B,6-5,L/R,15081,,10,9,7.68,41.0,,61,40,35,19,33,,210,178,13,,,6,2,10,,,,1,2,761,37,45,3,3,,12,
-8,2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8285716,35,Billy Hoffacker,,,Jr,P,6-6,R/R,15081,,23,,5.40,41.2,,48,29,25,19,38,,197,170,14,,,3,4,4,1,5,2,3,1,573,48,34,4,4,3,12,
-9,2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8282244,9,James Musso,,,Fr,INF,5-8,R/R,15081,,2,,27.00,3.0,,10,9,9,1,1,,20,18,3,2,,,,,,3,3,,1,22,1,7,,,,,
-10,2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8282532,14,Wyatt Patchett,,,Jr,C,6-3,R/R,15081,,5,,3.60,5.0,,7,3,2,2,3,,22,20,2,,,,,,,2,2,,,56,4,6,1,,,1,
-11,2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8526936,21,Jack Cannon,,,Fr,OF,6-3,R/L,15081,,9,,10.93,14.0,,15,17,17,6,13,,64,55,4,1,,3,3,1,,,,1,1,165,5,23,,1,,4,
-12,2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8526938,33,Max Danaher,,,Fr,P,6-4,L/L,15081,,13,,14.63,24.0,,32,46,39,25,19,,148,104,3,1,2,4,11,16,,4,4,1,2,378,23,28,1,1,1,8,
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8526933,19,Billy Canale,,,Fr,P,6-1,R/R,15081,,4,,3.86,7.0,,5,3,3,2,13,,29,26,,,,1,2,1,,,,,,49,1,7,,,2,6,
+2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8266758,27,Eric Swiencicki,,,So,P,5-11,R/R,15081,,3,,7.36,3.2,,4,4,3,0,4,,16,14,,,,2,,,,3,1,1,1,43,4,2,,,,3,
+2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8263458,15,Max Parker,,,Sr,P,6-2,L/L,15081,,14,14,4.65,91.0,,107,60,47,27,66,,422,366,7,3,3,10,2,17,,,,7,5,928,99,98,4,5,,16,2
+2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8270437,17,Jordan Goldmann,,,Jr,P,6-2,R/R,15081,,14,13,6.60,73.2,,93,64,54,38,50,,365,303,18,4,1,5,7,18,,,,3,3,822,98,59,5,5,,14,
+2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8264809,30,Jacob Crystal,,,Jr,P,6-2,L/L,15081,,14,14,4.70,88.0,,94,62,46,26,73,,393,340,26,,1,7,10,12,,,,10,5,900,90,85,3,8,,17,4
+2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8273428,7,Adam Sullivan,,,So,INF,6-1,L/R,15081,,6,,4.82,9.1,,5,5,5,8,5,,39,30,,1,,2,,,,,,,1,88,4,17,,,1,4,
+2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8273612,32,Kennen Smith,,,Sr,P,6-4,R/R,15081,,16,,10.87,27.1,,46,38,33,23,22,,156,125,6,3,2,4,2,2,,1,,2,4,357,18,40,1,,,4,
+2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8526925,28,Andrew Roden,,,Sr,1B,6-5,L/R,15081,,10,9,7.68,41.0,,61,40,35,19,33,,210,178,13,,,6,2,10,,,,1,2,761,37,45,3,3,,12,
+2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8285716,35,Billy Hoffacker,,,Jr,P,6-6,R/R,15081,,23,,5.40,41.2,,48,29,25,19,38,,197,170,14,,,3,4,4,1,5,2,3,1,573,48,34,4,4,3,12,
+2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8282244,9,James Musso,,,Fr,INF,5-8,R/R,15081,,2,,27.00,3.0,,10,9,9,1,1,,20,18,3,2,,,,,,3,3,,1,22,1,7,,,,,
+2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8282532,14,Wyatt Patchett,,,Jr,C,6-3,R/R,15081,,5,,3.60,5.0,,7,3,2,2,3,,22,20,2,,,,,,,2,2,,,56,4,6,1,,,1,
+2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8526936,21,Jack Cannon,,,Fr,OF,6-3,R/L,15081,,9,,10.93,14.0,,15,17,17,6,13,,64,55,4,1,,3,3,1,,,,1,1,165,5,23,,1,,4,
+2024,2023-24,MBA,349,Le Moyne,1,I,NEC,8526938,33,Max Danaher,,,Fr,P,6-4,L/L,15081,,13,,14.63,24.0,,32,46,39,25,19,,148,104,3,1,2,4,11,16,,4,4,1,2,378,23,28,1,1,1,8,

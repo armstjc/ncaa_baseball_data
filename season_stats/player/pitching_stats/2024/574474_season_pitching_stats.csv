@@ -1,0 +1,24 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8276598,9,Sam Astern,,,Sr,INF,-,,15081,,1,,0.00,1.0,,1,,,,3,,4,4,1,,,,1,,,,,,,20,,,,,,1,
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8276610,13,Hunter Harritan,,,Sr,P,-,,15081,,19,,2.91,34.0,,29,12,11,24,39,,157,124,4,,,3,18,4,2,11,7,5,,561,38,19,3,,10,9,
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8260993,19,Nolan Rogers,,,Sr,P,-,,15081,,16,,8.53,12.2,,14,14,12,11,15,,73,54,7,,,1,4,7,,,,,1,224,8,17,,,,4,
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8267075,28,Grif Hughes,,,Sr,P,-,,15081,,20,5,3.86,58.1,,54,31,25,17,71,,251,217,13,,,3,3,9,2,6,3,4,4,924,49,46,9,4,1,25,4
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8276974,17,Noah Pridmore,,,Sr,P,-,,15081,,14,14,5.81,74.1,1,92,52,48,21,50,1,340,304,15,,1,7,4,8,,,,5,2,"1,142",113,48,5,4,,14,2
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8261404,35,Jacob Overbeck,,,Sr,,-,,15081,,13,,7.16,16.1,,25,17,13,4,7,,80,72,4,1,,2,1,3,,4,3,1,,250,18,22,1,1,,1,
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8264990,42,Jake Wright,,,Sr,P,-,,15081,,6,,0.00,7.2,,2,,,3,16,,27,24,,,1,,,,,1,,,,119,3,3,,,1,3,
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8262853,34,Jaxson Serritt,,,So,,-,,15081,,6,,2.57,7.0,,8,2,2,3,4,,29,25,1,,,2,1,1,,2,,,,99,6,7,1,,,2,
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8266598,32,Ethan Patch,,,Sr,,-,,15081,,11,2,12.86,7.0,,11,12,10,9,7,,43,31,3,,,1,3,3,,3,,,,166,5,8,,1,,1,
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8265503,14,Colby Phillips,,,Jr,,-,,15081,,5,,6.75,4.0,,6,3,3,3,2,,20,16,,,,1,,1,,3,1,,,75,2,6,,,,,
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8286344,18,Brock Culpepper,,,Jr,,-,,15081,,18,3,6.81,35.2,,41,30,27,13,22,,164,142,9,1,,4,3,6,,5,4,2,1,533,44,35,2,4,,7,
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8451967,40,Andrew Bench,,,Jr,P,-,,15081,,12,8,8.48,28.2,,48,32,27,10,15,,151,130,5,1,,9,1,8,1,,,2,1,441,31,37,,2,,6,
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8451960,23,Jeb Shuler,,,So,P,-,,15081,,1,,0.00,0.1,,0,,,0,,,3,1,,,,,,2,,,,,,10,,1,,,,,
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8451963,29,Blake Cooper,,,Jr,P,-,-/L,15081,,13,11,8.21,41.2,,56,49,38,29,30,,220,174,12,4,,4,3,9,,2,1,4,4,751,46,43,1,5,,12,1
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8451975,6,Cole Nathan,,,Fr,P,-,,15081,,3,2,31.50,2.0,,5,7,7,6,1,,18,10,,,,2,1,1,,,,1,,72,3,2,,,,,
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8451948,4,Braden Williams,,,Fr,P,6-3,R/R,15081,,11,,4.35,10.1,,12,5,5,3,8,,47,39,2,,,2,1,3,,4,1,,1,174,5,15,1,,,3,16
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8451950,1,Jake Bedard,,,Fr,INF,6-1,L/R,15081,,1,,0.00,1.0,,,,,1,,,3,2,,,,,,,,,,,,12,1,1,,,,,
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8451965,31,Ryan Higgins,,,Fr,P,-,,15081,,15,4,7.16,32.2,,34,29,26,18,31,,160,124,12,,,3,9,10,,2,,6,2,567,32,33,1,3,,6,1
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8451969,44,Coltin Reynolds,,,So,P,-,,15081,,11,,11.57,9.1,,15,15,12,8,11,,53,44,4,,,1,,1,,6,1,,,157,9,8,,1,,5,
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8585470,5,X. Hart,,,Jr,p,-,,15081,,8,1,10.57,7.2,,13,9,9,4,3,,40,35,4,1,,1,1,1,,,,,,123,10,8,,1,,,
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8682127,1,Bransen Angel,,,Fr,p,-,,15081,,11,,9.20,14.2,,23,16,15,10,11,,78,64,3,1,,3,2,2,1,1,,1,1,222,12,18,,,,4,
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8684614,33,N. Kane,,,Fr,c,-,,15081,,1,,54.00,0.2,,4,4,4,1,,,7,6,2,,,,,,,,,,,26,1,1,,,,,
+2024,2023-24,MBA,1000,Carson-Newman,2,II,SAC,8688251,23,Kolton Glick,,,N/A,p,-,,15081,,1,,,,,2,3,3,1,,,3,2,1,,,,1,,,,,,,14,,,,,,,

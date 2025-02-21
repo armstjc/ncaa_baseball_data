@@ -1,0 +1,19 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8273749,46,Pieter van Wingerden,,,Sr,P,5-8,L/L,15081,,10,,3.00,6.0,,4,2,2,3,6,,31,19,2,,,,2,7,,,,,2,70,3,8,,,,3,
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8259455,6,Jake Tracey,,,Sr,P,6-3,L/R,15081,,1,1,0.00,3.0,,2,,,0,3,,10,10,,,,,,,,,,,,42,3,2,,,,,
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8272566,3,Hamilton Finefrock,,,Jr,P,6-0,R/R,15081,,19,2,1.33,40.2,,25,8,6,9,50,,163,143,4,,,1,2,7,,,,1,3,509,22,48,5,1,2,8,
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8263588,44,Henry Connell,,,Jr,P,5-8,R/R,15081,,14,,4.94,27.1,,27,15,15,13,19,,121,103,5,1,,5,,3,,,,,2,349,22,36,3,,1,7,
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8266122,45,Lucas Welch,,,Jr,P,6-2,R/R,15081,,15,,10.91,15.2,,19,21,19,15,17,,93,63,7,,,2,9,12,,,,1,1,264,19,7,1,1,1,5,
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8263752,12,Bryant Smaaladen,,,So,P,6-1,L/L,15081,,11,4,7.42,30.1,,43,27,25,11,27,,149,128,7,1,,3,3,3,,,,7,,414,32,30,1,2,1,8,1
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8269900,48,Andrew Blackett,,,So,P,6-0,R/R,15081,,18,,5.84,24.2,,20,17,16,11,18,,111,87,3,1,,2,2,9,,1,,1,2,287,19,31,4,,1,7,
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8287880,16,Aaron Herst,,,So,P,5-2,L/L,15081,,12,11,5.82,55.2,,74,38,36,21,46,,262,236,11,1,,2,2,4,,,,1,,871,59,50,4,2,,16,
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8453492,31,Matthew Bergan,,,Jr,P,6-3,R/R,15081,,6,,12.60,5.0,,7,8,7,8,3,,33,20,2,,,,2,4,,,,,1,94,5,6,1,,,,
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8453496,36,Max Buchanan,,,Fr,P,6-4,R/R,15081,,1,,0.00,1.0,,,,,,1,,3,3,,,,,,,,,,,,,1,1,,,,,
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8453505,41,Parker McGraw,,,Fr,P,6-1,R/R,15081,,18,11,4.86,76.0,1,82,53,41,20,51,,345,294,13,,,2,4,25,1,,,5,1,955,109,48,6,5,1,16,1
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8453488,23,Stryker Scales,,,Fr,P,6-3,R/R,15081,,5,1,5.14,7.0,,8,4,4,0,5,,33,27,1,,,1,,6,,,,,,117,7,7,,,,2,
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8453489,26,Vitaly DiBlasi,,,Fr,P,5-7,R/R,15081,,7,1,9.90,10.0,,11,13,11,10,9,,53,39,3,,,,2,3,,,,,1,169,6,13,,1,1,,
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8453493,32,Berkeley Harsch,,,Fr,P,6-2,R/R,15081,,5,,4.32,8.1,,10,7,4,5,7,,43,34,1,,,,,2,,,,2,,68,6,11,1,,,3,
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8453509,49,Charlie Hynes,,,Fr,P,-,L/L,15081,,1,,9.00,1.0,,,1,1,2,2,,6,3,,,,,1,1,,,,,,34,1,,,,,2,
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8453486,20,Kody Perry,,,Fr,P,6-0,R/R,15081,,5,5,4.42,18.1,,19,11,9,3,23,,83,70,2,1,,4,,7,,,,2,1,205,18,11,1,1,,6,
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8453491,28,Jackson Hisey,,,Fr,P,5-11,R/R,15081,,12,11,4.81,48.2,,43,39,26,23,36,,234,182,6,1,4,1,5,22,,,,3,4,642,69,29,4,2,,10,
+2024,2023-24,MBA,142,Claremont-M-S,3,III,SCIAC,8453495,35,Ethan Hemby,,,Fr,P,6-2,R/R,15081,,6,,2.45,7.1,,8,3,2,,5,,35,31,,,,1,1,3,,,,,1,99,7,10,1,,,,

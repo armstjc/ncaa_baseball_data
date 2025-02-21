@@ -1,0 +1,19 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,1318,Post,2,II,CACC,8276677,20,Erik Gutowski,,,Sr,P,5-11,L/R,15081,,11,,9.00,15.0,,23,16,15,8,12,,77,66,4,2,,2,2,,,2,2,1,2,279,12,21,,,,4,
+2024,2023-24,MBA,1318,Post,2,II,CACC,8273904,13,Justin Portes,,,Jr,P,6-2,R/R,15081,,5,2,19.29,7.0,,6,16,15,12,4,,43,24,1,1,,1,6,5,,2,1,1,1,165,8,8,,3,,1,1
+2024,2023-24,MBA,1318,Post,2,II,CACC,8277196,48,Joe Christiana,,,Sr,P,6-2,R/R,15081,,12,11,3.27,74.1,4,76,30,27,21,70,1,319,282,11,,,5,3,5,,1,1,9,2,"1,020",60,83,7,1,,27,2
+2024,2023-24,MBA,1318,Post,2,II,CACC,8274368,22,Matt Semon,,,Sr,P,6-3,R/R,15081,,13,13,3.88,69.2,1,55,36,30,50,58,1,315,241,11,1,1,1,8,14,,,,5,5,"1,219",52,81,5,3,,22,1
+2024,2023-24,MBA,1318,Post,2,II,CACC,8269785,29,Nico Gaudio,,,Jr,P,6-3,R/R,15081,,4,,22.50,4.0,,7,12,10,7,2,,27,16,2,,,1,4,2,,3,3,1,1,103,3,6,,,,,
+2024,2023-24,MBA,1318,Post,2,II,CACC,8265380,19,Noah Connor,,,Sr,P,5-10,R/R,15081,,6,,9.82,7.1,,13,8,8,5,7,,41,34,4,1,,2,,,,1,1,1,1,161,4,11,1,,,4,
+2024,2023-24,MBA,1318,Post,2,II,CACC,8265398,36,Nick Gomes,,,So,P,6-0,L/L,15081,,6,,19.89,6.1,,12,14,14,8,4,,41,29,5,,,,,2,,7,6,,2,146,3,12,,,,3,
+2024,2023-24,MBA,1318,Post,2,II,CACC,8261794,14,Vincent Borghese,,,So,P,6-0,R/R,15081,,6,3,15.07,14.1,,24,27,24,18,12,,86,64,5,,,3,8,3,,,,,1,307,5,24,,3,,4,
+2024,2023-24,MBA,1318,Post,2,II,CACC,8285199,11,Brennan Holligan,,,Jr,P,6-5,R/R,15081,,14,6,2.70,60.0,3,52,25,18,23,61,2,250,218,7,,,3,8,3,,2,2,3,3,824,56,52,7,3,2,19,2
+2024,2023-24,MBA,1318,Post,2,II,CACC,8286731,18,Marshall Thurman,,,So,P,6-3,R/R,15081,,7,,16.20,5.0,,10,9,9,6,6,,37,25,1,,2,,5,5,,1,1,1,,138,8,2,,,,2,
+2024,2023-24,MBA,1318,Post,2,II,CACC,8427507,9,Dalton Wright,,,Fr,P,5-10,R/R,15081,,2,,31.50,2.0,,4,7,7,3,3,,14,10,,,,2,,1,,,,,,64,1,2,,,,2,
+2024,2023-24,MBA,1318,Post,2,II,CACC,8427509,24,Nathaniel Byrd,,,Sr,P,6-4,R/R,15081,,10,,8.50,18.0,,31,19,17,7,17,,92,81,6,1,,2,,1,,1,,2,1,304,22,14,1,3,2,6,
+2024,2023-24,MBA,1318,Post,2,II,CACC,8427516,33,Nick Semon,,,So,P,6-1,R/R,15081,,11,4,4.28,33.2,1,21,17,16,21,46,,149,118,4,,,,9,7,,5,5,1,2,586,26,27,2,,2,18,
+2024,2023-24,MBA,1318,Post,2,II,CACC,8427528,51,Jake Baumann,,,Fr,P,5-11,R/R,15081,,8,,9.64,9.1,,12,10,10,7,4,,47,40,,,,1,2,,,1,1,,,179,11,13,1,1,2,2,
+2024,2023-24,MBA,1318,Post,2,II,CACC,8427533,61,Alexander Galvan,,,Jr,P,6-0,L/L,15081,,7,3,11.81,16.0,,30,22,21,8,5,,87,76,4,,,4,1,1,,4,1,1,1,315,19,23,,2,,3,1
+2024,2023-24,MBA,1318,Post,2,II,CACC,8427534,62,Aiden Carabello,,,Fr,P,5-11,L/L,15081,,3,,16.20,1.2,,1,3,3,3,,,9,5,1,,,,,,,,,,1,27,1,4,,,,,
+2024,2023-24,MBA,1318,Post,2,II,CACC,8427529,50,Jack Martineau,,,Fr,P,6-1,R/R,15081,,11,7,3.65,49.1,1,41,21,20,18,39,1,207,176,11,2,1,2,2,7,,,,2,4,772,28,72,4,2,,11,2
+2024,2023-24,MBA,1318,Post,2,II,CACC,8427525,39,Ryan  Smith,,,Fr,P,6-2,R/R,15081,,1,,0.00,1.0,,1,,,,,,4,4,,,,,,,,,,,,4,2,1,,,,,

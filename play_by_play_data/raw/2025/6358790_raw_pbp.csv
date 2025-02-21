@@ -1,0 +1,76 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,1,top,ZYONS struck out looking (3-2 KFBBBK).,1,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,1,top,NORIEGA struck out swinging (1-2 BKKS).,2,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,1,top,D'AMICO singled to right field (1-2 KBF).,3,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,1,top,GREGER doubled to left field (0-0)3a D'AMICO advanced to third.,4,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,1,top,HACKETT struck out swinging (2-2 KFBBS).,5,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,1,bot,"JOURAS, N flied out to lf (3-2 BBKKB).",6,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,1,bot,"O'SHAUGHNESS homered to right center, RBI (0-0).",7,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,1,bot,"PUTNAM, E lined out to ss (3-1 BBBK).",8,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,1,bot,"KATZ, A flied out to lf (1-2 SBK).",9,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,2,top,SAUL struck out looking (0-2 FSK).,10,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,2,top,D'AMATO singled to center field (0-1 K).,11,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,2,top,"DURAND homered to center field, 2 RBI (1-0 B)3a D'AMATO scored.",12,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,2,top,GRADY hit by pitch (0-1 F).,13,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,2,top,"ZYONS singled to third base, bunt (0-0)3a GRADY advanced to second.",14,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,2,top,NORIEGA reached on a throwing error by ss (1-0 B)3a ZYONS out at second 2b to ss3a GRADY scored.,15,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,2,top,D'AMICO singled to right field (0-1 K)3a NORIEGA advanced to third.,16,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,2,top,GREGER flied out to rf (0-2 FFF).,17,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,2,bot,RIZY to p for DELONGCHAMP.,18,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,2,bot,"LIETZ, F struck out swinging (1-2 BKKFS).",19,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,2,bot,"COTRONE, J struck out swinging (3-2 FBBSBS).",20,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,2,bot,"DALY, J walked (3-0 BBBB).",21,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,2,bot,"SCHUCHART, C struck out swinging (3-2 BBKKBS).",22,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,3,top,"HACKETT struck out swinging, out at first c to 1b (1-2 FBSS).",23,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,3,top,SAUL singled to left field (0-1 F).,24,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,3,top,D'AMATO walked (3-0 BBBB)3a SAUL advanced to second.,25,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,3,top,"DURAND homered to right field, 3 RBI (0-0)3a D'AMATO scored3a SAUL scored.",26,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,3,top,GRADY grounded out to 3b (0-1 F).,27,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,3,top,ZYONS grounded out to 2b (1-2 BKF).,28,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,3,bot,"RICE, A struck out swinging (2-2 FBKBS).",29,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,3,bot,"JOURAS, N walked (3-2 KFBBBB).",30,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,3,bot,O'SHAUGHNESS flied out to lf (2-1 BFB).,31,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,3,bot,"PUTNAM, E grounded out to 2b (2-0 BB).",32,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,4,top,NORIEGA singled to center field (1-2 KFB).,33,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,4,top,D'AMICO struck out swinging (1-2 BFSS).,34,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,4,top,GREGER flied out to rf (0-0).,35,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,4,top,NORIEGA stole second.,36,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,4,top,HACKETT walked (3-2 FBKBBB).,37,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,4,top,SAUL struck out swinging (0-2 SSS).,38,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,4,bot,"KATZ, A struck out looking (1-2 FBSK).",39,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,4,bot,"LIETZ, F lined out to cf (3-1 BBBK).",40,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,4,bot,"COTRONE, J doubled to center field (3-2 BKSBB).",41,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,4,bot,"DALY, J walked (3-2 BBBKFFB)3a COTRONE, J advanced to third on a wild pitch.",42,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,4,bot,SCUDDER to p for RIZY.,43,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,4,bot,"SCHUCHART, C struck out swinging (0-2 SSS).",44,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,5,top,"CHAMPEY, B to p for PERKINS, W.",45,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,5,top,D'AMATO walked (3-0 BBBB).,46,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,5,top,DURAND grounded into double play ss to 2b to 1b (0-0)3a D'AMATO out on the play.,47,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,5,top,"GRADY struck out swinging, out at first c to 1b (2-2 KSFBBFS).",48,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,5,bot,"REEVES, L pinch hit for RICE, A.",49,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,5,bot,"REEVES, L struck out swinging (3-2 FBBBSS).",50,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,5,bot,"JOURAS, N singled to center field (1-0 B).",51,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,5,bot,"O'SHAUGHNESS singled to left field (1-0 B)3a JOURAS, N advanced to second.",52,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,5,bot,"PUTNAM, E grounded into double play 2b to ss to 1b (2-2 BKKB)3a O'SHAUGHNESS out on the play.",53,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,6,top,"McCULLOUGH to lf for REEVES, L.",54,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,6,top,ZYONS walked (3-1 BSBBB).,55,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,6,top,NORIEGA struck out swinging (1-2 BFFFS).,56,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,6,top,D'AMICO reached on a fielder's choice (1-0 B)3a ZYONS out at second 3b to 2b.,57,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,6,top,GREGER lined out to rf (2-2 SBBF).,58,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,6,bot,"KATZ, A flied out to cf (0-0).",59,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,6,bot,"LIETZ, F walked (3-2 BBKFBB).",60,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,6,bot,"COTRONE, J walked (3-2 KBBKBB)3a LIETZ, F advanced to second.",61,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,6,bot,"DALY, J singled through the right side, RBI (0-1 K)3a COTRONE, J advanced to second3a LIETZ, F scored.",62,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,6,bot,"SCHUCHART, C struck out swinging (1-2 FBS)3a DALY, J out at second c to 2b to 1b to ss, caught stealing3a COTRONE, J scored.",63,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,7,top,HACKETT flied out to lf (0-0).,64,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,7,top,SAUL hit by pitch (1-0 B).,65,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,7,top,D'AMATO singled to left field (2-2 FKBFB)3a SAUL advanced to second.,66,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,7,top,"HALL, E to p for CHAMPEY, B.",67,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,7,top,D'AMATO advanced to second on a wild pitch3a SAUL advanced to third.,68,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,7,top,DURAND struck out looking (1-2 BSSK).,69,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596501,7,top,GRADY grounded out to p unassisted (0-2 KK).,70,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,7,bot,VANESKO to p for SCUDDER.,71,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,7,bot,"EDWARDS, S pinch hit for McCULLOUGH.",72,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,7,bot,"EDWARDS, S grounded out to 3b (0-1 S).",73,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,7,bot,"JOURAS, N struck out swinging (2-2 BBKFS).",74,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025
+6358790,596501,Bryant Bulldogs,596531,Davidson Wildcats,596531,7,bot,O'SHAUGHNESS grounded out to 2b (1-1 BF).,75,2025-02-14T00:00:00-05:00,"Wilson Field (Davidson, NC)",315,MBA,2025

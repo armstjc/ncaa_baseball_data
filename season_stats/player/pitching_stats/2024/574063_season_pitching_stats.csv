@@ -1,17 +1,17 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,222,FDU,1,I,NEC,8273918,10,Luke Russo,,,So,OF,5-9,R/R,15081,,5,,6.75,5.1,,8,4,4,4,3,,28,22,,,,,1,1,,1,1,1,,99,6,6,,1,2,1,
-1,2024,2023-24,MBA,222,FDU,1,I,NEC,8262357,40,Ian  Barrett,,,Sr,P,6-0,R/R,15081,,17,,5.72,28.1,,29,19,18,18,30,,136,111,4,,,5,2,5,1,7,1,1,1,390,21,32,3,2,,14,
-2,2024,2023-24,MBA,222,FDU,1,I,NEC,8267215,44,Cole Vida,,,So,P,5-10,L/L,15081,,6,,9.00,8.0,,9,8,8,4,6,,37,32,3,,,1,,,,,,1,,140,8,10,,,,4,
-3,2024,2023-24,MBA,222,FDU,1,I,NEC,8262456,20,Jason Diaz,,,Sr,P,6-1,R/R,15081,,5,,9.64,4.2,,3,7,5,10,3,,30,16,1,,,,7,4,,,,,,81,6,3,,1,,,
-4,2024,2023-24,MBA,222,FDU,1,I,NEC,8276061,3,Jeremy Cheeseman,,,So,P,6-1,L/R,15081,,10,6,7.11,25.1,,25,22,20,19,29,,122,96,3,2,,2,2,5,,2,1,2,,442,26,14,1,2,,6,1
-5,2024,2023-24,MBA,222,FDU,1,I,NEC,8279286,24,Nicholas Feretic,,,Sr,P,5-11,R/R,15081,,13,7,8.74,35.0,,53,34,34,11,38,,176,155,11,1,,6,1,10,,,,,,663,22,41,4,2,,2,
-6,2024,2023-24,MBA,222,FDU,1,I,NEC,8287422,11,Patrick Gardner,,,Jr,P,5-11,L/L,15081,,16,14,3.14,86.0,1,62,39,30,34,93,1,361,304,17,,1,3,9,13,,2,2,8,2,"1,078",88,62,8,2,,36,
-7,2024,2023-24,MBA,222,FDU,1,I,NEC,8425620,16,Dante Edwardi,,,Fr,P,5-9,R/R,15081,,6,,8.53,6.1,,10,6,6,4,6,,31,27,3,,1,2,,,,2,,,,114,5,6,,,,1,
-8,2024,2023-24,MBA,222,FDU,1,I,NEC,8425652,43,Ben Pika,,,Sr,P,6-3,R/R,15081,,16,,8.17,25.1,,40,25,23,10,19,,126,111,11,1,,4,2,1,,3,3,2,2,384,35,20,,,,10,
-9,2024,2023-24,MBA,222,FDU,1,I,NEC,8425503,14,Jake Simon,,,Sr,P,5-9,R/R,15081,,11,,8.22,15.1,,15,16,14,14,13,,79,57,4,,,4,2,5,,3,2,1,2,226,11,20,,,,5,
-10,2024,2023-24,MBA,222,FDU,1,I,NEC,8425680,28,Brian Yadlon,,,Jr,P,6-0,L/L,15081,,10,,6.75,10.2,,11,10,8,15,8,,59,38,4,,,1,1,2,,,,1,3,189,8,13,,,,2,
-11,2024,2023-24,MBA,222,FDU,1,I,NEC,8425481,7,Joey Kosowsky,,,Sr,P,5-10,R/R,15081,,18,8,5.59,56.1,,72,46,35,26,37,,271,228,12,1,2,7,4,6,,8,4,3,8,844,58,63,3,9,1,6,
-12,2024,2023-24,MBA,222,FDU,1,I,NEC,8425525,18,Zac Capps,,,Sr,P,6-2,R/R,15081,,16,15,5.83,78.2,,81,55,51,32,100,,358,308,15,3,,11,4,13,,,,4,,"1,019",63,62,5,6,,25,1
-13,2024,2023-24,MBA,222,FDU,1,I,NEC,8425598,37,Vladimir Ceverino,,,Sr,P,6-2,R/R,15081,,19,,4.65,40.2,,28,24,21,24,62,,178,147,5,,,9,4,2,,4,2,3,2,617,22,35,1,1,7,9,
-14,2024,2023-24,MBA,222,FDU,1,I,NEC,8425614,39,Nate Dudeck,,,So,P,6-3,B/R,15081,,2,,16.20,1.2,,2,3,3,4,2,,12,8,1,,1,,1,,,,,,,51,1,2,,,,1,
-15,2024,2023-24,MBA,222,FDU,1,I,NEC,8425634,25,Chris Mattioli,,,Jr,P,5-11,R/R,15081,,15,6,4.70,53.2,,48,30,28,21,49,,241,203,13,,,9,2,15,,3,2,1,1,699,44,62,1,4,,21,
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,222,FDU,1,I,NEC,8273918,10,Luke Russo,,,So,OF,5-9,R/R,15081,,5,,6.75,5.1,,8,4,4,4,3,,28,22,,,,,1,1,,1,1,1,,99,6,6,,1,2,1,
+2024,2023-24,MBA,222,FDU,1,I,NEC,8262357,40,Ian  Barrett,,,Sr,P,6-0,R/R,15081,,17,,5.72,28.1,,29,19,18,18,30,,136,111,4,,,5,2,5,1,7,1,1,1,390,21,32,3,2,,14,
+2024,2023-24,MBA,222,FDU,1,I,NEC,8267215,44,Cole Vida,,,So,P,5-10,L/L,15081,,6,,9.00,8.0,,9,8,8,4,6,,37,32,3,,,1,,,,,,1,,140,8,10,,,,4,
+2024,2023-24,MBA,222,FDU,1,I,NEC,8262456,20,Jason Diaz,,,Sr,P,6-1,R/R,15081,,5,,9.64,4.2,,3,7,5,10,3,,30,16,1,,,,7,4,,,,,,81,6,3,,1,,,
+2024,2023-24,MBA,222,FDU,1,I,NEC,8276061,3,Jeremy Cheeseman,,,So,P,6-1,L/R,15081,,10,6,7.11,25.1,,25,22,20,19,29,,122,96,3,2,,2,2,5,,2,1,2,,442,26,14,1,2,,6,1
+2024,2023-24,MBA,222,FDU,1,I,NEC,8279286,24,Nicholas Feretic,,,Sr,P,5-11,R/R,15081,,13,7,8.74,35.0,,53,34,34,11,38,,176,155,11,1,,6,1,10,,,,,,663,22,41,4,2,,2,
+2024,2023-24,MBA,222,FDU,1,I,NEC,8287422,11,Patrick Gardner,,,Jr,P,5-11,L/L,15081,,16,14,3.14,86.0,1,62,39,30,34,93,1,361,304,17,,1,3,9,13,,2,2,8,2,"1,078",88,62,8,2,,36,
+2024,2023-24,MBA,222,FDU,1,I,NEC,8425620,16,Dante Edwardi,,,Fr,P,5-9,R/R,15081,,6,,8.53,6.1,,10,6,6,4,6,,31,27,3,,1,2,,,,2,,,,114,5,6,,,,1,
+2024,2023-24,MBA,222,FDU,1,I,NEC,8425652,43,Ben Pika,,,Sr,P,6-3,R/R,15081,,16,,8.17,25.1,,40,25,23,10,19,,126,111,11,1,,4,2,1,,3,3,2,2,384,35,20,,,,10,
+2024,2023-24,MBA,222,FDU,1,I,NEC,8425503,14,Jake Simon,,,Sr,P,5-9,R/R,15081,,11,,8.22,15.1,,15,16,14,14,13,,79,57,4,,,4,2,5,,3,2,1,2,226,11,20,,,,5,
+2024,2023-24,MBA,222,FDU,1,I,NEC,8425680,28,Brian Yadlon,,,Jr,P,6-0,L/L,15081,,10,,6.75,10.2,,11,10,8,15,8,,59,38,4,,,1,1,2,,,,1,3,189,8,13,,,,2,
+2024,2023-24,MBA,222,FDU,1,I,NEC,8425481,7,Joey Kosowsky,,,Sr,P,5-10,R/R,15081,,18,8,5.59,56.1,,72,46,35,26,37,,271,228,12,1,2,7,4,6,,8,4,3,8,844,58,63,3,9,1,6,
+2024,2023-24,MBA,222,FDU,1,I,NEC,8425525,18,Zac Capps,,,Sr,P,6-2,R/R,15081,,16,15,5.83,78.2,,81,55,51,32,100,,358,308,15,3,,11,4,13,,,,4,,"1,019",63,62,5,6,,25,1
+2024,2023-24,MBA,222,FDU,1,I,NEC,8425598,37,Vladimir Ceverino,,,Sr,P,6-2,R/R,15081,,19,,4.65,40.2,,28,24,21,24,62,,178,147,5,,,9,4,2,,4,2,3,2,617,22,35,1,1,7,9,
+2024,2023-24,MBA,222,FDU,1,I,NEC,8425614,39,Nate Dudeck,,,So,P,6-3,B/R,15081,,2,,16.20,1.2,,2,3,3,4,2,,12,8,1,,1,,1,,,,,,,51,1,2,,,,1,
+2024,2023-24,MBA,222,FDU,1,I,NEC,8425634,25,Chris Mattioli,,,Jr,P,5-11,R/R,15081,,15,6,4.70,53.2,,48,30,28,21,49,,241,203,13,,,9,2,15,,3,2,1,1,699,44,62,1,4,,21,

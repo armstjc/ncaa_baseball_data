@@ -1,0 +1,25 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8276628,33,Brady Stevens,,,Jr,P,6-2,L/L,15081,,10,9,7.61,36.2,,53,33,31,20,33,,180,153,3,,2,7,7,3,,,,2,2,491,35,35,3,4,,9,
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8276778,37,Jason Jennerjohn,,,Sr,P,6-0,R/R,15081,,12,1,4.78,32.0,,34,22,17,13,19,,142,122,7,,,4,2,4,1,3,3,2,1,381,41,27,,2,,5,1
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8264662,20,Isaiah Maes,,,So,P,6-0,R/R,15081,,11,11,10.91,47.0,,78,59,57,18,29,,237,208,18,,8,9,4,6,,,,1,4,578,42,58,2,4,,10,1
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8272897,40,Austin Shingledecker,,,Jr,P,6-1,L/L,15081,,1,,54.00,0.1,,3,2,2,2,,,5,3,,,,1,,,,,,,,19,,,,,,,
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8271873,4,Kyle Hrncir,,,So,P,6-5,R/R,15081,,3,3,15.95,7.1,,13,16,13,7,10,,45,35,2,1,1,2,4,2,,,,1,,114,5,7,,3,,4,
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8271883,9,JJ Vargas,,,So,SS,5-11,R/R,15081,,6,,10.00,9.0,,16,11,10,4,13,,47,42,4,,,1,3,1,,2,2,,,85,6,6,,1,1,5,
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8272092,34,Daniel  Thiessen,,,Sr,OF,6-6,R/R,15081,,1,,0.00,1.0,,1,,,0,1,,5,5,,,,,,,,,,,,,,2,,,,1,
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8270934,30,Landon Stoppelmoor,,,Sr,P,6-0,R/R,15081,,6,,11.42,8.2,,16,13,11,7,5,,49,38,4,1,,,2,4,,4,4,,,119,11,6,,,,1,
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8262979,31,Hunter Irons,,,Jr,C,5-10,R/R,15081,,2,,15.43,2.1,,6,4,4,3,,,16,12,2,,,,1,,,2,,,1,10,2,5,,,,,
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8280867,8,Gabe Olson,,,So,P,6-3,R/R,15081,,9,1,6.08,23.2,,26,22,16,18,25,,116,95,7,,,3,3,1,,4,3,1,1,351,18,24,1,1,1,8,
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8284760,25,Steve Marhefke,,,Sr,3B,6-2,R/R,15081,,5,,10.13,5.1,,8,7,6,5,7,,28,22,,,,2,1,,,,,,1,117,2,5,,1,1,3,
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8284763,11,Brennan Sefrit,,,Sr,P,5-9,L/L,15081,,11,3,11.20,31.1,,47,40,39,25,13,,174,135,8,,2,4,2,11,,,,1,2,435,36,40,,4,1,6,1
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8281450,1,Thane Meiners,,,So,P,5-11,R/R,15081,,9,,5.11,12.1,,15,11,7,6,10,,56,46,4,,1,2,,1,1,3,3,3,,164,9,13,,3,,2,1
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8282657,19,Cole Dingee,,,Sr,P,6-3,R/R,15081,,1,,0.00,1.0,,0,,,0,,,3,3,,,,,,,,,,,,,3,,,,,,
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8448342,12,Carson Dupuis,,,Fr,P,5-10,L/L,15081,,3,2,25.41,5.2,,7,18,16,16,6,,44,23,1,,,,8,3,,,,,2,97,2,9,,2,,3,
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8448344,14,Brayden Deering,,,Fr,P,5-10,R/R,15081,,5,5,8.64,16.2,,23,19,16,13,11,,91,71,3,2,,,4,6,,,,,1,206,17,19,1,2,,3,
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8448368,38,Marcus Champagne,,,Fr,P,6-2,R/R,15081,,10,,6.38,18.1,,21,16,13,6,11,,86,74,1,1,1,4,7,4,,8,3,2,,217,25,17,1,2,1,4,
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8448378,44,Nick Hartje,,,Jr,P,6-5,R/R,15081,,12,,7.88,24.0,,27,23,21,24,15,,123,96,5,,1,5,4,2,,13,8,1,,322,14,40,,,,5,
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8448400,49,Matt Hughes,,,So,P,6-2,R/R,15081,,1,,13.50,2.0,,3,3,3,3,2,,12,8,1,,,,2,,,,,,1,50,1,3,,,,1,
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8448404,50,Paxton Gravlin,,,Sr,P,6-4,L/L,15081,,9,3,7.61,23.2,,27,23,20,18,22,,116,91,1,,1,3,1,3,,,,1,2,250,18,25,1,1,,11,1
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8448350,23,Abraham Sanchez,,,Sr,P,6-0,L/L,15081,,7,7,4.70,30.2,,31,26,16,13,18,,145,124,9,1,,4,2,4,,,,4,,514,35,34,3,4,,5,1
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8448353,24,Tyler Glowacki,,,Fr,P,6-0,R/R,15081,,4,,27.00,2.2,,7,8,8,4,4,,19,15,2,1,,1,1,,,,,,,35,1,3,,,,2,
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8448366,28,Dante Schmid,,,So,P,6-3,R/R,15081,,4,2,5.91,10.2,,11,14,7,12,6,,58,43,1,,,1,3,2,,,,,1,143,10,13,,,,2,
+2024,2023-24,MBA,728,Upper Iowa,2,II,GLVC,8448372,41,Cameron Powell,,,Fr,P,5-9,R/R,15081,,1,,5.40,1.2,,1,2,1,5,2,,13,8,,,,,,,,2,2,,,64,,3,,,,,

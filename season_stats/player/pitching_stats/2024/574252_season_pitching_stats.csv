@@ -1,0 +1,19 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8268775,39,Jack Miller,,,Jr,P,5-10,R/L,15081,,18,2,6.94,36.1,,56,32,28,13,28,,175,156,11,,,4,1,1,,11,2,2,3,258,42,30,2,3,1,10,1
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8269941,26,Cooper Tessendorf,,,So,P,-,,15081,,5,5,9.78,19.1,,36,21,21,8,12,,99,89,3,3,,4,2,,,,,2,,111,25,16,1,3,,6,1
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8274909,38,Michael Hurlbert,,,So,P,5-10,R/R,15081,,5,,20.25,5.1,,16,13,12,5,4,,38,31,3,1,,1,,1,,1,1,1,,40,5,6,1,,,1,
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8261001,30,Jake Helleloid,,,So,P,-,,15081,,14,4,14.48,23.0,,43,40,37,24,25,,140,109,8,1,,2,3,5,,5,3,,2,189,18,22,,2,,10,2
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8447809,4,Drew Burkholder,,,Jr,INF,6-1,R/R,15081,,15,8,6.65,47.1,,60,41,35,34,36,,241,199,17,2,2,2,1,6,,7,1,2,,510,55,45,3,3,5,10,2
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8273151,23,Blake Ask,,,Sr,P,-,,15081,,5,,10.13,8.0,,11,9,9,7,5,,45,32,4,,,1,,3,,5,4,2,1,48,6,13,,,,1,
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8267515,40,Max Otto,,,Sr,P,-,,15081,,12,11,5.68,76.0,4,81,51,48,22,76,,333,303,12,2,,7,8,3,,,,1,4,495,60,84,6,5,,24,
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8273305,22,Christian Mundt,,,Jr,P,5-10,L/L,15081,,10,,20.25,9.1,,27,25,21,8,5,,71,58,4,1,2,3,1,4,,7,3,,1,114,7,16,,,,,
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8266597,1,Easton Rerick,,,So,INF,-,,15081,,1,1,,,,0,,,0,,,,,,,,,,,,,,,,,,,,,,,
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8284113,31,Brenden Baxter,,,Jr,P,-,,15081,,9,5,7.34,34.1,1,47,32,28,14,13,,165,141,7,2,,2,1,7,,5,2,2,1,134,44,39,,4,,2,2
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8284369,16,Dayne McNaughton,,,So,P,-,,15081,,1,,0.00,2.0,,0,,,2,1,,7,5,,,,,3,,,3,3,,,,2,2,,,,,
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8283270,18,Michael Chevalier,,,Jr,P,-,,15081,,12,11,5.88,64.1,1,76,47,42,29,50,,306,261,14,1,2,5,3,8,,,,4,4,565,60,72,4,7,,13,3
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8285765,9,Tyler Boyum,,,Jr,P,6-2,R/R,15081,,11,,10.38,13.0,,18,16,15,11,10,,71,54,6,,,4,2,3,1,8,6,1,2,86,10,19,1,2,,4,
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8278733,47,Caden Robbins,,,So,P,-,,15081,,1,,12.00,3.0,,3,4,4,2,4,,16,12,1,,1,1,,2,,,,,,57,1,4,,,,1,
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8447828,13,Luke Stuber,,,Jr,P,6-2,R/R,15081,,7,2,21.60,10.0,,19,24,24,15,7,,69,47,2,,,3,4,5,,6,1,1,1,109,9,14,,2,,3,
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8447840,32,Nile Hesson,,,Jr,P,6-2,L/L,15081,,2,,40.50,1.1,,3,6,6,1,,,10,6,2,,,,2,2,,3,3,,1,,2,2,,,,,
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8447851,36,Juan Alcoverde,,,Jr,P,6-1,R/R,15081,,2,,18.00,1.0,,3,3,2,0,,,7,6,3,,,,,1,,,,,,,3,,,,,,
+2024,2023-24,MBA,1266,Northern St.,2,II,NSIC,8447853,37,Daulton Vanderloo,,,Jr,P,5-10,R/R,15081,,13,,5.29,17.0,,18,14,10,13,19,,85,66,3,2,,2,4,4,1,13,12,1,1,120,15,13,,,,1,

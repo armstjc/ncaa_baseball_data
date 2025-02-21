@@ -1,18 +1,18 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8272445,32,Nick Berger,,,Jr,P,6-3,R/R,15081,,14,14,2.98,87.2,1,91,39,29,20,53,,375,339,9,,,4,2,5,,,,8,3,936,112,83,7,5,,9,1
-1,2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8271293,16,Edward Berry,,,Jr,P,5-11,R/R,15081,,14,14,4.28,75.2,1,71,45,36,31,66,1,327,283,7,1,,9,8,5,,,,3,5,706,71,79,4,4,,17,2
-2,2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8278212,24,Ryan Furey,,,So,P,6-5,R/R,15081,,14,13,2.90,71.1,1,76,30,23,22,49,1,311,273,13,1,1,3,2,9,1,,,4,3,883,86,61,7,2,,16,1
-3,2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8262546,21,Ryan Murphy,,,Sr,P,6-4,L/L,15081,,20,,4.88,27.2,,19,17,15,19,23,,126,96,1,,,4,4,9,,3,,2,,310,34,21,2,1,4,7,1
-4,2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8265402,14,Jack Haynes,,,So,P,6-0,R/R,15081,,4,,2.70,3.1,,3,2,1,3,3,,15,12,2,,,,,,,,,,,59,3,3,,,,2,
-5,2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8285086,43,Sammy  Lake,,,So,OF,6-2,R/R,15081,,1,,9.00,2.0,,3,2,2,0,,,9,9,1,,,,,,,,,,,30,3,3,,,,,
-6,2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8285759,47,Spencer Mangum,,,Jr,P,6-1,R/R,15081,,4,,2.08,4.1,,2,2,1,4,4,,17,13,1,,,,,,,,,,,65,5,2,,,,,
-7,2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416626,31,Ryan Taylor,,,Jr,P,6-4,R/R,15081,,18,1,3.24,25.0,,27,10,9,8,11,,112,102,3,,,2,1,1,1,8,3,,1,290,37,23,,3,2,4,
-8,2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416608,29,Evan Cornelius,,,Fr,P,6-3,R/R,15081,,10,2,7.50,12.0,,10,11,10,11,7,,59,43,1,,,,2,3,,,,2,,163,20,6,1,2,,3,
-9,2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416650,50,Jackson Edelman,,,Fr,P,5-11,R/R,15081,,3,,7.36,3.2,,5,3,3,2,1,,20,16,2,,,,2,1,,3,3,,1,63,4,6,,,,,
-10,2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416668,77,Austin Biddle,,,Jr,P,5-10,R/R,15081,,2,,6.75,1.1,,0,1,1,3,,,9,3,,,,,,2,,3,1,,1,22,2,2,,,,,
-11,2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416550,6,Jacob Burr,,,Sr,P,6-2,R/R,15081,,21,1,3.51,48.2,,45,20,19,17,37,,207,182,3,1,,6,5,5,2,8,2,1,2,662,49,49,2,2,2,7,
-12,2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416569,18,Nate Thomas,,,Sr,P,6-3,R/R,15081,,19,1,3.50,36.0,,37,15,14,11,18,,160,141,5,,,3,3,6,3,,,2,,444,39,45,3,1,2,7,
-13,2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416562,9,Nathan Tinder,,,Jr,P,6-2,L/R,15081,,7,,9.00,7.0,,15,10,7,5,4,,42,35,4,,,,1,,,3,2,1,1,54,6,11,,1,2,,
-14,2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416563,12,Jeslyn Whitehead,,,Sr,1B,6-2,R/R,15081,,2,,4.50,2.0,,2,1,1,3,1,,11,8,,,,,,,,,,,,,1,4,,,,,
-15,2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416577,22,Paul Janeczko,,,Fr,P,6-0,R/R,15081,,8,1,2.08,13.0,,5,4,3,6,9,,51,41,,1,,,,3,1,6,2,1,,144,12,15,,,,3,
-16,2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8688563,43,A. Matteis,,,So,p,-,,15081,,1,,,,,0,3,2,3,,,3,,,,,,,,,3,3,,,13,,,,,,,
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8272445,32,Nick Berger,,,Jr,P,6-3,R/R,15081,,14,14,2.98,87.2,1,91,39,29,20,53,,375,339,9,,,4,2,5,,,,8,3,936,112,83,7,5,,9,1
+2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8271293,16,Edward Berry,,,Jr,P,5-11,R/R,15081,,14,14,4.28,75.2,1,71,45,36,31,66,1,327,283,7,1,,9,8,5,,,,3,5,706,71,79,4,4,,17,2
+2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8278212,24,Ryan Furey,,,So,P,6-5,R/R,15081,,14,13,2.90,71.1,1,76,30,23,22,49,1,311,273,13,1,1,3,2,9,1,,,4,3,883,86,61,7,2,,16,1
+2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8262546,21,Ryan Murphy,,,Sr,P,6-4,L/L,15081,,20,,4.88,27.2,,19,17,15,19,23,,126,96,1,,,4,4,9,,3,,2,,310,34,21,2,1,4,7,1
+2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8265402,14,Jack Haynes,,,So,P,6-0,R/R,15081,,4,,2.70,3.1,,3,2,1,3,3,,15,12,2,,,,,,,,,,,59,3,3,,,,2,
+2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8285086,43,Sammy  Lake,,,So,OF,6-2,R/R,15081,,1,,9.00,2.0,,3,2,2,0,,,9,9,1,,,,,,,,,,,30,3,3,,,,,
+2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8285759,47,Spencer Mangum,,,Jr,P,6-1,R/R,15081,,4,,2.08,4.1,,2,2,1,4,4,,17,13,1,,,,,,,,,,,65,5,2,,,,,
+2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416626,31,Ryan Taylor,,,Jr,P,6-4,R/R,15081,,18,1,3.24,25.0,,27,10,9,8,11,,112,102,3,,,2,1,1,1,8,3,,1,290,37,23,,3,2,4,
+2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416608,29,Evan Cornelius,,,Fr,P,6-3,R/R,15081,,10,2,7.50,12.0,,10,11,10,11,7,,59,43,1,,,,2,3,,,,2,,163,20,6,1,2,,3,
+2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416650,50,Jackson Edelman,,,Fr,P,5-11,R/R,15081,,3,,7.36,3.2,,5,3,3,2,1,,20,16,2,,,,2,1,,3,3,,1,63,4,6,,,,,
+2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416668,77,Austin Biddle,,,Jr,P,5-10,R/R,15081,,2,,6.75,1.1,,0,1,1,3,,,9,3,,,,,,2,,3,1,,1,22,2,2,,,,,
+2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416550,6,Jacob Burr,,,Sr,P,6-2,R/R,15081,,21,1,3.51,48.2,,45,20,19,17,37,,207,182,3,1,,6,5,5,2,8,2,1,2,662,49,49,2,2,2,7,
+2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416569,18,Nate Thomas,,,Sr,P,6-3,R/R,15081,,19,1,3.50,36.0,,37,15,14,11,18,,160,141,5,,,3,3,6,3,,,2,,444,39,45,3,1,2,7,
+2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416562,9,Nathan Tinder,,,Jr,P,6-2,L/R,15081,,7,,9.00,7.0,,15,10,7,5,4,,42,35,4,,,,1,,,3,2,1,1,54,6,11,,1,2,,
+2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416563,12,Jeslyn Whitehead,,,Sr,1B,6-2,R/R,15081,,2,,4.50,2.0,,2,1,1,3,1,,11,8,,,,,,,,,,,,,1,4,,,,,
+2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8416577,22,Paul Janeczko,,,Fr,P,6-0,R/R,15081,,8,1,2.08,13.0,,5,4,3,6,9,,51,41,,1,,,,3,1,6,2,1,,144,12,15,,,,3,
+2024,2023-24,MBA,584,Rollins,2,II,Sunshine State,8688563,43,A. Matteis,,,So,p,-,,15081,,1,,,,,0,3,2,3,,,3,,,,,,,,,3,3,,,13,,,,,,,

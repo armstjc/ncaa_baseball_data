@@ -1,0 +1,32 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,8009323,16,Corey Nunez,,,Fr,INF,6-3,R/R,15001,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,8009327,36,Hudson Barrett,,,Fr,UT,6-5,L/L,15001,21,21,4,1.92,61.0,,42,14,13,32,82,,257,215,3,1,2,3,2,7,,4,3,2,1,"1,045",52,40,5,1,6,16,1
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,8009332,52,Ivan Brethowr,,,So,OF,6-6,R/R,15001,46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,8009326,32,Broc Mortenson,,,Sr,OF,6-0,L/R,15001,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825333,7,Aaron Parker,,,So,C,5-9,R/R,15001,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825335,30,Jed Decooman,,,Fr,P,6-3,R/R,15001,5,5,,0.00,3.1,,2,,,7,3,,19,12,,,,,3,,,3,,,,78,3,4,,,,2,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825336,3,Jessada Brown,,,So,UT,5-11,R/R,15001,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825339,39,Samuel Whiting,,,Jr,P,6-3,R/R,15001,24,24,,4.10,26.1,,23,12,12,19,36,,119,94,5,1,1,,4,4,4,9,5,2,,493,18,19,4,,1,6,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825340,51,Carter Benbrook,,,Jr,P,6-4,L/L,15001,25,25,,5.94,33.1,,39,23,22,11,32,,148,130,5,2,,3,3,1,,12,4,5,1,533,41,22,2,3,3,9,1
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825342,18,Clayton Hall,,,Sr,P,6-0,R/R,15001,1,1,,54.00,0.1,,2,2,2,1,,,5,3,1,,,,,1,,,,,,20,,1,,,,,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825343,45,Michael Rice,,,So,P,6-2,R/R,15001,10,10,1,6.23,13.0,,13,9,9,8,9,,60,49,2,1,1,2,,1,,5,3,,2,229,10,19,,1,,3,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825345,23,JD Callahan,,,Jr,P,6-4,R/R,15001,13,11,8,5.31,42.1,,36,25,25,17,46,,183,158,9,,,4,2,6,,3,,1,1,760,40,37,2,3,,6,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825348,12,Zander Darby,,,So,INF,6-3,L/R,15001,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825351,35,LeTrey McCollum,,,So,OF,6-4,R/R,15001,54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825352,26,Leo Mosby,,,So,INF,6-1,R/R,15001,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825353,25,Nick Welch,,,Jr,P,6-2,R/R,15001,12,12,,3.52,15.1,,10,6,6,6,19,,64,54,,,,1,1,4,,5,3,,,253,15,10,1,,,4,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825354,6,Alex Schrier,,,Jr,P,6-0,R/R,15001,15,15,,5.40,25.0,,32,20,15,14,23,,122,100,6,,,1,3,3,,7,3,1,3,490,25,21,1,,1,5,16
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825357,2,Nick Oakley,,,Jr,INF,5-9,L/R,15001,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825358,5,Christian Kirtley,,,Sr,OF,6-0,R/R,15001,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825359,21,"John Newman, Jr.",,,Jr,C,6-0,R/R,15001,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825361,10,Mike Gutierrez,,,Jr,P,6-2,L/L,15001,10,10,10,2.54,46.0,,39,14,13,13,57,,185,164,7,,2,3,2,4,,,,3,1,795,29,43,4,2,,14,5
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825363,4,Josh Williams,,,Fr,OF,6-3,L/R,15001,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825364,38,Elliot Gallegos,,,Jr,P,6-2,R/R,15001,6,6,,10.13,5.1,,5,6,6,5,6,,29,21,1,,,,2,3,,,,,,117,3,7,,,,3,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825367,15,Justin Trimble,,,So,OF,6-4,L/R,15001,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825368,34,Matt Ager,,,So,P,6-5,R/R,15001,16,15,15,3.12,92.1,,71,35,32,26,115,,380,338,14,3,,5,6,8,1,,,6,1,"1,350",65,88,5,4,,36,18
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,7825369,42,Brady Huddlestun,,,So,P,6-0,R/R,15001,12,12,,3.60,15.0,,7,9,6,14,17,,68,53,2,,,1,1,1,,3,,,,294,16,10,2,1,,6,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,8009325,28,Jared Sundstrom,,,Jr,OF,6-3,R/R,15001,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,8009331,48,Reed Moring,,,Fr,P,6-1,R/R,15001,16,16,8,5.54,52.0,,54,35,32,29,42,,246,204,9,1,,6,6,8,1,5,1,2,3,938,57,52,4,1,,12,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,8009324,22,Frank Camarillo,,,Fr,P,6-4,R/R,15001,5,4,1,6.75,2.2,,8,2,2,1,2,,17,16,1,1,,,,,,,,,,83,2,4,,,,1,
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,8009310,37,Tyler Bremner,,,Fr,P,6-2,R/R,15001,17,17,8,5.37,55.1,,63,41,33,17,80,,247,225,13,3,,5,4,1,2,,,,3,940,37,44,5,4,4,22,16
+2023,2022-23,MBA,104,UC Santa Barbara,1,I,Big West,8009305,1,Jonah Sebring,,,Jr,INF,6-0,R/R,15001,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

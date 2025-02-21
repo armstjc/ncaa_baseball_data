@@ -1,16 +1,16 @@
-,season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-0,2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8272424,23,Landon Willeman,,,Jr,P,6-0,R/R,15081,,16,8,7.69,50.1,,61,48,43,26,49,,242,211,13,,,7,5,4,,2,,,1,943,42,55,3,3,,17,1
-1,2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8261920,27,Luke Krouse,,,So,P,6-2,L/L,15081,,17,2,6.67,27.0,,35,27,20,16,18,,135,110,6,,,3,1,3,,15,11,3,3,412,28,32,1,,1,1,
-2,2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8270044,25,Nic Good,,,Jr,P,5-11,R/L,15081,,15,15,6.14,66.0,,79,48,45,27,55,,301,263,10,1,1,8,5,6,,,,3,2,"1,005",65,66,6,2,,20,1
-3,2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8276376,20,Kade Arn,,,So,P,6-4,R/R,15081,,11,1,11.64,19.1,,22,26,25,13,11,,96,73,4,,1,2,3,7,,5,2,2,1,354,23,19,1,1,1,3,
-4,2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8277954,30,Jacob Turner,,,So,P,5-10,R/R,15081,,21,,6.04,25.1,,40,22,17,10,23,,133,116,7,,,6,5,6,1,13,2,,1,416,30,21,1,3,4,11,
-5,2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8275510,31,Isaiah Seidel,,,Sr,P,6-2,R/R,15081,,18,,4.50,32.0,,31,18,16,14,29,,147,126,7,,,4,3,6,,17,6,,1,501,23,40,2,,2,10,
-6,2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8275528,17,Rigo Ramos,,,Sr,P,6-5,L/L,15081,,15,11,7.11,49.1,,49,41,39,49,58,,246,185,12,,1,5,9,7,,2,2,3,2,998,26,55,3,1,,12,1
-7,2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8260344,24,Peyton Wilson,,,Sr,P,6-1,R/R,15081,,21,,9.99,24.1,,45,31,27,16,19,,134,113,5,2,1,5,2,3,,29,17,2,,430,27,22,1,3,1,8,1
-8,2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8271114,19,Perry Miller,,,So,P,6-0,R/R,15081,,17,4,4.94,31.0,,43,21,17,15,18,,150,129,3,,,5,4,2,,6,3,3,1,530,26,43,5,1,,6,
-9,2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8285584,28,DJ Newman,,,So,UT,6-0,R/R,15081,,8,8,3.61,42.1,,37,20,17,10,42,,174,155,4,1,,9,1,4,,,,2,3,609,24,55,4,2,,15,
-10,2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8280755,29,Logan Bell,,,Sr,P,6-0,R/R,15081,,17,,7.23,18.2,,24,18,15,11,17,,92,75,9,,,3,3,2,,16,9,,4,314,15,22,,,,5,
-11,2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8280034,12,Connar Penrod,,,Jr,P,6-2,R/R,15081,,19,,7.92,25.0,,35,22,22,24,23,,135,109,8,,,2,4,1,,13,8,,1,545,19,33,3,2,,9,
-12,2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8418362,22,Owen Poole,,,Fr,P,6-2,R/R,15081,,11,,3.38,13.1,,15,5,5,7,12,,66,56,1,,,2,1,3,,5,1,,,255,13,15,1,,,6,
-13,2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8418338,35,Brock Amelung,,,Fr,P,6-2,R/R,15081,,3,,40.50,1.1,,5,7,6,2,,,15,10,1,,,1,,2,,3,,,1,42,2,2,,,,,
-14,2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8418364,33,Calvin Mitchell,,,So,P,6-2,R/R,15081,,13,4,9.30,30.0,,43,36,31,10,29,,147,125,11,,,4,4,7,,6,2,,5,434,19,38,2,2,,9,
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8272424,23,Landon Willeman,,,Jr,P,6-0,R/R,15081,,16,8,7.69,50.1,,61,48,43,26,49,,242,211,13,,,7,5,4,,2,,,1,943,42,55,3,3,,17,1
+2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8261920,27,Luke Krouse,,,So,P,6-2,L/L,15081,,17,2,6.67,27.0,,35,27,20,16,18,,135,110,6,,,3,1,3,,15,11,3,3,412,28,32,1,,1,1,
+2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8270044,25,Nic Good,,,Jr,P,5-11,R/L,15081,,15,15,6.14,66.0,,79,48,45,27,55,,301,263,10,1,1,8,5,6,,,,3,2,"1,005",65,66,6,2,,20,1
+2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8276376,20,Kade Arn,,,So,P,6-4,R/R,15081,,11,1,11.64,19.1,,22,26,25,13,11,,96,73,4,,1,2,3,7,,5,2,2,1,354,23,19,1,1,1,3,
+2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8277954,30,Jacob Turner,,,So,P,5-10,R/R,15081,,21,,6.04,25.1,,40,22,17,10,23,,133,116,7,,,6,5,6,1,13,2,,1,416,30,21,1,3,4,11,
+2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8275510,31,Isaiah Seidel,,,Sr,P,6-2,R/R,15081,,18,,4.50,32.0,,31,18,16,14,29,,147,126,7,,,4,3,6,,17,6,,1,501,23,40,2,,2,10,
+2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8275528,17,Rigo Ramos,,,Sr,P,6-5,L/L,15081,,15,11,7.11,49.1,,49,41,39,49,58,,246,185,12,,1,5,9,7,,2,2,3,2,998,26,55,3,1,,12,1
+2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8260344,24,Peyton Wilson,,,Sr,P,6-1,R/R,15081,,21,,9.99,24.1,,45,31,27,16,19,,134,113,5,2,1,5,2,3,,29,17,2,,430,27,22,1,3,1,8,1
+2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8271114,19,Perry Miller,,,So,P,6-0,R/R,15081,,17,4,4.94,31.0,,43,21,17,15,18,,150,129,3,,,5,4,2,,6,3,3,1,530,26,43,5,1,,6,
+2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8285584,28,DJ Newman,,,So,UT,6-0,R/R,15081,,8,8,3.61,42.1,,37,20,17,10,42,,174,155,4,1,,9,1,4,,,,2,3,609,24,55,4,2,,15,
+2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8280755,29,Logan Bell,,,Sr,P,6-0,R/R,15081,,17,,7.23,18.2,,24,18,15,11,17,,92,75,9,,,3,3,2,,16,9,,4,314,15,22,,,,5,
+2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8280034,12,Connar Penrod,,,Jr,P,6-2,R/R,15081,,19,,7.92,25.0,,35,22,22,24,23,,135,109,8,,,2,4,1,,13,8,,1,545,19,33,3,2,,9,
+2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8418362,22,Owen Poole,,,Fr,P,6-2,R/R,15081,,11,,3.38,13.1,,15,5,5,7,12,,66,56,1,,,2,1,3,,5,1,,,255,13,15,1,,,6,
+2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8418338,35,Brock Amelung,,,Fr,P,6-2,R/R,15081,,3,,40.50,1.1,,5,7,6,2,,,15,10,1,,,1,,2,,3,,,1,42,2,2,,,,,
+2024,2023-24,MBA,71,Bowling Green,1,I,MAC,8418364,33,Calvin Mitchell,,,So,P,6-2,R/R,15081,,13,4,9.30,30.0,,43,36,31,10,29,,147,125,11,,,4,4,7,,6,2,,5,434,19,38,2,2,,9,

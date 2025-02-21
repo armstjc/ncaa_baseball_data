@@ -1,0 +1,37 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2023,2022-23,MBA,87,Butler,1,I,Big East,7974916,8,Ian Choi,,,Fr,INF,5-9,R/R,15001,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7974957,5,Jake DeFries,,,Sr,INF,6-1,L/R,15001,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825093,37,Jon Vore,,,Sr,P,6-1,R/R,15001,21,21,1,7.03,39.2,,58,39,31,12,25,,187,164,8,1,,6,4,2,,10,5,6,3,460,44,40,2,5,1,9,2
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825094,33,Lukas Galdoni,,,Sr,UT,6-4,L/R,15001,33,17,9,6.86,40.2,,52,36,31,28,39,,202,164,10,3,2,5,3,3,3,5,5,3,4,500,33,43,,3,1,14,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825095,17,Nick Miketinac,,,So,P,6-0,R/R,15001,14,14,5,7.04,23.0,,36,27,18,15,15,,121,99,4,1,,4,5,3,,2,2,3,1,194,23,25,1,1,,5,1
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825097,38,Kyle Pepiot,,,Sr,OF,5-11,R/R,15001,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825098,7,Billy Wurch,,,Jr,INF,5-11,R/R,15001,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825099,18,Cory Bosecker,,,Sr,P,6-3,L/L,15001,14,14,14,5.20,72.2,,71,60,42,33,72,,333,278,11,3,,16,10,12,3,,,8,2,905,62,74,1,8,,15,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825100,24,Cole Graverson,,,Jr,P,5-10,L/L,15001,20,20,2,6.98,40.0,,32,35,31,25,46,,183,148,5,2,3,6,4,3,2,8,4,4,2,456,27,43,2,5,1,2,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825101,22,Garret Gray,,,Sr,C,6-1,L/R,15001,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825104,21,Clay Holzworth,,,Sr,P,6-3,R/R,15001,20,20,,6.07,29.2,,32,26,20,9,21,,133,120,4,,,3,3,3,1,12,1,1,,364,22,41,,3,,6,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825105,3,Quentin Markle,,,So,OF,5-8,R/R,15001,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825107,11,Dominic Milano,,,Sr,INF,5-10,L/R,15001,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825109,39,Spencer Seigworth,,,So,P,6-2,R/R,15001,3,3,,20.25,2.2,,7,6,6,2,2,,18,13,,1,,,1,3,,6,4,,,51,2,2,,,,1,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825110,9,Aaron Barokas,,,Sr,P,6-5,R/R,15001,11,11,4,4.15,26.0,,28,16,12,14,24,,124,103,5,3,,3,1,3,,7,5,1,3,258,16,36,2,2,2,7,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825111,31,Colin Davis,,,Fr,P,5-10,L/L,15001,9,9,,13.50,10.2,,9,16,16,11,8,,58,37,,,,1,3,8,,8,4,2,,179,11,10,,,,3,1
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825114,27,Scott Jones,,,Sr,OF,5-10,R/R,15001,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825115,1,Jaylon Nauden,,,So,INF,6-1,R/R,15001,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825116,20,Dawson Taylor,,,Sr,P,6-4,R/R,15001,20,20,3,8.67,36.1,,52,38,35,13,26,,175,151,6,1,,7,4,7,,6,4,2,2,465,45,28,2,6,1,8,1
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825118,35,Cade Vota,,,So,C,6-0,L/R,15001,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825119,40,Ben Whiteside,,,Fr,P,6-5,L/L,15001,19,19,,4.64,21.1,,22,12,11,16,18,,102,77,10,,1,,1,2,1,17,12,3,4,301,21,21,1,,,3,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825120,19,Luke Zmolik,,,So,P,6-1,R/R,15001,14,14,1,16.56,25.0,,48,49,46,18,18,,154,121,10,1,1,7,3,12,1,15,6,2,1,364,21,34,,3,,3,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825121,2,Kyle Van Liere,,,Sr,OF,6-2,R/R,15001,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7825125,10,Ryan O'Halloran,,,Sr,INF,6-1,R/R,15001,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7974942,29,Grant Brooks,,,Fr,UT,6-4,L/R,15001,4,4,2,8.64,8.1,,10,8,8,6,10,,43,33,5,,,1,3,1,1,,,3,,101,11,2,,1,,3,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7974943,13,Xavier Carter,,,Jr,OF,6-4,L/L,15001,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,87,Butler,1,I,Big East,8007730,23,Kollyn All,,,Sr,C,6-0,R/R,15001,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7974951,30,Cooper Robinson,,,Fr,P,6-1,R/R,15001,16,16,,11.01,25.1,,29,33,31,38,22,,143,93,12,1,,1,6,8,,10,5,,4,393,16,29,,,,7,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7975063,12,Joey Urban,,,Fr,SS,5-11,R/R,15001,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7974977,6,Cade Thune,,,Jr,P,6-4,R/R,15001,15,15,5,10.17,23.0,,26,26,26,24,19,,129,88,7,1,1,,8,13,,6,5,1,3,442,27,20,1,1,,3,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7974944,15,Keegan Connors,,,Fr,C,5-7,L/R,15001,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7974946,4,Carter Dorighi,,,So,INF,6-0,L/R,15001,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7974960,26,Evan Parks,,,Fr,SS,6-3,L/R,15001,24,1,,27.00,1.0,,2,3,3,1,1,,7,6,,,,1,,,,1,1,,,22,2,,,,,1,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7974663,28,Alex Voss,,,Sr,P,6-4,R/R,15001,7,7,4,4.43,22.1,,22,14,11,7,15,,103,87,2,,,2,1,5,1,1,,3,1,226,36,13,,2,,6,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7974958,14,Shane Kilfoyle,,,Fr,P,6-2,R/R,15001,14,14,4,17.18,11.0,,10,22,21,26,13,,74,40,3,,1,3,6,7,,8,4,,1,248,6,12,,3,,6,
+2023,2022-23,MBA,87,Butler,1,I,Big East,7974959,25,Gabe Pancratz,,,Fr,P,6-8,R/R,15001,11,11,1,14.54,13.0,,18,23,21,20,7,,81,52,5,,1,2,2,6,,2,2,1,2,232,9,19,,,,4,2

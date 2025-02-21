@@ -1,0 +1,21 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8596253,31,C. Evans,,,Fr,p,-,,15081,,5,,10.80,5.0,,5,6,6,4,3,,25,20,2,,1,,,1,,4,2,,,49,3,9,,,,,
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8268773,11,Nolan Schroeder,,,So,,-,,15081,,4,3,5.68,12.2,,12,12,8,9,7,,62,44,1,,,,2,5,,,,3,1,114,19,8,1,2,,4,
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8269158,30,Michael Bonner,,,So,,-,,15081,,19,,4.60,29.1,,31,20,15,11,20,,131,112,7,1,2,2,1,4,1,10,3,2,2,202,27,34,2,1,1,6,
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8276991,18,Ethan O'Donnell,,,Jr,1B,-,,15081,,15,11,3.71,70.1,1,79,33,29,17,43,1,305,277,18,,1,6,3,6,,,,3,2,320,70,85,8,1,,19,1
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8260020,39,Adam Severson,,,So,,-,,15081,,6,,3.00,6.0,,8,8,2,6,6,,36,27,,,,1,,2,,2,1,,1,27,6,5,,,,,
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8273333,17,Landen Powell,,,So,,-,,15081,,1,,4.50,4.0,,6,2,2,1,4,,19,17,,,,,,1,,,,,,,3,4,,,,1,
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8267750,9,Tyce Johnson,,,Sr,1B,-,,15081,,9,3,6.20,24.2,,25,19,17,12,24,,116,97,5,,,3,4,5,,2,,2,,137,30,17,3,2,,9,
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8271144,34,Jordan Joselit,,,Sr,UT,-,,15081,,5,,2.70,6.2,,3,3,2,5,6,,29,21,,,,,,1,,6,3,,2,56,2,12,,,,1,
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8263107,36,Drew Osterman,,,Sr,P,-,,15081,,6,1,3.00,15.0,,13,8,5,3,17,,64,59,4,,,3,,1,,2,,1,,33,13,15,,1,2,6,
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8280517,20,Austin Divello,,,Sr,P,-,,15081,,5,,6.75,4.0,,4,4,3,5,2,,22,14,1,1,,,,,,3,1,1,2,,3,7,,,,,
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8279370,15,Evan Bender,,,So,,-,,15081,,13,,7.80,15.0,,23,15,13,7,12,,78,64,8,,,1,,6,,14,7,,1,134,14,14,1,,,8,
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8284482,12,Caden Richards,,,Jr,p,-,,15081,,15,8,4.27,52.2,,63,28,25,8,41,,226,211,11,1,1,3,1,6,,6,2,1,,252,51,54,5,1,,16,2
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8278503,21,Matthew Chapman,,,So,P,-,,15081,,11,9,10.97,32.0,,40,41,39,31,23,,168,128,7,,2,4,10,4,,,,1,4,285,36,31,1,4,,9,1
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8596846,36,R. Skiba,,,N/A,lf,-,,15081,,1,1,0.00,0.1,,0,,,0,,,1,1,,,,,,,,,,,,,1,,,,,,
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8596845,25,C. Johnson,,,N/A,p,-,,15081,,15,2,3.97,22.2,,20,11,10,26,28,,115,84,2,,,2,9,5,,5,2,,,67,18,16,,2,2,9,
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8596686,4,J. Walsh,,,Fr,p,-,,15081,,12,6,4.95,40.0,,44,28,22,14,48,,180,162,10,2,1,3,3,1,,6,2,1,2,148,21,44,4,1,,13,
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8596685,24,T. Morse,,,Fr,p,-,,15081,,15,1,6.07,29.2,,41,25,20,14,14,,143,121,7,,1,5,3,4,,11,7,3,1,153,35,31,2,,,5,
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8688148,37,X. Cloudy,,,N/A,p,-,,15081,,5,,4.76,5.2,,7,3,3,3,9,,28,23,,,,,,1,,5,3,1,,,7,1,,,1,3,
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8686423,38,L. Moore,,,N/A,p,-,,15081,,10,3,3.74,21.2,,24,15,9,6,14,,104,95,5,1,,1,,2,,3,1,1,,164,21,29,3,1,,7,
+2024,2023-24,MBA,150,Coe,3,III,American Rivers,8683830,10,Jack McMann,,,Fr,1B,-,,15081,,4,,13.50,4.2,,9,7,7,4,6,,25,21,,,1,2,3,,,4,3,,,25,2,4,1,,,1,
