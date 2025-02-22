@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8014773,35,Dimitri Stamataplous,,,Sr,P,6-8,,15001,11,11,,7.79,17.1,,18,18,15,14,8,,87,65,3,,3,,4,4,,6,4,,4,208,12,27,,1,1,3,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,7824329,19,Tyler Campbell,,,Jr,OF,6-0,,15001,15,15,6,6.71,59.0,1,87,58,44,15,29,,286,251,16,5,,5,1,7,,10,7,8,4,467,69,70,1,5,,3,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,7824330,26,Evan Crenshaw,,,Jr,P,6-2,-/R,15001,13,13,7,9.13,45.1,,71,59,46,23,40,,241,202,15,4,,7,10,9,,8,3,4,3,396,44,46,2,3,1,9,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,7824331,8,Jason Garcia,,,Jr,P,-,,15001,12,12,2,9.33,18.1,,31,27,19,19,15,,108,82,5,1,,,5,5,,8,4,,1,220,21,13,1,2,,5,1
@@ -16,20 +15,21 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,7824351,10,Chandler Stocking,,,Jr,ss,-,,15001,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,7824352,27,Kylan Duncan,,,So,2b,5-9,R/R,15001,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,7824353,31,Devin Tonkins,,,So,ph,-,,15001,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8009098,1,Chevalier Dorris,,,Jr,UT,6-1,B/R,15001,47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8010190,25,Blake Martin,,,Jr,INF,6-0,R/R,15001,46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012169,0,Dylan Gordon,,,Fr,p,-,,15001,1,1,,0.00,2.0,,1,,,0,,,7,6,,,,,,1,,,,,,,3,2,1,,,,
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012181,21,Jackson Hall,,,So,p,6-0,R/R,15001,11,11,8,10.26,33.1,1,46,52,38,27,27,,181,141,16,,,2,13,8,1,3,2,4,1,363,39,26,2,2,,7,
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012182,38,Miles Jackson,,,Fr,lf,5-11,R/R,15001,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012183,6,Mekhi Lloyd,,,Fr,cf,5-9,L/L,15001,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012184,20,Jalen Parker,,,Jr,rf,-,R/R,15001,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8014551,30,Anthony Mateo,,,Fr,p,6-2,R/R,15001,14,14,7,8.38,38.2,,51,39,36,22,30,,196,159,8,,,6,1,8,,7,4,2,4,456,32,50,1,5,,9,1
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012181,21,Jackson Hall,,,So,p,6-0,R/R,15001,11,11,8,10.26,33.1,1,46,52,38,27,27,,181,141,16,,,2,13,8,1,3,2,4,1,363,39,26,2,2,,7,
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012186,28,Noah Whitted,,,Sr,p,-,,15001,13,13,10,9.69,43.2,,71,59,47,18,15,,227,194,15,5,,9,1,7,,3,1,1,5,377,33,77,2,6,,3,1
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8009098,1,Chevalier Dorris,,,Jr,UT,6-1,B/R,15001,47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012187,15,Kenny Glover,,,Fr,c,-,,15001,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012185,39,Javen Hunter,,,Fr,lf,6-1,R/R,15001,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012182,38,Miles Jackson,,,Fr,lf,5-11,R/R,15001,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012186,28,Noah Whitted,,,Sr,p,-,,15001,13,13,10,9.69,43.2,,71,59,47,18,15,,227,194,15,5,,9,1,7,,3,1,1,5,377,33,77,2,6,,3,1
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012187,15,Kenny Glover,,,Fr,c,-,,15001,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8013993,0,Gabe Nicholson,,,So,P,5-10,L/L,15001,10,10,2,7.52,20.1,,24,19,17,11,20,,99,84,4,2,,2,5,3,,11,5,,1,163,13,25,1,,,5,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8013994,9,Roman Sorrell,,,Sr,P,6-1,L/L,15001,8,8,1,10.66,12.2,,22,19,15,11,5,,71,57,8,,,3,1,2,,4,4,,1,199,8,19,,3,,,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8013995,37,Kobe Stokes,,,Fr,P,6-1,R/R,15001,3,3,,33.75,1.1,,4,5,5,4,2,,14,7,1,,1,2,1,2,,3,3,,1,53,1,1,,,,1,
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012169,0,Dylan Gordon,,,Fr,p,-,,15001,1,1,,0.00,2.0,,1,,,0,,,7,6,,,,,,1,,,,,,,3,2,1,,,,
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8014521,29,Kelsen Stocking,,,Fr,ph,-,,15001,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8014520,17,Terence Sales,,,Fr,p,-,,15001,11,11,,10.26,16.2,,17,19,19,19,16,,87,65,,1,2,2,6,1,,13,9,,2,183,11,23,1,,,1,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8013998,14,Christian Soto,,,Fr,UT,6-1,R/R,15001,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8010190,25,Blake Martin,,,Jr,INF,6-0,R/R,15001,46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8014520,17,Terence Sales,,,Fr,p,-,,15001,11,11,,10.26,16.2,,17,19,19,19,16,,87,65,,1,2,2,6,1,,13,9,,2,183,11,23,1,,,1,
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8014521,29,Kelsen Stocking,,,Fr,ph,-,,15001,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8014551,30,Anthony Mateo,,,Fr,p,6-2,R/R,15001,14,14,7,8.38,38.2,,51,39,36,22,30,,196,159,8,,,6,1,8,,7,4,2,4,456,32,50,1,5,,9,1
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8014773,35,Dimitri Stamataplous,,,Sr,P,6-8,,15001,11,11,,7.79,17.1,,18,18,15,14,8,,87,65,3,,3,,4,4,,6,4,,4,208,12,27,,1,1,3,

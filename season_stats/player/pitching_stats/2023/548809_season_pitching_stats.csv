@@ -1,0 +1,27 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,7818128,1,Trey Smith,,,Jr,OF,-,,15001,22,9,,14.66,11.2,,14,20,19,15,3,,72,47,1,,,2,5,8,,,,,2,133,7,22,1,,,,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,7818130,11,John O'Connor,,,Jr,OF,-,,15001,36,8,7,9.64,28.0,,36,34,30,20,12,,151,120,8,,1,2,1,9,,,,,2,360,26,42,2,2,,6,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,7818131,3,Eddie Meredith,,,Jr,INF,-,,15001,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,7818132,28,Adam Ferdock,,,Jr,P,-,,15001,14,14,4,9.89,33.2,,54,44,37,10,18,,176,152,14,2,1,6,1,9,1,,,3,2,376,33,45,2,3,1,6,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,7818133,10,Kris Medford,,,Jr,P,-,,15001,6,6,,15.26,7.2,,10,13,13,12,5,,47,32,2,,,3,,2,,1,1,,1,49,5,12,,,,3,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,7818134,5,Ethan Karel,,,Jr,OF,-,,15001,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,7818135,19,Gavin Budzyn,,,Sr,P,-,,15001,5,5,2,30.00,6.0,,13,21,20,9,1,,43,33,4,4,,2,,1,,,,,,133,10,7,,2,,,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,7818136,20,Reece Adam,,,Sr,INF,-,,15001,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,7818137,15,Eddie Cruz,,,Jr,P,-,,15001,14,14,,10.64,22.0,,36,32,26,13,9,,124,95,8,1,1,2,2,11,,3,1,2,3,230,14,38,,1,,6,1
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,7818138,25,Nick Barton,,,Jr,C,-,,15001,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,7818139,14,Jonny Byers,,,So,INF,-,,15001,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,7818140,26,Lukas Khandagle,,,So,P,-,,15001,16,16,1,7.40,20.2,,28,23,17,14,13,,108,82,7,,,3,,9,1,1,,1,2,288,22,20,1,2,2,3,1
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,7818141,6,Roman Berretta,,,So,OF,-,,15001,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,7818143,21,Hayden Paukstis,,,So,INF,-,,15001,11,11,8,11.49,31.1,1,53,49,40,23,10,,178,140,5,5,2,1,4,6,2,,,4,5,320,39,41,2,6,,,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,7818145,2,Domenic Borelli,,,Jr,INF,-,,15001,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,7818146,4,Jack Gilmer,,,So,INF,-,,15001,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,8015184,12,Patrick Healy,,,Fr,ph/3b,-,,15001,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,8015185,17,Hunter Kearns,,,Sr,p,-,,15001,15,15,2,17.26,20.1,,48,46,39,12,9,,130,107,10,1,,6,1,5,1,1,1,3,3,307,19,31,,1,,2,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,8015186,15,Tommy Lewman,,,Fr,ph/c,-,,15001,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,8015187,16,Deklyn Marks,,,Fr,ph/2b,-,,15001,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,8015188,32,Nick Natalie,,,Fr,p,-,,15001,13,13,1,10.71,19.1,,20,27,23,21,25,,106,78,3,2,1,2,,4,,2,,1,2,282,8,24,,1,1,6,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,8015189,10,Zander Tesoriere,,,Fr,lf,-,,15001,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,8015190,23,Josh Tudor,,,Fr,p,-,,15001,14,14,5,9.08,38.2,,60,47,39,22,25,,201,171,11,8,,5,8,4,,,,2,2,476,38,44,1,3,,10,2
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,8015191,9,Lucas Williams,,,Fr,p,-,,15001,11,11,8,6.70,43.0,,60,42,32,14,35,,212,181,10,4,,2,1,11,,3,,2,4,621,44,45,,7,,7,1
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,8016520,18,J. Decker,,,Jr,p,-,,15001,5,5,,5.06,5.1,,5,4,3,5,2,,30,22,,,1,1,,2,,,,,1,48,4,10,,,,2,
+2023,2022-23,MBA,16,Albright,3,III,MAC Commonwealth,8016521,25,Z. Larkin,,,Fr,p,-,,15001,6,6,,7.71,4.2,,7,5,4,2,,,24,18,,3,,,,2,,3,3,,2,16,3,10,,,,,

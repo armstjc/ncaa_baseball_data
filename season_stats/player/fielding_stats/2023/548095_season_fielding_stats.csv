@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979903,27,Luke Krouse,,,Fr,P,6-2,L/L,15002,17,1,,1,1,,1.000,,,4,1,,,1.000
 2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7824924,16,Nathan Rose,,,Sr,INF,6-1,R/R,15002,49,49,51,76,134,7,0.948,,,,,12,,
 2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7824925,3,Adam Fallon,,,Sr,UT,5-11,L/R,15002,36,27,54,1,55,,1.000,,,,,1,,
 2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7824926,17,Rigo Ramos,,,Jr,P,6-5,L/L,15002,14,8,,11,12,1,0.917,,,10,1,,,2.000
@@ -18,15 +17,16 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7824945,8,Nathan Archer,,,So,OF,6-0,L/L,15002,50,50,134,3,137,,1.000,,,,,,,
 2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7824946,12,Connar Penrod,,,So,P,6-2,R/R,15002,18,0,2,4,6,,1.000,,,5,1,,,
 2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7824947,33,Isaiah Seidel,,,Jr,P,6-2,R/R,15002,16,0,1,2,3,,1.000,,,3,1,,,1.000
-2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979828,9,Leighton Banjoff,,,Sr,UT,6-1,R/R,15002,35,31,160,8,170,2,0.988,,,,,15,,
 2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979826,4,Ryan Johnston,,,Sr,INF,6-0,R/R,15002,33,32,40,65,110,5,0.955,,,,,11,,
-2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979878,20,Kade Arn,,,Fr,P,6-4,R/R,15002,6,0,,,0,,,,,,,,,
-2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979879,21,Sam Seidel,,,Fr,INF,5-10,L/R,15002,47,42,44,81,134,9,0.933,,,,,17,,
-2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979919,38,Cooper McKenzie,,,Fr,C,6-4,R/R,15002,11,7,54,2,56,,1.000,,,4,,,,
-2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979891,31,Gage Schenk,,,Sr,P,6-0,R/R,15002,14,14,1,10,11,,1.000,,,8,4,,,
-2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979890,30,Jacob Turner,,,Fr,P,5-10,R/R,15002,14,3,,2,3,1,0.667,,,1,,,,
-2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979901,26,Justin Fugitt,,,Sr,UT,6-2,L/R,15002,34,30,56,3,63,4,0.937,,,,,,,
-2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979905,28,DJ Newman,,,Fr,UT,6-0,R/R,15002,41,30,12,1,13,,1.000,,,2,3,,,
+2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979828,9,Leighton Banjoff,,,Sr,UT,6-1,R/R,15002,35,31,160,8,170,2,0.988,,,,,15,,
 2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979862,13,Tyler Hays,,,Sr,P,6-4,R/R,15002,12,10,2,5,7,,1.000,,,1,1,,,
 2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979867,15,Carson Lumley,,,Fr,P,6-4,R/R,15002,1,0,,,0,,,,,,,,,
 2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979873,19,Perry Miller,,,Fr,P,6-0,R/R,15002,6,0,,,0,,,,,,1,,,
+2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979878,20,Kade Arn,,,Fr,P,6-4,R/R,15002,6,0,,,0,,,,,,,,,
+2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979879,21,Sam Seidel,,,Fr,INF,5-10,L/R,15002,47,42,44,81,134,9,0.933,,,,,17,,
+2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979890,30,Jacob Turner,,,Fr,P,5-10,R/R,15002,14,3,,2,3,1,0.667,,,1,,,,
+2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979891,31,Gage Schenk,,,Sr,P,6-0,R/R,15002,14,14,1,10,11,,1.000,,,8,4,,,
+2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979901,26,Justin Fugitt,,,Sr,UT,6-2,L/R,15002,34,30,56,3,63,4,0.937,,,,,,,
+2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979903,27,Luke Krouse,,,Fr,P,6-2,L/L,15002,17,1,,1,1,,1.000,,,4,1,,,1.000
+2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979905,28,DJ Newman,,,Fr,UT,6-0,R/R,15002,41,30,12,1,13,,1.000,,,2,3,,,
+2023,2022-23,MBA,71,Bowling Green,1,I,MAC,7979919,38,Cooper McKenzie,,,Fr,C,6-4,R/R,15002,11,7,54,2,56,,1.000,,,4,,,,

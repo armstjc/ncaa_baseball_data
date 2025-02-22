@@ -1,10 +1,5 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982267,16,Kenny Leiner,,,Jr,C,6-3,B/R,15002,17,4,34,5,39,,1.000,,3,2,,2,,1.000
-2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982275,48,Ryan White,,,Fr,P,5-9,L/L,15002,21,1,1,10,13,2,0.846,,,4,1,,,1.000
-2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982268,19,Kyle Harbison,,,Jr,C,6-0,R/R,15002,38,32,220,34,258,4,0.984,,3,65,15,2,,5.000
-2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982270,29,Jack Spyke,,,So,C,6-3,R/R,15002,51,49,353,29,387,5,0.987,,4,26,5,14,,1.000
 2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7823223,31,Carson Lowder,,,Jr,P,6-1,R/R,15002,26,0,1,1,2,,1.000,,,7,,,,
-2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982273,41,Hayden Friese,,,Fr,OF,6-1,L/R,15002,11,2,2,,2,,1.000,,,,,,,
 2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7823225,28,Dylan Wheeler,,,So,P,6-3,L/L,15002,15,4,2,4,7,1,0.857,,,8,2,1,,1.000
 2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7823226,1,Pascanel Ferreras,,,Jr,INF,5-10,R/R,15002,54,54,77,133,224,14,0.938,,,,,23,,
 2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7823227,26,Nate Stocum,,,Jr,OF,6-2,L/L,15002,54,52,79,1,83,3,0.964,,,,,,,
@@ -24,13 +19,18 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7823248,15,James Hinson,,,Jr,1B,5-10,L/L,15002,47,41,166,7,178,5,0.972,,,,,10,,
 2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7823250,27,Matt Schepel,,,So,P,6-5,R/R,15002,7,7,1,6,9,2,0.778,,,4,2,,,
 2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7823251,5,Jordan Starkes,,,Sr,OF,6-0,R/R,15002,48,47,99,2,103,2,0.981,,,,,,,
-2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982219,9,Kyle Riesselmann,,,Jr,OF,6-3,R/L,15002,44,37,54,11,68,3,0.956,,,9,3,1,,1.000
 2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982218,8,Clay Cox,,,Jr,P,6-2,R/R,15002,1,0,,,0,,,,,,,,,
-2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982226,44,Cole Jones,,,Jr,UT,6-1,L/R,15002,40,35,35,,36,1,0.972,,,,,,,
+2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982219,9,Kyle Riesselmann,,,Jr,OF,6-3,R/L,15002,44,37,54,11,68,3,0.956,,,9,3,1,,1.000
 2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982220,33,Landon Henley,,,Jr,P,6-6,R/R,15002,9,0,,1,1,,1.000,,,1,,,,
 2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982221,35,Landen Morrison,,,Jr,OF,6-0,R/R,15002,24,15,2,,2,,1.000,,,,,,,
 2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982223,37,Jonathan Todd,,,Jr,P,6-6,L/R,15002,16,8,4,4,8,,1.000,,,10,1,,,2.000
+2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982226,44,Cole Jones,,,Jr,UT,6-1,L/R,15002,40,35,35,,36,1,0.972,,,,,,,
+2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982267,16,Kenny Leiner,,,Jr,C,6-3,B/R,15002,17,4,34,5,39,,1.000,,3,2,,2,,1.000
+2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982268,19,Kyle Harbison,,,Jr,C,6-0,R/R,15002,38,32,220,34,258,4,0.984,,3,65,15,2,,5.000
 2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982269,22,Nick Torres,,,Sr,P,6-0,R/R,15002,16,4,3,4,7,,1.000,,,2,1,,,
+2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982270,29,Jack Spyke,,,So,C,6-3,R/R,15002,51,49,353,29,387,5,0.987,,4,26,5,14,,1.000
 2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982271,32,Dante Visconti,,,Jr,P,6-5,R/R,15002,13,3,,2,4,2,0.500,,,5,1,,,2.500
 2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982272,38,Brandon Eldredge,,,Fr,P,6-0,R/R,15002,7,3,1,2,3,,1.000,,,1,2,,,
+2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982273,41,Hayden Friese,,,Fr,OF,6-1,L/R,15002,11,2,2,,2,,1.000,,,,,,,
 2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982274,46,Adam Quincy,,,Fr,P,6-0,L/L,15002,18,0,,1,3,2,0.333,,,6,,,,1.000
+2023,2022-23,MBA,769,Western Caro.,1,I,SoCon,7982275,48,Ryan White,,,Fr,P,5-9,L/L,15002,21,1,1,10,13,2,0.846,,,4,1,,,1.000

@@ -1,17 +1,17 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2024,2023-24,MBA,3,Adelphi,2,II,NE10,8264384,21,Michael Tufo,,,So,P,6-3,R/R,15081,,6,,0.00,6.2,,4,1,,4,7,,30,22,1,1,,,1,3,,5,3,,1,84,4,7,,,,2,
+2024,2023-24,MBA,3,Adelphi,2,II,NE10,8259180,33,Bobby Molinaro,,,Sr,P,6-0,L/L,15081,,11,2,10.53,19.2,,32,27,23,13,11,,106,84,6,,1,1,1,6,,8,1,2,1,139,25,16,,2,1,4,
 2024,2023-24,MBA,3,Adelphi,2,II,NE10,8261279,31,Brendan Kenneally,,,So,P,5-10,R/R,15081,,8,8,6.00,33.0,,37,24,22,20,22,,155,130,4,,,4,5,2,,,,1,2,336,25,48,1,3,,6,2
+2024,2023-24,MBA,3,Adelphi,2,II,NE10,8263108,32,Carlos Acosta,,,Sr,P,6-4,R/L,15081,,11,8,5.61,43.1,,40,29,27,26,48,,203,166,9,,1,3,4,9,,2,2,1,1,542,45,32,3,2,,20,
+2024,2023-24,MBA,3,Adelphi,2,II,NE10,8264384,21,Michael Tufo,,,So,P,6-3,R/R,15081,,6,,0.00,6.2,,4,1,,4,7,,30,22,1,1,,,1,3,,5,3,,1,84,4,7,,,,2,
 2024,2023-24,MBA,3,Adelphi,2,II,NE10,8268308,56,Zach Rovner,,,Jr,P,6-2,R/R,15081,,13,,4.94,27.1,,26,15,15,16,20,,128,101,7,,,3,1,7,,8,4,3,1,367,31,25,2,1,4,4,
 2024,2023-24,MBA,3,Adelphi,2,II,NE10,8268444,30,Jacob Lee,,,So,INF,6-1,R/R,15081,,9,,7.98,14.2,,20,15,13,11,13,,77,57,3,1,1,1,3,4,,7,4,1,4,137,14,14,2,,,7,
-2024,2023-24,MBA,3,Adelphi,2,II,NE10,8259180,33,Bobby Molinaro,,,Sr,P,6-0,L/L,15081,,11,2,10.53,19.2,,32,27,23,13,11,,106,84,6,,1,1,1,6,,8,1,2,1,139,25,16,,2,1,4,
-2024,2023-24,MBA,3,Adelphi,2,II,NE10,8263108,32,Carlos Acosta,,,Sr,P,6-4,R/L,15081,,11,8,5.61,43.1,,40,29,27,26,48,,203,166,9,,1,3,4,9,,2,2,1,1,542,45,32,3,2,,20,
-2024,2023-24,MBA,3,Adelphi,2,II,NE10,8284272,6,John Carver,,,Jr,P,6-2,R/R,15081,,10,5,12.83,13.1,,16,20,19,29,19,,83,52,5,1,1,2,5,1,,5,1,,1,265,11,7,1,1,,5,1
 2024,2023-24,MBA,3,Adelphi,2,II,NE10,8279369,52,Gavin Graff,,,Jr,P,6-4,R/R,15081,,16,4,5.98,40.2,,59,29,27,21,38,,202,176,10,1,,3,5,5,,14,6,,,630,39,35,6,1,1,15,
 2024,2023-24,MBA,3,Adelphi,2,II,NE10,8279759,29,Jonathan Fallacaro,,,Jr,P,5-10,L/L,15081,,3,,16.20,1.2,,3,7,3,4,1,,15,9,2,,,,2,2,,,,,,34,2,2,,,,,
+2024,2023-24,MBA,3,Adelphi,2,II,NE10,8284272,6,John Carver,,,Jr,P,6-2,R/R,15081,,10,5,12.83,13.1,,16,20,19,29,19,,83,52,5,1,1,2,5,1,,5,1,,1,265,11,7,1,1,,5,1
+2024,2023-24,MBA,3,Adelphi,2,II,NE10,8422086,44,Jacob Dannenberg,,,Sr,P,6-0,R/R,15081,,15,,5.63,32.0,,26,21,20,26,20,,147,109,1,1,,2,6,4,,6,4,5,3,420,33,36,1,2,1,8,
+2024,2023-24,MBA,3,Adelphi,2,II,NE10,8422090,18,Tommy O'Sullivan,,,Sr,P,6-2,R/R,15081,,3,,4.50,2.0,,3,1,1,3,,,10,6,,,,,2,,,,,1,,41,2,2,,,,,
+2024,2023-24,MBA,3,Adelphi,2,II,NE10,8422091,0,Steven Proko,,,Sr,P,6-0,R/R,15081,,11,6,8.54,26.1,,30,28,25,18,28,,135,104,8,1,,,2,9,,3,,4,,412,28,19,,4,,9,1
 2024,2023-24,MBA,3,Adelphi,2,II,NE10,8422092,20,Coleton Reitan,,,Sr,P,6-2,R/R,15081,,19,3,2.83,57.1,,43,21,18,21,62,,240,202,8,,,,6,10,,12,2,6,1,633,65,35,4,1,6,26,
 2024,2023-24,MBA,3,Adelphi,2,II,NE10,8422093,1,Dawson Montesa,,,Fr,P,6-1,R/R,15081,,10,9,7.36,44.0,,56,41,36,29,50,,218,180,14,1,,4,5,8,1,,,,1,516,36,33,2,5,,21,
 2024,2023-24,MBA,3,Adelphi,2,II,NE10,8422098,19,Jake Sekinski,,,Fr,P,5-8,R/R,15081,,6,1,27.00,5.0,,9,15,15,9,4,,31,21,2,,1,2,,,,2,,,1,104,5,4,1,1,1,3,
 2024,2023-24,MBA,3,Adelphi,2,II,NE10,8422102,36,Cam Letourneau,,,Fr,P,6-0,R/R,15081,,9,,7.63,15.1,,22,14,13,13,6,,77,58,2,,,1,6,2,,6,3,,4,223,19,14,,,,5,
-2024,2023-24,MBA,3,Adelphi,2,II,NE10,8422086,44,Jacob Dannenberg,,,Sr,P,6-0,R/R,15081,,15,,5.63,32.0,,26,21,20,26,20,,147,109,1,1,,2,6,4,,6,4,5,3,420,33,36,1,2,1,8,
-2024,2023-24,MBA,3,Adelphi,2,II,NE10,8422090,18,Tommy O'Sullivan,,,Sr,P,6-2,R/R,15081,,3,,4.50,2.0,,3,1,1,3,,,10,6,,,,,2,,,,,1,,41,2,2,,,,,
-2024,2023-24,MBA,3,Adelphi,2,II,NE10,8422091,0,Steven Proko,,,Sr,P,6-0,R/R,15081,,11,6,8.54,26.1,,30,28,25,18,28,,135,104,8,1,,,2,9,,3,,4,,412,28,19,,4,,9,1

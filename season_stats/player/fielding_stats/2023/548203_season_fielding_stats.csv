@@ -1,6 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987663,22,Connor Preisel,,,Fr,P,6-2,R/L,15002,13,0,,,0,,,,,2,,,,
-2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987664,23,Luke Ross,,,Fr,P,6-2,L/L,15002,7,0,,,0,,,,,2,,,,
 2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7828149,14,JJ Woolwine,,,Jr,OF,-,,15002,1,0,,,0,,,,,,,,,
 2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7828150,24,Lawson Blackmore,,,Sr,P,-,,15002,12,1,,1,1,,1.000,,,1,1,,,
 2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7828154,3,Zach Maxey,,,Jr,P,6-3,R/R,15002,14,10,4,3,9,2,0.778,,,9,2,,,
@@ -20,15 +18,17 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7828179,35,Lazaro Marquez,,,So,P,-,,15002,3,0,,1,1,,1.000,,,2,,,,
 2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7828180,29,David Novak,,,So,C,6-2,R/R,15002,50,45,372,23,404,9,0.978,,15,37,5,,,2.500
 2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7828181,19,Zach MacDonald,,,So,OF,6-1,R/R,15002,56,55,128,3,133,2,0.985,,,,,1,,
-2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987626,18,Tyler Chadwick,,,Jr,P,-,,15002,10,5,1,4,9,4,0.556,,,3,,,,
-2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987614,15,Ryland Zaborowski,,,So,INF,6-5,R/R,15002,52,51,156,41,203,6,0.970,,,,,19,,
+2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7986624,8,Nick Vardavas,,,Fr,P,5-11,L/L,15002,22,1,,3,4,1,0.750,,,7,,,,1.000
 2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987599,7,Cristian Tejada,,,Sr,OF,-,,15002,19,9,5,,5,,1.000,,,,,,,
-2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987631,21,Dillon Baker,,,So,INF,6-0,R/R,15002,50,46,71,108,187,8,0.957,,,,,20,,
-2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987678,25,Tommy Harrison,,,Fr,UT,6-4,L/R,15002,40,32,222,16,242,4,0.983,2,10,34,8,,,3.000
 2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987604,9,Carson Byers,,,Fr,P,5-9,L/L,15002,20,7,1,7,10,2,0.800,,,10,,,,2.000
 2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987610,12,Cooper Weiss,,,Jr,INF,5-11,,15002,53,53,64,116,183,3,0.984,,,,,23,,
-2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987648,17,Connor Oliver,,,Jr,P,-,,15002,14,14,2,14,18,2,0.889,,,6,,,,2.000
-2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987697,33,Costa Sirounis,,,So,P,-,,15002,6,2,,,1,1,0.000,,,,2,,,
-2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987675,28,Hudson Leach,,,Jr,P,6-3,R/R,15002,11,2,2,5,9,2,0.778,,,8,2,,,
+2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987614,15,Ryland Zaborowski,,,So,INF,6-5,R/R,15002,52,51,156,41,203,6,0.970,,,,,19,,
+2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987626,18,Tyler Chadwick,,,Jr,P,-,,15002,10,5,1,4,9,4,0.556,,,3,,,,
+2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987631,21,Dillon Baker,,,So,INF,6-0,R/R,15002,50,46,71,108,187,8,0.957,,,,,20,,
 2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987645,16,Evan Appelwick,,,Fr,INF,6-0,R/R,15002,49,45,65,43,111,3,0.973,,,,,6,,
-2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7986624,8,Nick Vardavas,,,Fr,P,5-11,L/L,15002,22,1,,3,4,1,0.750,,,7,,,,1.000
+2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987648,17,Connor Oliver,,,Jr,P,-,,15002,14,14,2,14,18,2,0.889,,,6,,,,2.000
+2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987663,22,Connor Preisel,,,Fr,P,6-2,R/L,15002,13,0,,,0,,,,,2,,,,
+2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987664,23,Luke Ross,,,Fr,P,6-2,L/L,15002,7,0,,,0,,,,,2,,,,
+2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987675,28,Hudson Leach,,,Jr,P,6-3,R/R,15002,11,2,2,5,9,2,0.778,,,8,2,,,
+2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987678,25,Tommy Harrison,,,Fr,UT,6-4,L/R,15002,40,32,222,16,242,4,0.983,2,10,34,8,,,3.000
+2023,2022-23,MBA,414,Miami (OH),1,I,MAC,7987697,33,Costa Sirounis,,,So,P,-,,15002,6,2,,,1,1,0.000,,,,2,,,

@@ -1,16 +1,16 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8447174,20,Juan Berrios,,,Fr,P,6-0,L/L,15081,,10,,9.64,9.1,,11,10,10,6,11,,44,36,6,,1,2,3,1,,11,5,,1,159,7,8,,,,4,
+2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8267694,34,Austin  King,,,So,P,6-4,R/R,15081,,14,1,4.98,21.2,,23,20,12,10,16,,100,85,4,,,,1,1,,12,3,3,1,401,23,23,,2,,7,
 2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8273796,36,Devin Brooks,,,So,P,6-3,R/R,15081,,12,6,7.85,28.2,,25,29,25,25,23,,145,103,4,1,1,1,5,9,1,7,5,3,5,498,25,34,1,3,,9,
 2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8277081,40,Marcos  Del Valle,,,Sr,P,6-5,R/R,15081,,7,,2.08,4.1,,4,3,1,8,3,,26,16,1,,,,3,1,,7,2,1,,108,4,6,,,,2,
-2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8267694,34,Austin  King,,,So,P,6-4,R/R,15081,,14,1,4.98,21.2,,23,20,12,10,16,,100,85,4,,,,1,1,,12,3,3,1,401,23,23,,2,,7,
 2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8279058,3,Kyler McIntosh,,,Jr,UT,6-1,R/R,15081,,5,2,7.36,11.0,,15,11,9,2,10,,53,46,1,1,,3,2,2,,1,1,1,2,179,8,14,,1,1,2,
 2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8279119,12,Jorhan LaBoy,,,So,P,5-9,L/L,15081,,18,13,4.89,88.1,1,103,60,48,30,66,,406,355,22,6,,5,3,9,1,4,1,6,6,"1,294",84,105,6,4,2,17,2
 2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8282796,28,Luis Rodriguez,,,Sr,P,6-2,R/R,15081,,20,9,5.11,56.1,,40,34,32,52,70,,258,195,7,2,,7,10,3,,9,5,7,1,971,47,47,6,4,3,28,
 2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8286145,4,Sebastian Colon,,,Sr,P,6-1,R/R,15081,,15,,14.09,15.1,,34,25,24,9,12,,91,72,10,1,,1,3,5,,13,9,2,3,366,12,18,,2,,6,
-2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8447203,26,John Ascencio,,,Fr,P,6-0,R/R,15081,,3,,3.38,5.1,,3,2,2,6,5,,25,19,,,2,,2,,,4,,,,40,6,5,,,,3,
-2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8447163,18,Caio Araujo,,,Jr,P,6-2,R/R,15081,,21,1,2.63,41.0,,34,18,12,10,41,,172,157,4,3,1,,5,1,,17,9,2,2,562,39,41,3,1,1,14,
-2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8447183,21,Jafet Martinez,,,Fr,P,6-2,R/R,15081,,18,8,5.83,54.0,,62,42,35,13,55,,244,220,10,1,2,7,1,8,1,8,3,2,1,818,47,55,3,3,,14,
 2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8447122,8,Alex Burden,,,Fr,P,5-11,L/L,15081,,18,5,8.77,39.0,,49,44,38,26,29,,198,157,10,,1,,7,10,4,8,7,3,2,678,39,42,4,,,9,
+2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8447163,18,Caio Araujo,,,Jr,P,6-2,R/R,15081,,21,1,2.63,41.0,,34,18,12,10,41,,172,157,4,3,1,,5,1,,17,9,2,2,562,39,41,3,1,1,14,
+2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8447174,20,Juan Berrios,,,Fr,P,6-0,L/L,15081,,10,,9.64,9.1,,11,10,10,6,11,,44,36,6,,1,2,3,1,,11,5,,1,159,7,8,,,,4,
+2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8447183,21,Jafet Martinez,,,Fr,P,6-2,R/R,15081,,18,8,5.83,54.0,,62,42,35,13,55,,244,220,10,1,2,7,1,8,1,8,3,2,1,818,47,55,3,3,,14,
+2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8447203,26,John Ascencio,,,Fr,P,6-0,R/R,15081,,3,,3.38,5.1,,3,2,2,6,5,,25,19,,,2,,2,,,4,,,,40,6,5,,,,3,
 2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8447206,29,Wlfredo Morales,,,Fr,P,5-11,R/R,15081,,7,,11.12,5.2,,6,8,7,7,5,,32,22,2,,,1,,3,,4,1,,,111,5,6,,,,2,
 2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8447221,32,Jose Almazan,,,Jr,P,6-2,R/R,15081,,15,10,6.10,59.0,,71,52,40,30,48,,278,237,11,6,1,8,3,2,2,4,4,5,4,974,56,66,4,5,1,13,1
 2024,2023-24,MBA,7,Alabama St.,1,I,SWAC,8447235,38,Will Smith,,,Jr,P,6-3,R/R,15081,,17,1,6.32,31.1,,38,34,22,17,46,,158,133,7,1,,3,2,5,,12,10,,3,605,20,26,2,2,,15,

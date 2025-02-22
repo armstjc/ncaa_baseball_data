@@ -1,18 +1,18 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8266806,30,Luke Kissenberth,,,Sr,P,6-2,,15081,,26,1,5.97,37.2,,25,29,25,28,48,,172,129,7,,,3,3,9,1,18,7,3,3,669,19,41,,2,,17,
-2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8272486,12,Sam Swygert,,,So,P,6-1,,15081,,18,12,5.75,67.1,,68,46,43,33,58,,308,254,12,,,4,3,12,2,1,1,5,3,"1,110",69,64,4,4,,22,
-2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8263320,42,Matthew Polk,,,Jr,P,6-3,R/R,15081,,7,,18.56,5.1,,7,11,11,10,4,,33,22,1,1,1,,1,1,,6,2,,,129,5,6,,,,1,
 2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8262299,13,George Derek Floyd,,,Jr,P,5-10,L/R,15081,,26,5,6.44,57.1,,72,51,41,24,56,,271,236,17,4,,7,2,2,1,19,8,4,5,982,51,61,2,5,,25,
 2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8262937,17,Fisher Paulsen,,,Jr,P,6-1,L/L,15081,,13,3,7.50,18.0,,19,16,15,16,18,,90,68,2,,,3,2,3,,8,7,,3,371,14,19,1,1,1,7,1
+2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8263320,42,Matthew Polk,,,Jr,P,6-3,R/R,15081,,7,,18.56,5.1,,7,11,11,10,4,,33,22,1,1,1,,1,1,,6,2,,,129,5,6,,,,1,
+2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8266806,30,Luke Kissenberth,,,Sr,P,6-2,,15081,,26,1,5.97,37.2,,25,29,25,28,48,,172,129,7,,,3,3,9,1,18,7,3,3,669,19,41,,2,,17,
+2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8272486,12,Sam Swygert,,,So,P,6-1,,15081,,18,12,5.75,67.1,,68,46,43,33,58,,308,254,12,,,4,3,12,2,1,1,5,3,"1,110",69,64,4,4,,22,
 2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8281549,35,Ethan Fewell,,,Jr,P,6-3,,15081,,19,4,6.07,29.2,,26,22,20,15,19,,129,112,3,3,,7,3,2,,8,3,,,475,28,37,1,,,5,
 2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8282867,38,Conner Cummiskey,,,Sr,P,5-10,,15081,,15,3,8.31,21.2,,26,20,20,24,23,,114,85,5,1,,2,4,4,,6,3,1,,479,15,22,2,4,,10,1
 2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8285980,33,CJ Van Slooten,,,So,P,6-6,,15081,,3,1,6.23,4.1,,3,5,3,4,3,,22,16,,1,,1,,1,,,,1,,87,3,6,,,,1,
 2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8287106,9,Ben Hutchins,,,Sr,P,6-1,,15081,,21,8,4.50,60.0,,61,35,30,13,40,,253,232,11,1,,8,1,3,1,3,2,4,1,810,59,72,3,6,3,12,
 2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8287944,23,Will Holmes,,,Jr,P,6-0,L/L,15081,,8,,11.74,7.2,,11,11,10,12,11,,45,32,4,,,1,4,,,8,5,,1,178,8,3,1,1,,2,
+2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8408855,15,Landon Slemp,,,Jr,P,6-2,R/R,15081,,17,14,6.23,65.0,,77,46,45,33,44,,298,255,17,4,,10,5,4,3,1,1,4,2,"1,088",55,84,3,6,,18,2
 2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8408856,19,Maddox Webb,,,Fr,P,6-2,R/R,15081,,22,,5.18,24.1,,20,16,14,21,22,,116,86,5,1,,2,3,5,1,23,13,2,2,453,19,29,,1,2,7,
 2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8408857,24,Will Morris,,,Jr,P,6-5,R/R,15081,,19,,7.04,23.0,,29,21,18,10,18,,113,95,6,2,,5,3,5,,13,5,,3,415,23,26,2,,,7,
 2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8408858,28,Anthony Hausner,,,So,UT,6-3,R/R,15081,,10,1,7.36,14.2,,15,13,12,7,18,,67,58,5,1,1,,5,,1,2,,1,1,230,14,11,1,2,,7,
-2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8408862,55,Jack Thunberg,,,Jr,P,6-6,L/L,15081,,4,,0.00,3.1,,2,,,2,7,,15,11,,,,,,2,,2,,,,69,,2,,,1,3,
-2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8408855,15,Landon Slemp,,,Jr,P,6-2,R/R,15081,,17,14,6.23,65.0,,77,46,45,33,44,,298,255,17,4,,10,5,4,3,1,1,4,2,"1,088",55,84,3,6,,18,2
 2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8408860,32,Ben Brash,,,Fr,P,6-4,R/R,15081,,13,1,4.02,15.2,,19,7,7,7,9,,76,65,2,,,2,,3,,6,6,,1,248,21,16,1,,,5,
 2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8408861,44,Yates Bland,,,Fr,P,6-5,,15081,,5,,12.71,5.2,,12,8,8,4,5,,33,28,2,,,1,,1,,6,3,,,120,10,2,,,,,
+2024,2023-24,MBA,141,The Citadel,1,I,SoCon,8408862,55,Jack Thunberg,,,Jr,P,6-6,L/L,15081,,4,,0.00,3.1,,2,,,2,7,,15,11,,,,,,2,,2,,,,69,,2,,,1,3,

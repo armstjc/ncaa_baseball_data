@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988939,13,Lance Hinton,,,Fr,P,6-1,R/R,15002,10,0,,,0,,,,,4,,,,
 2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7807016,55,Garrett Musey,,,Jr,P,6-0,R/R,15002,15,14,54,2,56,,1.000,,,,,2,,
 2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7807018,22,Anthony DiMartino,,,Sr,P,5-10,L/L,15002,13,12,3,9,12,,1.000,,,6,2,1,,1.000
 2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7807019,36,Justin Jump,,,Jr,P,6-0,R/R,15002,15,14,2,19,24,3,0.875,,,12,5,1,,0.667
@@ -18,14 +17,15 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7807042,2,Matt Benner,,,So,OF,5-10,R/R,15002,38,25,39,5,48,4,0.917,,,,,1,,
 2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7807043,14,Jake Vitale,,,So,INF,5-11,L/R,15002,19,13,24,24,50,2,0.960,,,,,9,,
 2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7807044,9,Adam McEvoy,,,So,C,5-11,R/R,15002,21,12,75,8,84,1,0.988,,2,20,2,,,
-2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988879,29,Kevin Dillon,,,Fr,P,6-2,R/R,15002,10,7,3,6,11,2,0.818,,,3,1,,,1.000
-2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988865,30,Nate Miller,,,Fr,P,5-11,R/R,15002,11,0,3,3,6,,1.000,,,,,,,
-2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988963,15,Jake Kelchner,,,Sr,P,6-3,L/L,15002,13,12,2,20,22,,1.000,,,9,6,,,
 2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988857,7,Christian Petrillo,,,So,OF,5-10,R/L,15002,57,57,122,6,129,1,0.992,,,,,2,,
-2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988928,16,Darin Miller,,,Sr,INF,6-1,R/R,15002,57,57,140,105,260,15,0.942,,,,,20,,
-2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988868,37,Alex Cross,,,Fr,P,6-2,R/R,15002,7,0,,1,2,1,0.500,,,1,,,,
 2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988860,19,Dylan Cruser,,,Fr,P,5-11,R/R,15002,3,0,,,1,1,0.000,,,,,,,
 2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988863,27,Anthony Charles,,,Fr,OF,6-3,L/L,15002,25,3,7,1,8,,1.000,,,,,,,
-2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988935,6,Alex Hinton,,,So,P,5-10,R/R,15002,18,1,1,4,6,1,0.833,,,3,2,,,0.500
+2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988865,30,Nate Miller,,,Fr,P,5-11,R/R,15002,11,0,3,3,6,,1.000,,,,,,,
+2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988868,37,Alex Cross,,,Fr,P,6-2,R/R,15002,7,0,,1,2,1,0.500,,,1,,,,
 2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988878,25,Will Weiman,,,Fr,P,6-5,R/R,15002,3,0,,,0,,,,,,,,,
+2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988879,29,Kevin Dillon,,,Fr,P,6-2,R/R,15002,10,7,3,6,11,2,0.818,,,3,1,,,1.000
 2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988880,34,Dante DiSabatino,,,Jr,INF,6-0,B/R,15002,47,44,107,8,117,2,0.983,,,,,9,,
+2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988928,16,Darin Miller,,,Sr,INF,6-1,R/R,15002,57,57,140,105,260,15,0.942,,,,,20,,
+2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988935,6,Alex Hinton,,,So,P,5-10,R/R,15002,18,1,1,4,6,1,0.833,,,3,2,,,0.500
+2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988939,13,Lance Hinton,,,Fr,P,6-1,R/R,15002,10,0,,,0,,,,,4,,,,
+2023,2022-23,MBA,8366,Goldey-Beacom,2,II,CACC,7988963,15,Jake Kelchner,,,Sr,P,6-3,L/L,15002,13,12,2,20,22,,1.000,,,9,6,,,

@@ -1,18 +1,18 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8268780,30,Owen Deprez,,,So,p,-,,15081,,14,6,4.71,49.2,,45,29,26,33,74,,230,193,7,,,5,8,3,,6,4,,1,446,22,48,5,1,2,25,
 2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8260880,28,Caleb Matl,,,Sr,P,-,,15081,,16,,3.63,34.2,,41,18,14,18,40,,166,143,5,,,3,2,3,1,6,5,2,,339,25,36,5,,4,10,
-2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8264805,14,Tyler Schmitt,,,So,p,-,,15081,,14,12,4.37,70.0,1,63,38,34,31,93,,312,267,7,,,6,13,12,,3,1,1,1,589,63,45,5,3,1,34,
-2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8263737,15,Nate Melnikoff,,,So,p,-,,15081,,13,,7.29,21.0,,27,18,17,13,17,,101,82,5,,,4,2,1,1,8,5,3,1,101,16,24,,1,,5,1
 2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8262696,16,Owen Anderson,,,Jr,P,-,,15081,,12,10,8.78,54.1,,79,65,53,35,51,,285,239,9,,1,12,,8,,2,2,2,1,444,58,46,4,2,,18,
-2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8275773,9,Alex Redman,,,Sr,p,-,,15081,,12,6,7.82,35.2,,50,35,31,14,22,,175,154,4,,1,6,3,5,,,,1,1,100,34,49,3,3,2,2,
-2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8267818,21,Daniel Reischl,,,So,P,-,,15081,,5,1,12.10,9.2,,17,16,13,2,7,,51,46,5,,,3,,2,,4,4,1,,56,14,8,1,1,,3,
 2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8263074,12,Jake Clauson,,,So,p,-,,15081,,10,,11.40,15.0,,31,21,19,9,13,,85,74,3,,,,4,1,1,5,2,,1,72,21,9,,,1,3,
+2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8263737,15,Nate Melnikoff,,,So,p,-,,15081,,13,,7.29,21.0,,27,18,17,13,17,,101,82,5,,,4,2,1,1,8,5,3,1,101,16,24,,1,,5,1
 2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8264231,26,Tucker Bouche,,,Jr,P,-,,15081,,20,,4.50,24.0,,21,12,12,15,25,,106,88,7,,,3,4,,,17,9,,3,198,22,22,1,,2,9,
+2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8264805,14,Tyler Schmitt,,,So,p,-,,15081,,14,12,4.37,70.0,1,63,38,34,31,93,,312,267,7,,,6,13,12,,3,1,1,1,589,63,45,5,3,1,34,
+2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8267818,21,Daniel Reischl,,,So,P,-,,15081,,5,1,12.10,9.2,,17,16,13,2,7,,51,46,5,,,3,,2,,4,4,1,,56,14,8,1,1,,3,
+2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8268780,30,Owen Deprez,,,So,p,-,,15081,,14,6,4.71,49.2,,45,29,26,33,74,,230,193,7,,,5,8,3,,6,4,,1,446,22,48,5,1,2,25,
+2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8275773,9,Alex Redman,,,Sr,p,-,,15081,,12,6,7.82,35.2,,50,35,31,14,22,,175,154,4,,1,6,3,5,,,,1,1,100,34,49,3,3,2,2,
 2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8280199,3,Jack Moran,,,Sr,INF,-,,15081,,1,,0.00,2.0,,3,1,,3,2,,11,8,,,,,,,,,,,,,,3,,,,1,1
-2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8282719,40,Isaiah Katz,,,Jr,P,-,,15081,,15,11,5.38,75.1,2,85,57,45,23,55,,345,302,17,3,,8,5,13,,,,6,,427,101,57,7,5,1,23,
 2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8280945,99,Mitchell Fassbender,,,Jr,p,-,,15081,,13,2,8.31,21.2,,25,20,20,21,24,,115,89,2,,,5,3,5,,4,4,,,199,24,17,3,,,12,
-2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8687790,34,Trace Vrbancic,,,Fr,p,-,,15081,,3,1,11.25,8.0,,11,10,10,7,9,,43,35,1,,,2,1,1,,,,,,,5,10,,,,4,
+2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8282719,40,Isaiah Katz,,,Jr,P,-,,15081,,15,11,5.38,75.1,2,85,57,45,23,55,,345,302,17,3,,8,5,13,,,,6,,427,101,57,7,5,1,23,
 2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8686525,17,Daelen Johnson,,,Fr,p,-,,15081,,2,,27.00,1.2,,5,5,5,2,,,12,10,1,,,,2,,,3,3,,,,2,3,,,,,
 2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8686556,24,Chayce Osterhaus,,,Fr,p,-,,15081,,7,2,3.00,15.0,,12,6,5,9,20,,67,56,2,,1,,1,2,,3,2,,,27,8,14,1,,,5,1
 2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8686557,21,Luke Walton,,,Fr,ph/3b,-,,15081,,1,,0.00,2.0,,,,,,3,,7,6,,,,,,1,,,,,,,1,2,,,,2,
 2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8686560,25,Henry Stried,,,Fr,p,-,,15081,,2,,54.00,1.0,,2,6,6,2,,,9,4,1,,,1,,3,,3,3,,,,1,1,,,,,
+2024,2023-24,MBA,795,Wis.-La Crosse,3,III,WIAC,8687790,34,Trace Vrbancic,,,Fr,p,-,,15081,,3,1,11.25,8.0,,11,10,10,7,9,,43,35,1,,,2,1,1,,,,,,,5,10,,,,4,

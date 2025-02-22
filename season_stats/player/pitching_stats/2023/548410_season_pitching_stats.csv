@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010689,34,Danny Miller,,,Sr,P,6-4,L/L,15001,17,17,,4.06,31.0,,26,15,14,17,32,,134,113,5,1,,1,2,2,1,2,,,2,392,30,25,4,,4,7,
 2023,2022-23,MBA,30137,Malone,2,II,G-MAC,7808805,9,Michael Paljich,,,Jr,P,5-11,R/R,15001,4,4,,16.20,1.2,,2,4,3,6,1,,13,7,,,,1,2,,,,,,,67,3,1,,,,1,
 2023,2022-23,MBA,30137,Malone,2,II,G-MAC,7808807,30,Anthony  Bartiromo,,,So,P,6-0,R/R,15001,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,30137,Malone,2,II,G-MAC,7808810,1,Clayton Criss,,,Jr,C,5-10,R/R,15001,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -32,11 +31,12 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010624,10,Tyson Gingerich,,,Sr,SS,5-11,L/R,15001,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010633,18,Tate Engle,,,Jr,INF,5-9,R/R,15001,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010652,26,Jordan Stevens,,,So,OF,6-0,R/R,15001,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010712,47,Jackson Schwalbach,,,Fr,P,6-2,R/R,15001,13,13,,5.21,19.0,,29,14,11,6,14,,90,76,7,1,,,4,1,1,1,1,1,6,260,21,17,1,,,2,1
-2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010669,29,Devin Brown,,,Jr,INF,5-8,B/R,15001,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010664,27,Evan Balzano,,,Sr,1B,6-4,L/R,15001,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010703,38,Ayden Hall,,,Fr,P,6-3,R/R,15001,10,10,6,10.27,23.2,,42,31,27,13,16,,127,109,12,4,,4,4,3,,,,,2,346,22,29,1,5,,2,1
-2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010781,49,Caesen Sutton,,,Fr,P,6-3,R/R,15001,8,8,2,3.65,24.2,1,22,11,10,7,13,,98,87,5,2,,1,,,,,,2,2,240,19,37,2,1,,3,1
-2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010707,40,Jacob Rollyson,,,Fr,P,6-4,R/R,15001,9,9,3,5.63,24.0,1,23,15,15,6,13,,101,87,6,,1,3,1,6,,,,,2,302,24,29,1,,,1,
-2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010720,55,Anthony Ryan,,,So,C,5-11,R/R,15001,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010669,29,Devin Brown,,,Jr,INF,5-8,B/R,15001,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010682,31,Jackson Phelps,,,Fr,P,6-1,R/R,15001,10,10,6,8.80,30.2,,50,40,30,18,24,,161,137,13,2,1,5,2,3,,,,2,1,489,27,33,1,5,,7,1
+2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010689,34,Danny Miller,,,Sr,P,6-4,L/L,15001,17,17,,4.06,31.0,,26,15,14,17,32,,134,113,5,1,,1,2,2,1,2,,,2,392,30,25,4,,4,7,
+2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010703,38,Ayden Hall,,,Fr,P,6-3,R/R,15001,10,10,6,10.27,23.2,,42,31,27,13,16,,127,109,12,4,,4,4,3,,,,,2,346,22,29,1,5,,2,1
+2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010707,40,Jacob Rollyson,,,Fr,P,6-4,R/R,15001,9,9,3,5.63,24.0,1,23,15,15,6,13,,101,87,6,,1,3,1,6,,,,,2,302,24,29,1,,,1,
+2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010712,47,Jackson Schwalbach,,,Fr,P,6-2,R/R,15001,13,13,,5.21,19.0,,29,14,11,6,14,,90,76,7,1,,,4,1,1,1,1,1,6,260,21,17,1,,,2,1
+2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010720,55,Anthony Ryan,,,So,C,5-11,R/R,15001,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30137,Malone,2,II,G-MAC,8010781,49,Caesen Sutton,,,Fr,P,6-3,R/R,15001,8,8,2,3.65,24.2,1,22,11,10,7,13,,98,87,5,2,,1,,,,,,2,2,240,19,37,2,1,,3,1

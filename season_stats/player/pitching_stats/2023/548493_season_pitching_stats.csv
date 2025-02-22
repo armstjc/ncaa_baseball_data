@@ -1,7 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000498,12,Bronson Kelly,,,Jr,P,-,,15001,2,2,,40.50,0.2,,1,3,3,1,1,,5,3,,,,,1,1,,2,,,,10,,1,,,,1,
-2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000501,15,Cayde McCloskey,,,Fr,2B,-,,15001,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000513,26,Will Stambaugh,,,Fr,P,-,,15001,8,8,,14.09,7.2,,10,12,12,6,5,,40,30,3,,,1,,3,,1,1,1,,73,10,6,,,,3,1
 2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,7831976,9,Camden Moors,,,Sr,INF,-,,15001,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,7831978,24,Garrett Nepert,,,Sr,C,-,,15001,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,7831979,16,David Keller,,,Sr,P,-,,15001,12,12,11,5.74,58.0,2,68,41,37,24,42,,259,225,17,1,,8,5,5,,1,1,2,3,397,54,62,2,3,,11,3
@@ -24,11 +21,14 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,7831999,14,Aedan Walter,,,Jr,P,6-2,R/R,15001,13,13,9,3.52,61.1,2,51,29,24,26,65,,260,225,8,,2,3,4,4,,4,4,1,4,351,33,60,6,3,,18,
 2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,7832000,10,Jared Colledge,,,Jr,P,-,,15001,13,13,,1.13,8.0,,11,3,1,4,10,,38,34,3,,,1,4,,,22,11,,,92,8,4,,,1,2,
 2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,7832001,11,Rylan Bailey,,,So,P,-,,15001,10,10,2,7.61,23.2,,28,21,20,19,25,,121,95,6,,2,3,7,2,,2,1,3,2,145,16,29,1,1,,5,1
-2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000537,28,Sean Brennan,,,So,P,-,,15001,13,13,1,6.08,26.2,,25,20,18,14,33,,116,100,8,1,3,4,1,,,4,,,2,137,15,29,2,2,1,14,2
 2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000489,1,Sean Perkins,,,Fr,SS,-,,15001,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000490,3,Tom Rohan,,,Fr,C,-,,15001,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000544,34,Andrew Kramer,,,Fr,P,-,,15001,4,4,,6.75,4.0,,4,3,3,1,3,,16,14,3,,,,,,,1,,,1,24,3,5,,,,1,
-2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000527,19,Francisco Taveras,,,So,2B,-,,15001,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000542,30,Lance Baldensperger,,,Jr,OF,-,,15001,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000498,12,Bronson Kelly,,,Jr,P,-,,15001,2,2,,40.50,0.2,,1,3,3,1,1,,5,3,,,,,1,1,,2,,,,10,,1,,,,1,
+2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000501,15,Cayde McCloskey,,,Fr,2B,-,,15001,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000513,26,Will Stambaugh,,,Fr,P,-,,15001,8,8,,14.09,7.2,,10,12,12,6,5,,40,30,3,,,1,,3,,1,1,1,,73,10,6,,,,3,1
 2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000514,27,Jaxson Pupo,,,Fr,C,-,,15001,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000527,19,Francisco Taveras,,,So,2B,-,,15001,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000537,28,Sean Brennan,,,So,P,-,,15001,13,13,1,6.08,26.2,,25,20,18,14,33,,116,100,8,1,3,4,1,,,4,,,2,137,15,29,2,2,1,14,2
+2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000542,30,Lance Baldensperger,,,Jr,OF,-,,15001,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000544,34,Andrew Kramer,,,Fr,P,-,,15001,4,4,,6.75,4.0,,4,3,3,1,3,,16,14,3,,,,,,,1,,,1,24,3,5,,,,1,
 2023,2022-23,MBA,360,Lock Haven,2,II,PSAC,8000559,35,Brandt Cook,,,So,OF,-,,15001,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

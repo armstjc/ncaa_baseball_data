@@ -47,6 +47,9 @@ def get_season_stats(teams_df: pd.DataFrame, year: int):
 
     for team_id in tqdm(team_ids_arr):
         df = get_baseball_player_season_batting_stats(team_id=team_id)
+        df = df.sort_values(
+            by=["season", "school_id", "player_id"]
+        )
         if len(df) > 0:
             df.to_csv(
                 "season_stats/player/batting_stats/" +
@@ -55,6 +58,9 @@ def get_season_stats(teams_df: pd.DataFrame, year: int):
             )
 
         df = get_baseball_player_season_pitching_stats(team_id=team_id)
+        df = df.sort_values(
+            by=["season", "school_id", "player_id"]
+        )
         if len(df) > 0:
             df.to_csv(
                 "season_stats/player/pitching_stats/" +
@@ -64,6 +70,9 @@ def get_season_stats(teams_df: pd.DataFrame, year: int):
 
         if year >= 2017:
             df = get_baseball_player_season_fielding_stats(team_id=team_id)
+            df = df.sort_values(
+                by=["season", "school_id", "player_id"]
+            )
             if len(df) > 0:
                 df.to_csv(
                     "season_stats/player/fielding_stats/" +
@@ -74,8 +83,8 @@ def get_season_stats(teams_df: pd.DataFrame, year: int):
 
 def main():
     """ """
-    year = 2024
-    for i in range(year, 2014, -1):
+    year = 2023
+    for i in range(year, 2013, -1):
         print(
             f"Parsing {i} season stats"
         )

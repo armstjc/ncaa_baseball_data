@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8014773,35,Dimitri Stamataplous,,,Sr,P,6-8,,15002,11,0,,2,2,,1.000,,,6,,,,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,7824329,19,Tyler Campbell,,,Jr,OF,6-0,,15002,15,6,6,9,17,2,0.882,,,18,2,,,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,7824330,26,Evan Crenshaw,,,Jr,P,6-2,-/R,15002,13,7,5,8,16,3,0.813,,,7,1,,,1.000
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,7824331,8,Jason Garcia,,,Jr,P,-,,15002,12,2,2,3,5,,1.000,,,11,,,,1.000
@@ -16,20 +15,21 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,7824351,10,Chandler Stocking,,,Jr,ss,-,,15002,43,38,69,86,164,9,0.945,,,,,16,,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,7824352,27,Kylan Duncan,,,So,2b,5-9,R/R,15002,9,6,16,7,26,3,0.885,,,,,4,,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,7824353,31,Devin Tonkins,,,So,ph,-,,15002,12,5,13,,14,1,0.929,,,,,,,
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8009098,1,Chevalier Dorris,,,Jr,UT,6-1,B/R,15002,47,42,91,20,116,5,0.957,,,,,4,,
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8010190,25,Blake Martin,,,Jr,INF,6-0,R/R,15002,46,42,303,10,318,5,0.984,,,,,20,,
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012169,0,Dylan Gordon,,,Fr,p,-,,15002,1,0,,,0,,,,,1,,,,
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012181,21,Jackson Hall,,,So,p,6-0,R/R,15002,11,8,,5,5,,1.000,,,9,1,,,
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012182,38,Miles Jackson,,,Fr,lf,5-11,R/R,15002,27,18,25,3,28,,1.000,,3,14,,,,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012183,6,Mekhi Lloyd,,,Fr,cf,5-9,L/L,15002,40,32,66,6,73,1,0.986,,,,,1,,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012184,20,Jalen Parker,,,Jr,rf,-,R/R,15002,41,36,87,4,94,3,0.968,,,,,1,,
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8014551,30,Anthony Mateo,,,Fr,p,6-2,R/R,15002,14,7,1,8,10,1,0.900,,,10,,,,1.000
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012181,21,Jackson Hall,,,So,p,6-0,R/R,15002,11,8,,5,5,,1.000,,,9,1,,,
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012186,28,Noah Whitted,,,Sr,p,-,,15002,13,10,4,3,7,,1.000,,,15,,,,2.000
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8009098,1,Chevalier Dorris,,,Jr,UT,6-1,B/R,15002,47,42,91,20,116,5,0.957,,,,,4,,
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012187,15,Kenny Glover,,,Fr,c,-,,15002,14,5,31,5,36,,1.000,,7,16,,,,1.000
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012185,39,Javen Hunter,,,Fr,lf,6-1,R/R,15002,5,3,4,,5,1,0.800,,,,,,,
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012182,38,Miles Jackson,,,Fr,lf,5-11,R/R,15002,27,18,25,3,28,,1.000,,3,14,,,,
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012186,28,Noah Whitted,,,Sr,p,-,,15002,13,10,4,3,7,,1.000,,,15,,,,2.000
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012187,15,Kenny Glover,,,Fr,c,-,,15002,14,5,31,5,36,,1.000,,7,16,,,,1.000
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8013993,0,Gabe Nicholson,,,So,P,5-10,L/L,15002,10,2,,1,1,,1.000,,,4,1,,,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8013994,9,Roman Sorrell,,,Sr,P,6-1,L/L,15002,8,1,,,0,,,,,4,,,,
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8013995,37,Kobe Stokes,,,Fr,P,6-1,R/R,15002,3,0,,,0,,,,,,,,,
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8012169,0,Dylan Gordon,,,Fr,p,-,,15002,1,0,,,0,,,,,1,,,,
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8014521,29,Kelsen Stocking,,,Fr,ph,-,,15002,2,0,,,0,,,,,,,,,
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8014520,17,Terence Sales,,,Fr,p,-,,15002,11,0,,,1,1,0.000,,,6,,,,2.000
 2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8013998,14,Christian Soto,,,Fr,UT,6-1,R/R,15002,21,9,52,4,61,5,0.918,,9,12,,1,,
-2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8010190,25,Blake Martin,,,Jr,INF,6-0,R/R,15002,46,42,303,10,318,5,0.984,,,,,20,,
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8014520,17,Terence Sales,,,Fr,p,-,,15002,11,0,,,1,1,0.000,,,6,,,,2.000
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8014521,29,Kelsen Stocking,,,Fr,ph,-,,15002,2,0,,,0,,,,,,,,,
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8014551,30,Anthony Mateo,,,Fr,p,6-2,R/R,15002,14,7,1,8,10,1,0.900,,,10,,,,1.000
+2023,2022-23,MBA,6,Alabama A&M,1,I,SWAC,8014773,35,Dimitri Stamataplous,,,Sr,P,6-8,,15002,11,0,,2,2,,1.000,,,6,,,,

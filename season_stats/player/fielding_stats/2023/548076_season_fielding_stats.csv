@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002861,44,Devin Chandler,,,Fr,INF,5-8,R/R,15002,15,5,4,3,7,,1.000,,,,,1,,
 2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,7824357,25,Trenton Jamison,,,Sr,OF,6-1,R/R,15002,43,42,56,3,63,4,0.937,,,,,,,
 2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,7824359,4,Sebastian Colon,,,Jr,P,6-1,R/R,15002,33,0,4,12,18,2,0.889,,,7,2,,,
 2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,7824360,28,Luis Rodriguez,,,Jr,P,6-2,R/R,15002,27,2,1,2,3,,1.000,,,8,,,,
@@ -15,18 +14,19 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,7824376,22,Omar Melendez,,,So,P,6-6,L/L,15002,16,15,3,10,14,1,0.929,,,9,3,,,0.500
 2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,7824377,24,Cristian Lopez,,,Jr,3B,5-11,R/R,15002,59,59,49,101,157,7,0.955,,,,,12,,
 2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,7824379,37,Shadai Colon,,,So,P,5-11,L/L,15002,19,11,,4,7,3,0.571,,,8,3,,,1.000
+2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002622,1,Randy Flores,,,Jr,INF,5-9,L/R,15002,59,59,80,120,214,14,0.935,,,,,22,,
+2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002631,6,Jose Toledano,,,Fr,P,6-3,L/L,15002,7,1,,2,2,,1.000,,,2,,,,
+2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002634,8,Kyle Kuramoto,,,Jr,OF,6-0,L/L,15002,19,10,15,1,19,3,0.842,,,,,,,
 2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002640,12,Jorhan LaBoy,,,Fr,P,5-9,L/L,15002,25,3,3,14,17,,1.000,,,8,2,1,,1.000
+2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002700,14,Jamal George,,,Fr,C,5-11,B/R,15002,57,57,500,40,545,5,0.991,,12,63,14,5,,4.500
+2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002728,17,Javian Serrano,,,Jr,OF,6-0,R/R,15002,13,3,5,,5,,1.000,,,,,,,
+2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002757,18,Evimael Quiles,,,Jr,P,6-4,R/R,15002,7,2,,1,1,,1.000,,,2,,,,
 2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002804,26,John  Safford,,,Fr,INF,5-10,R/R,15002,5,0,,,0,,,,,,,,,
+2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002824,36,Devin Brooks,,,Fr,P,6-3,R/R,15002,3,0,,,0,,,,,2,,,,
 2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002833,30,Devonte Bailey,,,Fr,OF,5-10,L/R,15002,11,0,,,0,,,,,,,,,
 2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002848,34,Austin  King,,,Fr,P,6-4,R/R,15002,15,0,1,,1,,1.000,,,,,,,
+2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002861,44,Devin Chandler,,,Fr,INF,5-8,R/R,15002,15,5,4,3,7,,1.000,,,,,1,,
 2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002878,38,Juan  Azar,,,Fr,P,5-11,L/L,15002,3,0,,1,1,,1.000,,,,,,,
 2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002880,40,Marcos  Del Valle,,,Jr,P,6-5,R/R,15002,2,2,,,0,,,,,2,,,,
-2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002728,17,Javian Serrano,,,Jr,OF,6-0,R/R,15002,13,3,5,,5,,1.000,,,,,,,
-2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002634,8,Kyle Kuramoto,,,Jr,OF,6-0,L/L,15002,19,10,15,1,19,3,0.842,,,,,,,
-2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002824,36,Devin Brooks,,,Fr,P,6-3,R/R,15002,3,0,,,0,,,,,2,,,,
-2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002622,1,Randy Flores,,,Jr,INF,5-9,L/R,15002,59,59,80,120,214,14,0.935,,,,,22,,
-2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002700,14,Jamal George,,,Fr,C,5-11,B/R,15002,57,57,500,40,545,5,0.991,,12,63,14,5,,4.500
-2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002631,6,Jose Toledano,,,Fr,P,6-3,L/L,15002,7,1,,2,2,,1.000,,,2,,,,
-2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8002757,18,Evimael Quiles,,,Jr,P,6-4,R/R,15002,7,2,,1,1,,1.000,,,2,,,,
 2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8003275,21,Adiel Melendez,,,So,P,6-1,L/L,15002,9,1,1,1,2,,1.000,,,1,1,,,1.000
 2023,2022-23,MBA,7,Alabama St.,1,I,SWAC,8003276,13,Jack Hay,,,Jr,1B,6-0,L/R,15002,56,56,161,8,177,8,0.955,,1,9,,6,,1.000

@@ -1,9 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994786,33,Maddox Mihalakis,,,Fr,INF,6-2,L/R,15001,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994787,37,Tony Pluta,,,Fr,P,5-8,R/R,15001,6,6,,7.71,7.0,,10,6,6,1,6,,35,30,4,,,,,3,,5,2,,1,121,7,7,,,,1,
-2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994788,14,Cam Walty,,,Jr,P,6-0,R/R,15001,13,13,9,6.30,50.0,,67,35,35,8,49,,223,210,16,,2,8,3,4,1,2,,,1,818,39,57,5,1,,16,1
-2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994792,45,Derek Drees,,,Sr,P,6-6,R/R,15001,20,20,,5.49,19.2,,14,12,12,11,22,,84,66,5,,,3,5,5,,7,3,,2,312,13,19,2,,,6,
-2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994799,52,Hayden Lewis,,,Fr,P,5-11,R/R,15001,1,1,,0.00,1.0,,2,1,,0,,,5,5,,,,,,,,,,,,16,2,1,,,,,
 2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7824550,3,Tony Bullard,,,Sr,INF,6-4,R/R,15001,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7824551,27,Dawson Netz,,,Jr,P,6-1,R/R,15001,32,32,,3.33,27.0,,26,12,10,10,27,,119,104,3,1,,4,4,2,1,24,8,,3,451,17,36,2,,,9,
 2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7824553,13,Tyler Casagrande,,,Sr,OF,6-0,L/R,15001,46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -23,11 +18,16 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7824580,28,Josh Randall,,,So,P,6-4,R/R,15001,1,1,,9.00,1.0,,0,1,1,2,1,,5,3,,,,,2,,,,,,,27,1,1,,,,,
 2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7824581,46,Chris Barraza,,,Sr,P,6-0,R/R,15001,25,25,,6.52,29.0,,37,22,21,16,39,,139,119,9,3,,1,2,1,3,11,5,1,2,536,20,26,5,2,1,12,
 2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994743,4,Brendan Summerhill,,,Fr,OF,6-3,L/R,15001,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994775,43,Aiden May,,,So,P,6-2,R/R,15001,16,16,16,6.33,75.1,,97,57,53,33,77,,359,309,19,,,10,5,9,,,,4,4,"1,228",83,55,5,3,,13,
 2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994762,8,Colton Moore,,,Sr,C,5-9,R/R,15001,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994764,12,Kiko Romero,,,Jr,1B,5-11,L/R,15001,59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994766,17,Luke Moeller,,,Fr,C,6-2,R/R,15001,1,1,,0.00,1.0,,1,,,0,1,,4,4,1,,,,,,,,,,,16,1,1,,,,1,
 2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994768,24,Mason White,,,Fr,INF,5-11,L/R,15001,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994775,43,Aiden May,,,So,P,6-2,R/R,15001,16,16,16,6.33,75.1,,97,57,53,33,77,,359,309,19,,,10,5,9,,,,4,4,"1,228",83,55,5,3,,13,
 2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994784,16,Casey Hintz,,,Fr,P,5-11,R/R,15001,29,24,,5.60,27.1,,29,20,17,9,23,,123,105,8,,,5,6,1,,15,5,5,2,459,37,23,,3,,5,
 2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994785,26,Emilio Corona,,,Jr,OF,6-0,R/R,15001,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994786,33,Maddox Mihalakis,,,Fr,INF,6-2,L/R,15001,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994787,37,Tony Pluta,,,Fr,P,5-8,R/R,15001,6,6,,7.71,7.0,,10,6,6,1,6,,35,30,4,,,,,3,,5,2,,1,121,7,7,,,,1,
+2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994788,14,Cam Walty,,,Jr,P,6-0,R/R,15001,13,13,9,6.30,50.0,,67,35,35,8,49,,223,210,16,,2,8,3,4,1,2,,,1,818,39,57,5,1,,16,1
+2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994792,45,Derek Drees,,,Sr,P,6-6,R/R,15001,20,20,,5.49,19.2,,14,12,12,11,22,,84,66,5,,,3,5,5,,7,3,,2,312,13,19,2,,,6,
 2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994797,48,Bradon Zastrow,,,Jr,P,6-2,L/L,15001,17,17,15,5.28,76.2,1,97,56,45,24,56,,358,317,17,1,1,8,9,11,,,,5,1,"1,233",100,63,6,5,,14,3
+2023,2022-23,MBA,29,Arizona,1,I,Pac-12,7994799,52,Hayden Lewis,,,Fr,P,5-11,R/R,15001,1,1,,0.00,1.0,,2,1,,0,,,5,5,,,,,,,,,,,,16,2,1,,,,,

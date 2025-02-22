@@ -1,0 +1,36 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818182,3,Tom Berg III,,,Sr,P,6-2,L/L,15001,3,3,2,9.95,6.1,,6,7,7,6,4,,32,19,,,,,1,3,,,,2,2,48,5,7,,1,,,3
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818183,36,Ryan Rieber,,,Sr,P,-,,15001,10,10,9,7.57,35.2,,54,37,30,14,19,,177,154,11,1,1,1,4,4,,1,,3,2,152,34,47,2,3,,5,1
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818184,27,Joe Grigas IV,,,Sr,OF,-,,15001,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818185,26,Colin McCunney,,,Jr,C,6-0,L/R,15001,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818186,38,Jared Drake,,,Jr,P,6-1,R/R,15001,10,10,9,4.11,50.1,1,49,25,23,23,39,1,223,183,9,,1,1,9,10,,,,5,2,323,59,38,3,6,,10,1
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818187,29,Nicholas Millets,,,Sr,P,-,,15001,5,5,1,11.12,5.2,,13,7,7,0,2,,32,30,,1,,,1,1,,3,,,1,,9,6,1,,,1,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818188,33,Michael Pierce,,,Sr,P,-,,15001,6,6,,4.05,6.2,,10,3,3,3,3,,35,27,3,,,,1,3,,6,4,1,1,46,7,8,1,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818189,16,Travis Kerr,,,Jr,3B,6-0,R/R,15001,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818190,11,Gavin Zavorski,,,Jr,C,6-1,R/R,15001,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818192,34,Mike Romano,,,So,P,5-10,R/R,15001,14,14,,0.32,28.0,,24,3,1,7,22,,115,104,2,,,,4,3,,16,5,1,,162,30,24,2,,4,8,2
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818193,41,Ian Malone,,,So,P,6-0,R/R,15001,8,8,,5.40,8.1,,8,8,5,11,7,,45,31,1,1,,1,3,,,6,4,1,1,58,7,9,,,,3,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818194,14,Colin Trembley,,,Sr,OF,-,,15001,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818195,5,Gabe Diaz,,,So,INF,5-10,R/R,15001,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818196,10,Will Shelden,,,So,P,6-1,L/L,15001,10,10,,3.55,12.2,,6,6,5,6,8,,50,38,,,,,4,4,,14,5,2,,104,12,12,,1,,2,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818197,15,Justin DeStaso,,,So,INF,5-8,R/R,15001,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818199,6,Patrick Kusters,,,So,INF,5-9,R/R,15001,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818200,20,Frank Parrotti,,,So,P,5-10,R/R,15001,8,8,,14.40,10.0,,12,19,16,13,3,,60,42,1,,,,5,3,,6,3,1,1,106,17,9,,1,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,7818201,40,Alex Chase,,,So,P,6-6,B/L,15001,11,11,11,3.95,43.1,1,36,26,19,22,34,,195,161,9,1,1,3,4,6,,,,4,1,325,45,43,4,2,,13,2
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,8003413,12,Dillon Drew,,,Sr,OF,-,,15001,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,8003415,1,Will Manley,,,Sr,P,-,,15001,13,13,,6.64,20.1,,29,20,15,14,19,,106,82,3,,,,4,3,,8,3,5,2,178,27,10,2,2,3,5,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,8003416,9,Billy Scanlon,,,Sr,1B,-,,15001,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,8003434,30,JJ Paul,,,Sr,P,-,,15001,10,10,,0.00,15.0,,8,,,4,18,,56,51,1,,,,,1,,10,,,,85,15,8,2,,1,7,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,8003437,2,Anthony Schieble,,,Fr,P,5-10,L/L,15001,8,8,,1.42,6.1,,12,18,1,9,3,,44,35,,,,,1,,,5,3,,,78,8,6,,,,2,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,8003439,7,John Rorick,,,Fr,INF,5-6,R/R,15001,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,8003440,8,JT Anderosky,,,Fr,OF,6-1,L/R,15001,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,8003442,24,Michael Hooker,,,Fr,P,6-4,L/R,15001,10,10,8,5.31,42.1,1,52,30,25,11,20,,193,174,9,3,,1,1,,,3,1,6,2,237,44,60,3,2,,5,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,8003443,13,Zach Zuchowski,,,Jr,OF,6-4,R/R,15001,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,8003457,21,Andrew McGowan,,,Fr,INF,6-1,R/R,15001,22,6,,7.20,10.0,,14,12,8,9,11,,52,40,2,,,,2,,,6,,1,2,,6,11,2,,,3,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,8003458,22,Owen Frye,,,Fr,C,5-11,R/R,15001,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,8003459,25,Bobby Dingell,,,Fr,INF,6-0,R/R,15001,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,8003460,31,Joey Vaccaro,,,Fr,INF,5-10,R/R,15001,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,8003461,32,Shane Anhalt,,,Fr,1B,6-1,R/L,15001,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,8003462,37,Carson Allison,,,Fr,OF,6-0,L/L,15001,38,2,1,9.00,3.0,,8,4,3,1,1,,17,16,1,,,,1,,,,,,,33,4,3,,1,,,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,8003463,39,Zach Rothermel,,,Fr,P,6-2,R/R,15001,5,5,,5.63,8.0,,7,5,5,3,9,,37,32,3,,,,,2,,6,3,,,30,6,9,,,,4,
+2023,2022-23,MBA,20,DeSales,3,III,MAC Freedom,8003464,28,Ryan Whitaker,,,Jr,P,6-4,R/R,15001,4,4,,12.00,3.0,,2,5,4,3,2,,15,11,,,,1,2,1,,2,2,,,16,6,1,,,,,

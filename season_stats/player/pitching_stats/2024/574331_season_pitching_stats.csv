@@ -1,20 +1,20 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
 2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8261961,38,Spencer Allen,,,So,P,5-11,R/R,15081,,13,,11.15,15.1,,33,25,19,10,13,,94,79,8,1,1,3,,3,,7,3,1,1,375,16,16,,,,5,
-2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8270113,5,Kaden Shook,,,Jr,C,5-10,R/R,15081,,3,,0.00,2.0,,0,,,0,2,,5,5,,,,,,,,,,,,17,1,2,,,,1,
 2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8262101,9,Caleb McKinion,,,Jr,INF,6-1,R/R,15081,,1,,27.00,0.2,,2,4,2,4,,,9,4,,,,,2,1,,3,3,,,36,1,1,,,,,
+2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8264070,13,Nathaniel Adkins,,,So,P,6-1,R/R,15081,,15,2,12.51,27.1,,37,46,38,21,22,,155,119,13,1,,2,5,12,1,9,,,3,533,17,42,1,3,1,7,
+2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8269718,4,Levi Coriell,,,So,P,6-5,R/R,15081,,10,4,9.61,19.2,,21,23,21,25,15,,110,75,2,1,,,2,7,2,3,3,3,,453,12,29,2,2,,5,
+2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8270113,5,Kaden Shook,,,Jr,C,5-10,R/R,15081,,3,,0.00,2.0,,0,,,0,2,,5,5,,,,,,,,,,,,17,1,2,,,,1,
 2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8270247,44,Connor Legere,,,Jr,P,6-2,R/R,15081,,5,3,9.82,7.1,,2,9,8,7,5,,34,25,,,,1,3,2,,,,,,113,11,5,2,1,,2,
 2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8271984,15,Wyatt Petek,,,Sr,P,6-2,R/R,15081,,9,,22.78,10.2,,19,27,27,21,3,,72,47,3,1,,1,3,3,,6,5,,1,284,11,15,,2,,1,
-2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8269718,4,Levi Coriell,,,So,P,6-5,R/R,15081,,10,4,9.61,19.2,,21,23,21,25,15,,110,75,2,1,,,2,7,2,3,3,3,,453,12,29,2,2,,5,
-2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8264070,13,Nathaniel Adkins,,,So,P,6-1,R/R,15081,,15,2,12.51,27.1,,37,46,38,21,22,,155,119,13,1,,2,5,12,1,9,,,3,533,17,42,1,3,1,7,
 2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8286355,55,Jensen Wagoner,,,So,P,6-1,R/L,15081,,12,11,4.50,58.0,2,74,49,29,30,47,,287,236,17,,1,7,13,9,,,,7,4,"1,008",53,60,3,5,,12,
-2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8418301,32,Brendan Colley,,,Jr,INF,6-0,R/L,15081,,2,,0.00,4.2,,3,,,2,5,,19,17,,,,,,,1,3,,,,63,2,7,,,,2,
-2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8418248,35,Luke Swanger,,,Sr,P,6-4,R/R,15081,,13,7,9.76,39.2,1,57,50,43,24,24,,208,170,11,2,2,8,3,8,,1,,3,3,696,46,41,1,7,,5,1
-2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8416293,99,Boston Torres,,,Fr,INF,5-9,L/L,15081,,3,,22.50,4.0,,8,11,10,4,5,,29,20,2,1,,,1,3,,5,5,,2,121,1,6,,,,3,
 2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8416121,1,Eli Henderson,,,Fr,INF,5-8,L/R,15081,,1,1,0.00,2.2,,1,,,2,2,,11,9,1,,,,,,,,,,,26,1,5,,,,,
 2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8416158,7,Jordan Geiger,,,Fr,P,5-9,R/R,15081,,17,2,4.41,34.2,1,37,22,17,23,30,,167,134,5,1,,4,8,5,,9,7,,4,643,15,55,1,1,3,8,2
 2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8416165,8,Sam Formus,,,Fr,P,6-1,L/L,15081,,10,1,9.82,11.0,,7,12,12,17,8,,60,37,2,1,,1,1,4,1,8,4,,2,248,6,17,,1,,,
 2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8416172,16,Grayson Wright,,,Fr,P,6-3,L/L,15081,,12,2,9.37,16.1,,24,23,17,12,11,,95,71,5,,,2,2,7,,3,3,1,4,378,17,18,1,2,,2,
-2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8416223,31,Walker Harris,,,Fr,P,6-0,R/R,15081,,14,,6.35,22.2,,27,21,16,10,11,,110,89,7,,3,,2,7,,4,4,2,2,366,22,28,,,,2,
 2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8416180,18,Tate Marland,,,Fr,P,6-0,R/L,15081,,12,11,7.09,59.2,1,72,53,47,35,56,,294,241,15,1,,6,3,7,,,,4,6,"1,085",52,64,2,7,,17,
 2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8416210,25,Max Doepker,,,Fr,OF,6-2,L/L,15081,,9,4,5.79,23.1,,27,24,15,13,23,,117,98,6,,,1,4,4,1,2,2,1,1,391,20,23,,4,1,9,
+2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8416223,31,Walker Harris,,,Fr,P,6-0,R/R,15081,,14,,6.35,22.2,,27,21,16,10,11,,110,89,7,,3,,2,7,,4,4,2,2,366,22,28,,,,2,
 2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8416247,33,Caden Hargis,,,Fr,P,6-2,R/R,15081,,5,1,6.75,10.2,,10,9,8,7,7,,57,42,3,1,,,4,5,,2,,1,2,148,6,19,1,,,2,
+2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8416293,99,Boston Torres,,,Fr,INF,5-9,L/L,15081,,3,,22.50,4.0,,8,11,10,4,5,,29,20,2,1,,,1,3,,5,5,,2,121,1,6,,,,3,
+2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8418248,35,Luke Swanger,,,Sr,P,6-4,R/R,15081,,13,7,9.76,39.2,1,57,50,43,24,24,,208,170,11,2,2,8,3,8,,1,,3,3,696,46,41,1,7,,5,1
+2024,2023-24,MBA,30124,Cedarville,2,II,G-MAC,8418301,32,Brendan Colley,,,Jr,INF,6-0,R/L,15081,,2,,0.00,4.2,,3,,,2,5,,19,17,,,,,,,1,3,,,,63,2,7,,,,2,

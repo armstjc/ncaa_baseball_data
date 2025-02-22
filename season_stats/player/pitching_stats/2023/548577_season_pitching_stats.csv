@@ -1,0 +1,33 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811009,32,Austin Ortiz,,,So,OF,6-0,R/R,15001,14,1,,0.00,0.2,,,,,,,,2,2,,,,,,,,,,,,,,2,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811010,9,Tyler DiBlasi,,,So,OF,5-10,R/R,15001,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811011,26,Richard Vento,,,So,P,6-0,B/L,15001,9,9,1,9.53,11.1,,17,16,12,12,9,,62,49,4,1,,1,3,1,,6,2,,,46,12,10,,3,1,4,1
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811014,4,John Creegan,,,So,INF,5-11,R/R,15001,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811015,5,Victor Mura Schott,,,So,OF,-,,15001,20,3,,36.00,2.0,,11,9,8,5,2,,22,17,1,,,,,,,,,,,,2,2,,1,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811016,12,Stephen Suprun,,,So,INF,6-1,L/B,15001,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811017,6,Brandon  Paider,,,So,P,5-11,R/R,15001,15,15,11,5.48,67.1,2,86,50,41,27,54,,314,278,17,5,1,7,6,4,,2,1,2,3,249,59,75,8,1,,25,1
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811018,3,Maxwell Murray,,,So,P,6-4,R/R,15001,6,6,,1.29,7.0,,7,4,1,2,9,,32,27,1,,1,,,2,,4,4,,1,,3,6,,1,2,2,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811020,24,Jason Rodriguez,,,So,P,5-11,R/R,15001,5,5,,24.92,4.1,,10,15,12,7,5,,33,24,1,1,2,1,2,2,,1,1,,,89,6,2,,1,,2,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811021,44,James Dean Johnstone,,,So,P,6-1,R/R,15001,16,16,12,3.60,70.0,3,62,36,28,31,68,,307,256,11,,,1,8,16,,5,5,,4,256,77,45,6,3,1,27,1
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811023,10,Wellington Gomez,,,So,INF,5-10,L/R,15001,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811024,15,Jack Daly,,,So,P,6-3,R/R,15001,12,12,,15.43,14.0,,32,32,24,13,18,,94,72,7,3,,6,3,8,,8,4,1,,87,11,10,1,,,4,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811025,25,Alex Montanile,,,So,C,5-9,R/R,15001,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811026,29,Jonathan Rivera,,,So,OF,-,,15001,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811027,20,Eric Romero,,,So,INF,5-11,R/R,15001,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811028,8,Michael Chasanov,,,So,1B,6-1,L/R,15001,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811029,22,Michael Kessler,,,So,OF,5-10,R/R,15001,9,2,,67.50,1.1,,5,10,10,7,1,,17,8,1,,,,3,1,,,,,1,,2,1,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811033,34,Matthew Kue,,,So,P,6-0,R/R,15001,12,12,4,6.00,24.0,,29,23,16,24,22,,126,96,4,1,,2,,3,2,4,2,1,2,130,24,22,,3,,9,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,7811034,19,Alexander Rozon,,,So,P,6-2,R/R,15001,1,1,,27.00,0.2,,1,2,2,1,1,,6,3,,,,,,2,,3,3,,,,1,,,,,1,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,8005616,30,Jose Colon,,,Fr,P,5-8,,15001,5,5,1,10.29,7.0,,14,13,8,7,3,,41,32,3,,1,1,1,1,,2,1,,1,79,7,7,,1,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,8005827,36,Mike  Savino,,,Fr,,5-7,,15001,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,8005828,35,Joe Estrada,,,So,INF,5-10,,15001,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,8005829,1,Rich Cirigliano,,,Fr,UT,5-7,,15001,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,8005830,2,Eric Marmolejos,,,Fr,OF,-,,15001,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,8005831,13,Chris Lamond,,,Fr,1B,6-1,,15001,20,2,1,34.71,2.1,,9,12,9,5,2,,22,15,,,,3,1,1,,2,2,,1,40,,4,,1,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,8005832,14,Ismael Jimenez,,,Fr,P,5-10,,15001,8,8,4,10.89,20.2,,37,30,25,6,12,,111,99,8,3,,1,,6,,3,1,,,115,20,27,1,2,,5,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,8005833,16,Austin Sloan,,,So,C,5-10,,15001,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,8005834,17,Kevin Budzinski,,,Fr,P,6-0,,15001,30,6,,15.63,6.1,,9,12,11,6,4,,39,27,1,,,1,1,6,,1,,,,29,5,5,,,,2,1
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,8005837,28,Jeremy Tejada,,,Fr,OF,-,,15001,4,1,,,,,0,,,0,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,8005838,21,Jeremiah Ramirez,,,Fr,C,5-10,,15001,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,8005839,18,Ethan Angress,,,Jr,OF,5-11,R/R,15001,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,480,CCNY,3,III,CUNYAC,8005840,7,Anthony  Reda,,,Jr,P,-,,15001,8,8,,10.66,12.2,,21,15,15,5,9,,68,56,7,1,,3,4,5,,,,,2,188,10,16,,,,3,

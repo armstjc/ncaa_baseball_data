@@ -51,7 +51,7 @@ def main():
     """ """
     year = 2025
     df = load_baseball_teams()
-    for i in range(year, 2014, -1):
+    for i in range(year, 2013, -1):
         print(f"\nParsing {i} rosters")
 
         download_rosters(teams_df=df, year=i)

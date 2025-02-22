@@ -1,10 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008277,12,Spencer Nelson,,,Jr,P,-,R/R,15002,16,1,1,1,2,,1.000,,,3,2,,,1.000
-2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008282,18,Payton Windham,,,Jr,P,5-10,L/L,15002,10,6,1,2,3,,1.000,,,1,3,,,
-2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008283,25,Coleman MacRae,,,Fr,P,6-2,R/R,15002,14,2,,1,3,2,0.333,,,6,1,,,2.000
-2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008286,27,Hayden Seldomridge,,,Jr,C,6-0,L/R,15002,10,5,49,5,55,1,0.982,1,,6,1,,,
-2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008289,32,Bryce Parlin,,,Fr,P,6-3,R/L,15002,9,0,1,1,2,,1.000,,,2,,,,
-2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008303,14,Mason King,,,Jr,P,5-9,R/R,15002,50,49,30,61,101,10,0.901,,,,,5,,
 2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,7823589,41,Tate Busey,,,So,P,6-1,R/R,15002,12,4,1,3,5,1,0.800,,,2,3,,,
 2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,7823590,1,Kolby Johnson,,,Sr,OF,-,R/L,15002,53,53,127,5,134,2,0.985,,,,,2,,
 2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,7823591,23,Drew Sturgeon,,,Jr,OF,6-1,L/L,15002,47,47,113,2,117,2,0.983,,,,,1,,
@@ -26,9 +20,15 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,7823620,21,Cade Fenton,,,Sr,P,-,R/R,15002,12,8,3,4,8,1,0.875,,,,2,1,,
 2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,7823621,33,Oliver Laufman,,,Jr,P,-,R/R,15002,17,3,,4,6,2,0.667,,,1,2,,,
 2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008252,4,Jack McLaughlin,,,Sr,INF,-,R/R,15002,13,4,26,5,32,1,0.969,,,,,,,
-2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008299,35,Charlie Christensen,,,Fr,P,6-5,R/R,15002,14,7,2,7,9,,1.000,,,2,2,,,
 2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008255,19,Tyler Monroe,,,Jr,INF,-,L/R,15002,19,4,3,,4,1,0.750,,,,,,,
-2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008296,40,Evan Hafley,,,Sr,DH,6-0,R/R,15002,42,35,77,1,79,1,0.987,,,,,4,,
-2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008318,30,Mason Griffin,,,Jr,P,6-1,R/R,15002,18,0,,1,1,,1.000,,,2,,,,
+2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008277,12,Spencer Nelson,,,Jr,P,-,R/R,15002,16,1,1,1,2,,1.000,,,3,2,,,1.000
+2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008282,18,Payton Windham,,,Jr,P,5-10,L/L,15002,10,6,1,2,3,,1.000,,,1,3,,,
+2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008283,25,Coleman MacRae,,,Fr,P,6-2,R/R,15002,14,2,,1,3,2,0.333,,,6,1,,,2.000
 2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008284,26,Kade Seldomridge,,,Fr,OF,5-9,R/R,15002,47,38,94,4,102,4,0.961,,,,,2,,
+2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008286,27,Hayden Seldomridge,,,Jr,C,6-0,L/R,15002,10,5,49,5,55,1,0.982,1,,6,1,,,
+2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008289,32,Bryce Parlin,,,Fr,P,6-3,R/L,15002,9,0,1,1,2,,1.000,,,2,,,,
 2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008290,34,Lucas Greer,,,Fr,P,6-2,R/R,15002,5,2,,,1,1,0.000,,,1,1,,,
+2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008296,40,Evan Hafley,,,Sr,DH,6-0,R/R,15002,42,35,77,1,79,1,0.987,,,,,4,,
+2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008299,35,Charlie Christensen,,,Fr,P,6-5,R/R,15002,14,7,2,7,9,,1.000,,,2,2,,,
+2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008303,14,Mason King,,,Jr,P,5-9,R/R,15002,50,49,30,61,101,10,0.901,,,,,5,,
+2023,2022-23,MBA,1004,Central Ark.,1,I,ASUN,8008318,30,Mason Griffin,,,Jr,P,6-1,R/R,15002,18,0,,1,1,,1.000,,,2,,,,

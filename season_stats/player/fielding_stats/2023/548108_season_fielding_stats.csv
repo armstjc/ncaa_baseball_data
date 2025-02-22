@@ -1,6 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993149,39,Evan Gibbons,,,Jr,P,6-0,R/R,15002,13,12,4,11,16,1,0.938,,,9,2,1,,
-2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993153,28,Sam Gilliam,,,Jr,C,5-9,R/R,15002,10,2,14,2,16,,1.000,,1,1,,,,
 2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7825306,47,Jack Zalasky,,,Sr,P,6-1,R/R,15002,27,0,,3,3,,1.000,,,5,1,,,1.000
 2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7825308,33,Wesley Harper,,,Jr,P,6-2,R/R,15002,16,0,,4,4,,1.000,,,4,,,,
 2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7825309,17,Martin Vincelli-Simard,,,Sr,INF,6-2,R/R,15002,50,50,360,30,394,4,0.990,,,25,6,27,,3.000
@@ -18,17 +16,19 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7825324,44,Trey Goodrich,,,Jr,P,6-0,R/R,15002,14,0,1,1,3,1,0.667,,,6,1,,,1.000
 2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7825327,24,Cesar Valero,,,Jr,OF,6-2,R/R,15002,54,49,49,1,52,2,0.962,,,,,,,
 2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993115,27,Isaiah Parker,,,So,UT,6-1,R/R,15002,15,1,5,1,6,,1.000,,,,1,1,,
-2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993161,11,Benjy Tucker,,,Fr,P,6-1,R/R,15002,7,0,,3,4,1,0.750,,,1,1,,,
-2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993164,21,Jaxon Byrd,,,Fr,1B,6-3,L/L,15002,16,7,8,,8,,1.000,,,1,1,,,
-2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993159,8,Ryan Christiansen,,,Fr,OF,6-3,L/R,15002,18,4,3,,3,,1.000,,,,,,,
-2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993160,9,Wehiwa Aloy,,,Fr,INF,6-2,R/R,15002,56,55,85,135,237,17,0.928,,,,,36,,
 2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993116,5,JP Smith,,,Fr,INF,6-1,R/R,15002,46,42,164,10,177,3,0.983,,,,,18,,
-2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993165,30,Xavier Richards,,,Fr,P,6-2,R/R,15002,19,4,2,3,5,,1.000,,,7,3,,,
-2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993158,7,Zack Malone,,,Fr,P,6-0,L/L,15002,17,5,4,,5,1,0.800,,,,,,,
-2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993162,13,Braden Frank,,,Fr,INF,6-0,L/R,15002,7,4,34,1,36,1,0.972,,,,,3,,
-2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993166,36,Jacob Cortez,,,Fr,C,6-0,R/R,15002,37,29,221,25,250,4,0.984,,4,22,6,3,,2.000
-2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993154,29,Conor Hourigan,,,So,P,6-2,R/R,15002,10,2,1,,1,,1.000,,,,,,,
+2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993149,39,Evan Gibbons,,,Jr,P,6-0,R/R,15002,13,12,4,11,16,1,0.938,,,9,2,1,,
 2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993150,15,Jasper Nelson,,,Jr,P,6-3,R/R,15002,10,6,,3,6,3,0.500,,,4,1,,,
 2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993151,16,Garet Crenshaw,,,Jr,OF,6-4,L/L,15002,46,31,55,1,56,,1.000,,,,,,,
 2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993152,19,Zach Gagnon,,,Sr,P,6-2,L/R,15002,8,2,2,2,4,,1.000,,,2,,,,
+2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993153,28,Sam Gilliam,,,Jr,C,5-9,R/R,15002,10,2,14,2,16,,1.000,,1,1,,,,
+2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993154,29,Conor Hourigan,,,So,P,6-2,R/R,15002,10,2,1,,1,,1.000,,,,,,,
 2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993155,45,Cooper Rons,,,Jr,P,6-2,R/R,15002,27,2,5,8,14,1,0.929,,,8,1,2,,1.000
+2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993158,7,Zack Malone,,,Fr,P,6-0,L/L,15002,17,5,4,,5,1,0.800,,,,,,,
+2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993159,8,Ryan Christiansen,,,Fr,OF,6-3,L/R,15002,18,4,3,,3,,1.000,,,,,,,
+2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993160,9,Wehiwa Aloy,,,Fr,INF,6-2,R/R,15002,56,55,85,135,237,17,0.928,,,,,36,,
+2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993161,11,Benjy Tucker,,,Fr,P,6-1,R/R,15002,7,0,,3,4,1,0.750,,,1,1,,,
+2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993162,13,Braden Frank,,,Fr,INF,6-0,L/R,15002,7,4,34,1,36,1,0.972,,,,,3,,
+2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993164,21,Jaxon Byrd,,,Fr,1B,6-3,L/L,15002,16,7,8,,8,,1.000,,,1,1,,,
+2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993165,30,Xavier Richards,,,Fr,P,6-2,R/R,15002,19,4,2,3,5,,1.000,,,7,3,,,
+2023,2022-23,MBA,102,Sacramento St.,1,I,WAC,7993166,36,Jacob Cortez,,,Fr,C,6-0,R/R,15002,37,29,221,25,250,4,0.984,,4,22,6,3,,2.000

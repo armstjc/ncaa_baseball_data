@@ -1,6 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,67,Boston College,1,I,ACC,7988894,33,Henry Leake,,,Sr,P,-,R/R,15002,18,11,3,5,8,,1.000,,,6,6,1,,1.000
-2023,2022-23,MBA,67,Boston College,1,I,ACC,7988895,52,Ian Murphy,,,Sr,P,6-4,R/R,15002,19,1,1,4,5,,1.000,,,2,,,,1.000
 2023,2022-23,MBA,67,Boston College,1,I,ACC,7824897,20,Barry Walsh,,,Sr,OF,6-0,R/R,15002,53,51,124,,124,,1.000,,,,,,,
 2023,2022-23,MBA,67,Boston College,1,I,ACC,7824898,7,Patrick Roche,,,Jr,INF,6-0,R/R,15002,56,56,61,72,139,6,0.957,,,,,15,,
 2023,2022-23,MBA,67,Boston College,1,I,ACC,7824899,2,Travis Honeyman,,,Jr,OF,-,R/R,15002,39,39,64,4,68,,1.000,,,,,1,,
@@ -24,15 +22,17 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,67,Boston College,1,I,ACC,7824921,25,Eric Schroeder,,,So,P,6-0,R/R,15002,24,3,8,9,17,,1.000,,,2,2,3,,
 2023,2022-23,MBA,67,Boston College,1,I,ACC,7824922,9,Aidan Harrington,,,So,INF,6-0,R/R,15002,11,1,4,7,11,,1.000,,,,,2,,
 2023,2022-23,MBA,67,Boston College,1,I,ACC,7824923,17,Matthew Nunan,,,So,P,6-2,R/L,15002,18,1,1,2,3,,1.000,,,2,2,,,1.000
+2023,2022-23,MBA,67,Boston College,1,I,ACC,7988894,33,Henry Leake,,,Sr,P,-,R/R,15002,18,11,3,5,8,,1.000,,,6,6,1,,1.000
+2023,2022-23,MBA,67,Boston College,1,I,ACC,7988895,52,Ian Murphy,,,Sr,P,6-4,R/R,15002,19,1,1,4,5,,1.000,,,2,,,,1.000
 2023,2022-23,MBA,67,Boston College,1,I,ACC,7988901,18,Peter Burns,,,Sr,C,-,L/R,15002,52,48,333,42,380,5,0.987,,5,40,14,3,,5.000
 2023,2022-23,MBA,67,Boston College,1,I,ACC,7988905,44,Nick Wang,,,So,INF,6-1,R/R,15002,56,55,36,109,150,5,0.967,,,,,9,,
-2023,2022-23,MBA,67,Boston College,1,I,ACC,7988910,4,Lucas Stalman,,,Sr,INF,-,R/R,15002,4,0,,,0,,,,,,,,,
-2023,2022-23,MBA,67,Boston College,1,I,ACC,7989026,43,Bobby Chicoine,,,Fr,P,6-2,R/R,15002,4,3,,3,3,,1.000,,,1,,,,
-2023,2022-23,MBA,67,Boston College,1,I,ACC,7988918,40,Andrew Roman,,,Sr,P,6-0,R/R,15002,23,1,2,4,6,,1.000,,,7,1,1,,1.000
-2023,2022-23,MBA,67,Boston College,1,I,ACC,7989029,48,A.J. Colarusso,,,Fr,P,6-0,L/L,15002,10,5,1,1,3,1,0.667,,,3,1,,,
-2023,2022-23,MBA,67,Boston College,1,I,ACC,7988923,31,Chris Flynn,,,Sr,P,6-3,R/R,15002,16,16,4,4,8,,1.000,,,9,1,1,,2.000
-2023,2022-23,MBA,67,Boston College,1,I,ACC,7989030,55,Adonys Guzman,,,Fr,C,5-10,R/R,15002,22,19,165,13,180,2,0.989,,2,9,5,,,
-2023,2022-23,MBA,67,Boston College,1,I,ACC,7989023,35,Kyle Wolff,,,Fr,INF,6-1,R/L,15002,20,11,15,,15,,1.000,,,,,3,,
-2023,2022-23,MBA,67,Boston College,1,I,ACC,7988927,1,Cohl Mercado,,,Fr,OF,5-9,L/L,15002,45,43,55,,57,2,0.965,,,,,,,
 2023,2022-23,MBA,67,Boston College,1,I,ACC,7988908,45,Travis Lane,,,Sr,P,6-2,L/R,15002,3,0,,,0,,,,,,,,,
+2023,2022-23,MBA,67,Boston College,1,I,ACC,7988910,4,Lucas Stalman,,,Sr,INF,-,R/R,15002,4,0,,,0,,,,,,,,,
+2023,2022-23,MBA,67,Boston College,1,I,ACC,7988918,40,Andrew Roman,,,Sr,P,6-0,R/R,15002,23,1,2,4,6,,1.000,,,7,1,1,,1.000
+2023,2022-23,MBA,67,Boston College,1,I,ACC,7988923,31,Chris Flynn,,,Sr,P,6-3,R/R,15002,16,16,4,4,8,,1.000,,,9,1,1,,2.000
+2023,2022-23,MBA,67,Boston College,1,I,ACC,7988927,1,Cohl Mercado,,,Fr,OF,5-9,L/L,15002,45,43,55,,57,2,0.965,,,,,,,
 2023,2022-23,MBA,67,Boston College,1,I,ACC,7989013,12,Owen DeShazo,,,Fr,INF,6-6,R/R,15002,6,1,1,1,2,,1.000,,,,,,,
+2023,2022-23,MBA,67,Boston College,1,I,ACC,7989023,35,Kyle Wolff,,,Fr,INF,6-1,R/L,15002,20,11,15,,15,,1.000,,,,,3,,
+2023,2022-23,MBA,67,Boston College,1,I,ACC,7989026,43,Bobby Chicoine,,,Fr,P,6-2,R/R,15002,4,3,,3,3,,1.000,,,1,,,,
+2023,2022-23,MBA,67,Boston College,1,I,ACC,7989029,48,A.J. Colarusso,,,Fr,P,6-0,L/L,15002,10,5,1,1,3,1,0.667,,,3,1,,,
+2023,2022-23,MBA,67,Boston College,1,I,ACC,7989030,55,Adonys Guzman,,,Fr,C,5-10,R/R,15002,22,19,165,13,180,2,0.989,,2,9,5,,,

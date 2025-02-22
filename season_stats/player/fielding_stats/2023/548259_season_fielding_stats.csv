@@ -1,12 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,551,Portland,1,I,WCC,7829887,25,Joey Gartrell,,,So,P,6-4,,15002,16,14,5,11,17,1,0.941,,,5,2,,,2.000
-2023,2022-23,MBA,551,Portland,1,I,WCC,7829888,17,Brock Gillis,,,Jr,P,6-2,,15002,16,11,4,2,6,,1.000,,,7,3,,,2.000
-2023,2022-23,MBA,551,Portland,1,I,WCC,7829890,30,Ryan Rembisz,,,So,P,6-2,,15002,15,1,,3,3,,1.000,,,3,1,,,2.000
-2023,2022-23,MBA,551,Portland,1,I,WCC,7829891,22,Gabe Villaflor,,,Fr,C,-,,15002,3,0,,,0,,,,,,,,,
-2023,2022-23,MBA,551,Portland,1,I,WCC,7829893,8,Riley McCarthy,,,So,C,6-1,,15002,24,11,51,3,54,,1.000,,3,10,2,1,,
-2023,2022-23,MBA,551,Portland,1,I,WCC,7982538,41,Jonas Salk,,,Fr,INF,5-10,,15002,12,3,6,11,19,2,0.895,,,,,1,,
-2023,2022-23,MBA,551,Portland,1,I,WCC,7982539,38,Vinny Salvione,,,Fr,INF,6-0,,15002,7,0,,4,5,1,0.800,,,,,,,
-2023,2022-23,MBA,551,Portland,1,I,WCC,7982540,16,Tristan Gomes,,,Jr,INF,6-5,,15002,32,24,106,5,112,1,0.991,,,,,2,,
 2023,2022-23,MBA,551,Portland,1,I,WCC,7829863,40,Jack Folkins,,,So,P,6-4,,15002,16,0,,2,3,1,0.667,,,,,1,,
 2023,2022-23,MBA,551,Portland,1,I,WCC,7829864,2,Evan Scavotto,,,Jr,INF,5-11,,15002,52,51,46,59,119,14,0.882,,,,,2,,
 2023,2022-23,MBA,551,Portland,1,I,WCC,7829866,33,Liam Hatakenaka,,,Jr,P,-,,15002,1,0,,,0,,,,,,,,,
@@ -24,10 +16,18 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,551,Portland,1,I,WCC,7829883,37,Nick Brink,,,So,P,6-2,,15002,14,9,1,3,4,,1.000,,,2,3,,,
 2023,2022-23,MBA,551,Portland,1,I,WCC,7829884,7,Jake Tsukada,,,Jr,INF,5-9,L/R,15002,50,47,56,63,123,4,0.967,,,,,8,,
 2023,2022-23,MBA,551,Portland,1,I,WCC,7829886,6,Spencer Scott,,,So,INF,6-0,,15002,28,22,23,46,76,7,0.908,,,,,3,,
+2023,2022-23,MBA,551,Portland,1,I,WCC,7829887,25,Joey Gartrell,,,So,P,6-4,,15002,16,14,5,11,17,1,0.941,,,5,2,,,2.000
+2023,2022-23,MBA,551,Portland,1,I,WCC,7829888,17,Brock Gillis,,,Jr,P,6-2,,15002,16,11,4,2,6,,1.000,,,7,3,,,2.000
+2023,2022-23,MBA,551,Portland,1,I,WCC,7829890,30,Ryan Rembisz,,,So,P,6-2,,15002,15,1,,3,3,,1.000,,,3,1,,,2.000
+2023,2022-23,MBA,551,Portland,1,I,WCC,7829891,22,Gabe Villaflor,,,Fr,C,-,,15002,3,0,,,0,,,,,,,,,
+2023,2022-23,MBA,551,Portland,1,I,WCC,7829893,8,Riley McCarthy,,,So,C,6-1,,15002,24,11,51,3,54,,1.000,,3,10,2,1,,
+2023,2022-23,MBA,551,Portland,1,I,WCC,7982538,41,Jonas Salk,,,Fr,INF,5-10,,15002,12,3,6,11,19,2,0.895,,,,,1,,
+2023,2022-23,MBA,551,Portland,1,I,WCC,7982539,38,Vinny Salvione,,,Fr,INF,6-0,,15002,7,0,,4,5,1,0.800,,,,,,,
+2023,2022-23,MBA,551,Portland,1,I,WCC,7982540,16,Tristan Gomes,,,Jr,INF,6-5,,15002,32,24,106,5,112,1,0.991,,,,,2,,
+2023,2022-23,MBA,551,Portland,1,I,WCC,7982582,36,Carter Gaston,,,Fr,P,6-3,,15002,11,0,1,3,4,,1.000,,,2,,,,
+2023,2022-23,MBA,551,Portland,1,I,WCC,7982584,39,Curtis Hebert,,,Fr,UT,6-2,,15002,12,3,1,1,2,,1.000,,,4,1,1,,1.000
+2023,2022-23,MBA,551,Portland,1,I,WCC,7982585,20,Tyler Howard,,,Fr,C,6-1,,15002,15,5,47,2,49,,1.000,,,5,1,,,1.000
+2023,2022-23,MBA,551,Portland,1,I,WCC,7982586,43,Zach Johnson,,,Fr,UT,-,,15002,10,2,,1,2,1,0.500,,,4,1,,,1.000
 2023,2022-23,MBA,551,Portland,1,I,WCC,7982590,15,Justin Tsukada,,,Fr,INF,5-8,,15002,13,3,4,,4,,1.000,,,,,,,
 2023,2022-23,MBA,551,Portland,1,I,WCC,7982592,37,Zach Toglia,,,So,INF,6-2,R/R,15002,44,40,274,15,293,4,0.986,,,,,26,,
-2023,2022-23,MBA,551,Portland,1,I,WCC,7982584,39,Curtis Hebert,,,Fr,UT,6-2,,15002,12,3,1,1,2,,1.000,,,4,1,1,,1.000
-2023,2022-23,MBA,551,Portland,1,I,WCC,7982582,36,Carter Gaston,,,Fr,P,6-3,,15002,11,0,1,3,4,,1.000,,,2,,,,
-2023,2022-23,MBA,551,Portland,1,I,WCC,7982586,43,Zach Johnson,,,Fr,UT,-,,15002,10,2,,1,2,1,0.500,,,4,1,,,1.000
-2023,2022-23,MBA,551,Portland,1,I,WCC,7982585,20,Tyler Howard,,,Fr,C,6-1,,15002,15,5,47,2,49,,1.000,,,5,1,,,1.000
 2023,2022-23,MBA,551,Portland,1,I,WCC,8011284,27,Kaden Segel,,,So,P,6-0,,15002,24,0,1,2,3,,1.000,,,2,1,,,1.000

@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,8008020,25,Jaden Wywoda,,,Fr,P,6-3,R/R,15001,16,16,1,9.79,34.0,,63,42,37,13,21,,181,161,13,1,1,4,2,2,,3,2,4,1,379,38,36,3,2,,5,1
 2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,7826923,30,Luke LeMond,,,So,P,6-2,R/R,15001,21,21,,6.03,34.1,,31,30,23,24,24,,162,125,10,2,,,4,10,4,20,6,1,2,455,30,39,1,1,1,3,6
 2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,7826924,36,Luke Fox,,,Sr,P,6-1,R/R,15001,9,9,9,5.24,22.1,,26,16,13,3,14,,99,92,7,,2,4,2,3,,,,,1,305,25,26,2,4,,6,
 2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,7826926,27,Chris Benton,,,Sr,P,6-5,R/R,15001,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -22,12 +21,13 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,7826949,2,Jimmy King,,,So,INF,6-1,R/R,15001,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,7826950,13,Tyler Mudd,,,So,P,5-9,L/L,15001,4,2,2,19.06,5.2,,10,13,12,7,2,,33,24,,,,1,1,,,,,1,1,128,6,7,,2,,,
 2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,7826951,24,Connor Peek,,,So,INF,5-9,R/R,15001,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,8008017,1,CJ Egrie,,,Fr,INF,5-10,R/R,15001,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,8008018,14,Lucas Manning,,,Fr,C,5-11,R/R,15001,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,8008119,26,Oliver Brown,,,Fr,P,6-1,R/R,15001,27,9,1,9.00,18.0,,31,24,18,13,21,,101,79,5,,,2,4,3,,5,1,4,2,296,12,18,1,1,1,4,
 2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,8007993,16,Jake Jaszcz,,,Fr,OF,5-10,L/L,15001,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,8007994,18,Jack Toomey,,,Fr,OF,6-3,R/R,15001,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,8007995,19,Cam Bryant,,,Fr,INF,5-10,L/R,15001,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,8008017,1,CJ Egrie,,,Fr,INF,5-10,R/R,15001,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,8008018,14,Lucas Manning,,,Fr,C,5-11,R/R,15001,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,8008020,25,Jaden Wywoda,,,Fr,P,6-3,R/R,15001,16,16,1,9.79,34.0,,63,42,37,13,21,,181,161,13,1,1,4,2,2,,3,2,4,1,379,38,36,3,2,,5,1
 2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,8008099,20,Danny Macchiarola,,,Fr,P,6-2,L/R,15001,14,14,5,8.40,45.0,,69,48,42,17,37,,227,199,12,3,1,5,8,9,,4,2,1,1,622,40,51,,6,1,11,3
 2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,8008100,23,Jake Needham,,,Fr,P,6-3,R/R,15001,13,13,1,7.84,20.2,,27,25,18,13,24,,109,85,5,3,,4,5,6,,4,2,1,4,315,16,20,,1,,7,3
+2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,8008119,26,Oliver Brown,,,Fr,P,6-1,R/R,15001,27,9,1,9.00,18.0,,31,24,18,13,21,,101,79,5,,,2,4,3,,5,1,4,2,296,12,18,1,1,1,4,
 2023,2022-23,MBA,285,Holy Cross,1,I,Patriot,8008121,29,Will Harding,,,Fr,P,6-3,R/R,15001,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

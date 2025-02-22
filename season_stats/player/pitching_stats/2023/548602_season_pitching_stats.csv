@@ -1,0 +1,28 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811760,31,Cade  McClelland,,,So,1B,6-5,L/L,15001,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811761,7,Jakob Russell,,,So,P,6-0,L/L,15001,17,17,,4.97,38.0,,31,24,21,16,46,,162,142,8,,1,2,2,1,,,,,3,479,20,46,2,1,3,13,2
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811762,20,Gabriel Ceja,,,So,OF,6-1,R/R,15001,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811763,1,Nate Helton,,,So,P,6-0,R/R,15001,13,13,6,10.88,24.0,,40,36,29,15,19,,137,107,11,1,1,2,7,11,,,,1,3,361,24,23,,5,,4,1
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811764,6,Jared Anderson,,,Jr,INF,5-8,R/R,15001,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811765,18,Omar Barraza,,,Sr,C,6-0,R/R,15001,25,7,,4.26,6.1,,5,3,3,5,4,,30,24,1,1,,,,1,,,,,,134,4,10,,,,1,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811766,3,Nathan Buchan,,,So,OF,5-10,L/L,15001,23,13,11,4.34,66.1,,67,33,32,17,52,,280,257,16,3,,4,5,2,1,,,2,2,883,44,96,4,4,,14,2
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811767,5,Esteban Nakashima,,,Sr,OF,5-8,R/R,15001,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811768,17,Ryan Rhoades,,,Jr,P,6-2,R/R,15001,3,3,,54.00,1.1,,1,8,8,5,3,,15,5,1,,,,3,5,,,,,,65,,1,,,,1,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811769,11,Kaiya Saito,,,So,C,5-10,R/R,15001,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811771,9,Joe Godoy,,,So,P,6-0,R/R,15001,10,10,,6.60,15.0,,22,11,11,9,19,,73,62,7,,,2,5,1,,,,1,,309,9,12,,1,,6,1
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811772,15,Jack Brown,,,So,P,6-0,R/R,15001,4,4,,8.53,6.1,,12,10,6,7,6,,38,28,2,,,,1,2,,,,,1,137,3,7,1,,,3,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811773,13,Julian Zuniga,,,Jr,P,6-0,R/R,15001,9,9,,3.60,15.0,,16,6,6,1,12,,61,56,4,,,1,,3,,,,,1,118,11,17,1,,,2,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811774,19,Max Clark,,,Sr,INF,6-4,R/R,15001,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811775,14,Will Cell,,,So,OF,6-0,R/R,15001,34,1,,0.00,0.1,,,,,,,,1,1,,,,,,,,,,,,,,1,,,,,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811776,16,Jake  Burgess,,,So,INF,5-10,R/R,15001,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811778,10,Tyler Reiter,,,Sr,P,5-10,R/R,15001,11,11,11,1.46,74.0,4,70,15,12,17,69,2,300,275,8,2,,2,2,4,,,,1,3,883,61,76,7,1,,20,1
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811780,4,Luke De Vries,,,So,OF,5-9,L/L,15001,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811782,8,Sebastian Mejorado,,,So,INF,6-1,R/R,15001,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7811783,12,Alec  Aguayo,,,So,P,6-1,R/R,15001,9,9,,6.94,11.2,,21,10,9,2,7,,59,52,3,,,,,,,,,2,3,160,14,13,,,,3,1
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7984716,25,Ian Umscheid,,,Fr,C,5-9,L/R,15001,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7984757,21,Kyler Bacosa,,,Fr,P,6-4,L/R,15001,9,9,2,6.50,18.0,,17,16,13,20,16,,95,69,2,1,,1,3,5,,,,,1,375,13,21,2,1,,3,1
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7984759,22,Will Daniels,,,Jr,C,6-1,L/R,15001,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7984760,24,Sean McCance,,,Fr,INF,6-3,R/R,15001,23,6,5,10.95,12.1,,16,16,15,18,3,,76,49,1,,2,,4,9,,,,,,183,17,13,,3,,2,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7984763,26,Kethan Efron,,,Fr,OF,6-0,L/L,15001,10,6,3,11.25,16.0,,24,24,20,15,13,,86,69,5,1,,3,4,,,,,1,1,211,10,21,1,2,,2,2
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7984764,27,Patrick Perez,,,So,1B,6-5,L/R,15001,18,8,,9.45,6.2,,14,10,7,,8,,37,35,1,1,,1,,2,,,,,,74,5,6,,2,3,2,
+2023,2022-23,MBA,567,Redlands,3,III,SCIAC,7984777,29,Luke Hanson,,,Fr,INF,6-2,R/R,15001,9,4,,16.20,3.1,,5,6,6,3,4,,22,14,2,,,,,4,,,,,1,80,2,4,,,,2,

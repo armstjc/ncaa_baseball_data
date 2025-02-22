@@ -1,9 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006478,5,Noah Lucier,,,Sr,SS,-,R/R,15002,55,54,65,126,194,3,0.985,,,,,18,,
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006480,7,Mike Handal,,,Sr,OF,5-11,L/L,15002,55,54,86,2,90,2,0.978,,,,,1,,
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006482,12,Luke Nomura,,,Fr,INF,5-10,R/R,15002,16,2,3,11,16,2,0.875,,,,,2,,
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006485,16,Ryan Smith,,,Sr,P,-,L/L,15002,13,0,,5,5,,1.000,,,5,2,,,
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006487,17,Matt Bucciero,,,Fr,OF,6-2,R/R,15002,47,44,59,3,68,6,0.912,,,,,1,,
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,7826324,10,Paul Catalano,,,Jr,OF,6-0,L/R,15002,29,11,43,,43,,1.000,,,,,,,
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,7826325,31,Ethan Hibbard,,,Sr,C,6-0,R/R,15002,37,30,198,17,217,2,0.991,,5,19,9,2,,3.667
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,7826326,30,Jack Erbeck,,,Sr,P,6-3,R/R,15002,19,2,6,1,7,,1.000,,,6,1,,,1.000
@@ -29,11 +24,16 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006473,1,Griffin Watson,,,Sr,INF,-,R/R,15002,44,44,65,3,69,1,0.986,,,,,1,,
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006474,3,Blake Helmstetter,,,So,P,5-7,L/L,15002,15,5,1,2,4,1,0.750,,,1,,,,
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006476,4,Payten Wawruck,,,Fr,OF,6-0,L/R,15002,5,0,,,0,,,,,,,,,
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006478,5,Noah Lucier,,,Sr,SS,-,R/R,15002,55,54,65,126,194,3,0.985,,,,,18,,
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006480,7,Mike Handal,,,Sr,OF,5-11,L/L,15002,55,54,86,2,90,2,0.978,,,,,1,,
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006482,12,Luke Nomura,,,Fr,INF,5-10,R/R,15002,16,2,3,11,16,2,0.875,,,,,2,,
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006483,14,JP Kuczik,,,Fr,C,5-6,R/R,15002,10,9,50,2,53,1,0.981,,,7,,,,
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006485,16,Ryan Smith,,,Sr,P,-,L/L,15002,13,0,,5,5,,1.000,,,5,2,,,
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006487,17,Matt Bucciero,,,Fr,OF,6-2,R/R,15002,47,44,59,3,68,6,0.912,,,,,1,,
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006489,19,Aidan Colagrande,,,Fr,P,6-1,L/L,15002,2,0,,,0,,,,,,,,,
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006497,25,Will Youngman,,,Fr,P,6-0,L/L,15002,2,0,,,0,,,,,,,,,
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006499,29,Luke Marshall,,,Sr,P,-,R/R,15002,8,0,,,2,2,0.000,,,3,,,,
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006502,36,Jake Memoli,,,Fr,P,5-10,R/R,15002,20,0,3,3,6,,1.000,,,1,2,,,
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006503,38,Kevin Kell,,,Fr,P,6-1,R/R,15002,16,8,,10,10,,1.000,,,9,1,1,,1.000
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006505,37,Ryan Taffe,,,Fr,P,6-4,R/R,15002,10,0,,,0,,,,,,,,,
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006502,36,Jake Memoli,,,Fr,P,5-10,R/R,15002,20,0,3,3,6,,1.000,,,1,2,,,
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006497,25,Will Youngman,,,Fr,P,6-0,L/L,15002,2,0,,,0,,,,,,,,,
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006483,14,JP Kuczik,,,Fr,C,5-6,R/R,15002,10,9,50,2,53,1,0.981,,,7,,,,
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006489,19,Aidan Colagrande,,,Fr,P,6-1,L/L,15002,2,0,,,0,,,,,,,,,
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006506,41,Jake Noviello,,,Sr,P,-,R/R,15002,15,14,3,7,12,2,0.833,,,10,3,,,1.000

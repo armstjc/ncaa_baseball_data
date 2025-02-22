@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008279,47,Chase Topolski,,,Fr,P,6-1,,15002,12,1,1,,1,,1.000,,,4,3,,,
 2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,7830086,21,Brian Reinke,,,So,P,6-1,,15002,10,2,,1,1,,1.000,,,4,,,,1.000
 2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,7830087,16,Esteban Rodriguez,,,So,P,6-0,,15002,16,1,4,5,10,1,0.900,,,4,3,1,,
 2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,7830089,27,Matthew Anderson,,,So,P,6-6,,15002,7,0,,,0,,,,,,,,,
@@ -22,14 +21,15 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,7830109,26,Jake Elbeery,,,So,INF,6-4,L/R,15002,53,52,363,17,387,7,0.982,,,,,35,,
 2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,7830110,28,Will Gersky,,,Sr,INF,-,,15002,6,2,,,0,,,,,,,,,
 2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,7830111,29,Jake Michel,,,So,P,6-5,,15002,10,5,1,3,5,1,0.800,,,4,,,,
-2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008240,52,Christian Beal,,,Sr,OF,-,,15002,54,54,117,7,124,,1.000,,,,,,,
-2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008241,7,Andrew Papantonis,,,Sr,OF,-,,15002,8,3,5,1,6,,1.000,,,,,2,,
-2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008244,20,Matt Stinebiser,,,Sr,C,-,,15002,8,2,,,0,,,,,,,,,
-2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008243,25,Brock Weirather,,,Sr,P,-,,15002,15,15,3,12,15,,1.000,,,9,3,,,2.000
-2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008245,23,Kasey Caras,,,Sr,1B,-,,15002,12,4,,,0,,,,,,,,,
 2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008234,14,Brenden Argomaniz,,,Sr,P,-,,15002,14,8,2,3,7,2,0.714,,,12,1,,,1.667
 2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008235,6,Shane Gipson,,,Sr,C,-,,15002,6,1,13,1,15,1,0.933,,,1,,,,
-2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008266,22,Kyle Subers,,,Sr,P,6-2,R/R,15002,15,5,2,3,5,,1.000,,,2,1,,,
-2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008259,13,Jordan Jaffe,,,Fr,INF,6-3,,15002,51,51,27,76,109,6,0.945,,,,,4,,
+2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008240,52,Christian Beal,,,Sr,OF,-,,15002,54,54,117,7,124,,1.000,,,,,,,
+2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008241,7,Andrew Papantonis,,,Sr,OF,-,,15002,8,3,5,1,6,,1.000,,,,,2,,
+2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008243,25,Brock Weirather,,,Sr,P,-,,15002,15,15,3,12,15,,1.000,,,9,3,,,2.000
+2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008244,20,Matt Stinebiser,,,Sr,C,-,,15002,8,2,,,0,,,,,,,,,
+2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008245,23,Kasey Caras,,,Sr,1B,-,,15002,12,4,,,0,,,,,,,,,
 2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008257,10,Jake Topolski,,,Sr,OF,-,,15002,17,3,10,,11,1,0.909,,,,,,,
 2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008258,2,Mikey Kluska,,,So,INF,6-1,R/R,15002,54,54,73,120,202,9,0.955,,,,,32,,
+2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008259,13,Jordan Jaffe,,,Fr,INF,6-3,,15002,51,51,27,76,109,6,0.945,,,,,4,,
+2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008266,22,Kyle Subers,,,Sr,P,6-2,R/R,15002,15,5,2,3,5,,1.000,,,2,1,,,
+2023,2022-23,MBA,575,Richmond,1,I,Atlantic 10,8008279,47,Chase Topolski,,,Fr,P,6-1,,15002,12,1,1,,1,,1.000,,,4,3,,,

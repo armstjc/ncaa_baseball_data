@@ -1,9 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011211,15,Grant Aycock,,,Fr,INF,6-5,B/R,15002,20,11,4,3,7,,1.000,,,10,,1,,2.000
-2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011214,19,Mason Mozeley,,,Fr,C,6-0,L/R,15002,14,0,9,,9,,1.000,,,3,,,,
-2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011216,21,Jacob Budzik,,,Fr,INF,5-9,R/R,15002,22,1,2,2,7,3,0.571,,,,,1,,
-2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011260,29,Julien Peissel,,,Fr,P,6-1,R/R,15002,19,6,4,11,15,,1.000,,,1,1,,,1.000
-2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011266,48,Caleb Cozart,,,Jr,P,6-5,R/R,15002,45,29,27,6,38,5,0.868,,,1,2,2,,
 2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,7828687,13,Ryan Rouse,,,Jr,P,6-6,R/R,15002,10,1,1,,2,1,0.500,,,3,1,,,
 2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,7828688,12,Grant Jarman,,,Jr,INF,6-4,L/R,15002,54,53,428,30,464,6,0.987,,,,,45,,
 2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,7828689,5,Daniel Cerda,,,Sr,INF,5-11,R/R,15002,55,51,121,112,239,6,0.975,,,,,34,,
@@ -22,12 +17,17 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,7828715,3,Dosi Jonas,,,Jr,INF,6-0,R/R,15002,51,48,41,,41,,1.000,,,,,,,
 2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,7828716,30,Brandon Wallace,,,Jr,P,5-10,R/R,15002,1,0,,,0,,,,,,,,,
 2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,7828717,6,Rowan Watt,,,So,INF,6-0,R/R,15002,40,28,41,33,79,5,0.937,,,,,4,,
-2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011262,34,Rob Ready,,,So,P,6-3,R/R,15002,22,4,1,7,10,2,0.800,,,6,4,,,
-2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011213,18,Peyton Winebarger,,,Sr,P,5-10,L/L,15002,11,3,,2,2,,1.000,,,5,1,,,
-2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011257,25,Luke Holland,,,Fr,OF,6-2,R/R,15002,19,2,4,,4,,1.000,,,,,,,
+2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011211,15,Grant Aycock,,,Fr,INF,6-5,B/R,15002,20,11,4,3,7,,1.000,,,10,,1,,2.000
 2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011212,16,Hayden Summers,,,Jr,P,5-10,R/R,15002,1,1,,,0,,,,,,,,,
-2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011259,27,Luke Thomas,,,Fr,P,6-2,R/R,15002,22,4,4,4,10,2,0.800,,,10,5,,,2.000
-2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011261,31,Jay Miller,,,Fr,P,6-6,R/R,15002,18,15,4,7,13,2,0.846,,,3,4,,,1.000
-2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011245,32,Jeremy Wolf,,,Fr,INF,5-9,R/R,15002,33,11,15,47,66,4,0.939,,,,,9,,
+2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011213,18,Peyton Winebarger,,,Sr,P,5-10,L/L,15002,11,3,,2,2,,1.000,,,5,1,,,
+2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011214,19,Mason Mozeley,,,Fr,C,6-0,L/R,15002,14,0,9,,9,,1.000,,,3,,,,
+2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011216,21,Jacob Budzik,,,Fr,INF,5-9,R/R,15002,22,1,2,2,7,3,0.571,,,,,1,,
 2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011244,24,Braylen Hayes,,,Fr,OF,6-3,R/R,15002,9,3,8,,8,,1.000,,,,,,,
+2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011245,32,Jeremy Wolf,,,Fr,INF,5-9,R/R,15002,33,11,15,47,66,4,0.939,,,,,9,,
 2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011246,36,Chris Gruskin,,,Fr,P,6-3,R/R,15002,3,0,,1,1,,1.000,,,,,,,
+2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011257,25,Luke Holland,,,Fr,OF,6-2,R/R,15002,19,2,4,,4,,1.000,,,,,,,
+2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011259,27,Luke Thomas,,,Fr,P,6-2,R/R,15002,22,4,4,4,10,2,0.800,,,10,5,,,2.000
+2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011260,29,Julien Peissel,,,Fr,P,6-1,R/R,15002,19,6,4,11,15,,1.000,,,1,1,,,1.000
+2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011261,31,Jay Miller,,,Fr,P,6-6,R/R,15002,18,15,4,7,13,2,0.846,,,3,4,,,1.000
+2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011262,34,Rob Ready,,,So,P,6-3,R/R,15002,22,4,1,7,10,2,0.800,,,6,4,,,
+2023,2022-23,MBA,459,UNC Greensboro,1,I,SoCon,8011266,48,Caleb Cozart,,,Jr,P,6-5,R/R,15002,45,29,27,6,38,5,0.868,,,1,2,2,,

@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002364,38,Colin Patterson,,,Fr,INF,6-3,L/R,15002,11,3,,4,4,,1.000,,,,,,,
 2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,7831672,19,Mark Edeburn,,,Sr,P,6-5,R/R,15002,13,12,2,5,7,,1.000,,,11,1,,,
 2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,7831673,4,Elijah Glass,,,Sr,P,6-0,L/R,15002,9,0,,1,1,,1.000,,,3,,,,1.000
 2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,7831676,8,Christian Gabriel,,,Sr,OF,5-11,R/R,15002,15,3,9,,10,1,0.900,,,,,,,
@@ -15,13 +14,14 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,7831694,5,Au'sean Owens,,,So,OF,5-8,L/L,15002,53,52,151,3,157,3,0.981,,,,,,,
 2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,7831695,1,Torrey Roper,,,Sr,OF,5-10,R/R,15002,52,51,68,2,72,2,0.972,,,,,,,
 2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,7831696,16,Andrew Schell,,,So,3B,5-10,R/R,15002,9,1,7,2,9,,1.000,,,,,,,
-2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002359,12,Markus Cestra,,,Sr,SS,5-9,R/R,15002,53,51,175,55,233,3,0.987,,,,,14,,
-2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002410,32,Ty Ryen,,,Fr,P,6-0,R/R,15002,13,0,,2,2,,1.000,,,,,,,
 2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002353,2,Paul Tripi,,,Sr,P,5-8,R/L,15002,20,1,1,5,7,1,0.857,,,2,1,,,
-2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002355,7,Derrick Shields,,,Fr,P,5-10,R/R,15002,12,11,2,10,14,2,0.857,,,6,2,,,
 2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002354,3,Sean Furlong,,,Sr,P,6-0,R/R,15002,18,1,,7,7,,1.000,,,7,,,,
+2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002355,7,Derrick Shields,,,Fr,P,5-10,R/R,15002,12,11,2,10,14,2,0.857,,,6,2,,,
 2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002356,9,Casen Sandri,,,Fr,INF,6-0,R/R,15002,15,6,3,9,15,3,0.800,,,,,1,,
-2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002409,29,Elijah Dunn,,,Fr,OF,6-2,R/R,15002,35,34,72,3,76,1,0.987,,,,,3,,
+2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002359,12,Markus Cestra,,,Sr,SS,5-9,R/R,15002,53,51,175,55,233,3,0.987,,,,,14,,
+2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002362,30,Matt Luchovick,,,Fr,C,5-10,R/R,15002,19,11,75,3,79,1,0.987,,7,12,2,,,1.000
+2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002363,36,Cole Litman,,,Fr,P,6-4,R/R,15002,6,1,,,1,1,0.000,,,2,,,,1.000
+2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002364,38,Colin Patterson,,,Fr,INF,6-3,L/R,15002,11,3,,4,4,,1.000,,,,,,,
 2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002386,20,Bryson Bain,,,Fr,P,6-3,R/R,15002,9,1,2,2,4,,1.000,,,3,,,,
 2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002389,21,Sebastian Rosado-Guindin,,,Fr,P,6-3,L/L,15002,12,0,,,1,1,0.000,,,,,,,
 2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002392,22,Jason Madrak,,,Fr,P,6-2,R/R,15002,17,0,,2,2,,1.000,,,4,,1,,
@@ -29,7 +29,7 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002406,24,Andrew Sicinski,,,Jr,C,5-10,L/R,15002,50,49,12,1,14,1,0.929,,,3,,,,
 2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002407,25,Davis Kessler,,,Fr,INF,6-0,R/R,15002,40,40,53,82,146,11,0.925,,,,,16,,
 2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002408,28,Connor Rohrer,,,Fr,P,6-3,R/L,15002,1,0,,,0,,,,,3,,,,
-2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002362,30,Matt Luchovick,,,Fr,C,5-10,R/R,15002,19,11,75,3,79,1,0.987,,7,12,2,,,1.000
-2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002363,36,Cole Litman,,,Fr,P,6-4,R/R,15002,6,1,,,1,1,0.000,,,2,,,,1.000
+2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002409,29,Elijah Dunn,,,Fr,OF,6-2,R/R,15002,35,34,72,3,76,1,0.987,,,,,3,,
+2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8002410,32,Ty Ryen,,,Fr,P,6-0,R/R,15002,13,0,,2,2,,1.000,,,,,,,
 2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8685623,13,Branden Kanick,,,Jr,OF,5-10,R/R,15002,30,13,21,,22,1,0.955,,,,,,,
 2023,2022-23,MBA,307,Indiana (PA),2,II,PSAC,8685625,15,Zach Miller,,,So,UT,-,,15002,2,2,10,,10,,1.000,,,,,,,

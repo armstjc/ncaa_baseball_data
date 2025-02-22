@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7983803,12,Stephen Lund,,,Jr,C,5-10,R/R,15002,36,35,116,4,121,1,0.992,,,22,,,,2.000
 2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7829160,34,Joey Danielson,,,Jr,UT,6-3,R/R,15002,21,0,1,3,5,1,0.800,,,3,,,,
 2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7829161,17,Zach Kluvers,,,So,INF,5-11,R/R,15002,12,9,8,19,32,5,0.844,,,,,4,,
 2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7829162,38,Shea Zetterman,,,Sr,P,6-4,,15002,9,0,,,1,1,0.000,,,,,,,
@@ -21,13 +20,14 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7829186,35,Leland Wilson,,,So,P,6-5,-/L,15002,1,0,,,0,,,,,,,,,
 2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7829187,15,Bennett Freiter,,,Fr,C,6-4,R/R,15002,4,1,8,,9,1,0.889,1,,,,,,
 2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7829188,16,Nolan Johnson,,,Fr,P,6-1,-/L,15002,10,0,,1,1,,1.000,,,2,,,,
-2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7983883,24,Hunter Rosenbaum,,,Jr,P,6-3,R/R,15002,7,0,,4,4,,1.000,,,1,,,,
-2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7983884,25,Parker Puetz,,,Fr,P,6-3,-/R,15002,16,10,3,1,4,,1.000,,,3,1,,,1.000
-2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7983896,36,Zak Endres,,,Fr,P,6-2,,15002,7,0,,1,1,,1.000,,,1,,,,
 2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7983540,3,Kyle Law,,,Fr,OF,6-2,R/R,15002,29,17,26,1,27,,1.000,,,,,,,
 2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7983758,4,Dallan Quigley,,,Jr,OF,5-8,R/R,15002,22,10,24,2,26,,1.000,,,,,,,
 2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7983780,5,Davis Hamilton,,,Fr,INF,6-0,L/R,15002,39,33,27,63,94,4,0.957,,,,,19,,
 2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7983783,6,James Dunlap,,,Jr,INF,6-1,R/R,15002,46,46,187,27,218,4,0.982,,,,,14,,
-2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7983915,33,Carson Jacobs,,,Jr,P,6-9,,15002,17,2,1,3,4,,1.000,,,11,,,,2.000
-2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7983914,29,Kale Hopke,,,Fr,P,6-1,,15002,3,0,,,0,,,,,1,,,,
 2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7983796,11,Jack Steil,,,Jr,INF,6-2,R/R,15002,51,49,29,69,102,4,0.961,,,,,4,,
+2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7983803,12,Stephen Lund,,,Jr,C,5-10,R/R,15002,36,35,116,4,121,1,0.992,,,22,,,,2.000
+2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7983883,24,Hunter Rosenbaum,,,Jr,P,6-3,R/R,15002,7,0,,4,4,,1.000,,,1,,,,
+2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7983884,25,Parker Puetz,,,Fr,P,6-3,-/R,15002,16,10,3,1,4,,1.000,,,3,1,,,1.000
+2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7983896,36,Zak Endres,,,Fr,P,6-2,,15002,7,0,,1,1,,1.000,,,1,,,,
+2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7983914,29,Kale Hopke,,,Fr,P,6-1,,15002,3,0,,,0,,,,,1,,,,
+2023,2022-23,MBA,493,North Dakota St.,1,I,Summit League,7983915,33,Carson Jacobs,,,Jr,P,6-9,,15002,17,2,1,3,4,,1.000,,,11,,,,2.000

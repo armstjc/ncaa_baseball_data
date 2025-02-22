@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992981,33,Spencer Sarringar,,,Sr,C,6-2,R/R,15001,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7832758,20,Kyle Bullock,,,Sr,OF,5-11,R/R,15001,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7832759,19,Carson Hauben,,,Jr,P,6-1,R/R,15001,3,3,,9.00,3.0,,4,3,3,2,2,,15,13,1,,,1,1,,,,,,,55,4,3,,,,1,
 2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7832760,2,Andres Antonini,,,Sr,INF,6-2,B/R,15001,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -21,17 +20,18 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7832787,12,Jeslyn Whitehead,,,Sr,1B,6-2,R/R,15001,61,5,,9.00,5.0,,6,5,5,3,4,,26,20,1,,1,,,,1,1,,2,1,96,7,4,1,1,2,1,
 2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7832788,21,Ryan Murphy,,,Jr,P,6-4,L/L,15001,15,15,,1.57,28.2,,13,6,5,14,25,,116,94,2,,,,1,6,,7,3,1,1,467,40,19,4,,1,9,
 2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992929,3,Adams Torres,,,Sr,INF,5-9,R/R,15001,58,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992947,5,Cameron Meehan,,,Sr,OF,6-1,R/R,15001,60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992948,14,Tate Stone-Frisina,,,Sr,P,6-2,R/R,15001,27,26,1,4.22,59.2,,65,30,28,20,47,,265,229,13,1,,4,2,6,3,10,4,8,2,801,60,61,6,1,6,14,
+2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992949,31,Austin Long,,,Sr,P,6-3,R/R,15001,25,25,1,8.08,42.1,,50,40,38,29,22,,209,170,6,,,4,8,6,3,4,2,,4,636,53,46,3,2,,6,
+2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992951,13,Jimmy Thies,,,Fr,INF,6-3,R/R,15001,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992952,16,Edward Berry,,,So,P,5-11,R/R,15001,19,19,19,4.40,92.0,,83,50,45,33,80,,402,353,10,2,,9,7,11,,,,1,4,"1,311",67,122,7,4,,16,1
+2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992961,34,Jorge Ramirez,,,Sr,C,5-11,R/R,15001,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992962,37,Stephen Deans,,,Fr,C,6-0,R/R,15001,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992964,17,Kency McCombe,,,Fr,P,6-3,R/R,15001,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992965,51,Jaxon Mills,,,Sr,P,5-11,R/R,15001,13,13,,5.89,18.1,,20,16,12,9,7,,90,71,3,1,,,2,6,1,6,1,1,3,273,24,20,1,,2,3,
 2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992978,24,Ryan Furey,,,Fr,P,6-5,R/R,15001,13,13,7,6.19,48.0,,60,33,33,17,23,,215,188,8,1,1,5,1,3,,6,5,3,4,762,55,56,3,1,,10,
 2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992980,26,Owen Wilfong,,,Fr,P,6-0,R/R,15001,5,5,2,14.14,7.0,,9,11,11,9,4,,41,26,1,,,1,,5,,3,1,,1,171,6,8,,,,3,
+2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992981,33,Spencer Sarringar,,,Sr,C,6-2,R/R,15001,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992983,42,Jacob Rollen,,,Fr,P,6-6,R/R,15001,1,1,,9.00,2.0,,2,2,2,2,1,,10,7,,,,,,,,,,,1,38,3,2,,,,,
 2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992985,52,Nick DiMiceli,,,Jr,P,6-1,L/L,15001,5,5,1,5.79,9.1,,11,6,6,6,8,,47,36,1,,,,,2,,3,3,,2,186,10,9,,,,1,1
-2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992947,5,Cameron Meehan,,,Sr,OF,6-1,R/R,15001,60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992951,13,Jimmy Thies,,,Fr,INF,6-3,R/R,15001,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992961,34,Jorge Ramirez,,,Sr,C,5-11,R/R,15001,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992965,51,Jaxon Mills,,,Sr,P,5-11,R/R,15001,13,13,,5.89,18.1,,20,16,12,9,7,,90,71,3,1,,,2,6,1,6,1,1,3,273,24,20,1,,2,3,
-2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992964,17,Kency McCombe,,,Fr,P,6-3,R/R,15001,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992952,16,Edward Berry,,,So,P,5-11,R/R,15001,19,19,19,4.40,92.0,,83,50,45,33,80,,402,353,10,2,,9,7,11,,,,1,4,"1,311",67,122,7,4,,16,1
-2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992962,37,Stephen Deans,,,Fr,C,6-0,R/R,15001,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992949,31,Austin Long,,,Sr,P,6-3,R/R,15001,25,25,1,8.08,42.1,,50,40,38,29,22,,209,170,6,,,4,8,6,3,4,2,,4,636,53,46,3,2,,6,
-2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,7992948,14,Tate Stone-Frisina,,,Sr,P,6-2,R/R,15001,27,26,1,4.22,59.2,,65,30,28,20,47,,265,229,13,1,,4,2,6,3,10,4,8,2,801,60,61,6,1,6,14,
 2023,2022-23,MBA,584,Rollins,2,II,Sunshine State,8020857,43,Jack Haynes,,,Fr,P,6-0,R/R,15001,7,7,1,3.38,16.0,1,17,6,6,4,10,1,69,61,1,,,2,,2,,,,1,1,232,15,20,1,,,2,

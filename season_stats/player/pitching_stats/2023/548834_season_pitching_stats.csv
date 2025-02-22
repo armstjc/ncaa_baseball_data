@@ -1,0 +1,23 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7818849,5,Kyle Reese,,,Jr,OF,6-3,R/R,15001,13,13,3,11.19,23.1,,34,31,29,18,7,,128,97,8,1,,5,2,8,,,,1,4,432,25,34,1,1,,2,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7818850,22,Thorsen Kristufek,,,So,OF,6-5,R/R,15001,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7818852,2,Jack Warren,,,Sr,OF,6-1,L/L,15001,37,8,,8.10,13.1,,25,13,12,3,4,,67,62,4,1,,3,2,,,,,1,1,201,18,15,,,,2,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7818854,29,Steven Yee,,,Sr,P,5-9,R/R,15001,14,14,7,8.58,43.0,,77,55,41,19,37,,228,201,9,4,1,3,5,4,,,,1,2,697,63,18,1,5,,16,1
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7818855,9,Arya Mevada,,,Sr,P,5-8,L/L,15001,13,13,,13.30,23.0,,43,39,34,15,12,,131,108,6,5,,3,4,5,,,,,3,326,9,45,,3,,4,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7818856,31,Will Dembski,,,Sr,OF,6-1,R/R,15001,37,5,,3.60,10.0,,8,7,4,10,9,,47,35,2,,,1,2,,,,,,2,186,10,8,1,,,4,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7818858,11,Jack Fishel,,,So,UT,6-1,R/R,15001,37,1,,13.50,0.2,,,1,1,3,,,6,2,,,,,,1,,,,,,25,1,1,,,,,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7818859,10,Leo Jenkins,,,Jr,INF,5-10,R/R,15001,35,9,4,3.54,20.1,,23,10,8,6,15,,91,83,3,,,2,2,1,,,,,1,296,23,20,,1,,4,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7818860,15,Cameron McNamee,,,So,UT,6-3,R/R,15001,30,13,9,10.35,40.0,,82,58,46,19,27,,226,195,21,,1,3,5,6,,,,2,4,630,51,35,1,8,,8,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7818862,19,Gautam Chawla,,,Jr,INF,5-11,R/R,15001,28,1,,27.00,0.2,,3,2,2,1,,,6,5,1,,,1,,,,,,,,26,,2,,,,,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7818863,1,Patrick Donahoe,,,Jr,OF,5-10,R/R,15001,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7818864,4,Garrett Knuf,,,So,INF,5-10,R/R,15001,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7818867,8,Edward Speer,,,So,C,5-9,R/R,15001,34,1,,,,,2,5,5,3,,,5,2,1,,,,,,,,,,,25,,,,,,,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7818869,16,Ryan Wong,,,So,P,6-1,R/R,15001,11,11,1,13.85,13.0,,18,23,20,24,9,,81,53,,1,,2,6,2,,,,,2,286,14,10,,1,,2,1
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7998272,6,Luke Lamitina,,,Fr,P,6-1,R/R,15001,16,16,2,10.59,34.0,,46,40,40,43,13,,192,138,8,,,2,15,8,1,,,,3,634,34,45,,1,,7,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7998273,7,Austin Wang,,,Fr,OF,5-8,R/R,15001,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7998274,12,Aidan Hamner,,,Fr,C,6-0,R/R,15001,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7998275,13,Brendan Flaherty,,,Fr,SS,6-3,R/R,15001,28,14,11,8.49,58.1,1,84,69,55,30,53,,295,249,16,5,1,7,2,7,2,,,4,5,"1,033",39,73,2,7,,14,1
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7998276,18,Mark Hu,,,Fr,INF,6-5,R/R,15001,35,4,,18.69,4.1,,8,9,9,4,1,,28,20,2,2,,1,2,4,,,,,,83,6,5,,2,,,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7998297,21,Sayuj Choudhari,,,Fr,OF,5-11,R/R,15001,14,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7998298,25,Jacob Alderete,,,Fr,OF,6-0,R/R,15001,25,11,,7.85,18.1,,24,23,16,9,5,,93,75,6,1,,5,,6,,,,2,1,324,13,33,,,,2,
+2023,2022-23,MBA,89,Caltech,3,III,SCIAC,7998299,68,Bobby Wang,,,Fr,OF,5-7,R/R,15001,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

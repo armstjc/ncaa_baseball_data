@@ -1,0 +1,90 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,1,top,"Gillen, T. grounded out to 2b.",1,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,1,top,"Deters, T. walked.",2,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,1,top,"Sailors, N. flied out to lf.",3,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,1,top,"MacLean, W. popped up to 2b.",4,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,1,bot,"HOWARD, T grounded out to ss.",5,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,1,bot,"BEAN, B walked.",6,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,1,bot,"BEAN, B stole second.",7,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,1,bot,"TOGLIA, Z walked.",8,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,1,bot,"LOUIS, A struck out swinging.",9,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,1,bot,"SCOTT, S struck out swinging.",10,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,2,top,"North, B. struck out swinging.",11,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,2,top,"Hess, K. walked.",12,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,2,top,"Duffalo, D. grounded into double play ss to 2b to 1b3a Hess, K. out on the play.",13,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,2,bot,"RUTIGLIANO,F singled up the middle.",14,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,2,bot,"BRUCE, G grounded into double play 2b to ss to 1b3a RUTIGLIANO,F out on the play.",15,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,2,bot,"SWYGART, T walked.",16,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,2,bot,"NITOWITZ, C singled to center field3a SWYGART, T advanced to third.",17,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,2,bot,"HOWARD, T walked3a NITOWITZ, C advanced to second.",18,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,2,bot,"BEAN, B walked, RBI3a HOWARD, T advanced to second3a NITOWITZ, C advanced to third3a SWYGART, T scored.",19,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,2,bot,"TOGLIA, Z struck out swinging.",20,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,3,top,"Capece, C. struck out swinging.",21,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,3,top,"Scherrman, M singled through the right side.",22,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,3,top,"Gillen, T. singled to center field3a Scherrman, M advanced to third.",23,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,3,top,"Deters, T. flied out to cf, SF, RBI3a Scherrman, M scored.",24,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,3,top,"Sailors, N. flied out to lf.",25,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,3,bot,"LOUIS, A struck out swinging.",26,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,3,bot,"SCOTT, S hit by pitch.",27,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,3,bot,"RUTIGLIANO,F struck out swinging.",28,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,3,bot,"BRUCE, G struck out swinging.",29,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,4,top,"MacLean, W. doubled down the rf line.",30,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,4,top,"North, B. walked3a MacLean, W. advanced to third on a passed ball.",31,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,4,top,"North, B. stole second.",32,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,4,top,"Hess, K. grounded out to 2b, RBI3a North, B. advanced to third3a MacLean, W. scored.",33,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,4,top,"Duffalo, D. struck out swinging.",34,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,4,top,"Capece, C. singled to left field, RBI3a North, B. scored.",35,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,4,top,"Capece, C. out at second c to 2b, caught stealing.",36,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,4,bot,"Aukerman, M. to p for Wendt, S..",37,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,4,bot,"SWYGART, T struck out looking.",38,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,4,bot,"NITOWITZ, C struck out swinging.",39,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,4,bot,"HOWARD, T walked.",40,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,4,bot,"BEAN, B reached on a fielder's choice3a HOWARD, T out at second ss to 2b.",41,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,5,top,"Scherrman, M struck out swinging.",42,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,5,top,"Gillen, T. grounded out to 1b unassisted.",43,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,5,top,"Deters, T. struck out swinging.",44,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,5,bot,"TOGLIA, Z walked.",45,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,5,bot,"LOUIS, A struck out looking.",46,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,5,bot,"SCOTT, S flied out to lf.",47,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,5,bot,"RUTIGLIANO,F struck out swinging.",48,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,6,top,"Sailors, N. struck out looking.",49,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,6,top,"MacLean, W. reached on an error by 1b, advanced to second.",50,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,6,top,"North, B. struck out swinging.",51,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,6,top,"Hess, K. singled up the middle, RBI3a MacLean, W. scored, unearned.",52,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,6,top,"Duffalo, D. reached on a fielder's choice3a Hess, K. out on the play, out at second ss to 2b.",53,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,6,bot,"BRUCE, G grounded out to ss.",54,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,6,bot,"SWYGART, T struck out looking.",55,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,6,bot,"NITOWITZ, C flied out to cf.",56,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,7,top,"UMLANDT, N to p for GASTON, C.",57,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,7,top,"Capece, C. grounded out to 2b.",58,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,7,top,"Scherrman, M grounded out to 3b.",59,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,7,top,"Gillen, T. out at first 1b to p.",60,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,7,bot,"Curtin, S. to p for Aukerman, M..",61,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,7,bot,"HOWARD, T flied out to cf.",62,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,7,bot,"BEAN, B singled through the left side.",63,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,7,bot,"TOGLIA, Z struck out swinging.",64,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,7,bot,"MCCARTHY, R pinch hit for LOUIS, A.",65,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,7,bot,"MCCARTHY, R singled up the middle3a BEAN, B advanced to second.",66,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,7,bot,"SCOTT, S doubled down the lf line, RBI3a MCCARTHY, R advanced to third3a BEAN, B scored.",67,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,7,bot,"Langrell, G. to p for Curtin, S..",68,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,7,bot,"TSUKADA, J pinch ran for SCOTT, S.",69,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,7,bot,"RUTIGLIANO,F struck out looking.",70,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,8,top,"MCCARTHY, R to dh.",71,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,8,top,"SALK, J to ss for TSUKADA, J.",72,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,8,top,"Deters, T. struck out looking.",73,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,8,top,"Sailors, N. flied out to cf.",74,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,8,top,"MacLean, W. grounded out to 2b.",75,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,8,bot,"BRUCE, G grounded out to 1b unassisted.",76,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,8,bot,"SWYGART, T grounded out to 2b.",77,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,8,bot,"NITOWITZ, C struck out swinging.",78,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,9,top,"North, B. fouled out to 3b.",79,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,9,top,"Hess, K. walked.",80,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,9,top,"Torosian, J. pinch hit for Duffalo, D..",81,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,9,top,"Hess, K. advanced to second on a wild pitch.",82,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,9,top,"Torosian, J. walked.",83,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,9,top,"Capece, C. singled, RBI3a Torosian, J. advanced to second3a Hess, K. scored.",84,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,9,top,"Scherrman, M fouled out to c.",85,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596529,9,top,"Gillen, T. lined out to ss.",86,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,9,bot,"HOWARD, T grounded out to ss.",87,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,9,bot,"BEAN, B fouled out to rf.",88,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025
+6362130,596529,Creighton Bluejays,596650,Portland Pilots,596650,9,bot,"TOGLIA, Z grounded out to 3b.",89,2025-02-21T00:00:00-05:00,"Joe Etzel Field (Portland, OR)",179,MBA,2025

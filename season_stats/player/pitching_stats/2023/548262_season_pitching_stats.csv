@@ -1,8 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988116,5,Evan Albrecht,,,Sr,INF,-,R/R,15001,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988177,7,Sam Franco,,,Sr,OF,-,R/R,15001,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988179,19,Jackson  Dannelley,,,Jr,P,5-10,R/R,15001,25,25,,6.18,39.1,,35,30,27,13,41,,165,144,9,3,1,3,5,3,3,39,15,2,3,573,40,31,2,4,3,6,
-2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988181,18,Jonathan Blackwell,,,Jr,P,6-1,L/L,15001,14,14,14,6.22,72.1,,85,55,50,22,58,,322,292,16,6,,13,3,5,,,,3,,"1,084",79,72,5,6,,14,2
 2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7829948,1,Mike Bolton Jr.,,,Sr,OF,5-9,L/R,15001,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7829950,6,Weston Gingerich,,,Jr,OF,5-10,L/L,15001,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7829951,25,Jake Stadler,,,So,C,6-1,L/R,15001,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -17,17 +13,21 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7829972,36,Carter Doorn,,,So,P,6-3,R/R,15001,14,14,3,9.22,27.1,,39,29,28,14,27,,136,118,10,1,,8,8,3,1,11,5,,1,516,21,30,1,2,,8,
 2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7829973,10,CJ Valdez,,,Sr,INF,6-0,R/R,15001,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7829975,43,Avery Cook,,,Jr,P,6-6,R/R,15001,9,9,,9.00,8.0,,13,12,8,9,10,,49,37,2,1,,1,3,2,2,9,7,,1,156,5,8,,,,5,
-2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988183,33,Malcolm Gilchrist III,,,Jr,P,-,L/L,15001,2,2,,,,,0,3,2,3,,,6,1,,,,,1,2,,2,1,,,31,,,,,,,
+2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988116,5,Evan Albrecht,,,Sr,INF,-,R/R,15001,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988161,13,Jake Jarvis,,,Sr,OF,-,L/R,15001,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988162,40,Calvin Schapira,,,Sr,P,6-5,R/L,15001,6,6,5,5.27,13.2,,21,15,8,13,9,,77,59,7,,,1,3,4,1,2,2,,1,295,13,15,1,2,,1,2
+2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988163,22,Steve Ramirez,,,Sr,C,-,R/R,15001,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988165,35,Connor Caskenette,,,Jr,C,6-0,R/R,15001,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988167,17,Lukas Cook,,,Jr,INF,6-3,R/R,15001,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988269,9,Camden Melvin,,,So,OF,6-0,L/L,15001,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988161,13,Jake Jarvis,,,Sr,OF,-,L/R,15001,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988228,3,Jo Stevens,,,Jr,INF,6-2,R/R,15001,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988163,22,Steve Ramirez,,,Sr,C,-,R/R,15001,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988177,7,Sam Franco,,,Sr,OF,-,R/R,15001,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988178,20,Couper Cornblum,,,Jr,OF,6-0,R/R,15001,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988179,19,Jackson  Dannelley,,,Jr,P,5-10,R/R,15001,25,25,,6.18,39.1,,35,30,27,13,41,,165,144,9,3,1,3,5,3,3,39,15,2,3,573,40,31,2,4,3,6,
+2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988181,18,Jonathan Blackwell,,,Jr,P,6-1,L/L,15001,14,14,14,6.22,72.1,,85,55,50,22,58,,322,292,16,6,,13,3,5,,,,3,,"1,084",79,72,5,6,,14,2
+2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988183,33,Malcolm Gilchrist III,,,Jr,P,-,L/L,15001,2,2,,,,,0,3,2,3,,,6,1,,,,,1,2,,2,1,,,31,,,,,,,
 2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988223,29,Kyle Iwinski,,,Jr,P,6-2,R/R,15001,15,15,11,4.54,69.1,1,73,40,35,19,38,1,295,269,11,3,1,7,1,2,1,1,,3,2,984,92,67,3,5,,10,1
-2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988272,27,Aaron Suval,,,Jr,P,5-11,R/R,15001,21,21,1,4.23,44.2,,40,24,21,30,43,,204,166,9,,,2,7,4,6,21,12,2,2,673,43,41,3,1,5,9,2
 2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988225,37,Keenan Taylor,,,Jr,INF,5-10,R/R,15001,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988228,3,Jo Stevens,,,Jr,INF,6-2,R/R,15001,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988249,11,Cal Lambert,,,Jr,P,6-2,L/L,15001,19,19,,7.94,22.2,,30,23,20,10,21,,106,94,7,1,1,6,6,1,1,19,7,,1,337,18,26,1,2,,7,1
 2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988252,8,Davis Pratt,,,Jr,P,6-2,R/R,15001,20,20,1,7.02,42.1,,45,39,33,33,34,,212,162,6,2,1,8,7,9,3,18,9,6,2,777,50,34,,,,10,
-2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988178,20,Couper Cornblum,,,Jr,OF,6-0,R/R,15001,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988269,9,Camden Melvin,,,So,OF,6-0,L/L,15001,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,559,Purdue,1,I,Big Ten,7988272,27,Aaron Suval,,,Jr,P,5-11,R/R,15001,21,21,1,4.23,44.2,,40,24,21,30,43,,204,166,9,,,2,7,4,6,21,12,2,2,673,43,41,3,1,5,9,2

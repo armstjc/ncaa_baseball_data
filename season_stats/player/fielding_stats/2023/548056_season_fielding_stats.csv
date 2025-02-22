@@ -1,6 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8157318,26,Kazuya Kojima,,,So,P,5-11,R/R,15002,1,0,,,0,,,,,,1,,,
-2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8011271,32,Jospeh Miceli,,,Jr,P,6-0,R/R,15002,11,3,3,3,6,,1.000,,,2,2,,,
 2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,7823737,35,Lenny Washington,,,Jr,P,-,,15002,18,0,1,,1,,1.000,,,1,1,,,
 2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,7823738,1,Jacob Marcos,,,Jr,OF,-,,15002,56,56,122,3,125,,1.000,,,,,1,,
 2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,7823741,8,Bobby Alcock,,,Jr,P,6-5,R/R,15002,14,14,1,12,13,,1.000,,,2,2,1,,0.500
@@ -20,14 +18,16 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,7823763,24,Alec Burns,,,Sr,INF,6-4,R/R,15002,47,47,402,14,420,4,0.990,,,,,37,,
 2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,7823765,19,AJ Solomon,,,So,ph,5-9,L/R,15002,8,4,7,9,17,1,0.941,,,,,4,,
 2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,7823766,10,Humberto Torres,,,Jr,C,5-9,R/R,15002,43,42,310,31,349,8,0.977,1,15,28,7,1,,2.500
-2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8013991,20,Reid Bertram,,,Fr,1B,6-3,L/L,15002,13,12,,4,6,2,0.667,,,9,2,,,
+2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8011247,28,Brendan Bean,,,Sr,P,6-1,L/L,15002,17,0,,,1,1,0.000,,,2,,,,
+2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8011248,8,Dalton Wood,,,Jr,P,-,,15002,21,0,,3,3,,1.000,,,5,2,,,
+2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8011250,30,Joe Nestel,,,Sr,P,6-0,R/R,15002,2,0,,1,1,,1.000,,,,,,,
+2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8011263,9,Mark Black,,,So,C,5-11,R/R,15002,53,48,129,36,173,8,0.954,,1,9,7,5,,
 2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8011264,2,Tanner Chafin,,,Sr,P,5-9,R/R,15002,6,0,,,0,,,,,,,,,
 2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8011267,12,Jacob McCaskey,,,Sr,UT,6-0,,15002,46,41,55,96,153,2,0.987,,,1,,18,,1.000
 2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8011268,11,Max Smyley,,,Jr,INF,6-0,R/R,15002,31,5,16,26,43,1,0.977,,,,,5,,
 2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8011269,14,Grant Vera,,,Sr,INF,-,,15002,18,0,1,4,5,,1.000,,,1,1,,,
+2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8011271,32,Jospeh Miceli,,,Jr,P,6-0,R/R,15002,11,3,3,3,6,,1.000,,,2,2,,,
 2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8011757,4,Phil Fox,,,Fr,1B,5-9,R/R,15002,23,1,2,3,7,2,0.714,,,2,1,,,
-2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8011263,9,Mark Black,,,So,C,5-11,R/R,15002,53,48,129,36,173,8,0.954,,1,9,7,5,,
-2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8011247,28,Brendan Bean,,,Sr,P,6-1,L/L,15002,17,0,,,1,1,0.000,,,2,,,,
-2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8011248,8,Dalton Wood,,,Jr,P,-,,15002,21,0,,3,3,,1.000,,,5,2,,,
-2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8011250,30,Joe Nestel,,,Sr,P,6-0,R/R,15002,2,0,,1,1,,1.000,,,,,,,
+2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8013991,20,Reid Bertram,,,Fr,1B,6-3,L/L,15002,13,12,,4,6,2,0.667,,,9,2,,,
 2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8021176,15,Ryan Kennell,,,Fr,ph/3b,6-0,R/R,15002,23,14,20,32,53,1,0.981,,,,,9,,
+2023,2022-23,MBA,1092,Gardner-Webb,1,I,Big South,8157318,26,Kazuya Kojima,,,So,P,5-11,R/R,15002,1,0,,,0,,,,,,1,,,

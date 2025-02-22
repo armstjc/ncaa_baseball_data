@@ -1,6 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,batting_GP,batting_GS,batting_AVG,batting_OBP,batting_SLG,batting_R,batting_AB,batting_H,batting_2B,batting_3B,batting_TB,batting_HR,batting_RBI,batting_BB,batting_HBP,batting_SF,batting_SH,batting_SO,OPP DP,batting_CS,batting_PK,batting_SB,batting_IBB,batting_GDP,RBI2out
-2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974668,24,Mac Burke,,,Fr,UT,6-4,R/R,15000,18,0,,,,,,,,,0,,,,,,,,,,,,,,
-2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974670,5,Milo Suarez,,,Fr,INF,5-10,R/R,15000,23,16,0.213,0.314,0.393,9,61,13,2,,24,3,8,6,3,,1,18,1,2,,1,,1,
 2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7825965,7,James House,,,Sr,OF,6-2,L/L,15000,33,27,0.189,0.313,0.305,10,95,18,6,1,29,1,14,13,4,,,39,2,,,,,1,
 2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7825966,35,Tyler Cortland,,,Jr,P,6-4,R/R,15000,2,1,,,,,,,,,0,,,,,,,,,,,,,,
 2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7825967,34,Max Zajec,,,Jr,1B,6-0,L/R,15000,37,35,0.217,0.349,0.242,10,120,26,3,,29,,16,23,2,1,,27,4,,1,1,,4,
@@ -29,5 +27,7 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974650,4,Nico Bañez,,,Fr,OF,5-8,L/R,15000,22,7,0.200,0.368,0.333,6,30,6,1,,10,1,2,5,3,,,16,,3,,3,,,
 2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974654,11,Ivan Hoyt,,,Fr,UT,6-1,R/R,15000,20,15,0.158,0.213,0.263,7,57,9,3,,15,1,6,4,,,,24,,1,,2,,,
 2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974655,38,Aidan Plummer,,,Fr,P,6-1,R/R,15000,8,0,,,,,,,,,0,,,,,,,,,,,,,,
-2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974665,15,Eddie Albert,,,Fr,P,6-1,R/R,15000,14,6,,,,,,,,,0,,,,,,,,,,,,,,
 2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974664,14,Trystan Sarcone,,,Sr,P,6-1,B/L,15000,12,12,,,,,,,,,0,,,,,,,,,,,,,,
+2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974665,15,Eddie Albert,,,Fr,P,6-1,R/R,15000,14,6,,,,,,,,,0,,,,,,,,,,,,,,
+2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974668,24,Mac Burke,,,Fr,UT,6-4,R/R,15000,18,0,,,,,,,,,0,,,,,,,,,,,,,,
+2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974670,5,Milo Suarez,,,Fr,INF,5-10,R/R,15000,23,16,0.213,0.314,0.393,9,61,13,2,,24,3,8,6,3,,1,18,1,2,,1,,1,

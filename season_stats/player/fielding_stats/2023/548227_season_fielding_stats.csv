@@ -1,7 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985530,27,Damone Hale,,,So,OF,6-3,R/R,15002,42,37,86,1,89,2,0.978,,,,,,,
-2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985532,28,Alan Aguero,,,Jr,P,5-11,-/R,15002,11,1,,1,1,,1.000,,,,,,,
-2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985599,34,Tyler Hoeft,,,Jr,P,5-10,-/R,15002,13,10,1,4,6,1,0.833,,,9,6,,,1.000
 2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7828900,18,Cade Swenson,,,So,P,6-4,,15002,14,2,,3,4,1,0.750,,,2,3,,,
 2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7828902,8,Cal Villareal,,,Sr,OF,-,,15002,35,27,74,2,76,,1.000,,,,,,,
 2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7828909,38,Noah Estrella,,,Sr,P,-,,15002,19,6,1,4,7,2,0.714,,,6,5,,,
@@ -14,23 +11,26 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7828921,11,Edwin Martinez-Pagani,,,Sr,INF,5-10,,15002,16,14,5,19,25,1,0.960,,,,,2,,
 2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7828929,23,Pablo Cortes,,,Jr,P,-,,15002,13,7,2,3,6,1,0.833,,,9,2,,,1.000
 2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7828931,43,Gunner Antillon,,,Jr,INF,5-9,R/-,15002,7,7,7,11,22,4,0.818,,,,,2,,
+2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985416,4,Adam Arroyo,,,So,C,5-10,R/R,15002,4,1,16,1,17,,1.000,,,1,1,,,1.000
+2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985423,2,Keith Jones II,,,Jr,OF,6-2,,15002,47,45,57,1,60,2,0.967,,,,,,,
+2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985431,3,Xaige Lancaster,,,Fr,INF,6-2,R/R,15002,10,4,1,8,11,2,0.818,,,,,1,,
+2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985441,7,Darius Garcia,,,So,P,6-3,L/L,15002,9,6,,2,2,,1.000,,,2,,,,
 2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985444,13,Romeo Ballesteros,,,So,INF,5-9,R/R,15002,44,36,61,97,164,6,0.963,,,,,27,,
 2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985445,14,Matthew Maloney,,,Jr,P,6-0,-/R,15002,26,0,1,2,4,1,0.750,,,6,1,,,0.500
 2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985448,20,Treyjen Meza,,,Jr,P,5-10,-/R,15002,14,14,5,12,17,,1.000,,,7,5,,,1.000
-2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985600,35,Mitch Namie,,,Fr,OF,6-1,L/R,15002,44,43,92,3,98,3,0.969,,,,,6,,
-2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985416,4,Adam Arroyo,,,So,C,5-10,R/R,15002,4,1,16,1,17,,1.000,,,1,1,,,1.000
-2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985588,29,Kade Benavidez,,,So,P,6-1,B/R,15002,12,0,1,2,3,,1.000,,,1,3,,,
-2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985483,21,Hayden Walker,,,Jr,P,6-2,-/L,15002,22,3,2,7,9,,1.000,,,6,,1,,1.000
-2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985574,26,Aaron Treloar,,,Jr,P,6-4,-/R,15002,18,0,,1,1,,1.000,,,1,2,,,
-2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985625,45,Sakemi Sato,,,Jr,P,6-0,-/R,15002,15,0,1,1,2,,1.000,,,3,1,,,
-2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985572,25,Nick Gore,,,Jr,C,6-2,R/R,15002,42,39,242,36,280,2,0.993,,1,35,14,10,,2.000
 2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985458,6,Karl Koerper,,,Sr,UT,6-5,,15002,13,9,6,,6,,1.000,,,,,,,
-2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985619,36,Will Sierra,,,Sr,P,6-1,-/R,15002,21,1,2,1,5,2,0.600,,,7,1,,,1.000
 2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985478,16,Saul Soto,,,Fr,P,6-4,-/R,15002,8,0,1,1,3,1,0.667,,,1,,,,
 2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985482,99,Noah Karliner,,,Jr,UT,6-4,R/R,15002,15,4,24,1,27,2,0.926,,,,,2,,
-2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985605,44,Christian Perez,,,Fr,INF,6-2,L/R,15002,44,42,87,45,140,8,0.943,,,,,11,,
-2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985441,7,Darius Garcia,,,So,P,6-3,L/L,15002,9,6,,2,2,,1.000,,,2,,,,
-2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985603,40,Saxon Marr,,,So,P,6-6,R/R,15002,2,0,,,0,,,,,,,,,
-2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985423,2,Keith Jones II,,,Jr,OF,6-2,,15002,47,45,57,1,60,2,0.967,,,,,,,
+2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985483,21,Hayden Walker,,,Jr,P,6-2,-/L,15002,22,3,2,7,9,,1.000,,,6,,1,,1.000
+2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985530,27,Damone Hale,,,So,OF,6-3,R/R,15002,42,37,86,1,89,2,0.978,,,,,,,
+2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985532,28,Alan Aguero,,,Jr,P,5-11,-/R,15002,11,1,,1,1,,1.000,,,,,,,
+2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985572,25,Nick Gore,,,Jr,C,6-2,R/R,15002,42,39,242,36,280,2,0.993,,1,35,14,10,,2.000
+2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985574,26,Aaron Treloar,,,Jr,P,6-4,-/R,15002,18,0,,1,1,,1.000,,,1,2,,,
+2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985588,29,Kade Benavidez,,,So,P,6-1,B/R,15002,12,0,1,2,3,,1.000,,,1,3,,,
+2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985599,34,Tyler Hoeft,,,Jr,P,5-10,-/R,15002,13,10,1,4,6,1,0.833,,,9,6,,,1.000
+2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985600,35,Mitch Namie,,,Fr,OF,6-1,L/R,15002,44,43,92,3,98,3,0.969,,,,,6,,
 2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985601,41,Brantley Voth,,,Sr,C,6-1,B/R,15002,6,2,15,2,17,,1.000,,,2,,,,
-2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985431,3,Xaige Lancaster,,,Fr,INF,6-2,R/R,15002,10,4,1,8,11,2,0.818,,,,,1,,
+2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985603,40,Saxon Marr,,,So,P,6-6,R/R,15002,2,0,,,0,,,,,,,,,
+2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985605,44,Christian Perez,,,Fr,INF,6-2,L/R,15002,44,42,87,45,140,8,0.943,,,,,11,,
+2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985619,36,Will Sierra,,,Sr,P,6-1,-/R,15002,21,1,2,1,5,2,0.600,,,7,1,,,1.000
+2023,2022-23,MBA,472,New Mexico St.,1,I,WAC,7985625,45,Sakemi Sato,,,Jr,P,6-0,-/R,15002,15,0,1,1,2,,1.000,,,3,1,,,

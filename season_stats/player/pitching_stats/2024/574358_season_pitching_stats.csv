@@ -1,20 +1,20 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8270158,16,Jared Schwartz,,,Sr,P,-,R/R,15081,,13,5,11.48,26.2,,37,36,34,26,29,,144,112,7,2,,4,10,4,1,2,2,,2,465,17,29,,3,,8,1
-2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8262171,38,Dalton Vander Ark,,,Jr,P,-,R/R,15081,,8,,6.35,5.2,,9,6,4,8,4,,37,26,1,,,,1,3,,4,3,,,150,7,5,,,,,
 2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8261416,8,Carson Fischer,,,Jr,P,-,R/R,15081,,12,12,4.64,73.2,3,91,48,38,22,60,,334,301,10,2,,9,6,6,,,,3,2,919,102,44,3,7,,14,1
-2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8272065,22,Anthony Aloisio,,,Sr,1B,-,R/R,15081,,1,,108.00,0.1,,4,4,4,0,1,,5,5,1,,,2,,,,3,3,,,19,,,,,,1,
+2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8262171,38,Dalton Vander Ark,,,Jr,P,-,R/R,15081,,8,,6.35,5.2,,9,6,4,8,4,,37,26,1,,,,1,3,,4,3,,,150,7,5,,,,,
 2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8269669,5,Tyler McKinstry,,,So,P,-,R/R,15081,,9,9,6.94,35.0,,42,30,27,21,35,,176,143,14,2,1,1,5,11,2,,,,1,522,32,32,1,5,,9,1
-2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8286547,21,Austin VanderMarkt,,,Jr,P,-,R/R,15081,,11,8,4.22,42.2,,48,24,20,16,30,,188,163,6,2,1,1,4,7,1,1,,,2,619,44,38,4,3,,7,2
-2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8283030,10,Jack Snow,,,So,P,-,L/L,15081,,19,,5.30,18.2,,27,19,11,8,15,,93,80,5,,1,3,9,2,,13,5,2,1,276,17,20,1,1,,6,1
+2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8270158,16,Jared Schwartz,,,Sr,P,-,R/R,15081,,13,5,11.48,26.2,,37,36,34,26,29,,144,112,7,2,,4,10,4,1,2,2,,2,465,17,29,,3,,8,1
+2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8272065,22,Anthony Aloisio,,,Sr,1B,-,R/R,15081,,1,,108.00,0.1,,4,4,4,0,1,,5,5,1,,,2,,,,3,3,,,19,,,,,,1,
 2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8279676,39,Brandon Skorupski,,,So,P,-,L/L,15081,,8,,9.00,11.0,,18,14,11,7,7,,57,48,5,1,,1,5,,,1,1,,2,204,10,14,,,,4,
 2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8281486,26,Isaac Van Dyke,,,Sr,P,-,R/R,15081,,10,6,13.02,18.2,,33,28,27,11,9,,99,84,7,3,2,2,8,1,,1,1,,3,350,31,14,,2,,5,
-2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8448494,35,Tyler Kapa,,,Jr,P,-,R/R,15081,,19,,5.17,15.2,,14,14,9,17,28,,84,61,2,1,3,1,5,1,,11,3,2,3,308,8,12,1,2,2,8,
+2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8283030,10,Jack Snow,,,So,P,-,L/L,15081,,19,,5.30,18.2,,27,19,11,8,15,,93,80,5,,1,3,9,2,,13,5,2,1,276,17,20,1,1,,6,1
+2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8286547,21,Austin VanderMarkt,,,Jr,P,-,R/R,15081,,11,8,4.22,42.2,,48,24,20,16,30,,188,163,6,2,1,1,4,7,1,1,,,2,619,44,38,4,3,,7,2
+2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8423921,1,Cade Kontny,,,Sr,P,-,R/R,15081,,22,,5.83,29.1,,35,23,19,11,23,,139,121,7,2,,4,3,3,2,8,2,2,2,463,35,26,3,3,1,10,
+2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8424229,13,Zach Hopman,,,Sr,UT,-,,15081,,9,,18.90,6.2,,10,15,14,11,3,,42,27,3,,1,1,4,2,,2,1,1,1,124,12,4,,,,2,
+2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8448479,15,Connor Foley,,,So,P,-,L/L,15081,,14,,4.98,21.2,,25,14,12,10,25,,103,88,4,1,,,1,4,,4,1,1,,281,23,14,1,,,11,
 2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8448484,24,Austin VandenBrink,,,Jr,P,-,R/R,15081,,4,,4.50,4.0,,7,2,2,4,2,,22,17,1,,1,,,1,,,,,,65,4,4,,1,1,2,1
+2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8448487,28,Jerad Berkenpas,,,Jr,P,-,R/R,15081,,14,14,5.40,78.1,2,95,49,47,9,43,,340,316,18,4,,8,1,5,,,,3,7,933,64,121,5,3,,18,
 2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8448488,29,Brayden Flanders,,,So,P,-,R/R,15081,,20,,9.75,24.0,,29,31,26,17,23,,127,97,7,2,,3,7,11,,6,2,1,1,430,32,13,1,3,,9,
 2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8448491,33,Jeremy Marble,,,Jr,P,-,L/L,15081,,10,,17.47,5.2,,18,23,11,5,10,,50,39,5,1,,1,3,5,,4,4,,1,128,2,7,,,,4,
+2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8448494,35,Tyler Kapa,,,Jr,P,-,R/R,15081,,19,,5.17,15.2,,14,14,9,17,28,,84,61,2,1,3,1,5,1,,11,3,2,3,308,8,12,1,2,2,8,
 2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8585475,19,Ian Dixon,,,So,P,-,L/R,15081,,7,,11.37,6.1,,6,10,8,6,4,,32,24,,1,2,1,1,1,,1,1,1,,101,9,6,,1,,2,
 2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8585478,40,Bobby Kelly,,,So,P,-,R/R,15081,,1,,0.00,1.0,,0,,,2,1,,5,3,,,,,1,,,,,,,20,,2,,,,1,
-2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8448479,15,Connor Foley,,,So,P,-,L/L,15081,,14,,4.98,21.2,,25,14,12,10,25,,103,88,4,1,,,1,4,,4,1,1,,281,23,14,1,,,11,
-2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8448487,28,Jerad Berkenpas,,,Jr,P,-,R/R,15081,,14,14,5.40,78.1,2,95,49,47,9,43,,340,316,18,4,,8,1,5,,,,3,7,933,64,121,5,3,,18,
-2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8424229,13,Zach Hopman,,,Sr,UT,-,,15081,,9,,18.90,6.2,,10,15,14,11,3,,42,27,3,,1,1,4,2,,2,1,1,1,124,12,4,,,,2,
-2024,2023-24,MBA,30221,Davenport,2,II,GLIAC,8423921,1,Cade Kontny,,,Sr,P,-,R/R,15081,,22,,5.83,29.1,,35,23,19,11,23,,139,121,7,2,,4,3,3,2,8,2,2,2,463,35,26,3,3,1,10,

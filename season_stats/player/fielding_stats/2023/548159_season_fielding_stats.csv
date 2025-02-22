@@ -1,7 +1,5 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,275,Harvard,1,I,Ivy League,7972336,5,Gio Colasante,,,Fr,INF,6-5,R/R,15002,34,29,29,59,96,8,0.917,,,,,12,,
 2023,2022-23,MBA,275,Harvard,1,I,Ivy League,7826840,24,Zach Brown,,,Sr,C,6-3,R/R,15002,26,23,194,26,224,4,0.982,,3,19,12,,,1.000
-2023,2022-23,MBA,275,Harvard,1,I,Ivy League,7972378,16,William Lybrook,,,Jr,UT,6-4,R/R,15002,6,5,35,3,38,,1.000,,,2,1,,,
 2023,2022-23,MBA,275,Harvard,1,I,Ivy League,7826842,7,Logan Bravo,,,Sr,INF,6-5,R/R,15002,44,44,329,14,346,3,0.991,,,,,28,,
 2023,2022-23,MBA,275,Harvard,1,I,Ivy League,7826843,11,Will Jacobsen,,,Sr,UT,6-2,R/R,15002,42,38,4,26,34,4,0.882,,,10,2,1,,
 2023,2022-23,MBA,275,Harvard,1,I,Ivy League,7826844,77,Tim Williamson,,,Sr,P,6-3,R/L,15002,15,0,1,5,6,,1.000,,,3,1,,,
@@ -25,9 +23,11 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,275,Harvard,1,I,Ivy League,7826865,34,Chris Clark,,,Jr,P,6-4,R/R,15002,13,12,,8,9,1,0.889,,,11,3,,,
 2023,2022-23,MBA,275,Harvard,1,I,Ivy League,7826866,35,Peter Levin,,,So,1B,6-4,R/R,15002,2,0,1,,1,,1.000,,,,,,,
 2023,2022-23,MBA,275,Harvard,1,I,Ivy League,7826867,29,Grant Schwartz,,,Sr,INF,5-10,R/R,15002,4,0,1,,1,,1.000,,,,,,,
-2023,2022-23,MBA,275,Harvard,1,I,Ivy League,7972397,31,Brian Dowling,,,Fr,P,6-6,L/L,15002,2,0,,,0,,,,,,,,,
+2023,2022-23,MBA,275,Harvard,1,I,Ivy League,7972336,5,Gio Colasante,,,Fr,INF,6-5,R/R,15002,34,29,29,59,96,8,0.917,,,,,12,,
 2023,2022-23,MBA,275,Harvard,1,I,Ivy League,7972377,14,Jack Smith,,,Fr,P,6-3,R/R,15002,9,0,,,0,,,,,3,1,,,
+2023,2022-23,MBA,275,Harvard,1,I,Ivy League,7972378,16,William Lybrook,,,Jr,UT,6-4,R/R,15002,6,5,35,3,38,,1.000,,,2,1,,,
 2023,2022-23,MBA,275,Harvard,1,I,Ivy League,7972379,21,Max Lane,,,Fr,OF,6-2,R/R,15002,6,2,3,,3,,1.000,,,,,,,
 2023,2022-23,MBA,275,Harvard,1,I,Ivy League,7972380,25,Callan Fang,,,Fr,OF,6-3,R/R,15002,18,1,1,1,4,2,0.500,,,5,1,,,
 2023,2022-23,MBA,275,Harvard,1,I,Ivy League,7972381,26,Jordan Kang,,,Fr,INF,5-10,R/R,15002,10,5,5,9,14,,1.000,,,,,3,,
+2023,2022-23,MBA,275,Harvard,1,I,Ivy League,7972397,31,Brian Dowling,,,Fr,P,6-6,L/L,15002,2,0,,,0,,,,,,,,,
 2023,2022-23,MBA,275,Harvard,1,I,Ivy League,8156663,40,Cole Cleary,,,So,P,6-1,R/R,15002,5,0,,,0,,,,,2,,,,

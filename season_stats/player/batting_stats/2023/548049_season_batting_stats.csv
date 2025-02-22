@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,batting_GP,batting_GS,batting_AVG,batting_OBP,batting_SLG,batting_R,batting_AB,batting_H,batting_2B,batting_3B,batting_TB,batting_HR,batting_RBI,batting_BB,batting_HBP,batting_SF,batting_SH,batting_SO,OPP DP,batting_CS,batting_PK,batting_SB,batting_IBB,batting_GDP,RBI2out
-2023,2022-23,MBA,813,Yale,1,I,Ivy League,7991405,10,Beck Milner,,,Fr,C,6-2,R/R,15000,33,29,0.245,0.364,0.324,8,102,25,5,,33,1,17,14,5,,,28,5,1,1,5,,4,
 2023,2022-23,MBA,813,Yale,1,I,Ivy League,7823535,29,Josh Richardson,,,Jr,P,6-2,L/R,15000,18,0,,,,,,,,,0,,,,,,,,,,,,,,
 2023,2022-23,MBA,813,Yale,1,I,Ivy League,7823536,5,Bryant Reese,,,Jr,P,6-1,R/L,15000,13,5,,,,,,,,,0,,,,,,,,,,,,,,
 2023,2022-23,MBA,813,Yale,1,I,Ivy League,7823537,4,Jimmy Chatfield,,,Sr,OF,6-0,R/R,15000,40,40,0.275,0.435,0.451,33,142,39,6,2,64,5,30,31,11,2,1,28,1,2,2,15,2,1,
@@ -21,8 +20,9 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,813,Yale,1,I,Ivy League,7823558,20,Mark Capell,,,So,P,6-2,R/R,15000,16,1,,,,,,,,,0,,,,,,,,,,,,,,
 2023,2022-23,MBA,813,Yale,1,I,Ivy League,7823559,33,Max Imhoff,,,So,C,5-10,R/R,15000,22,10,0.154,0.233,0.256,4,39,6,1,,10,1,4,3,1,,1,11,1,,,2,,1,
 2023,2022-23,MBA,813,Yale,1,I,Ivy League,7823560,22,Mick Kelley,,,So,P,6-4,R/R,15000,9,4,,,,,,,,,0,,,,,,,,,,,,,,
-2023,2022-23,MBA,813,Yale,1,I,Ivy League,7991382,17,Luke Lantz,,,Fr,P,6-3,R/R,15000,3,0,,,,,,,,,0,,,,,,,,,,,,,,
 2023,2022-23,MBA,813,Yale,1,I,Ivy League,7991381,25,Daniel Cohen,,,Fr,P,6-2,R/R,15000,19,5,,,,,,,,,0,,,,,,,,,,,,,,
-2023,2022-23,MBA,813,Yale,1,I,Ivy League,7991408,19,Ethan Lewis,,,Fr,P,6-1,R/R,15000,12,3,,,,,,,,,0,,,,,,,,,,,,,,
+2023,2022-23,MBA,813,Yale,1,I,Ivy League,7991382,17,Luke Lantz,,,Fr,P,6-3,R/R,15000,3,0,,,,,,,,,0,,,,,,,,,,,,,,
+2023,2022-23,MBA,813,Yale,1,I,Ivy League,7991405,10,Beck Milner,,,Fr,C,6-2,R/R,15000,33,29,0.245,0.364,0.324,8,102,25,5,,33,1,17,14,5,,,28,5,1,1,5,,4,
 2023,2022-23,MBA,813,Yale,1,I,Ivy League,7991406,12,Davis Hanson,,,Fr,INF,6-3,R/R,15000,37,36,0.290,0.398,0.389,20,131,38,7,,51,2,27,19,7,4,,29,1,2,1,3,,1,
 2023,2022-23,MBA,813,Yale,1,I,Ivy League,7991407,16,Tate Evans,,,Fr,P,6-0,R/R,15000,2,0,,,,,,,,,0,,,,,,,,,,,,,,
+2023,2022-23,MBA,813,Yale,1,I,Ivy League,7991408,19,Ethan Lewis,,,Fr,P,6-1,R/R,15000,12,3,,,,,,,,,0,,,,,,,,,,,,,,

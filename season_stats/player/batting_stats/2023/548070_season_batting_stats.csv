@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,batting_GP,batting_GS,batting_AVG,batting_OBP,batting_SLG,batting_R,batting_AB,batting_H,batting_2B,batting_3B,batting_TB,batting_HR,batting_RBI,batting_BB,batting_HBP,batting_SF,batting_SH,batting_SO,OPP DP,batting_CS,batting_PK,batting_SB,batting_IBB,batting_GDP,RBI2out
-2023,2022-23,MBA,28755,FGCU,1,I,ASUN,8011346,29,Will Haberstock,,,Jr,P,6-3,R/R,15000,22,1,,,,,,,,,0,,,,,,,,,,,,,,
 2023,2022-23,MBA,28755,FGCU,1,I,ASUN,7824165,7,Alejandro Rodriguez,,,Sr,INF,5-11,R/R,15000,59,58,0.328,0.419,0.496,48,232,76,14,2,115,7,50,31,7,2,3,45,4,,1,2,,3,
 2023,2022-23,MBA,28755,FGCU,1,I,ASUN,7824166,5,Jalen Townsend,,,Sr,OF,5-9,L/L,15000,39,8,0.297,0.409,0.351,8,37,11,2,,13,,7,6,1,,1,6,,3,,7,,,
 2023,2022-23,MBA,28755,FGCU,1,I,ASUN,7824167,14,Connor O'Hara,,,Jr,C,6-2,R/R,15000,26,3,,,,,,,,,0,,,,,,,,,,,,,,
@@ -19,6 +18,8 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,28755,FGCU,1,I,ASUN,7824194,35,Dawson Place,,,Jr,P,6-3,R/R,15000,6,0,,,,,,,,,0,,,,,,,,,,,,,,
 2023,2022-23,MBA,28755,FGCU,1,I,ASUN,7824195,39,David Parker,,,So,C,5-10,R/R,15000,2,1,0.333,0.600,0.333,1,3,1,,,1,,,1,1,,,1,,,,,,,
 2023,2022-23,MBA,28755,FGCU,1,I,ASUN,7824197,40,Dylan Wolff,,,So,P,6-0,R/R,15000,1,0,,,,,,,,,0,,,,,,,,,,,,,,
+2023,2022-23,MBA,28755,FGCU,1,I,ASUN,8011345,2,Edrick Felix,,,So,INF,6-0,R/R,15000,60,60,0.366,0.449,0.774,68,243,89,22,1,188,25,83,31,12,8,,55,4,,,1,,3,
+2023,2022-23,MBA,28755,FGCU,1,I,ASUN,8011346,29,Will Haberstock,,,Jr,P,6-3,R/R,15000,22,1,,,,,,,,,0,,,,,,,,,,,,,,
 2023,2022-23,MBA,28755,FGCU,1,I,ASUN,8011348,6,Jake Mummau,,,So,INF,6-0,B/R,15000,44,40,0.271,0.371,0.347,25,144,39,6,1,50,1,24,14,9,,3,41,1,,,4,1,1,
 2023,2022-23,MBA,28755,FGCU,1,I,ASUN,8012226,27,Chase Kriebel,,,Fr,P,6-1,L/L,15000,23,9,,,,,,,,,0,,,,,,,,,,,,,,
 2023,2022-23,MBA,28755,FGCU,1,I,ASUN,8012227,44,LJ McDonough,,,Jr,P,-,,15000,20,2,,,,,,,,,0,,,,,,,,,,,,,,
@@ -26,6 +27,5 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,28755,FGCU,1,I,ASUN,8013949,28,Jackson Woodard,,,So,P,5-11,R/R,15000,10,2,,,,,,,,,0,,,,,,,,,,,,,,
 2023,2022-23,MBA,28755,FGCU,1,I,ASUN,8013950,17,Alejandro Valiente,,,So,P,6-0,R/R,15000,22,2,,,,,,,,,0,,,,,,,,,,,,,,
 2023,2022-23,MBA,28755,FGCU,1,I,ASUN,8015973,26,Justin Henschel,,,Fr,P,6-3,R/R,15000,15,12,,,,,,,,,0,,,,,,,,,,,,,,
-2023,2022-23,MBA,28755,FGCU,1,I,ASUN,8011345,2,Edrick Felix,,,So,INF,6-0,R/R,15000,60,60,0.366,0.449,0.774,68,243,89,22,1,188,25,83,31,12,8,,55,4,,,1,,3,
 2023,2022-23,MBA,28755,FGCU,1,I,ASUN,8019288,23,Armani Newton,,,Fr,1B,6-2,,15000,3,0,0.000,0.250,0.000,1,3,,,,0,,,,1,,,1,,,,,,,
 2023,2022-23,MBA,28755,FGCU,1,I,ASUN,8155797,33,Benji Rabinowitz,,,Fr,P,6-1,L/L,15000,5,0,,,,,,,,,0,,,,,,,,,,,,,,

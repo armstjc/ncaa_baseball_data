@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7997152,30,Kendall Anthes,,,Jr,P,6-1,R/R,15002,13,11,3,7,10,,1.000,,,7,1,,,1.000
 2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7832511,3,Ben Clark,,,Sr,OF,5-10,R/R,15002,33,16,46,2,48,,1.000,,,,,,,
 2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7832512,32,Jake Carroll,,,Jr,P,6-3,R/L,15002,15,0,,3,3,,1.000,,,3,,,,1.000
 2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7832513,5,Rhett Evans,,,Sr,INF,5-10,R/R,15002,60,60,99,135,243,9,0.963,,,,,28,,
@@ -28,11 +27,12 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7832551,50,Grant LaMarche,,,So,P,6-6,R/R,15002,11,1,1,1,2,,1.000,,,1,,,,
 2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7832552,12,Mason Glennie,,,So,P,6-0,R/R,15002,2,0,,,0,,,,,,,,,
 2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7997046,1,Jacob Rybicki,,,Sr,OF,5-7,R/R,15002,61,61,128,6,135,1,0.993,,,,,2,,
-2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7997191,6,Josh Getz,,,Fr,INF,5-10,R/R,15002,17,11,6,12,22,4,0.818,,,,,1,,
 2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7997063,2,David Jeffers,,,Sr,INF,6-1,R/R,15002,61,61,57,130,205,18,0.912,,,,,24,,
+2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7997135,57,Hunter McShane,,,Sr,P,6-2,R/R,15002,11,0,,,0,,,,,,1,,,
+2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7997152,30,Kendall Anthes,,,Jr,P,6-1,R/R,15002,13,11,3,7,10,,1.000,,,7,1,,,1.000
+2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7997188,35,Aaron Miller,,,So,P,6-0,L/R,15002,15,0,1,,2,1,0.500,,,3,,,,
+2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7997191,6,Josh Getz,,,Fr,INF,5-10,R/R,15002,17,11,6,12,22,4,0.818,,,,,1,,
+2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7997195,14,Scott Selleck,,,Jr,OF,6-0,L/L,15002,16,0,,,0,,,,,,,,,
 2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7997197,16,Matt DeFay,,,So,P,5-11,R/R,15002,10,8,2,2,5,1,0.800,,,5,,,,1.000
 2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7997209,23,Caden Duryea,,,Fr,UT,6-3,L/R,15002,32,25,26,,29,3,0.897,,,,,,,
 2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7997213,26,Tyler Sager,,,Fr,P,6-2,R/R,15002,9,4,,,0,,,,,3,,,,
-2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7997188,35,Aaron Miller,,,So,P,6-0,L/R,15002,15,0,1,,2,1,0.500,,,3,,,,
-2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7997195,14,Scott Selleck,,,Jr,OF,6-0,L/L,15002,16,0,,,0,,,,,,,,,
-2023,2022-23,MBA,510,Northwood,2,II,G-MAC,7997135,57,Hunter McShane,,,Sr,P,6-2,R/R,15002,11,0,,,0,,,,,,1,,,

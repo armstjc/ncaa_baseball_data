@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,418,Michigan,1,I,Big Ten,8004510,19,Brandon Mann,,,Fr,P,6-3,R/R,15002,13,1,2,3,5,,1.000,,,1,1,,,
 2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7828251,10,Cody Hultnik,,,So,UT,6-0,R/R,15002,10,0,,,0,,,,,,,,,
 2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7828253,20,Connor O'Halloran,,,Jr,P,6-2,R/L,15002,17,15,2,11,16,3,0.813,,,22,3,,,4.000
 2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7828254,24,Joey Velazquez,,,Sr,OF,6-0,L/L,15002,48,38,63,3,70,4,0.943,,,,,,,
@@ -20,18 +19,19 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7828273,8,John Torroella,,,Jr,P,6-4,R/R,15002,12,1,1,3,4,,1.000,,,2,,,,
 2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7828274,9,Dylan Stanton,,,Jr,INF,6-1,R/R,15002,36,7,9,14,23,,1.000,,,,,,,
 2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7828275,14,Avery Goldensoph,,,So,P,6-6,R/R,15002,1,0,,,0,,,,,1,,,,
-2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981945,18,Jordon Rogers,,,Sr,UT,5-9,R/R,15002,12,4,7,,7,,1.000,,,,,,,
-2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981943,48,Noah Rennard,,,Sr,P,6-3,R/R,15002,25,9,3,6,9,,1.000,,,3,2,1,,
 2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981731,25,Kurt Barr,,,Fr,P,6-2,R/R,15002,13,6,,3,3,,1.000,,,1,1,,,
 2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981735,50,Casey Buckley,,,Sr,C,6-1,L/R,15002,29,4,62,4,69,3,0.957,,4,7,3,,,1.000
-2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981784,30,Nate Voss,,,Fr,C,5-11,R/R,15002,9,3,20,1,22,1,0.955,,,2,,,,1.000
-2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981917,6,Greg Pace Jr.,,,Fr,OF,6-3,R/R,15002,49,22,64,1,65,,1.000,,,,,,,
-2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981830,55,Mitch Voit,,,Fr,INF,6-0,R/R,15002,54,51,28,84,122,10,0.918,,,1,,7,,
-2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981903,21,Jonathan Kim,,,Fr,OF,5-11,L/L,15002,44,39,102,2,106,2,0.981,,,,,,,
-2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981960,32,Eamon Horwedel,,,Sr,P,6-0,R/R,15002,16,0,,3,4,1,0.750,,,1,,,,1.000
 2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981744,35,Walker Cleveland,,,Sr,P,6-2,L/L,15002,12,1,2,2,4,,1.000,,,3,1,,,0.500
 2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981766,15,Gabe Sotres,,,Jr,C,5-10,R/R,15002,53,49,360,34,400,6,0.985,,5,48,8,1,,7.000
-2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981822,51,Jack Van Remortel,,,Sr,INF,6-2,R/R,15002,52,49,392,23,416,1,0.998,,,,,30,,
+2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981784,30,Nate Voss,,,Fr,C,5-11,R/R,15002,9,3,20,1,22,1,0.955,,,2,,,,1.000
 2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981797,28,Cam Hart,,,Sr,INF,6-4,R/R,15002,10,2,6,3,9,,1.000,,,,,2,,
 2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981809,12,Cody Jefferis,,,Sr,INF,5-8,L/R,15002,56,56,83,143,232,6,0.974,,,,,27,,
+2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981822,51,Jack Van Remortel,,,Sr,INF,6-2,R/R,15002,52,49,392,23,416,1,0.998,,,,,30,,
+2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981830,55,Mitch Voit,,,Fr,INF,6-0,R/R,15002,54,51,28,84,122,10,0.918,,,1,,7,,
+2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981903,21,Jonathan Kim,,,Fr,OF,5-11,L/L,15002,44,39,102,2,106,2,0.981,,,,,,,
+2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981917,6,Greg Pace Jr.,,,Fr,OF,6-3,R/R,15002,49,22,64,1,65,,1.000,,,,,,,
 2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981925,17,Robert Pitts Jr.,,,Fr,OF,5-10,B/R,15002,5,0,2,,2,,1.000,,,,,,,
+2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981943,48,Noah Rennard,,,Sr,P,6-3,R/R,15002,25,9,3,6,9,,1.000,,,3,2,1,,
+2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981945,18,Jordon Rogers,,,Sr,UT,5-9,R/R,15002,12,4,7,,7,,1.000,,,,,,,
+2023,2022-23,MBA,418,Michigan,1,I,Big Ten,7981960,32,Eamon Horwedel,,,Sr,P,6-0,R/R,15002,16,0,,3,4,1,0.750,,,1,,,,1.000
+2023,2022-23,MBA,418,Michigan,1,I,Big Ten,8004510,19,Brandon Mann,,,Fr,P,6-3,R/R,15002,13,1,2,3,5,,1.000,,,1,1,,,

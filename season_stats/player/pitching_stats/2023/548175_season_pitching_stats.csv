@@ -1,8 +1,5 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985383,4,Jonny Barditch,,,Sr,INF,5-7,R/R,15001,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985389,22,Blake Edmonds,,,Fr,OF,5-10,L/R,15001,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7827310,16,Christian Graham,,,Sr,P,-,,15001,8,8,8,5.65,43.0,1,38,29,27,19,51,,192,162,8,1,,8,4,7,,,,2,2,756,33,41,2,2,,18,
-2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985442,38,Hogan McIntosh,,,Sr,UT,6-4,R/R,15001,58,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7827313,10,Elias Flowers,,,Jr,OF,-,,15001,54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7827314,23,Blake Delamielleure,,,Jr,INF,6-1,R/R,15001,56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7827316,29,Jack Carver,,,Jr,P,6-0,L/L,15001,12,12,,6.57,12.1,,8,9,9,4,13,,53,44,2,,,1,,4,,7,2,,1,196,9,14,,,,4,
@@ -22,15 +19,18 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7827336,42,Bryce Fisher,,,Jr,P,-,,15001,13,13,2,6.83,27.2,,45,27,21,10,25,,146,125,15,,,4,,8,1,9,5,3,,514,32,22,2,2,,3,1
 2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7827337,40,Dolan Ramsey,,,So,P,-,,15001,1,1,,18.00,1.0,,1,2,2,1,1,,5,4,,,,1,,,,,,,,20,1,1,,,,,
 2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7827341,3,Clayton Hodges,,,So,OF,5-10,R/R,15001,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985469,21,Divine Valle,,,Fr,P,5-11,R/R,15001,14,14,,5.31,20.1,,19,15,12,10,14,,97,77,4,,,1,1,7,,14,8,1,2,361,27,18,2,,,5,
-2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985461,19,Chris Lotito,,,Jr,P,6-1,R/R,15001,25,25,,3.65,24.2,,19,11,10,13,37,,107,88,6,,,1,7,3,2,18,6,2,1,404,16,19,1,1,14,12,
 2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985364,34,Kris Armstrong,,,Sr,INF,-,,15001,58,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,8012253,20,Luke Blas,,,Fr,ph,5-6,R/R,15001,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985473,33,Isaac Williams,,,Fr,P,6-1,R/R,15001,3,3,,12.27,3.2,,9,6,5,3,3,,24,20,3,,,2,,1,,2,1,,,100,3,4,,,,,
 2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985368,18,Evan Chrest,,,Fr,P,6-0,R/R,15001,15,15,15,2.58,90.2,,83,32,26,36,98,,388,334,9,1,1,6,3,11,,,,5,1,"1,418",76,79,8,2,,25,2
-2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985465,24,Dakota Stone,,,Fr,P,5-11,R/L,15001,9,9,8,7.68,36.1,,30,31,31,35,47,,177,132,6,1,1,5,8,6,,,,3,1,705,25,31,3,3,,8,3
-2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985470,8,Colin Wetterau,,,Sr,C,6-1,L/R,15001,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985460,15,Chandler Howard,,,Fr,C,6-0,L/R,15001,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985474,13,Nick Wrubluski,,,Fr,C,-,,15001,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985383,4,Jonny Barditch,,,Sr,INF,5-7,R/R,15001,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985389,22,Blake Edmonds,,,Fr,OF,5-10,L/R,15001,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985439,5,Aidan Kelley,,,Fr,P,6-1,R/R,15001,8,8,2,5.25,12.0,,10,8,7,10,16,,58,48,2,,,1,2,,,2,1,,,238,13,7,,,,4,
+2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985442,38,Hogan McIntosh,,,Sr,UT,6-4,R/R,15001,58,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985443,6,Justin Nadeau,,,Fr,INF,6-0,L/R,15001,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985460,15,Chandler Howard,,,Fr,C,6-0,L/R,15001,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985461,19,Chris Lotito,,,Jr,P,6-1,R/R,15001,25,25,,3.65,24.2,,19,11,10,13,37,,107,88,6,,,1,7,3,2,18,6,2,1,404,16,19,1,1,14,12,
+2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985465,24,Dakota Stone,,,Fr,P,5-11,R/L,15001,9,9,8,7.68,36.1,,30,31,31,35,47,,177,132,6,1,1,5,8,6,,,,3,1,705,25,31,3,3,,8,3
+2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985469,21,Divine Valle,,,Fr,P,5-11,R/R,15001,14,14,,5.31,20.1,,19,15,12,10,14,,97,77,4,,,1,1,7,,14,8,1,2,361,27,18,2,,,5,
+2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985470,8,Colin Wetterau,,,Sr,C,6-1,L/R,15001,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985473,33,Isaac Williams,,,Fr,P,6-1,R/R,15001,3,3,,12.27,3.2,,9,6,5,3,3,,24,20,3,,,2,,1,,2,1,,,100,3,4,,,,,
+2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,7985474,13,Nick Wrubluski,,,Fr,C,-,,15001,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,316,Jacksonville,1,I,ASUN,8012253,20,Luke Blas,,,Fr,ph,5-6,R/R,15001,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

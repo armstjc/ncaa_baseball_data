@@ -1,7 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,363,Longwood,1,I,Big South,8004722,9,Ryan Miller,,,Sr,P,6-2,R/R,15001,13,13,13,4.08,68.1,1,73,33,31,27,55,,295,260,14,,2,2,4,,,,,3,5,"1,083",59,77,4,6,,10,1
-2023,2022-23,MBA,363,Longwood,1,I,Big South,8004723,13,Quincy Sippio,,,Jr,OF,6-1,R/R,15001,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,363,Longwood,1,I,Big South,8004724,22,Ethan Barnes,,,Fr,OF,6-0,R/R,15001,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,363,Longwood,1,I,Big South,7827645,1,Michael Tolson,,,Jr,P,6-2,R/R,15001,5,5,,13.50,5.1,,7,9,8,9,6,,32,22,2,,,2,2,,,4,2,,1,114,4,5,,,,2,
 2023,2022-23,MBA,363,Longwood,1,I,Big South,7827646,34,Sean Gibbons,,,Jr,P,6-3,L/L,15001,19,19,1,6.48,16.2,,21,14,12,19,16,,92,70,3,,,2,2,3,,14,6,,,362,13,19,,,,3,1
 2023,2022-23,MBA,363,Longwood,1,I,Big South,7827647,21,Keondre Shelton,,,Jr,UT,5-10,R/R,15001,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -24,14 +21,17 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,363,Longwood,1,I,Big South,7827672,24,Gregory Ryan Jr.,,,Sr,INF,6-1,R/R,15001,54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,363,Longwood,1,I,Big South,7827673,8,Dylan Wilkinson,,,Jr,INF,5-11,L/R,15001,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,363,Longwood,1,I,Big South,7827676,12,Jim White,,,Jr,INF,6-0,R/R,15001,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,363,Longwood,1,I,Big South,8004815,43,Wyatt Bunch,,,Fr,P,6-4,R/R,15001,10,10,1,8.80,15.1,,24,16,15,4,9,,76,69,6,,,4,6,2,,2,1,,1,217,17,19,1,1,,1,
+2023,2022-23,MBA,363,Longwood,1,I,Big South,8004722,9,Ryan Miller,,,Sr,P,6-2,R/R,15001,13,13,13,4.08,68.1,1,73,33,31,27,55,,295,260,14,,2,2,4,,,,,3,5,"1,083",59,77,4,6,,10,1
+2023,2022-23,MBA,363,Longwood,1,I,Big South,8004723,13,Quincy Sippio,,,Jr,OF,6-1,R/R,15001,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,363,Longwood,1,I,Big South,8004724,22,Ethan Barnes,,,Fr,OF,6-0,R/R,15001,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,363,Longwood,1,I,Big South,8004755,3,Devin Colon,,,Fr,INF,6-1,L/R,15001,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,363,Longwood,1,I,Big South,8004760,11,Brenton Fisher,,,Jr,P,6-3,R/R,15001,10,10,,9.90,10.0,,17,17,11,10,6,,56,45,2,,,1,,,,10,7,,1,202,9,11,2,3,,3,
+2023,2022-23,MBA,363,Longwood,1,I,Big South,8004762,15,Tanner Thomas,,,Fr,UT,5-10,R/R,15001,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,363,Longwood,1,I,Big South,8004790,31,"Guillermo Garcia, Jr.",,,Jr,P,6-1,R/R,15001,16,16,3,3.79,40.1,,32,20,17,17,42,,173,152,12,1,,3,8,2,,13,7,,2,642,21,57,1,2,3,10,
 2023,2022-23,MBA,363,Longwood,1,I,Big South,8004792,32,Loy Hickmon,,,Jr,P,5-9,R/R,15001,12,12,,8.31,17.1,,23,20,16,19,9,,106,69,9,,,1,3,12,1,7,3,2,4,309,20,21,,,,4,
+2023,2022-23,MBA,363,Longwood,1,I,Big South,8004803,35,Luis DeLeon,,,Sr,OF,5-11,R/R,15001,46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,363,Longwood,1,I,Big South,8004807,36,Collin Hughes,,,Fr,C,5-11,L/R,15001,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,363,Longwood,1,I,Big South,8004810,39,Ried Dittner,,,Jr,P,6-4,R/R,15001,19,19,,7.71,21.0,,27,18,18,12,25,,101,84,4,,,2,4,4,,18,6,,1,347,10,23,1,,1,9,
 2023,2022-23,MBA,363,Longwood,1,I,Big South,8004812,46,Ethan Walker,,,Fr,P,6-2,L/L,15001,17,17,9,4.01,42.2,,37,21,19,23,40,,188,159,5,1,1,3,6,5,,8,3,1,,770,30,50,3,,,12,2
-2023,2022-23,MBA,363,Longwood,1,I,Big South,8004790,31,"Guillermo Garcia, Jr.",,,Jr,P,6-1,R/R,15001,16,16,3,3.79,40.1,,32,20,17,17,42,,173,152,12,1,,3,8,2,,13,7,,2,642,21,57,1,2,3,10,
-2023,2022-23,MBA,363,Longwood,1,I,Big South,8004803,35,Luis DeLeon,,,Sr,OF,5-11,R/R,15001,46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,363,Longwood,1,I,Big South,8004762,15,Tanner Thomas,,,Fr,UT,5-10,R/R,15001,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,363,Longwood,1,I,Big South,8004755,3,Devin Colon,,,Fr,INF,6-1,L/R,15001,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,363,Longwood,1,I,Big South,8004760,11,Brenton Fisher,,,Jr,P,6-3,R/R,15001,10,10,,9.90,10.0,,17,17,11,10,6,,56,45,2,,,1,,,,10,7,,1,202,9,11,2,3,,3,
+2023,2022-23,MBA,363,Longwood,1,I,Big South,8004815,43,Wyatt Bunch,,,Fr,P,6-4,R/R,15001,10,10,1,8.80,15.1,,24,16,15,4,9,,76,69,6,,,4,6,2,,2,1,,1,217,17,19,1,1,,1,
 2023,2022-23,MBA,363,Longwood,1,I,Big South,8004817,40,Dallas Hairfield,,,Fr,P,5-9,R/R,15001,7,7,,9.28,10.2,,20,12,11,3,10,,58,51,4,,,2,,4,,5,5,,,208,7,14,,,,5,

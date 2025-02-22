@@ -1,13 +1,10 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
 2023,2022-23,MBA,8,Alabama,1,I,SEC,7824380,1,Will Hodo,,,So,INF,6-3,L/R,15002,39,24,9,,9,,1.000,,,,,3,,
-2023,2022-23,MBA,8,Alabama,1,I,SEC,7992541,28,Ryan Guardino,,,Sr,OF,6-4,R/R,15002,11,1,2,,2,,1.000,,,,,,,
-2023,2022-23,MBA,8,Alabama,1,I,SEC,7992544,5,Ed Johnson,,,Sr,INF,6-1,R/R,15002,60,56,68,108,183,7,0.962,,,,,22,,
 2023,2022-23,MBA,8,Alabama,1,I,SEC,7824386,31,Will Portera,,,So,C,5-10,B/R,15002,28,1,7,7,14,,1.000,,,,,3,,
 2023,2022-23,MBA,8,Alabama,1,I,SEC,7824387,13,Bryce Eblin,,,Jr,INF,5-11,L/R,15002,40,22,18,50,69,1,0.986,,,,,7,,
 2023,2022-23,MBA,8,Alabama,1,I,SEC,7824388,7,Caden Rose,,,Jr,OF,5-10,R/R,15002,48,46,105,,105,,1.000,,,,,,,
 2023,2022-23,MBA,8,Alabama,1,I,SEC,7824389,21,Andrew Pinckney,,,Jr,OF,6-3,R/R,15002,64,64,124,6,133,3,0.977,,,,,2,,
 2023,2022-23,MBA,8,Alabama,1,I,SEC,7824390,26,Grayson Hitt,,,Jr,P,6-3,R/L,15002,8,8,1,4,5,,1.000,,,4,1,,,
-2023,2022-23,MBA,8,Alabama,1,I,SEC,7992553,18,Drew Williamson,,,Sr,INF,6-4,L/R,15002,64,64,457,21,482,4,0.992,,,,,48,,
 2023,2022-23,MBA,8,Alabama,1,I,SEC,7824392,11,William Hamiter,,,Sr,OF,5-11,L/R,15002,35,21,31,2,33,,1.000,,,,,,,
 2023,2022-23,MBA,8,Alabama,1,I,SEC,7824393,10,Jim Jarvis,,,Sr,INF,5-10,L/R,15002,64,64,102,156,265,7,0.974,,,,,39,,
 2023,2022-23,MBA,8,Alabama,1,I,SEC,7824397,35,Luke Holman,,,So,P,6-4,R/R,15002,16,15,5,6,16,5,0.688,,,2,2,1,,
@@ -22,17 +19,20 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,8,Alabama,1,I,SEC,7824409,27,Ben Hess,,,So,P,6-5,R/R,15002,7,7,,3,5,2,0.600,,,1,,,,
 2023,2022-23,MBA,8,Alabama,1,I,SEC,7824412,3,Dominic Tamez,,,Sr,C,5-10,R/R,15002,49,48,183,15,199,1,0.995,,2,15,3,,,2.000
 2023,2022-23,MBA,8,Alabama,1,I,SEC,7824413,12,Hunter Furtado,,,Jr,P,6-4,R/L,15002,17,2,2,3,6,1,0.833,,,5,1,,,1.000
-2023,2022-23,MBA,8,Alabama,1,I,SEC,7992567,25,Max Williams,,,Fr,OF,6-2,L/L,15002,18,3,10,,10,,1.000,,,,,,,
-2023,2022-23,MBA,8,Alabama,1,I,SEC,7992530,9,Mac Guscette,,,Jr,C,6-0,R/R,15002,48,43,365,35,402,2,0.995,,5,41,10,4,,5.833
-2023,2022-23,MBA,8,Alabama,1,I,SEC,7992562,20,Tommy Seidl,,,Sr,OF,6-1,R/R,15002,60,55,110,3,113,,1.000,,,,,,,
-2023,2022-23,MBA,8,Alabama,1,I,SEC,7992566,37,Jaxson West,,,Fr,C,6-0,L/R,15002,20,4,28,1,29,,1.000,,,,,,,
-2023,2022-23,MBA,8,Alabama,1,I,SEC,7992532,88,Hunter Hoopes,,,Sr,P,6-1,R/R,15002,9,0,1,,1,,1.000,,,,,1,,
-2023,2022-23,MBA,8,Alabama,1,I,SEC,7992557,23,Aidan Moza,,,So,P,6-1,L/R,15002,14,0,2,2,5,1,0.800,,,3,2,1,,1.333
 2023,2022-23,MBA,8,Alabama,1,I,SEC,7992528,42,Alton Davis II,,,Fr,P,6-5,L/L,15002,25,0,,3,3,,1.000,,,3,1,1,,3.000
-2023,2022-23,MBA,8,Alabama,1,I,SEC,7992560,4,Riley Quick,,,Fr,P,6-6,R/R,15002,16,0,1,4,5,,1.000,,,7,,,,1.000
-2023,2022-23,MBA,8,Alabama,1,I,SEC,7992561,33,Jackson Reynolds,,,Sr,P,6-5,R/R,15002,3,2,,,0,,,,,6,,,,
-2023,2022-23,MBA,8,Alabama,1,I,SEC,7992563,16,Colby Shelton,,,Fr,INF,6-0,L/R,15002,59,59,24,54,88,10,0.886,,,,,5,,
-2023,2022-23,MBA,8,Alabama,1,I,SEC,7992559,19,Zane Probst,,,Jr,P,6-4,R/R,15002,19,0,,3,3,,1.000,,,5,2,,,2.000
+2023,2022-23,MBA,8,Alabama,1,I,SEC,7992530,9,Mac Guscette,,,Jr,C,6-0,R/R,15002,48,43,365,35,402,2,0.995,,5,41,10,4,,5.833
+2023,2022-23,MBA,8,Alabama,1,I,SEC,7992532,88,Hunter Hoopes,,,Sr,P,6-1,R/R,15002,9,0,1,,1,,1.000,,,,,1,,
 2023,2022-23,MBA,8,Alabama,1,I,SEC,7992535,34,Jacob McNairy,,,Sr,P,6-2,R/R,15002,17,17,4,7,11,,1.000,,,13,3,3,,2.500
 2023,2022-23,MBA,8,Alabama,1,I,SEC,7992538,24,Brock Blatter,,,Fr,P,6-6,R/R,15002,6,0,,,0,,,,,2,,,,
+2023,2022-23,MBA,8,Alabama,1,I,SEC,7992541,28,Ryan Guardino,,,Sr,OF,6-4,R/R,15002,11,1,2,,2,,1.000,,,,,,,
+2023,2022-23,MBA,8,Alabama,1,I,SEC,7992544,5,Ed Johnson,,,Sr,INF,6-1,R/R,15002,60,56,68,108,183,7,0.962,,,,,22,,
 2023,2022-23,MBA,8,Alabama,1,I,SEC,7992550,2,Mason Swinney,,,Fr,INF,6-2,R/R,15002,12,0,2,8,11,1,0.909,,,,,1,,
+2023,2022-23,MBA,8,Alabama,1,I,SEC,7992553,18,Drew Williamson,,,Sr,INF,6-4,L/R,15002,64,64,457,21,482,4,0.992,,,,,48,,
+2023,2022-23,MBA,8,Alabama,1,I,SEC,7992557,23,Aidan Moza,,,So,P,6-1,L/R,15002,14,0,2,2,5,1,0.800,,,3,2,1,,1.333
+2023,2022-23,MBA,8,Alabama,1,I,SEC,7992559,19,Zane Probst,,,Jr,P,6-4,R/R,15002,19,0,,3,3,,1.000,,,5,2,,,2.000
+2023,2022-23,MBA,8,Alabama,1,I,SEC,7992560,4,Riley Quick,,,Fr,P,6-6,R/R,15002,16,0,1,4,5,,1.000,,,7,,,,1.000
+2023,2022-23,MBA,8,Alabama,1,I,SEC,7992561,33,Jackson Reynolds,,,Sr,P,6-5,R/R,15002,3,2,,,0,,,,,6,,,,
+2023,2022-23,MBA,8,Alabama,1,I,SEC,7992562,20,Tommy Seidl,,,Sr,OF,6-1,R/R,15002,60,55,110,3,113,,1.000,,,,,,,
+2023,2022-23,MBA,8,Alabama,1,I,SEC,7992563,16,Colby Shelton,,,Fr,INF,6-0,L/R,15002,59,59,24,54,88,10,0.886,,,,,5,,
+2023,2022-23,MBA,8,Alabama,1,I,SEC,7992566,37,Jaxson West,,,Fr,C,6-0,L/R,15002,20,4,28,1,29,,1.000,,,,,,,
+2023,2022-23,MBA,8,Alabama,1,I,SEC,7992567,25,Max Williams,,,Fr,OF,6-2,L/L,15002,18,3,10,,10,,1.000,,,,,,,

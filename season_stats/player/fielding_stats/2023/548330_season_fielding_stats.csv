@@ -1,6 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,1318,Post,2,II,CACC,8000021,25,Robert Olah,,,Sr,UT,6-2,L/R,15002,45,45,164,4,172,4,0.977,,,,,14,,
-2023,2022-23,MBA,1318,Post,2,II,CACC,8000034,9,Matt Soloman,,,So,INF,5-8,R/R,15002,38,34,68,56,131,7,0.947,,,,,10,,
 2023,2022-23,MBA,1318,Post,2,II,CACC,7806248,57,Bryon Carr,,,Jr,C,5-10,R/R,15002,1,0,,,0,,,,,,,,,
 2023,2022-23,MBA,1318,Post,2,II,CACC,7806251,19,Noah Connor,,,Jr,P,5-10,R/R,15002,5,0,,,0,,,,,,,,,
 2023,2022-23,MBA,1318,Post,2,II,CACC,7806258,8,Harry Allegra,,,Jr,C,6-0,B/R,15002,9,2,25,2,27,,1.000,,8,6,1,,,
@@ -21,18 +19,20 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,1318,Post,2,II,CACC,7806280,7,Hunter Keller,,,So,SS,5-10,R/R,15002,47,46,46,87,140,7,0.950,,,,,7,,
 2023,2022-23,MBA,1318,Post,2,II,CACC,7806282,1,Travvis Ferguson,,,Sr,P,6-0,B/R,15002,1,0,,,0,,,,,,,,,
 2023,2022-23,MBA,1318,Post,2,II,CACC,7806288,23,Michael Pavelchak,,,Jr,OF,6-0,L/L,15002,51,51,117,4,125,4,0.968,,,,1,,,
+2023,2022-23,MBA,1318,Post,2,II,CACC,7999984,11,Brennan Holligan,,,So,P,6-5,R/R,15002,18,2,2,4,7,1,0.857,,,10,2,,,
 2023,2022-23,MBA,1318,Post,2,II,CACC,7999989,14,Vincent Borghese,,,Fr,P,6-0,R/R,15002,12,4,1,3,6,2,0.667,,,2,1,,,1.000
-2023,2022-23,MBA,1318,Post,2,II,CACC,8000044,49,Chris Picarella,,,Fr,INF,5-7,R/R,15002,5,0,,,0,,,,,,,,,
-2023,2022-23,MBA,1318,Post,2,II,CACC,8000047,50,Ruben Baez,,,Fr,INF,5-5,R/R,15002,1,0,,1,1,,1.000,,,,,,,
-2023,2022-23,MBA,1318,Post,2,II,CACC,8003692,33,DJ Caron,,,Sr,UT,5-9,R/R,15002,52,52,81,6,88,1,0.989,,,,,,,
-2023,2022-23,MBA,1318,Post,2,II,CACC,8000099,17,Damaurys Rodriguez,,,Jr,C,5-9,B/R,15002,5,4,28,4,34,2,0.941,,1,1,1,,,
-2023,2022-23,MBA,1318,Post,2,II,CACC,8000057,68,Derek Duval,,,Fr,P,6-0,R/R,15002,13,5,,9,10,1,0.900,,,4,2,,,0.500
+2023,2022-23,MBA,1318,Post,2,II,CACC,7999994,18,Marshall Thurman,,,Fr,P,6-3,R/R,15002,10,0,,,0,,,,,2,2,,,
 2023,2022-23,MBA,1318,Post,2,II,CACC,7999997,2,Danny Gill,,,Jr,OF,6-2,R/R,15002,44,43,84,2,88,2,0.977,,,,,,,
 2023,2022-23,MBA,1318,Post,2,II,CACC,7999998,12,Manny Contreras,,,Fr,1B,5-11,R/R,15002,13,6,28,4,35,3,0.914,,7,9,3,,,
 2023,2022-23,MBA,1318,Post,2,II,CACC,7999999,13,Joseph Stasik IV,,,Fr,OF,5-10,R/R,15002,3,0,,,0,,,,,,,,,
 2023,2022-23,MBA,1318,Post,2,II,CACC,8000002,32,Kaige Garrity,,,Fr,OF,5-11,R/R,15002,3,0,,,0,,,,,,,,,
-2023,2022-23,MBA,1318,Post,2,II,CACC,7999994,18,Marshall Thurman,,,Fr,P,6-3,R/R,15002,10,0,,,0,,,,,2,2,,,
+2023,2022-23,MBA,1318,Post,2,II,CACC,8000021,25,Robert Olah,,,Sr,UT,6-2,L/R,15002,45,45,164,4,172,4,0.977,,,,,14,,
 2023,2022-23,MBA,1318,Post,2,II,CACC,8000033,38,Justin Portes,,,So,P,6-2,R/R,15002,10,10,4,13,18,1,0.944,,,4,5,1,,1.000
+2023,2022-23,MBA,1318,Post,2,II,CACC,8000034,9,Matt Soloman,,,So,INF,5-8,R/R,15002,38,34,68,56,131,7,0.947,,,,,10,,
 2023,2022-23,MBA,1318,Post,2,II,CACC,8000039,47,Nathaniel Byrd,,,Sr,P,6-4,R/R,15002,14,0,,4,6,2,0.667,,,5,1,,,1.000
-2023,2022-23,MBA,1318,Post,2,II,CACC,7999984,11,Brennan Holligan,,,So,P,6-5,R/R,15002,18,2,2,4,7,1,0.857,,,10,2,,,
+2023,2022-23,MBA,1318,Post,2,II,CACC,8000044,49,Chris Picarella,,,Fr,INF,5-7,R/R,15002,5,0,,,0,,,,,,,,,
+2023,2022-23,MBA,1318,Post,2,II,CACC,8000047,50,Ruben Baez,,,Fr,INF,5-5,R/R,15002,1,0,,1,1,,1.000,,,,,,,
+2023,2022-23,MBA,1318,Post,2,II,CACC,8000057,68,Derek Duval,,,Fr,P,6-0,R/R,15002,13,5,,9,10,1,0.900,,,4,2,,,0.500
+2023,2022-23,MBA,1318,Post,2,II,CACC,8000099,17,Damaurys Rodriguez,,,Jr,C,5-9,B/R,15002,5,4,28,4,34,2,0.941,,1,1,1,,,
+2023,2022-23,MBA,1318,Post,2,II,CACC,8003692,33,DJ Caron,,,Sr,UT,5-9,R/R,15002,52,52,81,6,88,1,0.989,,,,,,,
 2023,2022-23,MBA,1318,Post,2,II,CACC,8003699,36,Nick Gomes,,,Fr,P,6-0,L/L,15002,5,0,,,0,,,,,,,,,

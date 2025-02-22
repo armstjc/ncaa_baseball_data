@@ -1,17 +1,17 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8454886,41,Charlie Rambo,,,Fr,P,-,,15081,,13,8,5.63,48.0,1,57,35,30,30,39,,230,183,9,,,4,3,11,,4,1,5,1,607,48,41,2,3,,14,1
+2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8266008,42,Aiden Flood,,,So,p,-,,15081,,9,,14.04,8.1,,12,13,13,8,5,,48,33,2,,,4,3,5,,2,1,1,1,119,5,13,1,,,1,
+2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8266287,26,Levi Ebersoldt,,,Sr,P,-,,15081,,15,7,4.45,58.2,1,66,35,29,16,41,,266,238,16,,,10,6,8,,2,1,4,,823,47,81,4,2,,12,
+2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8267880,46,Cameron Naber,,,So,p,-,,15081,,4,,10.13,5.1,,7,8,6,2,5,,28,24,2,,,2,,2,,2,1,,,37,3,8,,,,1,
+2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8273538,21,Ryan Hunt,,,Jr,P,-,,15081,,17,,9.00,23.0,,34,25,23,17,23,,121,99,8,,1,4,3,4,,10,5,1,,277,21,21,1,1,,3,
+2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8274408,47,Stephen Keech,,,So,p,-,,15081,,1,,27.00,0.1,,1,1,1,1,,,5,2,,,,,,2,,,,,,22,,1,,,,,
+2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8276937,17,Chandler Ashby,,,Jr,p,-,,15081,,13,12,9.15,61.0,,101,64,62,26,57,,320,271,22,2,,8,6,18,,,,3,2,541,63,50,3,6,,19,
+2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8279553,31,Ryan Foley,,,Sr,p,-,,15081,,9,1,5.16,22.2,,28,14,13,6,21,,104,95,5,,,3,,2,,8,,,1,273,19,26,1,,,5,
+2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8279627,37,Steven Kleyheeg,,,Jr,p,-,,15081,,2,1,43.20,1.2,,7,8,8,2,3,,14,12,1,1,,2,1,,,1,,,,,2,,,,,2,
+2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8282984,28,Cam Lawson,,,Jr,OF,-,,15081,,6,,5.68,6.1,,7,6,4,6,8,,34,25,3,,,,2,2,,5,2,,1,104,7,3,,1,,3,
 2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8454836,9,Brogan McDougall,,,Sr,P,-,,15081,,21,,4.78,32.0,,29,17,17,14,39,,148,120,5,,,3,3,12,2,16,10,2,,346,30,24,2,1,5,10,
 2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8454844,15,Kyle Fitzgerald,,,Sr,P,-,,15081,,9,8,7.52,40.2,1,65,38,34,16,26,,204,176,15,,,13,6,5,,2,,3,4,386,46,42,5,1,,8,2
 2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8454851,22,Jacob  Sullivan,,,Jr,P,-,,15081,,12,5,10.41,27.2,,48,36,32,19,23,,155,127,8,,,7,6,8,,,,1,,291,28,27,4,2,1,6,
 2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8454854,23,Breven Yarbro,,,Sr,P,-,,15081,,12,12,6.41,59.0,2,72,56,42,44,68,,301,236,14,2,3,7,9,16,,,,5,,867,60,34,8,2,,14,4
-2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8266008,42,Aiden Flood,,,So,p,-,,15081,,9,,14.04,8.1,,12,13,13,8,5,,48,33,2,,,4,3,5,,2,1,1,1,119,5,13,1,,,1,
-2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8276937,17,Chandler Ashby,,,Jr,p,-,,15081,,13,12,9.15,61.0,,101,64,62,26,57,,320,271,22,2,,8,6,18,,,,3,2,541,63,50,3,6,,19,
-2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8266287,26,Levi Ebersoldt,,,Sr,P,-,,15081,,15,7,4.45,58.2,1,66,35,29,16,41,,266,238,16,,,10,6,8,,2,1,4,,823,47,81,4,2,,12,
-2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8274408,47,Stephen Keech,,,So,p,-,,15081,,1,,27.00,0.1,,1,1,1,1,,,5,2,,,,,,2,,,,,,22,,1,,,,,
-2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8273538,21,Ryan Hunt,,,Jr,P,-,,15081,,17,,9.00,23.0,,34,25,23,17,23,,121,99,8,,1,4,3,4,,10,5,1,,277,21,21,1,1,,3,
-2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8267880,46,Cameron Naber,,,So,p,-,,15081,,4,,10.13,5.1,,7,8,6,2,5,,28,24,2,,,2,,2,,2,1,,,37,3,8,,,,1,
-2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8282984,28,Cam Lawson,,,Jr,OF,-,,15081,,6,,5.68,6.1,,7,6,4,6,8,,34,25,3,,,,2,2,,5,2,,1,104,7,3,,1,,3,
-2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8279553,31,Ryan Foley,,,Sr,p,-,,15081,,9,1,5.16,22.2,,28,14,13,6,21,,104,95,5,,,3,,2,,8,,,1,273,19,26,1,,,5,
-2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8279627,37,Steven Kleyheeg,,,Jr,p,-,,15081,,2,1,43.20,1.2,,7,8,8,2,3,,14,12,1,1,,2,1,,,1,,,,,2,,,,,2,
 2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8454883,39,Nick Fitzanko,,,So,P,6-1,R/R,15081,,16,,8.44,16.0,,18,16,15,15,15,,86,64,3,,,1,4,4,,3,2,2,1,133,19,13,1,1,,5,
+2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8454886,41,Charlie Rambo,,,Fr,P,-,,15081,,13,8,5.63,48.0,1,57,35,30,30,39,,230,183,9,,,4,3,11,,4,1,5,1,607,48,41,2,3,,14,1
 2024,2023-24,MBA,30120,William Jewell,2,II,GLVC,8454889,20,Brody Grawe,,,Jr,P,-,,15081,,12,,12.74,17.2,,35,28,25,9,7,,103,84,5,1,,4,3,6,,13,7,2,2,134,17,23,,2,,1,

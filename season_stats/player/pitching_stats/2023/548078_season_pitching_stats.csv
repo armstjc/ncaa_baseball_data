@@ -1,8 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,9,UAB,1,I,CUSA,8006964,10,Blayze Berry,,,Jr,P,5-9,R/R,15001,35,14,14,4.52,81.2,1,84,45,41,22,63,,350,318,12,2,,13,1,7,2,,,,3,842,69,99,2,3,,15,1
-2023,2022-23,MBA,9,UAB,1,I,CUSA,8006965,15,John Luke Marlin,,,Jr,P,5-10,R/R,15001,18,18,,4.13,24.0,,23,13,11,10,22,,110,88,3,1,,2,1,7,1,24,6,2,3,185,24,21,,3,3,7,
-2023,2022-23,MBA,9,UAB,1,I,CUSA,8007003,30,Chase Ingram,,,Fr,INF,6-3,R/R,15001,7,3,,11.57,2.1,,5,3,3,2,1,,14,12,1,,,,,,,1,1,,,35,3,3,,,,1,
-2023,2022-23,MBA,9,UAB,1,I,CUSA,8007005,35,Brayton Brown,,,Sr,OF,5-9,R/R,15001,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,9,UAB,1,I,CUSA,7824416,14,Thomas Ballard,,,So,P,6-2,R/R,15001,17,17,,5.40,16.2,,17,11,10,9,13,,75,62,2,1,,1,3,1,,11,1,1,2,223,15,20,1,1,,8,
 2023,2022-23,MBA,9,UAB,1,I,CUSA,7824418,16,Gavin Lewis Jr.,,,So,INF,6-0,R/R,15001,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,9,UAB,1,I,CUSA,7824421,6,Peyton Puckett,,,Jr,INF,5-11,R/R,15001,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -25,11 +21,15 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,9,UAB,1,I,CUSA,7824445,33,Brooks Walton,,,Sr,P,6-4,-/R,15001,14,14,13,5.61,77.0,1,98,51,48,17,60,,347,313,19,4,,11,1,8,,,,8,1,728,70,90,3,7,,17,1
 2023,2022-23,MBA,9,UAB,1,I,CUSA,7824446,34,Carson Myers,,,So,P,6-2,-/L,15001,14,14,13,3.52,71.2,,60,30,28,34,70,,310,260,11,1,,2,3,8,1,,,7,1,741,64,70,3,5,,27,2
 2023,2022-23,MBA,9,UAB,1,I,CUSA,8006962,0,Isaac Warrick,,,Fr,P,6-0,L/L,15001,4,4,,40.50,1.1,,3,8,6,3,,,12,5,1,,,,,2,,1,,1,1,63,1,2,,,,,
+2023,2022-23,MBA,9,UAB,1,I,CUSA,8006964,10,Blayze Berry,,,Jr,P,5-9,R/R,15001,35,14,14,4.52,81.2,1,84,45,41,22,63,,350,318,12,2,,13,1,7,2,,,,3,842,69,99,2,3,,15,1
+2023,2022-23,MBA,9,UAB,1,I,CUSA,8006965,15,John Luke Marlin,,,Jr,P,5-10,R/R,15001,18,18,,4.13,24.0,,23,13,11,10,22,,110,88,3,1,,2,1,7,1,24,6,2,3,185,24,21,,3,3,7,
 2023,2022-23,MBA,9,UAB,1,I,CUSA,8006974,28,Nick Hollifield,,,Fr,C,5-10,R/R,15001,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,9,UAB,1,I,CUSA,8007003,30,Chase Ingram,,,Fr,INF,6-3,R/R,15001,7,3,,11.57,2.1,,5,3,3,2,1,,14,12,1,,,,,,,1,1,,,35,3,3,,,,1,
+2023,2022-23,MBA,9,UAB,1,I,CUSA,8007005,35,Brayton Brown,,,Sr,OF,5-9,R/R,15001,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,9,UAB,1,I,CUSA,8007006,38,Christian Clack,,,Jr,P,6-4,L/L,15001,22,22,,6.75,18.2,,15,15,14,19,24,,93,67,1,1,,2,2,6,,26,10,1,,212,20,8,2,2,,15,
-2023,2022-23,MBA,9,UAB,1,I,CUSA,8007026,42,Ben Abernathy,,,Jr,UT,5-9,R/R,15001,43,8,1,12.00,12.0,,22,17,16,4,10,,67,57,3,,,3,,4,1,5,4,1,1,98,13,13,,3,1,4,
 2023,2022-23,MBA,9,UAB,1,I,CUSA,8007022,44,Isaiah Mack,,,Fr,OF,6-4,R/R,15001,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,9,UAB,1,I,CUSA,8007023,45,Colin  Daniel,,,Fr,P,6-1,R/R,15001,11,11,,9.26,11.2,,16,12,12,9,13,,60,48,1,3,,2,1,3,,9,6,,,120,12,7,1,1,,3,
 2023,2022-23,MBA,9,UAB,1,I,CUSA,8007025,50,Mayes White,,,So,INF,5-10,R/R,15001,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,9,UAB,1,I,CUSA,8007029,18,Braxton Shelton,,,Fr,P,6-1,R/R,15001,14,14,6,6.88,34.0,,41,28,26,13,27,,158,138,10,,,6,2,4,,2,1,1,2,294,23,47,1,2,,9,
+2023,2022-23,MBA,9,UAB,1,I,CUSA,8007026,42,Ben Abernathy,,,Jr,UT,5-9,R/R,15001,43,8,1,12.00,12.0,,22,17,16,4,10,,67,57,3,,,3,,4,1,5,4,1,1,98,13,13,,3,1,4,
 2023,2022-23,MBA,9,UAB,1,I,CUSA,8007028,22,Ty Hutto,,,Jr,P,6-4,R/R,15001,3,3,,14.73,3.2,,8,6,6,3,3,,22,17,1,,,2,1,,,1,1,1,1,77,2,6,,1,,1,
+2023,2022-23,MBA,9,UAB,1,I,CUSA,8007029,18,Braxton Shelton,,,Fr,P,6-1,R/R,15001,14,14,6,6.88,34.0,,41,28,26,13,27,,158,138,10,,,6,2,4,,2,1,1,2,294,23,47,1,2,,9,

@@ -1,6 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006421,51,Chris Killian,,,Fr,P,-,,15002,3,0,,1,1,,1.000,,,,,,,
-2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006423,58,Nick Galvan,,,Fr,P,6-3,R/R,15002,7,0,1,,4,3,0.250,,,2,,,,
 2023,2022-23,MBA,439,Monmouth,1,I,CAA,7828467,8,Phil Stahl,,,Sr,C,5-11,R/R,15002,45,45,88,2,92,2,0.978,,,1,,8,,
 2023,2022-23,MBA,439,Monmouth,1,I,CAA,7828469,22,Joey Ventresca,,,Sr,INF,5-10,L/R,15002,7,3,1,5,7,1,0.857,,,3,,,,
 2023,2022-23,MBA,439,Monmouth,1,I,CAA,7828470,14,Harry Padden,,,Sr,OF,5-8,R/R,15002,34,33,96,4,103,3,0.971,,,,,,,
@@ -23,15 +21,17 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,439,Monmouth,1,I,CAA,7828496,36,Dan Maglio,,,So,C,6-0,R/R,15002,2,0,,,0,,,,,,,,,
 2023,2022-23,MBA,439,Monmouth,1,I,CAA,7828497,43,Nick Tamburro,,,So,P,6-2,R/R,15002,4,0,,1,1,,1.000,,,1,,,,
 2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006396,12,Joey DeMucci,,,Fr,C,6-2,R/R,15002,19,9,90,10,100,,1.000,,,12,3,,,1.000
+2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006410,3,Skyler Saunders,,,Jr,OF,6-0,R/R,15002,25,3,6,,8,2,0.750,,,,,,,
 2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006411,5,Austin Denlinger,,,Sr,SS,5-10,R/R,15002,46,46,66,106,185,13,0.930,,,,,18,,
-2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006451,45,Jeremy Sisco,,,Sr,P,-,,15002,10,6,2,3,5,,1.000,,,7,,1,,
-2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006455,55,David Horvath,,,Fr,P,6-2,R/R,15002,10,3,,3,3,,1.000,,,5,,,,
+2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006414,10,Eric Sabato,,,Jr,OF,6-0,R/R,15002,44,44,87,,89,2,0.978,,,,,,,
 2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006415,11,Aidan Bretschneider,,,Fr,INF,6-3,R/R,15002,15,3,8,,8,,1.000,,,,,,,
+2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006416,16,Stephen Aldrich,,,Sr,P,-,,15002,17,0,4,1,5,,1.000,,,7,,,,2.000
+2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006421,51,Chris Killian,,,Fr,P,-,,15002,3,0,,1,1,,1.000,,,,,,,
+2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006423,58,Nick Galvan,,,Fr,P,6-3,R/R,15002,7,0,1,,4,3,0.250,,,2,,,,
 2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006438,25,Will Trochiano,,,Sr,INF,-,,15002,35,31,32,54,95,9,0.905,,,,,8,,
+2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006441,29,Mason Miller,,,Sr,P,-,,15002,17,0,1,4,5,,1.000,,,4,2,,,
+2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006442,34,Tommy Kent,,,Fr,P,6-2,L/L,15002,11,1,1,3,4,,1.000,,,3,2,,,
 2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006445,37,Matt Scrivanic,,,Fr,INF,6-0,R/R,15002,20,8,11,18,32,3,0.906,,,,,1,,
 2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006448,42,Drew Helmstetter,,,Sr,P,5-10,L/L,15002,14,10,,12,12,,1.000,,,2,3,,,
-2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006442,34,Tommy Kent,,,Fr,P,6-2,L/L,15002,11,1,1,3,4,,1.000,,,3,2,,,
-2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006414,10,Eric Sabato,,,Jr,OF,6-0,R/R,15002,44,44,87,,89,2,0.978,,,,,,,
-2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006416,16,Stephen Aldrich,,,Sr,P,-,,15002,17,0,4,1,5,,1.000,,,7,,,,2.000
-2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006441,29,Mason Miller,,,Sr,P,-,,15002,17,0,1,4,5,,1.000,,,4,2,,,
-2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006410,3,Skyler Saunders,,,Jr,OF,6-0,R/R,15002,25,3,6,,8,2,0.750,,,,,,,
+2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006451,45,Jeremy Sisco,,,Sr,P,-,,15002,10,6,2,3,5,,1.000,,,7,,1,,
+2023,2022-23,MBA,439,Monmouth,1,I,CAA,8006455,55,David Horvath,,,Fr,P,6-2,R/R,15002,10,3,,3,3,,1.000,,,5,,,,

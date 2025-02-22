@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997806,43,Whit Rucker,,,Fr,OF,5-11,L/R,15002,1,0,,,0,,,,,,,,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7806078,35,Bryce Peterson,,,Sr,P,6-0,L/L,15002,19,0,2,1,3,,1.000,,,1,,,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7806080,8,Rhett Jolly,,,Jr,C,6-2,R/R,15002,51,48,293,30,329,6,0.982,,5,32,14,4,,3.333
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7806081,6,Jacob LeBron,,,Jr,OF,5-9,L/L,15002,56,55,132,6,140,2,0.986,,,,,2,,
@@ -10,7 +9,6 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7806088,19,Wesley Livingston,,,Jr,P,5-9,R/R,15002,10,0,,1,2,1,0.500,,,1,,,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7806089,22,Scott Templeton,,,So,P,6-2,L/L,15002,5,0,,2,2,,1.000,,,,,,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7806090,10,Kade Faircloth,,,So,OF,6-2,R/R,15002,51,45,89,5,96,2,0.979,,,,,3,,
-2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997813,47,Ryan Barnett,,,Fr,P,5-7,R/L,15002,1,0,,,0,,,,,,,,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7806093,1,Donovan Ford,,,So,OF,5-8,R/R,15002,58,58,155,5,161,1,0.994,,,,,2,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7806094,15,Henry Gibson,,,Jr,C,6-2,L/R,15002,50,50,353,25,380,2,0.995,,,,,27,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7806095,30,Kyle Baker,,,Sr,P,6-2,R/R,15002,5,0,,1,1,,1.000,,,,,,,
@@ -19,24 +17,26 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7806098,36,Ethan LeBron,,,So,P,6-0,L/L,15002,10,9,1,4,5,,1.000,,,1,2,,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7806099,39,Parker Fenton,,,So,P,5-8,L/L,15002,5,0,,,1,1,0.000,,,1,1,,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7806101,32,Colm O'Shea,,,Jr,P,6-6,R/R,15002,21,0,1,5,6,,1.000,,,2,1,,,1.000
-2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997816,0,Bennett Roemer,,,Fr,P,6-2,R/R,15002,14,11,3,9,13,1,0.923,,,5,2,,,0.667
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7806104,13,Hunter French,,,So,P,6-1,R/R,15002,17,9,66,6,72,,1.000,,,,,6,,
-2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997837,21,Matias Marchesini,,,Jr,P,6-2,R/R,15002,15,10,4,7,11,,1.000,,,6,2,,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7806109,23,Tyler Chinpire,,,So,P,6-5,R/R,15002,15,15,6,6,12,,1.000,,,10,5,,,1.000
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7806110,9,Jomar Lugo,,,So,INF,5-8,R/R,15002,57,57,125,140,273,8,0.971,,,,,31,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7806112,3,Cooper Gentry,,,So,INF,6-0,R/R,15002,12,5,9,4,14,1,0.929,,,,,,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7806113,44,Tyler Tuck,,,Jr,P,6-3,L/L,15002,1,0,,,0,,,,,,,,,
-2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997576,42,Trevor Testerman,,,Fr,OF,6-5,R/R,15002,12,3,8,,8,,1.000,,,,,,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997573,16,Brody Winter,,,Fr,OF,6-2,R/R,15002,34,24,11,,11,,1.000,,,,,,,
-2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997818,45,Wyatt Carey,,,Jr,P,6-0,L/L,15002,7,0,2,1,3,,1.000,,,,,,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997574,41,Anthony Plotkin,,,Fr,P,6-0,R/R,15002,4,0,1,,1,,1.000,,,,,,,
-2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997784,20,Kenny Miller,,,Jr,P,-,R/R,15002,14,2,,1,1,,1.000,,,2,2,,,1.000
+2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997576,42,Trevor Testerman,,,Fr,OF,6-5,R/R,15002,12,3,8,,8,,1.000,,,,,,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997763,4,Braylin Marine,,,Sr,INF,6-2,R/R,15002,58,58,96,164,280,20,0.929,,,,,28,,
-2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997773,11,John Allen Forrester,,,Fr,OF,6-2,R/R,15002,27,21,6,1,8,1,0.875,,,,,,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997769,7,Luke White,,,Fr,INF,5-11,R/R,15002,11,0,14,1,15,,1.000,,,,,,,
-2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997790,29,Ryley Stout,,,Fr,INF,6-0,L/R,15002,7,0,4,4,10,2,0.800,,,,,,,
+2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997773,11,John Allen Forrester,,,Fr,OF,6-2,R/R,15002,27,21,6,1,8,1,0.875,,,,,,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997777,14,Chandler Mims,,,Fr,INF,6-3,R/R,15002,11,1,18,3,22,1,0.955,,,,,,,
+2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997784,20,Kenny Miller,,,Jr,P,-,R/R,15002,14,2,,1,1,,1.000,,,2,2,,,1.000
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997787,25,Gunnar Erickson,,,Jr,P,6-5,L/R,15002,15,1,2,7,9,,1.000,,,2,2,,,1.000
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997788,26,Joe LaFiora,,,Sr,P,6-0,L/L,15002,29,11,,6,7,1,0.857,,,7,1,,,1.000
+2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997790,29,Ryley Stout,,,Fr,INF,6-0,L/R,15002,7,0,4,4,10,2,0.800,,,,,,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997791,37,Trevor Linaman,,,So,P,6-6,R/R,15002,19,0,,5,5,,1.000,,,,1,,,
 2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997805,43,Ricky Montalvo,,,Fr,P,6-0,R/R,15002,2,0,,,0,,,,,,,,,
+2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997806,43,Whit Rucker,,,Fr,OF,5-11,L/R,15002,1,0,,,0,,,,,,,,,
+2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997813,47,Ryan Barnett,,,Fr,P,5-7,R/L,15002,1,0,,,0,,,,,,,,,
+2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997816,0,Bennett Roemer,,,Fr,P,6-2,R/R,15002,14,11,3,9,13,1,0.923,,,5,2,,,0.667
+2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997818,45,Wyatt Carey,,,Jr,P,6-0,L/L,15002,7,0,2,1,3,,1.000,,,,,,,
+2023,2022-23,MBA,1257,Newberry,2,II,SAC,7997837,21,Matias Marchesini,,,Jr,P,6-2,R/R,15002,15,10,4,7,11,,1.000,,,6,2,,,

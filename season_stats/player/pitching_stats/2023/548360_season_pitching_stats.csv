@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,8965,East Central,2,II,GAC,7982243,10,Tanner Collins,,,So,INF,5-9,,15001,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,8965,East Central,2,II,GAC,7807221,8,Chris Griffis,,,So,C,5-11,R/R,15001,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,8965,East Central,2,II,GAC,7807223,7,Nick Blankenship,,,Jr,INF,-,,15001,46,1,,4.50,6.0,,8,4,3,3,3,,29,25,1,,2,1,1,1,,,,,,,6,7,,,,1,1
 2023,2022-23,MBA,8965,East Central,2,II,GAC,7807224,45,Brian Terry,,,Jr,P,-,,15001,17,17,15,7.35,78.1,1,94,78,64,32,63,,382,312,23,2,,10,2,25,,,,4,8,926,60,99,1,12,1,12,1
@@ -19,19 +18,20 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,8965,East Central,2,II,GAC,7807251,15,Colt Bartling,,,Jr,P,5-9,L/L,15001,9,8,,17.25,12.0,,22,23,23,9,14,,66,55,6,,,3,,2,,6,,,,170,8,10,,,,6,
 2023,2022-23,MBA,8965,East Central,2,II,GAC,7807254,6,Cooper Hunt,,,So,P,6-1,R/R,15001,37,2,1,13.50,1.1,,2,2,2,2,1,,9,5,2,,,,2,1,,,,1,,34,2,1,,1,,,
 2023,2022-23,MBA,8965,East Central,2,II,GAC,7981429,3,Kaleb Dent,,,Jr,P,5-8,,15001,20,20,2,9.54,38.2,,55,52,41,37,35,,209,161,19,2,,2,5,7,,5,4,,4,468,25,47,2,2,1,13,1
-2023,2022-23,MBA,8965,East Central,2,II,GAC,7981779,34,Cayden Blanton,,,Fr,P,6-0,,15001,5,4,,27.00,1.1,,3,5,4,4,2,,15,8,2,,,,2,3,,2,2,,,46,,2,,,,1,
-2023,2022-23,MBA,8965,East Central,2,II,GAC,8007362,1,J. Green,,,Fr,p,-,,15001,7,7,1,20.25,5.1,,11,17,12,8,3,,38,24,2,1,,1,5,2,,2,2,1,3,123,6,6,,,,1,
 2023,2022-23,MBA,8965,East Central,2,II,GAC,7981717,11,Duncan Key,,,Fr,C,5-11,,15001,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,8965,East Central,2,II,GAC,7981790,16,Kort McCurtain,,,So,P,6-2,,15001,3,3,,18.56,5.1,,12,11,11,4,4,,33,24,2,,,,1,3,,5,4,,2,33,5,5,,1,,1,
-2023,2022-23,MBA,8965,East Central,2,II,GAC,7981763,32,Tucker Abney,,,Fr,INF,5-7,,15001,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,8965,East Central,2,II,GAC,7981738,12,Price Daube,,,So,P,6-4,,15001,12,12,2,25.65,13.1,,18,41,38,32,12,,101,54,5,,2,,6,14,,7,6,,1,336,14,9,,1,,5,1
+2023,2022-23,MBA,8965,East Central,2,II,GAC,7981749,21,Drake Sisemore,,,So,P,6-5,,15001,15,15,9,11.45,41.2,,59,63,53,45,32,,239,181,20,2,2,5,14,7,,4,3,2,4,569,30,61,,7,,10,
+2023,2022-23,MBA,8965,East Central,2,II,GAC,7981750,23,Ryan Gutierrez,,,Fr,P,6-1,,15001,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,8965,East Central,2,II,GAC,7981753,25,Dawerlyn Amancio,,,So,OF,6-6,,15001,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,8965,East Central,2,II,GAC,7981770,39,Jarod Leroux,,,Jr,P,6-1,,15001,12,12,,6.91,14.1,,18,12,11,8,10,,74,59,3,2,,,7,4,,5,3,1,2,310,12,20,,,,2,
-2023,2022-23,MBA,8965,East Central,2,II,GAC,7992591,19,Ian Mason,,,So,INF,6-3,,15001,33,13,6,6.88,53.2,,76,62,41,34,37,,278,232,19,5,1,7,6,6,,1,,2,4,618,40,74,2,4,,6,
-2023,2022-23,MBA,8965,East Central,2,II,GAC,7981773,26,Kale Williams,,,Fr,UT,6-3,,15001,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,8965,East Central,2,II,GAC,7981756,28,Carson Thomas,,,So,P,6-1,,15001,28,17,10,8.81,47.0,,83,71,46,34,38,,269,217,22,5,2,2,8,10,1,5,3,6,2,693,42,49,2,8,3,2,2
+2023,2022-23,MBA,8965,East Central,2,II,GAC,7981760,14,Cole Tracy,,,Fr,INF,6-0,,15001,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,8965,East Central,2,II,GAC,7981763,32,Tucker Abney,,,Fr,INF,5-7,,15001,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,8965,East Central,2,II,GAC,7981770,39,Jarod Leroux,,,Jr,P,6-1,,15001,12,12,,6.91,14.1,,18,12,11,8,10,,74,59,3,2,,,7,4,,5,3,1,2,310,12,20,,,,2,
+2023,2022-23,MBA,8965,East Central,2,II,GAC,7981773,26,Kale Williams,,,Fr,UT,6-3,,15001,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,8965,East Central,2,II,GAC,7981779,34,Cayden Blanton,,,Fr,P,6-0,,15001,5,4,,27.00,1.1,,3,5,4,4,2,,15,8,2,,,,2,3,,2,2,,,46,,2,,,,1,
+2023,2022-23,MBA,8965,East Central,2,II,GAC,7981790,16,Kort McCurtain,,,So,P,6-2,,15001,3,3,,18.56,5.1,,12,11,11,4,4,,33,24,2,,,,1,3,,5,4,,2,33,5,5,,1,,1,
+2023,2022-23,MBA,8965,East Central,2,II,GAC,7982243,10,Tanner Collins,,,So,INF,5-9,,15001,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,8965,East Central,2,II,GAC,7992589,20,Jagger Green,,,Fr,P,6-3,-/R,15001,5,4,,22.50,2.0,,3,5,5,3,3,,12,8,1,,,,,1,,5,1,,,17,1,1,,,,,
 2023,2022-23,MBA,8965,East Central,2,II,GAC,7992590,4,Chris Jackson,,,So,P,6-2,-/L,15001,8,8,1,11.25,8.0,,14,15,10,12,7,,52,36,5,,,,2,3,,3,1,,1,90,9,4,,,,2,2
-2023,2022-23,MBA,8965,East Central,2,II,GAC,7981760,14,Cole Tracy,,,Fr,INF,6-0,,15001,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,8965,East Central,2,II,GAC,7981749,21,Drake Sisemore,,,So,P,6-5,,15001,15,15,9,11.45,41.2,,59,63,53,45,32,,239,181,20,2,2,5,14,7,,4,3,2,4,569,30,61,,7,,10,
-2023,2022-23,MBA,8965,East Central,2,II,GAC,7981738,12,Price Daube,,,So,P,6-4,,15001,12,12,2,25.65,13.1,,18,41,38,32,12,,101,54,5,,2,,6,14,,7,6,,1,336,14,9,,1,,5,1
-2023,2022-23,MBA,8965,East Central,2,II,GAC,7981750,23,Ryan Gutierrez,,,Fr,P,6-1,,15001,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,8965,East Central,2,II,GAC,7992591,19,Ian Mason,,,So,INF,6-3,,15001,33,13,6,6.88,53.2,,76,62,41,34,37,,278,232,19,5,1,7,6,6,,1,,2,4,618,40,74,2,4,,6,
+2023,2022-23,MBA,8965,East Central,2,II,GAC,8007362,1,J. Green,,,Fr,p,-,,15001,7,7,1,20.25,5.1,,11,17,12,8,3,,38,24,2,1,,1,5,2,,2,2,1,3,123,6,6,,,,1,

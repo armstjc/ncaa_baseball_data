@@ -1,7 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988182,3,Ty Dalley,,,Fr,INF,6-4,L/R,15002,58,54,395,21,418,2,0.995,,,,,41,,
-2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988191,5,Bradley Frye,,,So,INF,6-2,R/R,15002,55,53,89,128,221,4,0.982,,,,,31,,
-2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988195,11,Micah Takac,,,Fr,P,6-3,R/R,15002,19,0,,2,2,,1.000,,,1,,,,
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828111,36,Garrett Sloan,,,Jr,P,6-4,R/R,15002,20,1,3,4,8,1,0.875,,,5,1,,,1.000
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828114,2,Antonio Brown,,,Jr,INF,5-10,R/R,15002,49,27,54,33,91,4,0.956,,,,,5,,
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828117,28,Holton McGaha,,,Sr,P,-,,15002,22,0,,1,1,,1.000,,,2,,,,1.000
@@ -11,15 +8,12 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828122,33,Josh Farmer,,,Sr,P,-,,15002,15,15,3,7,12,2,0.833,,,6,3,,,1.000
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828124,30,Sam Stewart,,,So,C,6-0,R/R,15002,4,1,14,,14,,1.000,,1,,,,,
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828127,32,Fred Wilson,,,Jr,P,6-1,L/L,15002,9,8,2,2,5,1,0.800,,,3,4,,,1.000
-2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988198,12,Carter Sanford,,,Jr,C,6-0,L/R,15002,31,29,233,15,251,3,0.988,,3,31,9,,,3.833
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828129,34,Trevor Austin,,,Sr,INF,-,,15002,56,56,85,142,236,9,0.962,,,,,35,,
-2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988202,4,Carter Geier,,,Fr,INF,6-0,R/R,15002,38,33,19,54,77,4,0.948,,,,,6,,
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828133,6,Jozsef Rohrbacher,,,Sr,C,-,,15002,58,58,164,50,221,7,0.968,,5,7,2,5,,
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828134,47,Walt Thomas,,,Jr,P,-,,15002,9,5,,2,2,,1.000,,,4,2,1,,1.000
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828135,21,Colton Cosper,,,So,P,6-1,L/L,15002,17,11,2,6,8,,1.000,,,3,3,,,
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828136,39,Jess Ackerman,,,Fr,P,6-3,L/L,15002,20,1,2,5,7,,1.000,,,1,,,,1.000
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828137,42,Jaxon O'Neal,,,So,P,6-2,L/L,15002,26,0,2,3,5,,1.000,,,2,2,1,,0.500
-2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988209,24,Eric Toth,,,Sr,UT,-,,15002,56,56,33,2,37,2,0.946,,,,,3,,
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828141,13,Treyson Hughes,,,So,OF,6-3,L/R,15002,58,58,133,5,139,1,0.993,,,,,1,,
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828142,29,Josh Harlow,,,So,P,-,,15002,7,5,,4,4,,1.000,,,2,,,,1.000
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828143,26,Alex McKay,,,Jr,P,6-0,,15002,12,0,,1,1,,1.000,,,3,1,,,
@@ -27,10 +21,16 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828145,18,Ryan Lobus,,,Jr,P,-,,15002,17,11,2,9,11,,1.000,,,12,1,,,1.000
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828146,7,Landon Underhill,,,Fr,OF,-,,15002,21,7,15,1,17,1,0.941,,,,,,,
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7828147,49,Avery Stephens,,,Jr,P,6-4,R/R,15002,8,0,,,0,,,,,1,,,,
+2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988166,8,Eli Runyan,,,So,UT,-,B/L,15002,35,20,30,1,33,2,0.939,,,,,,,
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988172,19,Reid Brown,,,Jr,INF,6-1,R/R,15002,23,11,10,1,11,,1.000,,,,,,,
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988174,20,Connor Folds,,,Fr,P,6-0,R/R,15002,11,0,,,0,,,,,,,,,
-2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988166,8,Eli Runyan,,,So,UT,-,B/L,15002,35,20,30,1,33,2,0.939,,,,,,,
-2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988210,25,Ben Olson,,,Jr,C,6-1,R/R,15002,27,15,116,8,126,2,0.984,,2,10,3,,,
-2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988208,23,Blake Schmitt,,,Sr,C,-,,15002,10,0,6,,6,,1.000,,,,,,,
+2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988182,3,Ty Dalley,,,Fr,INF,6-4,L/R,15002,58,54,395,21,418,2,0.995,,,,,41,,
+2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988191,5,Bradley Frye,,,So,INF,6-2,R/R,15002,55,53,89,128,221,4,0.982,,,,,31,,
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988194,10,Conner Todaro,,,Jr,OF,6-0,R/R,15002,44,4,25,1,26,,1.000,,,,,,,
+2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988195,11,Micah Takac,,,Fr,P,6-3,R/R,15002,19,0,,2,2,,1.000,,,1,,,,
+2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988198,12,Carter Sanford,,,Jr,C,6-0,L/R,15002,31,29,233,15,251,3,0.988,,3,31,9,,,3.833
 2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988201,16,Max Kops,,,Jr,OF,6-1,L/L,15002,27,4,,,0,,,,,,,,,
+2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988202,4,Carter Geier,,,Fr,INF,6-0,R/R,15002,38,33,19,54,77,4,0.948,,,,,6,,
+2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988208,23,Blake Schmitt,,,Sr,C,-,,15002,10,0,6,,6,,1.000,,,,,,,
+2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988209,24,Eric Toth,,,Sr,UT,-,,15002,56,56,33,2,37,2,0.946,,,,,3,,
+2023,2022-23,MBA,406,Mercer,1,I,SoCon,7988210,25,Ben Olson,,,Jr,C,6-1,R/R,15002,27,15,116,8,126,2,0.984,,2,10,3,,,

@@ -1,8 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,110,UCLA,1,I,Pac-12,8008139,36,Knox Loposer,,,Sr,C,5-10,R/R,15002,23,15,60,23,85,2,0.976,,2,4,1,4,,
-2023,2022-23,MBA,110,UCLA,1,I,Pac-12,8008215,24,A.J. Salgado,,,So,INF,6-3,L/R,15002,26,21,85,6,94,3,0.968,,,,,4,,
-2023,2022-23,MBA,110,UCLA,1,I,Pac-12,8008032,44,Toussaint Bythewood,,,Fr,OF,6-2,R/R,15002,23,12,14,,14,,1.000,,,,,,,
-2023,2022-23,MBA,110,UCLA,1,I,Pac-12,8008036,27,Keenan Proctor,,,Fr,OF,6-1,L/R,15002,7,1,7,,7,,1.000,,,,,,,
 2023,2022-23,MBA,110,UCLA,1,I,Pac-12,7825455,17,Jack Holman,,,So,C,6-4,L/R,15002,51,51,285,17,311,9,0.971,,,,,20,,
 2023,2022-23,MBA,110,UCLA,1,I,Pac-12,7825456,30,Alonzo Tredwell,,,So,P,6-8,R/R,15002,9,9,1,2,3,,1.000,,,2,8,,,
 2023,2022-23,MBA,110,UCLA,1,I,Pac-12,7825457,35,Luke Jewett,,,So,P,6-4,R/R,15002,14,0,,2,2,,1.000,,,,,,,
@@ -24,9 +20,13 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,110,UCLA,1,I,Pac-12,7825482,7,Ethan Flanagan,,,So,P,6-3,L/L,15002,10,6,2,5,7,,1.000,,,8,2,,,0.500
 2023,2022-23,MBA,110,UCLA,1,I,Pac-12,7825483,24,Malakhi Knight,,,So,OF,6-3,R/R,15002,34,34,73,,73,,1.000,,,,,,,
 2023,2022-23,MBA,110,UCLA,1,I,Pac-12,7825484,55,Kelly Austin,,,Sr,P,6-0,R/R,15002,17,13,2,5,9,2,0.778,,,6,5,,,1.000
+2023,2022-23,MBA,110,UCLA,1,I,Pac-12,8008032,44,Toussaint Bythewood,,,Fr,OF,6-2,R/R,15002,23,12,14,,14,,1.000,,,,,,,
 2023,2022-23,MBA,110,UCLA,1,I,Pac-12,8008033,11,Ben Jacobs,,,Fr,P,6-1,L/L,15002,7,1,,,0,,,,,,,,,
 2023,2022-23,MBA,110,UCLA,1,I,Pac-12,8008034,29,Finn McIlroy,,,Fr,P,6-7,R/R,15002,16,0,3,,3,,1.000,,,1,,1,,
-2023,2022-23,MBA,110,UCLA,1,I,Pac-12,8008141,15,Jarrod Hocking,,,Fr,OF,5-9,R/R,15002,36,31,54,14,72,4,0.944,,,,,1,,
-2023,2022-23,MBA,110,UCLA,1,I,Pac-12,8008140,25,Cody Delvecchio,,,Fr,P,5-10,R/R,15002,36,0,,3,4,1,0.750,,,1,1,,,
+2023,2022-23,MBA,110,UCLA,1,I,Pac-12,8008036,27,Keenan Proctor,,,Fr,OF,6-1,L/R,15002,7,1,7,,7,,1.000,,,,,,,
 2023,2022-23,MBA,110,UCLA,1,I,Pac-12,8008117,40,Michael Barnett,,,Fr,P,6-5,R/R,15002,22,9,3,3,6,,1.000,,,1,2,,,
 2023,2022-23,MBA,110,UCLA,1,I,Pac-12,8008120,45,Chris Grothues,,,Fr,P,6-3,L/L,15002,1,0,,,0,,,,,,,,,
+2023,2022-23,MBA,110,UCLA,1,I,Pac-12,8008139,36,Knox Loposer,,,Sr,C,5-10,R/R,15002,23,15,60,23,85,2,0.976,,2,4,1,4,,
+2023,2022-23,MBA,110,UCLA,1,I,Pac-12,8008140,25,Cody Delvecchio,,,Fr,P,5-10,R/R,15002,36,0,,3,4,1,0.750,,,1,1,,,
+2023,2022-23,MBA,110,UCLA,1,I,Pac-12,8008141,15,Jarrod Hocking,,,Fr,OF,5-9,R/R,15002,36,31,54,14,72,4,0.944,,,,,1,,
+2023,2022-23,MBA,110,UCLA,1,I,Pac-12,8008215,24,A.J. Salgado,,,So,INF,6-3,L/R,15002,26,21,85,6,94,3,0.968,,,,,4,,

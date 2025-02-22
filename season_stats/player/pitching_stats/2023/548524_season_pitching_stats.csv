@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971388,54,Caleb Adams,,,Jr,OF,6-2,R/R,15001,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7832883,41,Brayden Heidel,,,Jr,P,6-4,R/R,15001,2,2,2,15.43,4.2,,7,8,8,6,4,,28,22,3,1,,,2,,,,,,,100,10,1,,,,1,
 2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7832886,1,Yazael Nunez,,,Sr,INF,5-9,R/R,15001,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7832889,43,Kaelan Racculia,,,Jr,P,6-3,R/R,15001,13,13,4,4.84,35.1,,42,23,19,9,22,,165,145,4,,,1,2,7,,9,2,3,1,355,57,24,1,3,,6,
@@ -21,19 +20,20 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7832911,38,Luke Houin,,,Sr,C,6-1,R/R,15001,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7832913,31,Luke Pappas,,,Jr,P,6-3,L/L,15001,3,3,,10.13,2.2,,3,3,3,2,,,12,10,,,,,,,,,,,,19,5,2,,,,,
 2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7832914,48,Charles Lefebvre,,,Jr,P,6-4,R/R,15001,3,3,1,43.20,1.2,,8,8,8,3,2,,17,12,,,,1,,1,,2,1,,1,24,2,1,,1,,1,
-2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971440,40,Evan Wolf,,,Jr,P,6-1,R/R,15001,13,13,13,6.26,64.2,,75,49,45,14,34,,289,268,19,2,,13,6,5,,,,1,1,742,64,90,4,2,,9,1
+2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971388,54,Caleb Adams,,,Jr,OF,6-2,R/R,15001,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971402,3,Brennan Reback,,,Sr,OF,-,,15001,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971405,7,Mike Wyman,,,Sr,1B,-,,15001,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971408,8,Pat Gallagher,,,Sr,P,-,,15001,13,13,,2.95,21.1,,22,14,7,11,27,,102,84,1,2,,2,4,3,,1,,3,1,380,13,23,3,,1,9,1
 2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971411,10,Adrien Roa,,,Sr,OF,-,,15001,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971413,17,Jestin Jones,,,Sr,P,-,,15001,15,15,10,3.96,61.1,1,69,31,27,22,58,1,274,243,23,2,1,4,6,1,,2,2,2,6,808,35,88,3,4,,13,
 2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971418,16,Sam Cole,,,Fr,P,6-2,R/R,15001,10,10,,2.60,17.1,,13,5,5,6,13,,75,63,1,,1,1,2,5,1,1,,1,,198,16,22,1,,,5,
 2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971419,20,Ryan Jackson,,,Fr,C,6-1,R/R,15001,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971408,8,Pat Gallagher,,,Sr,P,-,,15001,13,13,,2.95,21.1,,22,14,7,11,27,,102,84,1,2,,2,4,3,,1,,3,1,380,13,23,3,,1,9,1
-2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971405,7,Mike Wyman,,,Sr,1B,-,,15001,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971422,21,Andrew Hazell,,,Jr,P,6-2,R/R,15001,10,10,3,7.07,14.0,,18,18,11,11,12,,75,61,4,,,3,1,2,,2,1,,1,209,10,20,,3,,5,
+2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971424,23,Eddie Niemann III,,,Sr,C,-,,15001,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971435,33,Nathaniel Gorczyca,,,Sr,P,-,,15001,5,5,,10.50,6.0,,10,7,7,2,6,,31,28,1,,,1,3,1,,,,,,35,5,7,,1,,3,
-2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971441,47,Cooper Miles,,,Jr,INF,6-0,R/R,15001,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971413,17,Jestin Jones,,,Sr,P,-,,15001,15,15,10,3.96,61.1,1,69,31,27,22,58,1,274,243,23,2,1,4,6,1,,2,2,2,6,808,35,88,3,4,,13,
 2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971437,36,Dylan Mass,,,Fr,OF,6-0,L/R,15001,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971439,39,Brendan Clarke,,,Fr,P,6-2,R/R,15001,8,8,,6.52,9.2,,14,9,7,3,4,,48,42,,1,,,2,2,,2,,,1,85,11,12,,,,1,
-2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7982855,24,Manny Sado,,,So,P,-,,15001,8,8,,4.26,6.1,,5,3,3,5,13,,30,24,1,,,1,2,1,,2,2,,,74,1,5,,,,4,
-2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971424,23,Eddie Niemann III,,,Sr,C,-,,15001,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971402,3,Brennan Reback,,,Sr,OF,-,,15001,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971440,40,Evan Wolf,,,Jr,P,6-1,R/R,15001,13,13,13,6.26,64.2,,75,49,45,14,34,,289,268,19,2,,13,6,5,,,,1,1,742,64,90,4,2,,9,1
+2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971441,47,Cooper Miles,,,Jr,INF,6-0,R/R,15001,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7982852,11,Dariel Fregio,,,Jr,P,-,,15001,14,14,14,5.08,83.1,,99,54,47,19,74,,368,340,23,2,1,11,6,6,,,,2,1,"1,137",82,84,8,4,,21,
-2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7971422,21,Andrew Hazell,,,Jr,P,6-2,R/R,15001,10,10,3,7.07,14.0,,18,18,11,11,12,,75,61,4,,,3,1,2,,2,1,,1,209,10,20,,3,,5,
+2023,2022-23,MBA,608,Saint Leo,2,II,Sunshine State,7982855,24,Manny Sado,,,So,P,-,,15001,8,8,,4.26,6.1,,5,3,3,5,13,,30,24,1,,,1,2,1,,2,2,,,74,1,5,,,,4,

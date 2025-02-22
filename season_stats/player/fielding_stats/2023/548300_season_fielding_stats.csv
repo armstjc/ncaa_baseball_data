@@ -1,11 +1,9 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,674,Stanford,1,I,Pac-12,8003155,10,Malcolm Moore,,,Fr,C,6-2,L/R,15002,64,64,547,47,599,5,0.992,1,9,38,10,3,,7.500
 2023,2022-23,MBA,674,Stanford,1,I,Pac-12,7831022,23,Joey Dixon,,,Jr,P,6-2,R/R,15002,21,14,5,11,19,3,0.842,,,2,5,,,
 2023,2022-23,MBA,674,Stanford,1,I,Pac-12,7831023,11,Alberto Rios,,,Jr,C,6-0,R/R,15002,63,62,124,10,137,3,0.978,,2,1,2,1,,
 2023,2022-23,MBA,674,Stanford,1,I,Pac-12,7831024,19,Henry Gargus,,,Sr,OF,6-0,L/L,15002,16,3,4,,4,,1.000,,,,,,,
 2023,2022-23,MBA,674,Stanford,1,I,Pac-12,7831025,12,Tommy Troy,,,Jr,INF,5-10,R/R,15002,58,58,28,76,111,7,0.937,,,,,4,,
 2023,2022-23,MBA,674,Stanford,1,I,Pac-12,7831026,40,Nicolas Lopez,,,Sr,P,6-4,R/L,15002,17,2,2,,2,,1.000,,,,,,,
-2023,2022-23,MBA,674,Stanford,1,I,Pac-12,8003156,14,Cort MacDonald,,,Fr,OF,6-1,L/L,15002,10,0,1,,2,1,0.500,,,,,,,
 2023,2022-23,MBA,674,Stanford,1,I,Pac-12,7831028,30,Brandt Pancer,,,Jr,P,6-0,R/R,15002,32,1,5,5,10,,1.000,,,4,1,,,2.000
 2023,2022-23,MBA,674,Stanford,1,I,Pac-12,7831029,29,Cole Hinkelman,,,Sr,OF,6-5,L/R,15002,15,9,2,,2,,1.000,,,,,,,
 2023,2022-23,MBA,674,Stanford,1,I,Pac-12,7831030,31,Carter Graham,,,Jr,INF,6-2,R/R,15002,64,64,465,30,498,3,0.994,,,,,28,,
@@ -25,8 +23,10 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,674,Stanford,1,I,Pac-12,7831051,36,Ty Uber,,,So,P,6-4,R/R,15002,13,3,,,0,,,,,2,,,,1.000
 2023,2022-23,MBA,674,Stanford,1,I,Pac-12,7831052,44,Brett Blair,,,So,OF,6-2,R/R,15002,2,0,,,0,,,,,,,,,
 2023,2022-23,MBA,674,Stanford,1,I,Pac-12,7831054,39,Jake Sapien,,,So,UT,6-2,R/R,15002,33,27,14,,14,,1.000,,,,,1,,
+2023,2022-23,MBA,674,Stanford,1,I,Pac-12,8003155,10,Malcolm Moore,,,Fr,C,6-2,L/R,15002,64,64,547,47,599,5,0.992,1,9,38,10,3,,7.500
+2023,2022-23,MBA,674,Stanford,1,I,Pac-12,8003156,14,Cort MacDonald,,,Fr,OF,6-1,L/L,15002,10,0,1,,2,1,0.500,,,,,,,
+2023,2022-23,MBA,674,Stanford,1,I,Pac-12,8003181,15,Jimmy Nati,,,Fr,INF,6-1,R/R,15002,23,8,4,13,18,1,0.944,,,,,1,,
+2023,2022-23,MBA,674,Stanford,1,I,Pac-12,8003183,38,Trevor Moore,,,Fr,P,6-1,R/R,15002,8,1,1,,1,,1.000,,,,,,,
 2023,2022-23,MBA,674,Stanford,1,I,Pac-12,8003197,18,Toran O'Harran,,,Fr,P,6-1,R/R,15002,17,1,,1,1,,1.000,,,1,,,,
 2023,2022-23,MBA,674,Stanford,1,I,Pac-12,8003198,25,Nick Dugan,,,Fr,P,6-2,R/R,15002,24,7,1,7,8,,1.000,,,7,2,,,1.000
 2023,2022-23,MBA,674,Stanford,1,I,Pac-12,8003199,28,Matt Scott,,,Fr,P,6-7,R/R,15002,24,12,,2,4,2,0.500,,,12,3,,,4.000
-2023,2022-23,MBA,674,Stanford,1,I,Pac-12,8003181,15,Jimmy Nati,,,Fr,INF,6-1,R/R,15002,23,8,4,13,18,1,0.944,,,,,1,,
-2023,2022-23,MBA,674,Stanford,1,I,Pac-12,8003183,38,Trevor Moore,,,Fr,P,6-1,R/R,15002,8,1,1,,1,,1.000,,,,,,,

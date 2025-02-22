@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003331,12,Nick Gregory,,,Jr,OF,5-10,L/R,15001,56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,47,Ball St.,1,I,MAC,7824725,8,Adam Tellier,,,Jr,INF,6-3,R/R,15001,59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,47,Ball St.,1,I,MAC,7824726,3,Aiden Hinds,,,Jr,INF,6-0,R/R,15001,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,47,Ball St.,1,I,MAC,7824728,24,Ty Johnson,,,Jr,P,6-6,R/R,15001,16,16,10,4.53,53.2,,42,30,27,31,68,,239,196,4,,,7,6,11,2,3,1,1,,875,51,34,4,3,3,18,3
@@ -21,13 +20,14 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,47,Ball St.,1,I,MAC,7824755,20,CJ Horn,,,So,C,5-9,R/R,15001,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003309,4,Logan Flood,,,Sr,OF,6-2,R/R,15001,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003310,9,Blake Bevis,,,Fr,P,6-3,R/R,15001,59,8,,8.38,9.2,,12,9,9,10,9,,52,39,3,,,1,7,1,,9,5,,2,202,6,14,1,,,2,
-2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003315,25,Andrew Wilhite,,,Sr,OF,6-1,L/R,15001,47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003311,13,Jalen Martinez,,,Jr,P,6-1,R/L,15001,21,1,,81.00,0.1,,0,3,3,2,1,,4,1,,,,,,1,,2,2,,,16,,,,,,1,
 2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003312,16,Clay Jacobs,,,Jr,OF,6-2,L/R,15001,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003313,18,Will Jacobson,,,Jr,P,7-0,L/L,15001,13,13,1,8.20,18.2,,26,21,17,17,14,,106,77,8,,,2,5,9,1,4,1,3,,374,16,24,,1,,3,
+2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003315,25,Andrew Wilhite,,,Sr,OF,6-1,L/R,15001,47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003316,27,Brady Owens,,,Fr,P,6-0,L/L,15001,14,14,,11.08,13.0,,12,19,16,22,16,,82,48,1,,,1,7,9,,18,11,1,2,317,8,13,1,,1,6,
+2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003330,5,Dylan Grego,,,Fr,INF,6-2,B/R,15001,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003331,12,Nick Gregory,,,Jr,OF,5-10,L/R,15001,56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003337,29,Owen  Quinn,,,Fr,OF,6-4,R/R,15001,15,15,1,5.06,21.1,,17,12,12,16,14,,95,72,2,,,1,5,2,,18,8,1,4,367,12,34,1,,,6,1
 2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003338,30,Casey Turturici,,,Jr,C,6-2,L/R,15001,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003339,31,Logan Schulfer,,,So,P,6-1,R/R,15001,22,22,4,8.10,46.2,,45,50,42,41,60,,233,183,9,,1,6,15,4,2,17,11,1,4,967,30,47,3,2,1,16,
 2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003659,33,Graham Kelham,,,Fr,P,6-3,R/R,15001,7,7,,4.26,6.1,,4,9,3,12,6,,33,20,2,,,1,4,,,9,5,,1,144,3,7,1,,,3,
-2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003311,13,Jalen Martinez,,,Jr,P,6-1,R/L,15001,21,1,,81.00,0.1,,0,3,3,2,1,,4,1,,,,,,1,,2,2,,,16,,,,,,1,
-2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003316,27,Brady Owens,,,Fr,P,6-0,L/L,15001,14,14,,11.08,13.0,,12,19,16,22,16,,82,48,1,,,1,7,9,,18,11,1,2,317,8,13,1,,1,6,
-2023,2022-23,MBA,47,Ball St.,1,I,MAC,8003330,5,Dylan Grego,,,Fr,INF,6-2,B/R,15001,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7988954,24,Matt Woods,,,N/A,INF,6-1,L/R,15002,48,48,90,1,91,,1.000,,,,,,,
 2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7827972,1,Jacob Orr,,,So,INF,5-9,R/R,15002,44,35,46,11,60,3,0.950,,,,,1,,
 2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7827974,15,Zach Martin,,,So,OF,6-0,R/R,15002,11,8,5,,5,,1.000,,,,,,,
 2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7827977,45,Jason Savacool,,,Jr,P,-,,15002,17,16,5,9,14,,1.000,,,9,4,1,,1.000
@@ -19,17 +18,18 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7828001,23,Ian Petrutz,,,So,OF,6-0,L/L,15002,58,56,13,,13,,1.000,,,,,,,
 2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7828002,35,Ryan Van Buren,,,So,P,6-3,R/R,15002,21,8,5,3,10,2,0.800,,,6,1,,,3.000
 2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7828003,5,Andrew Johnson,,,So,P,6-0,L/L,15002,22,1,2,1,3,,1.000,,,4,,,,3.000
+2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7988954,24,Matt Woods,,,N/A,INF,6-1,L/R,15002,48,48,90,1,91,,1.000,,,,,,,
+2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989040,4,Alex Irizarry,,,Fr,INF,-,,15002,5,1,1,1,2,,1.000,,,,,1,,
+2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989041,7,Caleb Estes,,,Fr,INF,-,,15002,3,0,,1,3,2,0.333,,,,,,,
 2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989046,9,Simmi Whitehill,,,Fr,INF,-,,15002,2,0,,,0,,,,,,,,,
-2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989054,16,Eliakim Stowe,,,Fr,P,-,,15002,5,0,,,0,,,,,2,,,,
-2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989074,21,Kenny Lippman,,,N/A,P,6-4,R/R,15002,31,3,2,4,6,,1.000,,,4,2,,,1.000
 2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989049,10,Joey Colucci,,,Fr,P,-,,15002,6,0,,,0,,,,,,,,,
 2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989051,12,Devin Russell,,,Fr,C,6-2,,15002,5,3,16,2,18,,1.000,,,,1,,,
-2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989091,31,Tommy Kane,,,Jr,P,-,,15002,17,0,1,3,5,1,0.800,,,4,,,,
+2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989053,14,Wagner Morrisette,,,Fr,P,-,,15002,3,0,,,0,,,,,,1,,,
+2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989054,16,Eliakim Stowe,,,Fr,P,-,,15002,5,0,,,0,,,,,2,,,,
+2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989058,22,Kyle McCoy,,,Fr,P,6-6,,15002,15,12,3,4,8,1,0.875,,,5,1,,,
 2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989060,32,Luke Zeisloft,,,Fr,OF,5-11,,15002,10,2,8,,9,1,0.889,,,,,,,
 2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989067,11,Elijah Lambros,,,So,OF,6-2,,15002,62,59,128,2,132,2,0.985,,,,,,,
-2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989041,7,Caleb Estes,,,Fr,INF,-,,15002,3,0,,1,3,2,0.333,,,,,,,
-2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989053,14,Wagner Morrisette,,,Fr,P,-,,15002,3,0,,,0,,,,,,1,,,
-2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989093,39,Eddie Hacopian,,,So,INF,6-3,,15002,63,63,555,24,586,7,0.988,,,,,42,,
+2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989074,21,Kenny Lippman,,,N/A,P,6-4,R/R,15002,31,3,2,4,6,,1.000,,,4,2,,,1.000
 2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989082,26,Nate Haberthier,,,Jr,P,6-5,R/R,15002,17,7,,5,8,3,0.625,,,1,,,,
-2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989058,22,Kyle McCoy,,,Fr,P,6-6,,15002,15,12,3,4,8,1,0.875,,,5,1,,,
-2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989040,4,Alex Irizarry,,,Fr,INF,-,,15002,5,1,1,1,2,,1.000,,,,,1,,
+2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989091,31,Tommy Kane,,,Jr,P,-,,15002,17,0,1,3,5,1,0.800,,,4,,,,
+2023,2022-23,MBA,392,Maryland,1,I,Big Ten,7989093,39,Eddie Hacopian,,,So,INF,6-3,,15002,63,63,555,24,586,7,0.988,,,,,42,,

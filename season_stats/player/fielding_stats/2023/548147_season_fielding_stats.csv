@@ -1,8 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,235,Florida,1,I,SEC,7976703,12,Hurston Waldrep,,,Jr,P,-,,15002,19,19,6,6,15,3,0.800,,,4,3,,,1.000
-2023,2022-23,MBA,235,Florida,1,I,SEC,7976704,17,Yoel Tejeda Jr.,,,Fr,P,6-8,B/R,15002,8,6,2,4,8,2,0.750,,,2,,,,
-2023,2022-23,MBA,235,Florida,1,I,SEC,7976706,26,Clete Hartzog,,,Jr,P,6-1,R/R,15002,7,1,1,,2,1,0.500,,,2,,,,
-2023,2022-23,MBA,235,Florida,1,I,SEC,7976708,47,Chris Arroyo,,,Fr,UT,-,,15002,7,0,,,0,,,,,1,,,,
 2023,2022-23,MBA,235,Florida,1,I,SEC,7826511,8,Brandon Sproat,,,Jr,P,-,,15002,19,19,4,12,18,2,0.889,,,7,4,1,,0.500
 2023,2022-23,MBA,235,Florida,1,I,SEC,7826512,10,Tyler Nesbitt,,,So,P,6-3,R/R,15002,11,3,3,3,7,1,0.857,,,3,,,,
 2023,2022-23,MBA,235,Florida,1,I,SEC,7826513,32,Tucker Talbott,,,So,OF,-,,15002,8,0,,,0,,,,,,,,,
@@ -26,7 +22,11 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,235,Florida,1,I,SEC,7976684,1,Dale Thomas,,,Jr,INF,5-10,,15002,30,14,9,27,36,,1.000,,,,,4,,
 2023,2022-23,MBA,235,Florida,1,I,SEC,7976686,25,Richie Schiekofer,,,Sr,OF,6-0,L/R,15002,38,11,13,2,16,1,0.938,,,,,,,
 2023,2022-23,MBA,235,Florida,1,I,SEC,7976687,28,Luke Heyman,,,Fr,C,6-4,,15002,55,51,198,17,216,1,0.995,,4,9,,6,,1.000
-2023,2022-23,MBA,235,Florida,1,I,SEC,7976702,6,Tyler Shelnut,,,Jr,INF,6-2,,15002,53,50,72,13,87,2,0.977,,,,,2,,
-2023,2022-23,MBA,235,Florida,1,I,SEC,7976700,3,Cade Fisher,,,Fr,P,6-4,,15002,27,2,3,6,9,,1.000,,,,,,,
 2023,2022-23,MBA,235,Florida,1,I,SEC,7976698,15,BT Riopelle,,,Sr,C,-,,15002,69,68,672,49,729,8,0.989,3,14,23,8,8,,3.000
+2023,2022-23,MBA,235,Florida,1,I,SEC,7976700,3,Cade Fisher,,,Fr,P,6-4,,15002,27,2,3,6,9,,1.000,,,,,,,
 2023,2022-23,MBA,235,Florida,1,I,SEC,7976701,4,Cade Kurland,,,Fr,INF,5-11,,15002,68,67,73,118,199,8,0.960,,,,,18,,
+2023,2022-23,MBA,235,Florida,1,I,SEC,7976702,6,Tyler Shelnut,,,Jr,INF,6-2,,15002,53,50,72,13,87,2,0.977,,,,,2,,
+2023,2022-23,MBA,235,Florida,1,I,SEC,7976703,12,Hurston Waldrep,,,Jr,P,-,,15002,19,19,6,6,15,3,0.800,,,4,3,,,1.000
+2023,2022-23,MBA,235,Florida,1,I,SEC,7976704,17,Yoel Tejeda Jr.,,,Fr,P,6-8,B/R,15002,8,6,2,4,8,2,0.750,,,2,,,,
+2023,2022-23,MBA,235,Florida,1,I,SEC,7976706,26,Clete Hartzog,,,Jr,P,6-1,R/R,15002,7,1,1,,2,1,0.500,,,2,,,,
+2023,2022-23,MBA,235,Florida,1,I,SEC,7976708,47,Chris Arroyo,,,Fr,UT,-,,15002,7,0,,,0,,,,,1,,,,

@@ -1,8 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,batting_GP,batting_GS,batting_AVG,batting_OBP,batting_SLG,batting_R,batting_AB,batting_H,batting_2B,batting_3B,batting_TB,batting_HR,batting_RBI,batting_BB,batting_HBP,batting_SF,batting_SH,batting_SO,OPP DP,batting_CS,batting_PK,batting_SB,batting_IBB,batting_GDP,RBI2out
-2023,2022-23,MBA,675,Staten Island,2,II,ECC,8005394,9,Vincent Weigele,,,Fr,3B,5-11,R/R,15000,38,34,0.350,0.422,0.433,20,120,42,7,,52,1,29,15,,,,28,4,1,,,,4,
-2023,2022-23,MBA,675,Staten Island,2,II,ECC,8005395,19,Christopher Hayes,,,Fr,3B,5-10,R/R,15000,19,8,0.225,0.340,0.250,8,40,9,1,,10,,4,6,1,,,12,,,,2,,,
-2023,2022-23,MBA,675,Staten Island,2,II,ECC,8005396,34,Alex Martinez,,,Fr,INF,5-10,L/R,15000,16,2,0.000,0.125,0.000,,7,,,,0,,,1,,,,6,,,,,,,
-2023,2022-23,MBA,675,Staten Island,2,II,ECC,8005417,35,Ryan Fiore,,,Fr,P,6-2,R/R,15000,10,0,,,,,,,,,0,,,,,,,,,,,,,,
 2023,2022-23,MBA,675,Staten Island,2,II,ECC,7809613,14,Angel Santiago,,,Sr,OF,6-0,R/R,15000,22,11,0.279,0.326,0.372,4,43,12,2,1,16,,4,3,,,,8,2,1,,,,2,
 2023,2022-23,MBA,675,Staten Island,2,II,ECC,7809614,4,Michael Crocco,,,Sr,INF,5-9,L/R,15000,17,3,0.208,0.321,0.208,4,24,5,,,5,,3,3,1,,1,4,,,,,,,
 2023,2022-23,MBA,675,Staten Island,2,II,ECC,7809615,18,John Esposito,,,Sr,P,6-3,R/R,15000,11,10,,,,,,,,,0,,,,,,,,,,,,,,
@@ -20,6 +16,9 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,675,Staten Island,2,II,ECC,7809634,20,John Castiglione,,,Jr,C,6-0,R/R,15000,24,17,0.245,0.344,0.453,7,53,13,3,1,24,2,11,5,3,,,10,,,,1,,,
 2023,2022-23,MBA,675,Staten Island,2,II,ECC,7809636,11,Anthony Sutera,,,So,INF,6-3,R/R,15000,26,16,0.083,0.185,0.083,2,48,4,,,4,,5,6,,,1,11,,,,,,,
 2023,2022-23,MBA,675,Staten Island,2,II,ECC,7809637,24,Shendi Ulaj,,,Sr,INF,5-11,R/R,15000,39,38,0.356,0.451,0.475,32,118,42,6,1,56,2,19,22,1,3,,12,4,,,7,1,4,
+2023,2022-23,MBA,675,Staten Island,2,II,ECC,8005394,9,Vincent Weigele,,,Fr,3B,5-11,R/R,15000,38,34,0.350,0.422,0.433,20,120,42,7,,52,1,29,15,,,,28,4,1,,,,4,
+2023,2022-23,MBA,675,Staten Island,2,II,ECC,8005395,19,Christopher Hayes,,,Fr,3B,5-10,R/R,15000,19,8,0.225,0.340,0.250,8,40,9,1,,10,,4,6,1,,,12,,,,2,,,
+2023,2022-23,MBA,675,Staten Island,2,II,ECC,8005396,34,Alex Martinez,,,Fr,INF,5-10,L/R,15000,16,2,0.000,0.125,0.000,,7,,,,0,,,1,,,,6,,,,,,,
 2023,2022-23,MBA,675,Staten Island,2,II,ECC,8005406,10,Christian Rice,,,Fr,P,6-0,R/R,15000,10,9,,,,,,,,,0,,,,,,,,,,,,,,
 2023,2022-23,MBA,675,Staten Island,2,II,ECC,8005407,13,Joe Sollitto,,,Fr,INF,5-9,R/R,15000,18,1,0.118,0.250,0.118,3,17,2,,,2,,1,2,1,,,5,1,,1,,,1,
 2023,2022-23,MBA,675,Staten Island,2,II,ECC,8005408,15,Angelo DeFilippis,,,Fr,P,5-10,R/R,15000,7,2,,,,,,,,,0,,,,,,,,,,,,,,
@@ -30,3 +29,4 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,675,Staten Island,2,II,ECC,8005413,41,Aidan Kelty,,,Fr,P,6-2,R/R,15000,16,1,,,,,,,,,0,,,,,,,,,,,,,,
 2023,2022-23,MBA,675,Staten Island,2,II,ECC,8005414,42,Frank Retzlaff,,,Sr,P,6-5,R/R,15000,8,1,,,,,,,,,0,,,,,,,,,,,,,,
 2023,2022-23,MBA,675,Staten Island,2,II,ECC,8005415,44,Anthony Vigliotti,,,So,C,6-0,R/R,15000,41,35,0.430,0.514,0.628,30,121,52,10,1,76,4,34,22,1,2,,9,6,2,,2,,4,
+2023,2022-23,MBA,675,Staten Island,2,II,ECC,8005417,35,Ryan Fiore,,,Fr,P,6-2,R/R,15000,10,0,,,,,,,,,0,,,,,,,,,,,,,,

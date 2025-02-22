@@ -1,7 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988881,21,Santiago Gomez,,,Jr,P,6-4,R/R,15002,14,7,5,5,10,,1.000,,,2,1,,,1.000
-2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988896,30,Robert Moya,,,Jr,INF,6-0,R/R,15002,58,55,66,7,76,3,0.961,,,,,3,,
-2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988941,32,Carlos Oquita,,,Jr,UT,6-1,R/R,15002,15,2,13,1,14,,1.000,,,,,,,
 2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7824831,17,Derrius York,,,Sr,P,6-2,R/R,15002,16,0,,3,4,1,0.750,,,4,1,,,2.000
 2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7824835,35,Boris Pena,,,Sr,C,6-4,R/R,15002,55,48,179,16,197,2,0.990,,,,,4,,
 2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7824838,18,Nolan Santos,,,Jr,P,6-1,R/R,15002,16,16,5,12,18,1,0.944,,,15,3,,,2.000
@@ -21,15 +18,18 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7824861,40,Gabriel Perez,,,So,P,5-9,R/R,15002,17,0,2,2,4,,1.000,,,2,1,,,
 2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7824862,46,Marcos Gamboa,,,So,P,6-3,R/R,15002,10,5,1,6,7,,1.000,,,2,1,,,
 2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7824864,22,Irvin Escobar,,,Jr,C,6-0,R/R,15002,43,33,290,39,332,3,0.991,,7,28,13,1,,2.667
-2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7989022,8,Leandro Perez,,,Fr,OF,6-1,R/R,15002,15,0,7,,7,,1.000,,,,,,,
-2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988911,38,Omar Lopez,,,Fr,OF,6-0,R/R,15002,5,0,1,,1,,1.000,,,,,,,
-2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988864,11,Daniel Gaviria,,,Jr,P,5-10,L/L,15002,16,14,4,11,17,2,0.882,,,10,4,,,2.000
 2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988164,43,Jorge Braceras,,,Jr,C,5-10,R/R,15002,29,25,210,26,243,7,0.971,,6,33,6,1,,4.000
+2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988656,39,Derek Cintron,,,Fr,INF,5-8,R/R,15002,22,7,14,23,42,5,0.881,,,,,,,
+2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988663,34,Garret Chun,,,Jr,OF,5-7,L/L,15002,56,52,114,3,120,3,0.975,,,,,1,,
+2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988698,41,Albert Espinosa,,,Jr,C,6-0,B/R,15002,3,0,7,,7,,1.000,,,,,,,
+2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988864,11,Daniel Gaviria,,,Jr,P,5-10,L/L,15002,16,14,4,11,17,2,0.882,,,10,4,,,2.000
 2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988876,23,Jeremiah Guzman,,,Jr,OF,6-0,R/R,15002,18,9,21,,21,,1.000,,,,,,,
+2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988881,21,Santiago Gomez,,,Jr,P,6-4,R/R,15002,14,7,5,5,10,,1.000,,,2,1,,,1.000
+2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988891,24,Jason Hodges,,,Jr,OF,6-4,R/R,15002,36,21,48,1,49,,1.000,,,,,,,
+2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988896,30,Robert Moya,,,Jr,INF,6-0,R/R,15002,58,55,66,7,76,3,0.961,,,,,3,,
+2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988897,4,Hylan Hall,,,Jr,OF,6-3,R/R,15002,57,54,100,5,107,2,0.981,,,2,,1,,
+2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988911,38,Omar Lopez,,,Fr,OF,6-0,R/R,15002,5,0,1,,1,,1.000,,,,,,,
+2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988941,32,Carlos Oquita,,,Jr,UT,6-1,R/R,15002,15,2,13,1,14,,1.000,,,,,,,
+2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7989022,8,Leandro Perez,,,Fr,OF,6-1,R/R,15002,15,0,7,,7,,1.000,,,,,,,
 2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7989119,6,Pablo Torres,,,Fr,P,5-11,R/R,15002,15,4,,3,4,1,0.750,,,7,2,,,1.500
 2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7989126,5,Luis Tuero,,,Sr,INF,6-0,L/R,15002,49,46,36,53,99,10,0.899,,,,,3,,
-2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988663,34,Garret Chun,,,Jr,OF,5-7,L/L,15002,56,52,114,3,120,3,0.975,,,,,1,,
-2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988897,4,Hylan Hall,,,Jr,OF,6-3,R/R,15002,57,54,100,5,107,2,0.981,,,2,,1,,
-2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988656,39,Derek Cintron,,,Fr,INF,5-8,R/R,15002,22,7,14,23,42,5,0.881,,,,,,,
-2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988891,24,Jason Hodges,,,Jr,OF,6-4,R/R,15002,36,21,48,1,49,,1.000,,,,,,,
-2023,2022-23,MBA,61,Bethune-Cookman,1,I,SWAC,7988698,41,Albert Espinosa,,,Jr,C,6-0,B/R,15002,3,0,7,,7,,1.000,,,,,,,

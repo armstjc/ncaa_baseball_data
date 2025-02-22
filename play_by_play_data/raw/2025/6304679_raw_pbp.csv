@@ -1,0 +1,84 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,1,top,No play.,1,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,1,top,G Balius struck out swinging (1-2 KSBS).,2,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,1,top,"D Grego struck out swinging, out at first c to 1b (0-2 KSS).",3,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,1,top,K Griffin flied out to cf (0-0).,4,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,1,bot,White grounded out to 2b (1-2 KBF).,5,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,1,bot,Christiansen struck out swinging (1-2 FBKS).,6,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,1,bot,"Smith, JP grounded out to ss (0-0).",7,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,2,top,N Husovsky struck out swinging (0-2 SFFS).,8,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,2,top,A Richter grounded out to 2b (1-1 FB).,9,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,2,top,B Giovannett grounded out to 3b (2-1 BBS).,10,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,2,bot,Poturnak struck out swinging (2-2 BBSKS).,11,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,2,bot,Sewell flied out to lf down the lf line (3-2 BBKBF).,12,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,2,bot,Perez struck out swinging (1-2 BSSS).,13,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,3,top,DJ Scheumann grounded out to 1b unassisted (3-1 KBBB).,14,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,3,top,C Jacobs walked (3-2 KBBFBFB).,15,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,3,top,T Davis flied out to cf to left center (1-2 BSS)3a C Jacobs no advance.,16,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,3,top,C Jacobs stole second.,17,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,3,top,G Balius singled to shortstop (2-2 KFBB)3a C Jacobs advanced to third.,18,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,3,top,**mound visit**.,19,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,3,top,G Balius stole second.,20,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,3,top,D Grego struck out looking (1-2 SSBFK).,21,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,3,bot,Cortez walked (3-2 BBKKBB).,22,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,3,bot,Cortez advanced to second on a wild pitch.,23,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,3,bot,Cobarrubias walked (3-2 BBBKKB).,24,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,3,bot,**mound visit**.,25,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,3,bot,"Perazzo out at first 3b to 2b, SAC (1-0 B)3a Cobarrubias advanced to second3a Cortez advanced to third.",26,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,3,bot,"White grounded out to 2b, RBI (0-0)3a Cobarrubias advanced to third3a Cortez scored.",27,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,3,bot,Christiansen struck out swinging (2-2 BBSFS).,28,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,4,top,K Griffin singled through the left side (2-1 BKB).,29,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,4,top,N Husovsky grounded out to 3b (0-0)3a K Griffin advanced to second.,30,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,4,top,A Richter struck out swinging (2-2 KBKBS).,31,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,4,top,B Giovannett struck out looking (2-2 SBFBFK).,32,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,4,bot,"Smith, JP struck out swinging (2-2 BBKKS).",33,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,4,bot,Poturnak struck out swinging (1-2 FFBS).,34,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,4,bot,Sewell singled to right field (0-2 FK).,35,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,4,bot,Sewell stole second.,36,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,4,bot,"Perez doubled to left field, RBI (2-2 FBBS)3a Sewell scored.",37,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,4,bot,Cortez grounded out to p (1-0 B).,38,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,5,top,DJ Scheumann walked (3-2 KSBBBB).,39,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,5,top,C Jacobs reached on a fielding error by ss (2-2 BBKSFF)3a DJ Scheumann advanced to second.,40,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,5,top,T Davis lined out to lf (0-1 K)3a C Jacobs no advance3a DJ Scheumann no advance.,41,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,5,top,**Offensive Conference**.,42,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,5,top,G Balius struck out swinging (1-2 FFBS).,43,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,5,top,D Grego grounded out to 2b (0-2 KFF).,44,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,5,bot,Cobarrubias struck out looking (2-2 KBBSK).,45,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,5,bot,Perazzo struck out swinging (0-2 KSS).,46,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,5,bot,White walked (3-1 BBKBB).,47,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,5,bot,White stole second.,48,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,5,bot,White stole third.,49,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,5,bot,Christiansen struck out looking (3-2 FBKBBK).,50,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,6,top,K Griffin struck out swinging (0-2 KSS).,51,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,6,top,N Husovsky grounded out to 3b (1-2 KFB).,52,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,6,top,A Richter grounded out to 2b (3-2 KBBKBFFF).,53,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,6,bot,O Quinn to p for J Hartlaub.,54,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,6,bot,"Smith, JP singled up the middle (1-2 BSK).",55,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,6,bot,Poturnak struck out swinging (1-2 KBSS).,56,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,6,bot,Sewell struck out swinging (1-2 KBSS).,57,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,6,bot,Perez flied out to cf to right center (1-0 B).,58,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,7,top,"Brown, Ka to p for Gibbons.",59,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,7,top,B Giovannett struck out swinging (1-2 FBFS).,60,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,7,top,DJ Scheumann struck out swinging (1-2 KFBS).,61,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,7,top,C Jacobs struck out looking (0-2 KSFK).,62,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,7,bot,M Kalk to c for DJ Scheumann.,63,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,7,bot,Cortez struck out looking (1-2 BSKK).,64,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,7,bot,Cobarrubias walked (3-2 BBSBKB).,65,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,7,bot,Walton pinch ran for Cobarrubias.,66,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,7,bot,Walton stole second.,67,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,7,bot,Perazzo grounded out to 2b (0-0)3a Walton advanced to third.,68,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,7,bot,White flied out to rf (0-2 KF).,69,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,8,top,Walton to lf.,70,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,8,top,T Davis grounded out to 2b (1-0 B).,71,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,8,top,G Balius walked (3-0 BBBB).,72,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,8,top,**Offensive Timeout**.,73,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,8,top,D Grego grounded out to 1b unassisted (0-2 SS)3a G Balius advanced to second.,74,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,8,top,K Griffin popped up to 3b (0-0).,75,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,8,bot,Christiansen struck out swinging (1-2 SSBS).,76,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,8,bot,"Smith, JP flied out to cf (0-0).",77,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,8,bot,Poturnak singled through the left side (1-2 BKSF).,78,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596509,8,bot,Sewell struck out swinging (1-2 BKSS).,79,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,9,top,N Husovsky singled through the left side (0-0).,80,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,9,top,G Miller pinch ran for N Husovsky.,81,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,9,top,A Richter lined into double play ss to 1b (0-2 KS)3a G Miller out on the play.,82,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6304679,596491,Ball St. Cardinals,596509,Sacramento St. Hornets,596491,9,top,B Giovannett struck out looking (0-2 FSK).,83,2025-02-21T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025

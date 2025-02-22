@@ -1,8 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003902,9,Tanner Thompson,,,Fr,INF,5-9,R/R,15002,7,0,4,1,6,1,0.833,,,,,,,
-2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003910,17,Cole Ranweiler,,,Fr,OF,5-10,R/R,15002,19,0,2,,2,,1.000,,,,,,,
-2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003923,32,Aiden McGee,,,Fr,P,6-4,R/R,15002,20,0,1,7,9,1,0.889,,,4,2,,,1.000
-2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003927,37,Drew Hedtke,,,Fr,P,6-0,R/R,15002,2,1,1,,1,,1.000,,,,,,,
 2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,7832002,27,Beau Schumacher,,,Jr,C,6-1,R/R,15002,5,0,9,,9,,1.000,,,,,,,
 2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,7832004,11,Aidan Byrne,,,So,INF,6-1,R/R,15002,61,61,85,159,258,14,0.946,,,,,27,,
 2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,7832005,31,Derek Lilledahl,,,So,P,6-2,R/R,15002,7,0,,,0,,,,,2,,,,1.000
@@ -18,16 +14,20 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,7832023,36,Ryan Friedges,,,Jr,INF,6-2,R/R,15002,44,15,152,14,167,1,0.994,,,,,8,,
 2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,7832024,25,Ryan Wickman,,,Jr,OF,6-1,R/R,15002,57,56,101,1,106,4,0.962,,,,,,,
 2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,7832025,12,Spencer Wright,,,So,P,6-2,R/R,15002,18,2,3,4,7,,1.000,,,3,,,,1.000
-2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003907,15,Nick Baker,,,Jr,C,5-10,R/R,15002,46,37,266,24,292,2,0.993,,3,31,7,1,,5.000
-2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003926,35,Adam Weed,,,Jr,OF,6-1,L/R,15002,18,13,8,,8,,1.000,,,,,,,
+2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003705,1,Matthew Fleischhacker,,,Fr,INF,5-7,R/R,15002,56,51,89,116,213,8,0.962,,,,,26,,
 2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003888,14,Louis Magers,,,Fr,P,6-5,L/R,15002,46,40,55,2,57,,1.000,,,2,,,,1.000
 2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003890,19,Ben Irsfeld,,,Fr,P,5-10,R/R,15002,2,0,,1,1,,1.000,,,,,,,
 2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003891,23,Dylan Gotto,,,Sr,P,6-1,L/L,15002,16,13,7,23,31,1,0.968,,,4,5,1,,1.000
 2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003894,24,Brock Johnson,,,So,OF,5-11,R/R,15002,42,36,41,1,43,1,0.977,,,,,,,
-2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003939,34,Tanner Shumski,,,Fr,P,6-1,R/R,15002,12,0,1,3,4,,1.000,,,1,1,,,
-2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003705,1,Matthew Fleischhacker,,,Fr,INF,5-7,R/R,15002,56,51,89,116,213,8,0.962,,,,,26,,
 2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003899,5,Zach Stroh,,,So,C,5-11,L/R,15002,38,29,203,22,228,3,0.987,1,2,16,7,,,2.667
+2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003902,9,Tanner Thompson,,,Fr,INF,5-9,R/R,15002,7,0,4,1,6,1,0.833,,,,,,,
+2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003907,15,Nick Baker,,,Jr,C,5-10,R/R,15002,46,37,266,24,292,2,0.993,,3,31,7,1,,5.000
+2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003910,17,Cole Ranweiler,,,Fr,OF,5-10,R/R,15002,19,0,2,,2,,1.000,,,,,,,
 2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003915,21,Chandler Fochs,,,Jr,P,6-3,R/R,15002,14,13,4,7,12,1,0.917,,,7,2,1,,1.000
 2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003921,29,Ethan Stade,,,Fr,P,6-4,L/L,15002,10,0,,2,2,,1.000,,,2,,,,1.000
+2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003923,32,Aiden McGee,,,Fr,P,6-4,R/R,15002,20,0,1,7,9,1,0.889,,,4,2,,,1.000
+2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003926,35,Adam Weed,,,Jr,OF,6-1,L/R,15002,18,13,8,,8,,1.000,,,,,,,
+2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003927,37,Drew Hedtke,,,Fr,P,6-0,R/R,15002,2,1,1,,1,,1.000,,,,,,,
+2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003939,34,Tanner Shumski,,,Fr,P,6-1,R/R,15002,12,0,1,3,4,,1.000,,,1,1,,,
 2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8003981,38,Taisei Yahiro,,,Jr,P,6-2,L/L,15002,16,9,2,6,8,,1.000,,,6,1,,,1.000
 2023,2022-23,MBA,383,Minnesota St.,2,II,NSIC,8016565,39,Caden Carsen,,,Fr,p,-,,15002,6,0,,,0,,,,,,,,,

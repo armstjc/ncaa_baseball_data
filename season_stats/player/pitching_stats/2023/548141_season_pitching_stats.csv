@@ -1,9 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006478,5,Noah Lucier,,,Sr,SS,-,R/R,15001,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006480,7,Mike Handal,,,Sr,OF,5-11,L/L,15001,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006482,12,Luke Nomura,,,Fr,INF,5-10,R/R,15001,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006485,16,Ryan Smith,,,Sr,P,-,L/L,15001,13,13,,7.84,10.1,,13,9,9,16,11,,58,36,,,,2,1,4,,4,4,2,,219,10,4,,,,2,1
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006487,17,Matt Bucciero,,,Fr,OF,6-2,R/R,15001,47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,7826324,10,Paul Catalano,,,Jr,OF,6-0,L/R,15001,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,7826325,31,Ethan Hibbard,,,Sr,C,6-0,R/R,15001,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,7826326,30,Jack Erbeck,,,Sr,P,6-3,R/R,15001,19,19,2,5.91,32.0,,28,21,21,15,34,,143,120,7,,,4,4,6,,6,2,2,,529,34,26,3,1,3,14,
@@ -29,11 +24,16 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006473,1,Griffin Watson,,,Sr,INF,-,R/R,15001,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006474,3,Blake Helmstetter,,,So,P,5-7,L/L,15001,15,15,5,3.16,31.1,,23,18,11,14,23,,136,116,4,,,4,5,4,,8,3,,2,456,28,41,4,1,,6,1
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006476,4,Payten Wawruck,,,Fr,OF,6-0,L/R,15001,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006478,5,Noah Lucier,,,Sr,SS,-,R/R,15001,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006480,7,Mike Handal,,,Sr,OF,5-11,L/L,15001,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006482,12,Luke Nomura,,,Fr,INF,5-10,R/R,15001,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006483,14,JP Kuczik,,,Fr,C,5-6,R/R,15001,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006485,16,Ryan Smith,,,Sr,P,-,L/L,15001,13,13,,7.84,10.1,,13,9,9,16,11,,58,36,,,,2,1,4,,4,4,2,,219,10,4,,,,2,1
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006487,17,Matt Bucciero,,,Fr,OF,6-2,R/R,15001,47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006489,19,Aidan Colagrande,,,Fr,P,6-1,L/L,15001,2,2,,0.00,1.0,,1,1,,2,2,,6,4,,,,,2,,,2,,,,34,,1,,,,1,
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006497,25,Will Youngman,,,Fr,P,6-0,L/L,15001,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006499,29,Luke Marshall,,,Sr,P,-,R/R,15001,8,8,,12.79,6.1,,7,11,9,9,7,,35,26,3,,,,4,,,2,,,,138,4,7,1,,,5,
+2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006502,36,Jake Memoli,,,Fr,P,5-10,R/R,15001,20,20,,6.91,27.1,,28,25,21,12,19,,123,106,5,,,4,2,4,1,13,7,,1,395,41,18,1,1,,5,1
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006503,38,Kevin Kell,,,Fr,P,6-1,R/R,15001,16,16,8,8.56,27.1,,34,33,26,18,22,,139,108,6,1,,6,2,11,,7,4,2,,508,21,31,1,1,,4,5
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006505,37,Ryan Taffe,,,Fr,P,6-4,R/R,15001,10,10,,6.75,9.1,,7,7,7,10,15,,44,33,1,,1,3,1,,,5,2,1,,147,5,7,,,,3,
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006502,36,Jake Memoli,,,Fr,P,5-10,R/R,15001,20,20,,6.91,27.1,,28,25,21,12,19,,123,106,5,,,4,2,4,1,13,7,,1,395,41,18,1,1,,5,1
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006497,25,Will Youngman,,,Fr,P,6-0,L/L,15001,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006483,14,JP Kuczik,,,Fr,C,5-6,R/R,15001,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006489,19,Aidan Colagrande,,,Fr,P,6-1,L/L,15001,2,2,,0.00,1.0,,1,1,,2,2,,6,4,,,,,2,,,2,,,,34,,1,,,,1,
 2023,2022-23,MBA,220,Fairfield,1,I,MAAC,8006506,41,Jake Noviello,,,Sr,P,-,R/R,15001,15,15,14,5.22,89.2,1,96,54,52,30,52,1,399,348,20,,,13,5,12,,1,1,3,6,"1,138",83,121,7,3,,16,

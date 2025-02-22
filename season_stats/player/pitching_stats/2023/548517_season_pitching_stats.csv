@@ -1,10 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008142,1,Christopher Naronis,,,Fr,P,5-10,R/R,15001,15,15,9,5.74,58.0,,63,45,37,32,42,,269,223,11,1,2,2,13,9,1,4,2,2,3,812,63,55,5,6,,14,1
-2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008143,2,Andrew Ramirez,,,Fr,INF,5-11,R/R,15001,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008144,9,Francis Segarra,,,Sr,SS,6-2,R/R,15001,29,1,,,,,0,,,1,,,1,,,,,,,,,,,,,4,,,,,,,
-2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008149,29,Alex Zavala-Rios,,,So,C,5-10,R/R,15001,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008151,36,Blake Jefremow,,,So,P,6-2,R/R,15001,6,6,1,7.94,5.2,,7,6,5,3,10,,31,25,2,1,,,3,3,,1,1,,,110,4,3,,,,5,
-2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008154,40,Ben Nosvitch,,,Fr,P,6-1,R/R,15001,8,6,,10.00,9.0,,8,11,10,14,3,,52,32,2,,,1,6,5,,,,,1,154,10,12,1,,,2,
 2023,2022-23,MBA,560,Queens (NY),2,II,ECC,7832681,19,Reed Hoskins,,,Jr,UT,6-0,R/R,15001,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,560,Queens (NY),2,II,ECC,7832682,17,Nick Barreiros,,,Jr,C,6-0,R/R,15001,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,560,Queens (NY),2,II,ECC,7832685,22,Danny Gargano,,,Sr,P,6-1,R/R,15001,17,17,,4.35,31.0,,32,20,15,13,34,,150,125,3,1,,1,3,7,1,7,4,2,3,415,23,34,2,2,9,3,
@@ -17,14 +11,20 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,560,Queens (NY),2,II,ECC,7832697,25,Matt Filip,,,So,1B,6-4,R/R,15001,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,560,Queens (NY),2,II,ECC,7832701,12,Joseph Cornielle,,,So,INF,5-7,R/R,15001,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,560,Queens (NY),2,II,ECC,7832703,18,Mike Freda,,,So,C,5-10,R/R,15001,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008147,13,Jorsixt Jimenez,,,Fr,3B,6-0,R/R,15001,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008150,33,Dean Fazah,,,Sr,P,6-1,L/L,15001,14,14,9,5.95,56.0,,76,44,37,24,18,,259,225,11,1,1,3,5,4,,3,3,2,4,698,70,61,6,2,,6,3
-2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008148,24,Anthony Fontana,,,So,1B,6-4,L/L,15001,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008146,10,Joey Patane,,,Fr,UT,5-10,R/R,15001,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008153,45,Nick Kozerski,,,So,P,5-10,R/R,15001,16,16,4,7.75,33.2,,49,29,29,18,25,,163,139,9,,,4,2,4,,8,6,1,1,476,31,36,3,,,6,2
-2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008145,8,Stephen Castro,,,Sr,P,5-10,R/R,15001,20,20,,5.23,20.2,,23,14,12,7,13,,91,77,4,,,3,,3,,15,3,1,3,300,11,33,2,,,4,1
 2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008123,3,Jayson Rodopoulos,,,Sr,OF,6-0,R/R,15001,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008124,14,John Rodopoulos,,,Sr,P,6-2,R/R,15001,14,14,2,5.45,34.2,,36,24,21,26,30,,166,131,8,1,,1,2,4,,2,2,4,1,613,18,51,2,2,,9,
+2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008142,1,Christopher Naronis,,,Fr,P,5-10,R/R,15001,15,15,9,5.74,58.0,,63,45,37,32,42,,269,223,11,1,2,2,13,9,1,4,2,2,3,812,63,55,5,6,,14,1
+2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008143,2,Andrew Ramirez,,,Fr,INF,5-11,R/R,15001,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008144,9,Francis Segarra,,,Sr,SS,6-2,R/R,15001,29,1,,,,,0,,,1,,,1,,,,,,,,,,,,,4,,,,,,,
+2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008145,8,Stephen Castro,,,Sr,P,5-10,R/R,15001,20,20,,5.23,20.2,,23,14,12,7,13,,91,77,4,,,3,,3,,15,3,1,3,300,11,33,2,,,4,1
+2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008146,10,Joey Patane,,,Fr,UT,5-10,R/R,15001,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008147,13,Jorsixt Jimenez,,,Fr,3B,6-0,R/R,15001,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008148,24,Anthony Fontana,,,So,1B,6-4,L/L,15001,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008149,29,Alex Zavala-Rios,,,So,C,5-10,R/R,15001,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008150,33,Dean Fazah,,,Sr,P,6-1,L/L,15001,14,14,9,5.95,56.0,,76,44,37,24,18,,259,225,11,1,1,3,5,4,,3,3,2,4,698,70,61,6,2,,6,3
+2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008151,36,Blake Jefremow,,,So,P,6-2,R/R,15001,6,6,1,7.94,5.2,,7,6,5,3,10,,31,25,2,1,,,3,3,,1,1,,,110,4,3,,,,5,
+2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008153,45,Nick Kozerski,,,So,P,5-10,R/R,15001,16,16,4,7.75,33.2,,49,29,29,18,25,,163,139,9,,,4,2,4,,8,6,1,1,476,31,36,3,,,6,2
+2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8008154,40,Ben Nosvitch,,,Fr,P,6-1,R/R,15001,8,6,,10.00,9.0,,8,11,10,14,3,,52,32,2,,,1,6,5,,,,,1,154,10,12,1,,,2,
 2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8016662,6,Christian Duarte,,,N/A,p,5-10,R/R,15001,5,5,,0.00,2.2,,4,4,,3,4,,18,12,2,,,1,1,2,,3,3,,1,64,1,3,,,,1,
 2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8023515,7,Juan De La Rosa,,,So,3B,5-11,R/R,15001,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,560,Queens (NY),2,II,ECC,8155617,26,Joshuel Rodriguez,,,Fr,P,5-10,R/R,15001,9,9,2,3.38,26.2,,28,14,10,8,9,,120,108,6,,1,1,3,3,,5,4,1,,379,34,34,2,1,1,5,

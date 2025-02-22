@@ -1,0 +1,25 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,7813576,25,Clayton Harper,,,Jr,P,6-0,R/R,15001,10,10,2,12.18,17.0,,23,25,23,11,13,,95,71,5,,,5,3,10,,2,2,1,2,186,15,21,,2,,5,1
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,7813577,14,Christian Peruzzi,,,Jr,OF,6-0,L/L,15001,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,7813578,8,Chris Alcantara,,,Sr,P,6-0,R/R,15001,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,7813579,6,Michael Petit,,,Jr,INF,6-0,R/R,15001,10,1,,,,,2,5,5,2,,,6,2,,,,,,2,,1,1,,,,,,,,,,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,7813580,22,Jon Campbell,,,Sr,P,6-4,R/R,15001,9,9,8,6.60,45.0,1,62,40,33,27,39,,226,188,14,1,1,,7,7,1,,,1,3,685,43,40,2,5,,13,1
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,7813581,3,A.T. DiPina,,,Jr,C,5-7,R/R,15001,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,7813582,17,Brandon Sullivan,,,Sr,P,6-1,R/R,15001,21,10,6,10.97,32.0,,38,46,39,43,35,,177,127,6,,,2,16,4,1,,,,3,736,33,21,,6,,11,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,7813583,21,Zach Smith,,,Jr,OF,5-10,R/R,15001,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,7813584,20,Brodi Farinas,,,Jr,P,5-8,R/R,15001,10,10,5,7.46,35.0,,46,32,29,15,32,,171,150,10,2,2,5,3,2,,,,1,3,532,36,34,,4,,13,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,7813586,2,Aaron Lundgren,,,Sr,C,5-8,R/R,15001,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,7813587,1,Matt Rice,,,Jr,INF,6-1,L/R,15001,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,7813588,26,Matt Silvia,,,So,P,5-7,L/L,15001,8,8,,20.86,7.1,,15,18,17,14,5,,52,35,6,1,,,3,3,,2,2,,,109,6,8,,,,2,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,7813589,7,Matt Ferrara,,,So,P,5-10,R/R,15001,11,11,2,8.55,20.0,,36,19,19,10,26,,108,96,3,3,,5,2,2,,4,3,,,358,11,22,,1,,10,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,7813590,4,Jake Prisco,,,So,INF,5-6,R/R,15001,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,7813591,28,Brady Aubuchon,,,So,P,6-1,R/R,15001,12,12,4,6.89,32.2,,38,31,25,20,19,,161,127,9,1,1,4,8,6,,,,6,2,531,29,47,2,3,,7,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,8003284,33,Orin Mahikoa,,,Sr,P,6-3,R/R,15001,3,3,,67.50,1.1,,4,10,10,8,,,17,8,,,1,,2,1,,,,,,73,2,2,,,,,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,8003285,5,Nolan McManus,,,Sr,OF,5-11,L/R,15001,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,8004134,16,Griffin Cournan,,,Jr,OF,6-2,R/R,15001,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,8004183,9,Mike Sibert,,,Fr,INF,5-9,L/R,15001,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,8004185,12,Matthew Favazzo,,,Fr,INF,5-11,R/R,15001,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,8004188,18,Matt Robinson,,,Fr,INF,6-0,R/R,15001,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,8004189,19,Connor Whitehead,,,Fr,P,6-0,R/R,15001,10,10,2,10.64,22.0,,34,34,26,18,12,,126,97,7,1,,2,11,7,,,,1,3,343,26,24,,3,,7,
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,8004190,27,Alec Peruzzi,,,Fr,OF,6-2,L/R,15001,16,11,2,7.11,19.0,,22,16,15,20,17,,97,72,2,,,,3,2,2,2,,2,1,320,15,19,,3,,7,2
+2023,2022-23,MBA,762,Wentworth,3,III,CCC,8023332,23,Nick Cullinan,,,Fr,INF,6-1,L/L,15001,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

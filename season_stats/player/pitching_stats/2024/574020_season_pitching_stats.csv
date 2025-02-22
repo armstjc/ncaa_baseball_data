@@ -1,13 +1,14 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2024,2023-24,MBA,81,Bryant,1,I,America East,8270185,13,Kaden Hilburger,,,So,UT,6-0,B/R,15081,,1,,0.00,1.0,,0,,,0,1,,3,3,,,,,,,,,,,,10,,2,,,,1,
-2024,2023-24,MBA,81,Bryant,1,I,America East,8275037,26,Toby Scheidt,,,So,P,6-0,R/R,15081,,14,3,5.94,16.2,,16,16,11,14,16,,89,61,3,,,1,,13,,7,4,,1,178,20,8,3,2,,3,
+2024,2023-24,MBA,81,Bryant,1,I,America East,8263027,50,Mark Scamardella,,,Sr,P,6-1,R/R,15081,,22,,4.55,27.2,,23,16,14,11,24,,125,100,2,,,6,1,10,2,26,14,2,2,325,33,23,2,1,,11,1
 2024,2023-24,MBA,81,Bryant,1,I,America East,8263581,12,Jared Burrows,,,Sr,P,5-11,R/R,15081,,20,,5.13,26.1,,23,19,15,20,23,,130,100,7,1,1,,5,7,1,14,5,1,2,301,24,28,4,3,1,12,
+2024,2023-24,MBA,81,Bryant,1,I,America East,8270185,13,Kaden Hilburger,,,So,UT,6-0,B/R,15081,,1,,0.00,1.0,,0,,,0,1,,3,3,,,,,,,,,,,,10,,2,,,,1,
 2024,2023-24,MBA,81,Bryant,1,I,America East,8270471,1,Austin Wainer,,,Sr,P,5-8,R/R,15081,,16,16,4.52,85.2,1,91,52,43,27,69,,389,341,17,,1,10,1,16,2,,,3,2,"1,021",95,85,7,3,,17,1
 2024,2023-24,MBA,81,Bryant,1,I,America East,8270539,32,Ryan Bradley,,,Sr,P,5-10,L/L,15081,,19,,7.32,19.2,,22,20,16,17,20,,101,78,5,,,3,3,3,1,7,4,2,1,222,15,23,,,1,9,
-2024,2023-24,MBA,81,Bryant,1,I,America East,8263027,50,Mark Scamardella,,,Sr,P,6-1,R/R,15081,,22,,4.55,27.2,,23,16,14,11,24,,125,100,2,,,6,1,10,2,26,14,2,2,325,33,23,2,1,,11,1
-2024,2023-24,MBA,81,Bryant,1,I,America East,8285234,40,Vincent Purpura,,,So,P,6-7,R/L,15081,,1,,13.50,1.1,,3,2,2,1,1,,8,7,1,,,,1,,,3,1,,,36,2,1,,,,1,
+2024,2023-24,MBA,81,Bryant,1,I,America East,8275037,26,Toby Scheidt,,,So,P,6-0,R/R,15081,,14,3,5.94,16.2,,16,16,11,14,16,,89,61,3,,,1,,13,,7,4,,1,178,20,8,3,2,,3,
 2024,2023-24,MBA,81,Bryant,1,I,America East,8280135,21,Michael Morrissey,,,Sr,P,6-1,R/R,15081,,12,2,9.22,13.2,,11,16,14,17,9,,69,51,,,,3,2,1,,9,2,,,128,15,14,,2,,4,
+2024,2023-24,MBA,81,Bryant,1,I,America East,8285234,40,Vincent Purpura,,,So,P,6-7,R/L,15081,,1,,13.50,1.1,,3,2,2,1,1,,8,7,1,,,,1,,,3,1,,,36,2,1,,,,1,
 2024,2023-24,MBA,81,Bryant,1,I,America East,8417282,17,Liam LeVangie,,,Sr,P,5-11,R/R,15081,,18,7,8.65,34.1,,54,39,33,12,33,,172,152,13,,,6,4,3,,8,1,4,1,286,32,35,2,2,,3,
+2024,2023-24,MBA,81,Bryant,1,I,America East,8417292,30,Tyler Tornberg,,,Sr,P,6-1,R/R,15081,,10,,15.75,8.0,,14,16,14,8,5,,52,37,4,,,1,,6,,10,7,,1,114,9,7,1,,,2,
 2024,2023-24,MBA,81,Bryant,1,I,America East,8417310,2,Cameron Foster,,,So,P,5-9,R/R,15081,,1,,27.00,0.2,,1,2,2,3,,,6,3,,,,,3,,,,,,,27,1,1,,,,,
 2024,2023-24,MBA,81,Bryant,1,I,America East,8417316,10,Tyler Horvat,,,Sr,UT,6-1,L/R,15081,,9,9,3.27,55.0,2,52,23,20,10,42,,227,208,9,2,,6,1,5,,,,3,1,401,54,60,4,2,,15,1
 2024,2023-24,MBA,81,Bryant,1,I,America East,8417319,31,Luke Delongchamp,,,Jr,P,6-1,R/R,15081,,14,14,2.76,65.1,,59,31,20,18,59,,279,244,11,,,5,1,11,,,,1,4,695,74,54,5,2,,13,
@@ -18,4 +19,3 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2024,2023-24,MBA,81,Bryant,1,I,America East,8417356,35,Sean Zaslaw,,,Fr,P,6-0,R/R,15081,,18,2,6.98,19.1,,27,15,15,19,13,,102,76,3,1,,,,5,,12,8,2,,285,22,14,2,,,4,
 2024,2023-24,MBA,81,Bryant,1,I,America East,8417371,42,Colin Brodeur,,,Jr,P,6-2,R/R,15081,,13,2,6.23,17.1,,17,17,12,11,8,,84,64,6,,1,1,6,8,,5,,1,,194,30,8,1,1,,2,1
 2024,2023-24,MBA,81,Bryant,1,I,America East,8417540,36,Bradley Lewis,,,Jr,P,5-10,L/L,15081,,16,,5.94,16.2,,18,15,11,17,10,,88,62,4,2,,1,2,6,1,9,4,3,,235,22,14,,1,,5,1
-2024,2023-24,MBA,81,Bryant,1,I,America East,8417292,30,Tyler Tornberg,,,Sr,P,6-1,R/R,15081,,10,,15.75,8.0,,14,16,14,8,5,,52,37,4,,,1,,6,,10,7,,1,114,9,7,1,,,2,

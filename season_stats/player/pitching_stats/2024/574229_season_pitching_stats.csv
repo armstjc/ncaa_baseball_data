@@ -1,18 +1,18 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8269929,37,Xavier Franco,,,Fr,P,5-9,R/R,15081,,17,,9.19,15.2,,27,17,16,11,11,,84,63,3,,,2,3,3,,17,7,2,5,302,8,24,,,,3,
-2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8589508,36,Julian Custer,,,Fr,P,6-2,R/R,15081,,8,1,7.82,12.2,,9,11,11,11,12,,59,42,,1,,,1,3,,7,1,1,2,177,8,15,1,1,,6,
+2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8261428,11,Zack Ernisse,,,Jr,P,6-0,L/L,15081,,12,11,7.13,41.2,,45,36,33,31,39,,201,160,11,,,4,12,5,,3,3,4,1,704,47,33,1,3,,15,1
+2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8261611,27,Ryan Forcucci,,,Jr,P,6-3,R/R,15081,,5,5,2.16,25.0,,14,9,6,6,37,,97,88,4,1,,,1,1,,,,,2,374,14,24,2,1,,12,
+2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8262808,4,Izaak Martinez,,,Sr,P,5-10,R/L,15081,,25,,1.85,63.1,,40,16,13,20,61,,255,218,5,1,,1,7,5,2,10,2,9,3,907,51,76,4,3,9,22,
 2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8266871,22,Donovan Chriss,,,So,P,6-0,R/R,15081,,17,3,8.76,24.2,,34,24,24,11,17,,123,105,8,,,7,1,3,,7,2,3,1,379,25,32,1,1,1,7,
 2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8266924,38,Niccolas Gregson,,,Jr,P,5-11,R/R,15081,,1,1,9.00,1.0,,3,1,1,0,1,,6,6,,,,,,,,,,,,26,1,1,,,,,
+2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8269929,37,Xavier Franco,,,Fr,P,5-9,R/R,15081,,17,,9.19,15.2,,27,17,16,11,11,,84,63,3,,,2,3,3,,17,7,2,5,302,8,24,,,,3,
 2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8275279,28,Matthew Dalquist,,,Fr,P,5-10,B/R,15081,,14,13,4.71,72.2,,72,40,38,17,68,,304,277,13,1,,8,,5,,,,3,2,986,69,70,6,3,,20,
-2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8261428,11,Zack Ernisse,,,Jr,P,6-0,L/L,15081,,12,11,7.13,41.2,,45,36,33,31,39,,201,160,11,,,4,12,5,,3,3,4,1,704,47,33,1,3,,15,1
-2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8262808,4,Izaak Martinez,,,Sr,P,5-10,R/L,15081,,25,,1.85,63.1,,40,16,13,20,61,,255,218,5,1,,1,7,5,2,10,2,9,3,907,51,76,4,3,9,22,
-2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8261611,27,Ryan Forcucci,,,Jr,P,6-3,R/R,15081,,5,5,2.16,25.0,,14,9,6,6,37,,97,88,4,1,,,1,1,,,,,2,374,14,24,2,1,,12,
+2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8278852,20,Sam Hasegawa,,,Jr,P,6-0,L/L,15081,,8,,9.58,10.1,,16,11,11,2,12,,52,47,1,1,,1,3,3,,,,,,171,13,6,,1,,1,
 2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8280263,25,Ryan Rissas,,,Sr,P,6-3,L/L,15081,,3,,1.69,5.1,,4,2,1,3,4,,24,18,,,,,,1,,,,2,,53,7,3,1,1,,2,
 2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8281953,50,Ryan Farmer,,,Sr,P,6-1,R/R,15081,,8,,11.30,14.1,,32,23,18,4,9,,81,76,4,1,,6,,,,3,,,1,223,9,24,1,1,,2,
 2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8282261,24,Anthony Eyanson,,,So,P,6-2,R/R,15081,,14,9,3.07,82.0,1,55,29,28,24,85,,322,289,15,3,,2,7,4,,4,,4,1,"1,049",95,58,6,2,1,15,1
 2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8283603,13,Spencer Seid,,,So,P,5-11,L/L,15081,,22,5,5.25,48.0,,43,32,28,17,43,,213,183,9,1,,4,1,8,,8,3,4,1,727,40,54,5,2,,16,2
-2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8278852,20,Sam Hasegawa,,,Jr,P,6-0,L/L,15081,,8,,9.58,10.1,,16,11,11,2,12,,52,47,1,1,,1,3,3,,,,,,171,13,6,,1,,1,
-2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8589489,31,Nathan Huy,,,Fr,P,6-2,R/L,15081,,11,,10.05,14.1,,19,17,16,14,4,,72,56,1,,,3,,,,2,,,2,255,16,19,,1,1,2,
 2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8589483,21,Joel Tornero,,,Sr,P,6-0,L/L,15081,,1,,,,,0,,,0,1,,1,1,,,,,2,,,2,2,,,6,,,,,,,
+2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8589489,31,Nathan Huy,,,Fr,P,6-2,R/L,15081,,11,,10.05,14.1,,19,17,16,14,4,,72,56,1,,,3,,,,2,,,2,255,16,19,,1,1,2,
 2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8589491,34,Landon Marchetti,,,Fr,P,5-10,R/L,15081,,18,5,5.86,35.1,,51,26,23,17,30,,173,150,9,,,5,2,4,1,3,1,2,,608,21,48,2,3,1,6,1
+2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8589508,36,Julian Custer,,,Fr,P,6-2,R/R,15081,,8,1,7.82,12.2,,9,11,11,11,12,,59,42,,1,,,1,3,,7,1,1,2,177,8,15,1,1,,6,
 2024,2023-24,MBA,112,UC San Diego,1,I,Big West,8589509,41,Devon King,,,Fr,P,6-1,R/R,15081,,12,,11.45,11.0,,16,14,14,11,8,,64,45,3,1,,2,1,5,1,6,4,1,2,233,12,12,,,,3,

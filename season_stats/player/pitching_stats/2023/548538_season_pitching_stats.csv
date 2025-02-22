@@ -1,6 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7989798,6,Alex Dayle,,,Fr,,-,,15001,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7989861,20,Coron Wallace,,,Jr,,-,,15001,11,11,9,6.20,45.0,2,46,39,31,37,11,,220,169,5,,,1,2,4,1,,,5,5,106,33,82,2,5,,5,
 2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7833284,10,Christian Henderson,,,Jr,INF,-,,15001,46,14,9,3.78,66.2,4,77,38,28,13,28,1,300,268,15,1,1,,3,8,,3,,5,5,318,57,104,4,4,,11,
 2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7833285,19,Pedro Mendez,,,So,INF,-,,15001,16,3,,4.15,4.1,,2,6,2,3,,,20,15,1,,,,,2,,,,,,83,5,7,,,,,
 2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7833286,23,Ricky Jones,,,Sr,OF,6-2,,15001,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -12,15 +10,17 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7833293,3,Bryce Wilmoth,,,Jr,OF,-,,15001,32,1,,13.50,2.0,,3,3,3,2,1,,11,9,2,,,,,,,,,,,,2,3,,,,1,
 2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7833294,9,Dawsyn Hock,,,Jr,C,-,,15001,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7833295,18,David Johnson,,,So,OF,-,,15001,35,7,,7.27,8.2,,12,9,7,12,4,,52,37,1,,1,,3,2,,6,2,,1,32,6,15,1,1,,1,
-2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7989828,12,Aldrewvonte Jackson,,,So,,-,,15001,17,17,1,5.94,33.1,,36,32,22,29,35,,176,132,6,,1,1,3,8,1,6,5,4,3,199,22,41,2,3,,10,
 2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7989769,2,Rahzel  Atkinson,,,Fr,INF,-,,15001,1,1,,13.50,0.2,,1,1,1,3,,,6,2,,,,,,,,2,2,,1,,,2,,,,,
-2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,8012727,16,Liam Simpson,,,Fr,lf,-,,15001,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7989770,4,Markeefe Beckett,,,So,OF,-,,15001,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7989795,7,Joseph  Hastings,,,So,P,-,,15001,21,11,9,3.23,53.0,2,42,27,19,11,44,,223,204,9,1,,1,2,4,,,,2,1,213,49,59,6,3,,16,1
+2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7989798,6,Alex Dayle,,,Fr,,-,,15001,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7989821,21,Robert Hatcher,,,Jr,P,-,,15001,1,1,1,9.00,5.0,,8,8,5,2,6,,28,25,2,1,,,3,1,,,,,,,5,5,,1,,3,
+2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7989828,12,Aldrewvonte Jackson,,,So,,-,,15001,17,17,1,5.94,33.1,,36,32,22,29,35,,176,132,6,,1,1,3,8,1,6,5,4,3,199,22,41,2,3,,10,
 2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7989831,13,Norman Jackson,,,Fr,INF,-,,15001,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7989836,15,"Gene Ligion, Jr.",,,Fr,,-,,15001,13,5,1,34.71,2.1,,6,12,9,8,2,,27,14,1,,,,,4,,,,,1,,1,4,,,,2,
 2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7989841,16,Matthew May,,,Fr,,-,,15001,20,13,7,10.54,35.0,,43,48,41,34,20,,196,139,4,2,2,3,9,16,1,1,1,6,1,196,26,52,1,5,,5,2
+2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7989861,20,Coron Wallace,,,Jr,,-,,15001,11,11,9,6.20,45.0,2,46,39,31,37,11,,220,169,5,,,1,2,4,1,,,5,5,106,33,82,2,5,,5,
 2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,7999343,22,Justis Crawley,,,Fr,p,-,,15001,36,1,1,31.15,4.1,,13,15,15,2,1,,34,26,1,,,1,1,6,,,,,,,5,7,,1,,,
+2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,8012727,16,Liam Simpson,,,Fr,lf,-,,15001,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,8019554,18,Jody Morris,,,Fr,p,-,,15001,23,11,3,8.90,30.1,1,52,33,30,18,11,,161,133,9,,2,4,2,6,,,,2,1,147,26,45,1,2,,3,3
 2023,2022-23,MBA,743,Virginia St.,2,II,DII Independent,8154729,18,M Jackson,,,N/A,p,-,,15001,2,2,,0.00,4.1,,1,,,1,8,,15,12,,,,,1,,,,,,,64,2,3,,,,,

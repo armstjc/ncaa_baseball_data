@@ -1,11 +1,7 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7973587,22,Luke Stofel,,,Jr,P,6-5,R/R,15002,17,14,4,11,17,2,0.882,,,8,2,,,1.000
 2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7823470,14,Jake Shirk,,,Jr,P,6-2,R/R,15002,16,15,2,11,14,1,0.929,,,7,3,,,
 2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7823471,6,Jay Luikart,,,Jr,P,6-0,L/L,15002,62,62,295,14,313,4,0.987,,,2,,21,,
-2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7973588,27,Garrett Peters,,,So,P,6-0,R/L,15002,10,0,,3,3,,1.000,,,5,2,,,
-2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7973590,30,Patrick Fultz,,,Fr,INF,6-0,L/R,15002,44,44,31,70,106,5,0.953,,,,,1,,
 2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7823476,28,Gehrig Anglin,,,Sr,INF,6-2,R/R,15002,49,46,75,111,195,9,0.954,,,,,23,,
-2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7973592,36,Joey Valentine,,,Fr,P,6-2,L/L,15002,25,0,,,0,,,,,1,,,,
 2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7823478,3,Justin Riemer,,,So,INF,6-0,R/R,15002,12,12,6,17,24,1,0.958,,,,,2,,
 2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7823479,11,Sammy Sass,,,Jr,C,6-1,R/R,15002,62,62,387,46,439,6,0.986,,5,42,15,2,,1.000
 2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7823481,55,Julian Greenwell,,,Jr,UT,5-11,L/L,15002,51,51,237,16,256,3,0.988,,,,,14,,
@@ -27,5 +23,9 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7823501,23,Andrew Patrick,,,So,INF,6-4,R/R,15002,61,61,142,1,145,2,0.986,,,,,1,,
 2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7973563,18,Boston Smith,,,So,C,5-10,L/R,15002,57,50,158,12,172,2,0.988,,6,11,3,1,,
 2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7973566,32,Calvin Mitchell,,,Fr,P,6-2,R/R,15002,4,0,,,0,,,,,,,,,
-2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7973619,43,Warren Hartzell,,,Fr,P,6-0,L/R,15002,16,0,1,2,3,,1.000,,,3,2,,,
+2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7973587,22,Luke Stofel,,,Jr,P,6-5,R/R,15002,17,14,4,11,17,2,0.882,,,8,2,,,1.000
+2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7973588,27,Garrett Peters,,,So,P,6-0,R/L,15002,10,0,,3,3,,1.000,,,5,2,,,
+2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7973590,30,Patrick Fultz,,,Fr,INF,6-0,L/R,15002,44,44,31,70,106,5,0.953,,,,,1,,
+2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7973592,36,Joey Valentine,,,Fr,P,6-2,L/L,15002,25,0,,,0,,,,,1,,,,
 2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7973596,40,Ben Vore,,,Jr,P,6-2,R/R,15002,25,1,6,,6,,1.000,,,,,,,
+2023,2022-23,MBA,810,Wright St.,1,I,Horizon,7973619,43,Warren Hartzell,,,Fr,P,6-0,L/R,15002,16,0,1,2,3,,1.000,,,3,2,,,

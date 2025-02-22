@@ -1,5 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991240,55,Jake Kramer,,,Fr,P,6-3,R/R,15002,17,0,,2,2,,1.000,,,1,,1,,
 2023,2022-23,MBA,106,California (PA),2,II,PSAC,7810413,22,Devin Foster,,,Sr,P,6-2,L/L,15002,11,5,2,6,9,1,0.889,,,5,1,,,
 2023,2022-23,MBA,106,California (PA),2,II,PSAC,7810414,39,Aaron Lindow,,,So,P,6-4,L/L,15002,2,0,,,0,,,,,1,1,,,
 2023,2022-23,MBA,106,California (PA),2,II,PSAC,7810416,21,Jaret Muckley,,,So,P,5-10,L/L,15002,8,6,,6,7,1,0.857,,,3,1,,,
@@ -21,16 +20,17 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,106,California (PA),2,II,PSAC,7810436,3,Roman Gill,,,So,P,6-3,R/R,15002,11,11,2,5,7,,1.000,,,3,1,,,0.500
 2023,2022-23,MBA,106,California (PA),2,II,PSAC,7810437,18,Brian Horoshko,,,So,C,6-0,R/R,15002,7,0,3,,3,,1.000,,,,,,,
 2023,2022-23,MBA,106,California (PA),2,II,PSAC,7810438,14,Tanner Phillips,,,So,P,6-0,L/R,15002,7,0,2,,2,,1.000,,,4,1,,,
-2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991204,1,Jacob Walker,,,Fr,INF,6-0,R/R,15002,19,10,18,2,21,1,0.952,,,,,1,,
-2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991208,11,Sam Georgiana,,,Fr,P,6-0,L/L,15002,15,3,2,4,6,,1.000,,,4,3,,,
-2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991212,34,Nathan Holmes,,,Fr,P,5-11,R/R,15002,11,9,1,7,8,,1.000,,,1,1,,,
-2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991239,50,Jason Peterson,,,Fr,UT,6-2,L/R,15002,8,3,25,1,27,1,0.963,,,,,,,
-2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991221,42,Conor Carney,,,Fr,INF,5-11,L/R,15002,27,19,107,7,117,3,0.974,,,,,7,,
-2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991224,44,Michael Valente,,,Fr,P,6-0,R/R,15002,15,0,1,4,5,,1.000,,,2,2,,,1.000
 2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991196,17,Zach Rohaley,,,Sr,P,6-2,R/R,15002,1,1,,,0,,,,,1,,,,
-2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991225,45,Brandon Robaugh,,,Fr,P,5-10,R/R,15002,2,0,,1,1,,1.000,,,3,,,,
+2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991204,1,Jacob Walker,,,Fr,INF,6-0,R/R,15002,19,10,18,2,21,1,0.952,,,,,1,,
 2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991205,7,Ryan Callahan,,,So,OF,6-2,R/R,15002,49,49,77,4,83,2,0.976,,,,,1,,
 2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991207,9,Justin Stewart,,,Sr,C,6-1,R/R,15002,45,43,227,26,256,3,0.988,,5,34,15,1,,0.800
-2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991211,31,Josh McCleery,,,Fr,OF,5-10,R/R,15002,8,5,16,,16,,1.000,,,,,,,
-2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991210,27,Dylan Mathiesen,,,Fr,P,5-10,R/R,15002,12,9,3,4,7,,1.000,,,2,5,,,
+2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991208,11,Sam Georgiana,,,Fr,P,6-0,L/L,15002,15,3,2,4,6,,1.000,,,4,3,,,
 2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991209,19,Brendan Raven,,,Fr,C,6-1,R/R,15002,4,1,4,,4,,1.000,,,,,,,
+2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991210,27,Dylan Mathiesen,,,Fr,P,5-10,R/R,15002,12,9,3,4,7,,1.000,,,2,5,,,
+2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991211,31,Josh McCleery,,,Fr,OF,5-10,R/R,15002,8,5,16,,16,,1.000,,,,,,,
+2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991212,34,Nathan Holmes,,,Fr,P,5-11,R/R,15002,11,9,1,7,8,,1.000,,,1,1,,,
+2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991221,42,Conor Carney,,,Fr,INF,5-11,L/R,15002,27,19,107,7,117,3,0.974,,,,,7,,
+2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991224,44,Michael Valente,,,Fr,P,6-0,R/R,15002,15,0,1,4,5,,1.000,,,2,2,,,1.000
+2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991225,45,Brandon Robaugh,,,Fr,P,5-10,R/R,15002,2,0,,1,1,,1.000,,,3,,,,
+2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991239,50,Jason Peterson,,,Fr,UT,6-2,L/R,15002,8,3,25,1,27,1,0.963,,,,,,,
+2023,2022-23,MBA,106,California (PA),2,II,PSAC,7991240,55,Jake Kramer,,,Fr,P,6-3,R/R,15002,17,0,,2,2,,1.000,,,1,,1,,

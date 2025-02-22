@@ -1,7 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978779,38,Matt Draper,,,Sr,P,6-5,R/R,15002,15,14,5,11,17,1,0.941,,,6,2,2,,2.000
-2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978780,50,Michael Simes,,,Fr,P,6-5,R/R,15002,24,0,1,2,3,,1.000,,,4,1,,,
-2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978782,41,Jacob Jette,,,Fr,P,6-0,L/L,15002,20,2,2,5,8,1,0.875,,,8,2,,,2.000
 2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7827788,2,Roddy Hernandez,,,Jr,INF,6-0,R/R,15002,32,21,36,51,95,8,0.916,,,,,9,,
 2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7827790,35,Miles Cota,,,Sr,P,6-0,R/R,15002,16,6,,6,6,,1.000,,,4,1,,,1.000
 2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7827791,39,Frankie Venezia,,,Sr,P,6-2,R/R,15002,11,3,2,3,5,,1.000,,,1,,,,1.000
@@ -21,13 +18,16 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7827812,16,Conor Kelly,,,So,INF,6-3,R/R,15002,39,23,216,11,232,5,0.978,,,,,13,,
 2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7827815,36,Brendan Williams,,,Jr,P,6-0,R/R,15002,18,0,1,4,5,,1.000,,,5,,,,
 2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7827816,22,Frank Wayman,,,Sr,INF,6-2,L/L,15002,35,23,1,,1,,1.000,,,,,,,
-2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978765,14,Trevor Crosby,,,Fr,INF,6-0,R/R,15002,11,4,,,0,,,,,,,,,
 2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978757,7,Robert Gallagher,,,Sr,INF,5-11,L/R,15002,54,52,60,49,121,12,0.901,,,,,10,,
-2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978760,49,Zach Rodgers,,,Sr,P,6-0,R/R,15002,18,2,,1,1,,1.000,,,1,,,,
 2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978759,28,Gerry Siracusa,,,Sr,OF,6-5,R/R,15002,44,44,117,1,118,,1.000,,,,,,,
+2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978760,49,Zach Rodgers,,,Sr,P,6-0,R/R,15002,18,2,,1,1,,1.000,,,1,,,,
 2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978762,34,Shane Bogli,,,Sr,P,6-0,R/R,15002,18,1,,3,3,,1.000,,,,1,1,,
 2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978763,26,Nick Dirito,,,Fr,P,6-3,L/R,15002,11,9,5,5,12,2,0.833,,,1,3,,,
 2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978764,19,Brian Foley,,,Fr,P,6-0,L/R,15002,16,2,2,,2,,1.000,,,1,1,,,
+2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978765,14,Trevor Crosby,,,Fr,INF,6-0,R/R,15002,11,4,,,0,,,,,,,,,
 2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978778,12,Joshua Becker,,,Sr,P,6-0,R/R,15002,15,8,1,6,7,,1.000,,,1,3,,,
+2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978779,38,Matt Draper,,,Sr,P,6-5,R/R,15002,15,14,5,11,17,1,0.941,,,6,2,2,,2.000
+2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978780,50,Michael Simes,,,Fr,P,6-5,R/R,15002,24,0,1,2,3,,1.000,,,4,1,,,
+2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978782,41,Jacob Jette,,,Fr,P,6-0,L/L,15002,20,2,2,5,8,1,0.875,,,8,2,,,2.000
 2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978784,32,Troy Lopes,,,Fr,C,6-0,R/R,15002,4,0,,,0,,,,,,,,,
 2023,2022-23,MBA,368,UMass Lowell,1,I,America East,7978786,21,Rob Geisler,,,Fr,C,6-0,R/R,15002,7,2,13,1,14,,1.000,,1,3,1,,,1.667

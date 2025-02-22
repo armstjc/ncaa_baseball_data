@@ -1,6 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974668,24,Mac Burke,,,Fr,UT,6-4,R/R,15002,18,0,,3,3,,1.000,,,3,,1,,
-2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974670,5,Milo Suarez,,,Fr,INF,5-10,R/R,15002,23,16,17,23,45,5,0.889,,,,,,,
 2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7825965,7,James House,,,Sr,OF,6-2,L/L,15002,33,27,1,,1,,1.000,,,,,,,
 2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7825966,35,Tyler Cortland,,,Jr,P,6-4,R/R,15002,2,1,,,0,,,,,,,,,
 2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7825967,34,Max Zajec,,,Jr,1B,6-0,L/R,15002,37,35,264,27,294,3,0.990,,,,,16,,
@@ -29,5 +27,7 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974650,4,Nico Bañez,,,Fr,OF,5-8,L/R,15002,22,7,5,,6,1,0.833,,,,,,,
 2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974654,11,Ivan Hoyt,,,Fr,UT,6-1,R/R,15002,20,15,34,3,39,2,0.949,,,,,,,
 2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974655,38,Aidan Plummer,,,Fr,P,6-1,R/R,15002,8,0,1,,1,,1.000,,,,,,,
-2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974665,15,Eddie Albert,,,Fr,P,6-1,R/R,15002,14,6,,3,3,,1.000,,,3,3,,,
 2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974664,14,Trystan Sarcone,,,Sr,P,6-1,B/L,15002,12,12,2,12,14,,1.000,,,5,2,,,1.000
+2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974665,15,Eddie Albert,,,Fr,P,6-1,R/R,15002,14,6,,3,3,,1.000,,,3,3,,,
+2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974668,24,Mac Burke,,,Fr,UT,6-4,R/R,15002,18,0,,3,3,,1.000,,,3,,1,,
+2023,2022-23,MBA,172,Dartmouth,1,I,Ivy League,7974670,5,Milo Suarez,,,Fr,INF,5-10,R/R,15002,23,16,17,23,45,5,0.889,,,,,,,

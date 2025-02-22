@@ -1,10 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996556,31,Otto Grimm,,,Jr,OF,-,,15001,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996641,4,Drew Beier,,,Jr,,5-11,L/R,15001,45,13,7,3.25,52.2,1,51,26,19,21,43,,232,202,11,1,,5,4,6,1,1,,1,2,752,42,64,6,3,,10,1
-2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996644,8,Kole Krier,,,Fr,,-,,15001,4,3,,3.38,5.1,,3,2,2,4,6,,22,17,,,,1,,,,1,,,1,60,3,6,,,,4,
-2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996648,10,Kenny Schultz,,,Fr,,-,,15001,1,1,,27.00,1.0,,4,3,3,1,,,8,7,,,,,,,,,,,,31,1,2,,,,,
-2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996649,14,Grady Fuchs,,,Jr,,6-0,R/R,15001,17,17,,6.66,24.1,,26,18,18,12,23,,116,94,5,,,7,2,6,1,14,6,1,3,368,24,24,1,,4,6,
-2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996653,27,Ben Clapp,,,Jr,,5-9,R/R,15001,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7832857,21,Luke Tupy,,,Jr,p,6-5,L/L,15001,9,9,9,4.63,44.2,,40,24,23,20,58,,193,172,9,2,1,6,2,,1,,,,1,693,18,56,4,1,,13,1
 2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7832858,3,Eli Emerson,,,Sr,P,-,,15001,10,9,1,6.75,14.2,,18,17,11,10,12,,75,61,4,1,1,2,4,3,,2,,,1,250,14,16,1,1,1,5,
 2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7832859,9,Mason Diaz,,,Jr,C,5-10,R/R,15001,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -20,13 +14,19 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7832877,26,Riley Ahern,,,Sr,P,-,,15001,14,13,9,4.39,53.1,,59,27,26,16,70,,240,215,13,1,,6,4,6,1,1,,2,1,891,56,30,7,3,,11,
 2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7832878,20,Mitchell Gumbko,,,Jr,1B,5-11,R/R,15001,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7832881,11,Sawyer Smith,,,So,1B,6-4,L/R,15001,53,6,,9.00,6.0,,11,6,6,3,5,,31,28,4,,,,3,,,,,,,103,7,5,,,,2,
+2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996556,31,Otto Grimm,,,Jr,OF,-,,15001,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996621,30,Ethan Lanthier,,,So,P,-,,15001,15,14,4,4.84,35.1,,29,19,19,22,44,,167,130,6,1,1,3,8,12,,6,6,2,1,735,28,30,1,2,1,11,
 2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996634,23,Noah Dehne,,,Jr,INF,5-10,R/R,15001,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996641,4,Drew Beier,,,Jr,,5-11,L/R,15001,45,13,7,3.25,52.2,1,51,26,19,21,43,,232,202,11,1,,5,4,6,1,1,,1,2,752,42,64,6,3,,10,1
+2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996644,8,Kole Krier,,,Fr,,-,,15001,4,3,,3.38,5.1,,3,2,2,4,6,,22,17,,,,1,,,,1,,,1,60,3,6,,,,4,
+2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996648,10,Kenny Schultz,,,Fr,,-,,15001,1,1,,27.00,1.0,,4,3,3,1,,,8,7,,,,,,,,,,,,31,1,2,,,,,
+2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996649,14,Grady Fuchs,,,Jr,,6-0,R/R,15001,17,17,,6.66,24.1,,26,18,18,12,23,,116,94,5,,,7,2,6,1,14,6,1,3,368,24,24,1,,4,6,
+2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996653,27,Ben Clapp,,,Jr,,5-9,R/R,15001,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996659,1,Payton VanBeck,,,Jr,P,5-10,L/L,15001,12,12,2,5.73,33.0,,42,24,21,15,22,,152,133,7,,,2,3,2,,3,1,2,,543,41,28,4,,,5,
 2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996661,6,Ero Wallin,,,Fr,,6-1,R/R,15001,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996673,18,Kieran Schmitz,,,Jr,,-,,15001,3,3,1,8.53,6.1,,8,6,6,2,3,,29,25,5,1,,,,1,,,,1,,60,8,7,,,1,1,
-2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996677,32,Garrett Bevacqua,,,So,,6-2,L/R,15001,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996621,30,Ethan Lanthier,,,So,P,-,,15001,15,14,4,4.84,35.1,,29,19,19,22,44,,167,130,6,1,1,3,8,12,,6,6,2,1,735,28,30,1,2,1,11,
 2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996671,16,Brayden Jacobson,,,Fr,,5-9,R/R,15001,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996673,18,Kieran Schmitz,,,Jr,,-,,15001,3,3,1,8.53,6.1,,8,6,6,2,3,,29,25,5,1,,,,1,,,,1,,60,8,7,,,1,1,
 2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996675,19,David Van Ort,,,Jr,,-,,15001,13,13,1,2.81,16.0,,11,7,5,8,14,,71,60,2,,,2,1,3,,9,2,,,240,14,19,1,,,7,
+2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996677,32,Garrett Bevacqua,,,So,,6-2,L/R,15001,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996679,24,Kevin Butler,,,So,C,5-11,L/R,15001,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,598,St. Cloud St.,2,II,NSIC,7996682,25,Cooper Avery,,,Jr,P,6-0,R/R,15001,15,15,,5.40,18.1,,23,15,11,3,15,,82,77,3,,,6,1,2,,8,5,,,269,21,17,1,,,6,

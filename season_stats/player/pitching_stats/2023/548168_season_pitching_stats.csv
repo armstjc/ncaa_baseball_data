@@ -1,12 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
-2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007645,39,Zach Davidson,,,Jr,P,5-9,L/L,15001,20,20,3,2.50,36.0,,30,10,10,16,56,,152,132,5,2,,,2,1,,13,2,1,2,528,18,30,4,1,2,18,1
-2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007650,6,Jorge Pereira,,,Jr,INF,5-9,R/R,15001,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007622,23,Keegan Watson,,,Sr,OF,6-2,R/R,15001,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007586,11,Alex Marx,,,So,C,6-0,L/R,15001,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007590,18,Jace Fowler,,,Fr,OF,5-9,L/L,15001,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007592,30,Brayden Lybarger,,,Fr,P,6-6,R/R,15001,4,4,1,6.75,6.2,,6,5,5,8,8,,32,23,,,,1,1,,,1,1,1,,84,9,1,1,1,,3,
-2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007594,38,Kyle Cortner,,,So,P,6-3,L/L,15001,9,9,1,5.40,8.1,,9,5,5,4,4,,36,30,2,,,,2,1,,8,5,,1,118,9,8,,,,3,1
-2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007595,40,Simon Gregersen,,,Jr,P,6-3,R/L,15001,15,15,2,3.60,25.0,,22,11,10,3,23,,100,92,2,1,,4,,2,,17,5,,3,339,26,22,1,1,2,6,
 2023,2022-23,MBA,305,Indiana St.,1,I,MVC,7827110,20,Parker Stinson,,,Jr,OF,6-0,L/L,15001,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,305,Indiana St.,1,I,MVC,7827111,25,Mike Sears,,,Jr,INF,5-10,R/R,15001,62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,305,Indiana St.,1,I,MVC,7827112,5,Grant Magill,,,Jr,C,6-0,R/R,15001,60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -27,9 +19,17 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,305,Indiana St.,1,I,MVC,7827134,22,Jared Spencer,,,So,P,6-3,L/L,15001,25,25,,3.86,37.1,,27,16,16,20,51,,155,133,4,2,,5,1,1,,15,6,1,,522,32,23,3,2,7,10,
 2023,2022-23,MBA,305,Indiana St.,1,I,MVC,7827135,12,Henry Brown,,,So,INF,6-2,R/R,15001,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,305,Indiana St.,1,I,MVC,7827138,24,Connor Hicks,,,Jr,C,6-1,L/R,15001,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007586,11,Alex Marx,,,So,C,6-0,L/R,15001,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007590,18,Jace Fowler,,,Fr,OF,5-9,L/L,15001,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007592,30,Brayden Lybarger,,,Fr,P,6-6,R/R,15001,4,4,1,6.75,6.2,,6,5,5,8,8,,32,23,,,,1,1,,,1,1,1,,84,9,1,1,1,,3,
+2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007594,38,Kyle Cortner,,,So,P,6-3,L/L,15001,9,9,1,5.40,8.1,,9,5,5,4,4,,36,30,2,,,,2,1,,8,5,,1,118,9,8,,,,3,1
+2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007595,40,Simon Gregersen,,,Jr,P,6-3,R/L,15001,15,15,2,3.60,25.0,,22,11,10,3,23,,100,92,2,1,,4,,2,,17,5,,3,339,26,22,1,1,2,6,
 2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007596,41,Jacob Pruitt,,,Fr,P,6-1,R/R,15001,14,14,1,7.17,21.1,,26,17,17,10,25,,101,87,1,,,6,3,2,,10,2,1,1,339,16,21,2,1,,5,
+2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007620,32,Cole Gilley,,,Jr,P,6-1,R/R,15001,6,6,,8.31,8.2,,13,8,8,9,10,,46,37,6,,,2,3,,,4,3,,,162,5,9,,,,1,
+2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007621,17,Miguel Rivera,,,Sr,INF,6-0,L/L,15001,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007622,23,Keegan Watson,,,Sr,OF,6-2,R/R,15001,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007645,39,Zach Davidson,,,Jr,P,5-9,L/L,15001,20,20,3,2.50,36.0,,30,10,10,16,56,,152,132,5,2,,,2,1,,13,2,1,2,528,18,30,4,1,2,18,1
+2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007650,6,Jorge Pereira,,,Jr,INF,5-9,R/R,15001,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007654,9,Adam Pottinger,,,Jr,OF,6-0,L/L,15001,59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007655,10,Dom Krupinski,,,Fr,INF,5-9,L/R,15001,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007621,17,Miguel Rivera,,,Sr,INF,6-0,L/L,15001,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8007620,32,Cole Gilley,,,Jr,P,6-1,R/R,15001,6,6,,8.31,8.2,,13,8,8,9,10,,46,37,6,,,2,3,,,4,3,,,162,5,9,,,,1,
 2023,2022-23,MBA,305,Indiana St.,1,I,MVC,8154844,42,Lane Miller,,,Sr,P,-,,15001,11,11,11,2.77,61.2,,51,23,19,14,38,,251,233,8,,2,9,1,2,,,,2,,778,71,70,7,,,12,1

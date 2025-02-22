@@ -1,18 +1,18 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
 2024,2023-24,MBA,464,Omaha,1,I,Summit League,8260926,18,Luke Gainer,,,Jr,P,6-0,L/L,15081,,22,,3.80,42.2,,32,26,18,19,56,,202,163,6,1,,1,2,16,,18,10,1,2,628,37,33,2,3,5,16,1
-2024,2023-24,MBA,464,Omaha,1,I,Summit League,8275244,21,Tyler Mattingley,,,Sr,P,6-1,R/R,15081,,3,1,4.50,2.0,,1,1,1,2,3,,10,7,,,,,1,1,,,,,,20,,3,,1,1,,
+2024,2023-24,MBA,464,Omaha,1,I,Summit League,8261787,30,Charlie Bell,,,Sr,P,6-5,R/R,15081,,14,14,6.35,68.0,,75,52,48,25,69,,310,271,10,1,1,10,7,5,,,,3,6,995,54,75,2,6,,9,
 2024,2023-24,MBA,464,Omaha,1,I,Summit League,8266211,6,Harrison Kreiling,,,Sr,P,6-0,R/R,15081,,12,9,2.77,48.2,,37,17,15,23,66,,214,180,7,1,2,2,7,9,,3,2,1,1,792,42,32,3,1,1,14,
 2024,2023-24,MBA,464,Omaha,1,I,Summit League,8267400,37,Caleb Riedel,,,Sr,P,6-1,L/L,15081,,15,15,5.47,74.0,,72,55,45,32,89,,341,288,13,2,1,6,10,10,,,,5,5,"1,120",48,81,6,4,,27,2
 2024,2023-24,MBA,464,Omaha,1,I,Summit League,8268360,38,Cooper Prosoki,,,Sr,P,6-3,R/L,15081,,13,,6.59,13.2,,14,11,10,9,14,,68,52,3,1,,1,2,6,,15,2,,1,189,12,13,1,2,,3,
-2024,2023-24,MBA,464,Omaha,1,I,Summit League,8261787,30,Charlie Bell,,,Sr,P,6-5,R/R,15081,,14,14,6.35,68.0,,75,52,48,25,69,,310,271,10,1,1,10,7,5,,,,3,6,995,54,75,2,6,,9,
+2024,2023-24,MBA,464,Omaha,1,I,Summit League,8275244,21,Tyler Mattingley,,,Sr,P,6-1,R/R,15081,,3,1,4.50,2.0,,1,1,1,2,3,,10,7,,,,,1,1,,,,,,20,,3,,1,1,,
 2024,2023-24,MBA,464,Omaha,1,I,Summit League,8282042,10,Preston Tenney,,,Sr,P,6-0,R/R,15081,,3,3,1.00,9.0,,7,1,1,1,6,,36,32,1,,,,1,1,,,,1,,5,10,10,1,1,,1,
-2024,2023-24,MBA,464,Omaha,1,I,Summit League,8420275,31,Ethan Louthan,,,Fr,P,6-4,R/R,15081,,17,1,6.40,32.1,,38,24,23,18,20,,152,127,4,2,2,2,2,3,,16,4,1,3,534,41,29,,1,,6,
-2024,2023-24,MBA,464,Omaha,1,I,Summit League,8420288,15,Nick Scanlon,,,Sr,P,6-1,R/R,15081,,16,,6.27,18.2,,19,14,13,14,21,,92,70,5,,,2,6,7,,10,3,1,,357,17,14,,1,,7,
-2024,2023-24,MBA,464,Omaha,1,I,Summit League,8420299,40,Chris Byhre,,,Sr,P,6-1,R/R,15081,,9,,7.30,12.1,,7,11,10,12,8,,58,42,,,,1,2,3,1,11,6,1,,169,19,8,,3,,2,
-2024,2023-24,MBA,464,Omaha,1,I,Summit League,8420277,36,Carter Navin,,,Fr,P,6-3,R/R,15081,,10,3,10.22,12.1,,11,19,14,15,8,,72,45,,,,1,,9,,2,,1,2,262,9,20,,1,,3,
 2024,2023-24,MBA,464,Omaha,1,I,Summit League,8420260,5,Brayden Curtis,,,Jr,P,6-1,R/R,15081,,12,5,6.84,26.1,,34,27,20,22,28,,140,111,10,2,1,2,8,3,,8,5,2,1,457,24,25,,4,,4,
 2024,2023-24,MBA,464,Omaha,1,I,Summit League,8420267,13,Matt Dreher,,,Sr,P,5-11,L/L,15081,,17,,7.07,14.0,,13,11,11,18,23,,84,56,3,,,1,6,9,,13,5,1,,291,11,8,,2,,7,
 2024,2023-24,MBA,464,Omaha,1,I,Summit League,8420268,35,Joe Hackmann,,,Sr,P,6-1,R/R,15081,,19,,5.17,38.1,,43,23,22,19,50,,182,152,8,,,6,2,7,,18,8,1,3,627,21,40,2,,2,13,1
 2024,2023-24,MBA,464,Omaha,1,I,Summit League,8420270,23,Gage Ingram,,,Jr,P,5-10,R/R,15081,,10,,17.28,8.1,,21,16,16,4,9,,52,45,2,1,,2,,1,,13,5,1,1,133,5,11,,1,,3,
+2024,2023-24,MBA,464,Omaha,1,I,Summit League,8420275,31,Ethan Louthan,,,Fr,P,6-4,R/R,15081,,17,1,6.40,32.1,,38,24,23,18,20,,152,127,4,2,2,2,2,3,,16,4,1,3,534,41,29,,1,,6,
+2024,2023-24,MBA,464,Omaha,1,I,Summit League,8420277,36,Carter Navin,,,Fr,P,6-3,R/R,15081,,10,3,10.22,12.1,,11,19,14,15,8,,72,45,,,,1,,9,,2,,1,2,262,9,20,,1,,3,
+2024,2023-24,MBA,464,Omaha,1,I,Summit League,8420288,15,Nick Scanlon,,,Sr,P,6-1,R/R,15081,,16,,6.27,18.2,,19,14,13,14,21,,92,70,5,,,2,6,7,,10,3,1,,357,17,14,,1,,7,
 2024,2023-24,MBA,464,Omaha,1,I,Summit League,8420293,32,Reed Scott,,,Jr,P,6-2,R/R,15081,,12,,12.83,13.1,,24,20,19,16,12,,85,63,6,,1,,4,5,,8,3,,1,268,15,12,1,1,,4,
 2024,2023-24,MBA,464,Omaha,1,I,Summit League,8420298,4,Cole Whitehill,,,Sr,P,6-0,L/L,15081,,4,,27.00,1.2,,3,5,5,6,1,,14,8,1,1,,,2,,,,,,,38,2,2,,,,,
+2024,2023-24,MBA,464,Omaha,1,I,Summit League,8420299,40,Chris Byhre,,,Sr,P,6-1,R/R,15081,,9,,7.30,12.1,,7,11,10,12,8,,58,42,,,,1,2,3,1,11,6,1,,169,19,8,,3,,2,

@@ -1,6 +1,4 @@
 season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_FLD%,fielding_CI,fielding_PB,fielding_SBA,fielding_CS,fielding_DP,fielding_TP,fielding_SB%
-2023,2022-23,MBA,639,Siena,1,I,MAAC,7982818,25,Rob Moynihan,,,Fr,P,6-2,L/R,15002,1,0,,,0,,,,,,,,,
-2023,2022-23,MBA,639,Siena,1,I,MAAC,7982820,23,Louis Percival,,,Fr,C,6-0,R/R,15002,26,20,116,15,133,2,0.985,,7,46,7,,,
 2023,2022-23,MBA,639,Siena,1,I,MAAC,7830580,7,Kobe Stenson,,,Jr,INF,5-7,R/R,15002,26,20,12,28,40,,1.000,,,,,3,,
 2023,2022-23,MBA,639,Siena,1,I,MAAC,7830581,31,Bryce Mordecki,,,Sr,C,5-11,R/R,15002,28,10,17,,17,,1.000,,,11,,,,1.000
 2023,2022-23,MBA,639,Siena,1,I,MAAC,7830582,44,Matt Livingston,,,Sr,INF,6-3,L/L,15002,45,40,287,20,312,5,0.984,,,,,23,,
@@ -19,17 +17,19 @@ season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_fo
 2023,2022-23,MBA,639,Siena,1,I,MAAC,7830599,24,Vincent DiNicola,,,Jr,INF,5-11,R/R,15002,51,48,92,6,100,2,0.980,,,,,11,,
 2023,2022-23,MBA,639,Siena,1,I,MAAC,7830602,30,Arnad Mulamekic,,,So,P,6-6,R/L,15002,9,3,,,0,,,,,5,1,,,1.000
 2023,2022-23,MBA,639,Siena,1,I,MAAC,7830603,36,Alistair Morin,,,So,P,6-4,R/R,15002,20,4,1,5,8,2,0.750,,,17,3,,,2.000
-2023,2022-23,MBA,639,Siena,1,I,MAAC,7982800,49,Arlo Marynczak,,,Sr,P,6-7,R/R,15002,14,14,3,9,12,,1.000,,,21,11,,,1.750
-2023,2022-23,MBA,639,Siena,1,I,MAAC,7982789,29,Ramsey Collins,,,So,P,6-0,R/R,15002,9,0,1,,1,,1.000,,,5,,,,
 2023,2022-23,MBA,639,Siena,1,I,MAAC,7982752,33,Ryan Bates,,,Fr,P,6-0,R/R,15002,14,14,4,12,19,3,0.842,,,12,3,1,,1.500
-2023,2022-23,MBA,639,Siena,1,I,MAAC,7982781,12,Sean Camacho,,,Fr,OF,5-7,L/L,15002,40,26,77,1,79,1,0.987,,,,,,,
-2023,2022-23,MBA,639,Siena,1,I,MAAC,7982814,20,Gavin Thorburn,,,Fr,OF,6-0,R/R,15002,46,35,78,3,86,5,0.942,,,,,,,
-2023,2022-23,MBA,639,Siena,1,I,MAAC,7982783,14,Vincenzo Castronovo,,,Sr,OF,5-10,L/R,15002,52,49,100,3,104,1,0.990,,,,,,,
-2023,2022-23,MBA,639,Siena,1,I,MAAC,7982793,40,Eddie Girtler,,,Fr,P,6-1,L/L,15002,7,0,1,1,2,,1.000,,,2,2,,,
-2023,2022-23,MBA,639,Siena,1,I,MAAC,7982778,16,Nick Bergamotto,,,Fr,INF,5-6,R/R,15002,38,24,20,37,65,8,0.877,,,,,10,,
-2023,2022-23,MBA,639,Siena,1,I,MAAC,7982807,34,Richie Paltridge,,,Jr,P,6-0,L/L,15002,22,6,13,2,17,2,0.882,,,4,1,,,
-2023,2022-23,MBA,639,Siena,1,I,MAAC,7982810,32,Billy Rice,,,So,P,6-1,L/R,15002,6,0,1,,2,1,0.500,,,3,,,,
-2023,2022-23,MBA,639,Siena,1,I,MAAC,7982812,4,Aiden Stewart,,,Fr,INF,5-10,L/R,15002,53,52,70,87,163,6,0.963,,,,,18,,
 2023,2022-23,MBA,639,Siena,1,I,MAAC,7982757,22,Danny Barbero,,,Fr,INF,5-8,R/R,15002,51,49,62,56,135,17,0.874,,,3,,6,,
 2023,2022-23,MBA,639,Siena,1,I,MAAC,7982765,47,Sebastian Bentz,,,Jr,P,6-3,L/L,15002,16,6,,4,6,2,0.667,,,10,,,,
 2023,2022-23,MBA,639,Siena,1,I,MAAC,7982772,8,Joe D'Elia,,,Fr,OF,5-10,L/L,15002,2,0,,,0,,,,,,,,,
+2023,2022-23,MBA,639,Siena,1,I,MAAC,7982778,16,Nick Bergamotto,,,Fr,INF,5-6,R/R,15002,38,24,20,37,65,8,0.877,,,,,10,,
+2023,2022-23,MBA,639,Siena,1,I,MAAC,7982781,12,Sean Camacho,,,Fr,OF,5-7,L/L,15002,40,26,77,1,79,1,0.987,,,,,,,
+2023,2022-23,MBA,639,Siena,1,I,MAAC,7982783,14,Vincenzo Castronovo,,,Sr,OF,5-10,L/R,15002,52,49,100,3,104,1,0.990,,,,,,,
+2023,2022-23,MBA,639,Siena,1,I,MAAC,7982789,29,Ramsey Collins,,,So,P,6-0,R/R,15002,9,0,1,,1,,1.000,,,5,,,,
+2023,2022-23,MBA,639,Siena,1,I,MAAC,7982793,40,Eddie Girtler,,,Fr,P,6-1,L/L,15002,7,0,1,1,2,,1.000,,,2,2,,,
+2023,2022-23,MBA,639,Siena,1,I,MAAC,7982800,49,Arlo Marynczak,,,Sr,P,6-7,R/R,15002,14,14,3,9,12,,1.000,,,21,11,,,1.750
+2023,2022-23,MBA,639,Siena,1,I,MAAC,7982807,34,Richie Paltridge,,,Jr,P,6-0,L/L,15002,22,6,13,2,17,2,0.882,,,4,1,,,
+2023,2022-23,MBA,639,Siena,1,I,MAAC,7982810,32,Billy Rice,,,So,P,6-1,L/R,15002,6,0,1,,2,1,0.500,,,3,,,,
+2023,2022-23,MBA,639,Siena,1,I,MAAC,7982812,4,Aiden Stewart,,,Fr,INF,5-10,L/R,15002,53,52,70,87,163,6,0.963,,,,,18,,
+2023,2022-23,MBA,639,Siena,1,I,MAAC,7982814,20,Gavin Thorburn,,,Fr,OF,6-0,R/R,15002,46,35,78,3,86,5,0.942,,,,,,,
+2023,2022-23,MBA,639,Siena,1,I,MAAC,7982818,25,Rob Moynihan,,,Fr,P,6-2,L/R,15002,1,0,,,0,,,,,,,,,
+2023,2022-23,MBA,639,Siena,1,I,MAAC,7982820,23,Louis Percival,,,Fr,C,6-0,R/R,15002,26,20,116,15,133,2,0.985,,7,46,7,,,
