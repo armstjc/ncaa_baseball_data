@@ -1,0 +1,99 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,1,top,Amato walked (3-2 BKBFBB).,1,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,1,top,Davis struck out swinging (3-2 BBBKFS).,2,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,1,top,Graeber struck out swinging (1-2 KBFS).,3,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,1,top,Bouldin struck out (1-2 SBS).,4,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,1,bot,Frey to 3b for Davis.,5,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,1,bot,Bouldin to 1b.,6,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,1,bot,B. WEST walked (3-0 BBBB).,7,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,1,bot,K. FRETT hit by pitch (0-0)3a B. WEST advanced to second.,8,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,1,bot,H. CANDELAS fouled out to c (0-2 KK).,9,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,1,bot,A. SERRANO struck out swinging (1-2 BKKS).,10,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,1,bot,A. ULLOA fouled out to 3b (0-0).,11,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,2,top,Stewart grounded out to 1b unassisted (0-1 K).,12,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,2,top,Finn walked (3-1 BKBBB).,13,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,2,top,Donati struck out looking (2-2 BBKKFFK).,14,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,2,top,Lesher singled through the left side (1-1 KB)3a Finn advanced to second.,15,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,2,top,Walmsley struck out looking (2-2 KFBBK).,16,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,2,bot,S. FISCHER walked (3-2 BKBFBB).,17,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,2,bot,B. RONEY hit by pitch (3-2 BKFBB)3a S. FISCHER advanced to second.,18,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,2,bot,A. ILDEFONSO singled through the left side (1-0 B)3a B. RONEY advanced to second3a S. FISCHER advanced to third.,19,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,2,bot,"K. VALENTIN reached on a fielder's choice, RBI (0-1 K)3a A. ILDEFONSO out at second ss to 2b3a B. RONEY advanced to third3a S. FISCHER scored.",20,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,2,bot,B. WEST walked (3-2 KBSBBFB)3a K. VALENTIN advanced to second.,21,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,2,bot,"K. FRETT flied out to lf, SAC, RBI (0-1 S)3a B. RONEY scored.",22,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,2,bot,H. CANDELAS grounded out to ss (1-2 BKF).,23,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,3,top,Amato struck out swinging (2-2 BKFBS).,24,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,3,top,Frey struck out looking (1-2 KFBK).,25,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,3,top,Graeber walked (3-2 KBBKBFFB).,26,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,3,top,Bouldin grounded out to ss (0-0).,27,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,3,bot,A. SERRANO flied out to cf (0-2 SSF).,28,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,3,bot,A. ULLOA grounded out to 3b (0-0).,29,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,3,bot,S. FISCHER doubled down the lf line (0-1 K).,30,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,3,bot,B. RONEY flied out to rf (1-2 BFS).,31,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,4,top,Stewart struck out looking (2-2 KSFBBK).,32,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,4,top,Finn struck out swinging (2-2 KSBBS).,33,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,4,top,Donati hit by pitch (0-0).,34,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,4,top,Lesher reached on an error by ss (0-1 S)3a Donati advanced to second.,35,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,4,top,J. BISHOP to p for E. MARKS.,36,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,4,top,Walmsley struck out swinging (3-2 BSFBBS).,37,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,4,bot,Needles to p for Shaub.,38,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,4,bot,A. ILDEFONSO walked (3-2 BKBFFBB).,39,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,4,bot,K. VALENTIN grounded out to 1b unassisted (2-1 KBB)3a A. ILDEFONSO advanced to second.,40,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,4,bot,B. WEST popped up to 2b (1-2 KKB).,41,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,4,bot,K. FRETT struck out swinging (3-2 KBBBKS).,42,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,5,top,Amato flied out to lf (3-2 BBFFFB).,43,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,5,top,Frey struck out swinging (1-2 FBFFFS).,44,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,5,top,Graeber struck out swinging (3-2 FBSBBS).,45,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,5,bot,H. CANDELAS struck out swinging (1-2 SFBFS).,46,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,5,bot,A. SERRANO struck out swinging (0-2 KKFS).,47,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,5,bot,A. ULLOA doubled down the rf line (1-0 B).,48,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,5,bot,S. FISCHER struck out swinging (3-2 KSFBFBFBFS).,49,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,6,top,Bouldin grounded out to p (0-0).,50,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,6,top,Stewart struck out looking (1-2 KKBK).,51,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,6,top,Finn walked (3-1 BBBKB).,52,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,6,top,Tyer pinch hit for Donati.,53,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,6,top,Tyer walked (3-2 BBBKKB)3a Finn advanced to second.,54,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,6,top,Lesher struck out looking (1-2 BKFK).,55,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,6,bot,Tyer to cf.,56,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,6,bot,B. RONEY flied out to lf (2-2 KBBK).,57,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,6,bot,A. ILDEFONSO flied out to rf (1-2 KBF).,58,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,6,bot,K. VALENTIN hit by pitch (2-0 BB).,59,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,6,bot,B. WEST popped up to 3b (1-0 B).,60,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,7,top,K. MARTIN to p for J. BISHOP.,61,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,7,top,Walmsley walked (3-2 KBKBBB).,62,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,7,top,Amato reached on a fielder's choice (1-1 BK)3a Walmsley out at second 1b to ss.,63,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,7,top,Frey struck out swinging (0-2 KKS).,64,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,7,top,"Graeber homered to right center, 2 RBI (3-1 BKBB)3a Amato scored.",65,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,7,top,"Bouldin reached on an error by 3b, advanced to second (0-0).",66,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,7,top,"Bouldin out at second p to ss, picked off.",67,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,7,bot,Callaway to p for Needles.,68,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,7,bot,"K. FRETT homered to left center, RBI (2-1 BBF).",69,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,7,bot,R. LASTRES pinch hit for H. CANDELAS.,70,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,7,bot,R. LASTRES struck out looking (0-2 KSK).,71,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,7,bot,A. SERRANO struck out swinging (1-2 KSBS).,72,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,7,bot,A. ULLOA hit by pitch (1-2 FBSF).,73,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,7,bot,K. KOEHLER to dh for S. FISCHER.,74,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,7,bot,K. KOEHLER struck out looking (0-2 KSK).,75,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,8,top,C. CLEVELAND to rf for R. LASTRES.,76,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,8,top,J. CRESPO to 3b for K. KOEHLER.,77,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,8,top,Stewart grounded out to 2b (2-2 KKBBF).,78,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,8,top,Finn walked (3-2 KBKBBB).,79,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,8,top,Tyer reached on a fielder's choice (2-1 BBK)3a Finn out at second ss to 2b.,80,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,8,top,Lesher flied out to cf (1-0 B).,81,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,8,bot,B. RONEY singled up the middle (1-2 KFFBF).,82,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,8,bot,"A. ILDEFONSO homered to left field, 2 RBI (0-0)3a B. RONEY scored.",83,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,8,bot,"K. VALENTIN homered to left field, RBI (0-0).",84,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,8,bot,B. WEST flied out to lf (0-0).,85,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,8,bot,K. FRETT doubled down the lf line (1-1 BS).,86,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,8,bot,K. FRETT advanced to third on a passed ball.,87,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,8,bot,"C. CLEVELAND singled to center field, RBI (3-1 BBBK)3a K. FRETT scored.",88,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,8,bot,A. SERRANO popped up to 2b (1-2 BSF).,89,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,8,bot,Pollaro to p for Callaway.,90,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,8,bot,C. CLEVELAND stole second.,91,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596544,8,bot,A. ULLOA struck out swinging (1-2 KBSFS).,92,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,9,top,Walmsley grounded out to ss (3-1 BBBK).,93,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,9,top,Amato walked (3-0 BBBB).,94,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,9,top,Frey struck out swinging (1-2 BKFFS).,95,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,9,top,"Graeber homered to right field, 2 RBI (1-0 B)3a Amato scored.",96,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,9,top,Bouldin singled up the middle (0-0).,97,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025
+6301014,596534,Delaware Blue Hens,596544,FIU Panthers,596534,9,top,Stewart struck out looking (3-2 FBKBBK).,98,2025-02-22T00:00:00-05:00,"FIU Baseball Stadium (Miami, FL)",478,MBA,2025

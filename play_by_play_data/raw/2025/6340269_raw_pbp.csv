@@ -10,7 +10,7 @@ game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inn
 6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,1,top,D. Giusti grounded out to ss.,9,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
 6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,1,bot,L. DeVries singled to right field.,10,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
 6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,1,bot,"W. Cell struck out swinging, grounded out to c unassisted.",11,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
-6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,1,bot,"M. Kirkland struck out swinging; L. DeVries out at second c to ss, caught stealing., double play",12,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,1,bot,"M. Kirkland struck out swinging; L. DeVries out at second c to ss, caught stealing.",12,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
 6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,2,top,A. Paul hit by pitch.,13,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
 6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,2,top,S. Shipman flied out to cf.,14,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
 6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,2,top,A. Paul stole second.,15,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
@@ -76,3 +76,48 @@ game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inn
 6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,5,bot,J. Burgess flied into double play cf to 3b; T. Barsness out on the play.,75,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
 6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,5,bot,N. Baron pinch hit for M. Chetcuti.,76,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
 6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,5,bot,N. Baron flied out to cf.,77,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,6,top,K. Drake to 2b for C. Brown.,78,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,6,top,N. Baron to c for T. Currier.,79,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,6,top,S. Shipman tripled to right center.,80,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,6,top,C. Coffield lined out to lf.,81,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,6,top,"C. Gray singled to left field, RBI; S. Shipman scored.",82,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,6,top,T. Quiggle grounded into double play 2b to ss to 1b; C. Gray out on the play.,83,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,6,bot,K. Drake lined out to p.,84,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,6,bot,R. Morris pinch hit for L. DeVries.,85,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,6,bot,"R. Morris struck out swinging, out at first c to 1b.",86,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,6,bot,C. Correa pinch hit for W. Cell.,87,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,6,bot,C. Correa grounded out to 2b.,88,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,R. Morris to cf.,89,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,C. Correa to lf.,90,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,C. McClellan to 1b for M. Kirkland.,91,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,S. McCance to rf for G. Ceja.,92,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,L. Hanson to 3b for N. Miller.,93,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,A. Bishop to ss for J. Burgess.,94,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,J. Garcia flied out to cf.,95,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,G. Graves pinch hit for A. Morrison.,96,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,G. Graves walked.,97,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,K. Corder walked; G. Graves advanced to second.,98,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,C. Weiland pinch hit for D. Giusti.,99,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,C. Weiland walked; K. Corder advanced to second; G. Graves advanced to third.,100,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,J. Hernandez to p for K. Efron.,101,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,T. Laugen pinch hit for A. Paul.,102,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,"T. Laugen reached first on a fielding error by cf, RBI; C. Weiland advanced to second; K. Corder advanced to third; G. Graves scored.",103,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,Y. Gupta pinch hit for S. Shipman.,104,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,"Y. Gupta reached first on a fielding error by cf, RBI; T. Laugen advanced to second; C. Weiland advanced to third; K. Corder scored, unearned.",105,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,R. Gunnett pinch hit for C. Coffield.,106,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,"R. Gunnett flied out to cf, sacrifice fly, RBI; Y. Gupta advanced to second; T. Laugen advanced to third; C. Weiland scored, unearned.",107,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,T. Komoda pinch hit for C. Gray.,108,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597138,7,top,T. Komoda grounded out to ss.,109,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,7,bot,T. Laugen to ss.,110,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,7,bot,Y. Gupta to 2b.,111,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,7,bot,R. Gunnett to 1b.,112,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,7,bot,T. Komoda to cf.,113,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,7,bot,G. Graves to lf.,114,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,7,bot,C. Weiland to rf.,115,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,7,bot,C. McClellan hit by pitch.,116,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,7,bot,S. McCance struck out swinging.,117,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,7,bot,T. Barsness walked; C. McClellan advanced to second.,118,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,7,bot,L. Hanson reached on a fielder's choice; T. Barsness out at second ss to 2b; C. McClellan advanced to third.,119,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,7,bot,"A. Bishop doubled to left center, RBI; L. Hanson advanced to third; C. McClellan scored.",120,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,7,bot,"N. Baron singled through the left side, RBI; A. Bishop advanced to third; L. Hanson scored.",121,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025
+6340269,597138,Whitworth Pirates,597008,Redlands Bulldogs,597008,7,bot,K. Drake struck out looking.,122,2025-02-21T00:00:00-05:00,"The Yard (Redlands, CA)",64,MBA,2025

@@ -1,0 +1,97 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,1,top,"HOWARD, A struck out looking (1-2 KSBK).",1,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,1,top,"GUREVITCH, J doubled to left center (0-0).",2,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,1,top,"SMITH, A lined out to rf to right center (1-2 BSFF).",3,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,1,top,"LANE, I singled to center field, RBI (3-1 BKBB); GUREVITCH, J scored.",4,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,1,top,"LOBLINER, J popped up to 1b (2-0 BB).",5,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,1,bot,Summerhill lined out to 1b (3-2 BBFBF).,6,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,1,bot,"Walton, A. flied out to lf (1-2 FKBF).",7,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,1,bot,"White, M. fouled out to 3b (0-2 SFF).",8,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,2,top,"WATSON, R singled to left field (3-2 BBKSFB).",9,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,2,top,"BELTRE, AJ flied out to cf (1-0 B).",10,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,2,top,"WATSON, R stole second.",11,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,2,top,"GIORDANO, J struck out swinging, out at first c to 1b (1-2 BKSS).",12,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,2,top,"WARD, R grounded out to 2b (2-1 BKB).",13,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,2,bot,"Caulfield, G flied out to cf (1-1 BF).",14,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,2,bot,"Mihalakis, M struck out swinging, out at first c to 1b (3-2 BFBBFFS).",15,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,2,bot,"Breyfogle, E struck out swinging (1-2 FFBS).",16,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,3,top,"HOWARD, A grounded out to 3b, bunt (0-0).",17,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,3,top,"GUREVITCH, J grounded out to 1b unassisted (1-2 BKS).",18,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,3,top,"SMITH, A flied out to rf (0-2 KS).",19,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,3,bot,"Splaine, T. doubled down the lf line (2-0 BB).",20,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,3,bot,"Guzman, A. walked (3-2 FFBBBB).",21,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,3,bot,"Meurant, M. out at first 1b to 2b, SAC, bunt (0-1 S); Guzman, A. advanced to second; Splaine, T. advanced to third.",22,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,3,bot,"Summerhill reached on a fielding error by 2b, RBI (0-0); Guzman, A. advanced to third; Splaine, T. scored.",23,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,3,bot,"Walton, A. hit by pitch (0-0); Summerhill advanced to second.",24,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,3,bot,"White, M. struck out swinging (1-2 FFBS).",25,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,3,bot,"Caulfield, G fouled out to ss (3-2 BBSSBFF).",26,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,4,top,"LANE, I flied out to lf (3-2 BKKBBF).",27,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,4,top,"LOBLINER, J flied out to rf (1-0 B).",28,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,4,top,"WATSON, R struck out swinging (3-2 BKBSFFFFBS).",29,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,4,bot,"Mihalakis, M popped up to ss (1-0 B).",30,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,4,bot,"Breyfogle, E out at first 1b to p (0-1 F).",31,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,4,bot,"Splaine, T. grounded out to ss (1-2 KBF).",32,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,5,top,"BELTRE, AJ lined out to 2b (0-1 F).",33,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,5,top,"GIORDANO, J singled to pitcher, bunt (1-1 FB).",34,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,5,top,"WARD, R flied out to rf to right center (1-2 FSB).",35,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,5,top,"GIORDANO, J advanced to second on a wild pitch.",36,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,5,top,"HOWARD, A grounded out to ss (3-2 BSBFB).",37,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,5,bot,"Guzman, A. struck out swinging (2-2 BBSFS).",38,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,5,bot,"Meurant, M. homered to center field, RBI (2-1 BSB).",39,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,5,bot,Summerhill flied out to lf (1-2 FFB).,40,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,5,bot,"Walton, A. singled to left center (1-1 BK).",41,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,5,bot,"White, M. flied out to rf (0-0).",42,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,6,top,"Pluta, T. to p for Kramkowski.",43,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,6,top,"GUREVITCH, J hit by pitch (1-2 KFFFFB).",44,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,6,top,"SMITH, A grounded into double play ss to 2b to 1b (1-2 BKF); GUREVITCH, J out on the play.",45,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,6,top,"LANE, I grounded out to 2b (2-2 KSBFB).",46,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,6,bot,"SMITH, A to p.",47,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,6,bot,"/  for REDDEMANN, L.",48,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,6,bot,"Caulfield, G struck out swinging (3-2 KBKFBBS).",49,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,6,bot,"Mihalakis, M tripled down the rf line (1-0 B).",50,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,6,bot,"Breyfogle, E hit by pitch (0-0).",51,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,6,bot,"Splaine, T. flied out to cf, SF, RBI (1-2 BKF); Mihalakis, M scored.",52,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,6,bot,"Guzman, A. reached on a fielder's choice (0-0); Breyfogle, E out at second ss to 2b.",53,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,7,top,"LOBLINER, J grounded out to ss (1-1 BK).",54,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,7,top,"WATSON, R grounded out to ss (3-2 BBKBKF).",55,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,7,top,"BELTRE, AJ grounded out to ss (1-2 KBFFF).",56,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,7,bot,"Meurant, M. walked (3-2 FBBFFBB).",57,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,7,bot,Summerhill flied out to rf (0-0).,58,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,7,bot,"Walton, A. struck out swinging (2-2 BBKSS).",59,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,7,bot,"White, M. doubled down the rf line, RBI (0-0); Meurant, M. scored.",60,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,7,bot,"Caulfield, G grounded out to ss (0-0).",61,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,8,top,"Alberini, H. to p for Pluta, T..",62,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,8,top,"GIORDANO, J flied out to lf to left center (1-2 BKF).",63,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,8,top,"WARD, R struck out swinging (3-2 BKBKFFBS).",64,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,8,top,"HOWARD, A singled up the middle (2-2 KSBFFB).",65,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,8,top,"HOWARD, A advanced to second on a wild pitch.",66,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,8,top,"GUREVITCH, J struck out swinging (3-2 KFBBFBS).",67,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,8,bot,"Mihalakis, M flied out to rf (1-1 FB).",68,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,8,bot,"Breyfogle, E hit by pitch (1-1 KB).",69,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,8,bot,"Splaine, T. flied out to rf (0-0).",70,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,8,bot,"Breyfogle, E advanced to second on a wild pitch.",71,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,8,bot,"Guzman, A. flied out to cf (1-0 B).",72,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,9,top,"Tonghini, J. to p for Alberini, H..",73,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,9,top,"SMITH, A struck out looking (0-2 KKFK).",74,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,9,top,"LANE, I singled through the left side (0-1 K).",75,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,9,top,"LOBLINER, J singled through the left side (1-2 KKBF); LANE, I advanced to second.",76,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,9,top,"WATSON, R struck out swinging (1-2 BKFS).",77,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,9,top,"BELTRE, AJ hit by pitch (2-1 BBK); LOBLINER, J advanced to second; LANE, I advanced to third.",78,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,9,top,"FITZ, J pinch hit for GIORDANO, J.",79,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,9,top,"FITZ, J walked, RBI (3-2 KBBBKB); BELTRE, AJ advanced to second; LOBLINER, J advanced to third; LANE, I scored.",80,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,9,top,"LIBED, N pinch hit for WARD, R.",81,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,9,top,"D'ARCY, G pinch ran for FITZ, J.",82,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,9,top,"LIBED, N singled up the middle, 2 RBI (1-1 KB); D'ARCY, G advanced to third; BELTRE, AJ scored; LOBLINER, J scored.",83,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,9,top,"Hicks, G. to p for Tonghini, J..",84,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,9,top,"LIBED, N stole second.",85,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596670,9,top,"HOWARD, A popped up to ss (0-2 KS).",86,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,9,bot,"CODY, H to p for SMITH, A.",87,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,9,bot,"LOBLINER, J to c.",88,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,9,bot,"MARTINEZ, C to 2b for BELTRE, AJ.",89,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,9,bot,"D'ARCY, G to lf.",90,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,9,bot,"MEIDROTH, C to 3b for LIBED, N.",91,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,9,bot,"Meurant, M. singled to left field (3-2 BBKKB).",92,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,9,bot,"Summerhill singled through the right side (0-1 S); Meurant, M. advanced to third.",93,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,9,bot,"PALENCIA, F to p for CODY, H.",94,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,9,bot,Summerhill advanced to second.,95,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025
+6308049,596670,San Diego Toreros,596706,Arizona Wildcats,596706,9,bot,"Walton, A. singled to center field, RBI (1-2 SFFB); Summerhill advanced to third; Meurant, M. scored.",96,2025-02-22T00:00:00-05:00,"Hi Corbett Field (Tucson, AZ)",2629,MBA,2025

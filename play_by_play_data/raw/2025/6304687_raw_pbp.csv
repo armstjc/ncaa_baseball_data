@@ -1,0 +1,115 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,1,top,HALE struck out looking (2-2).,1,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,1,top,KLEIMAN struck out swinging (1-2).,2,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,1,top,ZIRWAS doubled down the rf line (3-2).,3,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,1,top,"JELLISON singled up the middle, RBI (3-2)3a ZIRWAS scored.",4,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,1,top,ZUCCARO struck out swinging (0-2).,5,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,1,bot,"ALLEN, Zeb struck out swinging (3-2).",6,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,1,bot,"NEGRE, Natha flied out to lf (1-1).",7,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,1,bot,CERMENELLI tripled to right center (0-1).,8,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,1,bot,"SHIPLEY, Cas struck out swinging (1-2).",9,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,2,top,HUGO singled to center field (2-2).,10,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,2,top,JOHNSON struck out swinging (1-2).,11,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,2,top,"WALSH, C out on batter's interference.",12,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,2,top,VANCE flied out to rf (2-1).,13,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,2,bot,"CARNER, Luke struck out swinging (3-2).",14,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,2,bot,"TRABBIE, Jak fouled out to 1b (3-2).",15,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,2,bot,"REYNOLDS, Sa walked (3-0).",16,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,2,bot,"MOSENI, Keon singled to shortstop (1-1)3a REYNOLDS, Sa advanced to second.",17,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,2,bot,"LEONARD, Tan struck out swinging (3-2).",18,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,3,top,HALE hit by pitch (3-2).,19,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,3,top,HALE stole second.,20,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,3,top,KLEIMAN walked (3-2).,21,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,3,top,ZIRWAS struck out swinging (2-2).,22,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,3,top,"JELLISON doubled to right center, RBI (0-1)3a KLEIMAN advanced to third3a HALE scored.",23,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,3,top,ZUCCARO popped up to ss (1-0).,24,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,3,top,"HUGO doubled to right center, 2 RBI (2-1)3a JELLISON scored3a KLEIMAN scored.",25,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,3,top,HUGO stole third.,26,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,3,top,JOHNSON flied out to rf (2-1).,27,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,3,bot,"ALLEN, Zeb hit by pitch (0-0).",28,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,3,bot,"NEGRE, Natha singled up the middle (2-2)3a ALLEN, Zeb advanced to third.",29,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,3,bot,"CERMENELLI grounded out to 2b, RBI (0-0)3a NEGRE, Natha advanced to second3a ALLEN, Zeb scored.",30,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,3,bot,"SHIPLEY, Cas walked (3-2).",31,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,3,bot,"CARNER, Luke walked (3-2)3a SHIPLEY, Cas advanced to second3a NEGRE, Natha advanced to third.",32,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,3,bot,"TRABBIE, Jak struck out swinging (3-2).",33,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,3,bot,"REYNOLDS, Sa struck out swinging (1-2).",34,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,4,top,"WALSH, C struck out swinging (0-2).",35,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,4,top,VANCE struck out swinging (0-2).,36,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,4,top,HALE out at first 1b to p (1-2).,37,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,4,bot,"MOSENI, Keon grounded out to 2b (0-1).",38,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,4,bot,"LEONARD, Tan struck out looking (2-2).",39,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,4,bot,"ALLEN, Zeb walked (3-1).",40,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,4,bot,"ALLEN, Zeb stole second.",41,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,4,bot,"NEGRE, Natha flied out to rf (1-2).",42,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,5,top,KLEIMAN singled to right field (0-0).,43,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,5,top,"ZIRWAS homered to right center, 2 RBI (1-1)3a KLEIMAN scored.",44,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,5,top,JELLISON walked (3-0).,45,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,5,top,"ALVETI, Gavi to p for CHRISTENSEN.",46,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,5,top,ZUCCARO singled through the left side (1-1)3a JELLISON advanced to second.,47,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,5,top,ZUCCARO advanced to second3a JELLISON advanced to third on a wild pitch.,48,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,5,top,"HUGO doubled down the lf line, 2 RBI (3-2)3a ZUCCARO scored3a JELLISON scored.",49,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,5,top,JOHNSON grounded out to 1b unassisted (1-2)3a HUGO advanced to third.,50,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,5,top,"HUGO scored on an error by p, failed pickoff attempt, unearned.",51,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,5,top,"WALSH, C struck out swinging (0-2).",52,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,5,top,VANCE singled to shortstop (3-2).,53,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,5,top,"VANCE out at second c to 2b, caught stealing.",54,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,5,bot,CERMENELLI flied out to cf (1-2).,55,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,5,bot,"SHIPLEY, Cas fouled out to 1b (2-1).",56,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,5,bot,"CARNER, Luke struck out looking (2-2).",57,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,6,top,"JONES, Jake to p for ALVETI, Gavi.",58,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,6,top,HALE hit by pitch (1-2).,59,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,6,top,KLEIMAN popped up to 2b (0-2).,60,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,6,top,ZIRWAS flied out to rf (1-0).,61,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,6,top,HALE stole second.,62,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,6,top,JELLISON grounded out to 2b (3-2).,63,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,6,bot,KREUZER to p for BECKNER.,64,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,6,bot,"FRENCH, Blai pinch hit for TRABBIE, Jak.",65,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,6,bot,"FRENCH, Blai flied out to cf (0-0).",66,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,6,bot,"REYNOLDS, Sa homered to left field, RBI (2-1).",67,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,6,bot,"MOSENI, Keon flied out to rf (1-2).",68,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,6,bot,"LEONARD, Tan walked (3-0).",69,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,6,bot,"ALLEN, Zeb singled through the right side (0-0)3a LEONARD, Tan advanced to third.",70,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,6,bot,"NEGRE, Natha struck out swinging (2-2).",71,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,7,top,"FRENCH, Blai to rf.",72,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,7,top,"MOSENI, Keon to 1b.",73,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,7,top,"VELASQUEZ, A to p for JONES, Jake.",74,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,7,top,ZUCCARO singled to center field (3-2).,75,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,7,top,HUGO doubled down the lf line (1-2)3a ZUCCARO advanced to third.,76,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,7,top,STECKO to dh for JOHNSON.,77,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,7,top,STECKO grounded out to 3b (0-1).,78,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,7,top,"WALSH, C struck out swinging (0-2).",79,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,7,top,VANCE struck out swinging (1-2).,80,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,7,bot,CERMENELLI flied out to lf (1-1).,81,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,7,bot,"SHIPLEY, Cas popped up to ss (2-2).",82,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,7,bot,"SCHATTLE, Ja to dh for CARNER, Luke.",83,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,7,bot,"SCHATTLE, Ja pinch hit.",84,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,7,bot,"SCHATTLE, Ja walked (3-2).",85,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,7,bot,"CURTIS, Pres pinch ran for SCHATTLE, Ja.",86,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,7,bot,"FRENCH, Blai walked (3-0)3a CURTIS, Pres advanced to second.",87,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,7,bot,"REYNOLDS, Sa flied out to rf (1-0).",88,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,8,top,HALE grounded out to p (1-0).,89,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,8,top,KLEIMAN popped up to ss (0-2).,90,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,8,top,ZIRWAS flied out to cf to left center (2-2).,91,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,8,bot,"MOSENI, Keon grounded out to 2b (0-0).",92,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,8,bot,"LEONARD, Tan grounded out to ss (0-2).",93,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,8,bot,"ALLEN, Zeb walked (3-1).",94,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,8,bot,"NEGRE, Natha singled through the left side (1-0)3a ALLEN, Zeb advanced to second.",95,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,8,bot,"CERMENELLI singled down the lf line, RBI (0-2)3a NEGRE, Natha advanced to third3a ALLEN, Zeb scored.",96,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,8,bot,"SHIPLEY, Cas flied out to lf (0-0).",97,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,9,top,JELLISON flied out to lf to left center (1-2).,98,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,9,top,ZUCCARO singled to left center (0-1).,99,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,9,top,"ZUCCARO advanced to second on an error by p, failed pickoff attempt.",100,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,9,top,HUGO flied out to cf (1-0).,101,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596539,9,top,STECKO flied out to cf (1-0).,102,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,9,bot,"CURTIS, Pres to dh.",103,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,9,bot,DUKESHERER to p for KREUZER.,104,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,9,bot,"CURTIS, Pres walked (3-2).",105,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,9,bot,"FRENCH, Blai walked (3-2)3a CURTIS, Pres advanced to second.",106,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,9,bot,KEANE to p for DUKESHERER.,107,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,9,bot,"REYNOLDS, Sa flied out to lf (0-0).",108,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,9,bot,"FRENCH, Blai advanced to second3a CURTIS, Pres advanced to third on a wild pitch.",109,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,9,bot,"MOSENI, Keon walked (3-1).",110,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,9,bot,"LEONARD, Tan walked, RBI (3-0)3a MOSENI, Keon advanced to second3a FRENCH, Blai advanced to third3a CURTIS, Pres scored.",111,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,9,bot,"ALLEN, Zeb flied out to lf (2-1).",112,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,9,bot,"NEGRE, Natha walked, RBI (3-0)3a LEONARD, Tan advanced to second3a MOSENI, Keon advanced to third3a FRENCH, Blai scored.",113,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
+6304687,596539,Eastern Mich. Eagles,596457,Central Ark. Bears,596457,9,bot,CERMENELLI out at first 1b to p (2-1).,114,2025-02-22T00:00:00-05:00,"Bear Stadium (Conway, AR)",285,MBA,2025
