@@ -1,0 +1,103 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,1,top,CLEARY singled up the middle (0-2 KF).,1,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,1,top,WILLIAMS reached on an error by 2b (1-1 BF); CLEARY advanced to second.,2,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,1,top,GARCIA flied out to cf (1-2 FBS).,3,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,1,top,LUETZOW grounded into double play ss to 1b (1-0 B); WILLIAMS out on the play.,4,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,1,bot,J. Wright popped up to p (3-2 KKBBFB).,5,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,1,bot,A. Gouveia doubled down the lf line (1-1 BK).,6,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,1,bot,R. Acosta flied out to rf (0-2 KF).,7,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,1,bot,N. Leehey grounded out to ss (0-1 K).,8,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,2,top,ROSS walked (3-2 KKBBFBFB).,9,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,2,top,ROSS stole second.,10,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,2,top,JOYCE grounded out to 1b unassisted (2-2 BBSS); ROSS advanced to third.,11,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,2,top,MEDICOFF struck out swinging (2-2 BSSBS).,12,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,2,top,LAMBERT walked (3-2 BBBKFB).,13,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,2,top,LAMBERT stole second.,14,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,2,top,RAYMENT fouled out to 3b (3-2 BBKBK).,15,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,2,bot,K. Williams singled to left center (0-1 K).,16,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,2,bot,K. Williams advanced to second on a passed ball.,17,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,2,bot,J. Murphy grounded out to ss (1-2 KKB).,18,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,2,bot,E. Gentil singled to right field (1-2 FKBF); K. Williams advanced to third.,19,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,2,bot,"Wooldridge flied out to lf, SF, RBI (2-1 BBK); K. Williams scored.",20,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,2,bot,E. Johnson struck out swinging (0-2 KFS).,21,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,3,top,CLEARY walked (3-2 BKBFBB).,22,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,3,top,"WILLIAMS reached on an error by 3b, SAC, bunt, advanced to second (0-0); CLEARY advanced to third.",23,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,3,top,"GARCIA grounded out to 2b, RBI (0-1 F); WILLIAMS advanced to third; CLEARY scored, unearned.",24,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,3,top,LUETZOW grounded out to 2b (3-1 BBBK).,25,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,3,top,ROSS flied out to cf (2-1 BKB).,26,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,3,bot,J. Wright struck out swinging (1-2 KKBS).,27,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,3,bot,A. Gouveia flied out to lf (1-2 BKF).,28,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,3,bot,R. Acosta singled to shortstop (1-2 FKB).,29,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,3,bot,N. Leehey singled up the middle (1-1 KB); R. Acosta advanced to second.,30,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,3,bot,K. Williams walked (3-1 BKBBB); N. Leehey advanced to second; R. Acosta advanced to third.,31,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,3,bot,"J. Murphy walked, RBI (3-2 BSSBFBB); K. Williams advanced to second; N. Leehey advanced to third; R. Acosta scored.",32,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,3,bot,E. Gentil struck out looking (3-2 BBKKBK).,33,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,4,top,JOYCE singled to left center (2-2 BSFBF).,34,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,4,top,MEDICOFF walked (3-2 BSBBKFFB); JOYCE advanced to second.,35,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,4,top,K. Anzai to p for N. Frutchey.,36,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,4,top,LAMBERT flied out to cf (1-2 BKF); JOYCE advanced to third.,37,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,4,top,RAYMENT struck out swinging (0-2 FSS).,38,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,4,top,CLEARY flied out to rf (1-2 KFB).,39,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,4,bot,Wooldridge flied out to lf (1-2 KKB).,40,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,4,bot,E. Johnson grounded out to 2b (0-0).,41,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,4,bot,J. Wright struck out swinging (1-2 KFFFBS).,42,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,5,top,WILLIAMS grounded out to ss (3-1 KBBB).,43,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,5,top,GARCIA struck out swinging (0-2 KKS).,44,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,5,top,LUETZOW grounded out to 1b unassisted (1-2 KKB).,45,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,5,bot,GILLMORE to p for MARTINEZ.,46,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,5,bot,A. Gouveia grounded out to ss (0-2 KK).,47,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,5,bot,R. Acosta grounded out to 3b (1-2 KFFBF).,48,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,5,bot,"N. Leehey reached on an error by 3b, advanced to second (0-0).",49,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,5,bot,"K. Williams singled to center field, RBI (0-0); N. Leehey scored, unearned.",50,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,5,bot,J. Murphy singled to right field (1-2 KKBF); K. Williams advanced to second.,51,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,5,bot,"E. Gentil singled through the left side, RBI (0-2 KF); J. Murphy advanced to second; K. Williams scored, unearned.",52,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,5,bot,Wooldridge flied out to lf (0-0).,53,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,6,top,ROSS singled through the right side (2-1 BKB).,54,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,6,top,JOYCE singled through the right side (0-0); ROSS advanced to second.,55,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,6,top,MEDICOFF struck out looking (3-2 KBBSBK).,56,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,6,top,LAMBERT flied out to lf (0-0).,57,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,6,top,THOMPSON pinch hit for RAYMENT.,58,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,6,top,THOMPSON flied out to rf (0-0).,59,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,6,bot,GOULD to lf for THOMPSON.,60,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,6,bot,ALLEMAN to p for GILLMORE.,61,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,6,bot,E. Johnson struck out swinging (3-2 KFBBBS).,62,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,6,bot,J. Wright singled to center field (3-1 BKBB).,63,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,6,bot,A. Gouveia singled through the right side (2-1 BKB); J. Wright advanced to third.,64,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,6,bot,"R. Acosta singled through the right side, RBI (0-0); A. Gouveia advanced to second; J. Wright scored.",65,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,6,bot,N. Leehey hit by pitch (2-0 BB); R. Acosta advanced to second; A. Gouveia advanced to third.,66,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,6,bot,"K. Williams walked, RBI (3-1 BBKBB); N. Leehey advanced to second; R. Acosta advanced to third; A. Gouveia scored.",67,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,6,bot,MEYN to p for ALLEMAN.,68,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,6,bot,J. Murphy struck out swinging (0-2 KKFS).,69,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,6,bot,E. Gentil fouled out to rf (2-2 KBKBF).,70,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,7,top,M. Barnes to p for K. Anzai.,71,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,7,top,R. Lee to 1b for E. Johnson.,72,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,7,top,CLEARY singled up the middle (1-2 KKB).,73,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,7,top,WILLIAMS lined into double play 1b unassisted (2-1 KBB); CLEARY out on the play.,74,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,7,top,GARCIA walked (3-1 BBBKB).,75,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,7,top,LUETZOW reached on a fielder's choice (1-2 BSK); GARCIA out at second ss to 2b.,76,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,7,bot,CARSTON to c for LUETZOW.,77,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,7,bot,Wooldridge grounded out to ss (2-2 BKBF).,78,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,7,bot,R. Lee singled through the left side (3-2 BKFBBF).,79,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,7,bot,J. Wright singled through the left side (0-0); R. Lee advanced to second.,80,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,7,bot,R. Lee advanced to third on a wild pitch.,81,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,7,bot,A. Gouveia grounded into double play ss to 2b to 1b (3-2 BBKFB); J. Wright out on the play.,82,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,8,top,Hippensteel to p for M. Barnes.,83,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,8,top,E. Kang to lf for K. Williams.,84,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,8,top,ROSS hit by pitch (0-0).,85,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,8,top,JOYCE struck out looking (1-2 BKSK).,86,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,8,top,"MEDICOFF doubled to left center, RBI (0-0); ROSS scored.",87,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,8,top,LAMBERT out at first 1b to p (2-2 KBFBF); MEDICOFF advanced to third.,88,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,8,top,GOULD flied out to 2b (2-2 BBFSF).,89,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,8,bot,WOOSTER to p for MEYN.,90,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,8,bot,R. Acosta popped up to 2b (1-2 BKK).,91,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,8,bot,N. Leehey grounded out to ss (1-2 FFB).,92,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,8,bot,E. Kang singled to first base (2-2 BKBSFF).,93,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,8,bot,E. Kang stole second.,94,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596512,8,bot,J. Murphy flied out to rf (2-2 BKBK).,95,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,9,top,C. Delaney to p for Hippensteel.,96,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,9,top,CLEARY walked (3-1 BBBKB).,97,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,9,top,WILLIAMS struck out swinging (1-2 KBKS).,98,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,9,top,GARCIA hit by pitch (1-2 BKF); CLEARY advanced to second.,99,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,9,top,CUNNINGHAM pinch hit for CARSTON.,100,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,9,top,CUNNINGHAM flied out to cf (0-0).,101,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025
+6301060,596673,Santa Clara Broncos,596512,UC Davis Aggies,596673,9,top,ROSS flied out to cf (2-2 FBFB).,102,2025-02-23T00:00:00-05:00,"Dobbins Baseball Complex (Davis, CA)",453,MBA,2025

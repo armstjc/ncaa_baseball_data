@@ -1,0 +1,110 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,1,top,"Blythe, C. walked (3-1 BKBBB).",1,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,1,top,"Stoakes, B. singled to left field (1-2 KFFFFB)3a Blythe, C. advanced to second.",2,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,1,top,"Rose, B. walked (3-2 BBBKKB)3a Stoakes, B. advanced to second3a Blythe, C. advanced to third.",3,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,1,top,"Rose, B. advanced to second3a Stoakes, B. advanced to third3a Blythe, C. scored on a wild pitch.",4,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,1,top,"Buescher, A. walked (3-0 BBBB).",5,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,1,top,"Saxton, L. flied out to cf, SF, RBI (1-0 B)3a Rose, B. advanced to third3a Stoakes, B. scored.",6,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,1,top,"Stevenson grounded into double play 2b to ss to 1b (0-0)3a Buescher, A. out on the play.",7,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,1,bot,"Noreus,G grounded out to 2b (2-2 KSBB).",8,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,1,bot,"Bittle,P walked (3-2 BKBFBFB).",9,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,1,bot,"McMinn,S flied out to cf (2-2 BSBF).",10,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,1,bot,"Hoelscher singled through the left side (0-0)3a Bittle,P advanced to second.",11,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,1,bot,"Muth,K homered to left field, 3 RBI (3-1 BBBK)3a Hoelscher scored3a Bittle,P scored.",12,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,1,bot,Cousineau grounded out to 3b (1-1 KB).,13,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,2,top,Grevengoed hit by pitch (0-0).,14,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,2,top,Grevengoed stole second.,15,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,2,top,"Strenger, G. fouled out to 1b (1-2 BKS).",16,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,2,top,"Isaacs, J. hit by pitch (0-1 K).",17,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,2,top,"Blythe, C. flied out to lf (1-2 FBK).",18,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,2,top,"Stoakes, B. reached on a fielder's choice (0-1 K)3a Isaacs, J. out at second ss to 2b.",19,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,2,bot,"Sherman,H flied out to cf to right center (0-0).",20,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,2,bot,"Shuman,N struck out swinging (0-2 KFS).",21,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,2,bot,"Cruse,C grounded out to 2b (3-2 BFFBB).",22,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,3,top,"Eaton,J to p for Vaughn,B.",23,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,3,top,"Rose, B. grounded out to 2b (1-2 KKB).",24,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,3,top,"Buescher, A. struck out swinging (0-2 KFS).",25,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,3,top,"Saxton, L. flied out to lf (2-1 BBS).",26,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,3,bot,"Noreus,G grounded out to 1b unassisted (0-0).",27,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,3,bot,"Bittle,P reached on a muffed throw by 1b (1-1 KB).",28,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,3,bot,"McMinn,S flied out to rf (1-0 B).",29,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,3,bot,"Bittle,P out at second c to 2b, caught stealing.",30,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,4,top,Stevenson grounded out to ss (1-1 BK).,31,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,4,top,Grevengoed singled up the middle (0-2 KK).,32,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,4,top,Grevengoed stole second.,33,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,4,top,"Strenger, G. struck out looking (3-2 BBBKFK).",34,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,4,top,"Isaacs, J. struck out swinging (0-2 KFS).",35,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,4,bot,Hoelscher flied out to rf (2-2 KFBBF).,36,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,4,bot,"Muth,K fouled out to 1b (0-0).",37,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,4,bot,Cousineau flied out to lf (0-0).,38,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,5,top,"Blythe, C. flied out to rf (1-1 BK).",39,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,5,top,"Stoakes, B. struck out swinging (3-2 BBFFBS).",40,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,5,top,"Rose, B. walked (3-0 BBBB).",41,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,5,top,"Buescher, A. flied out to rf (0-0).",42,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,5,bot,"Sherman,H grounded out to p (0-0).",43,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,5,bot,"Shuman,N struck out swinging (1-2 FKBS).",44,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,5,bot,"Cruse,C flied out to cf to left center (0-0).",45,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,6,top,"Saxton, L. grounded out to 3b (2-0 BB).",46,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,6,top,Stevenson struck out swinging (1-2 FFBS).,47,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,6,top,Grevengoed grounded out to 3b (2-1 KBB).,48,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,6,bot,"Noreus,G grounded out to 2b (0-0).",49,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,6,bot,"Bittle,P flied out to lf (1-2 KKB).",50,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,6,bot,"McMinn,S popped up to ss (3-2 KSBFBB).",51,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,7,top,"Strenger, G. grounded out to 3b (2-1 BKB).",52,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,7,top,"Isaacs, J. hit by pitch (0-0).",53,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,7,top,"Blythe, C. hit by pitch (0-0)3a Isaacs, J. advanced to second.",54,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,7,top,"Blythe, C. advanced to second3a Isaacs, J. stole third, scored on a throwing error by c.",55,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,7,top,"Stoakes, B. flied out to rf (1-1 FB)3a Blythe, C. advanced to third.",56,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,7,top,"Rose, B. walked (3-0 BBBB).",57,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,7,top,"Buescher, A. struck out swinging, out at first c to 1b (2-2 KBFBS).",58,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,7,bot,Hoelscher grounded out to ss (0-0).,59,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,7,bot,"Muth,K flied out to lf (1-1 FB).",60,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,7,bot,Cousineau flied out to cf (0-2 SF).,61,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,8,top,"Humphrey,B to p for Eaton,J.",62,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,8,top,"Saxton, L. reached on a fielding error by ss (1-1 BK).",63,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,8,top,"Saxton, L. stole second.",64,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,8,top,"Stevenson grounded out to p, SAC, bunt (2-0 BB)3a Saxton, L. advanced to third.",65,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,8,top,"Grevengoed reached on a fielder's choice (0-0)3a Saxton, L. out at home ss to c.",66,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,8,top,Grevengoed stole second.,67,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,8,top,"Strenger, G. singled up the middle, RBI (1-1 KB)3a Grevengoed scored.",68,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,8,top,"Strenger, G. advanced to second on a passed ball.",69,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,8,top,"Isaacs, J. grounded out to 2b (1-0 B).",70,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,8,bot,"Sherman,H grounded out to c unassisted (0-0).",71,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,8,bot,"Shuman,N homered down the lf line, RBI (0-0).",72,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,8,bot,"Cruse,C struck out swinging (2-2 FBFFBS).",73,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,8,bot,"Noreus,G struck out swinging (3-2 BBSBKS).",74,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,9,top,"Barnes,M to p for Humphrey,B.",75,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,9,top,"Blythe, C. lined out to 3b (0-0).",76,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,9,top,"Stoakes, B. walked (3-2 BBSKFBB).",77,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,9,top,"Stoakes, B. stole second.",78,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,9,top,"Rose, B. walked (3-1 BFBBB).",79,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,9,top,"Buescher, A. doubled to left center, 2 RBI (1-0 B)3a Rose, B. scored3a Stoakes, B. scored.",80,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,9,top,"Randle, LJ pinch ran for Buescher, A..",81,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,9,top,"Saxton, L. lined out to ss (0-2 FK).",82,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,9,top,Stevenson fouled out to 1b (1-2 BFS).,83,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,9,bot,"Brooks, C. to p for Haygood, Z..",84,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,9,bot,"Bittle,P doubled to left center (0-0).",85,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,9,bot,"McMinn,S walked (3-2 BFBBSB).",86,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,9,bot,"Hoelscher doubled to right center, RBI (0-0)3a McMinn,S advanced to third3a Bittle,P scored.",87,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,9,bot,"Butash,T to dh for Hoelscher.",88,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,9,bot,"Muth,K intentionally walked.",89,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,9,bot,"Cousineau flied out to lf, SF, RBI (1-2 FBS)3a Muth,K advanced to second3a Butash,T advanced to third3a McMinn,S scored.",90,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,9,bot,"Sherman,H intentionally walked.",91,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,9,bot,"Shuman,N struck out swinging (2-2 BSBKS).",92,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,9,bot,"Cruse,C grounded out to 1b unassisted (0-0).",93,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,10,top,"Pope,J to p for Barnes,M.",94,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,10,top,Grevengoed hit by pitch (0-0).,95,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,10,top,"Strenger, G. reached on a throwing error by p, SAC, bunt (0-0)3a Grevengoed advanced to second.",96,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,10,top,"Isaacs, J. grounded out to 3b, SAC, bunt (0-0)3a Strenger, G. advanced to second3a Grevengoed advanced to third.",97,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,10,top,"Blythe, C. walked (3-2 BBKSBB).",98,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,10,top,"Stoakes, B. walked, RBI (3-1 BSBBB)3a Blythe, C. advanced to second3a Strenger, G. advanced to third3a Grevengoed scored.",99,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,10,top,"Rose, B. flied out to rf, SF, RBI (0-0)3a Blythe, C. advanced to third3a Strenger, G. scored, unearned.",100,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,10,top,"Bonczkowski pinch hit for Randle, LJ.",101,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,10,top,"Stoakes, B. stole second.",102,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,10,top,"Bonczkowski homered to left center, 3 RBI (1-0 B)3a Stoakes, B. scored3a Blythe, C. scored.",103,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596913,10,top,"Saxton, L. grounded out to ss (1-1 BF).",104,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,10,bot,"Noreus,G struck out looking, out at first c to 1b (2-2 SFBFBK).",105,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,10,bot,"Bittle,P reached on a dropped fly by cf, advanced to second (0-0).",106,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,10,bot,"McMinn,S flied out to rf (0-1 F).",107,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,10,bot,"Meuli,M pinch hit for Butash,T.",108,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025
+6362469,596913,Mo.-St. Louis Tritons,596822,McKendree Bearcats,596822,10,bot,"Meuli,M struck out swinging (0-2 KSS).",109,2025-02-23T00:00:00-05:00,"Hypes Field (Lebanon, IL)",75,MBA,2025

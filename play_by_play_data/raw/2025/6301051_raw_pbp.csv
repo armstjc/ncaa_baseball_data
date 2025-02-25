@@ -1,0 +1,93 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,1,top,ZYONS struck out swinging (3-2 BFBBSS).,1,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,1,top,NORIEGA popped up to 3b (0-0).,2,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,1,top,D'AMICO grounded out to ss (1-0 B).,3,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,1,bot,"Ross, D grounded out to 3b (0-0).",4,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,1,bot,"Calise, B hit by pitch (0-1 K).",5,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,1,bot,"Williamson,A walked (3-0 BBBB); Calise, B advanced to second.",6,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,1,bot,"Boedicker, L grounded into double play 2b to ss to 1b (2-1 BKB); Williamson,A out on the play.",7,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,2,top,DURAND walked (3-1 BKBBB).,8,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,2,top,GREGER singled to left field (0-0); DURAND advanced to second.,9,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,2,top,"MEDLOCK grounded out to 3b, SAC, bunt (0-0); GREGER advanced to second; DURAND advanced to third.",10,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,2,top,"SAUL flied out to cf, SF, RBI (0-0); GREGER advanced to third; DURAND scored.",11,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,2,top,D'AMATO out at first 1b to p (1-2 SBSF).,12,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,2,bot,"Espinal, E struck out swinging (0-2 KSFS).",13,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,2,bot,"Prevesk, M struck out swinging (2-2 BBSFS).",14,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,2,bot,"Krewson, C hit by pitch (1-2 KBS).",15,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,2,bot,"Krewson, C out at second c to 2b, caught stealing.",16,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,3,top,GRADY doubled to right center (1-0 B).,17,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,3,top,"ZYONS grounded out to 3b, SAC, bunt (0-0); GRADY advanced to third.",18,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,3,top,"NORIEGA grounded out to 2b, RBI (1-2 FSB); GRADY scored.",19,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,3,top,D'AMICO lined out to ss (0-1 K).,20,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,3,bot,"Jimenez, A walked (3-2 SBSBFBB).",21,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,3,bot,"King, D flied out to cf to left center (1-2 BKK).",22,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,3,bot,"Ross, D hit by pitch (1-0 B); Jimenez, A advanced to second.",23,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,3,bot,"Calise, B grounded into double play ss to 1b (0-1 S); Ross, D out on the play.",24,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,4,top,DURAND struck out swinging (3-2 BFBSBFFFS).,25,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,4,top,GREGER out at first p to 2b to 1b (1-2 KFB).,26,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,4,top,MEDLOCK grounded out to 3b (3-2 BFBBF).,27,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,4,bot,"Williamson,A grounded out to 1b unassisted (1-1 FB).",28,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,4,bot,EY to p for ROBBINS.,29,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,4,bot,"Boedicker, L flied out to cf (1-0 B).",30,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,4,bot,"Espinal, E struck out looking (3-2 KSBBBK).",31,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,5,top,SAUL singled down the lf line (1-1 BK).,32,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,5,top,"D'AMATO grounded out to c, SAC, bunt (0-2 FF); SAUL advanced to second.",33,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,5,top,"Bauer, S to p for Siegel, G.",34,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,5,top,GRADY singled to right field (3-1 BBBK); SAUL advanced to third.,35,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,5,top,"ZYONS out at first 1b to 2b, SAC, bunt, RBI (0-1 F); GRADY advanced to second; SAUL scored.",36,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,5,top,NORIEGA grounded out to p (2-0 BB).,37,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,5,bot,"Prevesk, M flied out to cf (0-1 F).",38,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,5,bot,"Krewson, C singled up the middle (1-1 KB).",39,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,5,bot,"Krewson, C advanced to second on a wild pitch.",40,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,5,bot,"Jimenez, A singled through the left side, RBI (2-1 BBK); Krewson, C scored.",41,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,5,bot,"Jimenez, A stole second.",42,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,5,bot,"King, D walked (3-1 FBBBB).",43,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,5,bot,BURROWS to p for EY.,44,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,5,bot,"Ross, D struck out swinging (1-2 BFSS).",45,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,5,bot,"King, D stole second; Jimenez, A stole third.",46,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,5,bot,"Calise, B walked (3-2 BBKKBB).",47,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,5,bot,"Calise, B advanced to second on a balk; King, D advanced to third on a balk; Jimenez, A scored on a balk.",48,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,5,bot,"Williamson,A popped up to 3b (3-2 BKBBS).",49,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,6,top,"Galvan, A to p for Bauer, S.",50,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,6,top,D'AMICO grounded out to ss (1-1 KB).,51,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,6,top,DURAND struck out looking (3-2 BBFSBK).,52,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,6,top,GREGER struck out swinging (0-2 KFS).,53,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,6,bot,"Boedicker, L flied out to cf (1-2 KBS).",54,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,6,bot,"Espinal, E popped up to 3b (3-2 BKKBB).",55,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,6,bot,"Prevesk, M flied out to rf (0-0).",56,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,7,top,"MEDLOCK struck out swinging, reached first on a passed ball (1-2 KFBS).",57,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,7,top,SAUL singled up the middle (0-1 F); MEDLOCK advanced to second.,58,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,7,top,"Schoneboom,K to p for Galvan, A.",59,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,7,top,"D'AMATO grounded out to c, SAC, bunt (0-1 F); SAUL advanced to second; MEDLOCK advanced to third.",60,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,7,top,"GRADY grounded out to ss, RBI (0-0); SAUL advanced to third; MEDLOCK scored, unearned.",61,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,7,top,ZYONS flied out to cf (1-0 B).,62,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,7,bot,"Krewson, C singled through the left side (2-1 BFB).",63,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,7,bot,SCHEIDT to p for BURROWS.,64,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,7,bot,"Jimenez, A flied out to rf to right center (0-2 KK).",65,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,7,bot,"King, D reached on a fielder's choice to shortstop (0-0); Krewson, C out at second ss to 2b.",66,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,7,bot,"Ross, D lined out to lf (2-2 KSBB).",67,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,8,top,NORIEGA singled up the middle (0-0).,68,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,8,top,D'AMICO struck out swinging (1-2 BSFS).,69,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,8,top,"DURAND doubled to left center, RBI (1-1 KB); NORIEGA scored.",70,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,8,top,"Lordi, J to p for Schoneboom,K.",71,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,8,top,GREGER reached on catcher's interference (2-2 SBBF).,72,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,8,top,"Williams, I to p for Lordi, J.",73,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,8,top,MEDLOCK out on batter's interference.,74,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,8,top,SAUL struck out swinging (1-2 FSBS).,75,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,8,bot,"Calise, B grounded out to ss (2-2 KBFB).",76,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,8,bot,"Williamson,A grounded out to ss (1-0 B).",77,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,8,bot,"Boedicker, L singled to shortstop (0-1 F).",78,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,8,bot,"Espinal, E singled through the left side (0-0); Boedicker, L advanced to second.",79,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,8,bot,"Sundean, A pinch hit for Prevesk, M.",80,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,8,bot,"Sundean, A singled to right field, RBI (0-1 K); Espinal, E advanced to third; Boedicker, L scored.",81,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,8,bot,"Rodriguez, A pinch ran for Sundean, A.",82,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,8,bot,"Krewson, C grounded out to ss (1-0 B).",83,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,9,top,D'AMATO out at first 1b to p (1-0 B).,84,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,9,top,GRADY fouled out to 1b (0-0).,85,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,9,top,ZYONS hit by pitch (3-2 BBFFB).,86,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596501,9,top,NORIEGA struck out swinging (1-2 FBFFS).,87,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,9,bot,CHAMBERLAIN to p for SCHEIDT.,88,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,9,bot,"Jimenez, A grounded out to ss (3-1 KBBB).",89,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,9,bot,"Maduro, K pinch hit for King, D.",90,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,9,bot,"Maduro, K struck out swinging (3-2 KBFBBS).",91,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
+6301051,596501,Bryant Bulldogs,596519,UCF Knights,596519,9,bot,"Ross, D struck out swinging (1-2 KFBS).",92,2025-02-23T00:00:00-05:00,"John Euliano Park (Orlando, FL)",1754,MBA,2025
