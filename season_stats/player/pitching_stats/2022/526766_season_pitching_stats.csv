@@ -1,0 +1,27 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7331998,18,Chase Elias,,,Sr,OF,-,,14941,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7333938,14,Alex Epp,,,Jr,INF,-,,14941,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7335848,19,Kevin Witcher,,,So,INF,-,,14941,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7338095,34,Jake MacDonald,,,Sr,P,-,,14941,12,12,11,4.83,69.0,5,80,42,37,15,69,1,307,279,15,1,1,10,5,12,,,,1,,674,61,66,6,3,,20,2
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7339049,1,Jonah Sanford,,,So,INF,-,,14941,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7339356,29,Jackson Bodinson,,,Jr,P,-,,14941,10,10,10,6.07,59.1,4,67,49,40,26,55,,278,244,14,1,1,13,12,5,,,,1,2,638,47,69,7,1,,15,3
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7341185,26,Levi Ebersoldt,,,So,P,-,,14941,10,10,6,8.75,36.0,1,52,38,35,10,19,,171,156,6,3,,11,2,4,,1,,1,,291,29,54,2,2,,5,1
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7342232,39,Chase Goeringer,,,Sr,P,-,,14941,8,8,,5.87,7.2,,10,6,5,11,9,,42,30,,1,,,4,,,9,7,,1,124,5,7,,,,2,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7342396,16,Jake Wilcox,,,So,INF,-,,14941,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7343968,15,Anthony Hansen,,,Sr,OF,-,,14941,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7348996,31,Brandon Valentine,,,Sr,P,-,,14941,4,4,,18.00,3.0,,6,10,6,7,,,24,16,1,,,,6,1,,2,1,,,18,4,5,,1,,,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7350267,45,Cole Conner,,,Jr,C,-,,14941,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7351772,23,Quincy Aldrich,,,Sr,OF,-,,14941,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7352778,8,Will Fisher,,,Sr,OF,-,,14941,11,10,,10.03,11.2,,20,14,13,3,8,,63,55,5,1,,2,1,4,,14,10,,1,159,10,16,,1,,3,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7353124,27,Will Bailey,,,So,P,-,,14941,4,4,2,12.27,7.1,,11,11,10,9,7,,45,31,,,1,1,2,5,,2,2,,,148,4,9,,1,,1,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7357550,11,Drew Reed,,,Jr,INF,-,,14941,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7552116,9,Brogan McDougall,,,Jr,P,-,,14941,16,16,,10.17,25.2,,39,34,29,10,26,,139,111,5,2,,4,2,13,,24,16,2,3,308,25,23,2,1,,4,1
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7552119,22,Drew Dant,,,Jr,P,-,,14941,24,22,,5.27,42.2,,51,30,25,19,28,,197,169,7,1,2,4,5,2,,21,13,5,2,501,36,58,4,4,8,3,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7552123,25,Will Brant,,,Fr,C,-,,14941,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7552125,36,Colin Stanfield,,,Fr,P,-,,14941,2,2,,27.00,1.0,,2,3,3,1,,,7,5,,1,,,1,1,,2,1,,,14,,3,,,,,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7552129,43,Justin Agnor,,,Fr,P,-,,14941,5,5,,14.29,5.2,,8,10,9,2,1,,32,24,2,,,1,4,5,,4,4,,1,102,5,9,,1,,,1
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7552132,12,Ryan Dickerson,,,Sr,C,-,,14941,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7552133,6,Cameron Fliege,,,Sr,INF,-,,14941,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7552135,37,Reed Pegram,,,Sr,P,-,,14941,14,14,13,6.06,65.1,2,87,65,44,32,57,1,323,269,19,1,,8,11,14,1,3,3,4,4,899,59,67,3,4,,13,3
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7564537,35,Brandon Schulte,,,So,P,6-3,R/R,14941,2,2,,81.00,0.2,,5,7,6,3,,,10,6,2,,,1,,1,,1,1,,,,1,,,,,,
+2022,2021-22,MBA,30120,William Jewell,2,II,GLVC,7564541,44,Jake Sawyer,,,Fr,INF,6-2,R/R,14941,15,12,9,4.34,64.1,1,77,48,31,15,23,1,297,265,16,,1,12,2,12,,2,2,2,3,679,66,96,6,2,,4,

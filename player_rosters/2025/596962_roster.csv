@@ -1,42 +1,43 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8886703,27,Tate Gentleman,Tate,Gentleman,Sr.,INF,5-7,,RIGHT,RIGHT,"Germantown, TN",,2,0,https://stats.ncaa.org/players/8886703
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8883802,3,Dylan Anders,Dylan,Anders,Sr.,INF,5-10,,BOTH,RIGHT,"Mill Creek, WA",,2,0,https://stats.ncaa.org/players/8883802
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8884871,2,Will Gossett,Will,Gossett,Jr.,1B,6-1,,RIGHT,RIGHT,"Memphis, TN",,4,4,https://stats.ncaa.org/players/8884871
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8874852,8,Seth Brown,Seth,Brown,Sr.,INF,6-0,,RIGHT,RIGHT,"Collierville, TN",,1,0,https://stats.ncaa.org/players/8874852
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8876995,20,Lawson Ryan,Lawson,Ryan,So.,P,5-10,,RIGHT,RIGHT,"Nashville, TN",,0,0,https://stats.ncaa.org/players/8876995
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8879017,30,Jackson Ryan,Jackson,Ryan,Sr.,P,6-0,,RIGHT,RIGHT,"Nashville, TN",,0,0,https://stats.ncaa.org/players/8879017
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8876124,42,Xavier Caldwell,Xavier,Caldwell,So.,C,5-10,,RIGHT,RIGHT,"Starkville, MS",,0,0,https://stats.ncaa.org/players/8876124
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8876346,4,Cory Steinhauer,Cory,Steinhauer,Sr.,OF,6-2,,LEFT,RIGHT,"Pleasanton, CA",,4,4,https://stats.ncaa.org/players/8876346
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8886500,13,Jalen Smith,Jalen,Smith,So.,INF,6-4,,RIGHT,RIGHT,"Tampa, FL",,4,4,https://stats.ncaa.org/players/8886500
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8874393,9,AJ Gamboa,AJ,Gamboa,Jr.,P,6-2,,RIGHT,RIGHT,"Pittsburg, CA",,2,0,https://stats.ncaa.org/players/8874393
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8874667,26,Austin Crawford,Austin,Crawford,Jr.,P,6-3,,RIGHT,RIGHT,"Arlington, TN",,0,0,https://stats.ncaa.org/players/8874667
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8891331,21,Shahkai Matthews,Shahkai,Matthews,Jr.,OF,5-6,,RIGHT,RIGHT,"Piscataway, NJ",,2,0,https://stats.ncaa.org/players/8891331
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8895731,25,Joseph Gibson,Joseph,Gibson,Sr.,P,6-0,,RIGHT,RIGHT,"Drummonds, TN",,0,0,https://stats.ncaa.org/players/8895731
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8892434,15,Weber Denman,Weber,Denman,Sr.,P,6-2,,RIGHT,RIGHT,"Collierville, TN",,0,0,https://stats.ncaa.org/players/8892434
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8892757,18,Michael Larson,Michael,Larson,Jr.,P,6-3,,RIGHT,RIGHT,"O Fallon, IL",,0,0,https://stats.ncaa.org/players/8892757
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8897457,5,Logan Wurm,Logan,Wurm,Sr.,C,5-11,,RIGHT,RIGHT,"Mather, CA",,1,0,https://stats.ncaa.org/players/8897457
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8891247,33,Dylan Bowers,Dylan,Bowers,Sr.,P,6-3,,RIGHT,RIGHT,"Southaven, MS",,0,0,https://stats.ncaa.org/players/8891247
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8900465,24,Charlie Faoro,Charlie,Faoro,Jr.,P,6-3,,RIGHT,RIGHT,"Flossmoor, IL",,1,1,https://stats.ncaa.org/players/8900465
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,8900055,1,Andrew Reed,Andrew,Reed,Sr.,OF,5-10,,RIGHT,RIGHT,"Brownsville, TN",,4,4,https://stats.ncaa.org/players/8900055
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113346,14,Brant Stringer,Brant,Stringer,So.,P,6-5,,RIGHT,RIGHT,"Hartselle, AL",,0,0,https://stats.ncaa.org/players/9113346
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113351,22,Gabe Walker,Gabe,Walker,Sr.,OF,5-10,,LEFT,RIGHT,"Walls, MS",,4,4,https://stats.ncaa.org/players/9113351
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113365,37,Brady Moffitt,Brady,Moffitt,Fr.,P,6-1,,RIGHT,RIGHT,"Memphis, TN",,0,0,https://stats.ncaa.org/players/9113365
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113372,39,Tyler Lloyd,Tyler,Lloyd,Jr.,P,6-1,,LEFT,LEFT,"High Point, NC",,0,0,https://stats.ncaa.org/players/9113372
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113380,41,Noah McGeary,Noah,McGeary,So.,C,5-9,,RIGHT,RIGHT,"Bell Buckle, TN",,0,0,https://stats.ncaa.org/players/9113380
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113325,6,Jordan Long,Jordan,Long,Sr.,2B,6-0,,RIGHT,RIGHT,"Dayton, OH",,0,0,https://stats.ncaa.org/players/9113325
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113334,10,Isaac Samano,Isaac,Samano,Jr.,SS,6-3,,RIGHT,RIGHT,"Sylmar, CA",,1,0,https://stats.ncaa.org/players/9113334
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113348,16,Patrick Mangels,Patrick,Mangels,Jr.,C,5-9,,RIGHT,RIGHT,"Marietta, MS",,2,0,https://stats.ncaa.org/players/9113348
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113350,19,Hank Hisky,Hank,Hisky,So.,P,6-3,,RIGHT,RIGHT,"Memphis, TN",,0,0,https://stats.ncaa.org/players/9113350
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113353,23,Charlie Wooten,Charlie,Wooten,Jr.,1B,6-2,,LEFT,LEFT,"Beaumont, TX",,0,0,https://stats.ncaa.org/players/9113353
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113359,32,Eli Potter,Eli,Potter,Fr.,P,6-0,,LEFT,LEFT,"Burns, TN",,1,0,https://stats.ncaa.org/players/9113359
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113363,36,Cameron Olivo,Cameron,Olivo,So.,P,6-3,,RIGHT,RIGHT,"Swanzey, NH",,2,2,https://stats.ncaa.org/players/9113363
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113368,38,Nick Petruzzello,Nick,Petruzzello,Fr.,OF,5-11,,LEFT,LEFT,"Ranson, WV",,3,2,https://stats.ncaa.org/players/9113368
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113375,40,Michael Atkinson,Michael,Atkinson,Jr.,P,6-4,,LEFT,LEFT,"Bowie, MD",,0,0,https://stats.ncaa.org/players/9113375
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113338,11,Ivan Zambrano,Ivan,Zambrano,Jr.,OF,5-11,,RIGHT,RIGHT,"Maracaibo, Venezuela",,4,1,https://stats.ncaa.org/players/9113338
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113355,28,Jackson Licata,Jackson,Licata,Jr.,SS,6-0,,RIGHT,RIGHT,"Orange, CA",,4,4,https://stats.ncaa.org/players/9113355
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113356,29,Cayden Freels,Cayden,Freels,So.,1B,6-2,,RIGHT,RIGHT,"Coral Springs, FL",,2,1,https://stats.ncaa.org/players/9113356
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113358,31,Hunter Mueller,Hunter,Mueller,Fr.,C,6-0,,RIGHT,RIGHT,"Saint Clairsville, OH",,0,0,https://stats.ncaa.org/players/9113358
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113360,34,Logan Croley,Logan,Croley,Jr.,C,6-0,,RIGHT,RIGHT,"Golconda, IL",,4,4,https://stats.ncaa.org/players/9113360
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9113361,35,Michael Hanna,Michael,Hanna,Jr.,P,6-1,,RIGHT,RIGHT,"New Orleans, LA",,2,1,https://stats.ncaa.org/players/9113361
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9214217,20,Ryan Lawson,Ryan,Lawson,So.,p,-,,,,,,2,0,https://stats.ncaa.org/players/9214217
-2025,2024-25,MBA,1,I,Gulf South,1015,Christian Brothers,9214218,26,Sam Walker,Sam,Walker,Jr.,INF,5-10,,RIGHT,RIGHT,"Concord, NC",,4,4,https://stats.ncaa.org/players/9214218
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9305086,17,B. Basey,B.,Basey,---,p,-,,,,,,1,0,https://stats.ncaa.org/players/9305086
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8886703,27,Tate Gentleman,Tate,Gentleman,Sr.,INF,5-7,,RIGHT,RIGHT,"Germantown, TN",,7,1,https://stats.ncaa.org/players/8886703
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8883802,3,Dylan Anders,Dylan,Anders,Sr.,INF,5-10,,BOTH,RIGHT,"Mill Creek, WA",,4,0,https://stats.ncaa.org/players/8883802
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8884871,2,Will Gossett,Will,Gossett,Jr.,1B,6-1,,RIGHT,RIGHT,"Memphis, TN",,14,14,https://stats.ncaa.org/players/8884871
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8874852,8,Seth Brown,Seth,Brown,Sr.,INF,6-0,,RIGHT,RIGHT,"Collierville, TN",,7,0,https://stats.ncaa.org/players/8874852
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8876995,20,Lawson Ryan,Lawson,Ryan,So.,P,5-10,,RIGHT,RIGHT,"Nashville, TN",,0,0,https://stats.ncaa.org/players/8876995
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8879017,30,Jackson Ryan,Jackson,Ryan,Sr.,P,6-0,,RIGHT,RIGHT,"Nashville, TN",,1,0,https://stats.ncaa.org/players/8879017
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8876124,42,Xavier Caldwell,Xavier,Caldwell,So.,C,5-10,,RIGHT,RIGHT,"Starkville, MS",,0,0,https://stats.ncaa.org/players/8876124
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8876346,4,Cory Steinhauer,Cory,Steinhauer,Sr.,OF,6-2,,LEFT,RIGHT,"Pleasanton, CA",,14,14,https://stats.ncaa.org/players/8876346
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8886500,13,Jalen Smith,Jalen,Smith,So.,INF,6-4,,RIGHT,RIGHT,"Tampa, FL",,14,14,https://stats.ncaa.org/players/8886500
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8874393,9,AJ Gamboa,AJ,Gamboa,Jr.,P,6-2,,RIGHT,RIGHT,"Pittsburg, CA",,4,2,https://stats.ncaa.org/players/8874393
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8874667,26,Austin Crawford,Austin,Crawford,Jr.,P,6-3,,RIGHT,RIGHT,"Arlington, TN",,0,0,https://stats.ncaa.org/players/8874667
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8891331,21,Shahkai Matthews,Shahkai,Matthews,Jr.,OF,5-6,,RIGHT,RIGHT,"Piscataway, NJ",,5,0,https://stats.ncaa.org/players/8891331
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8895731,25,Joseph Gibson,Joseph,Gibson,Sr.,P,6-0,,RIGHT,RIGHT,"Drummonds, TN",,2,0,https://stats.ncaa.org/players/8895731
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8892434,15,Weber Denman,Weber,Denman,Sr.,P,6-2,,RIGHT,RIGHT,"Collierville, TN",,3,0,https://stats.ncaa.org/players/8892434
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8892757,18,Michael Larson,Michael,Larson,Jr.,P,6-3,,RIGHT,RIGHT,"O Fallon, IL",,3,0,https://stats.ncaa.org/players/8892757
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8897457,5,Logan Wurm,Logan,Wurm,Sr.,C,5-11,,RIGHT,RIGHT,"Mather, CA",,4,0,https://stats.ncaa.org/players/8897457
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8891247,33,Dylan Bowers,Dylan,Bowers,Sr.,P,6-3,,RIGHT,RIGHT,"Southaven, MS",,6,0,https://stats.ncaa.org/players/8891247
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8900465,24,Charlie Faoro,Charlie,Faoro,Jr.,P,6-3,,RIGHT,RIGHT,"Flossmoor, IL",,3,3,https://stats.ncaa.org/players/8900465
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,8900055,1,Andrew Reed,Andrew,Reed,Sr.,OF,5-10,,RIGHT,RIGHT,"Brownsville, TN",,14,14,https://stats.ncaa.org/players/8900055
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113346,14,Brant Stringer,Brant,Stringer,So.,P,6-5,,RIGHT,RIGHT,"Hartselle, AL",,3,0,https://stats.ncaa.org/players/9113346
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113351,22,Gabe Walker,Gabe,Walker,Sr.,OF,5-10,,LEFT,RIGHT,"Walls, MS",,10,7,https://stats.ncaa.org/players/9113351
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113365,37,Brady Moffitt,Brady,Moffitt,Fr.,P,6-1,,RIGHT,RIGHT,"Memphis, TN",,4,0,https://stats.ncaa.org/players/9113365
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113325,6,Jordan Long,Jordan,Long,Sr.,2B,6-0,,RIGHT,RIGHT,"Dayton, OH",,5,0,https://stats.ncaa.org/players/9113325
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113334,10,Isaac Samano,Isaac,Samano,Jr.,SS,6-3,,RIGHT,RIGHT,"Sylmar, CA",,5,1,https://stats.ncaa.org/players/9113334
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113348,16,Patrick Mangels,Patrick,Mangels,Jr.,C,5-9,,RIGHT,RIGHT,"Marietta, MS",,5,1,https://stats.ncaa.org/players/9113348
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113353,23,Charlie Wooten,Charlie,Wooten,Jr.,1B,6-2,,LEFT,LEFT,"Beaumont, TX",,1,0,https://stats.ncaa.org/players/9113353
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113359,32,Eli Potter,Eli,Potter,Fr.,P,6-0,,LEFT,LEFT,"Burns, TN",,5,1,https://stats.ncaa.org/players/9113359
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113363,36,Cameron Olivo,Cameron,Olivo,So.,P,6-3,,RIGHT,RIGHT,"Swanzey, NH",,4,4,https://stats.ncaa.org/players/9113363
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113368,38,Nick Petruzzello,Nick,Petruzzello,Fr.,OF,5-11,,LEFT,LEFT,"Ranson, WV",,10,4,https://stats.ncaa.org/players/9113368
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113375,40,Michael Atkinson,Michael,Atkinson,Jr.,P,6-4,,LEFT,LEFT,"Bowie, MD",,1,0,https://stats.ncaa.org/players/9113375
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113338,11,Ivan Zambrano,Ivan,Zambrano,Jr.,OF,5-11,,RIGHT,RIGHT,"Maracaibo, Venezuela",,14,10,https://stats.ncaa.org/players/9113338
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113355,28,Jackson Licata,Jackson,Licata,Jr.,SS,6-0,,RIGHT,RIGHT,"Orange, CA",,14,14,https://stats.ncaa.org/players/9113355
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113356,29,Cayden Freels,Cayden,Freels,So.,1B,6-2,,RIGHT,RIGHT,"Coral Springs, FL",,9,5,https://stats.ncaa.org/players/9113356
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113360,34,Logan Croley,Logan,Croley,Jr.,C,6-0,,RIGHT,RIGHT,"Golconda, IL",,14,13,https://stats.ncaa.org/players/9113360
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113361,35,Michael Hanna,Michael,Hanna,Jr.,P,6-1,,RIGHT,RIGHT,"New Orleans, LA",,6,3,https://stats.ncaa.org/players/9113361
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9214217,20,Ryan Lawson,Ryan,Lawson,So.,p,-,,,,,,6,1,https://stats.ncaa.org/players/9214217
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9214218,26,Sam Walker,Sam,Walker,Jr.,INF,5-10,,RIGHT,RIGHT,"Concord, NC",,14,14,https://stats.ncaa.org/players/9214218
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113372,39,Tyler Lloyd,Tyler,Lloyd,Jr.,P,6-1,,LEFT,LEFT,"High Point, NC",,0,0,https://stats.ncaa.org/players/9113372
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113380,41,Noah McGeary,Noah,McGeary,So.,C,5-9,,RIGHT,RIGHT,"Bell Buckle, TN",,0,0,https://stats.ncaa.org/players/9113380
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113350,19,Hank Hisky,Hank,Hisky,So.,P,6-3,,RIGHT,RIGHT,"Memphis, TN",,0,0,https://stats.ncaa.org/players/9113350
+2025,2024-25,MBA,2,II,Gulf South,1015,Christian Brothers,9113358,31,Hunter Mueller,Hunter,Mueller,Fr.,C,6-0,,RIGHT,RIGHT,"Saint Clairsville, OH",,0,0,https://stats.ncaa.org/players/9113358

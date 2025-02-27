@@ -1,0 +1,35 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7331077,58,Evan Gray,,,Jr,P,6-4,R/R,14941,3,3,,0.00,1.2,,0,,,1,3,,6,5,,,,,,,,3,,,,10,1,1,,,,,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7331816,7,Cayden Wallace,,,So,INF,6-1,R/R,14941,67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7332407,41,Will McEntire,,,Jr,P,6-4,L/R,14941,12,12,8,2.59,48.2,,34,15,14,23,49,,196,172,4,,,4,2,,,3,1,1,,740,53,36,2,2,1,15,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7332793,38,Mark Adamiak,,,Jr,P,6-4,R/R,14941,9,9,3,3.95,13.2,,14,6,6,8,18,,61,53,4,,1,,,,,4,,,,181,6,15,2,,,3,1
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7337047,1,Robert Moore,,,Jr,INF,5-9,B/R,14941,65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7338171,48,Heston Tole,,,So,P,6-6,R/R,14941,10,10,,3.77,14.1,,20,7,6,3,20,,63,59,4,,,2,3,,,9,2,1,,191,8,11,2,,1,6,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7338538,34,Nick Griffin,,,So,P,6-4,L/L,14941,7,7,,2.70,6.2,,4,2,2,11,11,,34,21,1,,,,3,2,,,,,,151,2,4,,,,1,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7342942,39,Evan Taylor,,,Sr,P,6-4,L/L,14941,33,33,,3.65,44.1,,28,22,18,16,54,,184,156,9,,,7,1,7,1,29,7,3,1,634,46,29,5,,2,22,1
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7343377,17,Brady Slavens,,,Sr,OF,6-3,L/R,14941,63,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7343837,2,Jalen Battles,,,Sr,INF,6-2,R/R,14941,66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7346549,15,Dylan Leach,,,So,C,5-11,B/R,14941,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7349779,20,Elijah Trest,,,Sr,P,6-3,L/R,14941,13,13,,3.77,14.1,,6,7,6,12,17,,63,48,3,,,,1,3,,8,2,,,265,10,14,,1,,7,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7352892,22,Jaxon Wiggins,,,So,P,6-6,R/R,14941,17,17,15,6.55,66.0,,65,51,48,43,82,,311,257,10,,2,11,12,7,,,,3,1,960,50,58,6,3,,29,1
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7353070,13,Connor Noland,,,Sr,P,6-2,R/R,14941,20,20,19,3.65,116.0,,109,51,47,34,113,,482,436,15,1,1,7,2,8,2,,,3,1,"1,671",132,84,8,6,,27,1
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7354738,3,Zack Gregory,,,Jr,OF,5-10,L/R,14941,56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7357529,32,Zack Morris,,,Jr,P,6-3,L/L,14941,22,22,2,2.31,35.0,,29,10,9,19,26,,153,126,4,,,2,4,3,,28,14,2,3,566,41,32,6,1,1,9,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7358094,55,Gabriel Starks,,,So,P,6-1,R/R,14941,12,12,,4.63,11.2,,9,8,6,10,18,,56,44,2,,,,3,2,,5,1,,,209,14,2,,,,5,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7544057,8,Jace Bohrofen,,,So,OF,6-2,L/R,14941,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7544059,28,Kole Ramage,,,Sr,P,6-1,R/R,14941,31,31,2,4.80,50.2,,44,30,27,19,61,,219,195,13,,1,5,9,5,,21,10,,,745,55,31,3,2,3,11,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7544060,18,Chris Lanzilli,,,Sr,INF,6-2,R/R,14941,59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7544070,12,Michael Turner,,,Sr,C,6-2,L/R,14941,64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7544072,88,Zebulon Vermillion,,,Sr,P,6-5,L/R,14941,24,24,,2.39,26.1,,22,7,7,10,28,,112,100,4,,1,2,,1,,12,3,,1,349,22,29,2,,2,12,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7544075,24,Braydon Webb,,,Sr,OF,6-0,R/R,14941,62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7544080,9,Drake Varnado,,,Fr,INF,6-1,R/R,14941,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7544081,10,Peyton Stovall,,,Fr,INF,5-11,L/R,14941,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7544083,25,Brady Tygart,,,Fr,P,6-2,R/R,14941,24,24,,3.82,37.2,,28,17,16,21,51,,166,132,3,,,3,1,9,,15,6,3,1,548,31,25,3,4,8,19,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7544084,33,Hagen Smith,,,Fr,P,6-3,L/L,14941,20,20,15,4.66,77.1,,66,41,40,46,90,,346,284,8,1,,13,5,9,,3,,2,5,"1,098",57,75,7,2,2,20,1
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7544086,44,Max Soliz Jr.,,,Fr,C,6-5,R/R,14941,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7544087,5,Kendall Diggs,,,Fr,INF,6-0,L/R,14941,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7544088,27,Nick Moten,,,Fr,P,6-1,R/R,14941,2,2,,36.00,1.0,,2,4,4,3,1,,8,4,,,1,1,1,1,,,,,,20,,1,,,,,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7544089,29,Austin Ledbetter,,,Fr,P,6-1,R/R,14941,7,7,2,2.84,12.2,,10,4,4,1,12,,47,44,1,,,2,2,2,,1,1,,,186,16,6,,,,4,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7544093,37,Jake Faherty,,,Fr,P,6-3,R/R,14941,1,1,,0.00,0.1,,0,,,1,1,,3,1,,,,,,1,,2,1,,,17,,,,,,1,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7569176,43,Miller Pleimann,,,Jr,P,6-4,R/R,14941,6,6,1,7.71,7.0,,12,7,6,1,12,,34,31,3,,,1,1,1,,8,4,,1,132,5,3,,,,4,
+2022,2021-22,MBA,31,Arkansas,1,I,SEC,7569217,59,Issac Bracken,,,Sr,P,6-0,R/R,14941,5,5,,1.59,5.2,,3,1,1,3,7,,24,18,1,,,,,2,,12,6,,1,96,4,5,,,,2,

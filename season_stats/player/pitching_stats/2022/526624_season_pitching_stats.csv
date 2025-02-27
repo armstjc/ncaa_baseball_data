@@ -1,0 +1,32 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7337130,28,Dean Fazah,,,Sr,P,6-1,L/L,14941,13,13,3,7.11,31.2,,46,32,25,17,25,,155,134,13,3,,4,2,1,1,9,3,,3,526,25,38,3,1,1,12,3
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7337626,11,Dante Interlandi,,,Jr,P,5-8,L/L,14941,7,7,,2.45,7.1,,7,4,2,3,9,,35,32,2,1,,1,,,,4,,,,106,5,7,,,,5,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7340060,21,Liam Pulsipher,,,Jr,UT,6-2,L/L,14941,14,14,11,5.63,56.0,1,78,52,35,20,64,1,274,243,22,1,,4,3,6,,2,,3,1,947,63,33,4,6,2,26,1
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7341646,14,John Rodopoulos,,,Sr,P,6-2,R/R,14941,8,8,1,1.38,13.0,,7,3,2,7,18,,52,44,1,,,,,,1,2,1,1,,199,11,8,1,,1,5,1
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7343549,4,Colin Diez,,,Jr,OF,5-8,L/L,14941,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7343794,35,Jordan Sanabria,,,So,P,6-3,R/R,14941,14,14,3,5.77,34.1,,34,23,22,20,33,,159,131,10,,,1,9,4,1,4,2,1,3,563,33,34,2,2,,5,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7345636,5,Teovaldo Estevez,,,Jr,C,5-10,R/R,14941,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7348149,20,Brad Sakellarides,,,So,C,5-11,R/R,14941,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7350564,3,Jayson Rodopoulos,,,Sr,OF,6-0,R/R,14941,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7351210,23,Andrew Smith,,,So,UT,-,,14941,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7351809,19,Reed Hoskins,,,Jr,C,6-0,R/R,14941,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7352809,22,Danny Gargano,,,Jr,P,6-1,R/R,14941,13,13,1,5.96,25.2,,33,22,17,12,33,,124,107,11,2,,1,3,2,,4,,1,2,300,18,25,1,3,2,7,1
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7356384,10,Mike Tagliarini,,,Jr,OF,-,,14941,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7358229,17,Nick Barreiros,,,So,C,6-0,R/R,14941,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7586638,9,Louis Antos,,,Sr,3B,-,,14941,40,1,,0.00,0.1,,2,,,1,,,3,2,,,,,,,,2,2,,,9,,,,,,,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7586639,7,Juan De La Rosa,,,Fr,1B,5-11,R/R,14941,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7586642,8,Stephen Castro,,,Sr,P,5-10,R/R,14941,6,6,1,4.00,9.0,,10,6,4,1,8,,39,36,2,,,2,,1,,7,1,,1,161,9,8,1,,,1,1
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7586643,15,Marc Cisco,,,So,2b,5-11,R/R,14941,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7586644,25,Matt Filip,,,Fr,1b,6-4,R/R,14941,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7586660,16,Justin Ventura,,,Jr,ph,-,,14941,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7586802,24,Julien Arcos,,,Sr,p,-,,14941,12,12,11,3.18,76.1,2,76,46,27,19,78,1,344,316,13,,1,3,2,7,,,,1,1,925,81,65,6,2,,21,1
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7586803,27,Rob Backus,,,Sr,P,-,,14941,11,11,8,4.65,40.2,1,43,32,21,15,48,,185,166,11,,2,2,5,,,3,1,1,2,555,43,26,4,2,1,7,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7586804,13,Chandler Giovinco,,,Jr,p,-,,14941,1,1,,3.38,2.2,,2,1,1,0,5,,10,10,,,,1,,,,3,,,,38,2,1,1,,,,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7586805,26,Joshuel Rodriguez,,,Fr,P,5-10,R/R,14941,9,9,,4.50,16.0,,20,15,8,10,17,,83,69,2,,,1,4,4,,5,2,,,197,19,10,1,,1,4,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7586820,6,Joseph Leone,,,Fr,ss,-,,14941,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7586833,40,Dennis Lynch,,,Fr,dh,-,,14941,6,2,,0.00,3.0,,1,1,,1,2,,11,10,1,,,,1,,,,,,,42,4,3,,,,1,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7586848,42,Dylan Hughes,,,Sr,P,-,,14941,14,14,3,2.51,32.1,,26,14,9,15,33,,137,118,5,,1,1,3,3,,4,4,,1,472,20,36,2,1,4,9,1
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7586849,34,Terrence Beeker,,,Jr,p,-,,14941,5,5,1,12.15,6.2,,12,14,9,9,10,,48,33,4,,,,2,5,,2,2,,1,138,2,8,,,,3,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7586850,12,Joseph Cornielle,,,Jr,ph/ss,5-7,R/R,14941,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7586851,18,Mike Freda,,,Fr,ph,5-10,R/R,14941,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,560,Queens (NY),2,II,ECC,7591241,2,Corey Tingo,,,Sr,SS,-,,14941,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -106,7 +106,7 @@ def get_season_stats(teams_df: pd.DataFrame, year: int):
 
 def main():
     """ """
-    year = 2023
+    year = 2022
     for i in range(year, 2013, -1):
         print(
             f"Parsing {i} season stats"

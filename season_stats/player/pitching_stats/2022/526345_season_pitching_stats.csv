@@ -1,0 +1,23 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7333548,20,Jamal Green,,,So,1b,-,,14941,37,11,,19.77,18.2,,46,47,41,15,4,,120,97,16,1,,2,5,6,,17,7,,2,148,6,40,,,,2,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7349938,12,Devin Puckett,,,Jr,P,-,,14941,2,2,2,20.77,4.1,,7,10,10,5,4,,27,21,2,,1,,2,1,,,,,,121,7,2,,2,,1,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7351026,10,Jamil Bentancourt,,,So,OF,-,,14941,39,13,,10.80,20.0,,22,29,24,28,13,,116,78,5,1,1,1,2,7,,15,7,,2,224,13,32,,1,,5,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7351282,17,Diego Lopez-Molina,,,So,P,6-1,,14941,39,4,,23.14,2.1,,2,6,6,3,1,,15,8,,,,,,4,,,,,,38,1,4,,,,,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7351847,6,Khalil Smith,,,Jr,OF,-,,14941,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7354013,7,Andrew Meadows,,,Sr,P,-,,14941,17,16,6,22.32,32.2,,50,93,81,66,26,,232,139,8,2,1,6,26,21,,5,1,2,4,446,31,34,,7,,5,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7355786,3,Tyler Daniels,,,Jr,INF,-,,14941,38,5,3,21.06,16.2,,30,44,39,22,13,,108,76,6,3,,2,7,6,,5,4,,4,219,9,25,,4,,5,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7355944,4,Garrett Palladino,,,Fr,1B,5-9,,14941,40,8,1,20.83,11.2,,30,37,27,20,10,,90,66,9,3,,2,7,1,,9,9,,3,186,8,16,,1,,4,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7573177,33,Rodney Walker,,,So,OF,-,,14941,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7573181,29,Ire Tolbert,,,Fr,OF,5-9,,14941,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7573182,28,Ryan Poston,,,Fr,P,-,,14941,15,15,,16.09,15.2,,27,36,28,26,7,,109,71,6,1,2,4,3,8,,19,14,,4,255,8,29,,,,1,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7573188,19,Austin Guzman,,,Fr,P,-,,14941,17,15,11,13.50,43.1,,74,72,65,45,25,,250,186,17,4,9,3,13,10,,2,,1,8,345,32,61,2,7,,9,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7573190,18,Jack Butler,,,Fr,C,6-2,,14941,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7573192,16,Clayvonje Wright,,,Fr,OF,5-8,,14941,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7573193,15,Payton Baylis,,,Fr,P,5-9,,14941,31,21,1,15.46,36.2,,69,70,63,43,19,,236,167,12,5,5,5,5,14,1,28,17,2,10,405,28,55,,2,1,5,1
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7573195,9,Jordan Holt,,,Fr,INF,6-0,,14941,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7573198,5,DJ Lewis,,,Jr,OF,-,,14941,12,4,1,15.75,4.0,,7,10,7,6,2,,29,21,1,,,,,2,,6,3,,,58,4,6,,1,,1,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7573201,25,Tyler Feltson,,,Fr,P,-,,14941,10,10,5,17.76,12.2,,17,30,25,29,7,,89,50,5,2,,,11,7,,3,,,3,165,12,15,,4,,,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7573204,8,Jermel Ford,,,Fr,P,6-0,,14941,35,12,10,9.37,49.0,,67,69,51,39,42,,263,208,11,2,6,6,6,11,1,,,2,2,493,27,65,,9,,17,3
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7573207,27,Ryan Sonnier,,,Fr,OF,-,,14941,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7573221,2,Christopher Pittman,,,Sr,INF,-,,14941,12,1,,,,,1,3,3,2,,,5,1,,,,,1,2,,,,,,,,,,,,,
+2022,2021-22,MBA,17,Alcorn,1,I,SWAC,7573375,14,Brandon Dunn,,,Sr,P,5-8,,14941,17,17,,35.78,13.1,,34,69,53,43,12,,132,79,12,1,,1,13,8,,17,12,,2,365,16,9,,,,3,

@@ -1,0 +1,34 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7330951,6,Adam Lovato,,,Fr,OF,5-8,L/R,14941,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7331558,1,Demetrius Freeman,,,Fr,INF,6-0,R/R,14941,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7333355,31,Johnathan Combs,,,Fr,C,5-11,R/R,14941,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7337638,2,Emilio Luna,,,Fr,INF,5-9,R/R,14941,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7342563,16,Graham Cumming,,,Fr,P,6-1,L/L,14941,11,11,,18.62,9.2,,19,20,20,3,11,,57,46,4,,,2,1,8,,9,2,,,205,3,13,,,,4,2
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7344357,7,Ricky Maytorena,,,Fr,OF,5-9,R/R,14941,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7357072,5,Niko Diaz,,,So,OF,5-7,L/L,14941,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7562920,4,Griffin Teisher,,,Sr,OF,6-0,L/R,14941,46,2,,27.00,1.2,,6,5,5,0,3,,12,10,1,,,1,,1,,3,3,,1,46,,2,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7562942,15,Adam Chadwick,,,Fr,C,6-2,R/R,14941,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7562944,17,Garrett Apker,,,Jr,P,6-5,R/R,14941,12,12,12,4.19,66.2,2,53,36,31,35,80,,286,240,6,,,5,8,7,,,,3,1,945,49,60,5,3,,26,1
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7562951,8,Kevin Van Linge,,,So,INF,5-9,R/R,14941,47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7562963,9,Trevor Schott,,,Fr,P,6-2,R/R,14941,14,14,3,10.88,24.0,,41,36,29,18,26,,134,109,7,,,7,5,6,1,10,10,1,,428,18,21,1,5,,10,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7562968,10,Gabriel Ponce de Leon,,,So,INF,5-8,R/R,14941,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7562971,11,Luke Reece,,,Fr,INF,5-11,R/R,14941,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7562992,12,Ethan Rivera,,,Fr,C,6-1,R/R,14941,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7562995,13,Jacob Casson,,,Jr,P,5-11,R/R,14941,10,10,8,4.42,53.0,3,46,27,26,12,48,2,224,197,7,1,2,4,7,10,,1,,3,2,601,48,56,4,2,,13,1
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7563002,14,Caden Perreira,,,Fr,P,5-10,R/R,14941,9,9,,12.79,6.1,,3,11,9,11,9,,42,23,2,,3,,3,8,,4,4,,,123,3,7,,,,3,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7563012,18,Aiden Richert,,,Fr,OF,6-0,R/R,14941,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7563018,19,Christian Becerra,,,Fr,P,6-3,R/R,14941,15,15,4,10.65,23.2,,36,32,28,8,16,,120,102,11,,,5,4,8,,9,4,,2,416,16,33,,3,,3,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7563021,21,Tommy Garcia,,,Jr,P,6-0,R/R,14941,16,16,3,8.45,33.0,,51,36,31,12,9,,170,141,13,1,1,4,7,12,,13,9,2,3,517,31,51,3,3,,2,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7563022,25,Zack Berohn,,,Jr,OF,6-0,R/R,14941,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7563023,27,Mark Stanford,,,Jr,INF,6-0,R/R,14941,47,1,,0.00,1.0,,0,,,0,1,,3,2,,,,,,,,2,2,,1,7,1,1,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7563032,22,Tommy Fermin,,,Jr,P,5-9,R/L,14941,3,3,,63.00,1.0,,1,7,7,4,1,,10,4,,,,,1,2,,1,,,,47,,2,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7563034,29,Jesus Lopez,,,Fr,INF,6-2,R/R,14941,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7563038,32,Nolan Long,,,Fr,P,6-0,L/L,14941,14,14,9,5.16,59.1,,54,43,34,37,55,,277,222,9,3,,4,13,9,,1,1,7,2,884,60,54,2,4,,21,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7563115,35,Pat MacDonald Jr.,,,Fr,UT,6-2,L/R,14941,39,15,5,9.48,31.1,,42,36,33,14,19,,160,132,5,,,1,3,9,,4,3,,5,543,26,46,1,3,2,6,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7563166,36,Jacob Savoy,,,Fr,C,5-10,R/R,14941,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7563175,37,Conner Gleissner,,,Fr,P,6-0,L/L,14941,21,21,5,9.63,43.0,,67,55,46,24,28,,226,189,12,3,2,4,4,6,1,24,17,3,3,758,48,45,2,4,1,7,1
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7563186,38,Ben Cisneros,,,Fr,P,5-8,R/R,14941,9,9,1,7.84,10.1,,11,9,9,12,8,,57,37,2,,,1,1,6,,8,5,1,1,223,8,12,,1,,,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7563220,41,Zack Jordan,,,Fr,P,6-0,R/R,14941,18,18,,6.08,26.2,,29,22,18,17,10,,133,103,9,2,,3,1,8,,15,7,1,4,364,27,39,,2,,4,1
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7563436,20,Jared Billen,,,So,P,6-0,R/R,14941,12,11,,16.20,8.1,,11,22,15,22,9,,64,33,3,,,1,6,6,,7,6,1,2,243,4,10,,1,,3,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7563437,33,Christian Lewis,,,So,P,6-3,R/R,14941,4,4,,30.00,3.0,,11,17,10,7,4,,33,20,3,,1,,3,4,,4,4,1,1,102,2,3,,,,2,
+2022,2021-22,MBA,30198,Cal St. San Marcos,2,II,CCAA,7563438,34,David Schlomovits,,,So,P,5-10,L/L,14941,7,7,,10.80,5.0,,10,8,6,5,3,,28,23,1,,,1,,,,8,8,,,106,8,2,,1,,1,

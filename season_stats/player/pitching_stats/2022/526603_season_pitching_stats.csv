@@ -1,0 +1,31 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7331587,26,Luis Ruiz,,,So,OF,-,,14941,13,13,1,12.21,14.0,,27,25,19,13,2,,85,64,6,1,,2,7,3,,4,1,1,4,244,16,22,,3,1,1,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7331661,33,Kevin Seckler,,,Jr,P,6-4,R/R,14941,15,15,9,4.26,67.2,1,67,34,32,26,38,,296,262,12,3,1,7,1,4,,7,5,,3,766,61,95,5,2,,15,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7334645,6,Max Rank,,,So,3B,6-0,R/R,14941,1,1,,9.00,1.0,,1,2,1,0,,,6,5,,,,,1,1,,,,,,,3,,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7336509,22,Joshua Alvarado,,,So,P,6-1,R/R,14941,13,13,,4.94,23.2,,30,18,13,7,13,,114,102,5,1,,1,2,3,,3,,,2,293,27,29,1,1,,4,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7338365,10,James Mattutat,,,Sr,P,-,,14941,39,3,,3.38,2.2,,3,4,1,3,1,,16,11,,,,,1,1,,3,2,1,,53,3,3,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7338508,11,Ivan Martinez Jr.,,,Sr,SS,-,,14941,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7345857,5,Justin Glennerster,,,Jr,C,5-10,R/R,14941,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7347040,15,Jeremiah Peralta,,,So,OF,-,,14941,1,1,,0.00,0.1,,,,,,,,1,1,,,,,1,,,,,,,4,,1,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7347080,36,Isaiah Ortiz,,,Jr,OF,5-8,L/L,14941,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7347091,8,Anthony Burgio,,,Jr,P,5-9,L/L,14941,10,10,8,4.94,51.0,2,46,33,28,29,49,,226,188,6,1,1,4,3,3,,,,2,3,425,47,47,3,4,1,22,16
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7348882,12,Nikko Liguori,,,Sr,INF,-,,14941,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7348976,7,Ryan Saltzman,,,Sr,OF,-,,14941,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7350939,21,Austin DeRosa,,,Sr,SS,-,,14941,4,4,4,12.60,10.0,,16,16,14,6,3,,52,42,8,1,,,1,2,,,,1,1,45,15,10,,2,,2,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7353532,17,Ryan Dieguez,,,Jr,P,6-4,R/R,14941,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7355195,9,Nolan Giblin,,,Jr,3B,5-10,R/R,14941,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7355315,25,James Dieguez,,,Sr,OF,-,,14941,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7355717,20,Jonathan Diforio,,,Sr,P,-,,14941,14,13,13,5.77,78.0,2,91,60,50,25,51,,362,312,18,4,,7,5,13,,,,2,10,"1,054",67,106,5,5,,20,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7541911,29,Frankie Asaro,,,Fr,SS,5-8,R/R,14941,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7541912,13,Jaden Caballero,,,Fr,SS,5-10,R/R,14941,47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7541913,18,Ryan Gonzalez,,,Jr,1B,6-2,L/L,14941,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7541914,46,Elian Herrera,,,So,C,-,,14941,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7541915,48,Alfred Hoti,,,Fr,C,5-11,R/R,14941,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7541916,30,Kuzari Jocelyn,,,Sr,OF,-,,14941,14,14,,2.37,19.0,,9,6,5,8,12,,72,62,2,,,1,1,,1,3,,2,,226,20,22,2,1,3,2,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7541917,23,Matthew Manzoeillo,,,Fr,P,6-0,R/L,14941,11,11,,9.50,18.0,,33,22,19,9,14,,99,85,7,,,3,3,3,,5,2,1,1,244,17,19,1,,,5,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7541918,3,Nate Rodriguez,,,Fr,P,6-3,L/L,14941,40,9,3,6.64,20.1,,24,16,15,17,15,,98,76,6,,,5,3,,,4,4,2,3,303,17,24,1,2,,8,2
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7541919,37,Connor Ruland,,,Fr,C,5-10,R/R,14941,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7541920,41,Manuel Sanchez,,,Sr,P,-,,14941,6,6,1,11.08,13.0,,16,18,16,9,8,,68,55,5,1,,3,6,3,,,,,1,158,13,16,,,,3,1
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7541921,40,Scott Scheppy,,,Fr,P,6-1,B/R,14941,13,13,8,4.56,71.0,3,74,36,36,14,40,,301,274,14,1,1,6,2,5,,,,3,5,623,75,90,3,5,,19,1
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7541922,16,Robert Wootten,,,Sr,OF,-,,14941,46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,407,Mercy,2,II,ECC,7563136,19,Jared Hernandez,,,So,INF,5-9,L/R,14941,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

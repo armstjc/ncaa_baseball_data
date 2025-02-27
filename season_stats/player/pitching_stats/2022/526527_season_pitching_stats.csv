@@ -1,0 +1,37 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7332837,24,Sebastian Coria,,,Jr,1B,6-3,R/R,14941,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7332985,9,Matthew Sandoval,,,Sr,P,5-11,R/R,14941,10,10,1,6.60,15.0,,18,16,11,4,11,,75,63,5,,,1,2,8,,5,2,,,64,14,17,,,1,4,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7333121,10,Kellen Rogers,,,Sr,UT,5-7,B/R,14941,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7334135,12,Alex Martinez,,,Sr,INF,5-10,R/R,14941,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7334489,15,Roberto Maldonado,,,Jr,P,5-9,L/L,14941,15,15,15,3.50,100.1,2,87,53,39,44,100,1,426,361,20,3,7,4,10,7,,,,9,4,459,119,55,7,4,,28,6
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7335418,6,Keanu Maldonado,,,So,INF,5-7,L/R,14941,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7335641,22,Ty Tubbs,,,Jr,P,6-1,R/R,14941,19,18,1,4.42,36.2,,40,23,18,18,35,,167,143,5,1,2,4,,3,1,5,3,3,,189,41,26,1,3,2,12,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7336053,19,Samuel Denker,,,Jr,1B,6-2,L/R,14941,14,14,4,7.42,30.1,1,44,27,25,16,25,,154,132,9,3,,2,2,3,,4,3,,3,172,29,34,3,1,,5,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7341498,14,Benjamin Ybarra,,,So,INF,5-10,R/R,14941,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7341666,4,Paul Castro,,,So,C,5-7,R/R,14941,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7342977,2,Victor Mendoza,,,So,P,4-10,R/R,14941,15,15,15,7.80,72.2,,104,76,63,27,45,,353,304,24,3,,11,11,13,,,,4,5,433,61,96,6,7,,12,3
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7347509,26,Justin Maxcey,,,Sr,P,5-7,R/R,14941,15,15,,6.39,12.2,,8,10,9,14,11,,64,42,3,,,,,6,1,20,13,,2,151,5,17,1,,2,3,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7348252,44,David Garcia,,,Jr,3B,5-9,R/R,14941,5,1,,,,,0,,,0,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7353399,17,Brayden Johnson,,,Jr,OF,5-9,L/R,14941,47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7355493,16,Jordon Ginn,,,So,OF,6-0,R/R,14941,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7357634,8,Zachary Trevino,,,Jr,INF,5-10,R/R,14941,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577469,25,Omar Boyd,,,Fr,UT,5-10,R/R,14941,1,1,,0.00,1.0,,0,,,0,1,,3,3,,,,,,,,,,,,,1,1,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577471,20,Dominic Cox,,,Sr,OF,5-10,R/R,14941,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577472,00,Zachary Dews,,,Jr,P,6-4,R/R,14941,1,1,,0.00,3.0,,4,,,0,3,,12,12,,,,,,,,,,,,6,2,2,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577474,45,Joshua Larzabal,,,Sr,P,5-11,L/L,14941,19,18,3,7.09,47.0,,60,49,37,19,37,,227,187,11,3,,6,8,16,,10,4,1,4,435,55,30,1,3,1,14,2
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577475,3,Blake Redman,,,Fr,INF,6-1,R/R,14941,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577476,41,Michael Dews,,,Jr,P,6-5,R/R,14941,13,13,,4.64,21.1,,27,13,11,11,16,,97,81,4,1,,,2,4,,12,2,,1,147,26,14,2,,,7,1
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577489,23,Jeremy Abreu,,,Jr,OF,5-7,L/L,14941,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577490,32,Devin Aguado,,,Jr,P,5-10,L/L,14941,10,10,1,3.27,11.0,,17,10,4,5,7,,58,52,4,2,,1,,1,,13,9,,,113,10,14,,,1,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577502,35,Derrick Curry,,,Sr,P,5-9,R/R,14941,17,17,3,8.74,35.0,,41,38,34,18,36,,174,146,10,,,5,6,8,,7,3,2,,206,25,42,4,3,1,9,1
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577513,5,Demarie' Smith,,,Sr,OF,5-8,R/R,14941,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577515,7,Wilbert Tre Turner,,,Sr,OF,5-10,R/R,14941,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577522,18,Lorenzo Hardit,,,Sr,P,6-2,R/R,14941,12,12,,7.15,11.1,,8,14,9,13,8,,63,41,2,,1,,3,9,,13,6,,,151,11,11,,,,1,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577525,20,Christian Mendez,,,Sr,UT,5-5,R/R,14941,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577616,28,Gilbert Gonzales,,,Fr,INF,6-1,R/R,14941,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577627,29,Alex Diaz,,,Fr,C,5-9,L/L,14941,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577631,13,Matthew Krall,,,Fr,P,6-4,R/R,14941,15,15,14,6.20,69.2,,89,65,48,38,52,,343,289,28,3,2,3,7,9,,,,4,3,403,79,63,5,6,,17,1
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577633,36,Anthony Larzabal,,,Fr,P,6-2,R/R,14941,1,1,,2.84,6.1,,6,2,2,4,7,,28,24,,,,,,,,1,,,,,6,5,,,,2,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577640,37,Zackary Turner,,,So,INF,5-10,R/R,14941,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577651,39,Mason Heiskell,,,So,C,5-9,R/R,14941,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,553,Prairie View,1,I,SWAC,7577661,1,Jayden Williams,,,So,OF,5-11,R/R,14941,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,37 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7335455,14,Corey Binion,,,Jr,P,6-2,L/R,14941,10,10,3,10.42,19.0,,27,23,22,21,25,,106,82,5,1,,3,5,1,,,,1,,433,14,16,,2,,10,16
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7336298,10,Blaze McCauley,,,Jr,1B,6-0,R/R,14941,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7336984,41,Jacob Willett,,,Jr,P,6-2,R/R,14941,13,13,,4.09,22.0,,15,11,10,9,20,,92,76,4,,,2,1,3,1,7,3,1,3,341,15,27,,1,1,3,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7339542,4,Murphy Flood,,,Jr,INF,6-2,R/R,14941,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7340042,45,Jonathan Nelson,,,So,P,6-0,R/R,14941,12,11,1,7.31,16.0,,25,14,13,4,8,,78,65,6,1,,1,1,2,,5,2,4,3,241,14,22,,1,,3,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7340633,13,Jaden Steagall,,,Sr,INF,5-9,R/R,14941,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7342332,11,Kyle Williams,,,Sr,OF,5-9,R/R,14941,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7342472,36,Drew Miller,,,Sr,P,6-2,L/L,14941,11,11,,4.26,12.2,,14,10,6,14,18,,64,49,2,,,1,3,1,,,,,,279,6,11,,1,,6,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7349648,21,Austin Collins,,,Sr,P,6-1,R/R,14941,2,2,1,72.00,1.0,,3,8,8,3,2,,11,6,,1,,1,,2,,,,,,41,1,,,1,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7352502,22,Zane Keener,,,So,OF,5-9,L/L,14941,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7356653,8,Wes Reynolds,,,Sr,OF,5-11,R/R,14941,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7563975,1,Tyler Ranel,,,Sr,OF,6-0,L/L,14941,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7563982,2,Rudy Fernandez,,,Jr,INF,6-0,R/R,14941,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7563984,3,Zach Wilson,,,So,UT,6-0,R/R,14941,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7563988,5,Britten Robinson,,,Fr,INF,5-8,R/R,14941,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7563992,6,Connor Jurek,,,Fr,OF,5-10,R/R,14941,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564000,7,Gunner Becker,,,Sr,P,6-1,R/R,14941,12,12,10,7.23,37.1,,51,42,30,24,36,,195,155,14,2,,3,3,11,,,,4,1,750,39,25,1,4,,13,3
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564001,12,Brady Salyards,,,So,P,6-0,R/R,14941,12,12,1,8.71,20.2,,24,20,20,14,22,,100,82,8,3,,1,3,1,,,,1,2,299,17,20,,,,7,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564002,15,Tyler Harmon,,,Sr,P,5-11,R/R,14941,8,8,6,2.48,32.2,1,33,15,9,17,33,,149,127,7,1,,1,5,2,,,,2,1,531,27,34,2,2,,11,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564187,16,Tyler White,,,Jr,INF,6-3,B/R,14941,1,1,,0.00,1.0,,,,,1,,,4,3,,,,,,,,,,,,11,1,2,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564188,17,Drew Sliwinski,,,Fr,P,6-4,R/R,14941,18,18,1,3.86,42.0,,45,27,18,17,38,,194,168,2,1,1,,5,4,,5,3,2,3,723,31,52,2,4,1,12,1
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564194,18,Zach Brunet,,,Jr,INF,6-2,R/R,14941,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564197,20,Sam Loew,,,Sr,P,6-4,R/R,14941,11,11,8,7.78,37.0,,51,35,32,9,25,,184,157,10,,,4,3,14,,,,3,1,628,33,44,2,3,,6,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564213,23,Will Samuelson,,,So,C,6-0,L/R,14941,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564214,24,Brice Anders,,,Fr,P,6-2,R/R,14941,9,9,5,9.68,17.2,,32,23,19,16,15,,104,83,8,,,2,5,3,,5,2,2,,334,16,21,,2,,3,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564217,26,Tyler Smith,,,Jr,P,5-10,R/R,14941,8,8,,6.75,12.0,,22,12,9,4,11,,64,58,7,,,,2,1,,,,1,,202,11,14,1,,,3,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564219,28,Dylan Symonds,,,So,C,5-9,R/R,14941,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564225,29,Ryan Dos Santos,,,Jr,OF,6-2,L/R,14941,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564235,32,Luis Ezra,,,Sr,INF,6-3,L/R,14941,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564243,33,Justin Parker,,,Sr,P,6-4,R/R,14941,17,17,2,2.16,50.0,1,40,21,12,12,42,,213,182,3,1,2,,1,14,,2,,3,1,777,50,48,3,5,1,13,22
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564257,34,Jake Greenwalt,,,Fr,P,6-2,R/R,14941,7,7,1,21.00,6.0,,13,14,14,7,7,,41,28,3,,,,6,4,,,,,2,148,4,6,,,,1,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564261,35,Ryan Kavulick,,,Sr,INF,6-1,R/R,14941,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564265,37,Harbor Jefferson,,,Sr,P,6-2,R/R,14941,14,14,8,6.80,43.2,,58,35,33,10,27,,199,178,9,1,,9,4,4,,,,5,2,673,40,57,3,4,,7,1
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564273,39,Gage Newsom,,,Fr,INF,5-11,R/R,14941,16,16,,2.73,26.1,,23,10,8,8,16,,113,94,3,3,,,,4,,4,2,3,4,406,26,32,3,,,8,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564282,42,Christian Ortega,,,Sr,INF,6-3,R/R,14941,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,12830,Tusculum,2,II,SAC,7564296,44,Trejen Fox-Birdwell,,,So,P,6-2,R/R,14941,1,1,,108.00,0.1,,1,4,4,3,,,5,2,1,,,,,,,,,,,23,1,,,,,,

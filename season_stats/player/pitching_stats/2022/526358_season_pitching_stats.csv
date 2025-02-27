@@ -1,0 +1,32 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7331437,31,Connor Aoki,,,Jr,C,-,,14941,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7331698,29,Kyle Eskildsen,,,Jr,P,-,,14941,16,16,,8.06,25.2,,35,25,23,16,19,,127,106,10,,,4,3,4,,11,6,,1,417,24,28,,1,1,8,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7333383,18,Andrew Tan,,,So,INF,5-9,,14941,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7335386,27,Tanner Sinicki,,,Jr,P,-,,14941,10,10,,15.12,8.1,,12,15,14,3,6,,45,38,3,,1,4,,4,,6,4,,,127,7,11,,,,1,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7341438,17,Tommy Babalis,,,Jr,P,-,,14941,16,16,16,6.14,85.0,,95,70,58,31,86,,392,341,21,1,,13,7,12,,,,4,4,"1,362",82,75,4,7,,20,1
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7342440,6,Cavan Tully,,,Jr,INF,-,,14941,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7344451,41,Christian Perez,,,So,OF,5-9,,14941,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7344909,22,Ryan Bryggman,,,Jr,P,-,,14941,16,16,16,5.71,75.2,1,87,51,48,40,52,,357,299,19,1,1,9,11,11,1,,,3,4,"1,248",84,78,5,6,,13,2
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7345669,24,Kevin Reilly,,,So,C,6-2,,14941,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7347105,4,Kevin Gsell,,,Jr,1B,-,,14941,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7347148,34,Isaiah Corry,,,So,INF,5-11,L/R,14941,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7350033,12,Dom DiRado,,,Jr,P,6-0,R/L,14941,10,10,,8.27,16.1,,26,15,15,8,15,,82,68,5,2,,1,1,4,,6,3,,2,256,16,13,,,,4,1
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7350082,36,Justin Rosner,,,So,P,5-11,,14941,20,20,1,4.38,37.0,,40,24,18,12,42,,167,150,11,1,,4,2,4,,6,2,,1,569,28,37,2,2,,15,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7351539,44,Eric Madenberg,,,So,OF,6-0,,14941,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7355137,20,Colin Mason,,,Sr,OF,-,,14941,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7355323,2,Tommy Reifler,,,So,OF,5-10,,14941,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7357494,5,Zac Taylor,,,Jr,INF,-,,14941,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7358387,37,Jack Collins,,,Jr,P,-,,14941,25,25,,2.17,45.2,,28,13,11,12,58,,183,156,5,,,4,5,7,1,21,6,3,5,653,27,50,3,2,5,17,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7553001,3,Nick Di Vietro,,,Jr,OF,-,,14941,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7553042,1,Devan Bade,,,Fr,INF,5-11,,14941,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7553049,7,Jake Evans,,,Sr,SS,-,,14941,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7553052,8,Garrett Matheny,,,Sr,OF,-,,14941,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7553053,11,Alex Henderson,,,So,P,-,,14941,16,16,,6.61,16.1,,15,14,12,19,12,,86,59,3,,,2,5,7,1,4,1,,1,243,21,11,,1,,3,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7553055,38,Gabe Driscoll,,,So,P,6-5,,14941,15,15,9,5.01,55.2,,60,32,31,22,56,,251,220,9,3,,4,4,2,,10,2,4,3,901,46,60,3,2,,12,1
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7553056,15,Nick Roselli,,,Fr,INF,5-10,,14941,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7553058,16,Caden Rothbaum,,,Fr,P,6-3,,14941,11,11,3,6.35,17.0,,17,13,12,14,10,,88,64,1,,1,2,4,4,,7,6,1,5,303,18,24,,2,,3,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7553059,23,Logan Haskell,,,Fr,INF,6-0,R/R,14941,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7553064,26,Troy Butler,,,Fr,P,-,,14941,10,10,,11.42,8.2,,7,13,11,10,5,,45,31,2,,,,2,2,,,,1,1,175,8,9,1,1,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7553067,28,Owen Parliament,,,So,P,6-1,R/R,14941,18,6,1,9.45,6.2,,11,7,7,3,4,,36,29,2,,1,1,,3,,6,,1,,91,6,9,,,,3,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7553069,30,Evin Sullivan,,,Fr,C,6-3,,14941,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,62,Binghamton,1,I,America East,7553071,33,John Lumpinski,,,So,P,6-4,,14941,17,17,6,7.91,52.1,,68,50,46,25,49,,255,218,21,3,2,5,3,5,,9,1,3,4,888,48,54,3,6,2,16,

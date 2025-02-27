@@ -1,0 +1,35 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7335506,15,Kerrigan Edmondson,,,So,OF,6-2,L/L,14941,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7340813,9,Jayden Sloan,,,So,2B,5-7,R/R,14941,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7342327,23,Osvaldo Mendez,,,Jr,P,6-0,L/L,14941,19,19,4,5.13,52.2,,39,39,30,35,64,,234,192,5,4,2,6,10,3,2,18,4,3,1,754,33,54,5,2,1,20,1
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7344425,21,Angel Jimenez,,,Jr,OF,6-1,L/L,14941,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7344776,38,Jeremy Rivera,,,Jr,P,6-0,L/L,14941,3,3,2,10.57,7.2,,15,12,9,3,9,,40,35,3,,,1,4,1,,,,1,,81,4,7,,1,,2,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7349629,5,Hunter May,,,Sr,C,6-4,R/R,14941,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7351983,25,Trenton Jamison,,,Jr,OF,6-1,R/R,14941,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7353434,4,Sebastian Colon,,,So,P,6-1,R/R,14941,18,18,,4.03,22.1,,25,12,10,10,21,,102,84,1,1,,1,3,7,,26,10,1,,254,20,15,2,1,,6,2
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7354537,32,Adiel Melendez,,,So,P,6-1,L/L,14941,4,4,3,3.52,15.1,,13,11,6,7,12,,67,59,2,,,1,3,,1,,,,1,196,10,23,,1,,4,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7355363,18,"Dale Francis, Jr.",,,So,OF,6-3,R/R,14941,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7355567,50,Nate Palmer,,,Jr,P,6-3,R/R,14941,7,7,1,9.00,6.0,,10,6,6,9,6,,41,27,3,,,,7,5,,10,7,,,126,5,6,,1,,2,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7356316,20,Ricardo Rivera,,,Jr,P,6-1,L/L,14941,12,12,2,9.49,12.1,,15,13,13,9,17,,64,51,1,,,1,1,4,,11,1,,,171,5,14,,1,,6,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7357195,28,Luis Rodriguez,,,So,P,6-2,R/R,14941,30,22,,4.28,27.1,,29,15,13,21,26,,130,105,9,2,,,6,3,2,30,13,,1,334,24,27,2,2,1,9,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7357470,17,Jorge Rivera,,,Sr,C,5-9,R/R,14941,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578264,16,Hunter Lopacki,,,Fr,C,5-7,R/R,14941,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578269,33,Payton Harris,,,Sr,P,5-10,R/R,14941,26,26,,2.80,54.2,,43,23,17,32,48,,238,199,7,1,,4,6,3,2,25,9,3,,760,40,70,3,2,4,10,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578377,1,Jabronski Williams,,,Sr,OF,5-9,L/L,14941,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578378,2,Ian Matos,,,Jr,OF,6-1,R/R,14941,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578379,3,Dilan Espinal,,,Sr,INF,5-10,B/R,14941,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578380,6,Chris Lewis,,,Sr,1B,6-2,L/L,14941,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578381,7,Austin King,,,Sr,P,6-5,R/R,14941,16,16,16,5.72,67.2,1,81,45,43,38,63,,315,266,18,1,,7,10,5,,,,5,1,"1,101",57,70,6,3,,15,1
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578382,8,Kyler McIntosh,,,Fr,UT,6-1,R/R,14941,41,17,9,5.91,67.0,,79,47,44,17,64,,295,258,18,2,,6,4,5,,13,7,10,5,696,67,59,4,3,1,13,2
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578384,10,Corey King,,,So,INF,5-10,R/R,14941,59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578385,13,Kevin Matos,,,Fr,P,5-11,R/R,14941,9,9,5,7.46,25.1,,28,23,21,16,17,,124,103,7,1,,2,4,5,,2,1,,,336,20,35,,3,,3,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578386,12,Kenny Allred,,,Sr,P,5-10,L/L,14941,4,2,,13.50,0.2,,1,1,1,1,,,4,3,,,,,,,,,,,,16,1,1,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578388,14,Cristopher DeGuzman,,,Sr,SS,5-10,B/R,14941,59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578389,19,Ali LaPread,,,Jr,OF,6-2,R/R,14941,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578390,22,Omar Melendez,,,Fr,P,6-6,L/L,14941,14,14,,6.12,32.1,,37,24,22,15,30,,150,127,6,1,,5,4,5,,24,10,3,,440,33,27,1,,,7,1
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578391,24,Cristian Lopez,,,So,3B,5-11,R/R,14941,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578392,26,Fred Stewart,,,Sr,C,5-9,R/R,14941,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578393,29,CT Dodd,,,Sr,P,6-1,R/R,14941,3,3,,31.50,2.0,,5,7,7,2,,,15,11,1,,,1,,2,,2,,,,46,4,2,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578395,30,Breon Pooler,,,Sr,P,6-1,R/R,14941,17,17,15,3.32,89.1,1,79,37,33,44,88,,392,336,9,5,,4,3,5,,2,1,4,3,"1,090",70,100,10,3,,21,2
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578396,35,Xavier Williams,,,Fr,P,6-2,R/R,14941,2,2,,13.50,1.1,,1,2,2,3,2,,8,5,,,,,1,,,,,,,12,,2,,,,,
+2022,2021-22,MBA,7,Alabama St.,1,I,SWAC,7578397,37,Shadai Colon,,,Fr,P,5-11,L/L,14941,18,18,2,7.85,28.2,,33,27,25,20,30,,145,114,6,,1,4,10,7,,15,4,1,3,455,16,36,1,1,4,4,

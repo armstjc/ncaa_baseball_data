@@ -1,0 +1,34 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7331029,32,Dylan Wilson,,,So,INF,6-1,L/R,14941,6,3,,31.50,2.0,,9,9,7,2,2,,18,16,1,,1,,1,,,,,,,,1,3,,,,,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7331537,11,Tim Pokornowski,,,Sr,OF,6-2,R/R,14941,45,3,,7.71,2.1,,1,5,2,1,5,,13,9,,,,1,,3,,7,5,,,19,1,1,,,,2,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7332908,25,Sam Tanner,,,Jr,OF,6-5,R/R,14941,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7334049,30,Mason Thiel,,,So,P,6-4,R/R,14941,15,15,,8.78,13.1,,21,16,13,10,8,,74,60,4,,,1,,3,,13,9,,1,110,18,10,,,,2,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7334726,20,Hayden Brown,,,Jr,UT,6-3,-/L,14941,9,6,,14.85,6.2,,7,11,11,4,1,,33,26,,,,4,2,2,,5,3,,1,43,8,11,,,,,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7335936,16,Wyatt O'Bey,,,Sr,P,-,,14941,13,13,4,11.76,20.2,,30,31,27,22,12,,122,91,5,2,,4,5,8,,5,4,,1,141,16,31,,1,,3,1
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7338307,5,Aaron Wukmir,,,Sr,P,5-10,R/R,14941,11,11,6,11.37,25.1,,48,35,32,14,19,,135,118,6,1,,4,4,2,,4,,1,,174,28,22,1,4,,2,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7338934,3,Ben Shepard,,,Sr,P,6-1,,14941,10,10,10,5.65,57.1,,69,43,36,19,52,,260,234,7,1,,7,8,3,,,,3,1,190,62,48,5,4,,9,2
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7340534,33,Tosten Mann,,,Sr,1B,6-4,L/R,14941,47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7341902,24,Russ Tanner,,,Jr,P,-,,14941,3,3,3,5.74,15.2,,14,11,10,7,24,,69,61,1,1,2,1,2,,,,,,1,94,11,11,2,,,6,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7341913,15,Luke Ricker,,,So,P,-,,14941,5,4,,16.88,2.2,,1,6,5,11,1,,23,9,,,,,3,2,,,,,1,68,3,4,,1,,,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7343775,28,Daniel Van De Steeg,,,Jr,P,-,,14941,2,2,,0.00,1.1,,0,,,1,,,5,4,,,,,,,,2,,,,,2,2,,,,,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7345398,12,Brandt Kolpack,,,Sr,INF,-,,14941,46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7346410,34,Braden Farley,,,So,P,-,,14941,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7348094,26,Austin Gordon,,,So,OF,6-0,R/R,14941,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7348517,39,Conor Nygard,,,So,P,6-1,R/L,14941,18,18,,6.48,25.0,,31,24,18,11,12,,121,104,10,1,,1,4,4,1,15,4,,2,147,25,34,2,1,,4,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7351535,17,Alex Wattermann,,,Jr,INF,6-2,R/R,14941,49,11,1,3.52,15.1,,20,8,6,3,17,,68,61,7,1,,1,3,2,,5,3,,2,111,11,15,,,8,2,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7351914,23,Trevor Gustafson,,,Jr,C,6-2,R/R,14941,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7352065,38,Jack Puder,,,So,INF,6-3,L/R,14941,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7355115,1,Eli Drexler,,,So,P,-,,14941,8,8,,4.91,11.0,,8,6,6,14,8,,51,37,1,,1,2,2,,,4,1,,,118,7,14,,,,1,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7355549,6,Alex Sturnieks,,,So,P,-,,14941,10,10,1,9.98,15.1,,22,19,17,11,14,,83,65,3,1,1,,1,4,,15,10,2,1,67,12,19,,1,,3,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7356135,41,Ben Reilley,,,So,P,6-1,-/R,14941,12,7,2,2.91,21.2,,22,10,7,7,14,,96,86,,1,,1,2,2,,6,3,,1,207,20,28,2,1,,7,1
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7356221,4,Jack Nemetz,,,So,C,6-2,R/R,14941,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7358174,35,Mason Torve,,,So,P,6-2,L/R,14941,2,2,,7.71,2.1,,3,2,2,1,2,,10,9,,,,1,1,,,1,,,,37,1,3,,,,1,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7590494,28,Ethan Cole,,,Fr,3b,6-2,R/R,14941,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7590530,21,Chad Fox,,,Jr,p,6-4,L/R,14941,12,12,10,5.68,50.2,,63,33,32,19,37,,234,203,13,4,1,6,8,6,,2,1,2,4,243,52,53,3,4,,11,1
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7590531,8,Brodie Paulson,,,Sr,INF,-,,14941,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7590584,12,Isaac Benesh,,,Jr,p,6-1,L/L,14941,10,10,6,7.45,38.2,,50,37,32,18,29,,185,159,9,1,,8,8,5,,2,2,1,2,426,37,42,4,3,,5,2
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7590585,14,Eric Hinnenkamp,,,Sr,P,-,,14941,10,10,4,9.53,22.2,,40,27,24,15,19,,117,97,6,3,,4,4,2,,1,,1,2,198,20,20,,3,1,8,1
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7591853,30,Chase Eiden,,,Fr,p,6-3,L/L,14941,9,9,1,5.28,15.1,,17,9,9,15,17,,77,61,3,,1,1,,,,8,1,1,,109,15,11,3,1,1,5,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7591860,34,Nathan Rosenberg,,,Fr,c,6-2,R/R,14941,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7593072,32,August Brown,,,Fr,ph,-,,14941,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,427,Minn. Duluth,2,II,NSIC,7595578,26,Zach Kuseske,,,Fr,p,6-1,R/R,14941,14,14,2,3.27,22.0,,19,10,8,3,10,,87,79,3,1,1,2,,2,,13,3,1,2,111,19,33,3,1,1,1,2

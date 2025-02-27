@@ -1,0 +1,32 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7331122,9,Hunter Bryson,,,Fr,OF,-,,14941,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7335323,30,Shane Roberts,,,Sr,P,-,,14941,12,12,,4.15,13.0,,15,13,6,14,13,,70,53,1,2,,1,8,2,1,11,5,,1,247,8,16,2,,,4,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7336435,42,Jeriah Henry,,,Jr,P,6-3,R/R,14941,7,7,,5.79,4.2,,6,9,3,3,5,,26,21,1,,,1,1,1,,2,,1,,108,6,3,,,,,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7337995,21,Tyler Tuthill,,,Jr,P,6-2,L/L,14941,13,13,13,7.23,61.0,,81,51,49,42,43,,307,251,16,1,,8,5,7,1,,,5,2,"1,001",50,82,2,7,,15,2
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7340099,40,Vasili Kaloudis,,,So,INF,6-0,L/R,14941,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7340862,33,Austin Primm,,,Jr,P,-,,14941,14,14,1,4.43,22.1,,20,17,11,12,22,,101,82,2,,,5,,3,,6,2,3,1,335,14,26,,,,5,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7341262,14,Cy Smith,,,So,P,6-0,R/R,14941,9,9,,16.62,8.2,,19,18,16,4,10,,53,42,6,1,,1,1,4,,12,5,2,1,144,9,5,,,,3,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7341266,3,Andrew Terrell,,,Jr,UT,5-10,R/R,14941,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7344065,10,Cameron Kepley,,,Sr,P,-,,14941,22,22,1,4.93,38.1,,41,26,21,19,43,,175,148,12,1,,3,3,5,,17,5,1,2,683,22,42,1,2,1,8,1
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7347292,35,Hayden Cross,,,Jr,C,6-0,L/R,14941,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7348142,34,Phillip Cole,,,Jr,UT,-,,14941,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7351537,19,Dalton Williams,,,Sr,OF,-,,14941,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7352752,4,Luke Drumheller,,,Jr,INF,6-1,L/R,14941,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7353828,38,Trey Tujetsch,,,So,P,5-11,R/R,14941,12,12,10,4.98,56.0,,64,32,31,25,50,,255,224,19,4,,6,6,1,,2,1,2,3,959,44,65,4,5,,7,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7355020,29,Eli Ellington,,,Jr,P,6-3,L/L,14941,19,19,3,5.26,39.1,,32,30,23,32,42,,184,136,8,1,,4,5,11,1,17,6,2,3,751,25,38,1,3,2,11,3
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7355274,6,Carson Arnold,,,So,C,5-11,R/R,14941,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7356253,26,Jason Cornatzer,,,Sr,P,-,,14941,11,11,11,5.44,41.1,,42,34,25,24,42,,191,160,11,1,,6,3,2,,,,3,2,764,43,34,3,2,,16,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7540181,8,Jacob Whitley,,,Sr,C,-,,14941,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7540182,5,Alex Aguila,,,Jr,INF,5-8,B/R,14941,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7540183,17,Andrew Greckel,,,Sr,UT,-,,14941,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7540184,18,Xander Hamilton,,,So,UT,6-3,L/R,14941,9,9,9,6.60,43.2,,48,36,32,19,62,,199,174,12,2,1,5,3,2,,,,1,3,740,31,35,1,6,,12,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7540185,25,Trey Jernigan,,,Sr,P,-,,14941,21,21,,4.50,32.0,,34,19,16,13,23,,135,119,5,1,,3,1,3,,13,3,,,486,32,26,,1,3,4,1
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7544799,2,RJ Johnson Jr.,,,Fr,OF,5-11,L/L,14941,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7544800,44,Grey LaSpaluto,,,So,UT,5-10,R/R,14941,22,13,4,7.71,21.0,,31,22,18,11,16,,105,91,6,2,,4,7,2,,5,,1,,325,17,25,1,2,1,3,1
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7544801,28,Dylan Rogers,,,So,OF,6-1,L/L,14941,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7544819,36,Cameron Carter,,,So,P,-,,14941,17,17,1,9.29,31.0,,36,36,32,25,31,,160,124,9,1,,7,6,6,,8,3,1,4,608,21,36,1,4,1,9,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7544821,27,Braxton Church,,,Fr,C,5-9,L/R,14941,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7544822,37,Caleb Cross,,,So,P,6-2,R/R,14941,19,19,,4.22,42.2,,28,21,20,22,20,,171,143,8,2,,4,3,1,,28,9,3,2,633,35,64,3,1,,5,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7544825,24,Alex Reed,,,Jr,INF,6-0,L/R,14941,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7544827,22,Seth Whitley,,,Fr,P,6-2,R/R,14941,9,9,,4.50,10.0,,5,5,5,10,8,,45,33,2,,,1,2,,,2,1,,2,143,5,17,,,,3,
+2022,2021-22,MBA,27,App State,1,I,Sun Belt,7544834,7,Austin St. Laurent,,,Fr,UT,6-0,R/R,14941,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

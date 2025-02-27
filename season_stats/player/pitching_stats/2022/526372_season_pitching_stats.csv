@@ -1,0 +1,35 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7330963,27,Mason Le,,,Jr,INF,5-9,R/R,14941,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7333404,10,Graysen Tarlow,,,Fr,C,5-11,R/R,14941,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7336802,12,Blaine Traxel,,,Sr,P,5-10,R/R,14941,19,19,14,3.00,105.0,2,112,41,35,23,86,1,446,400,18,5,,9,2,11,4,2,1,8,4,"1,599",111,96,7,4,1,27,1
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7337180,7,Blake Sodersten,,,Sr,P,6-3,R/R,14941,19,19,11,5.64,81.1,,103,58,51,28,75,,383,342,22,2,,10,6,7,1,7,2,4,2,"1,373",83,77,5,6,1,21,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7339693,9,Chad Wilson,,,Sr,P,6-1,R/R,14941,15,15,,3.62,27.1,,26,11,11,12,15,,122,106,6,,2,2,2,4,3,5,1,,,393,43,20,2,1,,4,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7340890,38,Luke Powell,,,So,OF,6-2,L/L,14941,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7343318,3,Nathan Barraza,,,So,INF,6-3,R/R,14941,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7346201,17,Elias Jauregui,,,Sr,P,5-10,R/R,14941,12,12,,4.70,15.1,,17,9,8,6,11,,70,61,3,,,1,2,2,,10,1,1,,269,18,14,1,,,3,2
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7347457,16,Ryan Wentz,,,So,P,6-4,R/R,14941,8,8,8,3.74,43.1,,36,21,18,27,27,,194,157,7,2,,1,3,5,,,,3,2,716,63,32,2,3,,7,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7350048,22,Gavin Lizik,,,Jr,P,6-2,R/R,14941,11,11,1,5.40,13.1,,16,10,8,7,11,,63,53,2,,2,2,2,1,,1,1,2,,220,16,10,1,,,4,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7352343,46,CJ Yogi,,,So,UT,5-11,R/R,14941,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7355419,32,Kyle Hoskins,,,Sr,P,6-3,R/R,14941,6,6,,20.25,4.0,,11,9,9,3,4,,24,21,4,,,1,1,,,5,,,,78,4,2,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7355552,33,Kevin Fitzer,,,Fr,INF,6-3,R/R,14941,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7357023,8,Brandon Bohning,,,Sr,INF,5-10,R/R,14941,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568377,2,Andrew Sojka,,,Jr,OF,6-1,L/R,14941,54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568378,5,Bart West,,,Sr,OF,6-3,R/R,14941,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568420,4,Victor Cerny,,,Sr,C,6-0,R/R,14941,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568421,6,Joey Kramer,,,Jr,INF,6-0,R/R,14941,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568422,19,Shane Carey,,,So,P,6-0,R/R,14941,2,2,,0.00,1.0,,0,,,0,,,3,3,,,,,,,,3,,,,11,2,1,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568423,23,Jakob Simons,,,Jr,OF,5-9,R/R,14941,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568424,29,Sebastian Granados,,,Fr,P,6-3,R/R,14941,6,5,2,3.12,8.2,,4,3,3,10,8,,41,30,3,,,,,1,1,3,,,,171,6,11,,1,1,1,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568425,34,Ali Camarillo,,,Fr,INF,6-1,R/R,14941,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568440,15,Joey Daini,,,Jr,INF,5-9,R/R,14941,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568441,20,Matt Thomas,,,So,INF,6-2,L/L,14941,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568442,21,Gabe Gonzalez,,,Sr,INF,6-2,R/R,14941,46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568444,26,Isaac Ontiveros,,,Fr,P,6-1,L/L,14941,5,5,,11.25,4.0,,10,5,5,3,1,,22,16,2,,,2,,1,1,4,3,1,1,81,6,1,,,,,1
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568445,31,Blake Schriever,,,Sr,P,6-0,R/R,14941,19,19,,4.63,23.1,,23,13,12,10,22,,102,89,3,1,1,5,1,1,,16,7,,2,389,14,29,2,2,8,1,1
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568466,39,Sebastian Garcia Jr.,,,Jr,C,5-11,R/R,14941,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568467,41,Diego Gutierrez,,,Fr,P,6-2,R/R,14941,16,16,8,2.94,49.0,,44,19,16,27,36,,220,184,6,,,3,4,6,2,6,2,1,2,838,57,45,3,1,1,14,1
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568581,45,Lucas Braun,,,Jr,P,6-0,R/R,14941,20,20,10,2.91,74.1,1,62,25,24,17,77,,301,274,9,1,1,9,6,6,1,9,3,2,2,"1,082",66,72,7,4,,19,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568582,47,Drew Porter,,,Fr,OF,6-0,R/R,14941,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568583,48,Kai Moody,,,Sr,INF,6-0,R/R,14941,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568588,49,Xavier Martinez,,,Fr,P,6-1,R/R,14941,22,22,,3.03,29.2,,27,13,10,10,20,,131,115,8,1,,4,2,4,1,12,4,1,1,463,33,35,2,,1,5,
+2022,2021-22,MBA,101,CSUN,1,I,Big West,7568589,30,Shunsuke Sakaino,,,Fr,INF,5-8,L/R,14941,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

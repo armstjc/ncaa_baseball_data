@@ -1,0 +1,83 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,1,top,"Gonzalez, Sa struck out swinging, out at first c to 1b.",1,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,1,top,"Garza, Gabri reached on a throwing error by 3b, advanced to second.",2,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,1,top,"Deterding, N struck out swinging.",3,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,1,top,"Garcia, Eli singled to left field, RBI3a Garza, Gabri scored, unearned.",4,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,1,top,"Garcia, Eli out at second c to ss, caught stealing.",5,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,1,bot,"McCladdie, J grounded out to 2b.",6,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,1,bot,"Brown, A. singled through the left side.",7,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,1,bot,"Cabral, P. walked3a Brown, A. advanced to second.",8,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,1,bot,"Cabral, P. advanced to second on a wild pitch3a Brown, A. advanced to third on a wild pitch.",9,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,1,bot,"Huerta, A. singled through the right side, 2 RBI3a Cabral, P. scored3a Brown, A. scored.",10,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,1,bot,"Huerta, A. advanced to second on a passed ball.",11,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,1,bot,"Perez, W. struck out swinging.",12,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,1,bot,"Huerta, A. advanced to third on a wild pitch.",13,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,1,bot,"Alvarez, L. homered to left field, 2 RBI3a Huerta, A. scored.",14,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,1,bot,"Bergen, N. singled to right field.",15,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,1,bot,"Torres, H. singled through the left side3a Bergen, N. advanced to second.",16,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,1,bot,"Hull, D. singled up the middle3a Torres, H. advanced to second3a Bergen, N. advanced to third.",17,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,1,bot,"McCladdie, J flied out to rf.",18,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,2,top,"Lockwood, Ca struck out swinging.",19,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,2,top,"Hall, K. singled to left field.",20,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,2,top,"Sobrino, Ray struck out swinging.",21,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,2,top,"O'Neill, Mik struck out looking.",22,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,2,bot,"Brown, A. lined out to lf.",23,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,2,bot,"Cabral, P. singled to left field.",24,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,2,bot,"Cabral, P. stole second.",25,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,2,bot,"Huerta, A. grounded out to 2b3a Cabral, P. advanced to third.",26,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,2,bot,"Perez, W. struck out swinging, out at first c to 1b.",27,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,3,top,"Gallant, C. to p for Elliott, E..",28,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,3,top,"Blunt, Cason struck out swinging.",29,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,3,top,"Gonzalez, Sa struck out looking.",30,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,3,top,"Garza, Gabri grounded out to 3b.",31,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,3,bot,"Alvarez, L. singled to third base, bunt.",32,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,3,bot,"Alvarez, L. stole second.",33,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,3,bot,"Bergen, N. walked.",34,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,3,bot,"Bergen, N. stole second3a Alvarez, L. stole third.",35,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,3,bot,"Torres, H. reached on a fielder's choice to third base3a Alvarez, L. out at home 3b to c to 3b to c.",36,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,3,bot,"Hull, D. popped up to 1b.",37,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,3,bot,"McCladdie, J walked3a Torres, H. advanced to second3a Bergen, N. advanced to third.",38,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,3,bot,"Brown, A. walked, RBI3a McCladdie, J advanced to second3a Torres, H. advanced to third3a Bergen, N. scored.",39,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,3,bot,"Brown, A. advanced to second on a wild pitch3a McCladdie, J advanced to third on a wild pitch3a Torres, H. scored on a wild pitch.",40,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,3,bot,"Brown, A. advanced to third on a wild pitch3a McCladdie, J scored on a wild pitch.",41,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,3,bot,"Cabral, P. struck out swinging, out at first c to 1b.",42,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,4,top,"Deterding, N grounded out to ss.",43,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,4,top,"Garcia, Eli grounded out to 3b.",44,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,4,top,"Lockwood, Ca doubled down the lf line.",45,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,4,top,"Hall, K. singled to second base3a Lockwood, Ca advanced to third.",46,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,4,top,"Sobrino, Ray reached on a fielder's choice to second base3a Hall, K. out at second 2b to ss.",47,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,4,bot,"Rogers, Dese to p for Jennings, Ri.",48,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,4,bot,"Huerta, A. struck out looking.",49,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,4,bot,"Perez, W. singled up the middle.",50,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,4,bot,"Alvarez, L. flied out to cf.",51,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,4,bot,"Bergen, N. struck out swinging.",52,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,5,top,"O'Neill, Mik struck out looking.",53,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,5,top,"Blunt, Cason struck out looking.",54,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,5,top,"Gonzalez, Sa walked.",55,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,5,top,"Garza, Gabri hit by pitch3a Gonzalez, Sa advanced to second.",56,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,5,top,"Deterding, N struck out swinging, out at first c to 1b.",57,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,5,bot,"Torres, H. struck out swinging.",58,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,5,bot,"Hull, D. grounded out to 2b.",59,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,5,bot,"McCladdie, J walked.",60,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,5,bot,"McCladdie, J stole second.",61,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,5,bot,"Brown, A. reached on a fielding error by 3b3a McCladdie, J advanced to third.",62,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,5,bot,"Cabral, P. grounded out to 3b.",63,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,6,top,"Didder, N. to p for Gallant, C..",64,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,6,top,"Sobrino, Ray to 3b.",65,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,6,top,"Garcia, Jade to 1b for O'Neill, Mik.",66,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,6,top,"Jorge, Ander to 2b for Blunt, Cason.",67,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,6,top,"Patty, T. to 3b for Cabral, P..",68,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,6,top,"Garcia, Eli flied out to rf.",69,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,6,top,"Lockwood, Ca hit by pitch.",70,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,6,top,"Hall, K. hit by pitch3a Lockwood, Ca advanced to second.",71,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,6,top,"Sobrino, Ray grounded out to 1b unassisted3a Hall, K. advanced to second3a Lockwood, Ca advanced to third.",72,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,6,top,"Garcia, Jade fouled out to 3b.",73,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,6,bot,"Hall, Traesh to cf for Gonzalez, Sa.",74,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,6,bot,"Huerta, A. walked.",75,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,6,bot,"Perez, W. grounded into double play 2b to ss to 1b3a Huerta, A. out on the play.",76,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,6,bot,"Alvarez, L. singled up the middle.",77,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596570,6,bot,"Bergen, N. grounded out to p, bunt.",78,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,7,top,"Jorge, Ander popped up to 2b.",79,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,7,top,"Hall, Traesh hit by pitch.",80,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,7,top,"Garza, Gabri lined out to cf.",81,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
+6315748,596896,Lane Dragons,596570,Jackson St. Tigers,596896,7,top,"Deterding, N struck out looking.",82,2025-02-26T00:00:00-05:00,"Braddy Field (Jackson, MS)",65,MBA,2025
