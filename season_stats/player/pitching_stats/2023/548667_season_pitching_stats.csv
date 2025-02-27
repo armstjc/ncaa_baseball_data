@@ -1,0 +1,35 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813780,38,Andrew Clesas,,,Sr,P,5-10,R/R,15001,3,3,,16.20,1.2,,4,5,3,4,,,15,9,2,,,,,1,,,,,1,8,1,4,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813783,32,Jackson Walsh,,,So,P,6-1,R/R,15001,18,18,5,5.61,43.1,,48,30,27,15,21,,197,167,11,1,,2,1,12,2,1,,3,,600,66,27,5,,1,6,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813785,9,Cavan Brady,,,Sr,INF,6-1,R/R,15001,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813786,28,Matthew Pizzelli,,,Jr,P,5-10,L/L,15001,27,27,,1.83,19.2,,13,5,4,8,14,,84,67,2,,,,,7,,5,,1,1,253,25,17,1,,1,4,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813787,7,AJ Guindon,,,Jr,OF,5-7,R/R,15001,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813788,3,Nick Croteau,,,Sr,INF,5-7,L/R,15001,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813790,35,Liam Goldthwaite,,,Jr,P,6-0,R/R,15001,11,11,11,3.41,60.2,1,61,26,23,9,36,,247,231,11,1,1,8,,4,,,,2,1,666,61,73,6,2,,12,1
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813791,12,Robert Wirtanen,,,Sr,C,5-10,R/R,15001,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813792,25,Will Haskell,,,Jr,OF,6-1,L/R,15001,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813793,40,Max Pierce,,,Sr,P,6-0,R/R,15001,27,27,,6.21,29.0,,21,22,20,19,29,,130,102,5,,2,2,3,4,4,,,3,2,364,33,21,3,,4,9,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813794,15,Amedeo Ucci Jr,,,Jr,OF,6-0,R/R,15001,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813795,30,Zachary Nichols,,,Sr,P,6-0,L/L,15001,29,29,,2.70,30.0,,12,10,9,12,51,,116,102,1,,1,2,1,2,1,,,,,472,15,22,,2,8,10,1
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813797,36,Joe Mulhern,,,So,P,5-10,R/R,15001,26,26,,3.81,26.0,,21,11,11,10,20,,110,94,2,2,,1,2,2,1,,,3,1,353,31,26,2,1,,7,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813798,46,Ryan McCarroll,,,So,P,6-4,R/R,15001,13,13,12,1.89,76.1,1,63,19,16,21,82,,316,284,7,,,3,1,8,1,,,2,1,"1,140",63,75,10,1,,18,1
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813799,1,Mike Maher,,,Sr,INF,5-8,R/R,15001,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813800,2,Ty Cali,,,So,OF,5-8,R/R,15001,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813801,18,Jack Kriz,,,So,INF,6-0,L/R,15001,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813802,16,Tommy Ambrosone,,,Jr,OF,6-0,L/L,15001,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813803,8,Tim Wagner,,,So,P,5-11,R/R,15001,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813805,19,Anthony Teberio,,,So,1B,6-2,R/R,15001,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813806,21,Tommy Beauregard,,,So,INF,5-7,R/R,15001,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,7813807,24,Kevin Matos,,,So,OF,6-1,L/R,15001,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,8018820,29,Zach Clesas,,,Sr,P,5-11,R/R,15001,12,12,12,3.33,73.0,,76,35,27,7,40,,300,283,10,3,,5,1,4,,,,2,4,710,99,67,7,2,,17,1
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,8018853,49,Justin Colpack,,,N/A,ph,6-2,R/R,15001,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,8019208,26,Zach Ferris,,,N/A,p,6-1,R/R,15001,9,9,,5.00,9.0,,10,5,5,5,4,,38,31,,2,1,1,1,1,,1,1,1,,102,12,6,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,8019819,48,Ben Oliveira,,,N/A,p,6-2,R/R,15001,11,11,7,2.70,46.2,1,31,15,14,25,28,,197,166,8,1,,4,1,4,1,,,1,1,727,30,75,5,,1,9,2
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,8022168,50,Josh Fischer,,,N/A,p,5-9,L/L,15001,10,10,4,4.06,37.2,,40,19,17,20,32,,173,146,2,,,1,2,6,,,,,1,534,33,40,2,1,1,13,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,8022520,34,Evan Mello,,,N/A,p,6-2,L/L,15001,4,4,,2.25,8.0,,9,7,2,7,7,,42,32,1,,,,4,1,,,,,2,173,5,12,1,,,1,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,8022521,11,N. Michael,,,N/A,3b,-,,15001,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,8022522,14,Jonah Nielsen,,,N/A,lf,-,,15001,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,8022523,6,Marcus Rodrigues,,,N/A,dh,5-6,R/R,15001,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,8022572,13,Nick Giangregorio,,,N/A,c,5-10,R/R,15001,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,8154637,42,M. Ollivierr,,,N/A,cf,-,,15001,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,779,Wheaton (MA),3,III,NEWMAC,8154638,4,Ray Toth,,,N/A,ss,5-11,R/R,15001,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

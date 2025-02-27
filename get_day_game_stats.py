@@ -7,12 +7,9 @@ import pandas as pd
 from ncaa_stats_py.baseball import (
     get_baseball_day_schedule,
     get_baseball_game_player_stats,
-    get_baseball_game_team_stats,
     get_raw_baseball_game_pbp,
 )
 from tqdm import tqdm
-
-from combine import csv_combiner
 
 
 def get_day_game_stats(date_obj: date):
@@ -102,16 +99,6 @@ def get_day_game_stats(date_obj: date):
                     index=False
                 )
 
-    # print("Combining team stats")
-    # team_file_path = f"individual_game_stats/team/{season}/*.csv"
-    # comb_player_df = csv_combiner(team_file_path)
-    # comb_player_df.to_csv(
-    #     f"individual_game_stats/team/{season}_team_game_stats.csv",
-    #     index=False
-    # )
-
-    # raw_pbp_file_path = f"individual_game_stats/player/{season}/*.csv"
-
 
 def main():
     """ """
@@ -125,21 +112,6 @@ def main():
 
     for day in date_list:
         get_day_game_stats(date_obj=day)
-
-    # now_datetime = datetime(
-    #     year=2025,
-    #     month=2,
-    #     day=1
-    # ) - timedelta(days=1)
-    # year = now_datetime.year
-    # month = now_datetime.month
-    # for day in range(now_datetime.day, 10, -1):
-    #     date_obj = date(
-    #         year=year,
-    #         month=month,
-    #         day=day
-    #     )
-    #     get_day_game_stats(date_obj=date_obj)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,26 @@
+season,season_name,sport_id,school_id,school_name,ncaa_division,ncaa_division_formatted,team_conference_name,player_id,player_jersey_number,player_full_name,player_last_name,player_first_name,player_class,player_position,player_height,player_bats_throws,stat_id,pitching_G,pitching_APP,pitching_GS,pitching_ERA,pitching_IP,pitching_CG,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_SHO,pitching_BF,pitching_AB,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SFA,pitching_PI,pitching_GO,pitching_FO,pitching_W,pitching_L,pitching_SV,pitching_KL,pitching_PK
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,7817881,32,Jackson Troiano,,,Sr,P,6-3,L/R,15001,3,3,,22.50,2.0,,5,5,5,1,,,12,10,1,,2,1,2,1,,,,,,35,,5,,,,,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,7817884,5,Ty Reed,,,Sr,OF,5-11,R/R,15001,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,7817885,15,Kieran Gibson,,,Sr,P,6-0,R/R,15001,10,10,9,8.41,40.2,1,77,56,38,10,22,,220,191,15,2,4,6,6,13,,,,5,1,364,42,48,,6,,6,4
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,7817886,25,Dylan Allen,,,Jr,3B,6-0,R/R,15001,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,7817887,26,Gavin Neuland,,,Sr,P,5-10,R/L,15001,10,9,7,12.16,37.0,,67,51,50,22,20,,201,167,6,3,3,4,11,7,,,,3,2,477,33,51,2,3,1,5,1
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,7817888,3,Anthony Bocchino,,,Jr,2B,5-7,R/R,15001,16,8,1,14.92,12.2,,36,26,21,4,3,,78,71,9,1,1,2,,1,1,7,2,,2,77,13,18,,3,,1,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,7817889,41,Nick Shoemaker,,,Jr,UT,5-11,R/R,15001,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,7817891,34,Nathan Welch,,,Sr,DH,6-3,L/R,15001,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,7817895,30,Alphonse Fuca,,,Jr,INF,6-0,L/R,15001,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,7817896,24,Michael Sandarr,,,So,P,6-1,R/R,15001,15,14,,10.29,21.0,,31,29,24,20,4,,116,85,5,2,1,4,5,3,1,13,10,2,6,192,20,35,1,2,,,1
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,7817897,8,Frank Nieto,,,So,INF,5-8,R/R,15001,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,8016221,13,Nick Barone,,,Fr,1B,6-4,R/R,15001,31,2,,22.50,2.0,,3,5,5,3,2,,12,9,3,,,,1,,,2,2,,,14,3,1,,,,1,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,8016222,17,Donald Cordova,,,Fr,P,5-7,L/L,15001,11,11,,10.97,10.2,,18,15,13,9,5,,62,47,3,1,1,,6,4,,8,4,,2,130,9,15,,,,4,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,8016223,29,Ian Gacek,,,Fr,INF,5-9,R/R,15001,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,8016224,44,Hunter LaValley,,,So,INF,5-8,R/R,15001,26,9,4,4.37,35.0,,30,21,17,14,17,,160,133,5,,2,1,3,10,,4,2,,3,290,27,55,2,2,,8,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,8016241,35,Mike Henry,,,Jr,OF,6-0,R/R,15001,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,8016243,11,Aaron D'Agnese,,,Fr,INF,5-6,R/R,15001,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,8016244,7,Brendan Finnegan,,,Fr,INF,5-10,L/R,15001,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,8016245,4,Morgan De La Garza,,,Fr,UT,6-0,R/R,15001,12,12,6,13.19,28.2,,51,49,42,27,17,,165,125,10,2,1,1,11,8,,6,1,2,3,367,34,26,,3,,7,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,8016246,21,Derek Maldonado,,,Fr,OF,5-11,R/R,15001,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,8016247,19,Evan Ruddy,,,Sr,P,6-3,R/L,15001,6,6,,12.60,5.0,,8,10,7,7,5,,31,22,2,2,,,1,1,,2,,,1,65,7,2,1,,,,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,8016322,33,Mackenzie Mather,,,Sr,C,6-4,R/R,15001,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,8016444,2,Kayden Guerin,,,Jr,P,5-10,R/R,15001,10,10,5,4.38,39.0,2,53,32,19,17,19,,193,162,9,4,,,5,6,,3,2,5,3,237,45,46,3,2,1,6,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,8016445,12,Edilberto Rosado,,,Fr,C,5-3,R/R,15001,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,2022-23,MBA,30165,SUNY Canton,3,III,North Atlantic,8016458,1,Danny Vargas,,,Sr,P,5-8,R/R,15001,7,7,2,5.49,19.2,,26,17,12,15,13,,103,81,7,2,,2,1,2,,2,1,2,3,98,17,26,2,2,,7,

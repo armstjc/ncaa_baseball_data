@@ -63,7 +63,7 @@ def game_to_season_stats_combiner(year: int):
     )
     batting_df.to_csv(
         f"combined_files/season_stats/player/{year}_season_batting_stats.csv",
-        index=False
+        index=False,
     )
     print()
 
@@ -72,13 +72,20 @@ def combine_raw_pbp():
     """ """
     print("Combining play-by-play data files.")
     pbp_df = csv_combiner("play_by_play_data/raw/*/*.csv")
-    season_arr = pbp_df["season"].to_list()
-    season_arr = list(set(season_arr))
+    pbp_df["game_datetime"] = pd.to_datetime(pbp_df["game_datetime"])
+    pbp_df["game_date"] = pbp_df["game_datetime"].dt.date
+    dates_arr = pbp_df["game_date"].to_list()
 
-    pbp_df = pbp_df.sort_values(by=["season", "game_id", "event_num"])
-    for season in season_arr:
-        temp_df = pbp_df[pbp_df["season"] == season]
-        temp_df.to_csv(f"combined_files/pbp_raw/{season}_raw_pbp.csv", index=False)
+    dates_arr = list(set(dates_arr))
+
+    pbp_df = pbp_df.sort_values(
+        by=["season", "game_datetime", "game_id", "event_num"]
+    )
+    for date_val in dates_arr:
+        temp_df = pbp_df[pbp_df["game_date"] == date_val]
+        temp_df.to_csv(
+            f"combined_files/pbp_raw/{date_val}_raw_pbp.csv", index=False
+        )
 
 
 def combine_rosters():
@@ -88,11 +95,15 @@ def combine_rosters():
 
     season_arr = roster_df["season"].to_list()
     season_arr = list(set(season_arr))
-    roster_df = roster_df.sort_values(by=["ncaa_division", "school_id", "player_id"])
+    roster_df = roster_df.sort_values(
+        by=["ncaa_division", "school_id", "player_id"]
+    )
 
     for season in season_arr:
         temp_df = roster_df[roster_df["season"] == season]
-        temp_df.to_csv(f"combined_files/rosters/{season}_rosters.csv", index=False)
+        temp_df.to_csv(
+            f"combined_files/rosters/{season}_rosters.csv", index=False
+        )
 
 
 def combine_game_stats():
@@ -120,7 +131,9 @@ def combine_season_stats():
 
     season_arr = batting_df["season"].to_list()
     season_arr = list(set(season_arr))
-    batting_df = batting_df.sort_values(by=["ncaa_division", "school_id", "player_id"])
+    batting_df = batting_df.sort_values(
+        by=["ncaa_division", "school_id", "player_id"]
+    )
 
     for season in season_arr:
         temp_df = batting_df[batting_df["season"] == season]

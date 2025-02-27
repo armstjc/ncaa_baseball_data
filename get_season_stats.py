@@ -46,10 +46,17 @@ def get_season_stats(teams_df: pd.DataFrame, year: int):
     shuffle(team_ids_arr)
 
     for team_id in tqdm(team_ids_arr):
-        df = get_baseball_player_season_batting_stats(team_id=team_id)
-        df = df.sort_values(
-            by=["season", "school_id", "player_id"]
-        )
+        try:
+            df = get_baseball_player_season_batting_stats(team_id=team_id)
+            df = df.sort_values(
+                by=["season", "school_id", "player_id"]
+            )
+        except Exception as e:
+            df = pd.DataFrame()
+            logging.warning(
+                f"Could not get batting stats for team ID {team_id}. " +
+                f"Full exception: `{e}`"
+            )
         if len(df) > 0:
             df.to_csv(
                 "season_stats/player/batting_stats/" +
@@ -57,10 +64,18 @@ def get_season_stats(teams_df: pd.DataFrame, year: int):
                 index=False
             )
 
-        df = get_baseball_player_season_pitching_stats(team_id=team_id)
-        df = df.sort_values(
-            by=["season", "school_id", "player_id"]
-        )
+        try:
+            df = get_baseball_player_season_pitching_stats(team_id=team_id)
+            df = df.sort_values(
+                by=["season", "school_id", "player_id"]
+            )
+        except Exception as e:
+            df = pd.DataFrame()
+            logging.warning(
+                f"Could not get pitching stats for team ID {team_id}. " +
+                f"Full exception: `{e}`"
+            )
+
         if len(df) > 0:
             df.to_csv(
                 "season_stats/player/pitching_stats/" +
@@ -69,10 +84,18 @@ def get_season_stats(teams_df: pd.DataFrame, year: int):
             )
 
         if year >= 2017:
-            df = get_baseball_player_season_fielding_stats(team_id=team_id)
-            df = df.sort_values(
-                by=["season", "school_id", "player_id"]
-            )
+            try:
+                df = get_baseball_player_season_fielding_stats(team_id=team_id)
+                df = df.sort_values(
+                    by=["season", "school_id", "player_id"]
+                )
+            except Exception as e:
+                df = pd.DataFrame()
+                logging.warning(
+                    f"Could not get fielding stats for team ID {team_id}. " +
+                    f"Full exception: `{e}`"
+                )
+
             if len(df) > 0:
                 df.to_csv(
                     "season_stats/player/fielding_stats/" +
