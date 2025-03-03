@@ -1,0 +1,81 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,1,top,No play.,1,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,1,top,"Cooper, G. singled down the lf line (1-1).",2,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,1,top,"Brancel, D. struck out swinging, hit into double play c to 2b (3-2)3a Cooper, G. out on the play, caught stealing.",3,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,1,top,"Colasante, G struck out swinging (1-2).",4,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,1,bot,"Sokolove,J singled to left center (1-1).",5,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,1,bot,"McKay,R walked (3-1)3a Sokolove,J advanced to second.",6,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,1,bot,"Williams,N reached on catcher's interference (2-2)3a McKay,R advanced to second3a Sokolove,J advanced to third.",7,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,1,bot,Play reviewed and call upheld: catchers interference.,8,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,1,bot,"Shannon,W singled to left field, RBI (1-0)3a Williams,N advanced to second3a McKay,R advanced to third3a Sokolove,J scored.",9,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,1,bot,"Picot,P homered to right center, 4 RBI (3-2)3a Shannon,W scored3a Williams,N scored3a McKay,R scored.",10,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,1,bot,Dresselhouse hit by pitch (0-2).,11,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,1,bot,"Berry,C homered to right center, 2 RBI (2-1)3a Dresselhouse scored.",12,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,1,bot,"Seymour,R struck out swinging, out at first c to 1b (2-2).",13,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,1,bot,"Anderson,J struck out swinging (2-2).",14,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,1,bot,"Sokolove,J homered to left field, RBI (1-1).",15,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,1,bot,"McKay,R walked (3-1).",16,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,1,bot,"Williams,N struck out swinging (2-2).",17,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,2,top,"Lybrook, W. struck out looking (3-2).",18,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,2,top,"Lane, M. grounded out to p, bunt (0-1).",19,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,2,top,"Kang, J. tripled to left center (1-0).",20,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,2,top,"Smith, G. popped up to 1b down the rf line (0-0).",21,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,2,bot,"Dowling, B. to p for Bergsma, C..",22,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,2,bot,"Shannon,W grounded out to 3b (1-1).",23,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,2,bot,"Picot,P struck out looking (1-2).",24,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,2,bot,Dresselhouse struck out swinging (2-2).,25,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,3,top,"Rickheim, J. flied out to rf (0-2).",26,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,3,top,"Giberti, M. hit by pitch (3-2).",27,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,3,top,"Cooper, G. struck out swinging (1-2)3a Giberti, M. stole second.",28,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,3,top,"Brancel, D. flied out to cf to right center (1-1).",29,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,3,bot,"Berry,C grounded out to 2b (0-1).",30,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,3,bot,"Seymour,R singled to right field (1-1).",31,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,3,bot,"Anderson,J fouled out to rf down the rf line (1-0).",32,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,3,bot,"Seymour,R stole second, advanced to third on a throwing error by c.",33,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,3,bot,"Sokolove,J fouled out to p (1-1).",34,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,4,top,"Colasante, G singled to left center (0-0).",35,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,4,top,"Lybrook, W. struck out swinging, hit into double play c to 2b (3-2)3a Colasante, G out on the play, caught stealing.",36,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,4,top,"Lane, M. homered to left center, RBI (3-2).",37,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,4,top,"Kang, J. struck out swinging (1-2).",38,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,4,bot,"McKay,R doubled down the lf line (1-2).",39,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,4,bot,"Williams,N homered to center field, 2 RBI (0-1)3a McKay,R scored.",40,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,4,bot,"Shannon,W grounded out to ss (1-0).",41,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,4,bot,"Picot,P homered to left center, RBI (0-1).",42,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,4,bot,Dresselhouse singled to right center (0-1).,43,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,4,bot,"Berry,C singled through the right side (0-0)3a Dresselhouse advanced to second.",44,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,4,bot,"Seymour,R reached on a fielder's choice to shortstop (1-1)3a Berry,C advanced to second3a Dresselhouse out at third ss to 3b.",45,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,4,bot,"Anderson,J homered to left center, 3 RBI (0-0)3a Seymour,R scored3a Berry,C scored.",46,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,4,bot,"Sokolove,J singled down the rf line (1-1).",47,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,4,bot,"McKay,R singled to left center (3-2)3a Sokolove,J advanced to third.",48,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,4,bot,"Williams,N popped up to 3b down the lf line (1-2).",49,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,5,top,"Smith, G. lined out to p (1-0).",50,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,5,top,"Rickheim, J. struck out swinging, grounded out to c unassisted (0-2).",51,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,5,top,"Giberti, M. struck out looking (1-2).",52,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,5,bot,"Mooney, R. to cf for Giberti, M..",53,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,5,bot,"Shannon,W grounded out to p (1-2).",54,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,5,bot,"Picot,P fouled out to 3b down the lf line (3-2).",55,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,5,bot,Dresselhouse lined out to cf to right center (3-1).,56,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,6,top,"Cooper, G. flied out to rf (1-2).",57,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,6,top,"Brancel, D. struck out swinging (2-2).",58,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,6,top,"Colasante, G reached on a fielding error by 1b, assist by 3b (0-1).",59,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,6,top,"Lybrook, W. struck out swinging (0-2).",60,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,6,bot,"Broski,A pinch hit for Berry,C.",61,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,6,bot,"Broski,A grounded out to 3b (1-0).",62,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,6,bot,"Seymour,R doubled to right center (0-1).",63,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,6,bot,"Murphy,D pinch hit for Anderson,J.",64,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,6,bot,"Seymour,R advanced to third on a passed ball.",65,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,6,bot,"Murphy,D lined out to 2b (3-2).",66,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,6,bot,"Thomas,K pinch hit for Sokolove,J.",67,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,6,bot,"Thomas,K walked (3-2).",68,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596601,6,bot,"McKay,R struck out swinging (1-2).",69,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,7,top,"Thomas,K to cf.",70,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,7,top,"Broski,A to c.",71,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,7,top,"Murphy,D to 3b.",72,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,7,top,"Pianto,D to p for Dzierwa,J.",73,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,7,top,"Sturgess,I to rf for Picot,P.",74,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,7,top,"Brown,G to lf for Dresselhouse.",75,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,7,top,"Lane, M. singled down the lf line (0-1).",76,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,7,top,"Kang, J. singled to right center (1-1)3a Lane, M. advanced to second.",77,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,7,top,"Smith, G. struck out swinging (1-2).",78,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,7,top,"Rickheim, J. reached on a fielder's choice to third base (0-0)3a Kang, J. advanced to second3a Lane, M. out at third 3b unassisted.",79,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025
+6301225,596556,Harvard Crimson,596601,Michigan St. Spartans,596556,7,top,"Mooney, R. struck out swinging (1-2).",80,2025-02-28T00:00:00-05:00,"Greenville, SC",516,MBA,2025

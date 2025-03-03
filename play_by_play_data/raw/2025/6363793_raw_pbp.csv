@@ -1,0 +1,115 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,1,top,J. Wiberg struck out swinging.,1,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,1,top,J. Zawacki singled.,2,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,1,top,T. Burns singled3a J. Zawacki advanced to second.,3,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,1,top,J. Lattimer struck out looking.,4,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,1,top,G. George hit by pitch3a T. Burns advanced to second3a J. Zawacki advanced to third.,5,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,1,top,Z. Roethlein flied out to rf.,6,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,1,bot,M. Jimenez walked.,7,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,1,bot,B. Burris flied out to cf.,8,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,1,bot,M. Jimenez stole second.,9,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,1,bot,J. Gouveia walked.,10,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,1,bot,"J. Gouveia stole second3a M. Jimenez stole third, scored on an error by c, unearned.",11,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,1,bot,B. Gaer reached on a fielder's choice3a J. Gouveia out at third ss to 3b to 2b.,12,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,1,bot,J. Levine walked3a B. Gaer advanced to second.,13,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,1,bot,"E. Miles singled, RBI, advanced to second on an error by cf3a J. Levine advanced to third3a B. Gaer scored.",14,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,1,bot,"M. Meagher singled, 2 RBI3a E. Miles scored, unearned3a J. Levine scored.",15,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,1,bot,R. Slack popped out to rf.,16,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,2,top,S. Merrick flied out to cf.,17,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,2,top,C. Cappello flied out to rf.,18,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,2,top,L. Keblin flied out to lf.,19,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,2,bot,R. Williams grounded out to 2b.,20,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,2,bot,M. Jimenez singled.,21,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,2,bot,B. Burris singled3a M. Jimenez advanced to second.,22,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,2,bot,B. Burris stole second3a M. Jimenez stole third.,23,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,2,bot,J. Gouveia walked.,24,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,2,bot,"B. Gaer reached on a fielder's choice, RBI3a J. Gouveia out at second 1b to ss3a B. Burris advanced to third3a M. Jimenez scored.",25,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,2,bot,J. Levine flied out to cf.,26,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,3,top,J. Wiberg tripled.,27,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,3,top,"J. Zawacki doubled, RBI3a J. Wiberg scored.",28,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,3,top,T. Burns flied out to rf.,29,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,3,top,"J. Lattimer singled, advanced to second3a J. Zawacki out at third cf to c.",30,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,3,top,"G. George singled, RBI3a J. Lattimer scored.",31,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,3,top,Z. Roethlein walked3a G. George advanced to second.,32,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,3,top,"S. Merrick doubled, 2 RBI3a Z. Roethlein scored3a G. George scored.",33,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,3,top,C. Cappello flied out to lf.,34,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,3,bot,E. Miles grounded out to 3b.,35,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,3,bot,M. Meagher lined out to cf.,36,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,3,bot,R. Slack grounded out to ss.,37,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,4,top,D. Ritter to p for K. Metrick.,38,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,4,top,L. Keblin popped up to 1b.,39,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,4,top,J. Wiberg walked.,40,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,4,top,J. Zawacki singled3a J. Wiberg advanced to second.,41,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,4,top,T. Burns hit by pitch3a J. Zawacki advanced to second3a J. Wiberg advanced to third.,42,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,4,top,"J. Lattimer hit by pitch, RBI3a T. Burns advanced to second3a J. Zawacki advanced to third3a J. Wiberg scored.",43,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,4,top,G. George reached on a fielder's choice3a J. Lattimer advanced to second3a T. Burns advanced to third3a J. Zawacki out at home p to c.,44,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,4,top,"Z. Roethlein doubled, 3 RBI3a G. George scored3a J. Lattimer scored3a T. Burns scored.",45,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,4,top,S. Merrick grounded out to 3b.,46,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,4,bot,R. Williams grounded out to p.,47,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,4,bot,M. Jimenez popped up to 2b.,48,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,4,bot,B. Burris flied out to c.,49,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,5,top,J. Pagano to p for D. Ritter.,50,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,5,top,C. Cappello grounded out to 2b.,51,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,5,top,L. Keblin hit by pitch.,52,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,5,top,J. Wiberg reached on a fielder's choice3a L. Keblin out at second ss to 2b.,53,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,5,top,J. Zawacki lined out to lf3a J. Wiberg advanced to second.,54,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,5,bot,B. Riley to p for D. Monico.,55,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,5,bot,J. Gouveia hit by pitch.,56,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,5,bot,B. Gaer walked3a J. Gouveia advanced to second.,57,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,5,bot,J. Levine flied out to cf.,58,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,5,bot,B. Gaer advanced to second on a wild pitch3a J. Gouveia advanced to third on a wild pitch.,59,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,5,bot,"E. Miles singled, 2 RBI3a B. Gaer scored3a J. Gouveia scored.",60,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,5,bot,E. Miles stole second.,61,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,5,bot,M. Meagher struck out swinging.,62,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,5,bot,N. Farnacci pinch hit for R. Slack.,63,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,5,bot,"N. Farnacci doubled, RBI3a E. Miles scored.",64,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,5,bot,"R. Williams homered, 2 RBI3a N. Farnacci scored.",65,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,5,bot,M. Jimenez struck out swinging.,66,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,6,top,N. Farnacci to 2b.,67,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,6,top,T. Burns grounded out to 3b.,68,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,6,top,J. Lattimer grounded out to ss.,69,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,6,top,G. George struck out swinging.,70,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,6,bot,B. Burris walked.,71,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,6,bot,J. Gouveia singled3a B. Burris advanced to second.,72,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,6,bot,B. Gaer struck out swinging.,73,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,6,bot,B. Burris stole third.,74,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,6,bot,J. Gouveia stole second.,75,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,6,bot,"J. Levine singled, 2 RBI3a J. Gouveia scored3a B. Burris scored.",76,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,6,bot,E. Miles lined out to lf.,77,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,6,bot,M. Meagher walked3a J. Levine advanced to second.,78,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,6,bot,N. Farnacci flied out to cf.,79,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,7,top,"Z. Roethlein struck out swinging, out at first c to 1b.",80,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,7,top,S. Merrick grounded out to 3b.,81,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,7,top,C. Cappello grounded out to p.,82,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,7,bot,J. Conti to p for B. Riley.,83,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,7,bot,R. Williams lined out to 3b.,84,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,7,bot,M. Jimenez walked.,85,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,7,bot,M. Jimenez stole second.,86,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,7,bot,B. Burris grounded out to 2b3a M. Jimenez advanced to third.,87,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,7,bot,J. Gouveia walked.,88,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,7,bot,B. Gaer walked3a J. Gouveia advanced to second.,89,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,7,bot,J. Levine flied out to cf.,90,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,8,top,H. Ward to p for J. Pagano.,91,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,8,top,B. Parker to cf for R. Williams.,92,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,8,top,L. Keblin reached first on an error by ss.,93,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,8,top,J. Wiberg flied out to lf.,94,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,8,top,J. Zawacki grounded out to p3a L. Keblin advanced to second.,95,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,8,top,T. Burns flied out to rf.,96,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,8,bot,A. Hee to p for J. Conti.,97,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,8,bot,E. Miles grounded out to ss.,98,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,8,bot,M. Meagher singled.,99,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,8,bot,N. Farnacci singled3a M. Meagher advanced to third.,100,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,8,bot,N. Farnacci stole second.,101,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,8,bot,B. Parker reached first on an error by ss3a N. Farnacci advanced to third3a M. Meagher scored.,102,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,8,bot,"M. Jimenez singled, RBI3a B. Parker advanced to second3a N. Farnacci scored, unearned.",103,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,8,bot,B. Burris singled3a M. Jimenez out at second 1b unassisted3a B. Parker advanced to third.,104,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597331,8,bot,J. Gouveia popped up to 1b.,105,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,9,top,J. Lattimer reached first on an error by 3b.,106,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,9,top,J. Lattimer advanced to second on a passed ball.,107,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,9,top,G. George grounded out to 2b3a J. Lattimer advanced to third.,108,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,9,top,Z. Roethlein walked.,109,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,9,top,S. Merrick hit by pitch3a Z. Roethlein advanced to second.,110,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,9,top,M. Pratt pinch ran for S. Merrick.,111,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,9,top,C. Cappello popped up to 1b.,112,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,9,top,A. Cash pinch hit for L. Keblin.,113,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025
+6363793,597090,WPI Engineers,597331,UMass Boston Beacons,597090,9,top,A. Cash grounded out to 3b.,114,2025-03-01T00:00:00-05:00,"Monan Park (Boston, MA)",241,MBA,2025

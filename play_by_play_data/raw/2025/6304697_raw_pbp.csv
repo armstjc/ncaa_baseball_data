@@ -1,0 +1,115 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,1,top,ROESSLER reached on an error by ss (2-2).,1,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,1,top,"ROESSLER out at second c to ss, caught stealing.",2,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,1,top,HAUSSER popped up to 3b (1-1).,3,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,1,top,BICKERS flied out to rf (2-2).,4,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,1,bot,HEFFT hit by pitch (1-0).,5,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,1,bot,SHEFF grounded out to 3b (0-1)3a HEFFT advanced to second.,6,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,1,bot,"TOIGO homered to right field, 2 RBI (0-0)3a HEFFT scored.",7,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,1,bot,KONIARSKY walked (3-0).,8,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,1,bot,O'SULLIVAN doubled to right center (0-1)3a KONIARSKY advanced to third.,9,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,1,bot,O'SULLIVAN advanced to third on a wild pitch3a KONIARSKY scored on a wild pitch.,10,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,1,bot,ALLEN II struck out looking (1-2).,11,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,1,bot,GAMBERDELLA hit by pitch (0-0).,12,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,1,bot,GARRITANO walked (3-1)3a GAMBERDELLA advanced to second.,13,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,1,bot,DELESKIEWICZ to p for SPITZER.,14,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,1,bot,"HERTEL hit by pitch, RBI (0-0)3a GARRITANO advanced to second3a GAMBERDELLA advanced to third3a O'SULLIVAN scored.",15,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,1,bot,"HEFFT walked, RBI (3-0)3a HERTEL advanced to second3a GARRITANO advanced to third3a GAMBERDELLA scored.",16,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,1,bot,SHEFF flied out to rf (1-2).,17,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,2,top,MARION walked (3-0).,18,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,2,top,HEADLEE singled to left field (1-1)3a MARION advanced to second.,19,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,2,top,SCHMIDT walked (3-2)3a HEADLEE advanced to second3a MARION advanced to third.,20,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,2,top,"OTTO walked, RBI (3-0)3a SCHMIDT advanced to second3a HEADLEE advanced to third3a MARION scored.",21,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,2,top,VASILIOU to p for NAVARRETE.,22,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,2,top,"ELLIS reached on a fielder's choice, 2 RBI (1-2)3a OTTO out at second 2b to ss3a SCHMIDT advanced to third, scored on an error by ss, unearned3a HEADLEE scored, unearned.",23,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,2,top,ELLIS advanced to second on a wild pitch.,24,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,2,top,PALKOWSKI walked (3-0).,25,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,2,top,ROESSLER struck out swinging (0-2)3a ELLIS advanced to third on a wild pitch.,26,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,2,top,"PALKOWSKI advanced to second on a passed ball3a ELLIS scored on a passed ball, unearned.",27,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,2,top,HAUSSER grounded out to 3b (1-1).,28,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,2,bot,TOIGO struck out swinging (3-2).,29,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,2,bot,KONIARSKY grounded out to 2b (1-0).,30,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,2,bot,O'SULLIVAN walked (3-0).,31,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,2,bot,ALLEN II popped up to rf (1-0).,32,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,3,top,TALLAKSON to c for GAMBERDELLA.,33,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,3,top,BICKERS reached on an error by ss (3-2).,34,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,3,top,BICKERS advanced to second on a passed ball.,35,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,3,top,MARION lined out to lf (1-0).,36,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,3,top,HEADLEE grounded out to 1b unassisted (0-0)3a BICKERS advanced to third.,37,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,3,top,"SCHMIDT singled to left center, RBI (0-0)3a BICKERS scored, unearned.",38,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,3,top,"OTTO struck out swinging, out at first c to 1b (2-2).",39,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,3,bot,TALLAKSON popped up to cf (0-2).,40,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,3,bot,GARRITANO tripled to left center (2-2).,41,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,3,bot,I. RODRIGUEZ pinch hit for HERTEL.,42,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,3,bot,I. RODRIGUEZ walked (3-1).,43,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,3,bot,"HEFFT singled to left field, RBI (2-2)3a I. RODRIGUEZ advanced to second3a GARRITANO scored.",44,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,3,bot,HEFFT advanced to second on a passed ball3a I. RODRIGUEZ advanced to third on a passed ball.,45,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,3,bot,"SHEFF flied out to cf, RBI, SF (2-2)3a HEFFT advanced to third3a I. RODRIGUEZ scored.",46,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,3,bot,TOIGO out at first 1b to p (0-0).,47,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,4,top,SHEFF to ss.,48,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,4,top,I. RODRIGUEZ to 3b.,49,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,4,top,ELLIS grounded out to ss (0-2).,50,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,4,top,PALKOWSKI grounded out to 3b (1-1).,51,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,4,top,ROESSLER struck out swinging (3-2).,52,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,4,bot,WECKLER to p for DELESKIEWICZ.,53,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,4,bot,"KONIARSKY homered to left field, RBI (1-0).",54,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,4,bot,O'SULLIVAN singled to left field (0-1).,55,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,4,bot,ALLEN II hit into double play 3b to 2b to 1b (1-0)3a O'SULLIVAN out on the play.,56,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,4,bot,TALLAKSON out at first 1b to p (0-2).,57,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,5,top,HAUSSER grounded out to ss (0-0).,58,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,5,top,BICKERS singled to center field (3-2).,59,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,5,top,MARION walked (3-1)3a BICKERS advanced to second.,60,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,5,top,HEADLEE struck out swinging (2-2).,61,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,5,top,SCHMIDT grounded out to 2b (3-2).,62,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,5,bot,GARRITANO grounded out to 2b (0-1).,63,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,5,bot,I. RODRIGUEZ singled to left field (0-0).,64,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,5,bot,HEFFT fouled out to 1b (0-0).,65,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,5,bot,SHEFF popped up to ss (3-2).,66,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,6,top,OTTO walked (3-1).,67,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,6,top,ELLIS reached on a fielder's choice (0-2)3a OTTO out at second 2b to ss.,68,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,6,top,HORN pinch hit for PALKOWSKI.,69,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,6,top,"ELLIS out at second p to 1b to ss, picked off.",70,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,6,top,HORN walked (3-2).,71,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,6,top,ROESSLER popped up to rf (2-2).,72,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,6,bot,HORN to lf.,73,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,6,bot,MULHERN to p for WECKLER.,74,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,6,bot,TOIGO lined out to 1b (1-1).,75,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,6,bot,KONIARSKY singled to left field (0-0).,76,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,6,bot,O'SULLIVAN walked (3-0)3a KONIARSKY advanced to second.,77,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,6,bot,ALLEN II flied out to lf (0-1).,78,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,6,bot,TALLAKSON reached on a fielder's choice (3-1)3a O'SULLIVAN out at second ss to 2b.,79,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,7,top,ALBRIGHT to p for VASILIOU.,80,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,7,top,HAUSSER singled to left center (0-1).,81,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,7,top,BICKERS walked (3-1)3a HAUSSER advanced to second.,82,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,7,top,MARION popped up to ss (1-1).,83,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,7,top,HEADLEE singled to left field (0-1)3a BICKERS advanced to second3a HAUSSER advanced to third.,84,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,7,top,"SCHMIDT walked, RBI (3-1)3a HEADLEE advanced to second3a BICKERS advanced to third3a HAUSSER scored.",85,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,7,top,OTTO fouled out to 1b (1-2).,86,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,7,top,ELLIS struck out swinging (0-2).,87,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,7,bot,GARRITANO singled up the middle (3-2).,88,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,7,bot,"I. RODRIGUEZ doubled through the right side, RBI (0-0)3a GARRITANO scored.",89,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,7,bot,HEFFT grounded out to 2b (3-1)3a I. RODRIGUEZ advanced to third.,90,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,7,bot,"SHEFF flied out to rf, SF, RBI (1-1)3a I. RODRIGUEZ scored.",91,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,7,bot,TOIGO walked (3-0).,92,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,7,bot,KOJIS to p for MULHERN.,93,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,7,bot,KONIARSKY walked (3-0)3a TOIGO advanced to second.,94,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,7,bot,MYRO pinch ran for KONIARSKY.,95,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,7,bot,O'SULLIVAN walked (3-0)3a MYRO advanced to second3a TOIGO advanced to third.,96,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,7,bot,"ALLEN II walked, RBI (3-1)3a O'SULLIVAN advanced to second3a MYRO advanced to third3a TOIGO scored.",97,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,7,bot,FISHNICK to p for KOJIS.,98,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,7,bot,TALLAKSON popped up to cf (2-1).,99,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,8,top,MYRO to cf.,100,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,8,top,ALLEN II to rf.,101,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,8,top,HORN struck out looking (2-2).,102,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,8,top,ROESSLER hit by pitch (0-0).,103,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,8,top,HAUSSER struck out swinging (1-2).,104,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,8,top,BICKERS walked (3-1)3a ROESSLER advanced to second.,105,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,8,top,MARION struck out swinging (3-2).,106,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,8,bot,GARRITANO grounded out to ss (1-2).,107,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,8,bot,I. RODRIGUEZ struck out swinging (0-2).,108,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,8,bot,MELCHIONE to dh for HEFFT.,109,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596619,8,bot,MELCHIONE struck out swinging (2-2).,110,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,9,top,DILLOW to p for ALBRIGHT.,111,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,9,top,HEADLEE struck out swinging (0-2).,112,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,9,top,SCHMIDT grounded out to 2b (1-2).,113,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025
+6304697,596452,Milwaukee Panthers,596619,UNLV Rebels,596452,9,top,OTTO struck out swinging (2-2).,114,2025-03-01T00:00:00-05:00,"Wilson Stadium (Las Vegas, NV)",685,MBA,2025

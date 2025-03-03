@@ -1,0 +1,86 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,1,top,"Brasher,Nath grounded out to p (0-1 K).",1,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,1,top,"Newsome,Mile struck out swinging (0-2 FFS).",2,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,1,top,"Petersen,Mik singled to shortstop (3-2 BFKBB).",3,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,1,top,"Dillehay,DJ reached on a fielder's choice (0-0)3a Petersen,Mik out at second ss to 2b.",4,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,1,bot,ALFORD lined out to 3b (2-2 BFKB).,5,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,1,bot,MALLORY JR. struck out swinging (2-2 BBKSS).,6,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,1,bot,DUFFEY grounded out to ss (2-2 BFKB).,7,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,2,top,"Edmunds,Jack grounded out to 3b (0-1 K).",8,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,2,top,"Chang,Brando singled through the left side (1-2 FFB).",9,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,2,top,"Meusy,Logan popped up to 3b (1-0 B).",10,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,2,top,"Cooke,Conor struck out looking (0-2 KSK).",11,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,2,bot,SPROCK doubled down the lf line (2-1 BKB).,12,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,2,bot,FATTORE lined out to ss (1-0 B).,13,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,2,bot,VERGANTINO popped up to 1b (0-0).,14,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,2,bot,WELSHANS struck out looking (1-2 BSKK).,15,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,3,top,"LaGrassa,Cam grounded out to c (1-0 B).",16,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,3,top,"Brasher,Nath singled to right field (1-2 SBF).",17,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,3,top,"Brasher,Nath advanced to second on a passed ball.",18,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,3,top,"Newsome,Mile singled to right field (2-2 SBBK)3a Brasher,Nath advanced to third.",19,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,3,top,"Petersen,Mik reached on a fielder's choice, bunt, RBI (0-0)3a Newsome,Mile advanced to second3a Brasher,Nath scored, unearned.",20,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,3,top,"Dillehay,DJ hit into double play 3b to 2b to 1b3a Petersen,Mik out on the play.",21,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,3,bot,GRANATELL reached on a fielding error by ss (0-2 KF).,22,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,3,bot,"YAGHOUBI grounded out to c, SAC, bunt (1-1 BF)3a GRANATELL advanced to second.",23,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,3,bot,ALFORD singled through the left side (0-0)3a GRANATELL advanced to third.,24,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,3,bot,"MALLORY JR. reached on a throwing error by 2b, advanced to second, RBI (0-0)3a ALFORD advanced to third3a GRANATELL scored, unearned.",25,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,3,bot,"DUFFEY reached on a fielder's choice, RBI (3-2 SKBBBF)3a MALLORY JR. advanced to third3a ALFORD scored, unearned.",26,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,3,bot,SPROCK hit into double play 2b to ss to 1b (1-1 KB)3a DUFFEY out on the play.,27,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,4,top,"Edmunds,Jack flied out to cf (0-0).",28,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,4,top,"Chang,Brando struck out swinging (1-2 KFBS).",29,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,4,top,"Meusy,Logan hit by pitch (1-0 B).",30,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,4,top,"Cooke,Conor singled through the right side (2-0 BB)3a Meusy,Logan advanced to second.",31,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,4,top,"LaGrassa,Cam struck out swinging (2-2 BFBKS).",32,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,4,bot,FATTORE flied out to rf (1-0 B).,33,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,4,bot,VERGANTINO singled through the right side (1-2 KKB).,34,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,4,bot,"WELSHANS singled down the lf line, advanced to second on the throw (0-1 S)3a VERGANTINO advanced to third.",35,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,4,bot,GRANATELL reached on a fielder's choice (0-1 K)3a WELSHANS advanced to third3a VERGANTINO out at home 1b to c.,36,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,4,bot,YAGHOUBI lined out to 1b (0-0).,37,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,5,top,"Brasher,Nath singled to center field (1-2 BSK).",38,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,5,top,"Brasher,Nath stole second.",39,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,5,top,"Newsome,Mile struck out swinging (1-2 KBKS).",40,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,5,top,"Petersen,Mik fouled out to lf (0-0).",41,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,5,top,"Dillehay,DJ singled through the left side, RBI (0-1 F)3a Brasher,Nath scored.",42,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,5,top,"Edmunds,Jack grounded out to ss (0-0).",43,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,5,bot,ALFORD reached on a fielding error by ss (0-0).,44,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,5,bot,"MALLORY JR. grounded out to c, SAC, bunt (1-1 BK)3a ALFORD advanced to second.",45,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,5,bot,DUFFEY grounded out to ss (1-0 B)3a ALFORD advanced to third.,46,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,5,bot,SPROCK lined out to ss (1-0 B).,47,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,6,top,"Chang,Brando grounded out to ss (0-1 K).",48,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,6,top,"Meusy,Logan struck out swinging, out at first c to 1b (0-2 KKS).",49,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,6,top,"Cooke,Conor grounded out to ss (1-1 BK).",50,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,6,bot,FATTORE singled through the left side (1-1 BF).,51,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,6,bot,VERGANTINO struck out swinging (1-2 KBFS).,52,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,6,bot,WELSHANS struck out looking (1-2 FSFBFK).,53,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,6,bot,GRANATELL lined out to 3b (2-1 BKB).,54,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,7,top,"LaGrassa,Cam struck out swinging (1-2 SBSFS).",55,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,7,top,"Brasher,Nath singled to second base (0-2 SK).",56,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,7,top,"Brasher,Nath out at second c to 2b, caught stealing.",57,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,7,top,"Newsome,Mile hit by pitch (2-1 KBB).",58,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,7,top,"Petersen,Mik struck out swinging (0-2 KFS).",59,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,7,bot,YAGHOUBI grounded out to ss (2-2 KBFB).,60,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,7,bot,ALFORD doubled to center field (0-0).,61,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,7,bot,MALLORY JR. walked (3-0 BBBB)3a ALFORD advanced to third on a passed ball.,62,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,7,bot,"DUFFEY grounded out to 2b, RBI (0-1 K)3a MALLORY JR. advanced to second3a ALFORD scored.",63,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,7,bot,MALLORY JR. advanced to third on a throwing error by p.,64,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,7,bot,SPROCK walked (3-0 BBBB).,65,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,7,bot,"Begnaud,Stil to p for Gottam,Santo.",66,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,7,bot,"FATTORE singled to right field, RBI (0-0)3a SPROCK advanced to second3a MALLORY JR. scored.",67,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,7,bot,VERGANTINO walked (3-2 BFBBFFB)3a FATTORE advanced to second3a SPROCK advanced to third.,68,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,7,bot,"WELSHANS doubled to left center, 2 RBI (1-2 BKK)3a VERGANTINO advanced to third3a FATTORE scored3a SPROCK scored.",69,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,7,bot,GRANATELL flied out to rf (1-1 BK).,70,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,8,top,NARKE to p for MITROVICH.,71,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,8,top,"Dillehay,DJ grounded out to 2b (0-0).",72,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,8,top,"Edmunds,Jack walked (3-2 KSBFFBBB).",73,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,8,top,"Chang,Brando flied out to rf (3-2 BBBKF).",74,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596500,8,top,"Meusy,Logan flied out to cf (1-0 B).",75,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,8,bot,YAGHOUBI walked (3-1 BBBKB).,76,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,8,bot,ALFORD walked (3-1 KBBBB)3a YAGHOUBI advanced to second.,77,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,8,bot,"MALLORY JR. singled, bunt (0-1 F)3a ALFORD advanced to second3a YAGHOUBI advanced to third.",78,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,8,bot,"DUFFEY walked, RBI (3-2 BBBKFB)3a MALLORY JR. advanced to second3a ALFORD advanced to third3a YAGHOUBI scored.",79,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,8,bot,"Kline,Brende to p for Begnaud,Stil.",80,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,8,bot,"SPROCK walked, RBI (3-2 BBFBFB)3a DUFFEY advanced to second3a MALLORY JR. advanced to third3a ALFORD scored.",81,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,8,bot,"FATTORE hit by pitch, RBI (2-1 KBB)3a SPROCK advanced to second3a DUFFEY advanced to third3a MALLORY JR. scored.",82,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,8,bot,"VERGANTINO singled to left field, RBI (1-0 B)3a FATTORE advanced to second3a SPROCK advanced to third3a DUFFEY scored.",83,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,8,bot,"WELSHANS grounded out to ss, RBI (0-1 K)3a VERGANTINO advanced to second3a FATTORE advanced to third3a SPROCK scored.",84,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025
+6301196,596500,Brown Bears,596460,Elon Phoenix,596460,8,bot,"GRANATELL singled through the right side, RBI (0-2 KK)3a VERGANTINO advanced to third3a FATTORE scored.",85,2025-02-28T00:00:00-05:00,"Latham Park (Elon, NC)",457,MBA,2025

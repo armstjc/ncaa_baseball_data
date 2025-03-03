@@ -1,0 +1,84 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,1,top,"Adams,R walked.",1,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,1,top,"Burrell,J struck out swinging.",2,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,1,top,"Banks,K flied out to rf.",3,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,1,top,"Adams,R out at second c to ss, caught stealing.",4,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,1,bot,"Alvarez, L. singled to left field.",5,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,1,bot,"Alvarez, L. advanced to second on a balk.",6,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,1,bot,"McCladdie, J hit by pitch.",7,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,1,bot,"Eichelberger reached on a throwing error by p, SAC, bunt3a McCladdie, J advanced to third3a Alvarez, L. scored, unearned.",8,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,1,bot,Eichelberger stole second.,9,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,1,bot,"Huerta, A. grounded out to p, SAC, bunt3a Eichelberger advanced to third, scored on a fielding error by c, unearned3a McCladdie, J scored, unearned.",10,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,1,bot,"Perez, W. struck out looking.",11,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,1,bot,"Brown, A. struck out swinging.",12,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,2,top,"Gamez,N walked.",13,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,2,top,"Tillman,C flied out to cf.",14,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,2,top,"Wright,C grounded into double play 2b to ss to 1b3a Gamez,N out on the play.",15,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,2,bot,"Patty, T. doubled to right field.",16,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,2,bot,"Torres, H. walked.",17,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,2,bot,"Moore, S. grounded out to p, SAC, bunt3a Torres, H. advanced to second3a Patty, T. advanced to third.",18,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,2,bot,"Alvarez, L. reached on catcher's interference.",19,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,2,bot,"McCladdie, J singled to second base, 2 RBI3a Alvarez, L. advanced to third3a Torres, H. scored3a Patty, T. scored.",20,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,2,bot,"McCladdie, J advanced to second on a throwing error by p, failed pickoff attempt, advanced to third3a Alvarez, L. scored, unearned.",21,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,2,bot,"Eichelberger flied out to cf, SF, RBI3a McCladdie, J scored, unearned.",22,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,2,bot,"Huerta, A. walked.",23,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,2,bot,"Perez, W. struck out swinging.",24,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,3,top,"Martin,B struck out looking.",25,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,3,top,"Farmer,J doubled to left field.",26,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,3,top,"Leonard,S struck out looking.",27,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,3,top,"Adams,R reached on catcher's interference.",28,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,3,top,"Burrell,J reached on a fielder's choice to shortstop3a Adams,R out at second ss to 2b.",29,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,3,bot,"Brown, A. singled to third base.",30,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,3,bot,"Patty, T. flied out to cf.",31,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,3,bot,"Brown, A. advanced to second on a balk.",32,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,3,bot,"Torres, H. struck out swinging.",33,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,3,bot,"Moore, S. walked.",34,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,3,bot,"Alvarez, L. lined out to p.",35,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,4,top,"Banks,K homered to right center, RBI.",36,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,4,top,"Gamez,N doubled to right field.",37,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,4,top,"Tillman,C struck out looking.",38,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,4,top,"Wright,C struck out swinging.",39,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,4,top,"Martin,B flied out to cf.",40,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,4,bot,"McCladdie, J grounded out to p.",41,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,4,bot,Eichelberger lined out to 2b.,42,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,4,bot,"Huerta, A. struck out swinging.",43,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,5,top,"Farmer,J struck out looking.",44,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,5,top,"Leonard,S flied out to rf.",45,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,5,top,"Adams,R grounded out to ss.",46,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,5,bot,"Perez, W. homered to left field, RBI.",47,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,5,bot,"Brown, A. singled to pitcher, bunt.",48,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,5,bot,"Patty, T. grounded out to 3b, SAC, bunt3a Brown, A. advanced to third.",49,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,5,bot,"Torres, H. grounded out to ss, RBI3a Brown, A. scored.",50,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,5,bot,"Moore, S. struck out swinging.",51,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,6,top,"Burrell,J struck out looking.",52,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,6,top,"Banks,K grounded out to 3b.",53,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,6,top,"Gamez,N walked.",54,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,6,top,"Gamez,N advanced to second on a wild pitch.",55,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,6,top,"Tillman,C struck out looking.",56,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,6,bot,"Baylis,P to p for Ford,J.",57,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,6,bot,"Alvarez, L. grounded out to ss.",58,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,6,bot,"McCladdie, J tripled to right center.",59,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,6,bot,"Eichelberger flied out to rf, SF, RBI3a McCladdie, J scored.",60,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,6,bot,"Huerta, A. grounded out to ss.",61,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,7,top,"Wright,C grounded out to ss.",62,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,7,top,"Martin,B grounded out to ss.",63,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,7,top,"Farmer,J walked.",64,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,7,top,"Leonard,S struck out swinging.",65,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,7,bot,"Hunt,S to p for Baylis,P.",66,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,7,bot,"Perez, W. hit by pitch.",67,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,7,bot,"Perez, W. advanced to second on a wild pitch.",68,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,7,bot,"Brown, A. grounded out to p.",69,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,7,bot,"Patty, T. grounded out to 3b.",70,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,7,bot,"Torres, H. out at first 1b to p.",71,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,8,top,"Lewis, C. to p for Gonzalez, E..",72,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,8,top,"Adams,R singled through the right side.",73,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,8,top,"Burrell,J flied out to lf.",74,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596483,8,top,"Banks,K out on batter's interference, grounded out to c unassisted3a Adams,R out on the play.",75,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,8,bot,"Hull, D. pinch hit for Moore, S..",76,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,8,bot,"Hull, D. struck out swinging.",77,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,8,bot,"Alvarez, L. popped up to ss.",78,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,8,bot,"Wade,C to p for Hunt,S.",79,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,8,bot,"McCladdie, J singled through the right side.",80,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,8,bot,"McCladdie, J stole second.",81,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,8,bot,"McCladdie, J stole third.",82,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025
+6301226,596483,Alcorn Braves,596570,Jackson St. Tigers,596570,8,bot,"McCladdie, J scored on a wild pitch.",83,2025-02-28T00:00:00-05:00,"Jackson, MS",123,MBA,2025

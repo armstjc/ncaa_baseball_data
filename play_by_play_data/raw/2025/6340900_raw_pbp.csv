@@ -1,0 +1,108 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,1,top,"Watkins, B flied out to lf.",1,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,1,top,"Hall, J lined out to rf.",2,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,1,top,"Altamirano, singled to left field.",3,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,1,top,"Tauscher, A walked3a Altamirano, advanced to second.",4,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,1,top,"Tauscher, A advanced to second3a Altamirano, advanced to third on a wild pitch.",5,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,1,top,"Eiguren, C singled to center field, 2 RBI3a Tauscher, A scored3a Altamirano, scored.",6,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,1,top,"Reker, S lined out to cf.",7,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,1,bot,"Moreno, L grounded out to p.",8,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,1,bot,"Bello, E struck out swinging.",9,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,1,bot,"Tweet, W grounded out to 1b unassisted.",10,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,2,top,"Marthaler, N walked.",11,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,2,top,"Abegg, E grounded into double play ss to 2b to 1b3a Marthaler, N out on the play.",12,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,2,top,"Carrillo, M flied out to cf.",13,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,2,bot,"Navratil, E singled to second base.",14,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,2,bot,"Castro, W homered to center field, 2 RBI3a Navratil, E scored.",15,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,2,bot,"Krueger, E struck out looking.",16,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,2,bot,"Konkol, H hit by pitch.",17,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,2,bot,"Konkol, H stole second.",18,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,2,bot,"Jacobson, B singled to left field3a Konkol, H advanced to third.",19,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,2,bot,"Kim, T flied out to lf.",20,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,2,bot,"Jacobson, B stole second.",21,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,2,bot,"Moreno, L walked.",22,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,2,bot,"Bello, E walked, RBI3a Moreno, L advanced to second3a Jacobson, B advanced to third3a Konkol, H scored.",23,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,2,bot,"Tweet, W tripled to right field, scored on an error by c, 3 RBI3a Bello, E scored3a Moreno, L scored3a Jacobson, B scored.",24,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,2,bot,"Navratil, E struck out swinging.",25,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,3,top,"Watkins, B doubled to left field.",26,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,3,top,"Hall, J singled to right field3a Watkins, B advanced to third.",27,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,3,top,"Altamirano, singled to second base, RBI3a Hall, J advanced to second3a Watkins, B scored.",28,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,3,top,"Tauscher, A lined out to lf.",29,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,3,top,"Eiguren, C struck out looking.",30,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,3,top,"Altamirano, advanced to second3a Hall, J advanced to third on a passed ball.",31,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,3,top,"Reker, S struck out swinging.",32,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,3,bot,"Castro, W flied out to rf.",33,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,3,bot,"Krueger, E doubled to left field.",34,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,3,bot,"Konkol, H singled to center field, RBI3a Krueger, E scored.",35,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,3,bot,"Jacobson, B singled to left field3a Konkol, H advanced to second.",36,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,3,bot,"Kim, T singled to left field, RBI3a Jacobson, B advanced to second3a Konkol, H scored.",37,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,3,bot,"Kim, T stole second3a Jacobson, B stole third.",38,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,3,bot,"Moreno, L flied out to rf, SF, RBI3a Kim, T advanced to third3a Jacobson, B scored.",39,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,3,bot,"Bello, E walked.",40,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,3,bot,"Lorenz, W to p for Loma, C.",41,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,3,bot,"Bello, E stole second.",42,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,3,bot,"Tweet, W doubled to center field, 2 RBI3a Bello, E scored3a Kim, T scored.",43,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,3,bot,"Navratil, E flied out to lf.",44,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,4,top,"Marthaler, N struck out looking.",45,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,4,top,"Abegg, E walked.",46,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,4,top,"Carrillo, M flied out to cf.",47,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,4,top,"Watkins, B flied out to lf.",48,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,4,bot,"Castro, W hit by pitch.",49,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,4,bot,"Castro, W advanced to second on a passed ball.",50,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,4,bot,"Castro, W advanced to third.",51,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,4,bot,"Krueger, E struck out swinging.",52,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,4,bot,"Konkol, H hit by pitch.",53,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,4,bot,"Jacobson, B hit by pitch3a Konkol, H advanced to second.",54,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,4,bot,"Kim, T singled to center field, RBI3a Jacobson, B advanced to second3a Konkol, H advanced to third3a Castro, W scored.",55,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,4,bot,"Moreno, L reached on a fielder's choice3a Kim, T advanced to second3a Jacobson, B advanced to third3a Konkol, H out at home 3b to c.",56,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,4,bot,"Bello, E struck out swinging.",57,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,5,top,"Clusiau, D to p for Nelson, B.",58,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,5,top,"Hall, J doubled to right field.",59,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,5,top,"Hall, J advanced to third on a wild pitch.",60,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,5,top,"Altamirano, struck out swinging.",61,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,5,top,"Tauscher, A walked.",62,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,5,top,"Lou, D to p for Clusiau, D.",63,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,5,top,"Eiguren, C grounded into double play ss to 2b to 1b3a Tauscher, A out on the play.",64,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Brown, P to p for Lorenz, W.",65,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Tweet, W singled to left field.",66,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Navratil, E doubled to center field3a Tweet, W advanced to third.",67,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Castro, W singled to right field, 2 RBI3a Navratil, E scored3a Tweet, W scored.",68,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Zuck, W pinch ran for Castro, W.",69,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Fuchs, G pinch hit for Krueger, E.",70,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Fuchs, G doubled to center field, RBI3a Zuck, W scored.",71,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Fuchs, G advanced to third on a wild pitch.",72,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Konkol, H struck out swinging.",73,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Jacobson, B struck out swinging.",74,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Kim, T singled to left field, RBI3a Fuchs, G scored.",75,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Moreno, L singled to right field3a Kim, T advanced to second.",76,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Apker, C to p for Brown, P.",77,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Bello, E hit by pitch3a Moreno, L advanced to second3a Kim, T advanced to third.",78,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Pribula, J pinch hit for Tweet, W.",79,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Pribula, J doubled to center field, 3 RBI3a Bello, E scored3a Moreno, L scored3a Kim, T scored.",80,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Hess, W pinch hit for Navratil, E.",81,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,5,bot,"Hess, W grounded out to ss.",82,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,6,top,"Pribula, J to c.",83,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,6,top,"Hess, W to 1b.",84,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,6,top,"Zuck, W to rf.",85,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,6,top,"Fuchs, G to dh.",86,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,6,top,"Reker, S hit by pitch.",87,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,6,top,"Hernandez, A pinch hit for Marthaler, N.",88,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,6,top,"Mariscal, L pinch ran for Reker, S.",89,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,6,top,"Hernandez, A struck out swinging.",90,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,6,top,"Gracia, C pinch hit for Abegg, E.",91,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,6,top,"Gracia, C struck out looking.",92,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,6,top,"Carrillo, M lined out to ss.",93,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,6,bot,"Mariscal, L to 3b.",94,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,6,bot,"Hernandez, A to 1b.",95,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,6,bot,"Gracia, C to 2b.",96,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,6,bot,"Zuck, W grounded out to 3b.",97,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,6,bot,"Fuchs, G hit by pitch.",98,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,6,bot,"Konkol, H struck out swinging.",99,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596931,6,bot,"Jacobson, B flied out to cf.",100,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,7,top,"Doolittle, C to p for Lou, D.",101,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,7,top,"Watkins, B grounded out to ss.",102,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,7,top,"Hall, J struck out swinging.",103,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,7,top,"Parks, Josh pinch hit for Altamirano,.",104,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,7,top,"Parks, Josh singled to center field.",105,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,7,top,"Pruitt, I pinch hit for Tauscher, A.",106,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025
+6340900,596951,Adams St. Grizzlies,596931,St. Cloud St. Huskies,596951,7,top,"Pruitt, I grounded out to 1b unassisted.",107,2025-02-28T00:00:00-05:00,"Phoenix, AZ",123,MBA,2025

@@ -1,0 +1,137 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,1,top,"Weather: clear skies, 73F, wind E 8 mph (in from RF).",1,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,1,top,First pitch: 12:01 p.m.,2,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,1,top,"Lodice, K. singled to shortstop (1-1 BK).",3,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,1,top,"Inoue, S. struck out swinging (0-2 KKS).",4,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,1,top,"Kennedy, D. fouled out to 1b (0-0).",5,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,1,top,"Dardar, S. lined out to 2b (0-1 K).",6,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,1,bot,"Autrey, H. walked (3-2 SKBBFBB).",7,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,1,bot,"Martinez, J. popped up to 2b (0-2 KF).",8,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,1,bot,"Autrey, H. advanced to second on a throwing error by p, failed pickoff attempt.",9,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,1,bot,Failed pickoff attempt with 0-0 count.,10,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,1,bot,Christensen struck out swinging (1-2 KSBS).,11,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,1,bot,"Marthilj, T. flied out to rf (0-0).",12,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,2,top,"English, N. walked (3-2 KBKBBB).",13,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,2,top,"Madliak, B. fouled out to 1b (2-1 KBB).",14,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,2,top,"Evasco, A. walked (3-1 BBKBB)3a English, N. advanced to second.",15,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,2,top,"Evasco, A. advanced to second on a wild pitch3a English, N. advanced to third on a wild pitch.",16,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,2,top,Wild pitch on third pitch of the at bat.,17,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,2,top,"Martin, M. reached on a throwing error by ss, RBI, advanced to second on the error (2-2 BKBF)3a Evasco, A. advanced to third, scored on the error, unearned3a English, N. scored.",18,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,2,top,"O'Connor, K. grounded out to 2b (0-2 FF)3a Martin, M. advanced to third.",19,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,2,top,"Lodice, K. singled to right center, RBI (3-2 BKBBFF)3a Martin, M. scored, unearned.",20,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,2,top,"Inoue, S. singled to right field (0-1 K)3a Lodice, K. advanced to third.",21,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,2,top,"Inoue, S. stole second3a Lodice, K. stole home, unearned.",22,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,2,top,Stolen bases on first pitch of the at bat.,23,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,2,top,"Kennedy, D. walked (3-2 KBBBFFB).",24,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,2,top,"Mound visit (coach, 0-0 count).",25,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,2,top,"Dardar, S. reached on a fielder's choice (3-0 BBB)3a Kennedy, D. out at second 2b to ss.",26,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,2,bot,"Franden, R. singled to second base (3-2 KFBBB).",27,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,2,bot,"Brown, B. grounded into double play 3b to 2b to 1b (1-0 B)3a Franden, R. out on the play.",28,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,2,bot,"Smith, A. struck out looking (0-2 KFK).",29,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,3,top,"English, N. flied out to rf (0-2 KF).",30,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,3,top,"Madliak, B. struck out looking (2-2 KKBBK).",31,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,3,top,"Evasco, A. lined out to 1b (1-2 BKFFF).",32,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,3,bot,"Benavidez, C struck out looking (1-2 SBSFK).",33,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,3,bot,"Blackman, P. singled to pitcher, bunt (0-0).",34,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,3,bot,"Blackman, P. advanced to second on a wild pitch.",35,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,3,bot,Wild pitch on fifth pitch of the at bat.,36,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,3,bot,"Autrey, H. walked (3-2 KFBBBB).",37,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,3,bot,"Autrey, H. stole second3a Blackman, P. stole third.",38,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,3,bot,Stolen bases on second pitch of the at bat.,39,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,3,bot,"Martinez, J. struck out looking (3-2 BBSKBFK).",40,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,3,bot,"Christensen singled through the right side, 2 RBI (1-0 B)3a Autrey, H. scored3a Blackman, P. scored.",41,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,3,bot,Christensen stole second.,42,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,3,bot,Stolen base on first pitch of the at bat.,43,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,3,bot,"Marthilj, T. struck out swinging (0-2 KKFS).",44,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,4,top,"Martin, M. fouled out to 1b down the rf line (0-1 K).",45,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,4,top,"O'Connor, K. flied out to rf down the rf line (1-1 KB).",46,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,4,top,"Lodice, K. walked (3-2 BBBKFB).",47,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,4,top,"Inoue, S. singled to center field (1-0 B)3a Lodice, K. advanced to third.",48,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,4,top,"Inoue, S. advanced to second on a throwing error by p, failed pickoff attempt3a Lodice, K. scored on the error, unearned.",49,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,4,top,Failed pickoff attempt with 1-0 count.,50,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,4,top,"Kennedy, D. flied out to cf to left center (2-1 BBF).",51,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,4,bot,"Franden, R. lined out to p, bunt (0-0).",52,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,4,bot,"Brown, B. struck out looking (2-2 BKSBFK).",53,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,4,bot,"Smith, A. singled through the left side (3-2 BFSFBB).",54,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,4,bot,"Smith, A. stole second.",55,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,4,bot,Stolen base on first pitch of the at bat (after 4 straight pick attempts).,56,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,4,bot,"Benavidez, C struck out looking (2-2 BKBSK).",57,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,5,top,"Hickman, T. to p for Bennett, D..",58,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,5,top,"Dardar, S. grounded out to 2b (2-1 KBB).",59,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,5,top,"English, N. flied out to cf (2-1 BKB).",60,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,5,top,"Madliak, B. popped up to ss (2-2 BBSS).",61,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,5,bot,"Blackman, P. walked (3-0 BBBB).",62,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,5,bot,"Mound visit (catcher, 0-0 count).",63,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,5,bot,"Autrey, H. struck out swinging (2-2 BSBKS).",64,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,5,bot,"Blackman, P. stole second.",65,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,5,bot,Stolen base on first pitch of the at bat.,66,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,5,bot,"Martinez, J. struck out looking (1-2 KBFFK).",67,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,5,bot,"Blackman, P. stole third.",68,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,5,bot,Stolen base on third pitch of the at bat.,69,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,5,bot,Christensen struck out looking (1-2 KSBFK).,70,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,6,top,"Evasco, A. flied out to cf (2-2 KFBBF).",71,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,6,top,"Martin, M. singled down the lf line (1-1 KB).",72,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,6,top,"O'Connor, K. singled up the middle (0-0)3a Martin, M. advanced to second.",73,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,6,top,"Lodice, K. struck out looking (1-2 BKFK).",74,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,6,top,"Inoue, S. grounded out to 2b (0-0).",75,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,6,bot,"Lewis, D. to p for Quevedo, M..",76,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,6,bot,"Marthilj, T. grounded out to 2b (1-1 BF).",77,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,6,bot,"Franden, R. flied out to cf down the lf line (2-1 BBF).",78,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,6,bot,"Brown, B. grounded out to p (2-1 BBF).",79,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,"Kennedy, D. singled to center field (3-2 FBBKB).",80,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,"Kennedy, D. advanced to second on a wild pitch.",81,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,Wild pitch on first pitch of the at bat.,82,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,"Dardar, S. hit by pitch (1-0 B).",83,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,"Mound visit (coach, 0-0 count).",84,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,"English, N. grounded out to p, SAC, bunt (1-0 B)3a Dardar, S. advanced to second3a Kennedy, D. advanced to third.",85,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,"Madliak, B. walked (3-0 BBBB).",86,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,"Rod, B. to p for Hickman, T..",87,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,"Putz, R. pinch ran for Dardar, S..",88,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,"Evasco, A. grounded out to 2b, RBI (2-2 KBFBFF)3a Madliak, B. advanced to second3a Putz, R. advanced to third3a Kennedy, D. scored.",89,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,Previous play (out at first) is under review (KSU challenge).,90,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,Call on the field (out at first) is confirmed.,91,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,"Martin, M. singled through the left side, 2 RBI (0-0)3a Madliak, B. scored3a Putz, R. scored.",92,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,"O'Connor, K. homered to left field, 2 RBI (2-2 BBKS)3a Martin, M. scored.",93,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,"Lodice, K. reached on a throwing error by 2b (3-1 BSBB).",94,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,"Inoue, S. walked (3-2 BKBBKB)3a Lodice, K. advanced to second.",95,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,"Diaz, C. to p for Rod, B..",96,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,7,top,"Kennedy, D. struck out swinging (3-2 BKFFFFBFBS).",97,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,7,bot,"Lodice, K. to lf.",98,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,7,bot,"Bishop, D. to 1b for Putz, R..",99,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,7,bot,"Karl, C. to cf for O'Connor, K..",100,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,7,bot,"Smith, A. singled to right field (0-0).",101,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,7,bot,"Nottlemann pinch hit for Benavidez, C.",102,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,7,bot,"Nottlemann walked (3-2 BBKKBB)3a Smith, A. advanced to second.",103,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,7,bot,"Mound visit (coach, 1-0 count).",104,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,7,bot,"Blackman, P. walked (3-0 BBBB)3a Nottlemann advanced to second3a Smith, A. advanced to third.",105,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,7,bot,"Autrey, H. flied out to rf, SF, RBI (0-2 KF)3a Smith, A. scored.",106,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,7,bot,"Martinez, J. struck out swinging (2-2 SBSBFS).",107,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,7,bot,"Christensen hit by pitch (3-2 KSBBB)3a Blackman, P. advanced to second3a Nottlemann advanced to third.",108,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,7,bot,"Marthilj, T. struck out swinging (0-2 KSS).",109,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,8,top,"Bishop, D. singled through the right side (3-0 BBB).",110,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,8,top,"English, N. walked (3-0 BBBB)3a Bishop, D. advanced to second.",111,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,8,top,"Dean, M. pinch ran for English, N..",112,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,8,top,"Mound visit (coach, 0-0 count).",113,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,8,top,"Phillips, C. pinch hit for Madliak, B..",114,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,8,top,"Phillips, C. struck out looking (1-2 KKBK).",115,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,8,top,"Evasco, A. singled to right field, RBI, advanced to second on a fielding error by rf (0-1 F)3a Dean, M. advanced to third3a Bishop, D. scored.",116,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,8,top,"Smolinski, T pinch hit for Martin, M..",117,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,8,top,"Smolinski, T flied out to lf down the lf line, SF, RBI (3-2 KBBBFFF)3a Dean, M. scored.",118,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,8,top,"Karl, C. struck out looking (2-2 BBSSFK).",119,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,8,bot,"Inoue, S. to ss.",120,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,8,bot,"Dean, M. to rf.",121,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,8,bot,"Phillips, C. to c.",122,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,8,bot,"Smolinski, T to 2b.",123,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,8,bot,"Ruhl, T. to p for Lewis, D..",124,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,8,bot,"Franden, R. popped up to 3b (1-1 KB).",125,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,8,bot,"Brown, B. struck out swinging (2-2 KBBSFS).",126,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,8,bot,"Smith, A. grounded out to ss (1-1 BF).",127,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,9,top,"Lodice, K. homered to right center, RBI (3-2 BBKSB).",128,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,9,top,"Inoue, S. homered down the rf line, RBI (0-0).",129,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,9,top,"Kennedy, D. walked (3-1 BBKBB).",130,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,9,top,"Bishop, D. grounded out to 3b (0-1 K)3a Kennedy, D. advanced to second.",131,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,9,top,"Dean, M. struck out swinging (0-2 KKS).",132,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596574,9,top,"Phillips, C. struck out swinging (2-2 BKBKFFS).",133,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,9,bot,Nottlemann fouled out to c (1-1 KB).,134,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,9,bot,"Blackman, P. popped up to 3b (0-0).",135,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
+6301249,596574,Kansas St. Wildcats,596667,Sam Houston Bearkats,596667,9,bot,"Autrey, H. grounded out to p, bunt (0-0).",136,2025-03-01T00:00:00-05:00,"Frisco, Texas",0,MBA,2025
