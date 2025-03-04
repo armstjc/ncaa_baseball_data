@@ -1,0 +1,101 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,1,top,Dempsey popped up to ss (3-2 KKFFBBB).,1,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,1,top,Moise fouled out to 1b (3-2 KBBBKF).,2,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,1,top,Povey walked (3-2 BFBBKB).,3,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,1,top,Moya struck out looking (0-2 FFK).,4,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,1,bot,"McCarthy, N. walked (3-0 BBBB).",5,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,1,bot,"Alford, S. flied out to lf (2-2 BKBK).",6,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,1,bot,"Burnett, Ro flied out to cf (1-1 BK).",7,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,1,bot,"Jackson, Dan reached on a fielder's choice (3-1 BKBB): McCarthy, N. out at second ss to 2b.",8,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,2,top,Gorostola flied out to rf (1-1 BF).,9,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,2,top,Herb struck out looking (3-2 BBSSFFBK).,10,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,2,top,Embury grounded out to ss (2-0 BB).,11,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,2,bot,"Phelps, Tre popped up to rf (2-2 BKBK).",12,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,2,bot,"Jones, Char. singled to left field (2-2 KBBKF).",13,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,2,bot,"Branch, K. grounded into double play 3b to 2b to 1b (0-1 F): Jones, Char. out on the play.",14,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,3,top,"Byrd, J. to p for Quinn.",15,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,3,top,Gagnon flied out to cf (1-0 B).,16,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,3,top,Kangas struck out looking (1-2 BKSK).,17,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,3,top,Dempsey struck out swinging (2-2 KBFBS).,18,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,3,bot,Zaborowski walked (3-2 BBKBKB).,19,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,3,bot,Obee grounded out to 3b (1-1 SB): Zaborowski advanced to second.,20,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,3,bot,"McCarthy, N. grounded out to p (3-2 FKBBB).",21,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,3,bot,"Alford, S. walked (3-0 BBBB).",22,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,3,bot,"Burnett, Ro grounded out to 2b (1-2 BSS).",23,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,4,top,Moise struck out swinging (1-2 BKKS).,24,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,4,top,Povey popped up to lf (0-0).,25,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,4,top,Moya flied out to lf (2-2 FFBB).,26,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,4,bot,"Jackson, Dan struck out looking (2-2 KBSBK).",27,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,4,bot,"Phelps, Tre flied out to lf (1-0 B).",28,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,4,bot,"Jones, Char. walked (3-1 BFBBB).",29,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,4,bot,"Branch, K. singled to left field (0-0): Jones, Char. advanced to second.",30,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,4,bot,"Zaborowski walked (3-1 SBBBB): Branch, K. advanced to second: Jones, Char. advanced to third.",31,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,4,bot,Obee grounded out to 3b (1-1 KB).,32,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,5,top,Gorostola walked (3-0 BBBB).,33,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,5,top,Herb singled to left center (0-0): Gorostola advanced to second.,34,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,5,top,Embury struck out swinging (3-2 BBFFBS).,35,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,5,top,"McLoughlin to p for Byrd, J..",36,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,5,top,Gagnon struck out looking (2-2 FBKFBFK).,37,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,5,top,Kangas struck out swinging (1-2 KBFS).,38,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,5,bot,"McCarthy, N. singled to second base (0-1 F).",39,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,5,bot,"Alford, S. grounded into double play 3b to 2b to 1b (0-0): McCarthy, N. out on the play.",40,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,5,bot,"Burnett, Ro singled to right field (1-2 BKF).",41,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,5,bot,"Jackson, Dan walked (3-1 BKBBB): Burnett, Ro advanced to second.",42,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,5,bot,"Phelps, Tre grounded out to 2b (0-1 F).",43,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,6,top,Dempsey grounded out to 3b (0-1 F).,44,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,6,top,Moise hit by pitch (2-1 BBK).,45,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,6,top,Povey singled to center field (2-2 FKBB): Moise advanced to second.,46,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,6,top,"Moya singled, advanced to second, RBI (3-2 BKKBB): Povey advanced to third, scored on an error by rf: Moise scored.",47,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,6,top,Gorostola singled to first base (2-1 BBF): Moya advanced to third.,48,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,6,top,"Herb grounded out to ss, RBI (0-2 FF): Gorostola advanced to second: Moya scored, unearned.",49,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,6,top,Embury struck out looking (2-2 SBSBK).,50,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,6,bot,"Jones, Char. singled to left field (2-1 KBB).",51,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,6,bot,"Parker, Erik pinch ran for Jones, Char..",52,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,6,bot,"Branch, K. grounded into double play 2b to 1b (2-0 BB): Parker, Erik out on the play.",53,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,6,bot,Zaborowski singled to left field (2-1 BBF).,54,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,6,bot,Giannoni to p for Kriebel.,55,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,6,bot,"Hudson, Bren pinch hit for Obee.",56,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,6,bot,"Hudson, Bren struck out looking (3-2 KSBBBK).",57,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,7,top,"McCarthy, N. to cf.",58,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,7,top,"Clavon to lf for Hudson, Bren.",59,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,7,top,Farley to p for McLoughlin.,60,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,7,top,Gagnon walked (3-1 BBKBB).,61,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,7,top,"Gagnon out at second p to 1b to ss, picked off, caught stealing.",62,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,7,top,Kangas struck out looking (0-2 KKK).,63,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,7,top,Dempsey grounded out to ss (1-1 BK).,64,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,7,bot,"McCarthy, N. singled to right field (1-2 FFBF).",65,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,7,bot,"McCarthy, N. stole second.",66,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,7,bot,"Alford, S. walked (3-1 BKBBB).",67,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,7,bot,Vera to p for Giannoni.,68,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,7,bot,"Burnett, Ro walked (3-0 BBBB): Alford, S. advanced to second: McCarthy, N. advanced to third.",69,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,7,bot,"Jackson, Dan struck out swinging (1-2 KBFS).",70,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,7,bot,"Phelps, Tre singled to third base, RBI (2-2 KSBBFFF): Burnett, Ro advanced to second: Alford, S. advanced to third: McCarthy, N. scored.",71,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,7,bot,"Black, Ry. pinch hit for Parker, Erik.",72,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,7,bot,"Black, Ry. struck out swinging (3-2 FFBBBS).",73,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,7,bot,"Branch, K. flied out to lf (3-2 KBBBFFF).",74,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,8,top,Moise flied out to rf (1-0 B).,75,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,8,top,Povey grounded out to 3b (0-1 F).,76,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,8,top,Moya singled to left field (1-1 SB).,77,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,8,top,Gorostola singled to right field (0-1 K): Moya advanced to second.,78,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,8,top,"Stephens, Jo to p for Farley.",79,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,8,top,Gorostola advanced to second: Moya advanced to third on a wild pitch.,80,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,8,top,Herb flied out to lf (0-1 F).,81,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,8,bot,Zaborowski doubled to left field (2-1 BBK).,82,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,8,bot,"King, Trey pinch hit for Clavon.",83,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,8,bot,"King, Trey singled to left field (0-0): Zaborowski advanced to third.",84,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,8,bot,"McCarthy, N. popped up to rf (1-2 FBF).",85,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,8,bot,"Alford, S. reached on a fielder's choice, RBI (0-1 S): King, Trey out at second 2b unassisted: Zaborowski scored.",86,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,8,bot,"Burnett, Ro grounded out to 2b (1-2 KFB).",87,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,9,top,"Burnett, Ro to rf.",88,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,9,top,"Phelps, Tre to lf.",89,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,9,top,"King, Trey to 2b.",90,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,9,top,Embury struck out swinging (0-2 SFS).,91,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,9,top,Gagnon flied out to cf (1-1 BK).,92,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,9,top,Corn pinch hit for Kangas.,93,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596473,9,top,Corn flied out to rf (1-2 BKK).,94,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,9,bot,Mummau to ss for Corn.,95,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,9,bot,"Hunter, H. pinch hit for Jackson, Dan.",96,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,9,bot,"Hunter, H. struck out swinging (3-2 BBFKBS).",97,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,9,bot,"Phelps, Tre hit by pitch (2-2 BBKS).",98,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,9,bot,"Black, Ry. to dh.",99,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025
+6301366,596473,FGCU Eagles,596554,Georgia Bulldogs,596554,9,bot,"Black, Ry. homered to right field, 2 RBI (1-2 BFK): Phelps, Tre scored.",100,2025-03-02T00:00:00-05:00,"Foley Field (Athens, GA)",1593,MBA,2025

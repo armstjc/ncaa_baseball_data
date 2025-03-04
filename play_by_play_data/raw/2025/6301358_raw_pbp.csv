@@ -1,0 +1,91 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,1,top,"Chavez, C. flied out to rf (2-1 BBS).",1,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,1,top,"Baker, D. flied out to cf (1-2 KBF).",2,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,1,top,"Taylor, R. popped up to ss (3-2 BBKKB).",3,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,1,bot,"Meier, S. grounded out to ss (3-2 BBKKB).",4,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,1,bot,"Darnell, S. walked (3-2 BBKKBB).",5,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,1,bot,"Cavill, B. struck out swinging (3-2 KBBBKS)3a Darnell, S. stole second.",6,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,1,bot,"Bryan, B. struck out swinging (1-2 KSBS).",7,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,2,top,"Collins, G. singled to left field (1-1 BS).",8,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,2,top,"Collins, G. advanced to second on a wild pitch.",9,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,2,top,"Spaventa, N. flied out to rf (3-1 BBKB).",10,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,2,top,"Pokrovsky, J struck out swinging (3-2 BSFBBS).",11,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,2,top,"Degnan, G. singled through the right side, RBI (0-0)3a Collins, G. scored.",12,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,2,top,"Ahearn, Q. singled to center field (3-2 BBSFB)3a Degnan, G. advanced to second.",13,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,2,top,"Fahy, C. struck out looking (3-2 KBBBFK).",14,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,2,bot,"Kuehl, D. singled to third base (2-2 SBKB).",15,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,2,bot,"Lewis, S. grounded into double play 2b to 1b (3-1 KBBB)3a Kuehl, D. out on the play.",16,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,2,bot,"Watts, P. singled to right center (0-1 K).",17,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,2,bot,"Eubanks, C. walked (3-1 BBKBB)3a Watts, P. advanced to second.",18,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,2,bot,"Hawkins, J. flied out to rf (3-2 BKKFBB).",19,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,3,top,"Chavez, C. grounded out to 3b (1-1 FB).",20,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,3,top,"Baker, D. struck out looking (1-2 KBFK).",21,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,3,top,"Taylor, R. flied out to rf (0-0).",22,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,3,bot,"Meier, S. hit by pitch (0-1 K).",23,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,3,bot,"Meier, S. stole second.",24,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,3,bot,"Darnell, S. flied out to cf to left center (2-2 KKFBFB)3a Meier, S. advanced to third.",25,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,3,bot,"Meier, S. scored on a wild pitch.",26,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,3,bot,"Cavill, B. walked (3-2 BBKKBFFB).",27,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,3,bot,"Bryan, B. hit by pitch (0-2 KK)3a Cavill, B. advanced to second.",28,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,3,bot,"Kuehl, D. struck out looking (1-2 KKBK).",29,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,3,bot,"Lewis, S. struck out swinging (1-2 KBFS).",30,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,4,top,"Collins, G. struck out looking (0-2 KFK).",31,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,4,top,"Spaventa, N. struck out swinging (3-2 BKBSFBS).",32,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,4,top,"Pokrovsky, J lined out to lf (3-2 BBKBK).",33,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,4,bot,"Watts, P. struck out swinging (1-2 KBKS).",34,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,4,bot,"Eubanks, C. flied out to rf (3-2 BKKFFBFB).",35,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,4,bot,"Hawkins, J. fouled out to 1b (1-1 KB).",36,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,5,top,"Degnan, G. popped up to 1b (1-0 B).",37,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,5,top,"Ahearn, Q. singled up the middle (0-0).",38,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,5,top,"Fahy, C. grounded out to ss (2-0 BB)3a Ahearn, Q. advanced to second.",39,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,5,top,"Chavez, C. grounded out to 3b (3-1 KBBB).",40,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,5,bot,"Cerwinski, J to p for Tobin, W..",41,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,5,bot,"Meier, S. struck out swinging (3-2 SFFBBBS).",42,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,5,bot,"Darnell, S. struck out looking (2-2 SFBBK).",43,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,5,bot,"Cavill, B. walked (3-0 BBBB).",44,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,5,bot,"Bryan, B. walked (3-0 BBBB)3a Cavill, B. advanced to second.",45,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,5,bot,Troy challenged out call at first.,46,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,5,bot,Call overturned3a runner safe.,47,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,5,bot,"Kuehl, D. reached on a fielding error by 2b3a Bryan, B. advanced to second on the error3a Cavill, B. advanced to third on the error.",48,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,5,bot,"Lewis, S. walked, RBI (3-2 BBKBKB)3a Kuehl, D. advanced to second3a Bryan, B. advanced to third3a Cavill, B. scored, unearned.",49,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,5,bot,"Watts, P. flied out to rf (0-1 K).",50,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,6,top,"Baker, D. popped up to 2b (2-0 BB).",51,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,6,top,"Taylor, R. struck out swinging (3-2 BKFBBS).",52,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,6,top,"Collins, G. flied out to lf (0-0).",53,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,6,bot,"Delany, T. to p for Cerwinski, J.",54,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,6,bot,"Eubanks, C. struck out swinging (0-2 KKS).",55,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,6,bot,"Hawkins, J. fouled out to 1b (2-2 BKBS).",56,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,6,bot,"Meier, S. doubled to left center (0-2 KK).",57,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,6,bot,"Darnell, S. lined out to cf to left center (0-0).",58,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,7,top,"Stewart, G. to p for Nelson, D..",59,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,7,top,"Spaventa, N. doubled to center field (0-0).",60,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,7,top,"Pokrovsky, J grounded out to ss (1-1 BF).",61,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,7,top,"Degnan, G. struck out swinging (1-2 FKBS).",62,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,7,top,"Ahearn, Q. flied out to lf (0-0).",63,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,7,bot,"Cavill, B. hit by pitch (0-1 K).",64,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,7,bot,"Bryan, B. homered to right center, 2 RBI (2-1 BBK)3a Cavill, B. scored.",65,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,7,bot,"Markham, H pinch hit for Kuehl, D..",66,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,7,bot,"Markham, H flied out to cf (1-0 B).",67,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,7,bot,"Lewis, S. walked (3-2 SBBBFB).",68,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,7,bot,"Lewis, S. stole second.",69,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,7,bot,"Lewis, S. advanced to third on a wild pitch.",70,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,7,bot,"Coyne, M. to p for Delany, T..",71,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,7,bot,"Watts, P. struck out swinging (1-2 SFBFS).",72,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,7,bot,"Eubanks, C. lined out to cf to right center (0-1 K).",73,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,8,top,"Markham, H to rf.",74,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,8,top,"Dill, J. to p for Stewart, G..",75,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,8,top,"Fahy, C. struck out swinging (1-2 KKBS).",76,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,8,top,"Chavez, C. flied out to cf (1-1 KB).",77,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,8,top,"Baker, D. doubled to right field (1-0 B).",78,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,8,top,"Taylor, R. struck out swinging (0-2 FKS).",79,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,8,bot,"Hawkins, J. grounded out to ss (1-2 BKK).",80,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,8,bot,"Meier, S. doubled to right center (2-1 KBB).",81,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,8,bot,"Darnell, S. grounded out to c (0-1 K)3a Meier, S. advanced to third.",82,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,8,bot,"Cavill, B. doubled to right center, RBI (0-1 K)3a Meier, S. scored.",83,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,8,bot,"Mott, M. to p for Coyne, M..",84,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,8,bot,"Bryan, B. singled through the right side, RBI (1-1 BK)3a Cavill, B. scored.",85,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,8,bot,"Bryan, B. advanced to second on a wild pitch.",86,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596429,8,bot,"Markham, H flied out to cf (1-2 KBK).",87,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,9,top,"Collins, G. grounded out to p (2-1 BKB).",88,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,9,top,"Spaventa, N. popped up to 2b (3-2 KBBFFB).",89,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025
+6301358,596716,Penn Quakers,596429,Troy Trojans,596716,9,top,"Pokrovsky, J struck out swinging (1-2 KKBS).",90,2025-03-02T00:00:00-05:00,"Riddle-Pace Field (Troy, AL)",2583,MBA,2025

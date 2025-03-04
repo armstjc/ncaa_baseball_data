@@ -1,0 +1,89 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,1,top,Cross hit by pitch (0-1 F).,1,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,1,top,"O'Connor, T grounded out to 2b (1-0 B).",2,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,1,top,Cross advanced to second.,3,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,1,top,Natili flied out to rf (3-2 FFBBBF): Cross advanced to third.,4,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,1,top,Hokuf struck out swinging (1-2 KKBS).,5,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,1,bot,"Leopard, A. struck out looking (2-2 BKBFK).",6,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,1,bot,"Lazuka, N. popped up to 2b (0-0).",7,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,1,bot,"Allen, J. lined out to 2b (0-1 K).",8,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,2,top,Ford struck out swinging (2-2 BBFKFS).,9,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,2,top,Klingenbeck struck out swinging (3-2 BBKSBS).,10,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,2,top,Pitts struck out swinging (2-2 FKBBS).,11,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,2,bot,"Camacho, G. grounded out to 2b (0-1 F).",12,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,2,bot,"Gonzalez, E. grounded out to 3b (1-1 KB).",13,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,2,bot,"Martinez, T. flied out to cf (3-2 KKBBFBF).",14,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,3,top,Niehaus grounded out to 3b (0-0).,15,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,3,top,Vidourek flied out to lf (2-0 BB).,16,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,3,top,Cross singled to left field (0-0).,17,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,3,top,"O'Connor, T flied out to lf (0-1 S).",18,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,3,bot,Shultz to p for Barnett.,19,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,3,bot,"Lanier, D. grounded out to 2b (1-2 FKB).",20,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,3,bot,"Crossland, M flied out to lf (2-1 KBB).",21,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,3,bot,"Thacker, C. singled to shortstop (2-1 KBB).",22,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,3,bot,"Thacker, C. advanced to second on a throwing error by p, failed pickoff attempt.",23,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,3,bot,"Leopard, A. flied out to lf (2-0 BB).",24,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,4,top,Natili grounded out to p (1-2 SFFB).,25,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,4,top,Hokuf grounded out to 2b (2-2 BSBSF).,26,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,4,top,Ford grounded out to 3b (0-1 K).,27,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,4,bot,"Lazuka, N. grounded out to 2b (2-2 KKBFB).",28,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,4,bot,"Allen, J. homered to right field, RBI (1-0 B).",29,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,4,bot,"Camacho, G. singled to third base, bunt (2-1 BFB).",30,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,4,bot,"Gonzalez, E. flied out to cf (0-1 F).",31,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,4,bot,"Martinez, T. grounded out to 3b (0-1 K).",32,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,5,top,Klingenbeck struck out swinging (2-2 KBKBS).,33,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,5,top,Pitts flied out to rf (1-2 BFK).,34,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,5,top,Niehaus singled up the middle (1-2 FFB).,35,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,5,top,Vidourek walked (3-1 FBBBB): Niehaus advanced to second.,36,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,5,top,Cross flied out to rf (1-0 B).,37,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,5,bot,Buczkowski to p for Shultz.,38,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,5,bot,"Lanier, D. doubled down the lf line (3-2 BBKKB).",39,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,5,bot,"Crossland, M singled up the middle (0-0): Lanier, D. advanced to third.",40,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,5,bot,"Hackworth, P pinch hit for Thacker, C..",41,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,5,bot,"Hackworth, P out at first p to ss to 1b, RBI (0-0): Crossland, M advanced to second: Lanier, D. scored.",42,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,5,bot,"Leopard, A. popped up to ss (1-2 KFBF).",43,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,5,bot,"Lazuka, N. grounded out to p, bunt (0-0).",44,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,6,top,"Lazuka, N. to ss.",45,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,6,top,"Hackworth, P to 2b.",46,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,6,top,"Davidson, G. to p for Ries, N..",47,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,6,top,"O'Connor, T flied out to cf (0-1 F).",48,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,6,top,Natili grounded out to ss (0-0).,49,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,6,top,Hokuf walked (3-2 BKBBKB).,50,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,6,top,Ford flied out to rf (0-2 KK).,51,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,6,bot,"Allen, J. struck out swinging (1-2 KBFS).",52,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,6,bot,"Camacho, G. hit by pitch (0-0).",53,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,6,bot,Scheurer to p for Buczkowski.,54,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,6,bot,"Gonzalez, E. grounded into double play ss to 2b to 1b (2-2 FBFB): Camacho, G. out on the play.",55,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,7,top,Mitchelle pinch hit for Klingenbeck.,56,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,7,top,Mitchelle grounded out to p (0-1 K).,57,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,7,top,Pitts struck out looking (2-2 KFBFBK).,58,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,7,top,Niehaus grounded out to 2b (1-1 KB).,59,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,7,bot,Mitchelle to 2b.,60,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,7,bot,"Martinez, T. singled up the middle (0-0).",61,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,7,bot,"Lee, J. pinch ran for Martinez, T..",62,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,7,bot,"Lanier, D. struck out swinging (1-2 BKFS).",63,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,7,bot,"Crossland, M doubled to left field (1-1 BF): Lee, J. advanced to third.",64,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,7,bot,"Hackworth, P struck out swinging, out at first c to 1b (1-2 SFBS).",65,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,7,bot,"Crossland, M advanced to third on a wild pitch, scored on a throwing error by c, unearned: Lee, J. scored on a wild pitch.",66,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,7,bot,"Leopard, A. grounded out to 2b.",67,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,8,top,Vidourek singled up the middle (2-2 KBBK).,68,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,8,top,Cross popped up to rf (1-2 KBK).,69,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,8,top,"O'Connor, T flied out to cf (1-1 BK).",70,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,8,top,Natili singled through the left side (1-0 B): Vidourek advanced to second.,71,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,8,top,Hokuf struck out looking (1-2 KBKK).,72,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,8,bot,Marsh to p for Scheurer.,73,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,8,bot,"Lazuka, N. grounded out to ss (2-0 BB).",74,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,8,bot,"Allen, J. homered to right center, RBI (2-2 BKKBF).",75,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,8,bot,"Camacho, G. singled to right field (1-1 KB).",76,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,8,bot,"Camacho, G. advanced to second on a wild pitch.",77,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,8,bot,"Davidson, G. to dh for Lee, J..",78,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,8,bot,"/  for Davidson, G..",79,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,8,bot,"Gonzalez, E. struck out swinging (1-2 BKSFS).",80,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596694,8,bot,"Davidson, G. struck out swinging (3-2 BKBBSS).",81,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,9,top,"Davidson, G. to dh.",82,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,9,top,"Hasegawa, S. to p.",83,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,9,top,Ford flied out to rf (3-2 BBFBFFF).,84,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,9,top,Mitchelle doubled to right center (0-0).,85,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,9,top,Brooks pinch hit for Pitts.,86,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,9,top,Brooks struck out swinging (2-2 KBSBS).,87,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025
+6309673,596521,Cincinnati Bearcats,596694,UC San Diego Tritons,596521,9,top,Niehaus reached on a fielder's choice to third base (2-2 BBKF): Mitchelle out at third 3b unassisted.,88,2025-03-02T00:00:00-05:00,"Triton Ballpark (San Diego, CA)",404,MBA,2025

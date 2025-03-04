@@ -1,0 +1,119 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,1,top,"Byrne, A. struck out swinging.",1,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,1,top,Fleischhacke doubled.,2,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,1,top,"Magers, L. grounded out to 1b unassisted3a Fleischhacke advanced to third.",3,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,1,top,"Mezzenga, I. grounded out to 2b.",4,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,1,bot,"Gaffney, K. grounded out to ss.",5,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,1,bot,"Haney, K. homered, RBI.",6,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,1,bot,"Hull, N. doubled.",7,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,1,bot,"Pegors, I. struck out looking.",8,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,1,bot,"Leafgren, B. doubled, RBI3a Hull, N. scored.",9,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,1,bot,"Papierski, K struck out swinging.",10,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,2,top,Palmer. B. popped up to 2b.,11,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,2,top,"Berkland, J. struck out swinging.",12,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,2,top,"Stroh, Z. singled.",13,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,2,top,"Vlcko, B. walked3a Stroh, Z. advanced to second.",14,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,2,top,"Jurgella, B. flied out to cf.",15,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,2,bot,"Griffin, H. popped up to 1b.",16,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,2,bot,"Butts, M. popped up to 1b.",17,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,2,bot,"Rhee, L. lined out to p.",18,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,3,top,"Byrne, A. struck out swinging.",19,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,3,top,Fleischhacke struck out looking.,20,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,3,top,"Magers, L. walked.",21,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,3,top,"Mezzenga, I. homered, 2 RBI3a Magers, L. scored.",22,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,3,top,Palmer. B. walked.,23,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,3,top,"Berkland, J. walked3a Palmer. B. advanced to second.",24,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,3,top,"Stroh, Z. doubled, RBI3a Berkland, J. advanced to third3a Palmer. B. scored.",25,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,3,top,"Vlcko, B. struck out looking.",26,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,3,bot,"Gaffney, K. grounded out to ss.",27,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,3,bot,"Haney, K. walked.",28,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,3,bot,"Hull, N. singled3a Haney, K. advanced to second.",29,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,3,bot,"Pegors, I. homered, 3 RBI3a Hull, N. scored3a Haney, K. scored.",30,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,3,bot,"Leafgren, B. hit by pitch.",31,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,3,bot,"Papierski, K reached on an error by 3b3a Leafgren, B. advanced to second.",32,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,3,bot,"Griffin, H. grounded out to p, SAC, bunt3a Papierski, K advanced to second3a Leafgren, B. advanced to third.",33,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,3,bot,"Butts, M. struck out swinging.",34,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,4,top,"Jurgella, B. flied out to cf.",35,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,4,top,"Byrne, A. popped up to c.",36,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,4,top,Fleischhacke struck out swinging.,37,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,4,bot,"Crowley, M. to p for George, S..",38,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,4,bot,"Rhee, L. singled.",39,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,4,bot,"Gaffney, K. flied out to cf.",40,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,4,bot,"Haney, K. struck out looking.",41,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,4,bot,"Hull, N. struck out swinging.",42,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,5,top,"Magers, L. grounded out to 2b.",43,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,5,top,"Mezzenga, I. grounded out to 2b.",44,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,5,top,Palmer. B. struck out swinging.,45,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,5,bot,"Pegors, I. grounded out to ss.",46,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,5,bot,"Leafgren, B. walked.",47,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,5,bot,"Papierski, K flied out to rf.",48,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,5,bot,"Griffin, H. struck out swinging.",49,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,6,top,"Tiw, J. to p for Burgum, L..",50,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,6,top,"Berkland, J. singled.",51,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,6,top,"Stroh, Z. walked3a Berkland, J. advanced to second.",52,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,6,top,"Vlcko, B. homered, 3 RBI3a Stroh, Z. scored3a Berkland, J. scored.",53,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,6,top,"Jurgella, B. walked.",54,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,6,top,"Byrne, A. reached on an error by ss3a Jurgella, B. advanced to second.",55,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,6,top,"Fleischhacke grounded into double play 1b to ss to p3a Byrne, A. out on the play3a Jurgella, B. advanced to third.",56,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,6,top,"Magers, L. lined out to rf.",57,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,6,bot,"Butts, M. singled.",58,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,6,bot,"Rhee, L. grounded out to p, SAC, bunt3a Butts, M. advanced to second.",59,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,6,bot,"Gaffney, K. struck out swinging.",60,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,6,bot,"Haney, K. hit by pitch.",61,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,6,bot,"Hull, N. struck out looking.",62,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,7,top,"Hayen, S. to p for Tiw, J..",63,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,7,top,"Mezzenga, I. grounded out to 2b.",64,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,7,top,Palmer. B. walked.,65,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,7,top,"Berkland, J. singled3a Palmer. B. advanced to second.",66,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,7,top,"Stroh, Z. singled, RBI3a Berkland, J. advanced to second3a Palmer. B. scored.",67,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,7,top,"Vlcko, B. hit by pitch3a Stroh, Z. advanced to second3a Berkland, J. advanced to third.",68,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,7,top,"Jurgella, B. struck out swinging.",69,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,7,top,"Byrne, A. hit by pitch, RBI3a Vlcko, B. advanced to second3a Stroh, Z. advanced to third3a Berkland, J. scored.",70,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,7,top,"Fleischhacke walked, RBI3a Byrne, A. advanced to second3a Vlcko, B. advanced to third3a Stroh, Z. scored.",71,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,7,top,"Magers, L. struck out swinging.",72,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,7,bot,"Pegors, I. grounded out to 2b.",73,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,7,bot,"Leafgren, B. homered, RBI.",74,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,7,bot,"Papierski, K struck out swinging.",75,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,7,bot,"Griffin, H. struck out looking.",76,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,8,top,"Mezzenga, I. singled (2-2 SBSB).",77,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,8,top,"Palmer. B. hit by pitch (3-0 BBB)3a Mezzenga, I. advanced to second.",78,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,8,top,"Blumenschein to p for Hayen, S..",79,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,8,top,"Berkland, J. reached on an error by ss (2-1 SBB)3a Palmer. B. advanced to second3a Mezzenga, I. advanced to third.",80,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,8,top,"Stroh, Z. singled, RBI (2-1 BKB)3a Berkland, J. advanced to second3a Palmer. B. advanced to third3a Mezzenga, I. scored.",81,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,8,top,"Vlcko, B. struck out swinging (2-2 KBSBS).",82,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,8,top,"Jurgella, B. singled, 2 RBI (0-0)3a Stroh, Z. advanced to second3a Berkland, J. scored, unearned3a Palmer. B. scored.",83,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,8,top,"Byrne, A. walked (3-0 BBBB)3a Jurgella, B. advanced to second3a Stroh, Z. advanced to third.",84,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,8,top,"Fleischhacke walked, RBI (3-0 BBBB)3a Byrne, A. advanced to second3a Jurgella, B. advanced to third3a Stroh, Z. scored.",85,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,8,top,"Smith, C. to p for Blumenschein.",86,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,8,top,"Magers, L. popped up to c (1-2 BSS).",87,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,8,top,"Fleischhacke advanced to second on a wild pitch3a Byrne, A. scored on a wild pitch, unearned3a Jurgella, B. scored on a wild pitch, unearned.",88,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,8,top,"Mezzenga, I. struck out looking (3-2 BSFBBFFS).",89,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,8,bot,"Irsfeld, B. to p for Crowley, M..",90,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,8,bot,"Butts, M. walked (3-0 BBBB).",91,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,8,bot,"Rhee, L. reached on a fielder's choice (1-2 BKKF)3a Butts, M. out at second 3b to 2b.",92,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,8,bot,"Gaffney, K. struck out swinging (1-2 KFBS).",93,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,8,bot,"Stade, E. to p for Irsfeld, B..",94,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,8,bot,"Haney, K. reached on a fielder's choice (2-1 BBK)3a Rhee, L. out at second 2b unassisted.",95,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,9,top,"Haggith, B. pinch hit for Palmer. B..",96,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,9,top,"Haggith, B. singled (0-0).",97,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,9,top,"Berkland, J. walked (3-1 BBBKB)3a Haggith, B. advanced to second.",98,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,9,top,"Ranweiler, C pinch hit for Stroh, Z..",99,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,9,top,"Berkland, J. advanced to second on a balk3a Haggith, B. advanced to third on a balk.",100,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,9,top,"Ranweiler, C grounded out to ss, RBI (3-2 FSBBBF)3a Berkland, J. advanced to third3a Haggith, B. scored.",101,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,9,top,"Wede, N. pinch hit for Vlcko, B..",102,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,9,top,"Wede, N. struck out looking (1-2 KBKFK).",103,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,9,top,"Miller, L. pinch hit for Jurgella, B..",104,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,9,top,"Miller, L. flied out to cf (2-2 BSKB).",105,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,9,bot,"Byrne, A. to 3b.",106,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,9,bot,"Haggith, B. to lf.",107,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,9,bot,"Berkland, J. to ss.",108,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,9,bot,"Ranweiler, C to rf.",109,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,9,bot,"Koeppel, B. to c for Wede, N..",110,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,9,bot,"Miller, L. to cf.",111,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,9,bot,"Hull, N. grounded out to 1b unassisted (0-0).",112,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,9,bot,"Renz, J. to p for Stade, E..",113,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,9,bot,"Pegors, I. struck out swinging (0-2 SSS).",114,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,9,bot,"Leafgren, B. walked (3-1 BFBBB).",115,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,9,bot,"Leafgren, B. advanced to second on a passed ball.",116,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596809,9,bot,"Papierski, K struck out swinging (3-2 SSFBBBS).",117,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
+6364019,596902,Minnesota St. Mavericks,596809,Mary Marauders,596902,10,top,"Thompson, T. to 2b for Fleischhacke.",118,2025-03-02T00:00:00-05:00,"Omaha, NE",101,MBA,2025
