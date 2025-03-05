@@ -1,0 +1,99 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,1,top,No play.,1,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,1,top,"Brotz, AJ doubled to right field (2-2).",2,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,1,top,"Rodriguez, L walked (3-1).",3,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,1,top,"Donahue, Zac walked (3-2)3a Rodriguez, L advanced to second3a Brotz, AJ advanced to third.",4,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,1,top,"Claiborn, Ja walked, RBI (3-2)3a Donahue, Zac advanced to second3a Rodriguez, L advanced to third3a Brotz, AJ scored.",5,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,1,top,"Lincoln, Nat reached on a fielder's choice, RBI (1-1)3a Claiborn, Ja out at second 2b to ss3a Donahue, Zac advanced to third3a Rodriguez, L scored.",6,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,1,top,"Steinert, Br singled through the left side, RBI (3-1)3a Lincoln, Nat advanced to second3a Donahue, Zac scored.",7,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,1,top,"Bauer, J. to p for Bedford, C..",8,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,1,top,"McNelly, Ayd reached on a fielder's choice (2-1)3a Steinert, Br out at second 2b to ss3a Lincoln, Nat advanced to third.",9,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,1,top,"Pollack, Kyl flied out to cf (3-1).",10,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,1,bot,"Palmer, D. grounded out to 2b (3-1).",11,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,1,bot,Castrataro grounded out to 2b (2-2).,12,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,1,bot,"Cox, T. homered to center field, RBI (2-1).",13,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,1,bot,"Jenks, T. struck out swinging (1-2).",14,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,2,top,"Diaz, Chris grounded out to 1b unassisted (3-1).",15,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,2,top,"Brotz, AJ struck out swinging, out at first c to 1b (1-2).",16,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,2,top,"Rodriguez, L grounded out to 2b (2-2).",17,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,2,bot,"Griggs, CJ struck out looking (1-2).",18,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,2,bot,"Curry, B. singled to center field (1-1).",19,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,2,bot,"Masiuk, L. flied out to lf (2-2).",20,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,2,bot,"Lane, S. struck out swinging (2-2).",21,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,3,top,"Donahue, Zac flied out to rf (0-0).",22,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,3,top,"Claiborn, Ja grounded out to 2b (2-2).",23,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,3,top,"Lincoln, Nat tripled to right field (2-0).",24,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,3,top,"Steinert, Br doubled to left center, RBI (0-1)3a Lincoln, Nat scored.",25,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,3,top,"McNelly, Ayd grounded out to 3b (1-0).",26,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,3,bot,"Brown, M. walked (3-2).",27,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,3,bot,"Palmer, D. singled to first base (3-1)3a Brown, M. advanced to second.",28,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,3,bot,"Castrataro flied out to lf (0-1)3a Palmer, D. advanced to second3a Brown, M. advanced to third.",29,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,3,bot,"Speranza, An to p for Orr, Riley.",30,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,3,bot,"Cox, T. walked (3-1).",31,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,3,bot,"Jenks, T. flied out to cf, SF, RBI (0-0)3a Palmer, D. advanced to third3a Brown, M. scored.",32,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,3,bot,"Cox, T. stole second.",33,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,3,bot,"Griggs, CJ doubled to center field, 2 RBI (2-0)3a Cox, T. scored3a Palmer, D. scored.",34,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,3,bot,"Curry, B. flied out to lf (3-2).",35,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,4,top,"Pollack, Kyl homered to right center, RBI (0-1).",36,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,4,top,"Diaz, Chris flied out to lf (0-1).",37,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,4,top,"Brotz, AJ singled through the right side (1-1).",38,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,4,top,"Rodriguez, L fouled out to 2b (2-2).",39,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,4,top,"Brotz, AJ out at second c to 2b, caught stealing.",40,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,4,bot,"Masiuk, L. grounded out to 1b unassisted (2-2).",41,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,4,bot,"Lane, S. singled to center field (1-2).",42,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,4,bot,"Brown, M. reached on a fielder's choice (1-1)3a Lane, S. out at second 2b to ss.",43,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,4,bot,"Brown, M. stole second.",44,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,4,bot,"Palmer, D. flied out to lf (3-1).",45,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,5,top,"Lacourciere to p for Bauer, J..",46,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,5,top,"Donahue, Zac flied out to cf (0-0).",47,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,5,top,"Claiborn, Ja walked (3-1).",48,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,5,top,"Lincoln, Nat struck out looking (1-2).",49,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,5,top,"Claiborn, Ja advanced to second on a wild pitch.",50,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,5,top,"Steinert, Br grounded out to ss (2-2).",51,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,5,bot,"Morris, Ty to p for Speranza, An.",52,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,5,bot,Castrataro singled to center field (1-2).,53,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,5,bot,Castrataro advanced to second on an error by 1b.,54,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,5,bot,"Cox, T. walked (3-0).",55,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,5,bot,"Jenks, T. reached on a fielder's choice (1-1)3a Cox, T. advanced to second3a Castrataro out at third 3b unassisted.",56,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,5,bot,"Griggs, CJ singled through the right side, RBI (0-1)3a Jenks, T. advanced to third3a Cox, T. scored.",57,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,5,bot,"Curry, B. grounded into double play ss to 2b to 1b (0-2)3a Griggs, CJ out on the play.",58,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,6,top,"McNelly, Ayd flied out to lf (1-1).",59,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,6,top,"Pollack, Kyl singled to shortstop (1-1).",60,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,6,top,"Diaz, Chris doubled to left field (0-0)3a Pollack, Kyl advanced to third.",61,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,6,top,"Brotz, AJ flied out to rf (0-0).",62,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,6,top,"Rodriguez, L popped up to 2b (2-2).",63,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,6,bot,"Masiuk, L. reached on a fielding error by ss (1-0).",64,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,6,bot,"Masiuk, L. stole second.",65,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,6,bot,"Lane, S. singled to right field, RBI (1-2)3a Masiuk, L. scored, unearned.",66,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,6,bot,"Ubner, Chris to p for Morris, Ty.",67,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,6,bot,"Brown, M. grounded out to p, SAC, bunt (0-0)3a Lane, S. advanced to third.",68,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,6,bot,"Palmer, D. flied out to rf, SF, RBI (2-1)3a Lane, S. scored, unearned.",69,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,6,bot,"Castrataro homered to left field, RBI, team unearned (3-1).",70,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,6,bot,"Cox, T. flied out to lf (3-2).",71,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,7,top,"Donahue, Zac popped up to 3b (0-0).",72,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,7,top,"Claiborn, Ja struck out swinging (1-2).",73,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,7,top,"Lincoln, Nat singled to second base (2-2).",74,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,7,top,"Steinert, Br homered to left field, 2 RBI (0-0)3a Lincoln, Nat scored.",75,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,7,top,"McNelly, Ayd struck out swinging (1-2).",76,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,7,bot,"Scholl, Loga to p for Ubner, Chris.",77,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,7,bot,"Jenks, T. grounded out to ss (0-1).",78,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,7,bot,"Griggs, CJ struck out swinging, out at first c to 1b (1-2).",79,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,7,bot,"Curry, B. grounded out to p (0-1).",80,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,8,top,"Pollack, Kyl popped up to 2b (1-0).",81,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,8,top,"Diaz, Chris struck out swinging (2-2).",82,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,8,top,"Brotz, AJ hit by pitch (0-1).",83,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,8,top,"Jenks, T. to p.",84,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,8,top,"Gallagher, A to lf for Lacourciere.",85,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,8,top,"Rodriguez, L singled through the left side, advanced to second (1-1)3a Brotz, AJ advanced to third, out at home lf to ss to 1b to 2b to c.",86,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,8,bot,"Masiuk, L. doubled to center field (3-2).",87,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,8,bot,"Lane, S. grounded out to c unassisted, SAC, bunt (1-0)3a Masiuk, L. advanced to third.",88,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,8,bot,"Brown, M. doubled down the rf line, RBI (2-1)3a Masiuk, L. scored.",89,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,8,bot,"Palmer, D. singled up the middle, RBI (2-1)3a Brown, M. scored.",90,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,8,bot,"Palmer, D. stole second, advanced to third on a throwing error by c.",91,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,8,bot,Castrataro struck out swinging (1-2).,92,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,8,bot,"Cox, T. walked (3-2).",93,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,8,bot,"Cox, T. stole second, advanced to third on a throwing error by p3a Palmer, D. stole home, unearned.",94,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596558,8,bot,"Jenks, T. grounded out to ss (3-1).",95,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,9,top,"Donahue, Zac flied out to lf (2-2).",96,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,9,top,"Claiborn, Ja grounded out to p (3-2).",97,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025
+6315643,596590,Marist Red Foxes,596558,Hofstra Pride,596590,9,top,"Lincoln, Nat grounded out to 3b (0-1).",98,2025-03-04T00:00:00-05:00,"University Field (Hempstead, NY)",150,MBA,2025

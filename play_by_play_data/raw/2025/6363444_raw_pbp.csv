@@ -1,0 +1,121 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,1,top,Egrie flied out to cf.,1,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,1,top,Scanlon struck out swinging.,2,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,1,top,Baillargeon struck out swinging.,3,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,1,bot,L. Alberti grounded out to ss.,4,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,1,bot,O. Hull grounded out to ss.,5,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,1,bot,J. Quinn-Iro flied out to rf.,6,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,2,top,Royer flied out to rf.,7,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,2,top,King struck out swinging.,8,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,2,top,LaFleur reached first on a fielding error by ss.,9,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,2,top,LaFleur out at second p to 1b to 2b.,10,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,"J. Butler grounded out to 3b, bunt.",11,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,A. Raymond walked.,12,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,O. Clyne walked: A. Raymond advanced to second.,13,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,O. Clyne advanced to second: A. Raymond advanced to third on a passed ball.,14,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,"J. Wall singled to shortstop, RBI: O. Clyne advanced to third: A. Raymond scored.",15,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,"E. Blanchard singled to pitcher, RBI: J. Wall advanced to second: O. Clyne scored.",16,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,D. Canody hit by pitch: E. Blanchard advanced to second: J. Wall advanced to third.,17,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,Hunt to p for Mateffy.,18,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,"L. Alberti doubled down the lf line, 3 RBI: D. Canody scored: E. Blanchard scored: J. Wall scored.",19,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,"O. Hull singled to catcher, bunt: L. Alberti advanced to third.",20,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,O. Hull stole second: L. Alberti scored.,21,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,J. Quinn-Iro hit by pitch.,22,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,J. Butler hit by pitch: J. Quinn-Iro advanced to second: O. Hull advanced to third.,23,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,"A. Raymond reached on a fielder's choice, advanced to second on the throw: J. Butler scored on the throw: J. Quinn-Iro scored: O. Hull scored on a throwing error by p.",24,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,"O. Clyne doubled to left field, RBI: A. Raymond scored.",25,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,J. Wall walked.,26,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,Nesson to p for Hunt.,27,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,E. Blanchard hit by pitch: J. Wall advanced to second: O. Clyne advanced to third.,28,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,"D. Canody walked, RBI: E. Blanchard advanced to second: J. Wall advanced to third: O. Clyne scored.",29,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,"L. Alberti walked, RBI: D. Canody advanced to second: E. Blanchard advanced to third: J. Wall scored.",30,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,Russotti to p for Nesson.,31,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,"O. Hull doubled down the lf line, 3 RBI: L. Alberti scored: D. Canody scored: E. Blanchard scored.",32,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,O. Hull stole third.,33,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,"J. Quinn-Iro singled through the left side, RBI: O. Hull scored.",34,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,J. Butler hit by pitch: J. Quinn-Iro advanced to second.,35,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,"A. Raymond doubled, advanced to third on a fielding error by rf, scored on a throwing error by 2b, 3 RBI: J. Butler scored: J. Quinn-Iro scored.",36,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,O. Clyne flied out to ss.,37,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,J. Wall walked.,38,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,E. Blanchard doubled down the lf line: J. Wall advanced to third.,39,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,"D. Canody singled through the left side, RBI: E. Blanchard advanced to third: J. Wall scored.",40,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,L. Alberti walked: D. Canody advanced to second.,41,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,Walters to p for Russotti.,42,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,"O. Hull walked, RBI: L. Alberti advanced to second: D. Canody advanced to third: E. Blanchard scored.",43,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,"J. Quinn-Iro singled to center field, 2 RBI: O. Hull advanced to second: L. Alberti scored: D. Canody scored.",44,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,2,bot,J. Butler reached on a fielder's choice: J. Quinn-Iro advanced to second: O. Hull out at third 3b unassisted.,45,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,3,top,M. Madigan to p for T. Uchman.,46,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,3,top,G. Pancione to c for A. Raymond.,47,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,3,top,Sandell singled to left field.,48,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,3,top,Coughlin hit by pitch: Sandell advanced to second.,49,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,3,top,Grundy flied out to rf: Sandell advanced to third.,50,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,3,top,Egrie walked: Coughlin advanced to second.,51,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,3,top,Scanlon struck out looking.,52,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,3,top,Baillargeon reached on a fielder's choice: Egrie advanced to second: Coughlin out at third 3b unassisted.,53,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,3,bot,G. Pancione fouled out to lf.,54,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,3,bot,O. Clyne lined out to cf.,55,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,3,bot,J. Wall flied out to lf.,56,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,4,top,Cooney pinch hit for Royer.,57,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,4,top,Cooney singled to center field.,58,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,4,top,Peek pinch hit for King.,59,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,4,top,Peek singled to left field: Cooney advanced to second.,60,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,4,top,LaFleur struck out swinging.,61,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,4,top,"Sandell doubled down the lf line, 2 RBI: Peek scored: Cooney scored.",62,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,4,top,Coughlin grounded out to 3b: Sandell advanced to third.,63,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,4,top,Jones pinch hit for Grundy.,64,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,4,top,"Jones singled through the left side, RBI: Sandell scored.",65,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,4,top,Connors pinch hit for Egrie.,66,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,4,top,Connors struck out swinging.,67,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,4,bot,Connors to 1b.,68,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,4,bot,Baillargeon to rf.,69,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,4,bot,Cooney to cf.,70,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,4,bot,Peek to ss.,71,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,4,bot,Jones to 3b.,72,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,4,bot,E. Blanchard singled to shortstop.,73,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,4,bot,D. Canody grounded into double play ss to 2b to 1b: E. Blanchard out on the play.,74,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,4,bot,L. Alberti flied out to lf.,75,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,5,top,R. Ament to p for M. Madigan.,76,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,5,top,Scanlon hit by pitch.,77,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,5,top,Baillargeon struck out swinging.,78,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,5,top,Cooney flied out to rf.,79,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,5,top,Peek struck out looking.,80,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,5,bot,Brown to c for Coughlin.,81,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,5,bot,Jones to 3b.,82,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,5,bot,Jones to 3b.,83,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,5,bot,Dowdle to p for Walters.,84,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,5,bot,O. Hull walked.,85,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,5,bot,"J. Quinn-Iro doubled down the rf line, RBI: O. Hull scored.",86,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,5,bot,T. Capers pinch ran for J. Quinn-Iro.,87,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,5,bot,J. Butler walked.,88,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,5,bot,G. Pancione struck out looking.,89,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,5,bot,J. Butler advanced to second: T. Capers advanced to third on a wild pitch.,90,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,5,bot,J. Butler advanced to third: T. Capers scored on a wild pitch.,91,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,5,bot,"O. Clyne grounded out to 2b, RBI: J. Butler scored.",92,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,5,bot,T. Tomlinson pinch hit for J. Wall.,93,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,5,bot,T. Tomlinson grounded out to ss.,94,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,6,top,T. Capers to cf.,95,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,6,top,T. Tomlinson to 1b.,96,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,6,top,L. Tignor to rf for D. Canody.,97,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,6,top,D. McCarthy to p for R. Ament.,98,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,6,top,LaFleur grounded out to 1b unassisted.,99,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,6,top,Sandell grounded out to ss.,100,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,6,top,Brown singled to center field.,101,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,6,top,"Jones doubled to left center, RBI: Brown scored.",102,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,6,top,Connors walked.,103,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,6,top,S. Okeeffe to p for D. McCarthy.,104,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,6,top,Scanlon struck out swinging.,105,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,6,bot,Needham to p for Dowdle.,106,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,6,bot,E. Blanchard fouled out to c.,107,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,6,bot,L. Tignor walked.,108,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,6,bot,L. Alberti walked: L. Tignor advanced to second.,109,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,6,bot,S. Lavin pinch hit for O. Hull.,110,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,6,bot,S. Lavin reached on a fielder's choice: L. Alberti out at second 2b to ss: L. Tignor advanced to third.,111,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596548,6,bot,T. Capers struck out swinging.,112,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,7,top,G. Meeks to p for S. Okeeffe.,113,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,7,top,Baillargeon struck out looking.,114,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,7,top,Cooney doubled to left field.,115,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,7,top,Peek reached first on a fielding error by 3b.,116,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,7,top,"LaFleur doubled to left center, 2 RBI: Peek scored, unearned: Cooney scored.",117,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,7,top,Sandell walked.,118,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,7,top,Brown flied out to cf: LaFleur advanced to third.,119,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025
+6363444,596559,Holy Cross Crusaders,596548,George Mason Patriots,596559,7,top,Jones struck out swinging.,120,2025-03-04T00:00:00-05:00,"Spuhler Field (Fairfax, VA)",25,MBA,2025

@@ -1,0 +1,101 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,1,top,DURSCHLAG singled to left field (1-1 BS).,1,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,1,top,MURPHY hit by pitch (0-0): DURSCHLAG advanced to second.,2,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,1,top,MURPHY advanced to second: DURSCHLAG advanced to third on a wild pitch.,3,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,1,top,HILLIER popped up to ss (1-0 B).,4,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,1,top,"JOHNSON flied out to rf, SF, RBI (2-2 BBKK): DURSCHLAG scored.",5,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,1,top,MURPHY stole third.,6,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,1,top,SIMPSON flied out to cf (2-2 BKBKF).,7,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,1,bot,"Black, Ry. homered to right field, RBI (3-2 KKBBB).",8,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,1,bot,"Alford, S. homered to left field, RBI (1-0 B).",9,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,1,bot,"Burnett, Ro struck out swinging (1-2 KBFS).",10,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,1,bot,"Jackson, Dan walked (3-2 SBBKBFFB).",11,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,1,bot,"Phelps, Tre singled, out at second cf to 2b (1-1 KB): Jackson, Dan advanced to third.",12,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,1,bot,"Adams, Chr. walked (3-0 BBBB).",13,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,1,bot,"McCarthy, N. reached on a fielder's choice (1-2 KBF): Adams, Chr. out at second ss to 2b.",14,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,2,top,MELTON grounded out to ss (2-1 BKB).,15,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,2,top,ECHAZARRETA singled to left field (2-1 KBB).,16,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,2,top,McCARTER walked (3-2 BBKBFB): ECHAZARRETA advanced to second.,17,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,2,top,McCARTER advanced to second: ECHAZARRETA advanced to third on a wild pitch.,18,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,2,top,"SMITH, C. struck out looking (3-2 BBKSBFK).",19,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,2,top,"Radtke to p for Harris, Zach.",20,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,2,top,"DURSCHLAG struck out, out at first c to 1b (2-2 KBBSS).",21,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,2,bot,"Hunter, H. walked (3-2 KBFBBB).",22,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,2,bot,"Branch, K. doubled to left center (3-2 BBFSFBF): Hunter, H. advanced to third.",23,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,2,bot,"Black, Ry. doubled to right field, RBI (2-1 SBB): Branch, K. advanced to third: Hunter, H. scored.",24,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,2,bot,"Alford, S. singled to right field, RBI (0-1 S): Black, Ry. advanced to third: Branch, K. scored.",25,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,2,bot,MONTENEGRO to p for BUTLER.,26,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,2,bot,"Burnett, Ro popped up to p (0-1 K).",27,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,2,bot,"Jackson, Dan struck out swinging (1-2 BKKS).",28,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,2,bot,"Phelps, Tre flied out to cf (0-0).",29,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,3,top,MURPHY hit by pitch (0-1 F).,30,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,3,top,HILLIER singled to right field (0-1 K): MURPHY advanced to second.,31,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,3,top,JOHNSON singled to center field (1-0 B): HILLIER advanced to second: MURPHY advanced to third.,32,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,3,top,"SIMPSON flied out to cf, SF, RBI (0-0): MURPHY scored.",33,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,3,top,MELTON grounded into double play ss to 1b (0-0): JOHNSON out on the play.,34,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,3,bot,"Adams, Chr. doubled to right center (0-1 S).",35,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,3,bot,"McCarthy, N. walked (3-1 SBBBB).",36,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,3,bot,"Hunter, H. flied out to cf (2-2 KBBSFF): McCarthy, N. advanced to second: Adams, Chr. advanced to third.",37,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,3,bot,"Branch, K. flied out to rf, SF, RBI (0-1 F): McCarthy, N. advanced to third: Adams, Chr. scored.",38,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,3,bot,"Black, Ry. flied out to lf (1-2 KFB).",39,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,4,top,Finley to p for Radtke.,40,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,4,top,ECHAZARRETA grounded out to 1b unassisted (2-2 BBKK).,41,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,4,top,McCARTER grounded out to ss (0-0).,42,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,4,top,"SMITH, C. struck out swinging (0-2 KSS).",43,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,4,bot,"Alford, S. grounded out to 2b (3-2 BKFBB).",44,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,4,bot,"Burnett, Ro flied out to cf (0-0).",45,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,4,bot,"Jackson, Dan grounded out to 2b (1-2 KKB).",46,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,5,top,"Smith, Kol. to p for Finley.",47,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,5,top,"DURSCHLAG homered to left field, RBI (2-0 BB).",48,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,5,top,MURPHY struck out swinging (0-2 KSS).,49,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,5,top,HILLIER struck out swinging (0-2 KSS).,50,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,5,top,JOHNSON singled to center field (1-1 BK).,51,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,5,top,JOHNSON advanced to second on a wild pitch.,52,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,5,top,SIMPSON flied out to cf (2-2 BKBF).,53,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,5,bot,"Phelps, Tre struck out swinging (3-2 KBFBBS).",54,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,5,bot,"Adams, Chr. grounded out to 2b (3-2 BKBBK).",55,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,5,bot,"McCarthy, N. singled to left field (2-1 FBB).",56,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,5,bot,"Hunter, H. flied out to cf (2-2 BKFB).",57,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,6,top,"Taylor, Nate to p for Smith, Kol..",58,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,6,top,MELTON struck out looking (2-2 BSBKK).,59,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,6,top,ECHAZARRETA struck out swinging (0-2 FKS).,60,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,6,top,"McCARTER struck out swinging, reached first on a wild pitch (2-2 KBSBS).",61,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,6,top,"SMITH, C. singled to first base (0-0): McCARTER advanced to second.",62,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,6,top,"Hammond to p for Taylor, Nate.",63,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,6,top,"SMITH, C. advanced to second: McCARTER advanced to third.",64,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,6,top,DURSCHLAG struck out swinging (1-2 BSKS).,65,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,6,bot,"Branch, K. struck out swinging (2-2 SBBSS).",66,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,6,bot,"Black, Ry. singled to first base (2-1 BBK).",67,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,6,bot,"Alford, S. grounded into double play 3b to 2b to 1b (0-1 K): Black, Ry. out on the play.",68,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,7,top,MURPHY hit by pitch (3-1 FBBB).,69,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,7,top,HILLIER singled to left field (1-1 KB): MURPHY advanced to second.,70,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,7,top,Hoskins to p for Hammond.,71,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,7,top,JOHNSON walked (3-0 BBBB): HILLIER advanced to second: MURPHY advanced to third.,72,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,7,top,SIMPSON struck out swinging (1-2 BKKS).,73,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,7,top,"MELTON flied out to cf, SF, RBI (0-0): MURPHY scored.",74,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,7,top,ECHAZARRETA walked (3-2 BBBKSFB): JOHNSON advanced to second: HILLIER advanced to third.,75,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,7,top,CLARK pinch hit for McCARTER.,76,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,7,top,CLARK reached on a fielder's choice (0-1 K): ECHAZARRETA advanced to second: JOHNSON out at third ss to 3b.,77,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,7,bot,KIMEL to p for MONTENEGRO.,78,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,7,bot,"Burnett, Ro grounded out to p (1-1 BK).",79,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,7,bot,"Jackson, Dan struck out swinging (0-2 KFS).",80,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,7,bot,"Phelps, Tre doubled to left center (1-2 BKF).",81,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,7,bot,"Adams, Chr. doubled to right center, RBI (2-2 BBSF): Phelps, Tre scored.",82,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,7,bot,"McCarthy, N. grounded out to p (1-2 BFF).",83,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,8,top,"SMITH, C. flied out to lf (2-0 BB).",84,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,8,top,DURSCHLAG walked (3-1 BBBKB).,85,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,8,top,MURPHY flied out to cf (1-0 B).,86,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,8,top,HILLIER struck out looking (1-2 FKBK).,87,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,8,bot,"Hunter, H. walked (3-0 BBBB).",88,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,8,bot,"Branch, K. singled to left field (1-2 BKF): Hunter, H. advanced to second.",89,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,8,bot,"Black, Ry. out at first p to 2b, SAC (0-1 S): Branch, K. advanced to second: Hunter, H. advanced to third.",90,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,8,bot,TUTTOILMONDO to p for KIMEL.,91,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,8,bot,"Alford, S. grounded out to 2b, RBI (2-0 BB): Branch, K. advanced to third: Hunter, H. scored.",92,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,8,bot,"Burnett, Ro singled to right field, RBI (1-2 BFK): Branch, K. scored.",93,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,8,bot,"Jackson, Dan singled to center field (1-1 BK): Burnett, Ro advanced to second.",94,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596554,8,bot,"Phelps, Tre flied out to lf (0-0).",95,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,9,top,"Zeldin, B. to p for Hoskins.",96,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,9,top,"JOHNSON struck out, out at first c to 1b (1-2 KBKS).",97,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,9,top,SIMPSON grounded out to ss (1-2 KSB).,98,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,9,top,MELTON walked (3-2 BKFBBB).,99,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025
+6301390,596705,High Point Panthers,596554,Georgia Bulldogs,596705,9,top,ECHAZARRETA struck out looking (3-2 KKBBBFFK).,100,2025-03-04T00:00:00-05:00,"Foley Field (Athens, GA)",844,MBA,2025

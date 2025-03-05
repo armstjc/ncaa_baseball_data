@@ -1,0 +1,126 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,1,top,"DIVITTORIO,A struck out looking.",1,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,1,top,"THOMPSON,B. reached on a fielding error by 1b.",2,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,1,top,"ANDERSON,I. struck out looking.",3,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,1,top,"NIEVES,S. walked3a THOMPSON,B. advanced to second.",4,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,1,top,"BLACKMORE,D. walked3a NIEVES,S. advanced to second3a THOMPSON,B. advanced to third.",5,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,1,top,"MOORE,D. hit by pitch3a BLACKMORE,D. advanced to second3a NIEVES,S. advanced to third3a THOMPSON,B. scored, unearned.",6,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,1,top,"BATTLE,C. struck out swinging.",7,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,1,bot,D Larkins hit by pitch.,8,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,1,bot,D Larkins stole second.,9,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,1,bot,Carapellotti hit by pitch.,10,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,1,bot,L Bauer out at first 1b to p3a Carapellotti advanced to second3a D Larkins advanced to third.,11,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,1,bot,"T Head singled through the right side, RBI3a Carapellotti advanced to third3a D Larkins scored.",12,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,1,bot,T Head stole second.,13,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,1,bot,Je Sheffield hit by pitch.,14,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,1,bot,"K Caster flied out to lf, SAC, RBI3a Carapellotti scored.",15,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,1,bot,Je Sheffield advanced to second3a T Head advanced to third.,16,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,1,bot,J Thomas walked.,17,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,1,bot,Ja Sheffield flied out to cf.,18,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,2,top,"SUNDAR,P. struck out looking.",19,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,2,top,"BARCZAI,B. reached on a fielding error by rf.",20,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,2,top,"DIVITTORIO,A walked3a BARCZAI,B. advanced to second.",21,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,2,top,"THOMPSON,B. struck out swinging.",22,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,2,top,"ANDERSON,I. walked3a DIVITTORIO,A advanced to second3a BARCZAI,B. advanced to third.",23,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,2,top,G O'Connor to p for J Franco.,24,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,2,top,"NIEVES,S. struck out swinging.",25,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,2,bot,B Schaaf walked.,26,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,2,bot,B Schaaf stole second.,27,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,2,bot,D Larkins walked.,28,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,2,bot,"Carapellotti tripled to right center, 2 RBI3a D Larkins scored3a B Schaaf scored.",29,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,2,bot,"L Bauer flied out to rf, SAC, RBI3a Carapellotti scored.",30,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,2,bot,"T Head homered to right center, RBI.",31,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,2,bot,Je Sheffield singled up the middle.,32,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,2,bot,Je Sheffield stole second.,33,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,2,bot,K Caster struck out swinging.,34,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,2,bot,Je Sheffield advanced to third on a wild pitch.,35,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,2,bot,J Thomas walked.,36,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,2,bot,J Thomas stole second.,37,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,2,bot,"Ja Sheffield doubled down the lf line, 2 RBI3a J Thomas scored3a Je Sheffield scored.",38,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,2,bot,"MATTHEWS,M. to p for STEPHENS,B..",39,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,2,bot,B Schaaf singled through the left side3a Ja Sheffield advanced to third.,40,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,2,bot,B Schaaf stole second.,41,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,2,bot,D Larkins struck out swinging.,42,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,3,top,"BLACKMORE,D. flied out to lf.",43,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,3,top,"MOORE,D. struck out looking.",44,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,3,top,"BATTLE,C. grounded out to ss.",45,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,3,bot,Carapellotti struck out looking.,46,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,3,bot,L Bauer flied out to cf.,47,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,3,bot,T Head out at first 1b to p.,48,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,4,top,N Leib to 1b for L Bauer.,49,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,4,top,"SUNDAR,P. grounded out to 3b.",50,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,4,top,"BARCZAI,B. grounded out to 3b.",51,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,4,top,"DIVITTORIO,A grounded out to 2b.",52,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,4,bot,Je Sheffield walked.,53,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,4,bot,"K Caster doubled to right field, RBI3a Je Sheffield scored.",54,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,4,bot,"J Thomas singled, bunt3a K Caster advanced to third.",55,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,4,bot,"Ja Sheffield singled up the middle, RBI3a J Thomas advanced to third3a K Caster scored.",56,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,4,bot,Ja Sheffield advanced to second.,57,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,4,bot,"B Schaaf singled, bunt, RBI3a Ja Sheffield advanced to third3a J Thomas scored.",58,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,4,bot,"D Larkins singled through the right side, RBI3a B Schaaf advanced to third3a Ja Sheffield scored.",59,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,4,bot,"D Larkins out at second c to ss, caught stealing.",60,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,4,bot,"Carapellotti homered to right center, 2 RBI3a B Schaaf scored.",61,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,4,bot,N Leib walked.,62,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,4,bot,T Head doubled to right field3a N Leib advanced to third.,63,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,4,bot,Je Sheffield struck out swinging.,64,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,4,bot,"K Caster singled up the middle, 2 RBI3a T Head scored3a N Leib scored.",65,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,4,bot,J Thomas singled to right field3a K Caster advanced to second.,66,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,4,bot,C Price pinch hit for Ja Sheffield.,67,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,4,bot,"ROEDER,P. to p for MATTHEWS,M..",68,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,4,bot,C Price reached on a fielder's choice3a J Thomas out at second ss to 2b.,69,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,5,top,T Ilitch to cf for D Larkins.,70,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,5,top,B Depman to 3b for Je Sheffield.,71,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,5,top,A Gilio to lf for K Caster.,72,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,5,top,C Price to dh.,73,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,5,top,"THOMPSON,B. reached on an error by cf, advanced to third.",74,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,5,top,"ANDERSON,I. singled to center field, RBI3a THOMPSON,B. scored, unearned.",75,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,5,top,"NIEVES,S. reached on a fielder's choice3a ANDERSON,I. out at second 3b to 2b.",76,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,5,top,"BLACKMORE,D. singled up the middle3a NIEVES,S. advanced to second.",77,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,5,top,J Volo to p for G O'Connor.,78,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,5,top,"MOORE,D. struck out looking.",79,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,5,top,"BATTLE,C. flied out to lf.",80,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,5,bot,A Seymore pinch hit for B Schaaf.,81,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,5,bot,A Seymore grounded out to ss.,82,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,5,bot,T Ilitch grounded out to ss.,83,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,5,bot,"Carapellotti homered, RBI.",84,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,5,bot,N Leib singled up the middle.,85,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,5,bot,S Garcia pinch hit for T Head.,86,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,5,bot,S Garcia reached on a fielder's choice3a N Leib out at second 3b to 2b.,87,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,6,top,K Savoy to c for Carapellotti.,88,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,6,top,S Garcia to ss.,89,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,6,top,C Hamilton to rf for J Thomas.,90,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,6,top,J Pfau to 2b for A Seymore.,91,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,6,top,A Citron to p for J Volo.,92,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,6,top,"SUNDAR,P. doubled to right center.",93,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,6,top,"BARCZAI,B. hit by pitch.",94,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,6,top,"BARCZAI,B. advanced to second on a wild pitch3a SUNDAR,P. advanced to third on a wild pitch.",95,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,6,top,"DIVITTORIO,A walked.",96,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,6,top,M Whitmer to p for A Citron.,97,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,6,top,"THOMPSON,B. hit by pitch3a DIVITTORIO,A advanced to second3a BARCZAI,B. advanced to third3a SUNDAR,P. scored.",98,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,6,top,"ANDERSON,I. singled to right field, 2 RBI3a THOMPSON,B. advanced to third3a DIVITTORIO,A scored3a BARCZAI,B. scored.",99,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,6,top,"NIEVES,S. reached on a fielder's choice3a ANDERSON,I. advanced to second3a THOMPSON,B. out at home p to c.",100,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,6,top,"BLACKMORE,D. singled down the rf line, advanced to second, RBI3a NIEVES,S. advanced to third3a ANDERSON,I. scored.",101,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,6,top,"MOORE,D. lined out to ss.",102,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,6,top,"BATTLE,C. grounded out to 1b unassisted.",103,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,6,bot,B Depman flied out to rf.,104,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,6,bot,A Gilio doubled to right field.,105,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,6,bot,C Hamilton walked.,106,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,6,bot,C Hamilton advanced to second3a A Gilio advanced to third.,107,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,6,bot,C Price walked.,108,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,6,bot,"J Pfau flied out to rf, SAC, RBI3a C Hamilton advanced to third3a A Gilio scored.",109,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,6,bot,C Price advanced to second on a wild pitch.,110,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,6,bot,T Ilitch hit by pitch.,111,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,6,bot,K Savoy walked3a T Ilitch advanced to second3a C Price advanced to third3a C Hamilton scored.,112,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,6,bot,"N Leib singled to center field, 2 RBI3a K Savoy advanced to third3a T Ilitch scored3a C Price scored.",113,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,6,bot,"ENEIX,J. to p for ROEDER,P..",114,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,6,bot,S Garcia walked3a N Leib advanced to second.,115,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596550,6,bot,B Depman popped up to rf.,116,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,7,top,J Anderson to p for M Whitmer.,117,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,7,top,"SUNDAR,P. doubled to center field.",118,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,7,top,"WHITEHEAD,J. pinch hit for BARCZAI,B..",119,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,7,top,"WHITEHEAD,J. struck out swinging.",120,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,7,top,"VITAL,H. pinch hit for DIVITTORIO,A.",121,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,7,top,"VITAL,H. struck out swinging.",122,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,7,top,"HOGAN,N. pinch hit for THOMPSON,B..",123,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,7,top,"HOGAN,N. walked3a SUNDAR,P. advanced to third on a wild pitch.",124,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025
+6312829,596527,Coppin St. Eagles,596550,Georgetown Hoyas,596527,7,top,"HOGAN,N. out at second p to 1b to 2b, picked off.",125,2025-03-04T00:00:00-05:00,"Capital One Park (Tysons, VA)",123,MBA,2025

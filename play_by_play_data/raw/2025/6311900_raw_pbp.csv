@@ -1,0 +1,84 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,1,top,"BEAN, B grounded out to ss.",1,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,1,top,"NITOWITZ, C grounded out to p.",2,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,1,top,"HEBERT, C walked.",3,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,1,top,"KATAYAMA-STA singled to third base3a HEBERT, C advanced to second.",4,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,1,top,"SALK, J struck out swinging.",5,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,1,bot,"Guerrero,A walked.",6,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,1,bot,"Bower,C struck out looking.",7,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,1,bot,"Taggart,C singled up the middle3a Guerrero,A advanced to second.",8,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,1,bot,"Kole,T flied out to rf.",9,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,1,bot,"Knight,M grounded out to ss.",10,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,2,top,"RUTIGLIANO,F struck out looking.",11,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,2,top,"TOGLIA, Z walked.",12,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,2,top,"MUENCH, H fouled out to 1b.",13,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,2,top,"MCCARTHY, R flied out to cf.",14,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,2,bot,"DeCarlo,S flied out to cf.",15,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,2,bot,"Hotchkiss,J singled to center field.",16,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,2,bot,"Blanchard,C grounded into double play 1b to ss3a Hotchkiss,J out on the play.",17,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,3,top,"BEAN, B grounded out to ss.",18,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,3,top,"NITOWITZ, C struck out looking.",19,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,3,top,"HEBERT, C flied out to lf.",20,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,3,bot,"Crawford,C struck out swinging.",21,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,3,bot,"Guerrero,A singled to center field.",22,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,3,bot,"Bower,C hit by pitch3a Guerrero,A advanced to second.",23,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,3,bot,"Bower,C advanced to second on a balk3a Guerrero,A advanced to third on a balk.",24,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,3,bot,"Taggart,C walked.",25,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,3,bot,"Kole,T grounded into double play 3b to 1b3a Bower,C out on the play.",26,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,4,top,"Bronzini,N to p for Tims,J.",27,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,4,top,KATAYAMA-STA singled to left field.,28,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,4,top,"SALK, J walked3a KATAYAMA-STA advanced to second.",29,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,4,top,"RUTIGLIANO,F grounded out to p, SAC, bunt3a SALK, J advanced to second3a KATAYAMA-STA advanced to third.",30,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,4,top,"TOGLIA, Z walked.",31,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,4,top,"Evangelista to p for Bronzini,N.",32,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,4,top,"MUENCH, H popped up to 2b.",33,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,4,top,"MCCARTHY, R flied out to cf.",34,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,4,bot,"Knight,M flied out to cf.",35,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,4,bot,"DeCarlo,S grounded out to 3b.",36,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,4,bot,"Hotchkiss,J struck out swinging.",37,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,5,top,"BEAN, B flied out to cf.",38,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,5,top,"NITOWITZ, C grounded out to 2b.",39,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,5,top,"HEBERT, C flied out to cf.",40,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,5,bot,"Blanchard,C flied out to rf.",41,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,5,bot,"Crawford,C walked.",42,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,5,bot,"Guerrero,A singled through the left side3a Crawford,C advanced to second.",43,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,5,bot,"Bower,C walked3a Guerrero,A advanced to second3a Crawford,C advanced to third.",44,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,5,bot,"Taggart,C flied out to lf, SF, RBI3a Crawford,C scored.",45,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,5,bot,"Kole,T singled through the left side, RBI3a Bower,C advanced to third3a Guerrero,A scored.",46,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,5,bot,"Kole,T stole second.",47,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,5,bot,"Knight,M struck out swinging.",48,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,6,top,KATAYAMA-STA flied out to rf.,49,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,6,top,"SALK, J struck out looking.",50,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,6,top,"RUTIGLIANO,F flied out to lf.",51,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,6,bot,"YOUNG, C to p for SWYGART, T.",52,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,6,bot,"DeCarlo,S homered to left field, RBI.",53,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,6,bot,"Hotchkiss,J walked.",54,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,6,bot,"Blanchard,C grounded into double play 1b to ss to 1b3a Hotchkiss,J out on the play.",55,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,6,bot,"Crawford,C walked.",56,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,6,bot,"Crawford,C stole second.",57,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,6,bot,"Guerrero,A flied out to rf.",58,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,7,top,"TOGLIA, Z walked.",59,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,7,top,"TOGLIA, Z advanced to second on a passed ball, stole third.",60,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,7,top,"MUENCH, H grounded out to 2b.",61,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,7,top,"MCCARTHY, R flied out to cf to right center3a TOGLIA, Z out at home cf to c.",62,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,7,bot,"Bower,C flied out to lf.",63,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,7,bot,"Taggart,C walked.",64,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,7,bot,"Kole,T grounded out to 1b unassisted3a Taggart,C advanced to second on a throwing error by 1b, advanced to third.",65,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,7,bot,"Knight,M walked.",66,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,7,bot,"Knight,M stole second.",67,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,7,bot,"DeCarlo,S walked.",68,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,7,bot,"Hotchkiss,J flied out to 2b to right field.",69,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,8,top,"Gilbert,B to p for Evangelista.",70,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,8,top,"BEAN, B struck out swinging.",71,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,8,top,"NITOWITZ, C flied out to lf.",72,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,8,top,"HEBERT, C struck out looking.",73,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,8,bot,"UMLANDT, N to p for YOUNG, C.",74,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,8,bot,"Blanchard,C struck out swinging.",75,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,8,bot,"Crawford,C fouled out to 1b.",76,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,8,bot,"Guerrero,A walked.",77,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596443,8,bot,"Bower,C out at first ss to 2b.",78,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,9,top,KATAYAMA-STA singled down the lf line.,79,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,9,top,"SALK, J flied out to cf.",80,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,9,top,"RUTIGLIANO,F walked3a KATAYAMA-STA advanced to second.",81,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,9,top,"TOGLIA, Z struck out swinging.",82,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025
+6311900,596650,Portland Pilots,596443,Washington Huskies,596650,9,top,"MUENCH, H grounded out to ss unassisted.",83,2025-03-04T00:00:00-05:00,"Husky Ballpark (Seattle, WA)",340,MBA,2025

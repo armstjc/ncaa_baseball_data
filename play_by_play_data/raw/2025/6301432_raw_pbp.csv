@@ -1,0 +1,125 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,1,top,No play.,1,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,1,top,"KENNELL, R. flied out to cf to left center (1-0 B).",2,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,1,top,"CARTER, M. singled to right center (0-0).",3,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,1,top,"CARTER, M. advanced to second on an error by p, failed pickoff attempt.",4,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,1,top,"THOMAS, T. singled through the right side, RBI (2-2 FBSB)3a CARTER, M. scored, unearned.",5,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,1,top,"FRANCIS, D. grounded out to 2b (1-1 BK)3a THOMAS, T. advanced to second.",6,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,1,top,"MACIAS, G flied out to rf down the rf line (0-1 K).",7,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,1,bot,"Peltier, A. flied out to cf to right center (2-1 BBF).",8,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,1,bot,"Williams, D. struck out swinging (3-2 BBBKFS).",9,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,1,bot,"Irby, A. homered to right field, RBI (1-1 SB).",10,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,1,bot,"Collins, J. walked (3-0 BBBB).",11,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,1,bot,"Vergara, R. walked (3-2 BFKBFBB)3a Collins, J. advanced to second.",12,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,1,bot,"Wallace, C. popped up to 1b (0-0).",13,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,2,top,ILGENFRITZ singled to left field (1-0 B).,14,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,2,top,ILGENFRITZ advanced to second on a wild pitch.,15,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,2,top,"MORGAN, A. grounded out to ss (3-2 FBKBB).",16,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,2,top,"CAPOZZI, N. flied out to rf to right center (2-2 KFBB).",17,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,2,top,"KNIGHT, L. singled up the middle, RBI (3-1 BBKB)3a ILGENFRITZ scored.",18,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,2,top,"KNIGHT, L. stole second.",19,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,2,top,"KENNELL, R. walked (3-0 BBBB).",20,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,2,top,"CARTER, M. struck out swinging (1-2 BFKS).",21,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,2,bot,"PAULY, K. to p for FRANKLIN, W..",22,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,2,bot,"Barron, W. homered to center field, RBI (1-0 B).",23,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,2,bot,"Downs, D. doubled down the lf line (3-2 KBBSFBF).",24,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,2,bot,"Downs, D. advanced to third on a wild pitch.",25,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,2,bot,"Bouche, A. singled to pitcher, RBI (2-1 BKB)3a Downs, D. scored.",26,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,2,bot,"Peltier, A. walked (3-0 BBBB)3a Bouche, A. advanced to second.",27,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,2,bot,"PFEFFER, J. to p for PAULY, K..",28,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,2,bot,"Williams, D. reached on a fielder's choice (1-1 FB)3a Peltier, A. out at second 2b to ss3a Bouche, A. advanced to third.",29,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,2,bot,"Williams, D. stole second.",30,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,2,bot,"Irby, A. homered to right field, 3 RBI (2-2 KBFBFF)3a Williams, D. scored3a Bouche, A. scored.",31,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,2,bot,"Collins, J. singled to left field (2-1 FBB).",32,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,2,bot,"Vergara, R. grounded into double play 2b to 1b (1-1 BK)3a Collins, J. out on the play.",33,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,3,top,"Winter, J. to p for Zayac, B..",34,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,3,top,"THOMAS, T. singled to center field (0-1 S).",35,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,3,top,"FRANCIS, D. walked (3-0 BBBB)3a THOMAS, T. advanced to second.",36,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,3,top,"MACIAS, G singled to right center, RBI (3-2 BBKFBF)3a FRANCIS, D. advanced to third3a THOMAS, T. scored.",37,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,3,top,ILGENFRITZ struck out swinging (3-2 BBKFBS).,38,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,3,top,"MORGAN, A. walked (3-2 BBFSBB)3a MACIAS, G advanced to second.",39,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,3,top,"Dilorenzo to p for Winter, J..",40,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,3,top,"CAPOZZI, N. walked, RBI (3-2 BKSBBB)3a MORGAN, A. advanced to second3a MACIAS, G advanced to third3a FRANCIS, D. scored.",41,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,3,top,"KNIGHT, L. flied out to cf (1-1 KB).",42,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,3,top,"KENNELL, R. struck out swinging (1-2 BKKS).",43,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,3,bot,"PRESLEY, J. to p for PFEFFER, J..",44,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,3,bot,"Wallace, C. flied out to rf (0-1 K).",45,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,3,bot,"Barron, W. struck out swinging, out at first c to 1b (1-2 FBSS).",46,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,3,bot,"Downs, D. walked (3-0 BBBB).",47,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,3,bot,"Bouche, A. grounded out to 2b (1-1 FB).",48,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,4,top,"CARTER, M. fouled out to 3b (3-2 BSBFBFF).",49,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,4,top,"THOMAS, T. struck out swinging (2-2 FBBKS).",50,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,4,top,"FRANCIS, D. flied out to rf (0-0).",51,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,4,bot,"Peltier, A. grounded out to ss (1-0 B).",52,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,4,bot,"Williams, D. singled to center field (3-2 BKBFB).",53,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,4,bot,"CIMINIELLO to p for PRESLEY, J..",54,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,4,bot,"Williams, D. stole second.",55,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,4,bot,"Irby, A. walked (3-2 KBBBFB).",56,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,4,bot,"Irby, A. advanced to second on a wild pitch3a Williams, D. advanced to third on a wild pitch.",57,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,4,bot,"Collins, J. grounded out to 3b, RBI (3-2 KBBBS)3a Williams, D. scored.",58,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,4,bot,"Vergara, R. hit by pitch (0-1 F).",59,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,4,bot,"VIEIRA, N. to p for CIMINIELLO.",60,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,4,bot,"Vergara, R. advanced to second on a wild pitch3a Irby, A. advanced to third on a wild pitch.",61,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,4,bot,"Wallace, C. struck out swinging (3-2 KBSBFBS).",62,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,5,top,"MACIAS, G singled to left field (2-2 KBKB).",63,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,5,top,"ILGENFRITZ singled to right center (2-2 BBSF)3a MACIAS, G advanced to second.",64,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,5,top,"White, I. to p for Dilorenzo.",65,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,5,top,"MORGAN, A. walked (3-2 BBKFBB)3a ILGENFRITZ advanced to second3a MACIAS, G advanced to third.",66,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,5,top,"CAPOZZI, N. hit by pitch, RBI (0-0)3a MORGAN, A. advanced to second3a ILGENFRITZ advanced to third3a MACIAS, G scored.",67,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,5,top,"Hunter, J. to p for White, I..",68,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,5,top,"KNIGHT, L. struck out swinging (3-2 BBBKFS).",69,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,5,top,"KENNELL, R. grounded out to 2b, RBI (1-2 BSF)3a CAPOZZI, N. advanced to second3a MORGAN, A. advanced to third3a ILGENFRITZ scored.",70,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,5,top,"CARTER, M. struck out swinging (1-2 BKKFFS).",71,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,5,bot,"Barron, W. singled to left field (1-1 BS).",72,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,5,bot,"Downs, D. singled through the right side (3-1 BBBK)3a Barron, W. advanced to second.",73,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,5,bot,"Bouche, A. reached on a fielder's choice, bunt (1-1 BK)3a Downs, D. advanced to second3a Barron, W. out at third 1b to 3b.",74,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,5,bot,"Peltier, A. reached on a fielder's choice (2-2 BKBS)3a Bouche, A. out at second ss to 2b3a Downs, D. advanced to third.",75,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,5,bot,"Peltier, A. stole second.",76,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,5,bot,"Williams, D. walked (3-1 KBBBB).",77,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,5,bot,"IANNIBELLI to p for VIEIRA, N..",78,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,5,bot,"Irby, A. grounded out to 3b (2-2 BFFB).",79,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,6,top,"THOMAS, T. doubled down the rf line (0-1 S).",80,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,6,top,"FRANCIS, D. grounded out to ss (0-2 SF).",81,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,6,top,"THOMAS, T. advanced to third on a passed ball.",82,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,6,top,"MACIAS, G walked (3-2 KBKFBBB).",83,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,6,top,"ILGENFRITZ grounded out to 1b unassisted, bunt, RBI (1-1 BK)3a MACIAS, G advanced to second3a THOMAS, T. scored.",84,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,6,top,"MORGAN, A. singled through the left side, RBI (3-2 KSBBBF)3a MACIAS, G scored.",85,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,6,top,"MORGAN, A. stole second.",86,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,6,top,"CAPOZZI, N. struck out swinging (1-2 KSFBS).",87,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,6,bot,"GUZMAN, D. to p for IANNIBELLI.",88,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,6,bot,"Collins, J. struck out swinging (0-2 SKS).",89,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,6,bot,"Burress, B. pinch hit for Vergara, R..",90,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,6,bot,"Burress, B. grounded out to ss (2-1 BBK).",91,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,6,bot,"Wallace, C. walked (3-0 BBBB).",92,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,6,bot,"Wallace, C. advanced to second on a wild pitch.",93,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,6,bot,"Barron, W. singled to pitcher (1-2 SSB)3a Wallace, C. advanced to third.",94,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,6,bot,"Barron, W. advanced to second on a wild pitch, stole third3a Wallace, C. scored on a wild pitch.",95,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,6,bot,"Downs, D. walked (3-0 BBBB).",96,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,6,bot,"MANRIQUEZ, M to p for GUZMAN, D..",97,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,6,bot,"Bouche, A. walked (3-2 KBSBBB)3a Downs, D. advanced to second.",98,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,6,bot,"Bouche, A. advanced to second on a wild pitch3a Downs, D. advanced to third on a wild pitch3a Barron, W. scored on a wild pitch.",99,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,6,bot,"Peltier, A. reached on a throwing error by ss (2-2 KBKB)3a Bouche, A. scored, unearned3a Downs, D. scored, unearned.",100,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,6,bot,"Williams, D. flied out to lf (0-1 S).",101,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,7,top,"Burress, B. to lf.",102,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,7,top,"KNIGHT, L. struck out swinging (1-2 BFKS).",103,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,7,top,"KENNELL, R. flied out to rf (0-1 F).",104,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,7,top,"CARTER, M. flied out to rf (0-0).",105,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,7,bot,"Irby, A. struck out swinging (2-2 BKFBFS).",106,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,7,bot,"Kalinich, M. pinch hit for Collins, J..",107,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,7,bot,"Kalinich, M. flied out to cf (0-0).",108,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,7,bot,"Burress, B. struck out swinging (3-2 FBBBFS).",109,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,8,top,"THOMAS, T. grounded out to ss (0-1 K).",110,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,8,top,"FRANCIS, D. singled to right field (0-0).",111,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,8,top,"MACIAS, G struck out looking (0-2 FFK).",112,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,8,top,ILGENFRITZ struck out swinging (0-2 FSS).,113,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,8,bot,"PRESSLEY, D. to p for MANRIQUEZ, M.",114,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,8,bot,"Wallace, C. struck out swinging (1-2 BFSS).",115,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,8,bot,"Barron, W. grounded out to p (2-1 KBB).",116,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,8,bot,"Downs, D. walked (3-1 SBBBB).",117,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596535,8,bot,"Bouche, A. struck out swinging (1-2 SBFS).",118,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,9,top,"MORGAN, A. flied out to cf (0-0).",119,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,9,top,"CAPOZZI, N. singled up the middle (0-2 SK).",120,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,9,top,"KNIGHT, L. flied out to rf (1-2 KBS).",121,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,9,top,"KENNELL, R. singled through the left side (0-0)3a CAPOZZI, N. advanced to second.",122,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,9,top,"CARTER, M. walked (3-0 BBBB)3a KENNELL, R. advanced to second3a CAPOZZI, N. advanced to third.",123,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
+6301432,596461,Gardner-Webb Runnin' Bulldogs,596535,East Carolina Pirates,596461,9,top,"THOMAS, T. struck out looking (2-2 KBBKK).",124,2025-03-04T00:00:00-05:00,"Durham, NC",2476,MBA,2025
