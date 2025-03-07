@@ -65,6 +65,49 @@ def game_to_season_stats_combiner(year: int):
         f"combined_files/season_stats/player/{year}_season_batting_stats.csv",
         index=False,
     )
+
+    pitching_df = stats_df.groupby(
+        [
+            "season",
+            "sport_id",
+            "team_id",
+            "player_id",
+            "player_jersey_number",
+            "player_full_name",
+            "player_positions",
+        ],
+        as_index=False,
+    ).agg(
+        {
+            "pitching_GP": "sum",
+            "pitching_GS": "sum",
+            "pitching_IP": "sum",
+            "pitching_H": "sum",
+            "pitching_R": "sum",
+            "pitching_ER": "sum",
+            "pitching_BB": "sum",
+            "pitching_SO": "sum",
+            "pitching_BF": "sum",
+            "pitching_2B": "sum",
+            "pitching_3B": "sum",
+            "pitching_BK": "sum",
+            "pitching_HR": "sum",
+            "pitching_WP": "sum",
+            "pitching_HBP": "sum",
+            "pitching_IBB": "sum",
+            "pitching_IR": "sum",
+            "pitching_IRS": "sum",
+            "pitching_SH": "sum",
+            "pitching_SF": "sum",
+            "pitching_KL": "sum",
+            "pitching_TUER": "sum",
+            "pitching_PK": "sum",
+        }
+    )
+    pitching_df.to_csv(
+        f"combined_files/season_stats/player/{year}_season_pitching_stats.csv",
+        index=False,
+    )
     print()
 
 

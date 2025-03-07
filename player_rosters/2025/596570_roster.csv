@@ -1,28 +1,31 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301141,44,Pierre Cabral,Pierre,Cabral,Jr.,dh,-,,,,,,3,3,https://stats.ncaa.org/players/9301141
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301141,44,Pierre Cabral,Pierre,Cabral,Jr.,dh,-,,,,,,8,8,https://stats.ncaa.org/players/9301141
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9306847,3,Caleb Gallant,Caleb,Gallant,Jr.,p,-,,,,,,1,0,https://stats.ncaa.org/players/9306847
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9304914,17,Carson Foster,Carson,Foster,Fr.,p,-,,,,,,1,0,https://stats.ncaa.org/players/9304914
 2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301150,27,Steve Spurgeon Jr.,Steve,Spurgeon Jr.,Sr.,P,6-1,,LEFT,LEFT,"Bellevue, NE",,1,0,https://stats.ncaa.org/players/9301150
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301140,0,Anthony Brown,Anthony,Brown,Fr.,ph,-,,,,,,3,2,https://stats.ncaa.org/players/9301140
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301137,8,Davione Hull,Davione,Hull,Sr.,OF,6-1,,LEFT,LEFT,"Grenada, MS",,2,2,https://stats.ncaa.org/players/9301137
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301138,35,CJ Lewis,CJ,Lewis,Sr.,P,6-2,,RIGHT,RIGHT,"Bloomington, IL",,2,0,https://stats.ncaa.org/players/9301138
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301139,22,Nazhir Bergen,Nazhir,Bergen,Jr.,1b,-,,,,,,3,1,https://stats.ncaa.org/players/9301139
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301142,14,Nkosi Didder,Nkosi,Didder,So.,p,-,,,,,,2,0,https://stats.ncaa.org/players/9301142
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301143,9,Asafa Jones,Asafa,Jones,Fr.,ph,-,,,,,,1,0,https://stats.ncaa.org/players/9301143
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301148,20,Eric Elliott,Eric,Elliott,Jr.,p,6-3,,,,"Bowie, MD",,1,1,https://stats.ncaa.org/players/9301148
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301144,7,Silas Moore,Silas,Moore,Jr.,pr/lf,-,,,,,,3,1,https://stats.ncaa.org/players/9301144
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301146,27,Wilbert Perez,Wilbert,Perez,Jr.,1b,-,,,,,,3,3,https://stats.ncaa.org/players/9301146
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301147,25,Bryce Benton,Bryce,Benton,Jr.,OF,5-8,,RIGHT,RIGHT,,,1,1,https://stats.ncaa.org/players/9301147
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8882711,23,Hederick Torres,Hederick,Torres,So.,C,6-2,,RIGHT,RIGHT,"Hormigueros, PR",Inter American Univ. of PR,1,1,https://stats.ncaa.org/players/8882711
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8885988,31,Je-andrick Lourens,Je-andrick,Lourens,Sr.,P,5-10,,LEFT,LEFT,"Willemstad, Curaçao",,1,1,https://stats.ncaa.org/players/8885988
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8877758,16,Shemar Harris,Shemar,Harris,So.,INF,6-1,,RIGHT,RIGHT,"Chicago, IL",Thornwood HS,2,0,https://stats.ncaa.org/players/8877758
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8881280,18,Tyshon Patty,Tyshon,Patty,So.,INF,6-0,,RIGHT,RIGHT,"Atlanta, GA",Mountain View HS,3,3,https://stats.ncaa.org/players/8881280
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8880450,4,Jordan McCladdie,Jordan,McCladdie,Sr.,OF,6-0,,LEFT,LEFT,"Augusta, GA",,3,3,https://stats.ncaa.org/players/8880450
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8881684,29,DeVante Wells,DeVante,Wells,So.,C,6-0,,RIGHT,RIGHT,"Pinson, AL",Pinson Valley HS,1,0,https://stats.ncaa.org/players/8881684
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8898498,25,Brandon Haston,Brandon,Haston,Sr.,P,6-0,,LEFT,LEFT,"Dallas, GA",,1,0,https://stats.ncaa.org/players/8898498
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301140,0,Anthony Brown,Anthony,Brown,Fr.,ph,-,,,,,,11,10,https://stats.ncaa.org/players/9301140
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301137,8,Davione Hull,Davione,Hull,Sr.,OF,6-1,,LEFT,LEFT,"Grenada, MS",,9,7,https://stats.ncaa.org/players/9301137
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301138,35,CJ Lewis,CJ,Lewis,Sr.,P,6-2,,RIGHT,RIGHT,"Bloomington, IL",,8,0,https://stats.ncaa.org/players/9301138
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301139,22,Nazhir Bergen,Nazhir,Bergen,Jr.,1b,-,,,,,,10,4,https://stats.ncaa.org/players/9301139
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301142,14,Nkosi Didder,Nkosi,Didder,So.,p,-,,,,,,4,0,https://stats.ncaa.org/players/9301142
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301143,9,Asafa Jones,Asafa,Jones,Fr.,ph,-,,,,,,2,0,https://stats.ncaa.org/players/9301143
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9304097,2,Arjun Huerta,Arjun,Huerta,Sr.,P,6-1,,LEFT,LEFT,"Williamsted, Curaçao",,8,7,https://stats.ncaa.org/players/9304097
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301148,20,Eric Elliott,Eric,Elliott,Jr.,p,6-3,,,,"Bowie, MD",,4,4,https://stats.ncaa.org/players/9301148
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301144,7,Silas Moore,Silas,Moore,Jr.,pr/lf,-,,,,,,5,3,https://stats.ncaa.org/players/9301144
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301146,27,Wilbert Perez,Wilbert,Perez,Jr.,1b,-,,,,,,11,11,https://stats.ncaa.org/players/9301146
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9301147,25,Bryce Benton,Bryce,Benton,Jr.,OF,5-8,,RIGHT,RIGHT,,,2,2,https://stats.ncaa.org/players/9301147
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8882711,23,Hederick Torres,Hederick,Torres,So.,C,6-2,,RIGHT,RIGHT,"Hormigueros, PR",Inter American Univ. of PR,5,4,https://stats.ncaa.org/players/8882711
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8885988,31,Je-andrick Lourens,Je-andrick,Lourens,Sr.,P,5-10,,LEFT,LEFT,"Willemstad, Curaçao",,4,1,https://stats.ncaa.org/players/8885988
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8877758,16,Shemar Harris,Shemar,Harris,So.,INF,6-1,,RIGHT,RIGHT,"Chicago, IL",Thornwood HS,5,2,https://stats.ncaa.org/players/8877758
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8881280,18,Tyshon Patty,Tyshon,Patty,So.,INF,6-0,,RIGHT,RIGHT,"Atlanta, GA",Mountain View HS,9,8,https://stats.ncaa.org/players/8881280
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8880450,4,Jordan McCladdie,Jordan,McCladdie,Sr.,OF,6-0,,LEFT,LEFT,"Augusta, GA",,11,11,https://stats.ncaa.org/players/8880450
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8881684,29,DeVante Wells,DeVante,Wells,So.,C,6-0,,RIGHT,RIGHT,"Pinson, AL",Pinson Valley HS,2,1,https://stats.ncaa.org/players/8881684
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8898498,25,Brandon Haston,Brandon,Haston,Sr.,P,6-0,,LEFT,LEFT,"Dallas, GA",,3,2,https://stats.ncaa.org/players/8898498
 2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8890329,32,Darrell Hardrick Jr.,Darrell,Hardrick Jr.,So.,P,5-6,,RIGHT,RIGHT,"White House, TN",White House HS,0,0,https://stats.ncaa.org/players/8890329
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8896123,1,Joseph Eichelberger,Joseph,Eichelberger,Sr.,OF,5-9,,RIGHT,RIGHT,"Lithonia, GA",,3,3,https://stats.ncaa.org/players/8896123
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8896123,1,Joseph Eichelberger,Joseph,Eichelberger,Sr.,OF,5-9,,RIGHT,RIGHT,"Lithonia, GA",,10,9,https://stats.ncaa.org/players/8896123
 2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8897448,11,Robert Tate Jr.,Robert,Tate Jr.,So.,INF,6-2,,RIGHT,RIGHT,"Chicago, IL",Homewood-Flossmoor HS,1,1,https://stats.ncaa.org/players/8897448
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8891563,30,Miles Thomas,Miles,Thomas,Jr.,UT,6-2,,RIGHT,RIGHT,"Tuscaloosa, AL",Hillcrest HS,2,0,https://stats.ncaa.org/players/8891563
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8894086,28,Erick Gonzalez,Erick,Gonzalez,Sr.,P,5-10,,RIGHT,RIGHT,"Bayamon, PR",Leadership Christian Academy HS,1,1,https://stats.ncaa.org/players/8894086
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8891563,30,Miles Thomas,Miles,Thomas,Jr.,UT,6-2,,RIGHT,RIGHT,"Tuscaloosa, AL",Hillcrest HS,5,1,https://stats.ncaa.org/players/8891563
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8894086,28,Erick Gonzalez,Erick,Gonzalez,Sr.,P,5-10,,RIGHT,RIGHT,"Bayamon, PR",Leadership Christian Academy HS,3,3,https://stats.ncaa.org/players/8894086
 2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8890993,26,Satchel Greene,Satchel,Greene,Jr.,P,6-1,,RIGHT,RIGHT,"Sacramento, CA",Salesian HS,0,0,https://stats.ncaa.org/players/8890993
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8900717,24,Ledy Alvarez,Ledy,Alvarez,Jr.,INF,5-10,,RIGHT,RIGHT,"Guayaquil, Ecuador",Colegio Americano,3,3,https://stats.ncaa.org/players/8900717
-2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9218641,1,Cam'Ron McCoy,Cam'Ron,McCoy,Jr.,P,6-1,,,,"St. Louis, MO",St. Mary's,0,0,https://stats.ncaa.org/players/9218641
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,8900717,24,Ledy Alvarez,Ledy,Alvarez,Jr.,INF,5-10,,RIGHT,RIGHT,"Guayaquil, Ecuador",Colegio Americano,11,11,https://stats.ncaa.org/players/8900717
+2025,2024-25,MBA,1,I,SWAC,314,Jackson St.,9218641,1,Cam'Ron McCoy,Cam'Ron,McCoy,Jr.,P,6-1,,,,"St. Louis, MO",St. Mary's,2,0,https://stats.ncaa.org/players/9218641

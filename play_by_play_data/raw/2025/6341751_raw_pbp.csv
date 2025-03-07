@@ -1,0 +1,76 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,1,top,R. Torres grounded out to 2b.,1,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,1,top,H. Middlebro flied out to cf.,2,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,1,top,J. Daphney hit by pitch.,3,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,1,top,T. Smith grounded out to p.,4,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,1,bot,T. Mason walked.,5,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,1,bot,C. Castillo singled to right field; T. Mason advanced to third.,6,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,1,bot,C. Castillo stole second.,7,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,1,bot,K. Markowitz walked.,8,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,1,bot,"S. Baxter singled up the middle, 2 RBI; K. Markowitz advanced to third; C. Castillo scored; T. Mason scored.",9,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,1,bot,S. Baxter stole second.,10,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,1,bot,"G. Melo singled to left field, advanced to second on an error by lf, RBI; S. Baxter advanced to third; K. Markowitz scored.",11,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,1,bot,M. Moffett hit by pitch.,12,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,1,bot,M. Moffett advanced to second; G. Melo advanced to third; S. Baxter scored on a wild pitch.,13,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,1,bot,"J. Olivo flied out to lf, sacrifice fly, RBI; M. Moffett advanced to third; G. Melo scored, unearned.",14,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,1,bot,"J. Hutchison grounded out to 3b, RBI; M. Moffett scored.",15,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,1,bot,J. Tyree walked.,16,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,1,bot,J. Tyree stole second.,17,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,1,bot,T. Mason struck out swinging.,18,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,2,top,P. Bennett struck out looking.,19,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,2,top,S. Martin singled to second base.,20,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,2,top,S. Martin stole second.,21,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,2,top,S. Granados struck out swinging.,22,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,2,top,S. Martin advanced to third on a wild pitch.,23,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,2,top,R. Turner walked.,24,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,2,top,S. Bivens walked; R. Turner advanced to second.,25,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,2,top,R. Torres popped up to ss.,26,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,2,bot,C. Castillo popped up to 2b.,27,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,2,bot,K. Markowitz walked.,28,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,2,bot,K. Markowitz stole second.,29,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,2,bot,S. Baxter flied out to cf; K. Markowitz advanced to third.,30,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,2,bot,G. Melo struck out swinging.,31,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,3,top,C. Wetmore to p for K. Tischler.,32,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,3,top,H. Middlebro grounded out to ss.,33,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,3,top,J. Daphney flied out to lf.,34,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,3,top,T. Smith out at first 1b to p.,35,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,3,bot,M. Moffett grounded out to ss.,36,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,3,bot,J. Olivo hit by pitch.,37,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,3,bot,E. Little to p for M. Keough.,38,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,3,bot,J. Hutchison singled to left field; J. Olivo advanced to second.,39,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,3,bot,"J. Tyree reached on a fielder's choice, advanced to third on the throw, RBI; J. Hutchison advanced to third, scored on an error by 3b; J. Olivo out at third 3b unassisted.",40,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,3,bot,T. Mason grounded out to 2b.,41,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,4,top,P. Bennett struck out swinging.,42,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,4,top,S. Martin singled to first base.,43,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,4,top,S. Granados flied out to lf.,44,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,4,top,R. Turner flied out to cf.,45,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,4,bot,C. Castillo flied out to lf.,46,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,4,bot,K. Markowitz doubled to right field.,47,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,4,bot,K. Markowitz stole third.,48,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,4,bot,"S. Baxter singled through the left side, RBI; K. Markowitz scored.",49,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,4,bot,"G. Melo reached on a fielder's choice, advanced to second on a throwing error by 2b; S. Baxter out at second 3b to 2b.",50,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,4,bot,"M. Moffett doubled to left center, RBI; G. Melo scored.",51,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,4,bot,J. Olivo flied out to cf.,52,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,5,top,N. Lowery to p for C. Wetmore.,53,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,5,top,S. Bivens struck out swinging.,54,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,5,top,R. Torres fouled out to lf.,55,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,5,top,H. Middlebro grounded out to 3b.,56,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,5,bot,J. Hutchison flied out to rf.,57,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,5,bot,J. Tyree flied out to rf.,58,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,5,bot,T. Mason grounded out to 3b.,59,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,6,top,S. Ritchie to p for N. Lowery.,60,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,6,top,J. Daphney flied out to cf.,61,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,6,top,T. Smith grounded out to 3b.,62,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,6,top,P. Bennett popped up to ss.,63,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,6,bot,C. Castillo singled to third base.,64,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,6,bot,K. Markowitz struck out swinging.,65,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,6,bot,"S. Baxter doubled to right center, RBI; C. Castillo scored.",66,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,6,bot,G. Melo grounded out to ss; S. Baxter advanced to third.,67,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597279,6,bot,M. Moffett flied out to cf.,68,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,7,top,S. Keyser to p for S. Ritchie.,69,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,7,top,S. Martin grounded out to ss.,70,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,7,top,J. Nawrocki pinch hit for S. Granados.,71,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,7,top,J. Nawrocki grounded out to ss.,72,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,7,top,T. Scott pinch hit for R. Turner.,73,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,7,top,T. Scott doubled to right center.,74,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025
+6341751,597341,Wilson Phoenix,597279,Ferrum Panthers,597341,7,top,S. Bivens struck out looking.,75,2025-03-06T00:00:00-05:00,"Panther Field (Ferrum, VA)",45,MBA,2025

@@ -1,0 +1,107 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,1,top,C. Mills fouled out to 1b.,1,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,1,top,D. Silva struck out swinging.,2,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,1,top,T. Callahan singled.,3,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,1,top,C. Freitas struck out looking.,4,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,1,bot,M. Jimenez walked.,5,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,1,bot,B. Burris reached on a fielder's choice3a M. Jimenez out at second ss to 2b.,6,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,1,bot,J. Gouveia struck out looking.,7,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,1,bot,B. Gaer flied out to rf.,8,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,2,top,P. Clare doubled.,9,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,2,top,S. Lyon struck out swinging.,10,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,2,top,P. Clare advanced to third on a passed ball.,11,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,2,top,"J. Whitby popped up to 1b, RBI3a P. Clare scored, unearned.",12,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,2,top,B. Long struck out swinging.,13,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,2,bot,E. Miles struck out swinging.,14,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,2,bot,"N. Farnacci struck out swinging, out at first c to 1b.",15,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,2,bot,"R. Slack struck out looking, out at first c to 1b.",16,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,3,top,C. Bulk singled.,17,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,3,top,C. Bulk advanced to second on an error by ss.,18,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,3,top,C. Bulk advanced to third on an error by 1b.,19,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,3,top,"C. Mills flied out to cf, sacrifice fly, RBI3a C. Bulk scored, unearned.",20,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,3,top,D. Silva singled.,21,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,3,top,T. Callahan singled3a D. Silva advanced to second.,22,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,3,top,C. Freitas singled3a T. Callahan advanced to second3a D. Silva advanced to third.,23,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,3,top,P. Clare popped up to ss.,24,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,3,top,"S. Lyon hit by pitch, RBI3a C. Freitas advanced to second3a T. Callahan advanced to third3a D. Silva scored.",25,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,3,top,J. Whitby popped up to ss.,26,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,3,bot,M. Meagher hit by pitch.,27,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,3,bot,"R. Williams tripled, RBI3a M. Meagher scored.",28,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,3,bot,M. Jimenez hit by pitch.,29,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,3,bot,M. Jimenez stole second.,30,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,3,bot,"B. Burris grounded out to 2b, RBI3a M. Jimenez advanced to third3a R. Williams scored.",31,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,3,bot,J. Gouveia walked.,32,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,3,bot,J. Gouveia stole second3a M. Jimenez scored.,33,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,3,bot,J. Gouveia advanced to third on an error by ss.,34,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,3,bot,"B. Gaer reached first on an error by ss, RBI3a J. Gouveia scored, unearned.",35,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,3,bot,E. Miles flied out to cf.,36,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,3,bot,"N. Farnacci reached on a fielder's choice, out at second 2b to 1b.",37,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,4,top,J. Pagano to p for D. Ritter.,38,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,4,top,B. Long grounded out to ss.,39,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,4,top,C. Bulk walked.,40,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,4,top,C. Mills walked3a C. Bulk advanced to second.,41,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,4,top,D. Silva flied out to cf3a C. Bulk advanced to third.,42,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,4,top,"T. Callahan singled, RBI3a C. Mills advanced to second, out at third rf to 3b3a C. Bulk scored.",43,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,4,bot,D. Lallo to p for J. Blackwood.,44,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,4,bot,"R. Slack struck out swinging, out at first c to 1b.",45,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,4,bot,M. Meagher grounded out to 3b.,46,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,4,bot,R. Williams struck out swinging.,47,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,5,top,"C. Freitas singled, out at second lf to 2b.",48,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,5,top,P. Clare singled.,49,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,5,top,S. Lyon reached on a fielder's choice to first base3a P. Clare out at second ss to 2b.,50,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,5,top,J. Whitby walked3a S. Lyon advanced to second.,51,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,5,top,B. Long hit by pitch3a J. Whitby advanced to second3a S. Lyon advanced to third.,52,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,5,top,C. Bulk struck out swinging.,53,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,5,bot,T. Lohsen to p for D. Lallo.,54,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,5,bot,M. Jimenez hit by pitch.,55,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,5,bot,B. Burris hit by pitch3a M. Jimenez advanced to second.,56,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,5,bot,J. Gouveia singled3a B. Burris advanced to second3a M. Jimenez advanced to third.,57,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,5,bot,"B. Gaer singled, 2 RBI3a J. Gouveia advanced to second3a B. Burris scored3a M. Jimenez scored.",58,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,5,bot,E. Miles struck out looking.,59,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,5,bot,"N. Farnacci singled, RBI3a B. Gaer advanced to second3a J. Gouveia scored.",60,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,5,bot,J. Lafleur pinch hit for R. Slack.,61,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,5,bot,J. Lafleur struck out looking.,62,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,5,bot,M. Meagher struck out looking.,63,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,6,top,B. Burris to 3b.,64,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,6,top,J. Lafleur to 1b.,65,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,6,top,J. Silverste to p for J. Pagano.,66,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,6,top,C. Mills struck out swinging.,67,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,6,top,D. Silva singled.,68,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,6,top,T. Callahan flied out to lf.,69,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,6,top,D. Silva advanced to second on a passed ball.,70,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,6,top,C. Freitas walked.,71,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,6,top,D. Silva stole third.,72,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,6,top,P. Clare flied out to cf.,73,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,6,bot,O. Caldwell to p for T. Lohsen.,74,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,6,bot,R. Williams singled.,75,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,6,bot,M. Jimenez struck out swinging.,76,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,6,bot,B. Burris singled3a R. Williams advanced to third.,77,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,6,bot,"B. Burris stole second3a R. Williams out at home ss to c, caught stealing.",78,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,6,bot,J. Gouveia struck out swinging.,79,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,7,top,S. Lyon struck out swinging.,80,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,7,top,J. Whitby popped up to ss.,81,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,7,top,B. Long flied out to lf.,82,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,7,bot,Z. Simone to p for O. Caldwell.,83,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,7,bot,B. Gaer grounded out to ss.,84,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,7,bot,E. Miles doubled.,85,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,7,bot,"N. Farnacci singled, RBI3a E. Miles scored.",86,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,7,bot,"N. Farnacci out at second c to 2b, caught stealing.",87,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,7,bot,J. Lafleur struck out looking.,88,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,8,top,H. Ward to p for J. Silverste.,89,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,8,top,C. Bulk singled.,90,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,8,top,C. Mills grounded into double play ss to 2b to 1b3a C. Bulk out on the play.,91,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,8,top,D. Silva singled.,92,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,8,top,T. Callahan flied out to cf.,93,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,8,bot,A. Marsh to p for Z. Simone.,94,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,8,bot,M. Meagher doubled.,95,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,8,bot,"R. Williams singled, RBI3a M. Meagher scored.",96,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,8,bot,L. Deschenea to p for A. Marsh.,97,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,8,bot,M. Jimenez flied out to rf.,98,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,8,bot,B. Burris grounded out to 2b3a R. Williams advanced to second.,99,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,8,bot,"J. Gouveia singled, RBI3a R. Williams scored.",100,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,8,bot,J. Gouveia stole second.,101,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597331,8,bot,"B. Gaer struck out swinging, out at first c to 1b.",102,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,9,top,C. Freitas fouled out to 1b.,103,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,9,top,P. Clare doubled.,104,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,9,top,S. Lyon struck out swinging.,105,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025
+6341852,597149,Lasell Lasers,597331,UMass Boston Beacons,597149,9,top,J. Whitby struck out swinging.,106,2025-03-05T00:00:00-05:00,"Monan Park (Boston, MA)",141,MBA,2025

@@ -1,49 +1,52 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9299942,23,W. Alva,W.,Alva,---,2b,-,,,,,,2,1,https://stats.ncaa.org/players/9299942
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9299947,45,J. Wandell,J.,Wandell,---,p,-,,,,,,1,0,https://stats.ncaa.org/players/9299947
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9300233,11,Christian Lucadamo,Christian,Lucadamo,Jr.,OF,5-8,,RIGHT,RIGHT,"Monroe Township, NJ",Monroe Township,1,0,https://stats.ncaa.org/players/9300233
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9300234,41,C. Massella,C.,Massella,---,pr,-,,,,,,1,0,https://stats.ncaa.org/players/9300234
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9300296,10,Liam Progulske,Liam,Progulske,Jr.,C,6-0,,,,"Fort Pierce, FL",John Carroll Catholic,1,0,https://stats.ncaa.org/players/9300296
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9300235,31,J. Murray,J.,Murray,---,p,-,,,,,,1,0,https://stats.ncaa.org/players/9300235
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9300228,46,J. Folmar,J.,Folmar,---,pr,-,,,,,,1,0,https://stats.ncaa.org/players/9300228
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9300227,34,Anthony Farmakides,Anthony,Farmakides,Sr.,1B,5-10,,RIGHT,RIGHT,"Falls Church, VA",McLean,1,0,https://stats.ncaa.org/players/9300227
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9300226,47,J. Bourdeau,J.,Bourdeau,---,p,-,,,,,,1,0,https://stats.ncaa.org/players/9300226
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9300236,5,T. Woodring,T.,Woodring,---,pr,-,,,,,,1,0,https://stats.ncaa.org/players/9300236
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9299945,32,Jack McCarthy,Jack,McCarthy,Fr.,C,6-2,,RIGHT,RIGHT,"Burke, VA",,3,2,https://stats.ncaa.org/players/9299945
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9299943,42,J. Carb,J.,Carb,---,2b,-,,,,,,3,1,https://stats.ncaa.org/players/9299943
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9299944,20,Jordan Dickson,Jordan,Dickson,Sr.,UT,5-11,,LEFT,LEFT,"Moseley, VA",Cosby,3,3,https://stats.ncaa.org/players/9299944
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9299946,34,S. Sadler,S.,Sadler,---,3b,-,,,,,,2,0,https://stats.ncaa.org/players/9299946
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9304628,48,B. Zippel,B.,Zippel,---,p,-,,,,,,2,0,https://stats.ncaa.org/players/9304628
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9304627,16,Yanyida Zhang,Yanyida,Zhang,Sr.,P,6-2,,RIGHT,RIGHT,"Beijing, China",,1,0,https://stats.ncaa.org/players/9304627
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9299942,23,W. Alva,W.,Alva,---,2b,-,,,,,,4,2,https://stats.ncaa.org/players/9299942
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9299947,45,J. Wandell,J.,Wandell,---,p,-,,,,,,3,1,https://stats.ncaa.org/players/9299947
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9307256,25,G. Jones,G.,Jones,---,p,-,,,,,,1,0,https://stats.ncaa.org/players/9307256
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9300233,11,Christian Lucadamo,Christian,Lucadamo,Jr.,OF,5-8,,RIGHT,RIGHT,"Monroe Township, NJ",Monroe Township,2,0,https://stats.ncaa.org/players/9300233
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9300234,41,C. Massella,C.,Massella,---,pr,-,,,,,,2,0,https://stats.ncaa.org/players/9300234
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9300296,10,Liam Progulske,Liam,Progulske,Jr.,C,6-0,,,,"Fort Pierce, FL",John Carroll Catholic,3,0,https://stats.ncaa.org/players/9300296
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9300235,31,J. Murray,J.,Murray,---,p,-,,,,,,3,0,https://stats.ncaa.org/players/9300235
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9300228,46,J. Folmar,J.,Folmar,---,pr,-,,,,,,4,0,https://stats.ncaa.org/players/9300228
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9300227,34,Anthony Farmakides,Anthony,Farmakides,Sr.,1B,5-10,,RIGHT,RIGHT,"Falls Church, VA",McLean,4,0,https://stats.ncaa.org/players/9300227
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9300226,47,J. Bourdeau,J.,Bourdeau,---,p,-,,,,,,3,0,https://stats.ncaa.org/players/9300226
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9300236,5,T. Woodring,T.,Woodring,---,pr,-,,,,,,4,0,https://stats.ncaa.org/players/9300236
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9299945,32,Jack McCarthy,Jack,McCarthy,Fr.,C,6-2,,RIGHT,RIGHT,"Burke, VA",,6,5,https://stats.ncaa.org/players/9299945
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9299943,42,J. Carb,J.,Carb,---,2b,-,,,,,,7,3,https://stats.ncaa.org/players/9299943
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9299944,20,Jordan Dickson,Jordan,Dickson,Sr.,UT,5-11,,LEFT,LEFT,"Moseley, VA",Cosby,10,10,https://stats.ncaa.org/players/9299944
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),9299946,34,S. Sadler,S.,Sadler,---,3b,-,,,,,,6,2,https://stats.ncaa.org/players/9299946
 2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8890086,1,Jay Stiff,Jay,Stiff,Jr.,UT,6-1,,RIGHT,RIGHT,"Midlothian, VA",Clover Hill,0,0,https://stats.ncaa.org/players/8890086
 2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8876855,14,Gabriel Sebastino,Gabriel,Sebastino,Sr.,INF,6-0,,RIGHT,RIGHT,"Daleville, VA",James River,0,0,https://stats.ncaa.org/players/8876855
 2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8888026,10,Ben Riddick,Ben,Riddick,Sr.,UT,6-0,,RIGHT,RIGHT,"Manassas, VA",Osbourne Park,0,0,https://stats.ncaa.org/players/8888026
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8881994,21,Bobby Leitzel,Bobby,Leitzel,Sr.,INF,6-0,,LEFT,RIGHT,"Burke, VA",Lake Braddock,3,3,https://stats.ncaa.org/players/8881994
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8878031,50,Francis Swekosky,Francis,Swekosky,So.,UT,6-3,,RIGHT,RIGHT,"Haymarket, VA",Battlefield,0,0,https://stats.ncaa.org/players/8878031
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8881994,21,Bobby Leitzel,Bobby,Leitzel,Sr.,INF,6-0,,LEFT,RIGHT,"Burke, VA",Lake Braddock,10,10,https://stats.ncaa.org/players/8881994
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8878031,50,Francis Swekosky,Francis,Swekosky,So.,UT,6-3,,RIGHT,RIGHT,"Haymarket, VA",Battlefield,2,0,https://stats.ncaa.org/players/8878031
 2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8880074,17,Nick Trapanese,Nick,Trapanese,Jr.,UT,5-10,,RIGHT,RIGHT,"Kinnelon, NJ",Kinnelon,0,0,https://stats.ncaa.org/players/8880074
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8888230,18,Owen Mead,Owen,Mead,Jr.,P,6-0,,RIGHT,RIGHT,"Vienna, VA",St. Paul VI Catholic,0,0,https://stats.ncaa.org/players/8888230
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8883186,4,Andrew Schaeb,Andrew,Schaeb,Sr.,UT,6-1,,RIGHT,LEFT,"Burke, VA",Lake Braddock,3,3,https://stats.ncaa.org/players/8883186
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8884263,48,Gray Ellenburg,Gray,Ellenburg,So.,UT,5-8,,RIGHT,RIGHT,"Colonial Heights, VA",Colonial Heights,1,0,https://stats.ncaa.org/players/8884263
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8877283,38,Kevin Knoess,Kevin,Knoess,Sr.,OF,5-10,,RIGHT,RIGHT,"Miami, FL",Miami Killian Senior,3,3,https://stats.ncaa.org/players/8877283
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8881461,56,Ben Smallwood,Ben,Smallwood,So.,P,6-0,,RIGHT,RIGHT,"Fairfax, VA",Woodson,0,0,https://stats.ncaa.org/players/8881461
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8876350,13,Ryan Cuadros,Ryan,Cuadros,Jr.,UT,5-11,,RIGHT,RIGHT,"Springfield, VA",Lake Braddock,3,3,https://stats.ncaa.org/players/8876350
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8888230,18,Owen Mead,Owen,Mead,Jr.,P,6-0,,RIGHT,RIGHT,"Vienna, VA",St. Paul VI Catholic,2,0,https://stats.ncaa.org/players/8888230
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8883186,4,Andrew Schaeb,Andrew,Schaeb,Sr.,UT,6-1,,RIGHT,LEFT,"Burke, VA",Lake Braddock,10,10,https://stats.ncaa.org/players/8883186
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8884263,48,Gray Ellenburg,Gray,Ellenburg,So.,UT,5-8,,RIGHT,RIGHT,"Colonial Heights, VA",Colonial Heights,4,3,https://stats.ncaa.org/players/8884263
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8877283,38,Kevin Knoess,Kevin,Knoess,Sr.,OF,5-10,,RIGHT,RIGHT,"Miami, FL",Miami Killian Senior,6,6,https://stats.ncaa.org/players/8877283
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8881461,56,Ben Smallwood,Ben,Smallwood,So.,P,6-0,,RIGHT,RIGHT,"Fairfax, VA",Woodson,1,0,https://stats.ncaa.org/players/8881461
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8876350,13,Ryan Cuadros,Ryan,Cuadros,Jr.,UT,5-11,,RIGHT,RIGHT,"Springfield, VA",Lake Braddock,10,10,https://stats.ncaa.org/players/8876350
 2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8879400,44,Joshua Oakland,Joshua,Oakland,Sr.,P,6-3,,RIGHT,RIGHT,"Stafford, VA",Colonial Forge,0,0,https://stats.ncaa.org/players/8879400
 2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8880468,46,Kaleikaumaka Grebin,Kaleikaumaka,Grebin,Sr.,C,5-10,,RIGHT,RIGHT,"Woodbridge, VA",Potomac Senior,0,0,https://stats.ncaa.org/players/8880468
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8887582,47,Jack Kern,Jack,Kern,Jr.,INF,5-9,,RIGHT,RIGHT,"Monmouth Beach, NJ",Saint Joseph,1,1,https://stats.ncaa.org/players/8887582
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8888656,35,Parker Casselberry,Parker,Casselberry,Sr.,P,6-2,,RIGHT,RIGHT,"Jenks, OK",Jenks,1,1,https://stats.ncaa.org/players/8888656
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8879530,8,David Muirhead,David,Muirhead,Sr.,P,5-11,,RIGHT,RIGHT,"Manassas, VA",Osbourn Park,1,1,https://stats.ncaa.org/players/8879530
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8897200,34,Ryan Mariani,Ryan,Mariani,Sr.,P,5-10,,RIGHT,RIGHT,"Rockville, MD",Thomas S. Wootton,1,0,https://stats.ncaa.org/players/8897200
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8894867,11,Quincy Via,Quincy,Via,Jr.,OF,6-3,,RIGHT,RIGHT,"Springfield, VA",Lake Braddock,3,3,https://stats.ncaa.org/players/8894867
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8887582,47,Jack Kern,Jack,Kern,Jr.,INF,5-9,,RIGHT,RIGHT,"Monmouth Beach, NJ",Saint Joseph,3,2,https://stats.ncaa.org/players/8887582
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8888656,35,Parker Casselberry,Parker,Casselberry,Sr.,P,6-2,,RIGHT,RIGHT,"Jenks, OK",Jenks,3,3,https://stats.ncaa.org/players/8888656
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8879530,8,David Muirhead,David,Muirhead,Sr.,P,5-11,,RIGHT,RIGHT,"Manassas, VA",Osbourn Park,3,3,https://stats.ncaa.org/players/8879530
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8897200,34,Ryan Mariani,Ryan,Mariani,Sr.,P,5-10,,RIGHT,RIGHT,"Rockville, MD",Thomas S. Wootton,3,1,https://stats.ncaa.org/players/8897200
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8894867,11,Quincy Via,Quincy,Via,Jr.,OF,6-3,,RIGHT,RIGHT,"Springfield, VA",Lake Braddock,10,10,https://stats.ncaa.org/players/8894867
 2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8894936,37,Cole Shabosky,Cole,Shabosky,So.,UT,5-7,,LEFT,RIGHT,"Concord, NC",Bradford Prepatory,0,0,https://stats.ncaa.org/players/8894936
 2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8898299,22,Trevor George,Trevor,George,Jr.,INF,5-8,,RIGHT,RIGHT,"Laurel, DE",Glenelg,0,0,https://stats.ncaa.org/players/8898299
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8894282,9,Michael Arce,Michael,Arce,Jr.,P,6-2,,RIGHT,RIGHT,"Stafford, VA",Mountain View,1,1,https://stats.ncaa.org/players/8894282
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8894282,9,Michael Arce,Michael,Arce,Jr.,P,6-2,,RIGHT,RIGHT,"Stafford, VA",Mountain View,4,2,https://stats.ncaa.org/players/8894282
 2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8895122,16,Dylan Heil,Dylan,Heil,Sr.,P,6-2,,RIGHT,RIGHT,"Manassas, VA",Potomac,0,0,https://stats.ncaa.org/players/8895122
 2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8895148,53,Sam Tisler,Sam,Tisler,So.,P,6-0,,RIGHT,RIGHT,"Fairfax, VA",James W. Robinson,0,0,https://stats.ncaa.org/players/8895148
 2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8897701,26,Kyle Smith,Kyle,Smith,Jr.,P,6-0,,RIGHT,LEFT,"Springfield, VA",West Springfield,0,0,https://stats.ncaa.org/players/8897701
 2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8895325,41,Matt Jones,Matt,Jones,Jr.,P,6-2,,RIGHT,RIGHT,"Arlington, VA",South County,0,0,https://stats.ncaa.org/players/8895325
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8896627,6,Evan Schick,Evan,Schick,So.,INF,5-10,,RIGHT,RIGHT,"Burke, VA",Lake Braddock,0,0,https://stats.ncaa.org/players/8896627
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8896638,2,Daniel Fernandez,Daniel,Fernandez,Sr.,INF,5-9,,RIGHT,RIGHT,"Manassas, VA",Osbourn Park,2,0,https://stats.ncaa.org/players/8896638
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8900243,45,Jonathan McMath,Jonathan,McMath,Sr.,UT,6-3,,LEFT,LEFT,"Brooksville, FL",Nature Coast Technical,3,3,https://stats.ncaa.org/players/8900243
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8896627,6,Evan Schick,Evan,Schick,So.,INF,5-10,,RIGHT,RIGHT,"Burke, VA",Lake Braddock,2,0,https://stats.ncaa.org/players/8896627
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8896638,2,Daniel Fernandez,Daniel,Fernandez,Sr.,INF,5-9,,RIGHT,RIGHT,"Manassas, VA",Osbourn Park,5,1,https://stats.ncaa.org/players/8896638
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8900243,45,Jonathan McMath,Jonathan,McMath,Sr.,UT,6-3,,LEFT,LEFT,"Brooksville, FL",Nature Coast Technical,10,10,https://stats.ncaa.org/players/8900243
 2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8899083,51,Sean Quinn,Sean,Quinn,So.,P,6-1,,RIGHT,RIGHT,"Springfield, VA",Bishop Ireton,0,0,https://stats.ncaa.org/players/8899083
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8901884,52,Joseph Kramp,Joseph,Kramp,Sr.,C,6-2,,RIGHT,RIGHT,"Fairfax, VA",Chantilly,1,1,https://stats.ncaa.org/players/8901884
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8901063,30,Colby Cunningham,Colby,Cunningham,Jr.,OF,6-2,,RIGHT,RIGHT,"Martinsville, VA",Carlisle,2,0,https://stats.ncaa.org/players/8901063
-2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8899846,29,Ryan Wright,Ryan,Wright,Sr.,OF,5-8,,RIGHT,RIGHT,"Lutherville, MD",Loyola Blakefield,1,0,https://stats.ncaa.org/players/8899846
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8901884,52,Joseph Kramp,Joseph,Kramp,Sr.,C,6-2,,RIGHT,RIGHT,"Fairfax, VA",Chantilly,3,3,https://stats.ncaa.org/players/8901884
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8901063,30,Colby Cunningham,Colby,Cunningham,Jr.,OF,6-2,,RIGHT,RIGHT,"Martinsville, VA",Carlisle,3,0,https://stats.ncaa.org/players/8901063
+2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8899846,29,Ryan Wright,Ryan,Wright,Sr.,OF,5-8,,RIGHT,RIGHT,"Lutherville, MD",Loyola Blakefield,5,3,https://stats.ncaa.org/players/8899846
 2025,2024-25,MBA,3,III,Atlantic East,394,Marymount (VA),8902541,24,Thomas Orihuela,Thomas,Orihuela,Jr.,C,5-10,,RIGHT,RIGHT,"Weston, FL",Archbishop Mccarthy,0,0,https://stats.ncaa.org/players/8902541

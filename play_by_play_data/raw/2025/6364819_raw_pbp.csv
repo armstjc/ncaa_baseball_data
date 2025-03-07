@@ -1,0 +1,141 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,1,top,T. Schoenfel walked.,1,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,1,top,T. Schoenfel advanced to second on an error by p.,2,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,1,top,M. Pino walked.,3,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,1,top,"C. McCarthy doubled, RBI3a M. Pino advanced to third3a T. Schoenfel scored, unearned.",4,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,1,top,M. Soqui struck out swinging.,5,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,1,top,"Z. Moore singled, 2 RBI3a C. McCarthy scored3a M. Pino scored.",6,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,1,top,Z. Moore stole second.,7,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,1,top,Z. Moore advanced to third on an error by p.,8,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,1,top,T. Godfrey struck out looking.,9,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,1,top,J. Dwyer flied out to rf.,10,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,1,bot,R. Tubbs to ss for M. Pino.,11,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,1,bot,M. Jimenez grounded out to 2b.,12,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,1,bot,B. Burris grounded out to 2b.,13,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,1,bot,J. Gouveia walked.,14,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,1,bot,J. Gouveia advanced to second on a wild pitch.,15,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,1,bot,B. Gaer grounded out to ss.,16,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,2,top,"E. Moore struck out looking, out at first c to 1b.",17,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,2,top,O. Malone grounded out to ss.,18,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,2,top,T. Schoenfel singled.,19,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,2,top,T. Schoenfel stole second.,20,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,2,top,R. Tubbs walked.,21,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,2,top,C. McCarthy reached on a fielder's choice3a R. Tubbs out at second ss unassisted.,22,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,2,bot,J. Levine singled.,23,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,2,bot,E. Miles singled3a J. Levine advanced to second.,24,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,2,bot,"N. Farnacci grounded out to p, SAC3a E. Miles advanced to second3a J. Levine advanced to third.",25,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,2,bot,"M. Meagher tripled, 2 RBI3a E. Miles scored3a J. Levine scored.",26,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,2,bot,B. Parker walked.,27,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,2,bot,B. Parker stole second.,28,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,2,bot,M. Jimenez walked.,29,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,2,bot,B. Burris struck out swinging.,30,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,2,bot,J. Gouveia popped up to 1b.,31,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,3,top,"M. Soqui struck out swinging, out at first c to 1b.",32,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,3,top,Z. Moore flied out to rf.,33,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,3,top,T. Godfrey hit by pitch.,34,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,3,top,J. Dwyer singled3a T. Godfrey advanced to second.,35,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,3,top,E. Moore grounded out to 3b.,36,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,3,bot,J. Moore to p for C. Foster.,37,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,3,bot,B. Gaer singled.,38,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,3,bot,J. Levine hit by pitch3a B. Gaer advanced to second.,39,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,3,bot,J. Levine advanced to second on a wild pitch3a B. Gaer advanced to third.,40,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,3,bot,E. Miles struck out swinging.,41,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,3,bot,B. Gaer scored on a passed ball.,42,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,3,bot,J. Levine advanced to third.,43,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,3,bot,N. Farnacci walked.,44,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,3,bot,N. Farnacci stole second.,45,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,3,bot,"M. Meagher doubled, 2 RBI3a N. Farnacci scored3a J. Levine scored.",46,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,3,bot,B. Parker flied out to rf3a M. Meagher advanced to third.,47,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,3,bot,M. Jimenez popped up to 1b.,48,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,4,top,O. Malone struck out looking.,49,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,4,top,T. Schoenfel fouled out to 3b.,50,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,4,top,R. Tubbs singled.,51,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,4,top,R. Tubbs advanced to second on an error by p.,52,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,4,top,R. Tubbs advanced to third on an error by p.,53,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,4,top,C. McCarthy struck out swinging.,54,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,4,bot,B. Burris grounded out to ss.,55,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,4,bot,J. Gouveia doubled.,56,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,4,bot,"B. Gaer doubled, RBI3a J. Gouveia scored.",57,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,4,bot,J. Levine struck out swinging.,58,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,4,bot,E. Miles fouled out to 1b.,59,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,5,top,C. Curtis to p for R. Dexter.,60,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,5,top,M. Soqui flied out to rf.,61,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,5,top,"Z. Moore struck out swinging, grounded out to c unassisted.",62,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,5,top,T. Godfrey struck out swinging.,63,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,5,bot,J. Finnegan to p for J. Moore.,64,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,5,bot,N. Farnacci singled.,65,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,5,bot,M. Meagher doubled3a N. Farnacci advanced to third.,66,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,5,bot,B. Parker hit by pitch.,67,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,5,bot,"M. Jimenez hit by pitch, RBI3a B. Parker advanced to second3a M. Meagher advanced to third3a N. Farnacci scored.",68,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,5,bot,B. Burris struck out looking.,69,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,5,bot,"J. Gouveia singled, 2 RBI3a M. Jimenez advanced to third3a B. Parker scored3a M. Meagher scored.",70,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,5,bot,A. Gundaria to p for J. Finnegan.,71,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,5,bot,J. Gouveia stole second.,72,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,5,bot,"B. Gaer singled, 2 RBI3a J. Gouveia scored3a M. Jimenez scored.",73,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,5,bot,J. Levine popped up to 2b.,74,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,5,bot,E. Miles struck out looking.,75,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,6,top,J. Dwyer doubled.,76,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,6,top,J. Dwyer advanced to third on a wild pitch.,77,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,6,top,E. Moore walked.,78,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,6,top,"O. Malone flied out to rf, SAC, RBI3a J. Dwyer scored.",79,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,6,top,T. Schoenfel flied out to rf.,80,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,6,top,R. Tubbs singled3a E. Moore advanced to second.,81,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,6,top,C. McCarthy popped up to 1b.,82,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,6,bot,L. Hernandez to 1b for T. Godfrey.,83,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,6,bot,J. Spivey to lf for C. McCarthy.,84,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,6,bot,N. Farnacci singled.,85,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,6,bot,N. Farnacci stole second.,86,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,6,bot,N. Farnacci stole third.,87,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,6,bot,"M. Meagher grounded out to 2b, RBI3a N. Farnacci scored.",88,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,6,bot,B. Parker struck out swinging.,89,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,6,bot,M. Jimenez struck out swinging.,90,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,7,top,R. Hjort to p for C. Curtis.,91,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,7,top,M. Soqui walked.,92,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,7,top,B. Billingsl pinch ran for M. Soqui.,93,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,7,top,Z. Moore reached on a fielder's choice3a B. Billingsl out at second ss to 2b.,94,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,7,top,Z. Moore advanced to second on a passed ball.,95,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,7,top,L. Hernandez struck out looking.,96,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,7,top,"J. Dwyer singled, RBI3a Z. Moore scored.",97,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,7,top,"E. Moore reached on a fielder's choice, out at second ss to 2b.",98,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,7,bot,T. Phoenix to p for A. Gundaria.,99,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,7,bot,B. Burris walked.,100,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,7,bot,J. Gouveia flied out to cf.,101,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,7,bot,B. Gaer walked3a B. Burris advanced to second.,102,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,7,bot,J. Lafleur pinch hit for J. Levine.,103,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,7,bot,J. Lafleur walked3a B. Gaer advanced to second3a B. Burris advanced to third.,104,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,7,bot,J. Lafleur advanced to second on a passed ball3a B. Gaer advanced to third on a passed ball3a B. Burris scored on a passed ball.,105,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,7,bot,E. Miles walked.,106,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,7,bot,"N. Farnacci walked, RBI3a E. Miles advanced to second3a J. Lafleur advanced to third3a B. Gaer scored.",107,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,7,bot,R. Williams pinch hit for M. Meagher.,108,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,7,bot,P. Hood to p for T. Phoenix.,109,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,7,bot,"R. Williams reached on a fielder's choice, RBI3a N. Farnacci advanced to second3a E. Miles out at third 3b unassisted3a J. Lafleur scored.",110,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,7,bot,"B. Parker singled, RBI3a R. Williams scored3a N. Farnacci scored.",111,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,7,bot,R. Burkett-S pinch hit for M. Jimenez.,112,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,7,bot,R. Burkett-S struck out looking.,113,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,8,top,C. Bissaillo pinch hit for R. Williams.,114,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,8,top,E. Nowak to p for R. Hjort.,115,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,8,top,R. Burkett-S to lf.,116,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,8,top,C. Bissaillo to c.,117,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,8,top,J. Lafleur to 1b.,118,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,8,top,J. Severson pinch hit for O. Malone.,119,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,8,top,J. Severson hit by pitch.,120,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,8,top,T. Schoenfel walked3a J. Severson advanced to second.,121,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,8,top,R. Tubbs grounded into double play 3b to 2b to 1b3a T. Schoenfel out on the play3a J. Severson advanced to third.,122,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,8,top,J. Spivey struck out swinging.,123,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,8,bot,J. Severson to 3b.,124,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,8,bot,R. Slack pinch hit for B. Burris.,125,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,8,bot,R. Slack flied out to cf.,126,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,8,bot,N. Piscionie pinch hit for J. Gouveia.,127,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,8,bot,"N. Piscionie struck out swinging, grounded out to c unassisted.",128,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,8,bot,C. Seeley pinch hit for B. Gaer.,129,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597331,8,bot,C. Seeley struck out swinging.,130,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,9,top,R. Slack to 3b.,131,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,9,top,N. Piscionie to rf.,132,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,9,top,A. Centrone to p for E. Nowak.,133,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,9,top,B. Billingsl struck out looking.,134,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,9,top,Z. Moore walked.,135,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,9,top,Z. Moore advanced to second on a passed ball.,136,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,9,top,L. Hernandez struck out swinging.,137,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,9,top,H. Lee pinch hit for J. Dwyer.,138,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,9,top,"H. Lee singled, RBI3a Z. Moore scored.",139,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025
+6364819,597329,MIT Engineers,597331,UMass Boston Beacons,597329,9,top,E. Moore flied out to lf.,140,2025-03-04T00:00:00-05:00,"Monan Park (Boston, MA)",108,MBA,2025

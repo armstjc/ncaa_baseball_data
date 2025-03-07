@@ -1,32 +1,39 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301189,0,Brayden Johnson,Brayden,Johnson,Sr.,OF,5-10,,RIGHT,RIGHT,"Hallsville, TX",,2,2,https://stats.ncaa.org/players/9301189
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301188,5,Mason Heiskell,Mason,Heiskell,Sr.,C,5-9,,RIGHT,RIGHT,"Fort Worth, TX",The Oakridge School,2,2,https://stats.ncaa.org/players/9301188
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301192,47,Seve Medrano,Seve,Medrano,Sr.,p,-,,,,,,1,0,https://stats.ncaa.org/players/9301192
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301196,29,B. Beaty,B.,Beaty,Jr.,p,-,,,,,,1,1,https://stats.ncaa.org/players/9301196
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301197,16,Paxton Huff,Paxton,Huff,So.,OF,-,,,,,,1,0,https://stats.ncaa.org/players/9301197
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301200,20,Corie Lockette,Corie,Lockette,Sr.,INF,6-1,,LEFT,RIGHT,"N Richland Hills, TX",Birdville HS,1,0,https://stats.ncaa.org/players/9301200
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301193,16,Sonnier Moses,Sonnier,Moses,Fr.,2b,-,,,,,,2,2,https://stats.ncaa.org/players/9301193
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301194,9,Jeffrey Polledo,Jeffrey,Polledo,Jr.,p,-,,,,,,1,0,https://stats.ncaa.org/players/9301194
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301187,10,Ahmar Donatto,Ahmar,Donatto,Fr.,UT,5-9,,RIGHT,RIGHT,"Humble, TX",Summer Creek HS,2,2,https://stats.ncaa.org/players/9301187
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301190,30,Mac Bowie,Mac,Bowie,Fr.,1b,-,,,,,,2,1,https://stats.ncaa.org/players/9301190
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301191,19,Landyn Grant,Landyn,Grant,So.,p,-,,,,,,1,1,https://stats.ncaa.org/players/9301191
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301195,23,Landon Williams,Landon,Williams,So.,3b,-,,,,,,2,2,https://stats.ncaa.org/players/9301195
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301199,38,C. Moore,C.,Moore,Fr.,2b,-,,,,,,1,0,https://stats.ncaa.org/players/9301199
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8879835,11,Trenton Bush,Trenton,Bush,Sr.,INF,6-4,,RIGHT,RIGHT,"Longview, TX",,1,0,https://stats.ncaa.org/players/8879835
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8885082,43,John Lawson,John,Lawson,So.,C,6-0,,RIGHT,RIGHT,"Corpus Christi, TX",Richard King HS,0,0,https://stats.ncaa.org/players/8885082
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8884232,3,Cameron Franklin,Cameron,Franklin,So.,INF,5-9,,RIGHT,RIGHT,"Cypress, TX",Foster HS,0,0,https://stats.ncaa.org/players/8884232
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8884331,18,Michael Burroughs,Michael,Burroughs,Jr.,OF,6-1,,RIGHT,RIGHT,"Converse, TX",Judson HS,2,2,https://stats.ncaa.org/players/8884331
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301189,0,Brayden Johnson,Brayden,Johnson,Sr.,OF,5-10,,RIGHT,RIGHT,"Hallsville, TX",,12,12,https://stats.ncaa.org/players/9301189
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301850,13,Dakari Hayes,Dakari,Hayes,Fr.,p,-,,,,,,2,0,https://stats.ncaa.org/players/9301850
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301852,37,Mason Maxie,Mason,Maxie,Fr.,p,-,,,,,,3,0,https://stats.ncaa.org/players/9301852
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301853,45,Marcus McMillan,Marcus,McMillan,So.,p,-,,,,,,2,0,https://stats.ncaa.org/players/9301853
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9303081,4,Blake Hall,Blake,Hall,Fr.,ph/ss,-,,,,,,4,0,https://stats.ncaa.org/players/9303081
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301188,5,Mason Heiskell,Mason,Heiskell,Sr.,C,5-9,,RIGHT,RIGHT,"Fort Worth, TX",The Oakridge School,10,9,https://stats.ncaa.org/players/9301188
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301192,47,Seve Medrano,Seve,Medrano,Sr.,p,-,,,,,,6,0,https://stats.ncaa.org/players/9301192
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301196,29,B. Beaty,B.,Beaty,Jr.,p,-,,,,,,2,2,https://stats.ncaa.org/players/9301196
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301197,16,Paxton Huff,Paxton,Huff,So.,OF,-,,,,,,4,3,https://stats.ncaa.org/players/9301197
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301200,20,Corie Lockette,Corie,Lockette,Sr.,INF,6-1,,LEFT,RIGHT,"N Richland Hills, TX",Birdville HS,8,5,https://stats.ncaa.org/players/9301200
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9303080,6,Kamar Dove,Kamar,Dove,Fr.,p,-,,,,,,5,3,https://stats.ncaa.org/players/9303080
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301854,39,Trace Sanchez,Trace,Sanchez,Jr.,p,-,,,,,,4,0,https://stats.ncaa.org/players/9301854
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301193,16,Sonnier Moses,Sonnier,Moses,Fr.,2b,-,,,,,,10,10,https://stats.ncaa.org/players/9301193
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301194,9,Jeffrey Polledo,Jeffrey,Polledo,Jr.,p,-,,,,,,4,0,https://stats.ncaa.org/players/9301194
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9303079,32,Edem Okpattah,Edem,Okpattah,Jr.,rf,-,,,,,,2,0,https://stats.ncaa.org/players/9303079
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301187,10,Ahmar Donatto,Ahmar,Donatto,Fr.,UT,5-9,,RIGHT,RIGHT,"Humble, TX",Summer Creek HS,13,13,https://stats.ncaa.org/players/9301187
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301190,30,Mac Bowie,Mac,Bowie,Fr.,1b,-,,,,,,7,2,https://stats.ncaa.org/players/9301190
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301191,19,Landyn Grant,Landyn,Grant,So.,p,-,,,,,,3,3,https://stats.ncaa.org/players/9301191
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301195,23,Landon Williams,Landon,Williams,So.,3b,-,,,,,,13,13,https://stats.ncaa.org/players/9301195
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,9301199,38,C. Moore,C.,Moore,Fr.,2b,-,,,,,,7,3,https://stats.ncaa.org/players/9301199
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8879835,11,Trenton Bush,Trenton,Bush,Sr.,INF,6-4,,RIGHT,RIGHT,"Longview, TX",,7,5,https://stats.ncaa.org/players/8879835
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8885082,43,John Lawson,John,Lawson,So.,C,6-0,,RIGHT,RIGHT,"Corpus Christi, TX",Richard King HS,4,2,https://stats.ncaa.org/players/8885082
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8884232,3,Cameron Franklin,Cameron,Franklin,So.,INF,5-9,,RIGHT,RIGHT,"Cypress, TX",Foster HS,3,1,https://stats.ncaa.org/players/8884232
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8884331,18,Michael Burroughs,Michael,Burroughs,Jr.,OF,6-1,,RIGHT,RIGHT,"Converse, TX",Judson HS,10,10,https://stats.ncaa.org/players/8884331
 2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8885518,8,Legend Fugett,Legend,Fugett,So.,2B,6-2,,RIGHT,RIGHT,"Melissa, TX",Melissa HS,0,0,https://stats.ncaa.org/players/8885518
 2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8876482,10,Corey Battey,Corey,Battey,So.,P,5-9,,LEFT,LEFT,"Orlando, FL",East Ridge,0,0,https://stats.ncaa.org/players/8876482
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8876486,15,Jordan Williams,Jordan,Williams,So.,OF,6-2,,RIGHT,RIGHT,"Zachary, LA",Zachary HS,0,0,https://stats.ncaa.org/players/8876486
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8883639,28,Tyson Carlton,Tyson,Carlton,Jr.,P,6-5,,RIGHT,RIGHT,"Allen, TX",,0,0,https://stats.ncaa.org/players/8883639
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8876486,15,Jordan Williams,Jordan,Williams,So.,OF,6-2,,RIGHT,RIGHT,"Zachary, LA",Zachary HS,5,2,https://stats.ncaa.org/players/8876486
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8883639,28,Tyson Carlton,Tyson,Carlton,Jr.,P,6-5,,RIGHT,RIGHT,"Allen, TX",,3,3,https://stats.ncaa.org/players/8883639
 2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8882526,25,Julian Scott,Julian,Scott,So.,P,5-8,,RIGHT,RIGHT,"Aldine, TX",B.O. Davis High School,0,0,https://stats.ncaa.org/players/8882526
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8895447,1,Jayden Williams,Jayden,Williams,Sr.,OF,5-11,,RIGHT,RIGHT,"Zachary, LA",Zachary,2,2,https://stats.ncaa.org/players/8895447
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8892556,35,Demarques Thompson,Demarques,Thompson,So.,P,6-0,,RIGHT,RIGHT,"Katy, TX",Sealy HS,2,0,https://stats.ncaa.org/players/8892556
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8898910,44,Michael Smith,Michael,Smith,So.,OF,6-3,,RIGHT,RIGHT,"Pensacola, FL",Pensacola Catholic HS,2,2,https://stats.ncaa.org/players/8898910
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8890767,31,Leonardo Bravo,Leonardo,Bravo,Sr.,P,6-3,,RIGHT,RIGHT,"Hialeah, FL",,1,0,https://stats.ncaa.org/players/8890767
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8891881,26,Marshal Jonas,Marshal,Jonas,Sr.,3B,6-1,,RIGHT,RIGHT,"Buffalo, TX",Buffalo HS,1,1,https://stats.ncaa.org/players/8891881
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8895447,1,Jayden Williams,Jayden,Williams,Sr.,OF,5-11,,RIGHT,RIGHT,"Zachary, LA",Zachary,11,10,https://stats.ncaa.org/players/8895447
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8892556,35,Demarques Thompson,Demarques,Thompson,So.,P,6-0,,RIGHT,RIGHT,"Katy, TX",Sealy HS,6,0,https://stats.ncaa.org/players/8892556
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8898910,44,Michael Smith,Michael,Smith,So.,OF,6-3,,RIGHT,RIGHT,"Pensacola, FL",Pensacola Catholic HS,9,9,https://stats.ncaa.org/players/8898910
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8890767,31,Leonardo Bravo,Leonardo,Bravo,Sr.,P,6-3,,RIGHT,RIGHT,"Hialeah, FL",,7,1,https://stats.ncaa.org/players/8890767
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8891881,26,Marshal Jonas,Marshal,Jonas,Sr.,3B,6-1,,RIGHT,RIGHT,"Buffalo, TX",Buffalo HS,7,5,https://stats.ncaa.org/players/8891881
 2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8901736,37,Jaime Baldwin,Jaime,Baldwin,Jr.,UT,5-9,,BOTH,RIGHT,"Corpus Christi, TX",,0,0,https://stats.ncaa.org/players/8901736
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8901920,7,Lee Allen,Lee,Allen,Sr.,INF,5-9,,RIGHT,RIGHT,"Kansas City, MO",,1,0,https://stats.ncaa.org/players/8901920
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8902054,36,Camden Farmer,Camden,Farmer,Sr.,P,6-8,,RIGHT,RIGHT,"The Woodlands, TX",,0,0,https://stats.ncaa.org/players/8902054
-2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8901187,22,Jadin Moreno,Jadin,Moreno,Sr.,INF,6-4,,LEFT,LEFT,"Pensacola, FL",,1,0,https://stats.ncaa.org/players/8901187
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8901920,7,Lee Allen,Lee,Allen,Sr.,INF,5-9,,RIGHT,RIGHT,"Kansas City, MO",,4,3,https://stats.ncaa.org/players/8901920
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8902054,36,Camden Farmer,Camden,Farmer,Sr.,P,6-8,,RIGHT,RIGHT,"The Woodlands, TX",,3,1,https://stats.ncaa.org/players/8902054
+2025,2024-25,MBA,1,I,SWAC,553,Prairie View,8901187,22,Jadin Moreno,Jadin,Moreno,Sr.,INF,6-4,,LEFT,LEFT,"Pensacola, FL",,5,0,https://stats.ncaa.org/players/8901187

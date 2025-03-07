@@ -1,39 +1,43 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8890245,34,Nick Griffin,Nick,Griffin,So.,OF,6-1,,,,"Alexandria, VA",Hayfield Secondary,2,2,https://stats.ncaa.org/players/8890245
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9300225,40,Z. Stone,Z.,Stone,---,p,-,,,,,,1,0,https://stats.ncaa.org/players/9300225
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9300193,47,M. Gove,M.,Gove,---,p,-,,,,,,2,1,https://stats.ncaa.org/players/9300193
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9300292,32,S. Batiancil,S.,Batiancil,Fr.,ss,-,,,,,,1,1,https://stats.ncaa.org/players/9300292
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9300295,29,S. Turner,S.,Turner,Jr.,p,-,,,,,,1,0,https://stats.ncaa.org/players/9300295
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9300194,55,C. Mullaney,C.,Mullaney,---,ph,-,,,,,,1,0,https://stats.ncaa.org/players/9300194
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9300293,48,Liam Houghton,Liam,Houghton,So.,UT,6-2,,RIGHT,RIGHT,"Morristown, NJ",Our Lady of Good Counsel,1,1,https://stats.ncaa.org/players/9300293
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9300294,24,Ari Lonstein,Ari,Lonstein,Sr.,P,5-11,,RIGHT,RIGHT,"Ellenville, NY",Wyoming Seminary College Prep,1,0,https://stats.ncaa.org/players/9300294
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8882649,4,Collin Palmieri,Collin,Palmieri,Jr.,OF,6-0,,,,"Forest Hill, MD",Bel Air,2,1,https://stats.ncaa.org/players/8882649
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8887783,26,AJ Viccora,AJ,Viccora,So.,C,5-9,,,,"Fairfax, VA",Woodson,0,0,https://stats.ncaa.org/players/8887783
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8878766,28,John Padousis,John,Padousis,Jr.,C,5-10,,,,"Elkridge, MD",St. Pauls,1,1,https://stats.ncaa.org/players/8878766
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8889092,37,Chris Fortunato,Chris,Fortunato,So.,P,6-2,,,,"Reston, VA",South Lakes,0,0,https://stats.ncaa.org/players/8889092
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8889120,7,Noah Joly,Noah,Joly,Jr.,C,5-11,,,,"Saratoga Spgs, NY",Saratoga,0,0,https://stats.ncaa.org/players/8889120
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8879950,32,Kaige Garrity,Kaige,Garrity,Jr.,OF,5-11,,RIGHT,RIGHT,"Monroe, CT",Masuk,1,1,https://stats.ncaa.org/players/8879950
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8881264,19,Zachary Majeski,Zachary,Majeski,Sr.,OF,6-0,,LEFT,RIGHT,"Loxahatchee, FL",Newtown (Conn.),0,0,https://stats.ncaa.org/players/8881264
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8890245,34,Nick Griffin,Nick,Griffin,So.,OF,6-1,,,,"Alexandria, VA",Hayfield Secondary,8,8,https://stats.ncaa.org/players/8890245
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9300225,40,Z. Stone,Z.,Stone,---,p,-,,,,,,3,1,https://stats.ncaa.org/players/9300225
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9300193,47,M. Gove,M.,Gove,---,p,-,,,,,,7,2,https://stats.ncaa.org/players/9300193
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9300292,32,S. Batiancil,S.,Batiancil,Fr.,ss,-,,,,,,3,1,https://stats.ncaa.org/players/9300292
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9300295,29,S. Turner,S.,Turner,Jr.,p,-,,,,,,4,1,https://stats.ncaa.org/players/9300295
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9307786,26,Colin Bull,Colin,Bull,Fr.,P,5-11,,RIGHT,RIGHT,"Phoenixville, PA",Phoenixville Area,1,0,https://stats.ncaa.org/players/9307786
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9305029,6,C. Endres,C.,Endres,Fr.,ph,-,,,,,,3,1,https://stats.ncaa.org/players/9305029
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9305030,11,Z. Marsh,Z.,Marsh,Fr.,p,-,,,,,,3,0,https://stats.ncaa.org/players/9305030
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9300194,55,C. Mullaney,C.,Mullaney,---,ph,-,,,,,,2,0,https://stats.ncaa.org/players/9300194
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9307400,12,A. King,A.,King,---,2b,-,,,,,,2,0,https://stats.ncaa.org/players/9307400
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9300293,48,Liam Houghton,Liam,Houghton,So.,UT,6-2,,RIGHT,RIGHT,"Morristown, NJ",Our Lady of Good Counsel,4,4,https://stats.ncaa.org/players/9300293
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9305031,30,M. McGarry,M.,McGarry,---,pr,-,,,,,,3,0,https://stats.ncaa.org/players/9305031
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,9300294,24,Ari Lonstein,Ari,Lonstein,Sr.,P,5-11,,RIGHT,RIGHT,"Ellenville, NY",Wyoming Seminary College Prep,5,0,https://stats.ncaa.org/players/9300294
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8882649,4,Collin Palmieri,Collin,Palmieri,Jr.,OF,6-0,,,,"Forest Hill, MD",Bel Air,8,7,https://stats.ncaa.org/players/8882649
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8887783,26,AJ Viccora,AJ,Viccora,So.,C,5-9,,,,"Fairfax, VA",Woodson,4,0,https://stats.ncaa.org/players/8887783
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8878766,28,John Padousis,John,Padousis,Jr.,C,5-10,,,,"Elkridge, MD",St. Pauls,3,3,https://stats.ncaa.org/players/8878766
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8889092,37,Chris Fortunato,Chris,Fortunato,So.,P,6-2,,,,"Reston, VA",South Lakes,3,0,https://stats.ncaa.org/players/8889092
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8879950,32,Kaige Garrity,Kaige,Garrity,Jr.,OF,5-11,,RIGHT,RIGHT,"Monroe, CT",Masuk,7,7,https://stats.ncaa.org/players/8879950
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8881264,19,Zachary Majeski,Zachary,Majeski,Sr.,OF,6-0,,LEFT,RIGHT,"Loxahatchee, FL",Newtown (Conn.),3,0,https://stats.ncaa.org/players/8881264
 2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8883199,9,Matt Gordon,Matt,Gordon,Jr.,P,6-0,,,,"West Islip, NY",West Islip,0,0,https://stats.ncaa.org/players/8883199
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8885270,27,Vince Licor,Vince,Licor,Jr.,1B,6-1,,,,"Morris Plains, NJ",Parsippany Hills,1,0,https://stats.ncaa.org/players/8885270
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8886300,8,Brandon Phillips,Brandon,Phillips,Jr.,P,5-10,,,,"Pasadena, MD",Chesapeake,1,0,https://stats.ncaa.org/players/8886300
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8885270,27,Vince Licor,Vince,Licor,Jr.,1B,6-1,,,,"Morris Plains, NJ",Parsippany Hills,2,0,https://stats.ncaa.org/players/8885270
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8886300,8,Brandon Phillips,Brandon,Phillips,Jr.,P,5-10,,,,"Pasadena, MD",Chesapeake,3,0,https://stats.ncaa.org/players/8886300
 2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8882203,17,Matt Kossey,Matt,Kossey,Sr.,P,5-9,,RIGHT,RIGHT,"Norristown, PA",Pope John Paul II,0,0,https://stats.ncaa.org/players/8882203
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8885394,28,Jaylon Surell,Jaylon,Surell,So.,INF,6-0,,,,"Springfield, VA",West Springfield,1,1,https://stats.ncaa.org/players/8885394
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8878177,14,Jake Treasure,Jake,Treasure,So.,P,5-11,,,,"Springfield, VA",West Springfield,1,1,https://stats.ncaa.org/players/8878177
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8879204,44,Connor Wilkerson,Connor,Wilkerson,So.,INF,5-11,,,,"Huntingtown, MD",Huntingtown,1,1,https://stats.ncaa.org/players/8879204
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8880229,10,Graham Sears,Graham,Sears,Jr.,OF,6-2,,,,"Herndon, VA",Herndon,1,1,https://stats.ncaa.org/players/8880229
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8889615,21,John Delgado,John,Delgado,So.,P,5-10,,,,"Westminster, MD",Gerstell Academy,1,1,https://stats.ncaa.org/players/8889615
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8877407,23,Carl Sansbury,Carl,Sansbury,Sr.,P,6-4,,LEFT,LEFT,"Ponte Vedra, FL",Walter Johnson,1,0,https://stats.ncaa.org/players/8877407
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8875522,22,Matt Perri,Matt,Perri,Sr.,C,5-10,,,,"East Rockaway, NY",East Rockaway,1,1,https://stats.ncaa.org/players/8875522
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8895552,41,Caden Dail,Caden,Dail,Sr.,P,6-2,,,,"Sumter, SC",Crestwood,0,0,https://stats.ncaa.org/players/8895552
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8885394,28,Jaylon Surell,Jaylon,Surell,So.,INF,6-0,,,,"Springfield, VA",West Springfield,4,4,https://stats.ncaa.org/players/8885394
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8878177,14,Jake Treasure,Jake,Treasure,So.,P,5-11,,,,"Springfield, VA",West Springfield,3,3,https://stats.ncaa.org/players/8878177
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8879204,44,Connor Wilkerson,Connor,Wilkerson,So.,INF,5-11,,,,"Huntingtown, MD",Huntingtown,5,2,https://stats.ncaa.org/players/8879204
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8880229,10,Graham Sears,Graham,Sears,Jr.,OF,6-2,,,,"Herndon, VA",Herndon,6,4,https://stats.ncaa.org/players/8880229
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8889615,21,John Delgado,John,Delgado,So.,P,5-10,,,,"Westminster, MD",Gerstell Academy,3,3,https://stats.ncaa.org/players/8889615
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8877407,23,Carl Sansbury,Carl,Sansbury,Sr.,P,6-4,,LEFT,LEFT,"Ponte Vedra, FL",Walter Johnson,3,0,https://stats.ncaa.org/players/8877407
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8875522,22,Matt Perri,Matt,Perri,Sr.,C,5-10,,,,"East Rockaway, NY",East Rockaway,7,5,https://stats.ncaa.org/players/8875522
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8895552,41,Caden Dail,Caden,Dail,Sr.,P,6-2,,,,"Sumter, SC",Crestwood,2,0,https://stats.ncaa.org/players/8895552
 2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8898142,24,EJ Lowry,EJ,Lowry,So.,P,5-10,,,,"Emmitsburg, MD",Saint John's Catholic Prep,0,0,https://stats.ncaa.org/players/8898142
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8892512,50,Brandon Perillo,Brandon,Perillo,Sr.,INF,6-0,,RIGHT,RIGHT,"New Fairfield, CT",New Fairfield,1,1,https://stats.ncaa.org/players/8892512
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8892562,2,Dalton Reinhart,Dalton,Reinhart,Sr.,P,5-11,,,,"Lebanon, PA",Cedar Crest,2,2,https://stats.ncaa.org/players/8892562
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8895929,52,Dhruv Indelicato,Dhruv,Indelicato,Jr.,P,6-0,,,,"Lawrence, NJ",Lawrence,0,0,https://stats.ncaa.org/players/8895929
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8892918,15,Christopher Manco,Christopher,Manco,So.,OF,5-10,,,,"Oak Ridge, NJ",Pope John XXIII,1,1,https://stats.ncaa.org/players/8892918
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8892512,50,Brandon Perillo,Brandon,Perillo,Sr.,INF,6-0,,RIGHT,RIGHT,"New Fairfield, CT",New Fairfield,7,6,https://stats.ncaa.org/players/8892512
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8892562,2,Dalton Reinhart,Dalton,Reinhart,Sr.,P,5-11,,,,"Lebanon, PA",Cedar Crest,8,8,https://stats.ncaa.org/players/8892562
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8895929,52,Dhruv Indelicato,Dhruv,Indelicato,Jr.,P,6-0,,,,"Lawrence, NJ",Lawrence,2,0,https://stats.ncaa.org/players/8895929
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8892918,15,Christopher Manco,Christopher,Manco,So.,OF,5-10,,,,"Oak Ridge, NJ",Pope John XXIII,7,6,https://stats.ncaa.org/players/8892918
 2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8898015,11,Corey Hatcher,Corey,Hatcher,Jr.,OF,5-9,,,,"Burtonsville, MD",St. John's,0,0,https://stats.ncaa.org/players/8898015
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8899182,3,John Noll,John,Noll,Jr.,OF,5-8,,LEFT,LEFT,"Mechanicsburg, PA",Northern,0,0,https://stats.ncaa.org/players/8899182
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8901879,5,Brady Bedway,Brady,Bedway,Sr.,INF,5-9,,RIGHT,RIGHT,"Orwigsburg, PA",Blue Mountain,1,1,https://stats.ncaa.org/players/8901879
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8899182,3,John Noll,John,Noll,Jr.,OF,5-8,,LEFT,LEFT,"Mechanicsburg, PA",Northern,2,0,https://stats.ncaa.org/players/8899182
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8901879,5,Brady Bedway,Brady,Bedway,Sr.,INF,5-9,,RIGHT,RIGHT,"Orwigsburg, PA",Blue Mountain,4,3,https://stats.ncaa.org/players/8901879
 2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8900708,32,Anthony D'Angeli,Anthony,D'Angeli,Sr.,1B,6-0,,,,"Columbia, MD",Atholton,0,0,https://stats.ncaa.org/players/8900708
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8901268,16,Connor Fox,Connor,Fox,Sr.,P,6-2,,RIGHT,RIGHT,"Laurel, DE",Mattituck,0,0,https://stats.ncaa.org/players/8901268
-2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8902629,25,Jack Gitterman,Jack,Gitterman,Sr.,1B,5-11,,LEFT,LEFT,"Williamstown, MA",Mount Greylock,1,1,https://stats.ncaa.org/players/8902629
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8901268,16,Connor Fox,Connor,Fox,Sr.,P,6-2,,RIGHT,RIGHT,"Laurel, DE",Mattituck,1,0,https://stats.ncaa.org/players/8901268
+2025,2024-25,MBA,3,III,MAC Commonwealth,21852,Stevenson,8902629,25,Jack Gitterman,Jack,Gitterman,Sr.,1B,5-11,,LEFT,LEFT,"Williamstown, MA",Mount Greylock,4,1,https://stats.ncaa.org/players/8902629

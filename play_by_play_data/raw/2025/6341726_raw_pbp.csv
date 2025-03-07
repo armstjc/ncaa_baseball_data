@@ -1,0 +1,92 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,1,top,Armstrong fouled out to ss.,1,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,1,top,Jurgensen grounded out to ss.,2,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,1,top,Walton walked.,3,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,1,top,Schmitt struck out looking.,4,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,1,bot,Bevin singled.,5,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,1,bot,Sampson walked3a Bevin advanced to second.,6,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,1,bot,Minnich grounded into double play 3b to 2b to 1b3a Sampson out on the play3a Bevin advanced to third.,7,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,1,bot,Marinpetro grounded out to 3b.,8,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,2,top,Stubitz singled.,9,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,2,top,Turner struck out looking.,10,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,2,top,Troha singled3a Stubitz advanced to second.,11,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,2,top,Andrews hit by pitch3a Troha advanced to second3a Stubitz advanced to third.,12,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,2,top,Grider struck out.,13,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,2,top,Armstrong grounded out to 2b.,14,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,2,bot,Vittone grounded out to 2b.,15,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,2,bot,Nutter lined out to ss.,16,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,2,bot,Meredith struck out looking.,17,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,3,top,"Jurgensen homered, RBI.",18,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,3,top,Walton singled.,19,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,3,top,Walton stole second.,20,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,3,top,Schmitt walked.,21,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,3,top,"Stubitz grounded out to p, SAC, bunt3a Schmitt advanced to second3a Walton advanced to third.",22,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,3,top,"Turner flied out to cf, SF, RBI3a Walton scored.",23,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,3,top,"Troha singled, RBI3a Schmitt scored.",24,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,3,top,"Troha out at second c to 2b, caught stealing.",25,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,3,bot,Luko flied out to rf.,26,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,3,bot,Weber struck out.,27,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,3,bot,Bevin walked.,28,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,3,bot,Sampson grounded out to 2b.,29,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,4,top,Andrews popped up to 2b.,30,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,4,top,Grider struck out.,31,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,4,top,Armstrong struck out looking.,32,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,4,bot,Minnich grounded out to ss.,33,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,4,bot,Marinpetro hit by pitch.,34,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,4,bot,Vittone flied out to rf.,35,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,4,bot,Nutter walked3a Marinpetro advanced to second.,36,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,4,bot,Meredith grounded out to 2b.,37,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,5,top,Jurgensen struck out looking.,38,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,5,top,Walton walked.,39,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,5,top,"Schmitt struck out3a Walton out at second c to ss, caught stealing, interference.",40,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,5,bot,Luko singled.,41,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,5,bot,Weber struck out.,42,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,5,bot,Luko stole second.,43,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,5,bot,Luko stole third.,44,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,5,bot,Bevin struck out.,45,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,5,bot,Sampson flied out to rf.,46,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,6,top,Stubitz struck out.,47,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,6,top,Turner struck out looking.,48,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,6,top,Troha grounded out to ss.,49,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,6,bot,Minnich grounded out to 3b.,50,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,6,bot,Marinpetro walked.,51,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,6,bot,Vittone singled3a Marinpetro advanced to third.,52,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,6,bot,"Nutter singled, RBI3a Vittone advanced to second3a Marinpetro scored.",53,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,6,bot,Meredith grounded into double play ss to 2b to 1b3a Nutter out on the play3a Vittone advanced to third.,54,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,7,top,Houston to p for Leslie.,55,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,7,top,Andrews grounded out to p.,56,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,7,top,Grider struck out.,57,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,7,top,Armstrong hit by pitch.,58,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,7,top,Jurgensen singled3a Armstrong advanced to second.,59,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,7,top,Walton hit by pitch3a Jurgensen advanced to second3a Armstrong advanced to third.,60,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,7,top,Schmitt popped up to 1b.,61,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,7,bot,Luko struck out.,62,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,7,bot,Weber walked.,63,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,7,bot,Bevin reached on a fielder's choice3a Weber out at second 3b to 2b.,64,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,7,bot,Sampson flied out to rf.,65,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,8,top,Stubitz walked.,66,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,8,top,Jager pinch ran for Stubitz.,67,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,8,top,Jager stole second.,68,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,8,top,Turner grounded out to 3b3a Jager advanced to third.,69,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,8,top,"Troha flied out to cf, SF, RBI3a Jager scored.",70,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,8,top,Andrews struck out looking.,71,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,8,bot,Minnich singled.,72,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,8,bot,Sehr to p for Ca. Funk.,73,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,8,bot,Marinpetro walked3a Minnich advanced to second.,74,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,8,bot,Chandler pinch ran for Marinpetro.,75,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,8,bot,Vittone popped up to c.,76,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,8,bot,Nutter struck out.,77,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,8,bot,Co. Funk to p for Sehr.,78,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,8,bot,Meredith reached on a fielder's choice3a Chandler out at second ss to 2b.,79,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,9,top,McIntyre to 1b for Chandler.,80,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,9,top,Veverka to p for Houston.,81,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,9,top,Grider flied out to lf.,82,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,9,top,Armstrong grounded out to 3b.,83,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,9,top,Jurgensen reached on an error by 1b.,84,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597059,9,top,Walton flied out to cf.,85,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,9,bot,Armstrong to p.,86,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,9,bot,W. Sullivan to ss for Jager.,87,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,9,bot,/  for Ca. Funk.,88,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,9,bot,Luko struck out.,89,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,9,bot,Weber grounded out to 3b.,90,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
+6341726,597059,Wartburg Knights,597288,Grove City Wolverines,597288,9,bot,Bevin flied out to rf.,91,2025-03-06T00:00:00-05:00,"R. Jack Behringer Field (Grove City, PA)",50,MBA,2025
