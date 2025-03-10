@@ -1,0 +1,93 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,1,top,"Brewer,Jack struck out swinging (1-2 BFFS).",1,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,1,top,"Selinsky,Sk walked (3-2 KBBSBFB).",2,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,1,top,"Miller,Sam struck out looking (3-2 SBBBSK).",3,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,1,top,"Lazits,Anto popped up to 3b (2-0 BB).",4,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,1,bot,"McCarthy, N. flied out to lf (1-0 B).",5,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,1,bot,"Alford, S. grounded out to 2b (1-1 BS).",6,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,1,bot,"Burnett, Ro singled to right field (1-0 B).",7,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,1,bot,"Phelps, Tre reached on a fielder's choice (0-0): Burnett, Ro out at second 3b to 2b.",8,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,2,top,"Kail,Jack grounded out to 2b (1-0 B).",9,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,2,top,"Palfrey,Gri tripled to center field (1-1 BF).",10,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,2,top,"Vogler,Tate grounded out to 2b, RBI (0-1 K): Palfrey,Gri scored.",11,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,2,top,"Fishel,Ben walked (3-2 BFKBBFB).",12,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,2,top,"Temesvary,A struck out swinging (0-2 SKS).",13,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,2,bot,"Jones, Char. struck out swinging (1-2 KKBFS).",14,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,2,bot,Obee struck out swinging (2-2 BSKBS).,15,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,2,bot,"Hunter, H. flied out to cf (0-1 S).",16,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,3,top,"Brewer,Jack reached on an error by 2b (2-1 BFB).",17,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,3,top,"Selinsky,Sk singled to right field (0-2 SF): Brewer,Jack advanced to second.",18,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,3,top,"Miller,Sam struck out looking (0-2 SSK).",19,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,3,top,"Lazits,Anto reached on an error by 3b (3-2 BFKBB): Selinsky,Sk advanced to second: Brewer,Jack advanced to third.",20,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,3,top,"Kail,Jack grounded out to 2b, RBI (0-2 KF): Lazits,Anto advanced to second: Selinsky,Sk advanced to third: Brewer,Jack scored, unearned.",21,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,3,top,"Palfrey,Gri struck out swinging (2-2 KBBFFS).",22,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,3,bot,Zaborowski struck out swinging (3-2 KBBFBS).,23,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,3,bot,"Branch, K. flied out to rf (0-0).",24,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,3,bot,"McCarthy, N. struck out swinging (0-2 KFS).",25,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,4,top,"Vogler,Tate doubled to left field, ground-rule (0-0).",26,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,4,top,"Fishel,Ben singled to center field, advanced to second on the throw (0-1 K): Vogler,Tate advanced to third.",27,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,4,top,"Temesvary,A walked (3-2 BFBBFFB).",28,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,4,top,"Smith, Kol. to p for Finley.",29,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,4,top,"Brewer,Jack homered to center field, 4 RBI (0-1 K): Temesvary,A scored: Fishel,Ben scored: Vogler,Tate scored.",30,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,4,top,"Selinsky,Sk grounded out to 3b (0-1 K).",31,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,4,top,"Miller,Sam walked (3-1 BBSBB).",32,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,4,top,"Miller,Sam advanced to second on a wild pitch.",33,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,4,top,"Lazits,Anto struck out looking (3-2 SBFBBK).",34,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,4,top,"Kail,Jack grounded out to 2b (1-1 SB).",35,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,4,bot,"Alford, S. singled to center field (2-1 BBK).",36,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,4,bot,"Burnett, Ro popped up to ss (1-0 B).",37,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,4,bot,"Phelps, Tre walked (3-1 KBBBB): Alford, S. advanced to second.",38,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,4,bot,"Phelps, Tre advanced to second: Alford, S. advanced to third on a wild pitch.",39,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,4,bot,"Jones, Char. struck out swinging (1-2 FFFBS).",40,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,4,bot,"Obee singled to shortstop, RBI (1-0 B): Phelps, Tre advanced to third, scored on an error by ss: Alford, S. scored.",41,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,4,bot,"Hunter, H. singled to center field (2-1 BKB): Obee advanced to third.",42,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,4,bot,"Zaborowski homered to left field, 3 RBI (0-1 K): Hunter, H. scored: Obee scored.",43,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,4,bot,"Branch, K. struck out looking (3-2 BKBBFK).",44,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,5,top,"Palfrey,Gri struck out swinging (1-2 KKBS).",45,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,5,top,"Vogler,Tate struck out swinging (3-2 BKBBSS).",46,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,5,top,"Fishel,Ben flied out to cf (0-0).",47,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,5,bot,"Santana, Tho to p for Edwards, Jag.",48,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,5,bot,"McCarthy, N. hit by pitch (0-0).",49,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,5,bot,"Alford, S. hit by pitch (1-1 KB): McCarthy, N. advanced to second.",50,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,5,bot,"Burnett, Ro homered to right field, 3 RBI (1-2 KSFBF): Alford, S. scored: McCarthy, N. scored.",51,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,5,bot,"Phelps, Tre grounded out to 3b (2-1 BFB).",52,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,5,bot,"Black, Ry. pinch hit for Jones, Char..",53,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,5,bot,"Black, Ry. walked (3-1 KBBBB).",54,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,5,bot,"Obee walked (3-2 BFBBFB): Black, Ry. advanced to second.",55,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,5,bot,"Hunter, H. hit by pitch (2-2 BSSB): Obee advanced to second: Black, Ry. advanced to third.",56,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,5,bot,"Zaborowski homered to left center, 4 RBI (2-0 BB): Hunter, H. scored: Obee scored: Black, Ry. scored.",57,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,5,bot,"Kleinhans,E to p for Santana, Tho.",58,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,5,bot,"Branch, K. struck out looking (0-2 KKK).",59,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,5,bot,"McCarthy, N. doubled to left field (1-1 BK).",60,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,5,bot,"McCarthy, N. stole third.",61,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,5,bot,"Alford, S. popped up to p (2-2 BFBS).",62,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,6,top,"Alford, S. to 3b.",63,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,6,top,"Phelps, Tre to 1b.",64,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,6,top,"Black, Ry. to 2b.",65,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,6,top,"Temesvary,A struck out, out at first c to 1b (0-2 FSS).",66,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,6,top,"Brewer,Jack singled to second base (3-2 BBKBS).",67,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,6,top,"Selinsky,Sk struck out swinging (0-2 KSS).",68,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,6,top,"Miller,Sam grounded out to p (0-0).",69,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,6,bot,"Burnett, Ro hit by pitch (0-1 F).",70,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,6,bot,"Burnett, Ro stole second.",71,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,6,bot,"Burnett, Ro advanced to third on an error by p, failed pickoff attempt.",72,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,6,bot,"Phelps, Tre hit by pitch (3-2 KBBKFFBF).",73,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,6,bot,"Phelps, Tre advanced to second on an error by p, failed pickoff attempt: Burnett, Ro scored.",74,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,6,bot,"Black, Ry. reached on an error by 1b (0-0): Phelps, Tre advanced to third.",75,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,6,bot,"Obee reached on a fielder's choice (1-2 BKK): Black, Ry. out at second 3b to 2b: Phelps, Tre no advance.",76,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,6,bot,Obee stole second.,77,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,6,bot,"Obee advanced to third: Phelps, Tre scored on a passed ball.",78,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,6,bot,"Hunter, H. singled to right field, RBI (3-2 BSBBS): Obee scored.",79,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,6,bot,"Murphy,Bren to p for Kleinhans,E.",80,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,6,bot,"Parker, Erik pinch ran for Hunter, H..",81,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,6,bot,Zaborowski flied out to cf (0-2 KK).,82,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,6,bot,"Branch, K. singled to third base (0-1 K): Parker, Erik advanced to second.",83,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,6,bot,"McCarthy, N. singled to right field, RBI (1-1 BF): Branch, K. advanced to third: Parker, Erik scored, unearned.",84,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596554,6,bot,"Alford, S. popped up to rf (0-0).",85,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,7,top,"Clavon to rf for Burnett, Ro.",86,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,7,top,"Parker, Erik to ss.",87,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,7,top,"Hudson, Bren to c for Branch, K..",88,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,7,top,"Lazits,Anto grounded out to 3b (1-2 KBK).",89,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,7,top,"Kail,Jack grounded out to ss (1-0 B).",90,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,7,top,"Palfrey,Gri singled to left field (1-1 KB).",91,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
+6301601,596525,Columbia Lions,596554,Georgia Bulldogs,596525,7,top,"Vogler,Tate struck out swinging (0-2 KKS).",92,2025-03-08T00:00:00-05:00,"Foley Field (Athens, GA)",2824,MBA,2025
