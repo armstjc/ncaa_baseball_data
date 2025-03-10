@@ -1,0 +1,79 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,1,top,Bolton grounded out to 2b (0-0).,1,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,1,top,Kent grounded out to 3b (1-0 B).,2,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,1,top,Bade singled to shortstop (1-2 KBFF).,3,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,1,top,Sullivan walked (3-2 BKFBBB)3a Bade advanced to second.,4,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,1,top,"Forgione singled to left field, RBI (2-0 BB)3a Sullivan advanced to second3a Bade scored.",5,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,1,top,Rogacki grounded out to 1b unassisted (0-0).,6,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,1,bot,G. Goldbeck doubled to left center (2-1 BFB).,7,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,1,bot,K. Peer grounded out to 2b (1-0 B)3a G. Goldbeck advanced to third.,8,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,1,bot,"M. Serna grounded out to 1b unassisted, RBI (0-1 S)3a G. Goldbeck scored.",9,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,1,bot,C. Nicoletto struck out swinging (2-2 FBFFFFFBS).,10,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,2,top,Kraus reached on a fielding error by 2b (1-2 KSFFBF).,11,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,2,top,Kraus advanced to second on a wild pitch.,12,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,2,top,Stellrecht walked (3-0 BBBB).,13,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,2,top,"Miller grounded out to c, SAC, bunt (0-0)3a Stellrecht advanced to second3a Kraus advanced to third.",14,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,2,top,"Bolton doubled to right center, 2 RBI (1-1 KB)3a Stellrecht scored3a Kraus scored, unearned.",15,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,2,top,Kent singled to shortstop (0-1 K).,16,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,2,top,Bade struck out looking (3-2 KFBFBBK)3a Kent stole second3a Bolton stole third.,17,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,2,top,"Kent advanced to third3a Bolton scored on a wild pitch, unearned.",18,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,2,top,"Kent scored on a passed ball, unearned.",19,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,2,top,Sullivan flied out to cf (2-0 BB).,20,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,2,bot,T. Macon struck out looking (3-2 SBBBKK).,21,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,2,bot,J. Lovich singled to right center (1-0 B).,22,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,2,bot,T. Lawrence pinch hit for P. Basler.,23,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,2,bot,T. Lawrence hit by pitch (0-1 K)3a J. Lovich advanced to second.,24,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,2,bot,P. Seals struck out swinging (2-2 KBFFBS).,25,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,2,bot,K. Knutson reached on a fielder's choice (0-2 KK)3a T. Lawrence out at second ss to 2b.,26,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,3,top,T. Lawrence to 2b.,27,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,3,top,B.Kehlenbrnk to p for K. Jacobi.,28,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,3,top,J. Hernandez to c for M. Serna.,29,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,3,top,Forgione struck out swinging (1-2 KBKS).,30,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,3,top,Rogacki singled to left field (2-2 KFBBF).,31,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,3,top,"Rogacki out at second p to 1b to ss, picked off, caught stealing.",32,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,3,top,Kraus hit by pitch (1-1 BF).,33,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,3,top,Stellrecht hit by pitch (2-2 BSBK)3a Kraus advanced to second.,34,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,3,top,Miller struck out swinging (0-2 SKS).,35,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,3,bot,G. Goldbeck struck out swinging (2-2 KBBFFS).,36,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,3,bot,K. Peer grounded out to ss (2-2 FBSB).,37,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,3,bot,J. Hernandez flied out to rf (0-0).,38,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,4,top,Bolton grounded out to 1b unassisted (2-0 BB).,39,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,4,top,Kent struck out swinging (1-2 SBKS).,40,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,4,top,Bade flied out to lf (0-2 KF).,41,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,4,bot,C. Nicoletto lined out to cf (1-0 B).,42,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,4,bot,T. Macon walked (3-1 KBBBB).,43,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,4,bot,J. Lovich popped up to 2b (2-0 BB).,44,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,4,bot,T. Lawrence grounded out to 3b (0-0).,45,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,5,top,B. Smith to p for B.Kehlenbrnk.,46,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,5,top,Sullivan singled to left field (2-1 BKB).,47,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,5,top,Forgione reached on a fielder's choice (0-0)3a Sullivan out at second 3b to 2b.,48,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,5,top,Rogacki doubled to right center (2-2 BBFKF)3a Forgione advanced to third.,49,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,5,top,Kraus struck out swinging (0-2 SFS).,50,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,5,top,Stellrecht grounded out to 2b (1-1 BF).,51,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,5,bot,P. Seals flied out to lf (2-2 KBSB).,52,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,5,bot,K. Knutson walked (3-1 BBKBB).,53,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,5,bot,"K. Knutson out at second c to ss, caught stealing.",54,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,5,bot,G. Goldbeck singled through the left side (2-1 BBK).,55,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,5,bot,K. Peer popped up to ss (2-0 BB).,56,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,6,top,Miller struck out looking (1-2 KFBK).,57,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,6,top,Bolton singled up the middle (2-1 BKB).,58,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,6,top,Kent struck out swinging (1-2 FFFBS).,59,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,6,top,Bade reached on a fielder's choice (2-2 BBFF)3a Bolton out at second ss to 2b.,60,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,6,bot,J. Hernandez lined out to cf (3-1 KBBB).,61,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,6,bot,"C. Nicoletto homered to right center, RBI (0-0).",62,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,6,bot,T. Macon walked (3-1 BBFBB).,63,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,6,bot,Ryder to p for Rhein.,64,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,6,bot,J. Lovich flied out to rf (0-1 F).,65,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,6,bot,T. Macon stole second.,66,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,6,bot,T. Lawrence grounded out to ss (2-0 BB).,67,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,7,top,P. Green to p for B. Smith.,68,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,7,top,Sullivan singled to left field (0-0).,69,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,7,top,Forgione lined out to lf (0-0).,70,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596495,7,top,Rogacki grounded into double play 1b to ss to 1b (0-1 K)3a Sullivan out on the play.,71,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,7,bot,P. Seals grounded out to 3b (1-0 B).,72,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,7,bot,K. Knutson grounded out to ss (3-2 BBBKK).,73,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,7,bot,G. Goldbeck walked (3-2 BKBFBB).,74,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,7,bot,K. Peer walked (3-1 BBBKB)3a G. Goldbeck advanced to second.,75,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,7,bot,B. Daniels pinch hit for J. Hernandez.,76,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,7,bot,Dally to p for Ryder.,77,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025
+6311494,596495,Binghamton Bearcats,596608,Missouri Tigers,596608,7,bot,B. Daniels struck out looking (2-2 BFBFFFK).,78,2025-03-09T00:00:00-05:00,"Taylor Stadium (Columbia, MO)",1179,MBA,2025

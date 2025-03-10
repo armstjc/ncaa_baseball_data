@@ -1,0 +1,88 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,1,top,"BALL,M. singled (0-0).",1,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,1,top,"YAMAGUCHI,S. grounded into double play ss to 2b to 1b (2-2 BKKB)3a BALL,M. out on the play.",2,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,1,top,"KWON,J. singled to center field (2-2 BKKB).",3,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,1,top,"DOBIE,J. grounded out to ss (2-2 FBKB).",4,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,1,bot,DECELLE flied out to 2b (2-1 FBB).,5,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,1,bot,WATANABE walked (3-2 BBKFBB).,6,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,1,bot,ROGERS walked (3-2 SSBFBFBFB)3a WATANABE advanced to second.,7,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,1,bot,KEIGHRAN flied out to rf (2-1 KBB).,8,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,1,bot,LEWIS grounded out to 3b (1-1 KB).,9,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,2,top,"HAM,B. doubled to left center (1-2 FKB).",10,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,2,top,"DOYLE,J. walked (3-2 SSBBBFB).",11,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,2,top,"HOLDER,T. homered to left center, 3 RBI (3-2 SKBBB)3a DOYLE,J. scored3a HAM,B. scored.",12,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,2,top,"WALLER,J. singled to left field (0-0).",13,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,2,top,"HARVEY,J. reached on a fielder's choice, out at second p to 2b (0-2 KK).",14,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,2,top,"BALL,M. singled to center field (1-2 BFS)3a WALLER,J. advanced to second.",15,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,2,top,"YAMAGUCHI,S. struck out swinging (3-2 KSBBBS).",16,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,2,top,"KWON,J. reached on a fielder's choice, out at second ss to 2b (2-1 BBS).",17,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,2,bot,HARMON flied out to cf (0-1 K).,18,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,2,bot,HARRIES doubled through the left side (3-2 KKBFFBB).,19,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,2,bot,RAMPPEN hit by pitch (2-0 BB).,20,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,2,bot,KALLINGER walked (3-2 FBBKBB)3a RAMPPEN advanced to second3a HARRIES advanced to third.,21,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,2,bot,"DECELLE flied out to cf, SF, RBI (3-1 FBBB)3a HARRIES scored.",22,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,2,bot,WATANABE walked (3-1 KBBBB)3a KALLINGER advanced to second3a RAMPPEN advanced to third.,23,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,2,bot,ROGERS struck out swinging (1-2 FBKS).,24,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,3,top,"DOBIE,J. grounded out to 3b (2-1 BFB).",25,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,3,top,"HAM,B. singled to center field (2-1 FBB).",26,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,3,top,"DOYLE,J. struck out swinging (2-2 KSBBS).",27,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,3,top,"HOLDER,T. walked (3-0 BBBB)3a HAM,B. advanced to second.",28,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,3,top,"WALLER,J. grounded out to 3b (1-1 SB).",29,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,3,bot,KEIGHRAN flied out to cf (0-1 S).,30,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,3,bot,LEWIS singled to center field (1-1 KB).,31,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,3,bot,"VALDEZ,E. to p for BURFIELD,C..",32,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,3,bot,HARMON singled to center field (0-2 KK)3a LEWIS advanced to second.,33,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,3,bot,HARRIES struck out swinging (0-2 SKFS).,34,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,3,bot,RAMPPEN grounded out to 2b unassisted (0-2 KF).,35,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,4,top,"HARVEY,J. lined out to ss (0-1 K).",36,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,4,top,"BALL,M. struck out swinging (3-2 BKBFBS).",37,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,4,top,"YAMAGUCHI,S. grounded out to 3b (0-0).",38,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,4,bot,KALLINGER flied out to rf (1-0 B).,39,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,4,bot,DECELLE singled to center field (3-2 BSBBK).,40,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,4,bot,"WATANABE walked3a DECELLE out at second c to ss, caught stealing.",41,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,4,bot,"WATANABE out at first p to 1b, picked off.",42,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,5,top,"KWON,J. grounded out to 3b (0-0).",43,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,5,top,"DOBIE,J. out at first 1b to p (0-0).",44,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,5,top,"HAM,B. struck out looking (0-2 KKK).",45,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,5,bot,ROGERS grounded out to p (1-2 KBS).,46,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,5,bot,KEIGHRAN struck out looking (0-2 KFK).,47,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,5,bot,LEWIS hit by pitch (1-2 SBSF).,48,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,5,bot,"HARMON reached on a fielder's choice, out at second 3b to 2b (0-1 F).",49,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,6,top,AMBORN to p for RISSE.,50,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,6,top,"DOYLE,J. struck out swinging (3-2 FSBFBBS).",51,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,6,top,"HOLDER,T. grounded out to 3b (3-2 BBKFB).",52,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,6,top,"WALLER,J. grounded out to p (0-0).",53,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,6,bot,HARRIES popped up to ss (1-2 KBKF).,54,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,6,bot,RAMPPEN struck out swinging (0-2 FSS).,55,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,6,bot,KALLINGER struck out looking (2-2 KBSBFFK).,56,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,7,top,"HARVEY,J. singled to center field (2-2 KFBB).",57,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,7,top,"BALL,M. homered to left center, 2 RBI (0-0)3a HARVEY,J. scored.",58,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,7,top,"YAMAGUCHI,S. singled to left center (1-1 FB).",59,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,7,top,"KWON,J. grounded into double play ss to 2b to 1b (1-2 FBF)3a YAMAGUCHI,S. out on the play.",60,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,7,top,"DOBIE,J. grounded out to 3b (0-0).",61,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,7,bot,DECELLE flied out to lf (1-0 B).,62,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,7,bot,WATANABE flied out to lf (1-2 KSB).,63,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,7,bot,ROGERS struck out looking (1-2 SFBK).,64,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,8,top,CUPIC to p for AMBORN.,65,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,8,top,"HAM,B. flied out to cf (1-1 BK).",66,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,8,top,"DOYLE,J. hit by pitch (0-0).",67,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,8,top,"HOLDER,T. hit by pitch (1-0 B)3a DOYLE,J. advanced to second.",68,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,8,top,"WALLER,J. flied out to lf (0-0).",69,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,8,top,"HARVEY,J. reached on an error by ss (2-1 BKB)3a HOLDER,T. advanced to second3a DOYLE,J. advanced to third.",70,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,8,top,"BALL,M. reached on a fielder's choice, grounded out to 2b unassisted (1-1 KB).",71,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,8,bot,KEIGHRAN walked (3-1 KBBBB).,72,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,8,bot,LEWIS struck out looking (2-2 SBSBK).,73,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,8,bot,HARMON struck out looking (3-2 KBBBKK).,74,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,8,bot,HARRIES flied out to cf (0-2 KF).,75,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,9,top,PELLETIER to ss for HARRIES.,76,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,9,top,HARWELL to p for CUPIC.,77,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,9,top,"YAMAGUCHI,S. walked (3-2 BBKBKB).",78,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,9,top,"HIRATA,M. to 2b for KWON,J..",79,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,9,top,"YAMAGUCHI,S. out at first c to 1b, picked off.",80,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,9,top,"HIRATA,M. grounded out to 3b (0-0).",81,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596620,9,top,"DOBIE,J. flied out to rf (2-2 FBFB).",82,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,9,bot,"DESCH,D. to p for VALDEZ,E..",83,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,9,bot,"METCHO,J. to 2b for HIRATA,M..",84,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,9,bot,RAMPPEN grounded out to 2b (2-0 BB).,85,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,9,bot,KALLINGER struck out looking (3-2 FBKBBFK).,86,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025
+6307997,596620,Nevada Wolf Pack,596671,San Francisco Dons,596671,9,bot,DECELLE struck out swinging (1-2 BFSS).,87,2025-03-09T00:00:00-05:00,"Benedetti Diamond (San Francisco, CA)",288,MBA,2025

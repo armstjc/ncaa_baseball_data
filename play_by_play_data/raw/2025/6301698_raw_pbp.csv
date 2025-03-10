@@ -1,0 +1,70 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,1,top,No play.,1,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,1,top,Brown grounded out to 2b.,2,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,1,top,Davis grounded out to 3b.,3,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,1,top,Evans struck out swinging.,4,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,1,bot,White struck out looking (3-2 BBBKF).,5,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,1,bot,Pimentel-Gue grounded out to 2b (1-1 BK).,6,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,1,bot,"Smith, JP struck out swinging (1-2 KBKK).",7,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,2,top,Waldon reached on a fielding error by 3b (0-0).,8,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,2,top,Tandy flied out to rf3a Waldon no advance.,9,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,2,top,Bicknell struck out looking.,10,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,2,top,McClellin struck out swinging.,11,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,2,bot,Poturnak singled up the middle.,12,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,2,bot,Sewell struck out swinging (0-2 SS)3a Poturnak advanced to second on a wild pitch.,13,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,2,bot,Christiansen lined into double play lf to ss3a Poturnak out on the play.,14,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,3,top,Petersen singled to center field.,15,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,3,top,"Romney fouled out to 3b, bunt3a Petersen no advance.",16,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,3,top,"Brown grounded out to p, SAC3a Petersen advanced to second.",17,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,3,top,Davis popped up to ss.,18,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,3,bot,"Kligman, E struck out looking.",19,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,3,bot,Cobarrubias struck out looking.,20,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,3,bot,Perazzo popped up to ss.,21,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,4,top,Evans grounded out to 3b.,22,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,4,top,Waldon struck out looking.,23,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,4,top,Tandy struck out swinging.,24,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,4,bot,White grounded out to p.,25,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,4,bot,Pimentel-Gue struck out swinging.,26,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,4,bot,"Smith, JP struck out swinging.",27,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,5,top,Bicknell fouled out to 1b.,28,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,5,top,McClellin grounded out to ss.,29,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,5,top,"Petersen struck out swinging, out at first c to 1b.",30,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,5,bot,Poturnak flied out to lf.,31,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,5,bot,Sewell fouled out to ss.,32,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,5,bot,Christiansen struck out swinging.,33,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,6,top,Romney struck out swinging.,34,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,6,top,Brown struck out swinging.,35,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,6,top,Davis struck out swinging.,36,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,6,bot,"Kligman, E flied out to cf.",37,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,6,bot,Cobarrubias flied out to cf to left center.,38,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,6,bot,Perazzo grounded out to p.,39,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,7,top,"Evans reached on a throwing error by 3b, advanced to second on the throw.",40,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,7,top,Waldon struck out looking.,41,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,7,top,Tandy flied out to rf3a Evans advanced to third.,42,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,7,top,Bicknell struck out looking.,43,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,7,bot,White grounded out to 2b.,44,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,7,bot,"Pimentel-Gue reached on a fielding error by 2b, advanced to second on the throw.",45,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,7,bot,"Smith, JP popped up to 1b3a Pimentel-Gue no advance.",46,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,7,bot,Poturnak popped up to ss.,47,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,8,top,Halverson to p for Lay.,48,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,8,top,McClellin flied out to cf to left center.,49,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,8,top,Petersen struck out swinging.,50,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,8,top,Romney lined out to 3b.,51,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,8,bot,Sewell flied out to lf.,52,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,8,bot,Christiansen out at first 1b to p.,53,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,8,bot,"Kligman, E fouled out to 1b.",54,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,9,top,Monson to p for Halverson.,55,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,9,top,Brown popped up to 3b.,56,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,9,top,"Davis singled to pitcher, bunt.",57,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,9,top,Evans struck out swinging.,58,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,9,top,Waldon popped up to 1b.,59,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,9,bot,Cobarrubias struck out swinging.,60,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,9,bot,Perazzo singled to right center.,61,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,9,bot,White reached on a fielder's choice to third base3a Perazzo out at second 3b to 2b.,62,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,9,bot,Pimentel-Gue popped up to ss.,63,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,10,top,Tandy flied out to rf down the rf line.,64,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,10,top,Bicknell grounded out to ss.,65,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596645,10,top,McClellin lined out to 3b.,66,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,10,bot,Wood to p for Guardado.,67,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,10,bot,"Smith, JP popped up to 2b.",68,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025
+6301698,596645,Pacific Tigers,596509,Sacramento St. Hornets,596509,10,bot,"Poturnak homered to left field, RBI.",69,2025-03-09T00:00:00-05:00,"John Smith Field (Sacramento, CA)",503,MBA,2025

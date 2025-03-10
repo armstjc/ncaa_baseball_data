@@ -1,0 +1,69 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,1,top,LAMBDIN struck out looking (1-2).,1,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,1,top,HENDRICKSON flied out to cf (2-0).,2,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,1,top,"MISCH, C. struck out looking (1-2).",3,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,1,bot,Austin grounded out to 2b up the middle (0-0).,4,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,1,bot,Rose grounded out to 2b (1-1).,5,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,1,bot,Johnston grounded out to 3b (3-2).,6,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,2,top,"MENSIK, L. struck out looking (3-2).",7,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,2,top,"ANDERSON,A. flied out to lf (1-0).",8,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,2,top,WACHSMANN walked (3-2).,9,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,2,top,"HAMMOND, L. reached on a fielder's choice to second base (1-2); WACHSMANN out at second 2b to ss.",10,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,2,bot,Nelson flied out to cf to left center (0-1).,11,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,2,bot,Holcomb struck out swinging (2-2).,12,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,2,bot,Mancini singled to center field (0-0).,13,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,2,bot,Rigdon grounded out to 2b (3-1).,14,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,3,top,"JELIC, J. singled to right field (1-0).",15,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,3,top,CANTERBERRY struck out swinging (3-2).,16,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,3,top,LAMBDIN struck out swinging (1-2).,17,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,3,top,"HENDRICKSON walked (3-1); JELIC, J. advanced to second.",18,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,3,top,"MISCH, C. struck out swinging (0-2).",19,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,3,bot,Humphrey walked (3-2).,20,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,3,bot,Vastine walked (3-1); Humphrey advanced to second.,21,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,3,bot,Austin walked (3-0); Vastine advanced to second; Humphrey advanced to third.,22,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,3,bot,Rose grounded into double play 2b to ss to 1b (0-2); Austin out on the play; Vastine advanced to third; Humphrey scored.,23,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,3,bot,Johnston flied out to cf (1-1).,24,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,4,top,"MENSIK, L. grounded out to ss (1-2).",25,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,4,top,"ANDERSON,A. grounded out to 2b (0-1).",26,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,4,top,WACHSMANN struck out swinging (2-2).,27,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,4,bot,Nelson walked (3-1).,28,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,4,bot,Holcomb singled to center field (0-1); Nelson advanced to second.,29,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,4,bot,Mancini walked (3-1); Holcomb advanced to second; Nelson advanced to third.,30,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,4,bot,"WEBER, B. to p for CHAVANA, J..",31,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,4,bot,"Rigdon reached on a fielder's choice to shortstop, RBI (3-2); Mancini out at second ss to 2b; Holcomb advanced to third; Nelson scored.",32,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,4,bot,Rigdon stole second.,33,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,4,bot,"Humphrey grounded out to ss, RBI (1-2); Rigdon advanced to third; Holcomb scored.",34,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,4,bot,"Vastine singled to left field, RBI (2-2); Rigdon scored.",35,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,4,bot,Austin struck out swinging (1-2).,36,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,5,top,"HAMMOND, L. flied out to rf down the rf line (0-0).",37,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,5,top,"JELIC, J. struck out swinging (2-2).",38,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,5,top,CANTERBERRY struck out swinging (3-2).,39,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,5,bot,Rose grounded out to ss (1-2).,40,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,5,bot,Johnston flied out to cf (0-1).,41,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,5,bot,Nelson grounded out to 1b unassisted (1-2).,42,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,6,top,LAMBDIN struck out looking (0-2).,43,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,6,top,HENDRICKSON hit by pitch (0-0).,44,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,6,top,"MISCH, C. popped up to 1b (2-2).",45,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,6,top,"MENSIK, L. flied out to rf to right center (1-2).",46,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,6,bot,Holcomb struck out swinging (2-2).,47,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,6,bot,Mancini struck out swinging (3-2).,48,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,6,bot,Rigdon popped up to ss to left center (1-1).,49,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,7,top,Hawks to p for Bowker.,50,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,7,top,"ANDERSON,A. struck out swinging (0-2).",51,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,7,top,WACHSMANN struck out swinging (1-2).,52,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,7,top,"HAMMOND, L. grounded out to 2b (0-1).",53,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,7,bot,Humphrey singled to third base (1-2).,54,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,7,bot,"Humphrey out at second c to ss, caught stealing.",55,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,7,bot,Vastine flied out to rf (1-2).,56,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,7,bot,Austin grounded out to ss (1-0).,57,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,8,top,"JELIC, J. struck out looking (2-2).",58,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,8,top,CANTERBERRY struck out swinging (1-2).,59,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,8,top,LAMBDIN struck out looking (0-2).,60,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,8,bot,Rose flied out to lf (2-1).,61,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,8,bot,Johnston flied out to cf (1-0).,62,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596434,8,bot,Nelson lined out to rf to right center (1-1).,63,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,9,top,Mendez to lf for Holcomb.,64,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,9,top,HENDRICKSON flied out to cf (0-0).,65,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,9,top,"MISCH, C. struck out swinging (1-2).",66,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,9,top,"MENSIK, L. hit by pitch (1-0).",67,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
+6315605,596454,Xavier Musketeers,596434,Vanderbilt Commodores,596454,9,top,"ANDERSON,A. struck out swinging (3-2).",68,2025-03-09T00:00:00-05:00,"Hawkins Field (Nashville, TN)",3323,MBA,2025
