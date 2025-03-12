@@ -1,0 +1,117 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,1,top,"Guerrero,A flied out to cf.",1,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,1,top,"Bower,C fouled out to 1b.",2,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,1,top,"Kole,T struck out swinging.",3,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,1,bot,"LANDWEHR, J flied out to rf.",4,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,1,bot,"BEAN, B struck out looking.",5,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,1,bot,"HEBERT, C struck out swinging.",6,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,2,top,"Knight,M walked.",7,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,2,top,"Knight,M advanced to second on a wild pitch, advanced to third on an error by c.",8,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,2,top,"DeCarlo,S walked.",9,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,2,top,"Terry,B reached on a fielder's choice, RBI3a DeCarlo,S out at second 2b to ss3a Knight,M scored, unearned.",10,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,2,top,"Sanders,J out at first ss to 2b to 1b3a Terry,B out at second ss to 2b.",11,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,2,bot,"TOGLIA, Z flied out to cf.",12,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,2,bot,KATAYAMA-STA hit by pitch.,13,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,2,bot,"HOWARD, T singled to center field3a KATAYAMA-STA advanced to second.",14,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,2,bot,"MILLER, N struck out swinging.",15,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,2,bot,"SALK, J flied out to cf.",16,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,3,top,"Hotchkiss,J homered to left field, RBI.",17,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,3,top,"Crawford,C grounded out to 2b.",18,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,3,top,"Guerrero,A grounded out to ss.",19,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,3,top,"Bower,C homered to left center, RBI.",20,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,3,top,"Kole,T singled up the middle.",21,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,3,top,"Knight,M reached on a fielder's choice3a Kole,T out at second ss to 2b.",22,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,3,bot,"MILLER, J struck out swinging.",23,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,3,bot,"LANDWEHR, J popped up to 1b.",24,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,3,bot,"BEAN, B singled through the left side.",25,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,3,bot,"HEBERT, C struck out looking3a BEAN, B stole second, advanced to third on an error by c.",26,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,4,top,"DeCarlo,S singled to left field.",27,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,4,top,"Terry,B flied out to cf.",28,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,4,top,"Sanders,J grounded out to 3b3a DeCarlo,S advanced to second.",29,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,4,top,"Hotchkiss,J struck out looking.",30,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,4,bot,"Evangelista to p for Tims,J.",31,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,4,bot,"TOGLIA, Z singled to left field.",32,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,4,bot,KATAYAMA-STA flied out to cf.,33,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,4,bot,"TOGLIA, Z stole second.",34,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,4,bot,"HOWARD, T walked.",35,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,4,bot,"MILLER, N singled to right field3a HOWARD, T advanced to second3a TOGLIA, Z advanced to third, out at home rf to c.",36,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,4,bot,"SALK, J reached on a fielder's choice3a MILLER, N out at second ss to 2b.",37,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,5,top,"Crawford,C flied out to cf.",38,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,5,top,"Guerrero,A walked.",39,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,5,top,"Bower,C flied out to cf.",40,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,5,top,"Kole,T singled through the left side3a Guerrero,A advanced to second.",41,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,5,top,"Knight,M reached on a fielder's choice3a Kole,T out at second ss to 2b.",42,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,5,bot,"MILLER, J walked.",43,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,5,bot,"LANDWEHR, J singled through the left side3a MILLER, J advanced to second.",44,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,5,bot,"BEAN, B walked3a LANDWEHR, J advanced to second3a MILLER, J advanced to third.",45,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,5,bot,"HEBERT, C struck out swinging.",46,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,5,bot,"TOGLIA, Z singled to shortstop, RBI3a BEAN, B advanced to second3a LANDWEHR, J advanced to third3a MILLER, J scored.",47,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,5,bot,"KATAYAMA-STA walked, RBI3a TOGLIA, Z advanced to second3a BEAN, B advanced to third3a LANDWEHR, J scored.",48,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,5,bot,"Yeager,I to p for Evangelista.",49,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,5,bot,"HOWARD, T grounded out to ss, RBI3a KATAYAMA-STA advanced to second3a TOGLIA, Z advanced to third3a BEAN, B scored.",50,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,5,bot,"MILLER, N singled to center field, 2 RBI3a KATAYAMA-STA scored3a TOGLIA, Z scored.",51,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,5,bot,"SALK, J struck out swinging.",52,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,6,top,"STARR, K to p for SWYGART, T.",53,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,6,top,"DeCarlo,S flied out to cf.",54,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,6,top,"Terry,B walked.",55,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,6,top,"Sanders,J singled up the middle3a Terry,B advanced to second.",56,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,6,top,"Sanders,J out at first c to 1b.",57,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,6,top,"Hotchkiss,J flied out to cf.",58,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,6,bot,"MILLER, J grounded out to ss.",59,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,6,bot,"LANDWEHR, J grounded out to 3b.",60,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,6,bot,"BEAN, B doubled to right center.",61,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,6,bot,"HEBERT, C struck out swinging.",62,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,7,top,"Crawford,C flied out to cf.",63,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,7,top,"Guerrero,A walked.",64,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,7,top,"Guerrero,A advanced to second on a wild pitch.",65,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,7,top,"Bower,C hit by pitch.",66,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,7,top,"UMLANDT, N to p for STARR, K.",67,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,7,top,"Kole,T hit by pitch3a Bower,C advanced to second3a Guerrero,A advanced to third.",68,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,7,top,"Knight,M flied out to rf, SF, RBI3a Guerrero,A scored.",69,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,7,top,"DeCarlo,S singled, bunt3a Kole,T advanced to second3a Bower,C advanced to third.",70,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,7,top,"Terry,B singled to right field, 2 RBI3a DeCarlo,S advanced to third3a Kole,T scored3a Bower,C scored.",71,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,7,top,"Terry,B stole second.",72,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,7,top,"Sanders,J singled to right field, 2 RBI3a Terry,B scored3a DeCarlo,S scored.",73,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,7,top,"Hotchkiss,J reached on an error by 3b3a Sanders,J advanced to second, advanced to third on an error by 3b.",74,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,7,top,"Hotchkiss,J stole second.",75,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,7,top,"Crawford,C struck out swinging.",76,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,7,bot,"Denomme,C to p for Yeager,I.",77,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,7,bot,"TOGLIA, Z walked.",78,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,7,bot,KATAYAMA-STA struck out swinging.,79,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,7,bot,"HOWARD, T hit by pitch3a TOGLIA, Z advanced to second.",80,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,7,bot,"MILLER, N walked3a HOWARD, T advanced to second3a TOGLIA, Z advanced to third.",81,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,7,bot,"SALK, J flied out to rf, SF, RBI3a HOWARD, T advanced to third3a TOGLIA, Z scored.",82,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,7,bot,"SCOTT, S pinch hit.",83,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,7,bot,"MUENCH, H pinch ran for MILLER, N.",84,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,7,bot,"SCOTT, S flied out to cf.",85,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,8,top,"MUENCH, H to rf for TSUKADA, J.",86,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,8,top,"TSUKADA, J to lf for SCOTT, S.",87,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,8,top,"YOUNG, C to p for UMLANDT, N.",88,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,8,top,"Guerrero,A singled to first base.",89,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,8,top,"Guerrero,A advanced to second on a balk.",90,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,8,top,"Bower,C singled, bunt, advanced to second on an error by p3a Guerrero,A advanced to third, scored on an error by p, unearned.",91,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,8,top,"Kole,T struck out swinging.",92,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,8,top,"Knight,M flied out to rf.",93,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,8,top,"DeCarlo,S flied out to cf.",94,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,8,bot,"Nichols,G to p for Denomme,C.",95,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,8,bot,"LANDWEHR, J popped up to 2b.",96,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,8,bot,"BEAN, B struck out looking.",97,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,8,bot,"HEBERT, C struck out swinging.",98,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,9,top,"COX, C to p for YOUNG, C.",99,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,9,top,"Terry,B flied out to cf.",100,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,9,top,"Sanders,J homered to left field, RBI.",101,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,9,top,"Hotchkiss,J walked.",102,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,9,top,"O'Neal,E pinch hit for Crawford,C.",103,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,9,top,"O'Neal,E flied out to cf.",104,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,9,top,"Whitton,C pinch ran for Hotchkiss,J.",105,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,9,top,"Whitton,C stole second.",106,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,9,top,"Guerrero,A doubled to left center, RBI3a Whitton,C scored.",107,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,9,top,"Bower,C hit by pitch.",108,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596443,9,top,"Bower,C out at second c to 2b, caught stealing.",109,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,9,bot,"Whitton,C to rf.",110,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,9,bot,"Wilson,B to 2b for O'Neal,E.",111,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,9,bot,"TOGLIA, Z singled to left field.",112,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,9,bot,KATAYAMA-STA flied out to lf.,113,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,9,bot,"HOWARD, T singled through the left side3a TOGLIA, Z advanced to second.",114,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,9,bot,"MUENCH, H flied out to rf3a TOGLIA, Z advanced to third.",115,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025
+6311901,596443,Washington Huskies,596650,Portland Pilots,596650,9,bot,"SALK, J struck out swinging.",116,2025-03-11T00:00:00-04:00,"Joe Etzel Field (Portland, OR)",248,MBA,2025

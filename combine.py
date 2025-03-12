@@ -231,8 +231,8 @@ def main():
 
 
 if __name__ == "__main__":
-    # combine_rosters()
-    # combine_season_stats()
-    # combine_game_stats()
-    # game_to_season_stats_combiner(2025)
+    combine_rosters()
+    combine_season_stats()
+    combine_game_stats()
+    game_to_season_stats_combiner(2025)
     combine_raw_pbp()
