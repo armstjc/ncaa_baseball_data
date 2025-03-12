@@ -1,0 +1,89 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,1,top,R. Siegel struck out swinging.,1,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,1,top,W. Bordes singled to left field.,2,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,1,top,W. Bordes stole second.,3,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,1,top,"K. Murray struck out swinging; W. Bordes out at third c to 3b to 2b, caught stealing.",4,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,1,bot,"Hilliard, Cole struck out swinging.",5,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,1,bot,"Armbruster, Sam grounded out to ss.",6,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,1,bot,"Iorio, Max popped up to 2b.",7,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,2,top,L. Tsai flied out to cf.,8,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,2,top,"L. Foley struck out swinging, out at first c unassisted.",9,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,2,top,F. Cahill grounded out to 2b.,10,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,2,bot,"Cimino, Chris singled up the middle.",11,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,2,bot,"Sorenti-Burns, Alex popped up to 3b.",12,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,2,bot,"Martin,Max grounded out to 1b unassisted; Cimino, Chris advanced to second.",13,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,2,bot,"Lampert, Sebastian flied out to rf.",14,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,3,top,H. Bibeau singled through the right side.,15,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,3,top,W. Cooke walked; H. Bibeau advanced to second.,16,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,3,top,"C. Thompson reached first on a throwing error by p, SAC, bunt; W. Cooke advanced to second; H. Bibeau advanced to third, scored on the error.",17,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,3,top,"R. Siegel doubled to center field, 2 RBI; C. Thompson scored, unearned; W. Cooke scored.",18,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,3,top,R. Siegel stole third.,19,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,3,top,"W. Bordes fouled out to lf, sacrifice fly, RBI; R. Siegel scored.",20,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,3,top,K. Murray flied out to rf.,21,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,3,top,L. Tsai flied out to cf.,22,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,3,bot,"Mihalchik, Jack singled to left field.",23,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,3,bot,"Flynn, Colin singled to right field; Mihalchik, Jack advanced to second.",24,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,3,bot,"Hilliard, Cole reached first on a throwing error by c, SAC, bunt; Flynn, Colin advanced to second, advanced to third on the error; Mihalchik, Jack advanced to third, scored on the error, unearned.",25,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,3,bot,"Armbruster, Sam walked; Hilliard, Cole advanced to second.",26,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,3,bot,"Iorio, Max reached on a fielder's choice to shortstop, RBI; Armbruster, Sam out at second ss to 2b; Hilliard, Cole advanced to third; Flynn, Colin scored.",27,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,3,bot,"Cimino, Chris singled to left field, RBI; Iorio, Max advanced to second; Hilliard, Cole scored, unearned.",28,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,3,bot,"Cimino, Chris advanced to second on a balk; Iorio, Max advanced to third on a balk.",29,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,3,bot,"Sorenti-Burns, Alex walked.",30,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,3,bot,"Martin,Max walked, RBI; Sorenti-Burns, Alex advanced to second; Cimino, Chris advanced to third; Iorio, Max scored.",31,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,3,bot,A. Saavedra to p for McKerley Cor.,32,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,3,bot,"Lampert, Sebastian walked, RBI; Martin,Max advanced to second; Sorenti-Burns, Alex advanced to third; Cimino, Chris scored.",33,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,3,bot,"Mihalchik, Jack grounded out to 2b, RBI; Lampert, Sebastian advanced to second; Martin,Max advanced to third; Sorenti-Burns, Alex scored, unearned.",34,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,3,bot,"Flynn, Colin grounded out to ss.",35,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,4,top,L. Foley walked.,36,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,4,top,F. Cahill struck out looking.,37,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,4,top,H. Bibeau singled to left field; L. Foley advanced to second.,38,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,4,top,W. Cooke reached on a fielder's choice; H. Bibeau out at second 2b to ss; L. Foley advanced to third.,39,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,4,top,"W. Cooke out at second c to 2b, caught stealing.",40,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,4,bot,"Hilliard, Cole walked.",41,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,4,bot,"Armbruster, Sam struck out swinging, out on double play c to ss, interference; Hilliard, Cole out on the play, caught stealing.",42,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,4,bot,"Iorio, Max walked.",43,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,4,bot,J. Warren to p for A. Saavedra.,44,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,4,bot,"Iorio, Max advanced to second on a balk.",45,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,4,bot,"Cimino, Chris walked.",46,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,4,bot,"Sorenti-Burns, Alex hit by pitch; Cimino, Chris advanced to second; Iorio, Max advanced to third.",47,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,4,bot,"Martin,Max walked, RBI; Sorenti-Burns, Alex advanced to second; Cimino, Chris advanced to third; Iorio, Max scored.",48,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,4,bot,"Lampert, Sebastian reached on a fielder's choice; Martin,Max out at second ss to 2b.",49,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,5,top,"Maude, Ian to p for Drew, Nolan.",50,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,5,top,C. Thompson singled up the middle.,51,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,5,top,R. Siegel reached first on an error by 1b; C. Thompson advanced to second.,52,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,5,top,W. Bordes walked; R. Siegel advanced to second; C. Thompson advanced to third.,53,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,5,top,"K. Murray reached on a fielder's choice, RBI; W. Bordes out at second 3b to 2b; R. Siegel advanced to third; C. Thompson scored.",54,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,5,top,"L. Tsai singled through the left side, RBI; K. Murray advanced to second; R. Siegel scored, unearned.",55,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,5,top,L. Foley hit by pitch; L. Tsai advanced to second; K. Murray advanced to third.,56,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,5,top,"F. Cahill doubled down the rf line, 2 RBI; L. Foley advanced to third; L. Tsai scored; K. Murray scored.",57,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,5,top,H. Bibeau hit by pitch.,58,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,5,top,"Raimo, Jack to p for Maude, Ian.",59,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,5,top,W. Cooke struck out looking.,60,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,5,top,C. Thompson reached on a fielder's choice; H. Bibeau out at second ss to 2b.,61,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,5,bot,"Mihalchik, Jack struck out looking.",62,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,5,bot,"Flynn, Colin flied out to cf.",63,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,5,bot,"Hilliard, Cole singled to right field.",64,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,5,bot,"Hilliard, Cole out at second c to 2b, caught stealing.",65,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,6,top,R. Siegel walked.,66,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,6,top,W. Bordes reached on a fielder's choice; R. Siegel out at second ss to 2b.,67,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,6,top,K. Murray singled to center field; W. Bordes advanced to second.,68,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,6,top,"L. Tsai struck out swinging, out at first c to 1b; K. Murray stole second; W. Bordes stole third.",69,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,6,top,L. Foley flied out to cf.,70,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,6,bot,A. Aybar to p for J. Warren.,71,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,6,bot,"Armbruster, Sam struck out swinging.",72,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,6,bot,"Iorio, Max singled through the left side.",73,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,6,bot,"Cimino, Chris grounded into double play 2b to ss to 1b; Iorio, Max out on the play.",74,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,7,top,F. Cahill singled to center field.,75,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,7,top,H. Bibeau doubled to left center; F. Cahill advanced to third.,76,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,7,top,C. Moriarty pinch ran for H. Bibeau.,77,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,7,top,"W. Cooke doubled to left center, 2 RBI; C. Moriarty scored; F. Cahill scored.",78,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,7,top,"C. Thompson out at first 3b to 2b, SAC, bunt; W. Cooke advanced to third.",79,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,7,top,R. Siegel was intentionally walked.,80,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,7,top,"W. Bordes flied out to cf, sacrifice fly, RBI; W. Cooke scored.",81,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,7,top,R. Siegel stole second.,82,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597229,7,top,K. Murray struck out swinging.,83,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,7,bot,"Sorenti-Burns, Alex walked.",84,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,7,bot,"Martin,Max struck out swinging.",85,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,7,bot,H. Devine to p for A. Aybar.,86,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,7,bot,"Lampert, Sebastian flied out to rf.",87,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025
+6350285,597229,Bowdoin Polar Bears,597043,Suffolk Rams,597043,7,bot,"Mihalchik, Jack grounded out to 1b unassisted.",88,2025-03-10T00:00:00-04:00,"Davenport, FL",79,MBA,2025

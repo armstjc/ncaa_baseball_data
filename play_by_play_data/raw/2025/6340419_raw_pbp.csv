@@ -1,0 +1,116 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,1,top,Wyatt Crosby walked.,1,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,1,top,Kai Caranto flied out to lf.,2,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,1,top,Alec Garcia struck out swinging.,3,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,1,top,Lucas Danielewicz popped up to 1b.,4,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,1,bot,"Fishel, Jack singled to center field.",5,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,1,bot,"Fishel, Jack out at second c to ss, caught stealing.",6,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,1,bot,"Bernhardt, Jack doubled to left field.",7,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,1,bot,"Hu, Mark singled to first base3a Bernhardt, Jack advanced to third.",8,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,1,bot,"Kristufek, Thorsen struck out swinging.",9,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,1,bot,"Choudhari, Sayuj flied out to rf.",10,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,2,top,Troy Anderson walked.,11,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,2,top,Jona Dawson doubled to left field3a Troy Anderson advanced to third.,12,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,2,top,Sebastian Smith hit by pitch.,13,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,2,top,"Carlos Vega walked, RBI3a Sebastian Smith advanced to second3a Jona Dawson advanced to third3a Troy Anderson scored.",14,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,2,top,"Griffin Zitko singled to center field, RBI3a Carlos Vega advanced to second3a Sebastian Smith advanced to third3a Jona Dawson scored.",15,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,2,top,"Alderete, Jacob to p for Favretto, Lucas.",16,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,2,top,"Wyatt Crosby reached on a fielder's choice to shortstop, RBI3a Griffin Zitko out at second ss to 2b3a Carlos Vega advanced to third3a Sebastian Smith scored.",17,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,2,top,Kai Caranto grounded into double play ss to 2b to 1b3a Wyatt Crosby out on the play.,18,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,2,bot,"Minatel, William singled to right field.",19,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,2,bot,"Knuf, Garrett reached on a fielder's choice to shortstop3a Minatel, William out at second ss to 2b.",20,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,2,bot,"Speer, Edward singled to left field3a Knuf, Garrett advanced to second.",21,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,2,bot,"Hartman, Quinn singled to center field, RBI3a Speer, Edward advanced to second3a Knuf, Garrett scored.",22,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,2,bot,"Fishel, Jack flied out to lf.",23,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,2,bot,"Bernhardt, Jack singled to right field3a Hartman, Quinn advanced to second3a Speer, Edward advanced to third.",24,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,2,bot,"Bernhardt, Jack advanced to second3a Hartman, Quinn advanced to third3a Speer, Edward scored on a throwing error by c.",25,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,2,bot,"Hu, Mark walked.",26,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,2,bot,Joshua Kim to p for JJ Frazier.,27,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,2,bot,"Kristufek, Thorsen struck out swinging.",28,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,3,top,Alec Garcia hit by pitch.,29,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,3,top,"Lucas Danielewicz singled to left field, advanced to second on the throw3a Alec Garcia advanced to third.",30,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,3,top,"Troy Anderson lined out to cf, RBI3a Lucas Danielewicz advanced to third3a Alec Garcia scored.",31,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,3,top,"Jona Dawson grounded out to 2b, RBI3a Lucas Danielewicz scored.",32,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,3,top,Sebastian Smith singled to left field.,33,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,3,top,Carlos Vega flied out to cf.,34,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,3,bot,"Choudhari, Sayuj grounded out to 3b.",35,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,3,bot,"Minatel, William out at first 1b to p.",36,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,3,bot,"Knuf, Garrett flied out to rf.",37,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,4,top,Griffin Zitko singled to left field.,38,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,4,top,"Griffin Zitko out at second c to 2b, caught stealing.",39,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,4,top,Wyatt Crosby hit by pitch.,40,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,4,top,Kai Caranto walked3a Wyatt Crosby advanced to second.,41,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,4,top,"Gabbita, Varun to p for Alderete, Jacob.",42,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,4,top,"Alec Garcia singled to left field, RBI3a Kai Caranto advanced to second3a Wyatt Crosby scored.",43,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,4,top,Lucas Danielewicz reached on a fielder's choice to pitcher3a Alec Garcia out at second p to ss3a Kai Caranto advanced to third.,44,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,4,top,"Troy Anderson singled to left field, RBI3a Lucas Danielewicz advanced to third3a Kai Caranto scored.",45,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,4,top,"Troy Anderson advanced to second3a Lucas Danielewicz scored, on a passed ball, unearned.",46,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,4,top,Jona Dawson flied out to rf.,47,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,4,bot,"Speer, Edward doubled to left field.",48,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,4,bot,"Hartman, Quinn singled to center field3a Speer, Edward advanced to third.",49,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,4,bot,"Fishel, Jack reached on a fielder's choice to shortstop, RBI3a Hartman, Quinn out at second ss to 2b3a Speer, Edward scored.",50,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,4,bot,"Fishel, Jack out at second c to ss, caught stealing.",51,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,4,bot,"Bernhardt, Jack popped up to ss.",52,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,5,top,"Pradhan, Arjun to p for Gabbita, Varun.",53,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,5,top,Sebastian Smith hit by pitch.,54,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,5,top,Carlos Vega flied out to rf.,55,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,5,top,Griffin Zitko popped up to 3b.,56,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,5,top,Wyatt Crosby singled to right field3a Sebastian Smith advanced to second.,57,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,5,top,Kai Caranto reached on a fielder's choice to shortstop3a Wyatt Crosby advanced to second3a Sebastian Smith out at third ss unassisted.,58,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,5,bot,"Hu, Mark struck out looking.",59,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,5,bot,"Kristufek, Thorsen grounded out to 3b.",60,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,5,bot,"Choudhari, Sayuj hit by pitch.",61,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,5,bot,"Choudhari, Sayuj advanced to second on a passed ball.",62,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,5,bot,"Minatel, William struck out swinging.",63,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,Alec Garcia singled to right field.,64,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,Lucas Danielewicz hit by pitch3a Alec Garcia advanced to second.,65,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,"Troy Anderson singled to left field, RBI3a Lucas Danielewicz advanced to third3a Alec Garcia scored.",66,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,"Provost, Raymond to p for Pradhan, Arjun.",67,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,"Lucas Danielewicz scored on an error by 1b, failed pickoff attempt.",68,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,Jona Dawson singled to left field3a Troy Anderson advanced to second.,69,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,"Sebastian Smith doubled to center field, RBI3a Jona Dawson advanced to third3a Troy Anderson scored.",70,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,"Carlos Vega flied out to lf, sacrifice fly, RBI3a Sebastian Smith advanced to third3a Jona Dawson scored.",71,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,"Griffin Zitko singled to left field, RBI3a Sebastian Smith scored.",72,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,Wyatt Crosby doubled to left field3a Griffin Zitko advanced to third.,73,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,Kai Caranto popped up to 2b.,74,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,Alec Garcia walked.,75,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,"Lucas Danielewicz doubled to right field, 3 RBI3a Alec Garcia scored3a Wyatt Crosby scored3a Griffin Zitko scored.",76,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,"Alderete, Levi to 3b for Bernhardt, Jack.",77,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,"Hu, Mark to ss.",78,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,"Minatel, William to p.",79,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,"/  for Provost, Raymond.",80,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,Troy Anderson hit by pitch.,81,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,Jona Dawson singled to third base3a Troy Anderson advanced to second3a Lucas Danielewicz advanced to third.,82,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,6,top,Sebastian Smith flied out to lf.,83,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,6,bot,Oscar Lopez to p for Joshua Kim.,84,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,6,bot,"Knuf, Garrett struck out looking.",85,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,6,bot,"Speer, Edward grounded out to 3b.",86,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,6,bot,"Hartman, Quinn grounded out to ss.",87,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,7,top,Philip Jeong pinch hit for Carlos Vega.,88,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,7,top,Philip Jeong hit by pitch.,89,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,7,top,Noah Matsumoto pinch hit for Griffin Zitko.,90,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,7,top,Noah Matsumoto walked3a Philip Jeong advanced to second.,91,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,7,top,Ethan Dungo pinch hit for Wyatt Crosby.,92,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,7,top,Ethan Dungo singled to shortstop3a Noah Matsumoto advanced to second3a Philip Jeong advanced to third.,93,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,7,top,Josh Quinn pinch hit for Kai Caranto.,94,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,7,top,"Josh Quinn walked, RBI3a Ethan Dungo advanced to second3a Noah Matsumoto advanced to third3a Philip Jeong scored.",95,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,7,top,Zach Gardner pinch hit for Alec Garcia.,96,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,7,top,"Zach Gardner flied out to rf, sacrifice fly, RBI3a Noah Matsumoto scored.",97,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,7,top,Daniel Orozco pinch hit for Lucas Danielewicz.,98,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,7,top,Daniel Orozco grounded out to 1b unassisted3a Josh Quinn advanced to second3a Ethan Dungo advanced to third.,99,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,7,top,Jacob Rosenfeld pinch hit for Troy Anderson.,100,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597237,7,top,Jacob Rosenfeld grounded out to 3b.,101,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,7,bot,Ethan Dungo to lf.,102,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,7,bot,Josh Quinn to ss.,103,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,7,bot,Zach Gardner to cf.,104,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,7,bot,Daniel Orozco to rf.,105,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,7,bot,Oscar Lopez to p for Jacob Rosenfeld.,106,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,7,bot,Ryan Farr to 2b for Jona Dawson.,107,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,7,bot,Sebastian Smith to 1b.,108,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,7,bot,Philip Jeong to 3b.,109,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,7,bot,Noah Matsumoto to c.,110,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,7,bot,/  for Oscar Lopez.,111,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,7,bot,"Hamner, Aidan pinch hit for Fishel, Jack.",112,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,7,bot,"Hamner, Aidan struck out swinging.",113,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,7,bot,"Alderete, Levi struck out swinging.",114,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025
+6340419,597237,Cal Lutheran Kingsmen,597236,Caltech Beavers,597236,7,bot,"Hu, Mark flied out to rf.",115,2025-02-22T00:00:00-05:00,"North Field (Pasadena, CA)",43,MBA,2025

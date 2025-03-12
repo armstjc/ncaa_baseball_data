@@ -1,0 +1,134 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,1,top,"Patterson, D popped up to 3b (1-1 FB).",1,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,1,top,"Soper, M. reached on an error by 3b, advanced to second (0-2 FK).",2,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,1,top,"McFeely, B. singled to shortstop (0-1 F)3a Soper, M. out at second ss unassisted.",3,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,1,top,"McFeely, B. stole second.",4,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,1,top,"Dunn, T. singled to left field, RBI (2-2 FBFFB)3a McFeely, B. scored.",5,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,1,top,"Dunn, T. stole second.",6,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,1,top,"Veal, I. struck out swinging (2-2 FSBBS).",7,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,1,bot,PAPPAS singled to right field (0-1 K).,8,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,1,bot,SANDERS struck out swinging (2-2 FBBFS).,9,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,1,bot,MALERBA singled through the left side (0-2 KK)3a PAPPAS advanced to second.,10,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,1,bot,ANGULO walked (3-1 BBBKB)3a MALERBA advanced to second3a PAPPAS advanced to third.,11,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,1,bot,"GIBBONS singled to shortstop, RBI (1-1 BK)3a ANGULO advanced to second3a MALERBA advanced to third3a PAPPAS scored.",12,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,1,bot,"ARGUELLES walked, RBI (3-0 BBBB)3a GIBBONS advanced to second3a ANGULO advanced to third3a MALERBA scored.",13,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,1,bot,COTA struck out looking (1-2 KKBK).,14,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,1,bot,"PORTER, C. reached on a fielder's choice (1-0 B)3a ARGUELLES out at second ss to 2b.",15,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,2,top,"Di Maggio, J homered to left field, RBI (0-1 K).",16,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,2,top,"Bollengier,J singled to pitcher.",17,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,2,top,"Callahan, C. singled through the left side (1-1 BK)3a Bollengier,J advanced to second.",18,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,2,top,"McEvoy, T. flied out to cf (0-2 FK).",19,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,2,top,"Callahan, C. stole second3a Bollengier,J stole third.",20,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,2,top,"Patterson, D walked (3-1 BBKBB).",21,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,2,top,"Soper, M. reached on a fielder's choice, RBI (1-0 B)3a Patterson, D out at second ss to 2b3a Callahan, C. advanced to third3a Bollengier,J scored.",22,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,2,top,"McFeely, B. grounded out to 3b (2-2 FKBB).",23,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,2,bot,BETTEN struck out swinging (0-2 KFFS).,24,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,2,bot,"PAPPAS homered to left field, RBI (3-1 BBFB).",25,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,2,bot,SANDERS tripled to right center (3-2 KBFBB).,26,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,2,bot,"MALERBA grounded out to 2b, RBI (1-1 BK)3a SANDERS scored.",27,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,2,bot,ANGULO singled up the middle (1-2 FBFF).,28,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,2,bot,GIBBONS flied out to cf to right center (1-0 B).,29,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,3,top,"Dunn, T. grounded out to 3b (1-1 BF).",30,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,3,top,"Veal, I. singled to right field (2-2 BBSF).",31,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,3,top,"Di Maggio, J flied out to cf (1-2 FBF).",32,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,3,top,"Bollengier,J singled through the right side3a Veal, I. advanced to second.",33,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,3,top,"Callahan, C. struck out swinging, grounded out to c unassisted (3-2 BBBKFS).",34,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,3,bot,ARGUELLES walked (3-0 BBBB).,35,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,3,bot,COTA singled to left field (1-2 BKK)3a ARGUELLES advanced to second.,36,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,3,bot,"COTA advanced to second3a ARGUELLES out at third c to 3b, caught stealing.",37,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,3,bot,"PORTER, C. popped up to ss (1-2 BFSF).",38,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,3,bot,COTA advanced to third on a passed ball.,39,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,3,bot,BETTEN hit by pitch (3-2 BKBSB).,40,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,3,bot,PAPPAS flied out to cf (2-1 BKB).,41,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,4,top,"McEvoy, T. singled to left field.",42,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,4,top,ESQUIVAL to p for ADOLPHUS.,43,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,4,top,"Patterson, D reached on a fielder's choice (2-2 KFBFFB)3a McEvoy, T. out at second 2b to ss.",44,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,4,top,"Soper, M. doubled to right field, RBI (0-1 K)3a Patterson, D scored.",45,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,4,top,"Soper, M. stole third.",46,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,4,top,"McFeely, B. singled through the left side, RBI (0-1 K)3a Soper, M. scored.",47,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,4,top,"Dunn, T. flied out to lf to left center (1-0 B).",48,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,4,top,"McFeely, B. stole second.",49,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,4,top,"Veal, I. homered to left field, 2 RBI (1-2 KSBF)3a McFeely, B. scored.",50,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,4,top,"Di Maggio, J lined out to lf to left center (1-2 FBS).",51,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,4,bot,"Hickey, J. to p for Humphreys, R.",52,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,4,bot,SANDERS grounded out to 2b (0-0).,53,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,4,bot,MALERBA hit by pitch.,54,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,4,bot,ANGULO fouled out to 1b (0-1 K).,55,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,4,bot,GIBBONS walked (3-0 BBBB)3a MALERBA advanced to second.,56,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,4,bot,ARGUELLES flied out to cf to right center (3-1 BBKB).,57,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,5,top,"Bollengier,J doubled to right center (1-1 FB).",58,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,5,top,"Bollengier,J out at third c to 3b, caught stealing.",59,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,5,top,"Callahan, C. flied out to lf down the lf line (0-1 K).",60,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,5,top,"McEvoy, T. lined out to ss (1-2 KBS).",61,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,5,bot,COTA singled to left field.,62,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,5,bot,"PORTER, C. struck out looking (1-2 KBFK).",63,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,5,bot,COTA stole second.,64,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,5,bot,BETTEN reached on an error by ss (1-1 SB).,65,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,5,bot,PAPPAS struck out swinging (1-2 FBKS).,66,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,5,bot,SANDERS struck out swinging (1-2 KKBS).,67,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,6,top,"Patterson, D flied out to lf down the lf line.",68,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,6,top,"Soper, M. grounded out to 2b (2-1 BBK).",69,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,6,top,"McFeely, B. struck out swinging (0-2 KFS).",70,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,6,bot,MALERBA walked (3-2 KFBFFBBFB).,71,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,6,bot,ANGULO singled up the middle (0-2 KSFF)3a MALERBA advanced to second.,72,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,6,bot,GIBBONS struck out swinging (1-2 SKBS).,73,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,6,bot,ARGUELLES walked (3-1 BFBBB)3a ANGULO advanced to second3a MALERBA advanced to third.,74,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,6,bot,"COTA flied out to cf, SF, RBI3a MALERBA scored.",75,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,6,bot,"PORTER, C. popped up to ss (3-2 BBSKBF).",76,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,7,top,"Dunn, T. grounded out to ss (3-2 FBFBBF).",77,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,7,top,"Veal, I. homered down the lf line, RBI (1-1 SB).",78,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,7,top,"Di Maggio, J singled up the middle (1-0 B).",79,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,7,top,"Di Maggio, J advanced to second on a wild pitch.",80,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,7,top,"Bollengier,J grounded out to ss (1-2 KBF)3a Di Maggio, J advanced to third.",81,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,7,top,"Callahan, C. singled through the left side, RBI (2-1 KBB)3a Di Maggio, J scored.",82,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,7,top,"Callahan, C. out at second c to 2b, caught stealing.",83,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,7,bot,"Spencer, B. to p for Hickey, J..",84,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,7,bot,BETTEN flied out to rf (2-0 BB).,85,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,7,bot,PAPPAS singled up the middle (1-2 KBF).,86,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,7,bot,"SANDERS homered to left field, 2 RBI (0-1 K)3a PAPPAS scored.",87,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,7,bot,MALERBA walked (3-2 KBBBKB).,88,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,7,bot,"Lacy, W. to p for Spencer, B..",89,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,7,bot,ANGULO singled through the left side (1-0 B)3a MALERBA advanced to second.,90,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,7,bot,GIBBONS flied out to rf.,91,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,7,bot,ARGUELLES grounded out to 2b (1-1 BK).,92,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,8,top,VASQUEZ to p for ESQUIVAL.,93,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,8,top,"McEvoy, T. grounded out to p (2-1 BKB).",94,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,8,top,"Patterson, D reached on an error by 3b (0-0).",95,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,8,top,"Soper, M. struck out swinging (2-2 BBFFFFS).",96,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,8,top,"McFeely, B. flied out to cf (0-2 KFF).",97,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,8,bot,COTA flied out to cf (1-0 B).,98,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,8,bot,"PORTER, C. singled to center field (1-1 BF).",99,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,8,bot,"BETTEN grounded out to p, SAC, bunt (0-1 F)3a PORTER, C. advanced to second.",100,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,8,bot,PAPPAS flied out to rf (3-2 FBFBFB).,101,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,9,top,"Dunn, T. tripled to right field (0-2 KS).",102,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,9,top,"Veal, I. struck out swinging (2-2 BBKFS).",103,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,9,top,"Di Maggio, J doubled to left center, RBI (1-1 BF)3a Dunn, T. scored.",104,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,9,top,"Bollengier,J struck out swinging (3-2 KBBBSFS).",105,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,9,top,"Callahan, C. singled3a Di Maggio, J advanced to third, scored on an error by ss, unearned.",106,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,9,top,"McEvoy, T. flied out to cf.",107,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,9,bot,SANDERS struck out swinging (3-2 BKKBBFFFFS).,108,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,9,bot,MALERBA singled through the left side (0-1 K).,109,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,9,bot,ANGULO flied out to rf (2-2 BKKFBFF).,110,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,9,bot,GIBBONS singled to shortstop (0-2 FK)3a MALERBA advanced to second.,111,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,9,bot,ARGUELLES walked (3-2 KBBBKB)3a GIBBONS advanced to second3a MALERBA advanced to third.,112,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,9,bot,"COTA hit by pitch, RBI3a ARGUELLES advanced to second3a GIBBONS advanced to third3a MALERBA scored.",113,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,9,bot,"Reeve, G. to p for Lacy, W..",114,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,9,bot,"TRETO pinch hit for PORTER, C..",115,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,9,bot,"TRETO singled to left center, 2 RBI (3-2 BSSFBFFB)3a COTA advanced to third3a ARGUELLES scored3a GIBBONS scored.",116,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,9,bot,CHAFFEE pinch hit for BETTEN.,117,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,9,bot,"CHAFFEE doubled to left center, RBI (1-1 KB)3a TRETO advanced to third, out at home cf to ss to c3a COTA scored.",118,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,10,top,ARGUELLES to ss.,119,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,10,top,GONZALES to 2b for TRETO.,120,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,10,top,GOMEZ to 3b for CHAFFEE.,121,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,10,top,ALVAREZ to p for VASQUEZ.,122,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,10,top,"Patterson, D struck out swinging, out at first c to 1b (1-2 KBSS).",123,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,10,top,"Soper, M. walked (3-2 FKBFBFBB).",124,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,10,top,"Soper, M. advanced to second on a wild pitch.",125,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,10,top,"McFeely, B. grounded out to ss (2-2 BBKSF).",126,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596723,10,top,"Dunn, T. lined out to cf (2-2 SFBFB).",127,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,10,bot,"Johnson, E. to p for Reeve, G..",128,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,10,bot,PAPPAS doubled to left field (1-0 B).,129,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,10,bot,SANDERS intentionally walked (1-0 B).,130,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,10,bot,SANDERS advanced to second3a PAPPAS advanced to third on a wild pitch.,131,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,10,bot,MALERBA walked (3-1 FBBBB).,132,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
+6339287,596723,Westmont ,596865,Cal Poly Pomona Broncos,596865,10,bot,"ANGULO singled through the left side, RBI (1-0 B)3a MALERBA advanced to second3a SANDERS advanced to third3a PAPPAS scored.",133,2025-02-01T00:00:00-05:00,"Scolinos Field (Pomona, CA)",230,MBA,2025
