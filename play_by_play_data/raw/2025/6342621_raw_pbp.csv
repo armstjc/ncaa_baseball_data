@@ -1,0 +1,80 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,1,top,C.Hill walked.,1,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,1,top,G.Gabbert singled to right field3a C.Hill advanced to second.,2,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,1,top,B.Riddle walked3a G.Gabbert advanced to second3a C.Hill advanced to third.,3,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,1,top,"O.Pegg doubled to left field, 2 RBI3a B.Riddle advanced to third3a G.Gabbert scored3a C.Hill scored.",4,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,1,top,"N.Madas singled to center field, 2 RBI3a O.Pegg scored3a B.Riddle scored.",5,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,1,top,S.Kary flied out to rf.,6,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,1,top,M.Williamson grounded into double play 3b to 2b to 1b3a N.Madas out on the play.,7,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,1,bot,"Ochoa, N grounded out to p.",8,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,1,bot,"Castellanos, flied out to cf.",9,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,1,bot,"Phillips, B hit by pitch.",10,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,1,bot,"Phillips, B out at second c to ss, caught stealing.",11,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,2,top,C.Talley singled to third base.,12,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,2,top,S.Song flied out to lf.,13,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,2,top,"C.Hill doubled to left field, RBI3a C.Talley scored.",14,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,2,top,"G.Gabbert tripled to right field, RBI3a C.Hill scored.",15,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,2,top,B.Riddle hit by pitch.,16,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,2,top,"O.Pegg grounded out to p, SAC, bunt, RBI3a B.Riddle advanced to second3a G.Gabbert scored.",17,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,2,top,"N.Madas singled to left field, RBI3a B.Riddle scored.",18,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,2,top,S.Kary popped up to 2b.,19,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,2,bot,"Weidner, J hit by pitch.",20,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,2,bot,"Friedges, N struck out looking.",21,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,2,bot,"Benevides, M hit by pitch3a Weidner, J advanced to second.",22,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,2,bot,"Hull, J reached on a fielder's choice3a Benevides, M out at second ss to 2b3a Weidner, J advanced to third.",23,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,2,bot,"Vining, C struck out swinging.",24,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,3,top,"Ask, B to p for Douglas, O.",25,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,3,top,M.Williamson singled to right field.,26,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,3,top,C.Talley singled to center field3a M.Williamson advanced to third.,27,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,3,top,"S.Song singled to left field, RBI3a C.Talley advanced to second3a M.Williamson scored.",28,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,3,top,C.Hill grounded into double play 2b to ss to 1b3a S.Song out on the play3a C.Talley advanced to third.,29,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,3,top,G.Gabbert flied out to rf.,30,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,3,bot,"Ebeling, B struck out swinging.",31,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,3,bot,"Ochoa, N flied out to cf.",32,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,3,bot,"Castellanos, doubled to center field.",33,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,3,bot,"Phillips, B grounded out to 3b.",34,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,4,top,B.Riddle flied out to cf.,35,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,4,top,O.Pegg popped up to 1b.,36,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,4,top,N.Madas flied out to rf.,37,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,4,bot,"Weidner, J lined out to rf.",38,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,4,bot,"Friedges, N grounded out to 2b.",39,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,4,bot,"Benevides, M flied out to rf.",40,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,5,top,"Schmidt, J to 1b for Vining, C.",41,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,5,top,S.Kary flied out to rf.,42,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,5,top,M.Williamson flied out to cf.,43,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,5,top,C.Talley struck out swinging.,44,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,5,bot,"Hull, J struck out swinging.",45,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,5,bot,"Schmidt, J lined out to rf.",46,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,5,bot,"Ebeling, B walked.",47,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,5,bot,"Ochoa, N struck out swinging.",48,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,6,top,"S.Song struck out swinging, out at first c to 1b.",49,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,6,top,C.Hill grounded out to ss.,50,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,6,top,G.Gabbert singled to center field.,51,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,6,top,"B.Riddle doubled to left field, RBI3a G.Gabbert scored.",52,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,6,top,O.Pegg lined out to lf.,53,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,6,bot,N.Balandran to p for A.Disantis.,54,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,6,bot,"Castellanos, lined out to rf.",55,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,6,bot,"Mendez, A pinch hit for Phillips, B.",56,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,6,bot,"Mendez, A singled to left field.",57,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,6,bot,"Paar, X pinch hit for Weidner, J.",58,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,6,bot,"Paar, X out at first 1b to p3a Mendez, A advanced to second.",59,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,6,bot,"Friedges, N out at first 1b to p.",60,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,7,top,"Mendez, A to c.",61,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,7,top,"Paar, X to dh.",62,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,7,top,P.Rodgers to c for S.Song.,63,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,7,top,M.Iverson pinch hit for N.Madas.,64,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,7,top,M.Iverson flied out to lf.,65,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,7,top,S.Kary walked.,66,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,7,top,J.Orthner pinch hit for M.Williamson.,67,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,7,top,S.Kary advanced to second on a wild pitch.,68,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,7,top,S.Kary advanced to third on a balk.,69,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,7,top,"J.Orthner flied out to rf, SAC, RBI3a S.Kary scored.",70,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596818,7,top,C.Talley grounded out to 1b unassisted.,71,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,7,bot,M.Iverson to 2b.,72,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,7,bot,J.West to 3b for J.Orthner.,73,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,7,bot,A.Engel to p for N.Balandran.,74,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,7,bot,"Benevides, M singled to center field.",75,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,7,bot,"Hudson, M pinch hit for Hull, J.",76,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,7,bot,"Hudson, M reached on a fielder's choice3a Benevides, M out at second 2b to ss.",77,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,7,bot,"Hudson, M out at second c to ss, caught stealing.",78,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
+6342621,596818,Minot St. Beavers,596740,Northern St. Wolves,596740,7,bot,"Schmidt, J struck out swinging.",79,2025-03-12T00:00:00-04:00,"Tucson, AZ",123,MBA,2025
