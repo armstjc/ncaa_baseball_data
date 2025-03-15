@@ -1,0 +1,87 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,1,top,"Tirado, A grounded out to p (2-2 KBFBFFF).",1,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,1,top,"Sullivan, B fouled out to rf (0-0).",2,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,1,top,"Hanson, C struck out looking (3-2 BFBBSK).",3,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,1,bot,"JOURAS, N grounded out to ss (2-1 BBK).",4,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,1,bot,"DALY, J walked (3-2 KBKBBB).",5,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,1,bot,"DALY, J stole second.",6,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,1,bot,"CANON, C struck out swinging (0-2 KKS).",7,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,1,bot,O'SHAUGHNESS walked (3-2 KBBFBB).,8,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,1,bot,"COTRONE, J reached on a fielder's choice (1-0 B)3a O'SHAUGHNESS out at second ss to 2b.",9,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,2,top,"Kolben, R struck out swinging (0-2 KFFS).",10,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,2,top,"Schroeder, M singled to shortstop (0-0).",11,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,2,top,"Munoz, J hit by pitch (3-2 BBKBFF)3a Schroeder, M advanced to second.",12,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,2,top,"Willi, M singled through the right side, RBI (1-2 KFFB)3a Munoz, J advanced to second3a Schroeder, M scored.",13,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,2,top,"Travisano, M struck out looking (2-2 BKSFBK).",14,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,2,top,"Peters, J struck out swinging (1-2 KFFBS).",15,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,2,bot,"PUTNAM, E struck out swinging (0-2 KKS).",16,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,2,bot,"EDWARDS, S grounded out to 2b (1-1 BK).",17,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,2,bot,"SCHUCHART, C struck out looking (2-2 KBKFBK).",18,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,3,top,"Tirado, A lined out to 2b (1-0 B).",19,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,3,top,"Sullivan, B doubled to left field (1-1 KB).",20,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,3,top,"Hanson, C grounded out to 2b (1-0 B)3a Sullivan, B advanced to third.",21,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,3,top,"Kolben, R flied out to rf (0-0).",22,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,3,bot,"COLLINS, C popped up to 1b (3-2 BBKKB).",23,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,3,bot,"JOURAS, N flied out to lf (2-1 BBK).",24,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,3,bot,"DALY, J flied out to cf (1-2 BFF).",25,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,4,top,"Schroeder, M popped up to ss (0-2 KFF).",26,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,4,top,"Munoz, J grounded out to 3b (0-2 KKFF).",27,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,4,top,"Willi, M fouled out to rf (0-0).",28,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,4,bot,"CANON, C grounded out to ss (1-1 KB).",29,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,4,bot,O'SHAUGHNESS grounded out to 2b (1-1 FB).,30,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,4,bot,"COTRONE, J singled up the middle (0-0).",31,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,4,bot,"PUTNAM, E struck out swinging (2-2 SFBFBS).",32,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,5,top,"Travisano, M walked (3-0 BBBB).",33,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,5,top,"Peters, J grounded out to c, SAC, bunt (1-0 B)3a Travisano, M advanced to second.",34,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,5,top,"Tirado, A singled up the middle, RBI (0-0)3a Travisano, M scored.",35,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,5,top,"Tirado, A out at second c to 2b, caught stealing.",36,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,5,top,"Sullivan, B flied out to lf (2-2 KFBB).",37,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,5,bot,"EDWARDS, S struck out swinging (0-2 KFS).",38,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,5,bot,"SCHUCHART, C walked (3-1 BBKBB).",39,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,5,bot,"COLLINS, C grounded out to p, SAC, bunt (0-1 K)3a SCHUCHART, C advanced to second.",40,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,5,bot,"JOURAS, N singled, bunt (0-0)3a SCHUCHART, C advanced to third.",41,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,5,bot,"DALY, J walked (3-2 BBBKKB)3a JOURAS, N advanced to second.",42,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,5,bot,"CANON, C walked, RBI (3-2 BKBSBB)3a DALY, J advanced to second3a JOURAS, N advanced to third3a SCHUCHART, C scored.",43,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,5,bot,"O'SHAUGHNESS singled, advanced to second, 2 RBI (0-1 K)3a CANON, C advanced to third, scored on a throwing error by rf, unearned3a DALY, J scored3a JOURAS, N scored.",44,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,5,bot,"COTRONE, J hit by pitch (2-2 KBBFF).",45,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,5,bot,"PUTNAM, E reached on a fielder's choice (1-2 BKS)3a COTRONE, J advanced to second3a O'SHAUGHNESS out at third 3b unassisted.",46,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,6,top,"Hanson, C struck out looking (0-2 KKK).",47,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,6,top,"Kolben, R popped up to ss (1-1 BK).",48,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,6,top,"Schroeder, M struck out swinging (3-2 BBKBKS).",49,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,6,bot,"Levine, J to p for O'Connor, R.",50,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,6,bot,"EDWARDS, S homered to left field, RBI (0-1 K).",51,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,6,bot,"SCHUCHART, C grounded out to p (2-2 KBBF).",52,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,6,bot,"COLLINS, C flied out to rf (2-2 KBBK).",53,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,6,bot,"JOURAS, N flied out to cf (2-2 BFSB).",54,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,7,top,"Munoz, J hit by pitch (1-2 BSF).",55,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,7,top,"Willi, M struck out looking (0-2 SKK).",56,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,7,top,"Travisano, M singled to center field (0-2 FS)3a Munoz, J advanced to second.",57,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,7,top,"McCarthy, R pinch hit for Peters, J.",58,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,7,top,"McCarthy, R reached on a fielder's choice (1-2 KKFFFB)3a Travisano, M advanced to second3a Munoz, J out at third ss to 3b.",59,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,7,top,"VOKAL, J to p for PERKINS, W.",60,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,7,top,"Tirado, A hit by pitch (0-1 F)3a McCarthy, R advanced to second3a Travisano, M advanced to third.",61,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,7,top,"Sullivan, B struck out swinging (0-2 FKS).",62,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,7,bot,"Travisano, M to ss.",63,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,7,bot,"McCarthy, R to 3b.",64,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,7,bot,"DALY, J singled to right field (2-0 BB).",65,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,7,bot,"CANON, C hit by pitch (1-2 KSBF)3a DALY, J advanced to second.",66,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,7,bot,"O'SHAUGHNESS homered down the lf line, 3 RBI (2-1 BBF)3a CANON, C scored3a DALY, J scored.",67,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,7,bot,"COTRONE, J struck out looking (2-2 FKBBK).",68,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,7,bot,"PUTNAM, E singled up the middle (2-2 FBSFFB).",69,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,7,bot,"Terwilliger to p for Levine, J.",70,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,7,bot,"EDWARDS, S flied out to cf (1-1 KB).",71,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,7,bot,"SCHUCHART, C flied out to cf (0-0).",72,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,8,top,"Hanson, C struck out swinging (3-2 BKBKBS).",73,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,8,top,"Kolben, R flied out to cf (2-1 BBK).",74,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,8,top,"Schroeder, M popped up to ss (1-2 KKFBF).",75,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,8,bot,"COLLINS, C doubled to left field (0-0).",76,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,8,bot,"COLLINS, C advanced to third on a passed ball.",77,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,8,bot,"JOURAS, N struck out looking (1-2 BSFK).",78,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,8,bot,"DALY, J singled to right field, RBI (2-0 BB)3a COLLINS, C scored, unearned.",79,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,8,bot,"CANON, C popped up to ss (0-2 SF).",80,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596531,8,bot,O'SHAUGHNESS lined out to 2b (1-2 FBK).,81,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,9,top,"Munoz, J doubled to left center (1-1 KB).",82,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,9,top,"Willi, M flied out to cf (3-2 BBFBK)3a Munoz, J advanced to third.",83,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,9,top,"Travisano, M grounded out to 3b, RBI (1-2 BKS)3a Munoz, J scored.",84,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,9,top,"McCarthy, R singled to center field (2-2 FBFB).",85,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025
+6301843,596595,Massachusetts Minutemen,596531,Davidson Wildcats,596595,9,top,"Tirado, A grounded out to ss (1-2 SBF).",86,2025-03-14T00:00:00-04:00,"Wilson Field (Davidson, NC)",313,MBA,2025

@@ -1,0 +1,87 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,1,top,Matthew Thig struck out looking.,1,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,1,top,Nolan Turner flied out to lf.,2,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,1,top,Mike Morriso grounded out to p.,3,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,1,bot,"TALLINGTON,D walked.",4,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,1,bot,"TALLINGTON,D stole second.",5,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,1,bot,"MUNGENAST,D hit by pitch.",6,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,1,bot,"RUTLEDGE,A struck out swinging.",7,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,1,bot,"HARDY,A flied out to cf3a TALLINGTON,D advanced to third.",8,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,1,bot,"QUARLES,K doubled to right field, RBI3a MUNGENAST,D advanced to third3a TALLINGTON,D scored.",9,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,1,bot,"HILL,C grounded out to 3b.",10,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,2,top,Parker Ingra doubled down the lf line.,11,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,2,top,Zach Kwiatko grounded out to 3b.,12,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,2,top,Rushton Bowl flied out to cf3a Parker Ingra advanced to third.,13,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,2,top,Wyatt Talik lined out to ss.,14,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,2,bot,"MUHAMMAD,R fouled out to 1b.",15,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,2,bot,"MCDANIEL,A grounded out to 2b.",16,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,2,bot,"HENDERSON,JR popped up to ss.",17,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,3,top,"Aidan Cannad homered to right center, RBI.",18,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,3,top,Roland Chanc flied out to cf.,19,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,3,top,Matthew Thig grounded out to ss.,20,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,3,top,Nolan Turner fouled out to 1b.,21,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,3,bot,"TALLINGTON,D reached on a throwing error by 3b, advanced to second.",22,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,3,bot,"MUNGENAST,D reached on a fielder's choice3a TALLINGTON,D out at third cf to 3b.",23,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,3,bot,"RUTLEDGE,A reached on a fielder's choice3a MUNGENAST,D out at second ss to 2b.",24,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,3,bot,"RUTLEDGE,A advanced to second on a wild pitch.",25,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,3,bot,"HARDY,A reached on an error by ss3a RUTLEDGE,A scored, unearned.",26,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,3,bot,"QUARLES,K grounded out to 1b unassisted.",27,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,4,top,Mike Morriso flied out to lf.,28,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,4,top,Parker Ingra grounded out to ss.,29,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,4,top,Zach Kwiatko walked.,30,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,4,top,Rushton Bowl struck out swinging.,31,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,4,bot,"HILL,C homered to left center, RBI.",32,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,4,bot,"MUHAMMAD,R popped up to rf.",33,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,4,bot,"MCDANIEL,A walked.",34,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,4,bot,"HENDERSON,JR struck out looking.",35,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,4,bot,"MCDANIEL,A out at second c to ss, caught stealing.",36,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,5,top,Wyatt Talik struck out swinging.,37,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,5,top,Aidan Cannad singled up the middle.,38,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,5,top,Roland Chanc walked3a Aidan Cannad advanced to second.,39,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,5,top,"Matthew Thig doubled down the lf line, RBI3a Roland Chanc advanced to third3a Aidan Cannad scored.",40,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,5,top,"Nolan Turner grounded out to ss, RBI3a Roland Chanc scored.",41,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,5,top,Mike Morriso flied out to cf.,42,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,5,bot,"TALLINGTON,D flied out to cf.",43,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,5,bot,"MUNGENAST,D struck out swinging.",44,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,5,bot,"RUTLEDGE,A singled up the middle.",45,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,5,bot,"HARDY,A grounded out to 3b.",46,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,6,top,Parker Ingra popped up to cf.,47,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,6,top,Zach Kwiatko flied out to lf.,48,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,6,top,Rushton Bowl flied out to lf.,49,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,6,bot,"QUARLES,K reached on an error by 2b.",50,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,6,bot,"HILL,C reached on a fielder's choice3a QUARLES,K out at second 3b to 2b.",51,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,6,bot,"MUHAMMAD,R singled to center field3a HILL,C advanced to second.",52,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,6,bot,"MCDANIEL,A singled down the lf line, advanced to second, RBI3a MUHAMMAD,R advanced to third3a HILL,C scored.",53,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,6,bot,Gavin Zoelle to p for Caleb Bohn.,54,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,6,bot,"HENDERSON,JR reached on a fielder's choice3a MCDANIEL,A advanced to third3a MUHAMMAD,R out at home ss to c.",55,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,6,bot,"HENDERSON,JR stole second.",56,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,6,bot,"TALLINGTON,D walked.",57,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,6,bot,"MUNGENAST,D flied out to cf.",58,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,7,top,"BONNER,E to p for HAWKINS,K.",59,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,7,top,Wyatt Talik hit by pitch.,60,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,7,top,Aidan Cannad flied out to rf.,61,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,7,top,Roland Chanc singled to shortstop3a Wyatt Talik advanced to second.,62,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,7,top,"Matthew Thig reached on a fielder's choice3a Roland Chanc advanced to third3a Wyatt Talik advanced to third on an error by 3b, out at home 3b to c.",63,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,7,top,Nolan Turner popped up to 2b.,64,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,7,bot,"RUTLEDGE,A flied out to lf.",65,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,7,bot,"HARDY,A grounded out to ss.",66,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,7,bot,"QUARLES,K struck out looking.",67,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,8,top,Mike Morriso singled to right field.,68,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,8,top,Parker Ingra struck out swinging.,69,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,8,top,Mike Morriso advanced to second on a wild pitch.,70,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,8,top,Zach Kwiatko singled through the left side3a Mike Morriso advanced to third.,71,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,8,top,Rushton Bowl struck out looking.,72,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,8,top,"Wyatt Talik reached on an error by 3b3a Zach Kwiatko advanced to third3a Mike Morriso scored, unearned.",73,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,8,top,"Wyatt Talik advanced to second3a Zach Kwiatko scored on a passed ball, unearned.",74,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,8,top,Aidan Cannad struck out swinging.,75,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,8,bot,"HILL,C struck out looking.",76,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,8,bot,"MUHAMMAD,R popped up to ss.",77,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,8,bot,"MCDANIEL,A struck out looking.",78,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,9,top,"Roland Chanc homered to center field, RBI.",79,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,9,top,Matthew Thig grounded out to 3b.,80,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,9,top,Nolan Turner fouled out to 1b.,81,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596857,9,top,Mike Morriso flied out to lf.,82,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,9,bot,"JACKSON,C pinch hit for HENDERSON,JR.",83,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,9,bot,"JACKSON,C struck out swinging.",84,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,9,bot,"TALLINGTON,D grounded out to 2b.",85,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025
+6342902,596857,Augusta Jaguars,596807,Claflin Panthers,596807,9,bot,"MUNGENAST,D struck out swinging.",86,2025-03-14T00:00:00-04:00,"Historic Mirmow Field (Orangeburg, SC)",112,MBA,2025

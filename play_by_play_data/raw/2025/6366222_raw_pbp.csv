@@ -1,0 +1,85 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,1,top,"Cooper, G. tripled to right center (0-0).",1,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,1,top,"Shulman, T. popped up to 3b (1-2 BKK).",2,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,1,top,"Kang, J. struck out, out at first c to 1b (2-2 BKBFS).",3,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,1,top,"Lybrook, W. struck out looking (0-2 KSK).",4,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,1,bot,Gerety struck out looking (2-2 KSBBK).,5,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,1,bot,Feinberg grounded out to 3b (0-2 KS).,6,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,1,bot,Maldonado grounded out to 3b (0-1 S).,7,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,2,top,"Colasante, G struck out swinging (0-2 KSS).",8,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,2,top,"Lane, M. hit by pitch (0-0).",9,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,2,top,"Lane, M. out at second p to 1b to ss, caught stealing, picked off.",10,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,2,top,"Feller, S. struck out swinging (1-2 KFBS).",11,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,2,bot,J. Goodman doubled to right center (0-0).,12,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,2,bot,Musacchia fouled out to c (0-1 F).,13,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,2,bot,J. Goodman stole third.,14,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,2,bot,Fosberg grounded out to p (2-2 BKSBF).,15,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,2,bot,"J. Goodman scored on a passed ball, unearned.",16,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,2,bot,A. Lane struck out swinging (2-2 BSSFBS).,17,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,3,top,"Rickheim, J. struck out swinging (1-2 KBKFS).",18,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,3,top,"Giberti, M. hit by pitch (2-2 BBKF).",19,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,3,top,"Giberti, M. out at second p to 1b to ss, picked off, caught stealing.",20,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,3,top,"Cooper, G. doubled down the lf line (0-1 K).",21,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,3,top,"Shulman, T. flied out to rf (2-2 BBKSF).",22,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,3,bot,"Bosland struck out swinging, out at first c to 1b (2-2 BKBFS).",23,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,3,bot,Bozzo grounded out to ss (2-0 BB).,24,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,3,bot,Gerety walked (3-1 BBKBB).,25,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,3,bot,Gerety stole second.,26,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,3,bot,Feinberg singled to pitcher (3-2 SKBBB)3a Gerety advanced to third.,27,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,3,bot,Feinberg stole second.,28,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,3,bot,Maldonado walked (3-2 BBFBSB).,29,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,3,bot,J. Goodman grounded out to p (2-0 BB).,30,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,4,top,"Kang, J. struck out looking (3-2 KBSBBK).",31,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,4,top,"Lybrook, W. struck out swinging (0-2 KSS).",32,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,4,top,"Colasante, G struck out swinging (1-2 KKBS).",33,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,4,bot,Musacchia singled to left field (3-2 BFBFB).,34,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,4,bot,Musacchia stole second.,35,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,4,bot,Fosberg fouled out to 3b (2-2 KSBB).,36,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,4,bot,Musacchia stole third.,37,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,4,bot,A. Lane struck out looking (1-2 KBFK).,38,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,4,bot,Bosland hit by pitch (2-1 BBS).,39,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,4,bot,Bosland stole second.,40,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,4,bot,Bozzo walked (3-0 BBBB).,41,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,4,bot,Gerety grounded out to ss (0-0).,42,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,5,top,"Lane, M. struck out swinging (2-2 SBBFFS).",43,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,5,top,"Feller, S. popped up to 1b (1-2 KSB).",44,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,5,top,"Rickheim, J. grounded out to ss (1-1 BF).",45,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,5,bot,"McHugh, R. to p for Fang, C..",46,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,5,bot,Feinberg doubled to center field (3-2 KBSBB).,47,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,5,bot,Maldonado singled to left center (3-2 SBFBB)3a Feinberg advanced to third.,48,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,5,bot,"J. Goodman doubled to right center, ground-rule, RBI (1-0 B)3a Maldonado advanced to third3a Feinberg scored.",49,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,5,bot,"Musacchia reached on a throwing error by ss, RBI (1-0 B)3a J. Goodman no advance3a Maldonado scored.",50,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,5,bot,Musacchia stole second3a J. Goodman stole third.,51,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,5,bot,Fosberg struck out swinging (3-2 KBBFFBS).,52,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,5,bot,"A. Lane grounded out to ss, RBI (0-2 KSFF)3a Musacchia advanced to third3a J. Goodman scored, unearned.",53,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,5,bot,"Musacchia scored on a balk, unearned.",54,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,5,bot,Bosland grounded out to 2b (1-0 B).,55,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,6,top,C. Walker to p for W. Jones.,56,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,6,top,"Giberti, M. flied out to rf (1-2 FKB).",57,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,6,top,"Cooper, G. singled up the middle (0-2 SK).",58,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,6,top,"Shulman, T. struck out swinging (0-2 FFS).",59,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,6,top,"Kang, J. struck out looking (2-2 KBSFFBK).",60,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,6,bot,"Bergsma, C. to p for McHugh, R..",61,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,6,bot,Bozzo grounded out to ss (1-0 B).,62,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,6,bot,Gerety grounded out to 1b unassisted (2-1 BBK).,63,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,6,bot,Feinberg grounded out to 3b (1-0 B).,64,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,7,top,Chr. Walsh to 3b for Maldonado.,65,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,7,top,Bosland to cf.,66,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,7,top,"Lybrook, W. struck out swinging (0-2 FFS).",67,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,7,top,"Colasante, G struck out swinging (0-2 KSS).",68,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,7,top,"Lane, M. grounded out to 3b (0-2 KF).",69,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,7,bot,Chr. Walsh struck out swinging (0-2 SSS).,70,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,7,bot,J. Goodman walked (3-0 BBBB).,71,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,7,bot,"Musacchia singled to pitcher, bunt (0-0)3a J. Goodman advanced to second.",72,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,7,bot,Fosberg grounded out to 2b (1-1 BK)3a Musacchia advanced to second3a J. Goodman advanced to third.,73,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,7,bot,A. Lane flied out to lf (1-0 B).,74,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,8,top,"Feller, S. flied out to cf (2-1 BSB).",75,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,8,top,"Rickheim, J. popped up to 2b (2-0 BB).",76,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,8,top,"Giberti, M. out at first 1b to p (0-0).",77,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,8,bot,"Bosland grounded out to p, bunt (0-0).",78,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,8,bot,Bozzo grounded out to ss (1-1 KB).,79,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596631,8,bot,Gerety grounded out to 2b (1-1 SB).,80,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,9,top,Bentley to rf for Gerety.,81,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,9,top,"Cooper, G. flied out to cf (3-2 SBBKFBF).",82,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,9,top,"Shulman, T. grounded out to 1b unassisted (1-0 B).",83,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6366222,596556,Harvard Crimson,596631,Northeastern Huskies,596556,9,top,"Kang, J. struck out swinging (1-2 KKBS).",84,2025-03-14T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025

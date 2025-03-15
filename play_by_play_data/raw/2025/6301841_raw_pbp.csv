@@ -1,0 +1,93 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,1,top,No play.,1,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,1,top,Spanier popped up to 2b (1-0 B).,2,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,1,top,Richter flied out to cf (1-1 BF).,3,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,1,top,Berkland singled up the middle (1-1 BK).,4,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,1,top,Beat the throw from the second baseman.,5,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,1,top,Perry lined out to ss (0-0).,6,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,1,bot,"Neville, M flied out to rf (0-0).",7,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,1,bot,"Hellman, D grounded out to ss (1-1 BK).",8,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,1,bot,"Meggers, C grounded out to 1b unassisted (0-1 K).",9,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,2,top,Knoll struck out looking (3-2 BFKBBFFK).,10,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,2,top,Sutherland singled through the left side (0-1 F).,11,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,2,top,"Hellum singled down the 1b line, bunt (1-0 B)3a Sutherland advanced to second.",12,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,2,top,Neels struck out looking (2-2 BBSKK).,13,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,2,top,Elbeery struck out swinging (2-2 BSSBS).,14,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,2,bot,"Walsh, J walked (3-0 BBBB).",15,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,2,bot,"Molony, M struck out looking (3-2 BBBKKK).",16,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,2,bot,"Walsh, J advanced to second on a wild pitch.",17,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,2,bot,"Aroz, A doubled to right center, RBI (1-2 BSS)3a Walsh, J scored.",18,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,2,bot,"Heard, J hit by pitch (1-0 B).",19,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,2,bot,"Cooney, R struck out looking (1-2 KBFK).",20,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,2,bot,"Garate, C hit by pitch (0-0)3a Heard, J advanced to second3a Aroz, A advanced to third.",21,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,2,bot,"Neville, M reached on a fielding error by 2b (0-0)3a Garate, C advanced to second3a Heard, J advanced to third3a Aroz, A scored, unearned.",22,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,2,bot,"Hellman, D walked, RBI (3-0 BBBB)3a Neville, M advanced to second3a Garate, C advanced to third3a Heard, J scored, unearned.",23,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,2,bot,"Meggers, C singled up the middle, RBI (1-2 BKK)3a Hellman, D advanced to second3a Neville, M advanced to third, out at home ss to c3a Garate, C scored, unearned.",24,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,3,top,Spanier struck out looking (3-2 BBKBKK).,25,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,3,top,Richter doubled to right field (2-0 BB).,26,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,3,top,Berkland flied out to cf (3-1 BBSB).,27,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,3,top,Perry grounded out to 3b (1-2 KFBF).,28,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,3,bot,"Walsh, J grounded out to 2b (1-1 BF).",29,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,3,bot,"Molony, M homered to left field, RBI (1-1 KB).",30,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,3,bot,"Aroz, A singled to right field (2-2 BBFF).",31,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,3,bot,"Heard, J flied out to cf (0-2 KK).",32,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,3,bot,"Cooney, R singled up the middle (0-1 K)3a Aroz, A advanced to second.",33,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,3,bot,"Garate, C popped up to 3b (2-1 SBB).",34,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,4,top,Knoll struck out swinging (1-2 FBSS).,35,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,4,top,Sutherland grounded out to ss (3-2 FFFBBB).,36,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,4,top,Hellum struck out swinging (3-2 FKBFBBFS).,37,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,4,bot,"Neville, M flied out to cf (3-2 BKBKFBF).",38,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,4,bot,"Hellman, D grounded out to ss (0-0).",39,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,4,bot,"Meggers, C struck out swinging (0-2 KSS).",40,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,5,top,Neels lined out to 3b (0-1 F).,41,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,5,top,Elbeery doubled to right center (2-0 BB).,42,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,5,top,Spanier struck out looking (1-2 KBKFFK).,43,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,5,top,Richter walked (3-1 BBBKB).,44,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,5,top,Berkland flied out to rf (2-0 BB).,45,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,5,bot,"Walsh, J flied out to cf (3-2 BFBKFBF).",46,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,5,bot,"Molony, M singled through the left side (1-1 BK).",47,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,5,bot,"Aroz, A flied out to cf to left center (3-2 BBKFB).",48,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,5,bot,"Molony, M stole second.",49,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,5,bot,"Heard, J grounded out to ss (2-2 KFBBF).",50,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,6,top,"Reitz, J to p for Grinsell, G.",51,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,6,top,Perry out at first 1b to p (1-2 FFFFBF).,52,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,6,top,Knoll struck out looking (2-2 SKBBK).,53,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,6,top,Sutherland grounded out to 2b (1-1 BK).,54,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,6,bot,"Cooney, R singled to third base, bunt (2-1 BKB).",55,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,6,bot,"Garate, C lined into double play ss to 1b (1-2 BKFF)3a Cooney, R out on the play.",56,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,6,bot,"Neville, M singled to right field (3-1 KBBB).",57,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,6,bot,Sperry to p for Selvig.,58,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,6,bot,"Neville, M out at second c to 2b, caught stealing.",59,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,7,top,Hellum struck out swinging (1-2 FKBS).,60,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,7,top,Neels flied out to rf (1-1 BK).,61,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,7,top,Elbeery singled to center field (1-1 BK).,62,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,7,top,"Spanier doubled to left field, RBI (1-0 B)3a Elbeery scored.",63,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,7,top,"Richter singled to left center, RBI (2-2 BBKS)3a Spanier scored.",64,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,7,top,Berkland popped up to 2b (1-1 BF).,65,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,7,bot,"Mabeus, B pinch hit for Hellman, D.",66,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,7,bot,"Mabeus, B walked (3-2 FBBKBB).",67,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,7,bot,"Meggers, C struck out looking (1-2 FBSK).",68,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,7,bot,"Walsh, J popped up to ss (1-1 BF).",69,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,7,bot,"Molony, M popped up to 3b (1-2 BFSFFFF).",70,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,8,top,Perry singled through the left side (1-2 SFB).,71,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,8,top,Larson pinch ran for Perry.,72,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,8,top,Knoll reached on a fielder's choice (0-0)3a Larson out at second p to ss.,73,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,8,top,Sutherland struck out looking (1-2 BFFK).,74,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,8,top,"Knoll out at second c to ss, caught stealing.",75,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,8,bot,Larson to 3b.,76,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,8,bot,"Aroz, A struck out looking (1-2 SSBFK).",77,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,8,bot,"Heard, J walked (3-0 BBBB).",78,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,8,bot,"Brooks, J pinch ran for Heard, J.",79,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,8,bot,"Brooks, J out at second c to ss, caught stealing.",80,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,8,bot,"Cooney, R walked (3-1 BBBKB).",81,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,8,bot,"Garate, C walked (3-1 BBKBB)3a Cooney, R advanced to second.",82,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,8,bot,Clausen to p for Sperry.,83,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596644,8,bot,"Neville, M struck out swinging, out at first c to 1b (0-2 SKS).",84,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,9,top,"Brooks, J to rf.",85,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,9,top,Hellum doubled down the rf line (2-1 BKB).,86,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,9,top,Neels walked (3-2 BBKBKB).,87,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,9,top,"Stokes, C to p for Reitz, J.",88,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,9,top,Elbeery struck out looking (0-2 SKK).,89,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,9,top,Spanier walked (3-2 BBBKSB)3a Neels advanced to second3a Hellum advanced to third.,90,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,9,top,Richter popped up to ss (3-2 BBBKF).,91,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
+6301841,596604,Minnesota Golden Gophers,596644,Oregon Ducks,596604,9,top,Berkland struck out looking (2-2 BBFFK).,92,2025-03-14T00:00:00-04:00,"PK Park (Eugene, OR)",2419,MBA,2025
