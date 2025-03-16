@@ -1,0 +1,109 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,1,top,C. Pyle flied out to lf.,1,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,1,top,H. Jennings flied out to rf.,2,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,1,top,L. Sawyer popped up to ss.,3,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,1,bot,R. Farris struck out swinging.,4,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,1,bot,S. Lloyd grounded out to 1b unassisted.,5,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,1,bot,Z. Geertsen struck out looking.,6,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,2,top,C. Oehler popped up to 2b.,7,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,2,top,F. Vasquez struck out swinging.,8,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,2,top,L. Morton singled to center field.,9,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,2,top,T. Kelson flied out to lf.,10,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,2,bot,S. Hall grounded out to 3b.,11,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,2,bot,M. Smith walked.,12,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,2,bot,M. Jones singled to left field; M. Smith advanced to second.,13,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,2,bot,B. Horsley reached on a fielder's choice; M. Jones out at second 2b to ss; M. Smith advanced to third.,14,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,2,bot,G. Moore struck out swinging.,15,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,3,top,H. Busque singled to left center.,16,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,3,top,"L. Granata reached first on an error by p, SAC, bunt; H. Busque advanced to second.",17,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,3,top,C. Pyle walked; L. Granata advanced to second; H. Busque advanced to third.,18,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,3,top,"H. Jennings flied out to cf, SAC, RBI; H. Busque scored.",19,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,3,top,"L. Sawyer singled to left field, RBI; C. Pyle advanced to second; L. Granata scored, unearned.",20,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,3,top,"C. Oehler doubled through the right side, RBI; L. Sawyer advanced to third; C. Pyle scored.",21,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,3,top,A. Newcomb pinch ran for C. Oehler.,22,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,3,top,"F. Vasquez flied out to cf, SAC, RBI; A. Newcomb advanced to third; L. Sawyer scored.",23,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,3,top,"L. Morton singled to center field, RBI; A. Newcomb scored.",24,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,3,top,"L. Morton stole second, scored on an error by cf, unearned.",25,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,3,top,T. Kelson singled to left center.,26,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,3,top,B. Agnew to p for J. Hill.,27,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,3,top,T. Kelson stole second.,28,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,3,top,H. Busque reached first on an error by 3b; T. Kelson advanced to third.,29,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,3,top,L. Granata reached on a fielder's choice; H. Busque out at second ss to 2b.,30,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,3,bot,C. Oehler pinch ran for A. Newcomb.,31,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,3,bot,C. Oehler to 1b.,32,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,3,bot,M. jr lined out to 1b.,33,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,3,bot,R. Farris struck out swinging.,34,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,3,bot,S. Lloyd struck out looking.,35,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,4,top,C. Pyle doubled through the left side.,36,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,4,top,"H. Jennings singled to left center, RBI; C. Pyle scored.",37,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,4,top,H. Jennings advanced to second on a wild pitch.,38,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,4,top,L. Sawyer flied out to cf.,39,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,4,top,C. Oehler grounded out to ss.,40,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,4,top,F. Vasquez grounded out to 3b.,41,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,4,bot,"Z. Geertsen doubled to center field, ground-rule.",42,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,4,bot,S. Hall grounded out to p; Z. Geertsen advanced to third.,43,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,4,bot,"M. Smith reached first on an error by 2b, RBI; Z. Geertsen scored.",44,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,4,bot,M. Jones walked; M. Smith advanced to second.,45,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,4,bot,B. Horsley struck out swinging.,46,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,4,bot,G. Moore struck out swinging.,47,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,5,top,L. Morton singled to left field.,48,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,5,top,L. Morton advanced to second on a passed ball.,49,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,5,top,T. Kelson struck out swinging.,50,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,5,top,H. Busque struck out swinging.,51,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,5,top,"L. Granata singled, RBI; L. Morton scored, unearned.",52,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,5,top,C. Pyle flied out to rf.,53,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,5,bot,M. jr flied out to rf.,54,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,5,bot,R. Farris grounded out to p.,55,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,5,bot,S. Lloyd walked.,56,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,5,bot,Z. Geertsen flied out to rf.,57,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,6,top,B. Steelman to p for B. Agnew.,58,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,6,top,H. Jennings walked.,59,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,6,top,L. Sawyer flied out to cf.,60,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,6,top,C. Oehler flied out to lf.,61,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,6,top,"F. Vasquez homered, 2 RBI; H. Jennings scored.",62,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,6,top,L. Morton hit by pitch.,63,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,6,top,"L. Morton stole second, advanced to third on an error by p.",64,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,6,top,T. Kelson flied out to cf.,65,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,6,bot,S. Hall singled up the middle.,66,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,6,bot,"M. Smith homered, 2 RBI; S. Hall scored.",67,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,6,bot,M. Jones walked.,68,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,6,bot,A. Fahringer to p for J. Searcy.,69,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,6,bot,B. Horsley struck out swinging.,70,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,6,bot,G. Moore lined out to 3b.,71,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,6,bot,M. jr flied out to cf.,72,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,7,top,H. Busque popped up to 2b.,73,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,7,top,L. Granata flied out to lf.,74,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,7,top,C. Pyle walked.,75,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,7,top,H. Jennings singled through the left side; C. Pyle advanced to second.,76,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,7,top,L. Sawyer flied out to rf.,77,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,7,bot,J. Wilde to p for A. Fahringer.,78,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,7,bot,P. Usher to c for H. Jennings.,79,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,7,bot,R. Farris singled to center field.,80,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,7,bot,S. Lloyd flied out to cf.,81,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,7,bot,Z. Geertsen flied out to rf.,82,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,7,bot,R. Farris stole second.,83,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,7,bot,"S. Hall doubled through the right side, RBI; R. Farris scored.",84,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,7,bot,M. Smith struck out swinging.,85,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,8,top,C. Oehler flied out to rf.,86,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,8,top,F. Vasquez walked.,87,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,8,top,L. Morton grounded into double play 2b to ss to 1b; F. Vasquez out on the play.,88,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,8,bot,M. Jones flied out to rf.,89,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,8,bot,E. Ward pinch hit for B. Horsley.,90,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,8,bot,E. Ward hit by pitch.,91,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,8,bot,G. Moore struck out swinging.,92,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,8,bot,M. jr singled through the right side; E. Ward advanced to second.,93,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,8,bot,R. Farris walked; M. jr advanced to second; E. Ward advanced to third.,94,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,8,bot,H. Bailey to p for J. Wilde.,95,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,8,bot,S. Lloyd struck out looking.,96,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,9,top,T. Smith to lf for E. Ward.,97,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,9,top,J. Christoph to p for B. Steelman.,98,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,9,top,T. Kelson struck out swinging.,99,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,9,top,H. Busque grounded out to ss.,100,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,9,top,L. Granata singled through the left side.,101,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,9,top,C. Pyle singled to left center; L. Granata advanced to second.,102,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597352,9,top,P. Usher grounded out to 2b.,103,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,9,bot,M. Evans to p for H. Bailey.,104,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,9,bot,"Z. Geertsen homered, RBI.",105,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,9,bot,S. Hall flied out to cf.,106,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,9,bot,M. Smith popped up to 3b.,107,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025
+6350429,597352,Brevard Tornados,597202,Southern Va. Knights,597202,9,bot,M. Jones flied out to lf.,108,2025-03-15T00:00:00-04:00,"Buena Vista, VA",45,MBA,2025

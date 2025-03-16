@@ -1,0 +1,91 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,1,top,"MCARN, B flied out to cf (1-0 B).",1,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,1,top,"HARRISON, A singled through the right side (0-0).",2,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,1,top,"MERZ, E singled through the left side (2-2 BKSB)3a HARRISON, A advanced to second.",3,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,1,top,"ORTIZ, C struck out swinging (1-2 FBKS).",4,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,1,top,"MERZ, E stole second3a HARRISON, A stole third.",5,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,1,top,"SAITZ, B out at first p to 2b to 1b (2-1 BBF).",6,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,1,bot,SHEDLOCK singled through the left side (2-2 KBFBF).,7,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,1,bot,HALL reached on a fielder's choice (0-1 S)3a SHEDLOCK out at second ss to 2b.,8,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,1,bot,VANNESTE singled to right field (0-0)3a HALL advanced to second.,9,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,1,bot,RUIZ singled to center field (1-1 KB)3a VANNESTE advanced to second3a HALL advanced to third.,10,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,1,bot,"MEJIA flied out to rf, SF, RBI (0-0)3a RUIZ out at first rf to 1b3a VANNESTE advanced to third3a HALL scored.",11,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,2,top,"BARTO, G doubled down the lf line (2-2 FKFBFFB).",12,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,2,top,"TRIAS, T struck out swinging (0-2 FSFS).",13,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,2,top,"MARION, B flied out to cf (1-2 BKF).",14,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,2,top,"TIGER, R doubled to left field, RBI (0-1 K)3a BARTO, G scored.",15,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,2,top,"MCARN, B lined out to 2b (1-2 KFFB).",16,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,2,bot,GIESEGH singled to third base (0-0).,17,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,2,bot,DOMINGUEZ struck out looking (2-2 BBKS).,18,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,2,bot,GIESEGH stole second.,19,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,2,bot,"GIESEGH out at second 2b to 3b to ss to 2b, picked off.",20,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,2,bot,LUNA grounded out to p (3-2 BBBKFF).,21,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,3,top,"HARRISON, A singled to center field (0-1 K).",22,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,3,top,"MERZ, E fouled out to rf (0-0).",23,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,3,top,"HARRISON, A stole second.",24,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,3,top,"ORTIZ, C walked (3-0 BBBB).",25,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,3,top,"SAITZ, B singled through the right side, RBI (0-0)3a ORTIZ, C advanced to third3a HARRISON, A scored.",26,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,3,top,"BARTO, G flied out to lf, SF, RBI3a ORTIZ, C scored.",27,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,3,top,"SAITZ, B out at first p to 1b to 2b to 1b, picked off.",28,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,3,bot,GONZALES grounded out to 2b (0-0).,29,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,3,bot,SHEDLOCK flied out to rf (1-1 BK).,30,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,3,bot,HALL flied out to cf (2-1 KBB).,31,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,4,top,"TRIAS, T walked (3-2 BBSSBB).",32,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,4,top,"MARION, B grounded out to p, SAC, bunt (2-1 KBB)3a TRIAS, T advanced to second.",33,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,4,top,"TIGER, R singled through the left side (0-0)3a TRIAS, T advanced to third.",34,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,4,top,"MCARN, B singled to left field, RBI (1-1 SB)3a TIGER, R advanced to second3a TRIAS, T scored.",35,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,4,top,"HARRISON, A grounded out to p, SAC, bunt (0-0)3a MCARN, B advanced to second3a TIGER, R advanced to third.",36,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,4,top,"MERZ, E grounded out to 1b unassisted (0-2 FF).",37,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,4,bot,VANNESTE popped up to ss (1-1 FB).,38,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,4,bot,"RUIZ homered to center field, RBI (0-0).",39,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,4,bot,MEJIA singled through the right side (0-2 KK).,40,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,4,bot,"GIESEGH homered to center field, 2 RBI (0-1 K)3a MEJIA scored.",41,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,4,bot,DOMINGUEZ fouled out to c (3-2 BKBFBF).,42,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,4,bot,LUNA flied out to rf (2-0 BB).,43,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,5,top,"ORTIZ, C homered to left field, RBI (0-0).",44,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,5,top,"SAITZ, B singled through the left side (1-0 B).",45,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,5,top,VerKUILEN to p for ROMERO.,46,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,5,top,"BARTO, G fouled out to 2b (2-1 BKB).",47,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,5,top,"TRIAS, T flied out to rf (2-0 BB).",48,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,5,top,"SAITZ, B stole second.",49,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,5,top,"MARION, B popped up to ss (2-1 BBF).",50,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,5,bot,GONZALES lined out to 1b (3-2 KBKBB).,51,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,5,bot,SHEDLOCK grounded out to ss (0-1 K).,52,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,5,bot,HALL struck out swinging (3-2 KBBBKS).,53,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,6,top,"TIGER, R flied out to lf (0-1 K).",54,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,6,top,"MCARN, B struck out swinging (1-2 SBFS).",55,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,6,top,"HARRISON, A grounded out to 2b (1-1 SB).",56,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,6,bot,VANNESTE singled to right field (0-2 FF).,57,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,6,bot,RUIZ grounded into double play 1b to ss to 1b (1-2 FBK)3a VANNESTE out on the play.,58,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,6,bot,MEJIA singled up the middle (2-1 BBF).,59,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,6,bot,GIESEGH singled to center field (1-1 KB)3a MEJIA advanced to second.,60,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,6,bot,"DOMINGUEZ doubled to left field, 2 RBI (1-1 KB)3a GIESEGH scored3a MEJIA scored.",61,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,6,bot,LUNA grounded out to p (0-1 K).,62,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,7,top,"MERZ, E popped up to 3b (2-2 BKKB).",63,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,7,top,"ORTIZ, C grounded out to ss (2-2 KBBF).",64,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,7,top,"SAITZ, B flied out to cf (2-0 BB).",65,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,7,bot,"HOWARD, D to p for JANOWICZ, B.",66,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,7,bot,GONZALES flied out to cf (2-1 KBB).,67,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,7,bot,SHEDLOCK hit by pitch (2-1 BBK).,68,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,7,bot,SHEDLOCK advanced to second on a passed ball.,69,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,7,bot,HALL flied out to cf (2-1 BKB).,70,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,7,bot,VANNESTE struck out swinging (3-2 BSSBBS).,71,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,8,top,"BARTO, G struck out swinging (3-2 SBBFFBS).",72,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,8,top,"CALLISON, C pinch hit for TRIAS, T.",73,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,8,top,"CALLISON, C struck out swinging (0-2 SSS).",74,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,8,top,"MARION, B singled up the middle (0-0).",75,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,8,top,"TIGER, R struck out swinging (3-2 BBSBSS).",76,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,8,bot,"CALLISON, C to 3b.",77,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,8,bot,RUIZ struck out looking (1-2 BKKFK).,78,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,8,bot,MEJIA lined out to p (1-1 KB).,79,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,8,bot,GIESEGH walked (3-1 BSBBB).,80,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,8,bot,HINOJOSA pinch hit for DOMINGUEZ.,81,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,8,bot,"HINOJOSA homered to left field, 2 RBI (0-2 KSF)3a GIESEGH scored.",82,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596867,8,bot,LUNA flied out to cf (1-2 FKB).,83,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,9,top,NADEAU to lf for SHEDLOCK.,84,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,9,top,AGUAYO to c for HINOJOSA.,85,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,9,top,"MCARN, B popped up to 3b (1-0 B).",86,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,9,top,"HARRISON, A lined out to 3b (1-1 KB).",87,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,9,top,"MERZ, E homered to right field, RBI (2-1 BBF).",88,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,9,top,"ORTIZ, C singled to center field (0-1 F).",89,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025
+6343017,596937,Sonoma St. Seawolves,596867,CSUSB Coyotes,596937,9,top,"SAITZ, B grounded out to 3b (1-1 BK).",90,2025-03-15T00:00:00-04:00,"Fiscalini Field (San Bernardino, CA)",150,MBA,2025

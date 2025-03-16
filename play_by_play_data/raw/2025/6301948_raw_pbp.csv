@@ -1,0 +1,82 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,1,top,W. Clark grounded out to 2b (2-0 BB).,1,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,1,top,J. Berger hit by pitch (0-0).,2,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,1,top,B. Miller lined out to 3b (1-2 SBK).,3,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,1,top,T. Albright flied out to lf (0-1 K).,4,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,1,bot,"Haskins,T popped up to 1b (1-0 B).",5,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,1,bot,"Larson,B hit by pitch (1-2 BKK).",6,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,1,bot,"Sasaki,R struck out looking (3-2 BSBFFFBK).",7,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,1,bot,Sasaki is called out for a pitch clock violation.,8,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,1,bot,"Saum,C popped up to 2b (1-2 BFS).",9,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,2,top,J. Hyde singled to right field (0-1 F).,10,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,2,top,A. Yu hit by pitch (0-0); J. Hyde advanced to second.,11,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,2,top,A. Gracia grounded into double play ss to 2b to 1b (2-2 KFFBB); A. Yu out on the play; J. Hyde advanced to third.,12,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,2,top,M. Winslow walked (3-2 BKBBFB).,13,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,2,top,K. Johnson flied out to rf (2-2 BKBF).,14,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,2,bot,"Nati,J homered to left center, RBI (1-0 B).",15,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,2,bot,"Reynolds,B hit by pitch (0-0).",16,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,2,bot,"Becerra,T grounded out to 3b, SAC, bunt (0-0); Reynolds,B advanced to second.",17,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,2,bot,"Bates,C singled to second base (0-0); Reynolds,B advanced to third.",18,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,2,bot,"Bates,C stole second.",19,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,2,bot,"Marsh,T hit by pitch (2-1 KBB).",20,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,2,bot,"Haskins,T singled up the middle, 2 RBI (2-1 BSB); Marsh,T advanced to third; Bates,C scored; Reynolds,B scored.",21,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,2,bot,"Haskins,T out at second p to 1b to ss, picked off, caught stealing; Marsh,T scored on a throwing error by ss, unearned.",22,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,2,bot,"Larson,B struck out looking (1-2 BKFK).",23,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,3,top,W. Clark singled to left field (1-0 B).,24,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,3,top,J. Berger singled to right field (1-2 FBK); W. Clark advanced to second.,25,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,3,top,B. Miller flied out to cf to right center (0-2 KF); W. Clark advanced to third.,26,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,3,top,"T. Albright flied out to cf to left center, SF, RBI (0-0); W. Clark scored.",27,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,3,top,J. Hyde walked (3-2 FBSFBFBB); J. Berger advanced to second.,28,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,3,top,A. Yu reached on a fielder's choice to shortstop (0-0); J. Hyde out at second ss to 2b.,29,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,3,bot,"Sasaki,R grounded out to c (2-0 BB).",30,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,3,bot,"Saum,C walked (3-1 BBSBB).",31,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,3,bot,"Nati,J flied out to cf (2-1 BKB).",32,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,3,bot,"Reynolds,B reached on a fielder's choice to shortstop (1-1 KB); Saum,C out at second ss unassisted.",33,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,4,top,A. Gracia fouled out to lf (2-2 FBBF).,34,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,4,top,M. Winslow walked (3-2 BBSFBB).,35,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,4,top,M. Winslow advanced to second on a wild pitch.,36,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,4,top,K. Johnson struck out looking (2-2 BFBFK).,37,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,4,top,W. Clark grounded out to ss (0-0).,38,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,4,bot,"Becerra,T singled up the middle (3-1 BBBK).",39,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,4,bot,"Bates,C reached on a fielder's choice to second base (1-0 B); Becerra,T out at second 2b to ss.",40,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,4,bot,"Marsh,T homered to left center, 2 RBI (2-1 FBB); Bates,C scored.",41,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,4,bot,"Haskins,T flied out to lf (2-1 BBK).",42,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,4,bot,M. Stammel to p for A. Healy.,43,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,4,bot,"Larson,B out at first 1b to p (1-1 BK).",44,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,5,top,J. Berger popped up to ss (0-0).,45,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,5,top,B. Miller singled to shortstop (3-1 BBBK).,46,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,5,top,T. Albright popped up to 1b (0-2 KFF).,47,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,5,top,J. Hyde fouled out to 3b (0-1 K).,48,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,5,bot,"Sasaki,R homered to right field, RBI (2-1 FBB).",49,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,5,bot,"Saum,C flied out to lf (2-0 BB).",50,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,5,bot,"Nati,J struck out looking (1-2 FBFFK).",51,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,5,bot,"Reynolds,B homered down the rf line, RBI (0-0).",52,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,5,bot,"Becerra,T flied out to cf (2-0 BB).",53,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,6,top,A. Yu flied out to cf to left center (0-2 SS).,54,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,6,top,A. Gracia grounded out to 2b (0-1 K).,55,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,6,top,M. Winslow struck out looking (2-2 FBKBK).,56,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,6,bot,"Bates,C fouled out to 3b (1-0 B).",57,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,6,bot,"Marsh,T singled to center field (1-2 KKBF).",58,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,6,bot,"Haskins,T flied out to cf (2-0 BB).",59,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,6,bot,"Larson,B struck out swinging (1-2 BFSS).",60,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,7,top,"Speshyock,R to p for Lim,C.",61,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,7,top,K. Johnson flied out to rf (2-0 BB).,62,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,7,top,W. Clark grounded out to 2b (1-1 BK).,63,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,7,top,J. Berger popped up to 3b (2-0 BB).,64,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,7,bot,C. Black to p for M. Stammel.,65,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,7,bot,"Sasaki,R singled to left center (0-1 K).",66,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,7,bot,"Saum,C singled through the right side (3-2 SBBBK); Sasaki,R advanced to second.",67,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,7,bot,"Nati,J struck out looking (1-2 KFFBK).",68,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,7,bot,"Reynolds,B struck out swinging (3-2 BFBSBS).",69,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,7,bot,"Becerra,T reached on a fielder's choice to third base (0-1 K); Saum,C advanced to second; Sasaki,R out at third 3b unassisted.",70,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,8,top,B. Miller lined out to cf (1-1 FB).,71,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,8,top,T. Albright struck out looking (0-2 KFK).,72,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,8,top,J. Hyde doubled to left center (1-0 B).,73,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596708,8,top,A. Yu struck out swinging (0-2 FSS).,74,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,8,bot,B. Brannon to p for C. Black.,75,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,8,bot,"Bates,C grounded out to 1b unassisted (1-2 BFSF).",76,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,8,bot,"Marsh,T grounded out to ss (3-2 KBBBK).",77,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,8,bot,"Haskins,T singled through the left side (3-2 BBKBFF).",78,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,8,bot,"Larson,B hit by pitch (2-2 BFBK); Haskins,T advanced to second.",79,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,8,bot,"Blair,B pinch ran for Larson,B.",80,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025
+6301948,596708,Duke Blue Devils,596688,Stanford Cardinal,596688,8,bot,"Sasaki,R homered to right center, 3 RBI (1-0 B); Blair,B scored; Haskins,T scored.",81,2025-03-15T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1776,MBA,2025

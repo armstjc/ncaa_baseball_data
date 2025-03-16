@@ -1,0 +1,92 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,1,top,"MITCHELL, M struck out swinging (2-2).",1,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,1,top,BLOOMER struck out swinging (3-2).,2,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,1,top,NIEDZWIEDZ walked (3-2).,3,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,1,top,WILLOUGHBY flied out to rf (1-0).,4,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,1,bot,"Bogenpohl,C. struck out swinging (3-2).",5,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,1,bot,"Rodriguez,N. grounded out to 2b (0-0).",6,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,1,bot,"McCutcheon,J singled through the right side (3-2).",7,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,1,bot,"Gollert,T. flied out to rf (1-2).",8,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,2,top,RATLIFF grounded out to ss (1-2).,9,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,2,top,SIEMER struck out looking (0-2).,10,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,2,top,CROWDEN struck out looking (1-2).,11,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,2,bot,"Knight,M. out at first 1b to p (1-2).",12,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,2,bot,"Bergman,C. walked (3-1).",13,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,2,bot,"Stewart,Z. homered to right center, 2 RBI (0-2): Bergman,C. scored.",14,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,2,bot,"Sutherland,C struck out looking (1-2).",15,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,2,bot,"Dunn,L. singled to left field (0-1).",16,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,2,bot,"Dunn,L. stole second, advanced to third on a throwing error by c.",17,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,2,bot,"Bogenpohl,C. struck out looking (2-2).",18,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,3,top,STALLCUP singled to right field (0-1).,19,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,3,top,GIERER struck out swinging (2-2).,20,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,3,top,"MITCHELL, M popped up to ss (0-0).",21,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,3,top,BLOOMER doubled to right center (1-2): STALLCUP advanced to third.,22,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,3,top,NIEDZWIEDZ popped up to cf (1-2).,23,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,3,bot,"Rodriguez,N. singled to center field (1-1).",24,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,3,bot,"McCutcheon,J singled to center field (3-2): Rodriguez,N. advanced to third.",25,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,3,bot,"Gollert,T. reached on a fielder's choice (0-0): McCutcheon,J advanced to second.",26,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,3,bot,"Knight,M. homered to right center, 4 RBI (0-0): Gollert,T. scored: McCutcheon,J scored: Rodriguez,N. scored.",27,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,3,bot,"Bergman,C. singled to third base (0-0).",28,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,3,bot,"Stewart,Z. walked (3-1): Bergman,C. advanced to second.",29,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,3,bot,"Sutherland,C walked (3-0): Stewart,Z. advanced to second: Bergman,C. advanced to third.",30,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,3,bot,"MARTIN, J to p for STEARNS.",31,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,3,bot,"Dunn,L. struck out looking (1-2).",32,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,3,bot,"Bogenpohl,C. struck out swinging (2-2).",33,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,3,bot,"Rodriguez,N. struck out swinging (1-2).",34,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,4,top,WILLOUGHBY grounded out to 2b (3-2).,35,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,4,top,RATLIFF struck out swinging (2-2).,36,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,4,top,SIEMER grounded out to ss (2-2).,37,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,4,bot,"McCutcheon,J homered to right center, RBI (1-0).",38,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,4,bot,"Gollert,T. popped up to 1b (1-0).",39,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,4,bot,"Knight,M. grounded out to 2b (1-0).",40,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,4,bot,"Bergman,C. struck out looking (1-2).",41,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,5,top,CROWDEN singled to right field (1-1).,42,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,5,top,STALLCUP struck out looking (1-2).,43,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,5,top,"GIERER homered to left field, 2 RBI (0-2): CROWDEN scored.",44,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,5,top,"MITCHELL, M struck out swinging (3-2).",45,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,5,top,BLOOMER singled to left field (0-1).,46,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,5,top,NIEDZWIEDZ struck out swinging (2-2).,47,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,5,bot,"Stewart,Z. struck out looking (1-2).",48,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,5,bot,"Sutherland,C flied out to cf (0-1).",49,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,5,bot,"Dunn,L. grounded out to 2b (0-0).",50,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,6,top,WILLOUGHBY doubled to left center (0-0).,51,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,6,top,RATLIFF popped up to rf (0-0).,52,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,6,top,SIEMER grounded out to 3b (0-1).,53,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,6,top,CROWDEN walked (3-2).,54,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,6,top,"STALLCUP singled through the left side, RBI (0-2): CROWDEN advanced to second: WILLOUGHBY scored.",55,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,6,top,GIERER reached on a fielder's choice to third base (3-1): STALLCUP out at second 3b to 2b.,56,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,6,bot,"Bogenpohl,C. homered to right field, RBI (2-1).",57,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,6,bot,"Rodriguez,N. lined out to lf to left center (0-2).",58,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,6,bot,"McCutcheon,J walked (3-2).",59,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,6,bot,"Gollert,T. hit by pitch (0-0): McCutcheon,J advanced to second.",60,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,6,bot,"Knight,M. singled through the right side, RBI (1-0): Gollert,T. advanced to second: McCutcheon,J scored.",61,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,6,bot,"RESSLER to p for MARTIN, J.",62,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,6,bot,"Bergman,C. flied out to cf (3-2).",63,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,6,bot,"Stewart,Z. struck out swinging (3-2).",64,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,7,top,"Knight,M. to p.",65,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,7,top,"/  for Holmes,J..",66,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,7,top,"MITCHELL, M singled up the middle (0-1).",67,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,7,top,BLOOMER struck out looking (0-2).,68,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,7,top,NIEDZWIEDZ struck out looking (2-2).,69,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,7,top,WILLOUGHBY lined out to cf to right center (2-1).,70,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,7,bot,"Sutherland,C fouled out to 1b (1-2).",71,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,7,bot,"Dunn,L. walked (3-1).",72,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,7,bot,"Bogenpohl,C. walked (3-2): Dunn,L. advanced to second.",73,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,7,bot,ROSSY to p for RESSLER.,74,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,7,bot,"Rodriguez,N. singled to left center, RBI (0-0): Bogenpohl,C. advanced to second: Dunn,L. scored.",75,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,7,bot,"McCutcheon,J struck out swinging (2-2).",76,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,7,bot,"Gollert,T. singled to right center, RBI (1-1): Rodriguez,N. advanced to third: Bogenpohl,C. scored.",77,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,7,bot,"Knight,M. flied out to cf (0-2).",78,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,8,top,"McCutcheon,J to lf.",79,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,8,top,"Epstein,T. to ss for Stewart,Z..",80,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,8,top,"Dunn,L. to rf.",81,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,8,top,RATLIFF grounded out to ss (1-1).,82,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,8,top,SIEMER grounded out to 2b (2-2).,83,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,8,top,CROWDEN walked (3-0).,84,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596683,8,top,STALLCUP flied out to rf (1-2).,85,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,8,bot,GRAMS to p for ROSSY.,86,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,8,bot,CHAPMAN to cf for GIERER.,87,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,8,bot,"Bergman,C. hit by pitch (1-1).",88,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,8,bot,"Epstein,T. reached on a fielder's choice (3-2): Bergman,C. advanced to second on a fielding error by ss.",89,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,8,bot,"Sutherland,C singled to left field (1-0): Epstein,T. advanced to second: Bergman,C. advanced to third.",90,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025
+6301925,596683,SIUE Cougars,596685,Missouri St. Bears,596685,8,bot,"Dunn,L. doubled down the rf line, 2 RBI (3-1): Sutherland,C advanced to third: Epstein,T. scored: Bergman,C. scored, unearned.",91,2025-03-15T00:00:00-04:00,"Hammons Field (Springfield, MO)",443,MBA,2025

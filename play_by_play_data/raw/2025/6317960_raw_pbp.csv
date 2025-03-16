@@ -1,0 +1,133 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,1,top,DEPINO walked (3-2).,1,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,1,top,GENTHER popped up to ss to center field (0-0).,2,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,1,top,MORONEY walked (3-2)3a DEPINO advanced to second.,3,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,1,top,PERRON walked (3-1)3a MORONEY advanced to second3a DEPINO advanced to third.,4,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,1,top,"HOPKO grounded out to 1b unassisted, RBI (0-1)3a PERRON advanced to second3a MORONEY advanced to third3a DEPINO scored.",5,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,1,top,"BUTLER reached on an error by 3b (3-2)3a PERRON advanced to third3a MORONEY scored, unearned.",6,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,1,top,THOMPSON reached on a fielder's choice (1-0)3a BUTLER out at second ss to 2b.,7,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,1,bot,"Lee, Jacob struck out looking (1-2).",8,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,1,bot,"Henson, W. struck out swinging (1-2).",9,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,1,bot,"Swenson, S. grounded out to 3b (2-2).",10,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,2,top,HINDLE flied out to rf (2-2).,11,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,2,top,MCKENZIE singled up the middle (1-2).,12,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,2,top,MCKENZIE stole second.,13,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,2,top,DEPINO walked (3-2).,14,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,2,top,DEPINO advanced to second on a wild pitch3a MCKENZIE advanced to third on a wild pitch.,15,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,2,top,GENTHER walked (3-0)3a DEPINO advanced to third on a wild pitch3a MCKENZIE scored on a wild pitch.,16,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,2,top,GENTHER stole second.,17,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,2,top,"MORONEY doubled to right center, 2 RBI (2-1)3a GENTHER scored3a DEPINO scored.",18,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,2,top,PERRON flied out to cf (0-2)3a MORONEY advanced to third.,19,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,2,top,MORONEY scored on a wild pitch.,20,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,2,top,HOPKO reached on a fielding error by ss (3-2).,21,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,2,top,BUTLER popped up to 2b (0-1).,22,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,2,bot,"Adelman, T. hit by pitch (3-2).",23,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,2,bot,"Flores, N. grounded into double play 3b to 2b to 1b (0-1)3a Adelman, T. out on the play.",24,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,2,bot,Kirkpatrick popped up to 1b to pitcher (2-1).,25,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,3,top,THOMPSON singled up the middle (1-0).,26,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,3,top,"HINDLE grounded out to 3b, SAC, bunt (1-0)3a THOMPSON advanced to second.",27,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,3,top,"MCKENZIE doubled to left center, RBI (0-0)3a THOMPSON scored.",28,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,3,top,"Moore, M. to p for Dressler, C..",29,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,3,top,"DEPINO singled through the right side, RBI (2-1)3a MCKENZIE scored.",30,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,3,top,"DEPINO out at second c to ss, caught stealing.",31,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,3,top,GENTHER popped up to 3b (2-2).,32,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,3,bot,"Kleinman, C. singled up the middle (3-1).",33,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,3,bot,AprilGath struck out swinging (1-2).,34,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,3,bot,"Werchan, S. singled to left field (2-1)3a Kleinman, C. advanced to second.",35,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,3,bot,"Lee, Jacob fouled out to lf (0-0)3a Werchan, S. advanced to second3a Kleinman, C. advanced to third.",36,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,3,bot,"Henson, W. struck out swinging (1-2).",37,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,4,top,MORONEY reached on a throwing error by ss (0-1).,38,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,4,top,PERRON lined out to 3b (2-2).,39,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,4,top,"MORONEY out at first p to 1b to ss to 1b, caught stealing.",40,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,4,top,HOPKO struck out looking (3-2).,41,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,4,bot,"Swenson, S. grounded out to 3b (2-0).",42,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,4,bot,"Adelman, T. flied out to cf (0-1).",43,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,4,bot,"Flores, N. homered to left field, RBI (3-1).",44,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,4,bot,Kirkpatrick struck out swinging (0-2).,45,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,5,top,BUTLER flied out to lf (0-0).,46,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,5,top,THOMPSON walked (3-2).,47,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,5,top,HINDLE singled through the left side (1-2)3a THOMPSON advanced to second.,48,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,5,top,"MCKENZIE grounded out to p, SAC, bunt (0-0)3a HINDLE advanced to second3a THOMPSON advanced to third.",49,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,5,top,DEPINO intentionally walked (0-0).,50,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,5,top,GENTHER grounded out to 2b (0-0).,51,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,5,bot,"Kleinman, C. walked (3-2).",52,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,5,bot,"Jimenez, A. pinch hit for AprilGath.",53,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,5,bot,"Jimenez, A. doubled down the lf line (1-0)3a Kleinman, C. advanced to third.",54,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,5,bot,"Werchan, S. grounded out to p, SAC, bunt, RBI (0-0)3a Jimenez, A. advanced to third3a Kleinman, C. scored.",55,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,5,bot,"Lee, Jacob singled to second base, RBI (2-1)3a Jimenez, A. scored.",56,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,5,bot,"Henson, W. homered to left field, 2 RBI (2-1)3a Lee, Jacob scored.",57,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,5,bot,"Swenson, S. walked (3-2).",58,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,5,bot,"Adelman, T. singled through the left side (2-2)3a Swenson, S. advanced to second.",59,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,5,bot,PERRY to p for LEVESQUE.,60,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,5,bot,"Flores, N. walked (3-1)3a Adelman, T. advanced to second3a Swenson, S. advanced to third.",61,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,5,bot,"Kirkpatrick grounded into double play ss to 2b to 1b (2-1)3a Flores, N. out on the play.",62,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,6,top,"Jimenez, A. to ss.",63,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,6,top,MORONEY singled to left center (2-2).,64,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,6,top,"PERRON doubled down the 3b line, RBI (0-2)3a MORONEY scored.",65,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,6,top,HOPKO struck out swinging (0-2).,66,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,6,top,"McGrady, J. to p for Moore, M..",67,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,6,top,PERRON advanced to third on a wild pitch.,68,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,6,top,BUTLER walked (3-2).,69,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,6,top,PENNEY pinch hit for THOMPSON.,70,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,6,top,"PENNEY grounded out to 1b unassisted, SAC, bunt, RBI (0-0)3a BUTLER advanced to second3a PERRON scored.",71,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,6,top,"HINDLE singled through the left side, RBI (1-1)3a BUTLER scored.",72,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,6,top,MCKENZIE hit by pitch (2-1)3a HINDLE advanced to second.,73,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,6,top,"DEPINO singled through the left side, RBI (1-1)3a MCKENZIE advanced to second3a HINDLE scored.",74,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,6,top,GENTHER reached on a fielder's choice (0-2)3a DEPINO out at second ss unassisted.,75,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,6,bot,PERRON to 1b.,76,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,6,bot,PENNEY to 2b.,77,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,6,bot,"Kleinman, C. grounded out to 2b (3-2).",78,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,6,bot,"Jimenez, A. flied out to cf (3-1).",79,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,6,bot,"Werchan, S. struck out swinging (2-2).",80,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,7,top,MORONEY grounded out to 3b (1-2).,81,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,7,top,PERRON reached on a fielding error by ss (1-0).,82,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,7,top,HOPKO walked (3-1)3a PERRON advanced to second.,83,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,7,top,BUTLER flied out to cf (0-0)3a PERRON advanced to third.,84,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,7,top,PENNEY struck out looking (3-2).,85,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,7,bot,"Lee, Jacob popped up to 2b (0-1).",86,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,7,bot,"Henson, W. struck out swinging, out at first c to 1b (2-2).",87,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,7,bot,"Swenson, S. singled through the left side (0-2).",88,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,7,bot,"Adelman, T. popped up to 2b to first base (0-1).",89,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,8,top,HINDLE reached on an error by 3b (1-1).,90,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,8,top,HINDLE stole second.,91,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,8,top,HINDLE advanced to third on a wild pitch.,92,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,8,top,"MCKENZIE doubled to left field, RBI (1-2)3a HINDLE scored, unearned.",93,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,8,top,DEPINO singled through the left side (1-1)3a MCKENZIE advanced to third.,94,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,8,top,"GENTHER flied out to lf, SF, RBI (1-0)3a MCKENZIE scored.",95,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,8,top,MORONEY singled to left field (1-2)3a DEPINO advanced to second.,96,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,8,top,PERRON reached on a fielder's choice3a MORONEY advanced to second3a DEPINO out at third ss to 3b.,97,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,8,top,"HOPKO singled through the right side, RBI (1-2)3a PERRON advanced to third3a MORONEY scored, unearned.",98,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,8,top,"Walsh, M. to p for McGrady, J..",99,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,8,top,BUTLER struck out swinging (1-2).,100,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,8,bot,"Flores, N. grounded out to 3b (1-1).",101,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,8,bot,Kirkpatrick grounded out to ss (2-2).,102,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,8,bot,"Kleinman, C. struck out swinging (1-2).",103,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,9,top,"Lane, B. to cf for Werchan, S..",104,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,9,top,"Kleine, K. to c for Kleinman, C..",105,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,9,top,PENNEY singled to left field (3-2).,106,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,9,top,HINDLE struck out swinging (2-2).,107,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,9,top,MCKENZIE walked (3-2)3a PENNEY advanced to second.,108,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,9,top,LEVIN pinch hit for DEPINO.,109,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,9,top,LEVIN flied out to cf (1-0).,110,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,9,top,HENSCHEL pinch hit for GENTHER.,111,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596656,9,top,HENSCHEL grounded out to 2b (1-2).,112,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,LEVIN to 3b.,113,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,HENSCHEL to rf.,114,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,KING to 2b for MORONEY.,115,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,PENNEY to ss.,116,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,LEIKUS to c for BUTLER.,117,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,SANTOS to p for PERRY.,118,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,"Jimenez, A. singled through the right side (3-2).",119,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,"Lane, B. walked (3-2)3a Jimenez, A. advanced to second.",120,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,"Lane, B. advanced to second on a wild pitch3a Jimenez, A. advanced to third on a wild pitch.",121,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,"Lee, Jacob walked (3-1).",122,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,"Coston, E. pinch hit for Henson, W..",123,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,"Coston, E. struck out looking (0-2).",124,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,"Swenson, S. hit by pitch, RBI (0-0)3a Lee, Jacob advanced to second3a Lane, B. advanced to third3a Jimenez, A. scored.",125,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,"Estrada, D. pinch hit for Adelman, T..",126,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,"Estrada, D. singled to right field, RBI (1-2)3a Swenson, S. advanced to second3a Lee, Jacob advanced to third3a Lane, B. scored.",127,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,"Flores, N. doubled down the 3b line, 3 RBI (0-2)3a Estrada, D. scored3a Swenson, S. scored3a Lee, Jacob scored.",128,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,FLETCHER to p for SANTOS.,129,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,"Kirkpatrick singled to third base (1-1)3a Flores, N. advanced to third, scored on an error by 3b, unearned.",130,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,"Kleine, K. struck out swinging (2-2).",131,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
+6317960,596656,Rhode Island Rams,596436,VCU Rams,596436,9,bot,"Jimenez, A. grounded out to 1b unassisted (1-1).",132,2025-03-15T00:00:00-04:00,"The Diamond (Richmond, VA)",0,MBA,2025
