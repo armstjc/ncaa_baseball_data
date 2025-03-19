@@ -1,0 +1,115 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,1,top,No play.,1,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,1,top,Ke. Jones reached on a throwing error by 2b (1-0 B).,2,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,1,top,T. Thach flied out to cf (1-1 KB).,3,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,1,top,T. Lucas singled to left field (0-2 KF)3a Ke. Jones advanced to second.,4,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,1,top,M. Zelenka walked (3-0 BBBB)3a T. Lucas advanced to second3a Ke. Jones advanced to third.,5,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,1,top,"A. DeMartino hit by pitch, RBI (2-1 KBB)3a M. Zelenka advanced to second3a T. Lucas advanced to third3a Ke. Jones scored, unearned.",6,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,1,top,C. Nelson struck out swinging (2-2 KSBBS).,7,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,1,top,B. Arendt flied out to lf to left center (1-0 B).,8,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,1,bot,"Burress, B. hit by pitch (2-2 BKBKF).",9,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,1,bot,"Burress, B. stole second.",10,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,1,bot,"Williams, D. walked (3-1 BKBBB).",11,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,1,bot,"Collins, J. struck out swinging (1-2 FBKFS).",12,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,1,bot,"Barron, W. grounded into double play ss to 2b to 1b (3-1 BBBK)3a Williams, D. out on the play.",13,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,2,top,B. Thompson hit by pitch (1-2 KKB).,14,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,2,top,"M. Gillespie grounded out to p, SAC, bunt (0-1 S)3a B. Thompson advanced to second.",15,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,2,top,Ke. Jones walked (3-2 BSFBFBFB).,16,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,2,top,T. Thach flied out to lf (1-2 SKFFB).,17,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,2,top,T. Lucas singled to third base (0-1 F)3a Ke. Jones advanced to second3a B. Thompson advanced to third.,18,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,2,top,"White, I. to p for Moran, N..",19,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,2,top,M. Zelenka flied out to lf (0-1 S).,20,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,2,bot,"Irby, A. struck out swinging (0-2 FKS).",21,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,2,bot,"Wallace, C. singled through the left side (1-1 KB).",22,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,2,bot,"Bowman, K. singled to left field (1-0 B)3a Wallace, C. advanced to third.",23,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,2,bot,"Bouche, A. grounded out to p, SAC, bunt, RBI (0-0)3a Bowman, K. advanced to second3a Wallace, C. scored.",24,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,2,bot,"Peltier, A. singled to first base (0-2 SF)3a Bowman, K. advanced to third.",25,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,2,bot,"Burress, B. doubled to left field, 2 RBI (1-1 FB)3a Peltier, A. scored3a Bowman, K. scored.",26,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,2,bot,"Williams, D. walked (3-1 BBBFB).",27,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,2,bot,A. Smith to p for M. Murdock.,28,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,2,bot,"Collins, J. struck out swinging (2-2 BFFBS).",29,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,3,top,A. DeMartino flied out to cf (1-0 B).,30,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,3,top,C. Nelson hit by pitch (1-0 B).,31,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,3,top,B. Arendt struck out swinging (0-2 SKS).,32,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,3,top,B. Thompson singled to right field (3-2 KBKBFFBF)3a C. Nelson advanced to third.,33,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,3,top,M. Gillespie walked (3-1 BBSBB)3a B. Thompson advanced to second.,34,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,3,top,"Dilorenzo to p for White, I..",35,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,3,top,"Ke. Jones singled to shortstop, RBI (2-1 BBK)3a M. Gillespie advanced to second3a B. Thompson advanced to third3a C. Nelson scored.",36,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,3,top,"T. Thach walked, RBI (3-0 BBBB)3a Ke. Jones advanced to second3a M. Gillespie advanced to third3a B. Thompson scored.",37,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,3,top,"T. Lucas walked, RBI (3-1 FBBBB)3a T. Thach advanced to second3a Ke. Jones advanced to third3a M. Gillespie scored.",38,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,3,top,Beschloss to p for Dilorenzo.,39,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,3,top,M. Zelenka flied out to rf (3-2 KFBFFBB).,40,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,3,bot,"Barron, W. lined out to 3b (0-0).",41,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,3,bot,"Irby, A. grounded out to 2b (2-1 BSB).",42,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,3,bot,"Wallace, C. struck out swinging (2-2 BFFBS).",43,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,4,top,A. DeMartino lined out to 2b (1-2 KKB).,44,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,4,top,"C. Nelson homered to right field, RBI (1-0 B).",45,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,4,top,B. Arendt singled to center field (2-2 SBFB).,46,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,4,top,B. Thompson struck out looking (2-2 KFBFBK).,47,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,4,top,B. Arendt stole second.,48,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,4,top,M. Gillespie walked (3-2 KBKBBFB).,49,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,4,top,"Williams, L. to p for Beschloss.",50,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,4,top,"Ke. Jones singled up the middle, RBI (0-1 K)3a M. Gillespie advanced to third3a B. Arendt scored.",51,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,4,top,"T. Thach doubled down the lf line, 2 RBI (2-2 FFBFBFF)3a Ke. Jones scored3a M. Gillespie scored.",52,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,4,top,T. Lucas struck out swinging (1-2 FKBS).,53,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,4,bot,"Bowman, K. reached on a throwing error by ss (0-1 K).",54,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,4,bot,"Bouche, A. popped up to rf (1-2 BKS).",55,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,4,bot,"Peltier, A. lined out to 2b (0-1 K).",56,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,4,bot,"Burress, B. reached on a fielder's choice (0-0)3a Bowman, K. out at second ss to 2b.",57,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,5,top,"Hunter, J. to p for Williams, L..",58,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,5,top,M. Zelenka struck out swinging (0-2 SSS).,59,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,5,top,A. DeMartino walked (3-1 KBBBB).,60,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,5,top,A. DeMartino advanced to second on a wild pitch.,61,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,5,top,"C. Nelson singled through the left side, advanced to second on the throw, RBI (1-2 BKSFF)3a A. DeMartino scored.",62,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,5,top,B. Arendt flied out to cf to left center (1-2 SSB)3a C. Nelson advanced to third.,63,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,5,top,B. Thompson struck out looking (3-2 BKBBSK).,64,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,5,bot,"Williams, D. flied out to cf (1-0 B).",65,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,5,bot,"Kalinich, M. pinch hit for Collins, J..",66,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,5,bot,"Kalinich, M. flied out to lf (2-1 BBK).",67,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,5,bot,"Barron, W. struck out swinging (1-2 KBSS).",68,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,6,top,M. Gillespie singled to right field (1-2 SBF).,69,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,6,top,Ke. Jones grounded into double play ss to 2b to 1b (0-1 K)3a M. Gillespie out on the play.,70,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,6,top,T. Thach struck out swinging (1-2 BKFS).,71,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,6,bot,"Irby, A. singled to center field (1-0 B).",72,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,6,bot,"Wallace, C. singled through the left side (2-1 FBB)3a Irby, A. advanced to second.",73,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,6,bot,"Downs, D. pinch hit for Bowman, K..",74,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,6,bot,"Downs, D. grounded out to ss (3-2 BKSBBF)3a Wallace, C. advanced to second3a Irby, A. advanced to third.",75,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,6,bot,"Bouche, A. reached on a throwing error by 2b, RBI (1-0 B)3a Wallace, C. advanced to third3a Irby, A. scored.",76,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,6,bot,"Peltier, A. struck out swinging (2-2 BKBKS).",77,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,6,bot,B. Cox to p for A. Smith.,78,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,6,bot,"Bouche, A. stole second.",79,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,6,bot,"Burress, B. popped up to 1b (0-1 K).",80,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,7,top,"Downs, D. to rf.",81,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,7,top,T. Lucas flied out to lf (1-2 SBKFF).,82,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,7,top,M. Zelenka struck out swinging (1-2 BKSFS).,83,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,7,top,A. DeMartino singled to center field (1-2 FFBFFF).,84,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,7,top,C. Nelson flied out to cf (1-2 KKFB).,85,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,7,bot,"Williams, D. popped up to 2b down the rf line (2-0 BB).",86,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,7,bot,"Kalinich, M. to dh.",87,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,7,bot,"Kalinich, M. walked (3-1 KBBBB).",88,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,7,bot,"Barron, W. popped up to ss (2-1 BFB).",89,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,7,bot,"Irby, A. struck out swinging (0-2 FFS).",90,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,8,top,"Pruett, B. to p for Hunter, J..",91,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,8,top,B. Arendt flied out to cf (0-2 SS).,92,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,8,top,B. Thompson struck out swinging (0-2 KKS).,93,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,8,top,M. Gillespie singled to third base (3-2 BBKSB).,94,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,8,top,M. Gillespie stole second.,95,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,8,top,Ke. Jones grounded out to 2b (2-2 KFBB).,96,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,8,bot,"Wallace, C. walked (3-0 BBBB).",97,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,8,bot,"Downs, D. walked (3-1 BBKBB)3a Wallace, C. advanced to second.",98,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,8,bot,C. Allen to p for B. Cox.,99,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,8,bot,"Bouche, A. struck out swinging (1-2 BKFS).",100,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,8,bot,"Herring, J. pinch hit for Peltier, A..",101,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,8,bot,"Herring, J. reached on a fielder's choice (1-2 KFB)3a Downs, D. out at second 1b to ss3a Wallace, C. advanced to third.",102,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,8,bot,"Hall, C. pinch ran for Herring, J..",103,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,8,bot,"Burress, B. grounded out to 3b (0-1 K).",104,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,9,top,"Hall, C. to cf.",105,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,9,top,T. Thach singled to left center (1-2 BKK).,106,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,9,top,T. Lucas reached on a fielder's choice (1-1 KB)3a T. Thach out at second 1b to ss.,107,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,9,top,T. Lucas advanced to second on a passed ball.,108,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,9,top,"M. Zelenka singled to left field (3-2 BBKBK)3a T. Lucas advanced to third, out at home lf to c.",109,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,9,top,A. DeMartino singled to center field (2-2 BBSK)3a M. Zelenka advanced to second.,110,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596617,9,top,C. Nelson flied out to cf (1-2 KBF).,111,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,9,bot,"Williams, D. singled to center field (3-2 BKBKB).",112,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,9,bot,"Kalinich, M. grounded into double play 2b to ss to 1b (0-0)3a Williams, D. out on the play.",113,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025
+6302082,596617,UNCW Seahawks,596535,East Carolina Pirates,596535,9,bot,"Barron, W. lined out to ss (1-2 BSK).",114,2025-03-18T00:00:00-04:00,"Fayetteville, NC",1235,MBA,2025

@@ -1,0 +1,114 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,1,top,"Fishel,Ben walked (3-2).",1,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,1,top,"Fishel,Ben stole second.",2,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,1,top,"Palfrey,Gri singled through the left side (3-2); Fishel,Ben advanced to third.",3,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,1,top,"Kail,Jack flied out to lf, SF, RBI (2-1); Fishel,Ben scored.",4,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,1,top,"Lazits,Anto fouled out to 3b (1-2).",5,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,1,top,"Miller,Sam flied out to rf (0-0).",6,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,1,bot,"LANE, I reached on an error by ss (2-2).",7,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,1,bot,"LIBED, N grounded into double play 2b to ss to 1b (0-0); LANE, I out on the play.",8,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,1,bot,"GUREVITCH, J doubled to left center (2-1).",9,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,1,bot,"SMITH, A walked (3-0).",10,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,1,bot,"LOBLINER, J grounded out to ss (3-2).",11,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,2,top,"Brewer,Jack grounded out to 2b (2-2).",12,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,2,top,"Vogler,Tate reached on an error by rf (3-2).",13,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,2,top,"Estabrook, O flied out to cf to right center (2-1).",14,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,2,top,"Snyder,Hunt grounded out to 1b unassisted (2-2).",15,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,2,bot,"WATSON, R struck out looking (3-2).",16,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,2,bot,"D'ARCY, G walked (3-1).",17,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,2,bot,"MEIDROTH, C struck out swinging (2-2).",18,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,2,bot,"WARD, R walked (3-1); D'ARCY, G advanced to second.",19,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,2,bot,"LANE, I tripled to right center, 2 RBI (2-2); WARD, R scored; D'ARCY, G scored.",20,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,2,bot,"LIBED, N struck out looking (3-2).",21,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,3,top,"Fishel,Ben singled up the middle (2-2).",22,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,3,top,"Palfrey,Gri hit by pitch (0-0); Fishel,Ben advanced to second.",23,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,3,top,"Kail,Jack grounded out to c, SAC (1-1); Palfrey,Gri advanced to second; Fishel,Ben advanced to third.",24,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,3,top,"Lazits,Anto flied out to cf, SF, RBI (1-0); Fishel,Ben scored.",25,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,3,top,"Miller,Sam flied out to cf to right center (2-2).",26,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,3,bot,"GUREVITCH, J walked (3-0).",27,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,3,bot,"SMITH, A walked (3-2); GUREVITCH, J advanced to second.",28,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,3,bot,"LOBLINER, J struck out looking (1-2).",29,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,3,bot,"WATSON, R grounded into double play 2b to ss to 1b (0-0); SMITH, A out on the play.",30,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,4,top,"Brewer,Jack grounded out to ss (0-1).",31,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,4,top,"Vogler,Tate struck out swinging, out at first c to 1b (3-2).",32,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,4,top,"Estabrook, O struck out looking (3-2).",33,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,4,bot,"D'ARCY, G lined out to rf (2-2).",34,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,4,bot,"MEIDROTH, C struck out swinging (0-2).",35,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,4,bot,"WARD, R grounded out to ss (1-2).",36,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,5,top,"VENVERLOH, V to 2b for MEIDROTH, C.",37,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,5,top,"Snyder,Hunt grounded out to 2b.",38,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,5,top,"Fishel,Ben lined out to cf (0-1).",39,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,5,top,"Palfrey,Gri grounded out to 3b (0-0).",40,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,5,bot,"LANE, I walked (3-2).",41,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,5,bot,"LIBED, N fouled out to 2b (2-2).",42,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,5,bot,"LANE, I stole second.",43,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,5,bot,"GUREVITCH, J walked (3-1).",44,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,5,bot,"Hicks, Baylo to p for Sheets,Joe.",45,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,5,bot,"SMITH, A popped up to 3b (3-1).",46,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,5,bot,"ANZAI, AJ pinch hit for LOBLINER, J.",47,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,5,bot,"ANZAI, AJ walked (3-2); GUREVITCH, J advanced to second; LANE, I advanced to third.",48,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,5,bot,"HOWARD, A pinch ran for ANZAI, AJ.",49,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,5,bot,"WATSON, R homered to right field, 4 RBI (2-1); HOWARD, A scored; GUREVITCH, J scored; LANE, I scored.",50,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,5,bot,"D'ARCY, G tripled to right field (1-1).",51,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,5,bot,"VENVERLOH, V struck out swinging (1-2).",52,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,6,top,"HOWARD, A to cf.",53,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,6,top,"D'ARCY, G to lf.",54,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,6,top,"Kail,Jack lined out to cf (2-2).",55,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,6,top,"Lazits,Anto homered to left field, RBI (2-1).",56,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,6,top,"Miller,Sam homered to center field, inside the park, RBI (0-2).",57,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,6,top,"Brewer,Jack walked (3-0).",58,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,6,top,"Vogler,Tate walked (3-1); Brewer,Jack advanced to second.",59,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,6,top,"PALENCIA, F to p for SCOLARI, C.",60,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,6,top,"Fellows,Col pinch hit for Estabrook, O.",61,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,6,top,"Fellows,Col hit by pitch (0-1); Vogler,Tate advanced to second; Brewer,Jack advanced to third.",62,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,6,top,"Reynolds, De pinch ran for Fellows,Col.",63,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,6,top,"Snyder,Hunt reached on a fielder's choice, RBI (3-2); Reynolds, De out at second ss to 2b; Vogler,Tate advanced to third; Brewer,Jack scored.",64,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,6,top,"Fishel,Ben reached on a fielder's choice (3-1); Snyder,Hunt out at second 2b to ss.",65,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,6,bot,"Temesvary,A to c for Reynolds, De.",66,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,6,bot,"WARD, R struck out swinging (2-2).",67,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,6,bot,"LANE, I lined out to 3b (3-2).",68,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,6,bot,"LIBED, N walked (3-2).",69,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,6,bot,"GUREVITCH, J popped up to 3b (2-2).",70,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,7,top,"Palfrey,Gri hit by pitch (2-0).",71,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,7,top,"Kail,Jack popped up to ss to left field (3-1).",72,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,7,top,"Lazits,Anto hit by pitch (0-2); Palfrey,Gri advanced to second.",73,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,7,top,"CODY, H to p for PALENCIA, F.",74,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,7,top,"Miller,Sam struck out swinging (1-2).",75,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,7,top,"Brewer,Jack flied out to rf (0-1).",76,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,7,bot,"SMITH, A singled through the left side (1-2).",77,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,7,bot,"HOWARD, A grounded out to 3b, SAC (1-0); SMITH, A advanced to second.",78,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,7,bot,"WATSON, R hit by pitch (1-2).",79,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,7,bot,"WATSON, R stole second, scored, unearned; SMITH, A stole third, scored on a throwing error by c, unearned.",80,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,7,bot,"D'ARCY, G grounded out to p (2-2).",81,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,7,bot,"VENVERLOH, V walked (3-2).",82,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,7,bot,"WARD, R flied out to rf (2-1).",83,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,8,top,"MARTINEZ, C to 2b for VENVERLOH, V.",84,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,8,top,"Vogler,Tate singled down the lf line (1-0).",85,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,8,top,"Temesvary,A hit by pitch (2-1); Vogler,Tate advanced to second.",86,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,8,top,"Temesvary,A advanced to second on a passed ball; Vogler,Tate advanced to third on a passed ball.",87,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,8,top,"Snyder,Hunt grounded out to 1b unassisted (2-1).",88,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,8,top,"Temesvary,A advanced to third on a wild pitch; Vogler,Tate scored on a wild pitch.",89,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,8,top,"Fishel,Ben walked (3-2).",90,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,8,top,"Palfrey,Gri walked (3-1); Fishel,Ben advanced to second.",91,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,8,top,"HARRISON, D to p for CODY, H.",92,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,8,top,"Kail,Jack grounded out to 2b, RBI (0-0); Palfrey,Gri advanced to second; Fishel,Ben advanced to third; Temesvary,A scored.",93,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,8,top,"Lazits,Anto hit by pitch (1-2).",94,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,8,top,"Miller,Sam singled to right center, 2 RBI (0-0); Lazits,Anto advanced to second; Palfrey,Gri scored; Fishel,Ben scored.",95,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,8,top,"Brewer,Jack grounded out to 2b (2-1).",96,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,8,bot,"Huke,Ray to p for Hicks, Baylo.",97,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,8,bot,"LANE, I grounded out to ss (0-1).",98,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,8,bot,"LIBED, N grounded out to 2b (1-1).",99,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,8,bot,"GUREVITCH, J singled (0-1).",100,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,8,bot,"SMITH, A doubled down the lf line (2-1); GUREVITCH, J advanced to third.",101,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,8,bot,"HOWARD, A struck out looking (1-2).",102,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,9,top,"Vogler,Tate struck out looking (3-2).",103,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,9,top,"Temesvary,A struck out swinging (1-2).",104,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596525,9,top,"Snyder,Hunt grounded out to p (2-2).",105,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,9,bot,"Corso,Kyle to lf for Brewer,Jack.",106,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,9,bot,"WATSON, R walked (3-0).",107,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,9,bot,"D'ARCY, G popped into double play p to 1b (1-1); WATSON, R out on the play.",108,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,9,bot,"FITZ, J to 2b for MARTINEZ, C.",109,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,9,bot,"FITZ, J pinch hit.",110,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,9,bot,"FITZ, J singled to left field.",111,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,9,bot,"MCWILLIAMS pinch ran for FITZ, J.",112,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025
+6366342,596525,Columbia Lions,596670,San Diego Toreros,596670,9,bot,"WARD, R struck out swinging (3-2).",113,2025-03-16T00:00:00-04:00,"Fowler Park (San Diego, CA)",584,MBA,2025

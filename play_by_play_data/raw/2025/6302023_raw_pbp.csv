@@ -1,0 +1,104 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,1,top,No play.,1,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,1,top,"Yukumoto, T hit by pitch (1-0 B).",2,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,1,top,"Mestas, G struck out swinging (2-2 BBKKS).",3,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,1,top,"Shupe, H singled through the right side (0-1 K): Yukumoto, T advanced to second.",4,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,1,top,"Temesvary, V flied out to rf (1-1 KB): Yukumoto, T advanced to third.",5,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,1,top,"Shupe, H stole second.",6,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,1,top,"Eisenstat, T singled to shortstop, RBI (3-2 SBFBB): Shupe, H advanced to third: Yukumoto, T scored.",7,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,1,top,"Eisenstat, T stole second.",8,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,1,top,"Eisenstat, T advanced to third on a wild pitch: Shupe, H scored on a wild pitch.",9,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,1,top,"Hankins, J reached on a fielding error by 3b (3-2 BBKFB): Eisenstat, T scored, unearned.",10,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,1,top,"Bell, M struck out swinging (1-2 FBKS).",11,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,1,bot,"Guerrero,A flied out to rf (0-0).",12,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,1,bot,"Bower,C walked (3-2 KBBFBFB).",13,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,1,bot,"Kole,T grounded into double play 3b to 2b to 1b (0-0): Bower,C out on the play.",14,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,2,top,"Phelan, J walked (3-2 BKBBFFB).",15,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,2,top,"DiPaolo, L flied out to cf (1-2 SBF).",16,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,2,top,"Phelan, J stole second.",17,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,2,top,"Yukumoto, T walked (3-2 BSBSBB).",18,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,2,top,"Mestas, G doubled to left field, RBI (0-2 FF): Yukumoto, T advanced to third: Phelan, J scored.",19,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,2,top,"Shupe, H flied out to lf, SF, RBI (1-0 B): Yukumoto, T scored.",20,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,2,top,"Temesvary, V struck out swinging (2-2 KBFBS).",21,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,2,bot,"Knight,M grounded out to p, bunt (0-0).",22,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,2,bot,"DeCarlo,S flied out to cf (0-2 KF).",23,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,2,bot,"Terry,B lined out to 3b (1-1 SB).",24,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,3,top,"Nichols,G to p for Brandenburg.",25,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,3,top,"Eisenstat, T flied out to rf (0-0).",26,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,3,top,"Hankins, J flied out to rf (0-1 K).",27,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,3,top,"Bell, M grounded out to 3b (2-2 BSKFB).",28,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,3,bot,"Hotchkiss,J singled through the right side (1-0 B).",29,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,3,bot,"Sanders,J walked (3-2 KBKBBFB): Hotchkiss,J advanced to second.",30,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,3,bot,"Crawford,C struck out swinging (1-2 FSBS).",31,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,3,bot,"Guerrero,A flied out to rf (2-0 BB).",32,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,3,bot,"Bower,C walked (3-2 BKBBSB): Sanders,J advanced to second: Hotchkiss,J advanced to third.",33,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,3,bot,"Kole,T singled up the middle, 2 RBI (0-1 K): Bower,C advanced to second: Sanders,J scored: Hotchkiss,J scored.",34,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,3,bot,"Kole,T stole second: Bower,C stole third.",35,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,3,bot,"Knight,M struck out swinging (2-2 BSKBS).",36,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,4,top,"Phelan, J singled to right field (0-1 K).",37,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,4,top,"DiPaolo, L flied out to cf (2-2 KBBFFF).",38,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,4,top,"Yukumoto, T flied out to lf (0-0).",39,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,4,top,"Phelan, J stole second.",40,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,4,top,"Mestas, G struck out, out at first c to 1b (2-2 FFBBS).",41,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,4,bot,"DeCarlo,S flied out to cf (3-2 KBBBK).",42,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,4,bot,"O'Neal,E pinch hit for Terry,B.",43,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,4,bot,"O'Neal,E struck out swinging (1-2 BFFS).",44,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,4,bot,"Hotchkiss,J flied out to rf (1-1 KB).",45,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,5,top,"Yeager,I to p for Nichols,G.",46,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,5,top,"Shupe, H doubled to left center (1-1 SB).",47,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,5,top,"Temesvary, V hit by pitch (0-0).",48,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,5,top,"Eisenstat, T grounded out to c, SAC (1-0 B): Temesvary, V advanced to second: Shupe, H advanced to third.",49,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,5,top,"Hankins, J reached on a fielding error by 2b, RBI (1-0 B): Temesvary, V advanced to third: Shupe, H scored.",50,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,5,top,"Hankins, J advanced to second: Temesvary, V out at home c to 2b to c, caught stealing.",51,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,5,top,"Bell, M flied out to rf (0-2 SK).",52,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,5,bot,"Sanders,J grounded out to ss (0-1 K).",53,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,5,bot,"Henning,M pinch hit for Crawford,C.",54,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,5,bot,"Henning,M singled up the middle (0-1 K).",55,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,5,bot,"Guerrero,A struck out swinging (2-2 KSBFBS).",56,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,5,bot,"Bower,C singled to left center: Henning,M advanced to third.",57,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,5,bot,"Bower,C out at first c to 2b to 1b, caught stealing: Henning,M scored.",58,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,6,top,"Henning,M to 2b.",59,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,6,top,"Phelan, J grounded out to 2b (1-0 B).",60,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,6,top,"DiPaolo, L grounded out to ss (0-0).",61,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,6,top,"Yukumoto, T lined out to p (0-1 K).",62,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,6,bot,"Kole,T struck out looking (2-2 SBSFBFK).",63,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,6,bot,"Knight,M flied out to cf (3-2 FFBBBF).",64,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,6,bot,"DeCarlo,S grounded out to ss (0-0).",65,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,7,top,"Mestas, G grounded out to 3b (0-0).",66,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,7,top,"Shupe, H struck out looking (3-2 BKKFBBK).",67,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,7,top,"Temesvary, V flied out to rf (1-1 SB).",68,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,7,bot,"O'Neal,E to dh.",69,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,7,bot,"Mestas, G to lf.",70,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,7,bot,"Temesvary, V to rf.",71,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,7,bot,"Stem, S to cf for Bell, M.",72,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,7,bot,"O'Neal,E flied out to rf (3-2 BKSBFB).",73,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,7,bot,"Hotchkiss,J doubled up the middle (1-1 BK).",74,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,7,bot,"Sanders,J flied out to cf (1-0 B).",75,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,7,bot,"Henning,M flied out to cf (1-0 B).",76,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,8,top,"Eisenstat, T grounded out to p (1-0 B).",77,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,8,top,"Hankins, J struck out swinging (0-2 FSFFS).",78,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,8,top,"Stem, S singled through the left side (0-2 KSF).",79,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,8,top,"Stem, S stole second.",80,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,8,top,"Phelan, J struck out swinging (2-2 BKBFS).",81,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,8,bot,"Hoffberg, E to p for Feld, J.",82,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,8,bot,"Guerrero,A struck out swinging (1-2 SBSS).",83,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,8,bot,"Bower,C grounded out to 3b (3-2 KBSBB).",84,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,8,bot,"Kole,T grounded out to ss (0-2 KKF).",85,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,9,top,"Emanuels,J to p for Yeager,I.",86,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,9,top,"DiPaolo, L flied out to cf (0-0).",87,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,9,top,"Yukumoto, T doubled to left center (0-1 K).",88,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,9,top,"Mestas, G singled through the right side (0-1 K): Yukumoto, T advanced to third.",89,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,9,top,"Shupe, H singled to left center, RBI (0-1 K): Mestas, G advanced to second: Yukumoto, T scored.",90,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,9,top,"Temesvary, V struck out looking (2-2 SBSFFBFK).",91,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,9,top,"Eisenstat, T doubled down the rf line, 2 RBI (1-2 BKF): Shupe, H scored: Mestas, G scored.",92,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596555,9,top,"Hankins, J popped up to 1b (1-1 BF).",93,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,9,bot,"Schuerman, R to c for DiPaolo, L.",94,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,9,bot,"Knight,M singled to third base (2-2 BKBF).",95,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,9,bot,"DeCarlo,S singled to left center (0-0): Knight,M advanced to second.",96,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,9,bot,"O'Neal,E doubled down the rf line, RBI (2-2 BKBK): DeCarlo,S advanced to third: Knight,M scored.",97,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,9,bot,"Hotchkiss,J walked (3-2 BSSBBB).",98,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,9,bot,"Sanders,J flied out to lf, SF, RBI (3-2 BBBKS): O'Neal,E advanced to third: DeCarlo,S scored.",99,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,9,bot,"Henning,M singled through the left side, RBI (1-2 KKB): Hotchkiss,J advanced to second: O'Neal,E scored.",100,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,9,bot,"Henning,M advanced to second on a wild pitch: Hotchkiss,J advanced to third on a wild pitch.",101,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,9,bot,"Guerrero,A struck out swinging (3-2 BSBBSS).",102,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
+6302023,596555,Gonzaga Bulldogs,596443,Washington Huskies,596443,9,bot,"Bower,C struck out looking (3-2 FBBSFBK).",103,2025-03-16T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1034,MBA,2025
