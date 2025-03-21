@@ -1,36 +1,37 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116073,21,Andrew Simone,Andrew,Simone,Sr.,P,5-11,,RIGHT,RIGHT,"Vineland, NJ",Cumberland County Tec,6,0,https://stats.ncaa.org/players/9116073
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116082,32,Alex Chumrau,Alex,Chumrau,Fr.,P,6-5,,RIGHT,RIGHT,"Parker, CO",Lutheran,1,1,https://stats.ncaa.org/players/9116082
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8875631,11,Josh Zapata,Josh,Zapata,Sr.,OF,6-0,,RIGHT,RIGHT,"Buda, TX",Buda,11,10,https://stats.ncaa.org/players/8875631
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8876673,16,Ken Hemmer,Ken,Hemmer,Sr.,INF,6-2,,RIGHT,RIGHT,"Tokyo, Japan",American School in Japan,1,0,https://stats.ncaa.org/players/8876673
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8884168,18,Max Lankford,Max,Lankford,Sr.,P,6-3,,RIGHT,RIGHT,"Rhome, TX",Northwest,4,0,https://stats.ncaa.org/players/8884168
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8877145,2,Ryan Camacho,Ryan,Camacho,Sr.,OF,5-9,,RIGHT,RIGHT,"Stevenson Ranch, CA",West Ranch,14,14,https://stats.ncaa.org/players/8877145
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8881283,1,Jovan Camacho,Jovan,Camacho,Sr.,OF,5-9,,LEFT,RIGHT,"Stevenson Ranch, CA",West Ranch,14,14,https://stats.ncaa.org/players/8881283
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8876070,0,Elijah Batista,Elijah,Batista,Sr.,INF,5-9,,RIGHT,RIGHT,"El Paso, TX",Eastlake,14,14,https://stats.ncaa.org/players/8876070
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8877246,15,Tai Phetluangsy,Tai,Phetluangsy,Sr.,P,5-11,,RIGHT,RIGHT,"Amarillo, TX",Tascosa,6,0,https://stats.ncaa.org/players/8877246
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8888663,4,Kyle Micklus,Kyle,Micklus,Sr.,C,5-9,,LEFT,RIGHT,"Waller, TX",Waller,14,14,https://stats.ncaa.org/players/8888663
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8881621,36,Nathan Scott,Nathan,Scott,Sr.,P,6-4,,RIGHT,RIGHT,"League City, TX",Clear Creek,4,4,https://stats.ncaa.org/players/8881621
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8883640,20,Chase Weaver,Chase,Weaver,So.,P,5-11,,LEFT,LEFT,"Hamilton, TX",Hamilton,3,3,https://stats.ncaa.org/players/8883640
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8881648,19,Matt Whitney,Matt,Whitney,Sr.,P,6-5,,LEFT,LEFT,"Plantation, FL",American Heritage,3,0,https://stats.ncaa.org/players/8881648
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8897380,9,Matt Milner,Matt,Milner,Sr.,P,6-3,,RIGHT,RIGHT,"Duke, OK",Duke,4,4,https://stats.ncaa.org/players/8897380
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116074,24,Zac Rackham,Zac,Rackham,Jr.,INF,5-11,,RIGHT,RIGHT,"Kuna, ID",Kuna,7,7,https://stats.ncaa.org/players/9116074
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116075,25,Jalen Meyers,Jalen,Meyers,Jr.,INF,5-9,,RIGHT,RIGHT,"Arlington, TX",Trinity,6,5,https://stats.ncaa.org/players/9116075
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116073,21,Andrew Simone,Andrew,Simone,Sr.,P,5-11,,RIGHT,RIGHT,"Vineland, NJ",Cumberland County Tec,8,0,https://stats.ncaa.org/players/9116073
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116082,32,Alex Chumrau,Alex,Chumrau,Fr.,P,6-5,,RIGHT,RIGHT,"Parker, CO",Lutheran,2,1,https://stats.ncaa.org/players/9116082
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9307165,31,Gabe Torres,Gabe,Torres,Sr.,P,6-2,,RIGHT,RIGHT,"El Paso, TX",Bel Air,2,0,https://stats.ncaa.org/players/9307165
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8875631,11,Josh Zapata,Josh,Zapata,Sr.,OF,6-0,,RIGHT,RIGHT,"Buda, TX",Buda,22,20,https://stats.ncaa.org/players/8875631
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8876673,16,Ken Hemmer,Ken,Hemmer,Sr.,INF,6-2,,RIGHT,RIGHT,"Tokyo, Japan",American School in Japan,4,0,https://stats.ncaa.org/players/8876673
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8884168,18,Max Lankford,Max,Lankford,Sr.,P,6-3,,RIGHT,RIGHT,"Rhome, TX",Northwest,7,3,https://stats.ncaa.org/players/8884168
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8877145,2,Ryan Camacho,Ryan,Camacho,Sr.,OF,5-9,,RIGHT,RIGHT,"Stevenson Ranch, CA",West Ranch,26,26,https://stats.ncaa.org/players/8877145
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8881283,1,Jovan Camacho,Jovan,Camacho,Sr.,OF,5-9,,LEFT,RIGHT,"Stevenson Ranch, CA",West Ranch,26,26,https://stats.ncaa.org/players/8881283
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8876070,0,Elijah Batista,Elijah,Batista,Sr.,INF,5-9,,RIGHT,RIGHT,"El Paso, TX",Eastlake,26,26,https://stats.ncaa.org/players/8876070
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8877246,15,Tai Phetluangsy,Tai,Phetluangsy,Sr.,P,5-11,,RIGHT,RIGHT,"Amarillo, TX",Tascosa,9,0,https://stats.ncaa.org/players/8877246
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8888663,4,Kyle Micklus,Kyle,Micklus,Sr.,C,5-9,,LEFT,RIGHT,"Waller, TX",Waller,26,26,https://stats.ncaa.org/players/8888663
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8881621,36,Nathan Scott,Nathan,Scott,Sr.,P,6-4,,RIGHT,RIGHT,"League City, TX",Clear Creek,7,7,https://stats.ncaa.org/players/8881621
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8883640,20,Chase Weaver,Chase,Weaver,So.,P,5-11,,LEFT,LEFT,"Hamilton, TX",Hamilton,6,6,https://stats.ncaa.org/players/8883640
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8881648,19,Matt Whitney,Matt,Whitney,Sr.,P,6-5,,LEFT,LEFT,"Plantation, FL",American Heritage,4,0,https://stats.ncaa.org/players/8881648
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8897380,9,Matt Milner,Matt,Milner,Sr.,P,6-3,,RIGHT,RIGHT,"Duke, OK",Duke,7,7,https://stats.ncaa.org/players/8897380
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116074,24,Zac Rackham,Zac,Rackham,Jr.,INF,5-11,,RIGHT,RIGHT,"Kuna, ID",Kuna,12,7,https://stats.ncaa.org/players/9116074
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116075,25,Jalen Meyers,Jalen,Meyers,Jr.,INF,5-9,,RIGHT,RIGHT,"Arlington, TX",Trinity,9,5,https://stats.ncaa.org/players/9116075
 2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116081,30,Emmanuel Pena,Emmanuel,Pena,Jr.,P,6-5,,RIGHT,RIGHT,"Santo Domingo, Dominican Republic",Salome Urena,2,2,https://stats.ncaa.org/players/9116081
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116088,34,Davis Luikart,Davis,Luikart,Jr.,P,6-0,,RIGHT,RIGHT,"Austin, TX",Regents School of Austin,5,0,https://stats.ncaa.org/players/9116088
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116088,34,Davis Luikart,Davis,Luikart,Jr.,P,6-0,,RIGHT,RIGHT,"Austin, TX",Regents School of Austin,8,0,https://stats.ncaa.org/players/9116088
 2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8897579,99,Zak Betancourt,Zak,Betancourt,Sr.,OF,6-1,,LEFT,LEFT,"Levelland, TX",Levelland,0,0,https://stats.ncaa.org/players/8897579
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116062,5,Jake Alwine,Jake,Alwine,Jr.,INF,5-6,,LEFT,RIGHT,"Glendale, AZ",Mountain Ridge,4,0,https://stats.ncaa.org/players/9116062
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116068,7,Daniel Castellanos,Daniel,Castellanos,Jr.,C,6-1,,RIGHT,RIGHT,"Los Angeles, CA",Gahr,2,0,https://stats.ncaa.org/players/9116068
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116084,33,Isaiah Arteaga,Isaiah,Arteaga,Jr.,P,6-2,,RIGHT,RIGHT,"El Paso, TX",Canutillo,2,0,https://stats.ncaa.org/players/9116084
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116066,6,Julius Carpio,Julius,Carpio,Jr.,P,6-1,,RIGHT,RIGHT,"Dimmitt, TX",Dimmitt,4,0,https://stats.ncaa.org/players/9116066
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116072,17,Riley Kettner,Riley,Kettner,Jr.,P,6-2,,RIGHT,RIGHT,"Lubbock, TX",Trinity Christian,3,0,https://stats.ncaa.org/players/9116072
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116078,27,Tristin Thomas,Tristin,Thomas,Fr.,UT,5-8,,LEFT,LEFT,"Carlsbad, NM",Carlsbad,2,0,https://stats.ncaa.org/players/9116078
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116062,5,Jake Alwine,Jake,Alwine,Jr.,INF,5-6,,LEFT,RIGHT,"Glendale, AZ",Mountain Ridge,8,0,https://stats.ncaa.org/players/9116062
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116068,7,Daniel Castellanos,Daniel,Castellanos,Jr.,C,6-1,,RIGHT,RIGHT,"Los Angeles, CA",Gahr,5,0,https://stats.ncaa.org/players/9116068
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116084,33,Isaiah Arteaga,Isaiah,Arteaga,Jr.,P,6-2,,RIGHT,RIGHT,"El Paso, TX",Canutillo,3,0,https://stats.ncaa.org/players/9116084
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116066,6,Julius Carpio,Julius,Carpio,Jr.,P,6-1,,RIGHT,RIGHT,"Dimmitt, TX",Dimmitt,5,0,https://stats.ncaa.org/players/9116066
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116072,17,Riley Kettner,Riley,Kettner,Jr.,P,6-2,,RIGHT,RIGHT,"Lubbock, TX",Trinity Christian,6,0,https://stats.ncaa.org/players/9116072
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116078,27,Tristin Thomas,Tristin,Thomas,Fr.,UT,5-8,,LEFT,LEFT,"Carlsbad, NM",Carlsbad,8,0,https://stats.ncaa.org/players/9116078
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116091,44,Teddy Judkins,Teddy,Judkins,So.,P,6-2,,RIGHT,RIGHT,"Fort Worth, TX",Chisholm Trail,2,0,https://stats.ncaa.org/players/9116091
 2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116093,42,Michael Guerrero,Michael,Guerrero,Sr.,P,6-5,,RIGHT,RIGHT,"Kissimmee, FL",,0,0,https://stats.ncaa.org/players/9116093
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8899492,13,Glenn Noronha,Glenn,Noronha,Sr.,OF,5-8,,LEFT,RIGHT,"Mississauga, Canada",St. Aloysius Gonzaga,8,4,https://stats.ncaa.org/players/8899492
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8899492,13,Glenn Noronha,Glenn,Noronha,Sr.,OF,5-8,,LEFT,RIGHT,"Mississauga, Canada",St. Aloysius Gonzaga,14,7,https://stats.ncaa.org/players/8899492
 2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8902179,98,Owen Alsup,Owen,Alsup,Sr.,INF,6-0,,RIGHT,RIGHT,"Roswell, NM",Goddard,0,0,https://stats.ncaa.org/players/8902179
 2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8902392,14,Nick Yeager,Nick,Yeager,Sr.,P,6-1,,RIGHT,LEFT,"Canton, MI",Canton,0,0,https://stats.ncaa.org/players/8902392
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8901267,8,Rodric Black,Rodric,Black,Sr.,INF,6-3,,RIGHT,RIGHT,"Fort Worth, TX",L.B. Bell,7,7,https://stats.ncaa.org/players/8901267
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9094746,23,Dylan Fesperman,Dylan,Fesperman,Sr.,INF,6-4,,RIGHT,RIGHT,"Phoenix, AZ",Pinnacle,14,14,https://stats.ncaa.org/players/9094746
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9094750,10,Seth Ochoa,Seth,Ochoa,Sr.,INF,6-0,,RIGHT,RIGHT,"El Paso, TX",Eastwood,14,14,https://stats.ncaa.org/players/9094750
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9094754,22,Kory Schmidt,Kory,Schmidt,Sr.,C,6-4,,RIGHT,RIGHT,"Liberty Hill, TX",Liberty Hill,9,9,https://stats.ncaa.org/players/9094754
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,8901267,8,Rodric Black,Rodric,Black,Sr.,INF,6-3,,RIGHT,RIGHT,"Fort Worth, TX",L.B. Bell,19,19,https://stats.ncaa.org/players/8901267
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9094746,23,Dylan Fesperman,Dylan,Fesperman,Sr.,INF,6-4,,RIGHT,RIGHT,"Phoenix, AZ",Pinnacle,26,26,https://stats.ncaa.org/players/9094746
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9094750,10,Seth Ochoa,Seth,Ochoa,Sr.,INF,6-0,,RIGHT,RIGHT,"El Paso, TX",Eastwood,26,26,https://stats.ncaa.org/players/9094750
+2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9094754,22,Kory Schmidt,Kory,Schmidt,Sr.,C,6-4,,RIGHT,RIGHT,"Liberty Hill, TX",Liberty Hill,20,20,https://stats.ncaa.org/players/9094754
 2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9218983,41,Shea Lake,Shea,Lake,So.,INF,-,,,,,,0,0,https://stats.ncaa.org/players/9218983
-2025,2024-25,MBA,2,II,Lone Star,767,West Tex. A&M,9116091,44,Teddy Judkins,Teddy,Judkins,So.,P,6-2,,RIGHT,RIGHT,"Fort Worth, TX",Chisholm Trail,0,0,https://stats.ncaa.org/players/9116091

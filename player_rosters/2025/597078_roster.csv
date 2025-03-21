@@ -1,34 +1,34 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2025,2024-25,MBA,3,III,NWC,785,Willamette,8878624,5,Wyatt Thames,Wyatt,Thames,Sr.,OF,5-10,,RIGHT,RIGHT,"Elk Grove, CA",Huntington Beach HS,1,1,https://stats.ncaa.org/players/8878624
-2025,2024-25,MBA,3,III,NWC,785,Willamette,8882716,17,Nate Schikore,Nate,Schikore,So.,P,6-4,,RIGHT,RIGHT,"Fairfield, CA",Angelo Rodriguez HS,1,0,https://stats.ncaa.org/players/8882716
-2025,2024-25,MBA,3,III,NWC,785,Willamette,8887912,27,Rocco Granucci,Rocco,Granucci,Sr.,OF,6-1,,RIGHT,RIGHT,"San Diego, CA",Scripps Ranch High School,2,2,https://stats.ncaa.org/players/8887912
-2025,2024-25,MBA,3,III,NWC,785,Willamette,8889230,21,Jason Smith,Jason,Smith,Jr.,C,6-2,,RIGHT,RIGHT,"Carmichael, CA",Rio Americano High School,0,0,https://stats.ncaa.org/players/8889230
-2025,2024-25,MBA,3,III,NWC,785,Willamette,8875024,4,Drew Baskin,Drew,Baskin,Sr.,INF,5-9,,RIGHT,RIGHT,"Arroyo Grande, CA",Arroyo Grande High School,2,2,https://stats.ncaa.org/players/8875024
-2025,2024-25,MBA,3,III,NWC,785,Willamette,8874076,33,Roman Mahler,Roman,Mahler,So.,P,6-0,,LEFT,LEFT,"Oak View, CA",Nordhoff HS,0,0,https://stats.ncaa.org/players/8874076
-2025,2024-25,MBA,3,III,NWC,785,Willamette,8874077,19,Preston Lau,Preston,Lau,Sr.,OF,5-9,,RIGHT,RIGHT,"Burlingame, CA",Burlingame HS,2,1,https://stats.ncaa.org/players/8874077
-2025,2024-25,MBA,3,III,NWC,785,Willamette,8878014,28,Carter Stoltz,Carter,Stoltz,So.,C,6-2,,RIGHT,RIGHT,"Davis, CA",Davis HS,2,2,https://stats.ncaa.org/players/8878014
-2025,2024-25,MBA,3,III,NWC,785,Willamette,8878341,20,Liam O'Connor,Liam,O'Connor,So.,INF,5-9,,RIGHT,RIGHT,"Evergreen, CO",Conifer HS,2,2,https://stats.ncaa.org/players/8878341
-2025,2024-25,MBA,3,III,NWC,785,Willamette,8885703,15,Matthew Mason,Matthew,Mason,Jr.,P,6-4,,LEFT,LEFT,"Redondo Beach, CA",Redondo Union High School,1,0,https://stats.ncaa.org/players/8885703
-2025,2024-25,MBA,3,III,NWC,785,Willamette,8893488,34,Charlie Satterlee,Charlie,Satterlee,So.,OF,6-3,,RIGHT,RIGHT,"Chicago Park, CA",Colfax HS,0,0,https://stats.ncaa.org/players/8893488
-2025,2024-25,MBA,3,III,NWC,785,Willamette,8898535,3,Adam Birt,Adam,Birt,Jr.,INF,6-0,,RIGHT,RIGHT,"Fremont, CA",Washington High School,1,1,https://stats.ncaa.org/players/8898535
+2025,2024-25,MBA,3,III,NWC,785,Willamette,8878624,5,Wyatt Thames,Wyatt,Thames,Sr.,OF,5-10,,RIGHT,RIGHT,"Elk Grove, CA",Huntington Beach HS,5,4,https://stats.ncaa.org/players/8878624
+2025,2024-25,MBA,3,III,NWC,785,Willamette,8882716,17,Nate Schikore,Nate,Schikore,So.,P,6-4,,RIGHT,RIGHT,"Fairfield, CA",Angelo Rodriguez HS,4,2,https://stats.ncaa.org/players/8882716
+2025,2024-25,MBA,3,III,NWC,785,Willamette,8887912,27,Rocco Granucci,Rocco,Granucci,Sr.,OF,6-1,,RIGHT,RIGHT,"San Diego, CA",Scripps Ranch High School,9,9,https://stats.ncaa.org/players/8887912
+2025,2024-25,MBA,3,III,NWC,785,Willamette,8889230,21,Jason Smith,Jason,Smith,Jr.,C,6-2,,RIGHT,RIGHT,"Carmichael, CA",Rio Americano High School,1,0,https://stats.ncaa.org/players/8889230
+2025,2024-25,MBA,3,III,NWC,785,Willamette,8875024,4,Drew Baskin,Drew,Baskin,Sr.,INF,5-9,,RIGHT,RIGHT,"Arroyo Grande, CA",Arroyo Grande High School,12,12,https://stats.ncaa.org/players/8875024
+2025,2024-25,MBA,3,III,NWC,785,Willamette,8874076,33,Roman Mahler,Roman,Mahler,So.,P,6-0,,LEFT,LEFT,"Oak View, CA",Nordhoff HS,2,0,https://stats.ncaa.org/players/8874076
+2025,2024-25,MBA,3,III,NWC,785,Willamette,8874077,19,Preston Lau,Preston,Lau,Sr.,OF,5-9,,RIGHT,RIGHT,"Burlingame, CA",Burlingame HS,9,8,https://stats.ncaa.org/players/8874077
+2025,2024-25,MBA,3,III,NWC,785,Willamette,8878014,28,Carter Stoltz,Carter,Stoltz,So.,C,6-2,,RIGHT,RIGHT,"Davis, CA",Davis HS,6,6,https://stats.ncaa.org/players/8878014
+2025,2024-25,MBA,3,III,NWC,785,Willamette,8878341,20,Liam O'Connor,Liam,O'Connor,So.,INF,5-9,,RIGHT,RIGHT,"Evergreen, CO",Conifer HS,12,12,https://stats.ncaa.org/players/8878341
+2025,2024-25,MBA,3,III,NWC,785,Willamette,8885703,15,Matthew Mason,Matthew,Mason,Jr.,P,6-4,,LEFT,LEFT,"Redondo Beach, CA",Redondo Union High School,5,0,https://stats.ncaa.org/players/8885703
+2025,2024-25,MBA,3,III,NWC,785,Willamette,8893488,34,Charlie Satterlee,Charlie,Satterlee,So.,OF,6-3,,RIGHT,RIGHT,"Chicago Park, CA",Colfax HS,1,0,https://stats.ncaa.org/players/8893488
+2025,2024-25,MBA,3,III,NWC,785,Willamette,8898535,3,Adam Birt,Adam,Birt,Jr.,INF,6-0,,RIGHT,RIGHT,"Fremont, CA",Washington High School,5,4,https://stats.ncaa.org/players/8898535
 2025,2024-25,MBA,3,III,NWC,785,Willamette,8894656,23,Finn Hoover,Finn,Hoover,So.,OF,6-4,,RIGHT,RIGHT,"Ventura, CA",Ventura HS,0,0,https://stats.ncaa.org/players/8894656
-2025,2024-25,MBA,3,III,NWC,785,Willamette,8891838,14,Caden Davis,Caden,Davis,Jr.,C,6-3,,RIGHT,RIGHT,"Everett, WA",Henry M. Jackson HS,0,0,https://stats.ncaa.org/players/8891838
-2025,2024-25,MBA,3,III,NWC,785,Willamette,8896678,31,Steven Verespey,Steven,Verespey,Jr.,P,6-2,,RIGHT,RIGHT,"San Ramon, CA",California High School,1,1,https://stats.ncaa.org/players/8896678
-2025,2024-25,MBA,3,III,NWC,785,Willamette,8900241,6,Dylan Turner,Dylan,Turner,Jr.,P,5-9,,RIGHT,RIGHT,"Dallas, TX",Wilson High School,1,0,https://stats.ncaa.org/players/8900241
-2025,2024-25,MBA,3,III,NWC,785,Willamette,8902068,1,Nate Hamburger,Nate,Hamburger,Jr.,OF,5-10,,RIGHT,RIGHT,"Simi Valley, CA",Royal High School,2,2,https://stats.ncaa.org/players/8902068
-2025,2024-25,MBA,3,III,NWC,785,Willamette,8902659,16,Luke Piazza,Luke,Piazza,Sr.,INF,6-2,,LEFT,RIGHT,"Simi Valley, CA",Royal HS,2,2,https://stats.ncaa.org/players/8902659
-2025,2024-25,MBA,3,III,NWC,785,Willamette,9095061,7,Adrian Gonzalez,Adrian,Gonzalez,Sr.,P,5-9,,RIGHT,RIGHT,"South San Francisco, CA",Sacred Heart Prep,1,0,https://stats.ncaa.org/players/9095061
-2025,2024-25,MBA,3,III,NWC,785,Willamette,9095127,29,Cameron Hayman,Cameron,Hayman,Sr.,P,5-10,,RIGHT,LEFT,"Windsor, CA",Windsor HS,1,0,https://stats.ncaa.org/players/9095127
-2025,2024-25,MBA,3,III,NWC,785,Willamette,9095080,44,JD Willis,JD,Willis,Sr.,P,6-3,,LEFT,LEFT,"Chandler, AZ",Perry High School,0,0,https://stats.ncaa.org/players/9095080
-2025,2024-25,MBA,3,III,NWC,785,Willamette,9095058,2,Tassos Foster,Tassos,Foster,Sr.,INF,5-9,,RIGHT,RIGHT,"Novato, CA",Novato High School,2,2,https://stats.ncaa.org/players/9095058
-2025,2024-25,MBA,3,III,NWC,785,Willamette,9095081,37,Joshua Murphy,Joshua,Murphy,Sr.,C,5-10,,RIGHT,RIGHT,"Everett, WA",Cascade High School,0,0,https://stats.ncaa.org/players/9095081
-2025,2024-25,MBA,3,III,NWC,785,Willamette,9095063,8,Charlie Ferbet,Charlie,Ferbet,Sr.,INF,6-2,,LEFT,RIGHT,"Saint Louis, MO",De Smet Jesuit High School,2,1,https://stats.ncaa.org/players/9095063
-2025,2024-25,MBA,3,III,NWC,785,Willamette,9095077,24,Jackson Garrett,Jackson,Garrett,Sr.,UT,6-2,,LEFT,LEFT,"Carlsbad, CA",Carlsbad High School,1,1,https://stats.ncaa.org/players/9095077
+2025,2024-25,MBA,3,III,NWC,785,Willamette,8891838,14,Caden Davis,Caden,Davis,Jr.,C,6-3,,RIGHT,RIGHT,"Everett, WA",Henry M. Jackson HS,1,1,https://stats.ncaa.org/players/8891838
+2025,2024-25,MBA,3,III,NWC,785,Willamette,8896678,31,Steven Verespey,Steven,Verespey,Jr.,P,6-2,,RIGHT,RIGHT,"San Ramon, CA",California High School,3,3,https://stats.ncaa.org/players/8896678
+2025,2024-25,MBA,3,III,NWC,785,Willamette,8900241,6,Dylan Turner,Dylan,Turner,Jr.,P,5-9,,RIGHT,RIGHT,"Dallas, TX",Wilson High School,4,3,https://stats.ncaa.org/players/8900241
+2025,2024-25,MBA,3,III,NWC,785,Willamette,8902068,1,Nate Hamburger,Nate,Hamburger,Jr.,OF,5-10,,RIGHT,RIGHT,"Simi Valley, CA",Royal High School,12,12,https://stats.ncaa.org/players/8902068
+2025,2024-25,MBA,3,III,NWC,785,Willamette,8902659,16,Luke Piazza,Luke,Piazza,Sr.,INF,6-2,,LEFT,RIGHT,"Simi Valley, CA",Royal HS,12,12,https://stats.ncaa.org/players/8902659
+2025,2024-25,MBA,3,III,NWC,785,Willamette,9095061,7,Adrian Gonzalez,Adrian,Gonzalez,Sr.,P,5-9,,RIGHT,RIGHT,"South San Francisco, CA",Sacred Heart Prep,4,0,https://stats.ncaa.org/players/9095061
 2025,2024-25,MBA,3,III,NWC,785,Willamette,9095118,36,Liam Terrell IV,Liam,Terrell IV,Fr.,P,6-4,,RIGHT,RIGHT,"Chino Hills, CA",Ruben S Ayala HS,0,0,https://stats.ncaa.org/players/9095118
-2025,2024-25,MBA,3,III,NWC,785,Willamette,9095096,18,Brandon Goodell,Brandon,Goodell,Fr.,P,6-0,,LEFT,LEFT,"Tualatin, OR",Tualatin HS,0,0,https://stats.ncaa.org/players/9095096
-2025,2024-25,MBA,3,III,NWC,785,Willamette,9095103,22,Matthew Reinhardt,Matthew,Reinhardt,Fr.,UT,5-11,,RIGHT,RIGHT,"San Jose, CA",Westmont HS,0,0,https://stats.ncaa.org/players/9095103
+2025,2024-25,MBA,3,III,NWC,785,Willamette,9095127,29,Cameron Hayman,Cameron,Hayman,Sr.,P,5-10,,RIGHT,LEFT,"Windsor, CA",Windsor HS,3,0,https://stats.ncaa.org/players/9095127
+2025,2024-25,MBA,3,III,NWC,785,Willamette,9095080,44,JD Willis,JD,Willis,Sr.,P,6-3,,LEFT,LEFT,"Chandler, AZ",Perry High School,4,0,https://stats.ncaa.org/players/9095080
+2025,2024-25,MBA,3,III,NWC,785,Willamette,9095096,18,Brandon Goodell,Brandon,Goodell,Fr.,P,6-0,,LEFT,LEFT,"Tualatin, OR",Tualatin HS,2,0,https://stats.ncaa.org/players/9095096
+2025,2024-25,MBA,3,III,NWC,785,Willamette,9095058,2,Tassos Foster,Tassos,Foster,Sr.,INF,5-9,,RIGHT,RIGHT,"Novato, CA",Novato High School,12,12,https://stats.ncaa.org/players/9095058
+2025,2024-25,MBA,3,III,NWC,785,Willamette,9095081,37,Joshua Murphy,Joshua,Murphy,Sr.,C,5-10,,RIGHT,RIGHT,"Everett, WA",Cascade High School,7,5,https://stats.ncaa.org/players/9095081
+2025,2024-25,MBA,3,III,NWC,785,Willamette,9095103,22,Matthew Reinhardt,Matthew,Reinhardt,Fr.,UT,5-11,,RIGHT,RIGHT,"San Jose, CA",Westmont HS,4,0,https://stats.ncaa.org/players/9095103
 2025,2024-25,MBA,3,III,NWC,785,Willamette,9095138,32,Mason Binder,Mason,Binder,Fr.,P,6-0,,RIGHT,RIGHT,"Los Angeles, CA",Palisades Charter HS,0,0,https://stats.ncaa.org/players/9095138
+2025,2024-25,MBA,3,III,NWC,785,Willamette,9095063,8,Charlie Ferbet,Charlie,Ferbet,Sr.,INF,6-2,,LEFT,RIGHT,"Saint Louis, MO",De Smet Jesuit High School,9,8,https://stats.ncaa.org/players/9095063
 2025,2024-25,MBA,3,III,NWC,785,Willamette,9095087,11,Jase Randall,Jase,Randall,Fr.,C,6-0,,RIGHT,RIGHT,"Tigard, OR",Tigard HS,0,0,https://stats.ncaa.org/players/9095087
-2025,2024-25,MBA,3,III,NWC,785,Willamette,9095091,12,Beckett Montgomery,Beckett,Montgomery,Fr.,INF,5-10,,RIGHT,RIGHT,"San Francisco, CA",Sacred Hearth Cathedral Prep,0,0,https://stats.ncaa.org/players/9095091
-2025,2024-25,MBA,3,III,NWC,785,Willamette,9095112,25,Trevor Sostman,Trevor,Sostman,Fr.,1B,6-1,,RIGHT,RIGHT,"Van Nuys, CA",Birmingham Community Charter HS,0,0,https://stats.ncaa.org/players/9095112
+2025,2024-25,MBA,3,III,NWC,785,Willamette,9095091,12,Beckett Montgomery,Beckett,Montgomery,Fr.,INF,5-10,,RIGHT,RIGHT,"San Francisco, CA",Sacred Hearth Cathedral Prep,2,0,https://stats.ncaa.org/players/9095091
+2025,2024-25,MBA,3,III,NWC,785,Willamette,9095112,25,Trevor Sostman,Trevor,Sostman,Fr.,1B,6-1,,RIGHT,RIGHT,"Van Nuys, CA",Birmingham Community Charter HS,5,2,https://stats.ncaa.org/players/9095112
 2025,2024-25,MBA,3,III,NWC,785,Willamette,9095135,10,Frank Liuzzi,Frank,Liuzzi,Fr.,P,6-2,,RIGHT,RIGHT,"Novato, CA",Novato HS,0,0,https://stats.ncaa.org/players/9095135
+2025,2024-25,MBA,3,III,NWC,785,Willamette,9095077,24,Jackson Garrett,Jackson,Garrett,Sr.,UT,6-2,,LEFT,LEFT,"Carlsbad, CA",Carlsbad High School,6,5,https://stats.ncaa.org/players/9095077

@@ -1,41 +1,41 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
 2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9298043,44,Zahir McNeil,Zahir,McNeil,Sr.,OF,5-10,,LEFT,LEFT,"New York, NY",Clarkstown North HS,0,0,https://stats.ncaa.org/players/9298043
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296352,13,Jack Fitzharris,Jack,Fitzharris,Sr.,INF,5-10,,RIGHT,RIGHT,"Northbrook, IL",Glenbrook North HS,3,1,https://stats.ncaa.org/players/9296352
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296399,5,Garrett Greco,Garrett,Greco,Jr.,UT,5-11,,LEFT,RIGHT,"Rostraver Township, PA",Belle Vernon Area HS,10,10,https://stats.ncaa.org/players/9296399
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296570,6,Ethan Rowland,Ethan,Rowland,Jr.,P,5-11,,RIGHT,RIGHT,"Lafayette, CA",Acalanes HS,3,3,https://stats.ncaa.org/players/9296570
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296468,22,Tommy Kendrick,Tommy,Kendrick,Jr.,OF,5-11,,BOTH,RIGHT,"Jackson, NJ",Jackson Memorial HS,9,9,https://stats.ncaa.org/players/9296468
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296487,17,Alex Manent,Alex,Manent,So.,INF,6-0,,RIGHT,RIGHT,"Aventura, FL",Bishop Moore Catholic HS,10,9,https://stats.ncaa.org/players/9296487
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296591,18,Ben Williams,Ben,Williams,Sr.,OF,5-11,,RIGHT,LEFT,"Montpelier, VA",Patrick Henry HS (Ashland),10,8,https://stats.ncaa.org/players/9296591
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296333,4,Tyler DeClusin,Tyler,DeClusin,Sr.,OF,5-10,,RIGHT,RIGHT,"Pueblo, CO",Pueblo West HS,7,4,https://stats.ncaa.org/players/9296333
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296480,10,Hunter Lefkus,Hunter,Lefkus,Fr.,P,6-0,,RIGHT,RIGHT,"Ocean Gate, NJ",Donovan Catholic HS,2,0,https://stats.ncaa.org/players/9296480
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296521,32,Lance Mittelman,Lance,Mittelman,Fr.,INF,5-11,,RIGHT,RIGHT,"Valencia, CA",Valencia HS,3,0,https://stats.ncaa.org/players/9296521
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296553,19,Alex Rakas,Alex,Rakas,Sr.,INF,6-1,,LEFT,RIGHT,"Oswego, IL",Aurora Central Catholic HS,0,0,https://stats.ncaa.org/players/9296553
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296574,1,Luke Schwartz,Luke,Schwartz,Jr.,OF,5-9,,RIGHT,RIGHT,"Richmond, VA",Deep Run HS,5,4,https://stats.ncaa.org/players/9296574
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296579,45,Jackson Thorne,Jackson,Thorne,Jr.,P,6-0,,RIGHT,RIGHT,"Hingham, MA",Hingham HS / Winchendon School,1,0,https://stats.ncaa.org/players/9296579
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296546,29,Scott Radinsky,Scott,Radinsky,Jr.,P,6-0,,RIGHT,RIGHT,"Westlake Village, CA",Westlake HS,0,0,https://stats.ncaa.org/players/9296546
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296577,34,Ethan Starks,Ethan,Starks,Jr.,OF,5-10,,RIGHT,RIGHT,"Waxahachie, TX",Life HS Waxahachie,6,4,https://stats.ncaa.org/players/9296577
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296352,13,Jack Fitzharris,Jack,Fitzharris,Sr.,INF,5-10,,RIGHT,RIGHT,"Northbrook, IL",Glenbrook North HS,8,3,https://stats.ncaa.org/players/9296352
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296399,5,Garrett Greco,Garrett,Greco,Jr.,UT,5-11,,LEFT,RIGHT,"Rostraver Township, PA",Belle Vernon Area HS,19,19,https://stats.ncaa.org/players/9296399
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296570,6,Ethan Rowland,Ethan,Rowland,Jr.,P,5-11,,RIGHT,RIGHT,"Lafayette, CA",Acalanes HS,4,4,https://stats.ncaa.org/players/9296570
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296468,22,Tommy Kendrick,Tommy,Kendrick,Jr.,OF,5-11,,BOTH,RIGHT,"Jackson, NJ",Jackson Memorial HS,18,18,https://stats.ncaa.org/players/9296468
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296487,17,Alex Manent,Alex,Manent,So.,INF,6-0,,RIGHT,RIGHT,"Aventura, FL",Bishop Moore Catholic HS,18,17,https://stats.ncaa.org/players/9296487
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296591,18,Ben Williams,Ben,Williams,Sr.,OF,5-11,,RIGHT,LEFT,"Montpelier, VA",Patrick Henry HS (Ashland),14,11,https://stats.ncaa.org/players/9296591
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296333,4,Tyler DeClusin,Tyler,DeClusin,Sr.,OF,5-10,,RIGHT,RIGHT,"Pueblo, CO",Pueblo West HS,15,12,https://stats.ncaa.org/players/9296333
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296480,10,Hunter Lefkus,Hunter,Lefkus,Fr.,P,6-0,,RIGHT,RIGHT,"Ocean Gate, NJ",Donovan Catholic HS,4,0,https://stats.ncaa.org/players/9296480
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296521,32,Lance Mittelman,Lance,Mittelman,Fr.,INF,5-11,,RIGHT,RIGHT,"Valencia, CA",Valencia HS,4,0,https://stats.ncaa.org/players/9296521
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296553,19,Alex Rakas,Alex,Rakas,Sr.,INF,6-1,,LEFT,RIGHT,"Oswego, IL",Aurora Central Catholic HS,5,4,https://stats.ncaa.org/players/9296553
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296574,1,Luke Schwartz,Luke,Schwartz,Jr.,OF,5-9,,RIGHT,RIGHT,"Richmond, VA",Deep Run HS,7,4,https://stats.ncaa.org/players/9296574
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296579,45,Jackson Thorne,Jackson,Thorne,Jr.,P,6-0,,RIGHT,RIGHT,"Hingham, MA",Hingham HS / Winchendon School,6,0,https://stats.ncaa.org/players/9296579
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296546,29,Scott Radinsky,Scott,Radinsky,Jr.,P,6-0,,RIGHT,RIGHT,"Westlake Village, CA",Westlake HS,1,0,https://stats.ncaa.org/players/9296546
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296577,34,Ethan Starks,Ethan,Starks,Jr.,OF,5-10,,RIGHT,RIGHT,"Waxahachie, TX",Life HS Waxahachie,12,8,https://stats.ncaa.org/players/9296577
 2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296573,42,Wilfred Santiago,Wilfred,Santiago,Fr.,C,6-1,,RIGHT,RIGHT,"Avon, MA",Archbishop Williams HS,0,0,https://stats.ncaa.org/players/9296573
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296326,33,Charlie Berryman,Charlie,Berryman,So.,P,6-1,,RIGHT,RIGHT,"Mountain Brook, AL",Mountain Brook HS,3,0,https://stats.ncaa.org/players/9296326
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296326,33,Charlie Berryman,Charlie,Berryman,So.,P,6-1,,RIGHT,RIGHT,"Mountain Brook, AL",Mountain Brook HS,5,0,https://stats.ncaa.org/players/9296326
 2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296349,21,James Ellis,James,Ellis,Jr.,P,5-10,,RIGHT,LEFT,"Berlin, CT",Berlin HS,0,0,https://stats.ncaa.org/players/9296349
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296372,26,Michael DiForte,Michael,DiForte,Sr.,P,6-1,,RIGHT,RIGHT,"Staten Island, NY",The Michael J. Petrides School,3,3,https://stats.ncaa.org/players/9296372
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296376,15,Zach Frasher,Zach,Frasher,Sr.,P,6-3,,RIGHT,RIGHT,"Byron Center, MI",Byron Center HS,2,0,https://stats.ncaa.org/players/9296376
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296372,26,Michael DiForte,Michael,DiForte,Sr.,P,6-1,,RIGHT,RIGHT,"Staten Island, NY",The Michael J. Petrides School,6,4,https://stats.ncaa.org/players/9296372
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296376,15,Zach Frasher,Zach,Frasher,Sr.,P,6-3,,RIGHT,RIGHT,"Byron Center, MI",Byron Center HS,4,0,https://stats.ncaa.org/players/9296376
 2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296390,25,Eric Gonzalez,Eric,Gonzalez,Jr.,INF,6-3,,RIGHT,RIGHT,"Batavia, IL",Batavia HS,0,0,https://stats.ncaa.org/players/9296390
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296397,35,Caden Goodwin,Caden,Goodwin,Jr.,P,6-4,,RIGHT,RIGHT,"Canton, OH",Jackson HS,2,2,https://stats.ncaa.org/players/9296397
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296418,24,Nick Izzo,Nick,Izzo,Fr.,1B,6-3,,RIGHT,RIGHT,"Jackson, NJ",Jackson Memorial HS,5,3,https://stats.ncaa.org/players/9296418
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296540,14,Will Paxton,Will,Paxton,Fr.,OF,6-2,,RIGHT,RIGHT,"Tehachapi, CA",Highland HS,3,0,https://stats.ncaa.org/players/9296540
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296397,35,Caden Goodwin,Caden,Goodwin,Jr.,P,6-4,,RIGHT,RIGHT,"Canton, OH",Jackson HS,6,2,https://stats.ncaa.org/players/9296397
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296418,24,Nick Izzo,Nick,Izzo,Fr.,1B,6-3,,RIGHT,RIGHT,"Jackson, NJ",Jackson Memorial HS,6,3,https://stats.ncaa.org/players/9296418
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296540,14,Will Paxton,Will,Paxton,Fr.,OF,6-2,,RIGHT,RIGHT,"Tehachapi, CA",Highland HS,6,2,https://stats.ncaa.org/players/9296540
 2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9296584,30,Zaine Toneske,Zaine,Toneske,Fr.,1B,6-2,,RIGHT,RIGHT,"Freehold, NJ",Christian Brothers Academy,3,2,https://stats.ncaa.org/players/9296584
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8876734,20,Kurt Thomas,Kurt,Thomas,Jr.,INF,6-1,,LEFT,RIGHT,"Harwich, MA",Nauset Regional HS,0,0,https://stats.ncaa.org/players/8876734
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8883960,11,Ashby Vining,Ashby,Vining,Sr.,C,6-3,,RIGHT,RIGHT,"Lexington, SC",Gilbert HS,10,10,https://stats.ncaa.org/players/8883960
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8883964,2,Dominic Morabito,Dominic,Morabito,Sr.,OF,5-11,,RIGHT,RIGHT,"Norwich, CT",Norwich Free Academy,2,0,https://stats.ncaa.org/players/8883964
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8888319,3,Logan Baker,Logan,Baker,Jr.,INF,6-4,,RIGHT,RIGHT,"Austin, TX",Lake Travis HS,10,10,https://stats.ncaa.org/players/8888319
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8883351,9,Cam Martindale,Cam,Martindale,Jr.,P,6-1,,RIGHT,RIGHT,"Post Falls, ID",Lake City HS,2,0,https://stats.ncaa.org/players/8883351
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8884438,27,John Wade,John,Wade,Sr.,1B,6-0,,RIGHT,RIGHT,"Brick Township, NJ",Brick Township HS,5,1,https://stats.ncaa.org/players/8884438
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8887559,28,Tyler Smith,Tyler,Smith,Sr.,1B,6-3,,LEFT,RIGHT,"Babylon, NY",The Stony Brook School,7,3,https://stats.ncaa.org/players/8887559
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8895434,23,David Delgadillo,David,Delgadillo,Sr.,P,5-10,,RIGHT,RIGHT,"Bakersfield, CA",Centennial HS,3,1,https://stats.ncaa.org/players/8895434
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8890768,16,Anthony Mancini,Anthony,Mancini,Fr.,C,6-0,,RIGHT,RIGHT,"Bayonne, NJ",Bayonne HS,0,0,https://stats.ncaa.org/players/8890768
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8892124,8,Brendon Wilson,Brendon,Wilson,Sr.,OF,6-4,,RIGHT,RIGHT,"Aurora, IL",Marmion Academy,5,2,https://stats.ncaa.org/players/8892124
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8901441,0,Sean Martinez,Sean,Martinez,Fr.,INF,5-11,,RIGHT,RIGHT,"Perkasie, PA",Lansdale Catholic HS,1,0,https://stats.ncaa.org/players/8901441
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8901535,31,Tyler Cotten,Tyler,Cotten,Sr.,C,6-0,,RIGHT,RIGHT,"Yorktown, VA",Grafton HS,10,10,https://stats.ncaa.org/players/8901535
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8899757,12,Yash Jain,Yash,Jain,So.,P,6-0,,RIGHT,RIGHT,"Cumming, GA",South Forsyth HS,3,1,https://stats.ncaa.org/players/8899757
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8876734,20,Kurt Thomas,Kurt,Thomas,Jr.,INF,6-1,,LEFT,RIGHT,"Harwich, MA",Nauset Regional HS,3,3,https://stats.ncaa.org/players/8876734
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8883960,11,Ashby Vining,Ashby,Vining,Sr.,C,6-3,,RIGHT,RIGHT,"Lexington, SC",Gilbert HS,18,18,https://stats.ncaa.org/players/8883960
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8883964,2,Dominic Morabito,Dominic,Morabito,Sr.,OF,5-11,,RIGHT,RIGHT,"Norwich, CT",Norwich Free Academy,3,0,https://stats.ncaa.org/players/8883964
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8888319,3,Logan Baker,Logan,Baker,Jr.,INF,6-4,,RIGHT,RIGHT,"Austin, TX",Lake Travis HS,18,18,https://stats.ncaa.org/players/8888319
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8883351,9,Cam Martindale,Cam,Martindale,Jr.,P,6-1,,RIGHT,RIGHT,"Post Falls, ID",Lake City HS,5,0,https://stats.ncaa.org/players/8883351
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8884438,27,John Wade,John,Wade,Sr.,1B,6-0,,RIGHT,RIGHT,"Brick Township, NJ",Brick Township HS,12,5,https://stats.ncaa.org/players/8884438
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8887559,28,Tyler Smith,Tyler,Smith,Sr.,1B,6-3,,LEFT,RIGHT,"Babylon, NY",The Stony Brook School,16,7,https://stats.ncaa.org/players/8887559
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8895434,23,David Delgadillo,David,Delgadillo,Sr.,P,5-10,,RIGHT,RIGHT,"Bakersfield, CA",Centennial HS,5,2,https://stats.ncaa.org/players/8895434
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8890768,16,Anthony Mancini,Anthony,Mancini,Fr.,C,6-0,,RIGHT,RIGHT,"Bayonne, NJ",Bayonne HS,3,0,https://stats.ncaa.org/players/8890768
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8892124,8,Brendon Wilson,Brendon,Wilson,Sr.,OF,6-4,,RIGHT,RIGHT,"Aurora, IL",Marmion Academy,9,3,https://stats.ncaa.org/players/8892124
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8901441,0,Sean Martinez,Sean,Martinez,Fr.,INF,5-11,,RIGHT,RIGHT,"Perkasie, PA",Lansdale Catholic HS,2,0,https://stats.ncaa.org/players/8901441
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8901535,31,Tyler Cotten,Tyler,Cotten,Sr.,C,6-0,,RIGHT,RIGHT,"Yorktown, VA",Grafton HS,19,19,https://stats.ncaa.org/players/8901535
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8899757,12,Yash Jain,Yash,Jain,So.,P,6-0,,RIGHT,RIGHT,"Cumming, GA",South Forsyth HS,5,2,https://stats.ncaa.org/players/8899757
 2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,8899980,7,Joseph Lomangino,Joseph,Lomangino,Sr.,INF,5-11,,RIGHT,RIGHT,"Marlboro, NJ",Marlboro HS,0,0,https://stats.ncaa.org/players/8899980
-2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9104598,40,Rohan Agarwal,Rohan,Agarwal,Fr.,P,5-11,,RIGHT,RIGHT,"Los Altos, CA",Mountain View HS,0,0,https://stats.ncaa.org/players/9104598
+2025,2024-25,MBA,1,I,MAAC,617,Saint Peter's,9104598,40,Rohan Agarwal,Rohan,Agarwal,Fr.,P,5-11,,RIGHT,RIGHT,"Los Altos, CA",Mountain View HS,2,0,https://stats.ncaa.org/players/9104598

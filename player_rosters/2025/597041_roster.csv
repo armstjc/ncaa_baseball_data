@@ -1,49 +1,49 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8890276,50,Brady Solomon,Brady,Solomon,So.,P,6-9,,LEFT,LEFT,"Leesburg, VA",Loudoun County,0,0,https://stats.ncaa.org/players/8890276
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8885836,55,Evan Carrier,Evan,Carrier,So.,P,5-11,,RIGHT,RIGHT,"Raleigh, NC",Enloe,0,0,https://stats.ncaa.org/players/8885836
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8886869,4,Colby Ching,Colby,Ching,Sr.,INF,5-8,,RIGHT,RIGHT,"Honolulu, HI",'Iolani School,3,3,https://stats.ncaa.org/players/8886869
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8890099,21,Evan Pravato,Evan,Pravato,Sr.,INF,5-10,,RIGHT,RIGHT,"Warren, NJ",Watchung Hills,3,3,https://stats.ncaa.org/players/8890099
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8883957,33,Cooper Poggioli,Cooper,Poggioli,So.,INF,6-4,,RIGHT,RIGHT,"Oakland, NJ",Ramapo,0,0,https://stats.ncaa.org/players/8883957
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8877705,20,Will Staviski,Will,Staviski,Sr.,P,6-2,,RIGHT,RIGHT,"Brookfield, WI",Brookfield,0,0,https://stats.ncaa.org/players/8877705
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8887904,11,Zach DeGeorge,Zach,DeGeorge,Jr.,P,6-0,,LEFT,LEFT,"New Providence, NJ",New Providence,1,0,https://stats.ncaa.org/players/8887904
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8882957,47,Erik Sibbach,Erik,Sibbach,Jr.,P,6-1,,RIGHT,RIGHT,"Boxford, MA",Masconomet Regional,1,1,https://stats.ncaa.org/players/8882957
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8877911,8,Victor Schilleci,Victor,Schilleci,Sr.,1B,6-3,,LEFT,LEFT,"Mandeville, LA",Fontainebleau,3,3,https://stats.ncaa.org/players/8877911
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8887087,3,Eli Somers,Eli,Somers,Sr.,OF,6-1,,LEFT,RIGHT,"Palos Verdes Peninsula, CA",Palos Verdes Peninsula,3,3,https://stats.ncaa.org/players/8887087
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8886317,6,Luke Mahala,Luke,Mahala,So.,OF,6-3,,RIGHT,RIGHT,"Far Hills, NJ",Seton Hall Prep,2,2,https://stats.ncaa.org/players/8886317
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8888603,25,Robert Savely,Robert,Savely,So.,OF,6-2,,LEFT,RIGHT,"Mississauga, Canada",Ecole Secondaire Catholique Sainte Famille,2,0,https://stats.ncaa.org/players/8888603
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8876418,1,Kevin Villares,Kevin,Villares,Sr.,INF,5-8,,RIGHT,RIGHT,"Union City, NJ",High Tech,2,0,https://stats.ncaa.org/players/8876418
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8879389,44,Quinton Sterling,Quinton,Sterling,So.,OF,6-1,,RIGHT,RIGHT,"Palo Alto, CA",Gunn,2,0,https://stats.ncaa.org/players/8879389
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8890276,50,Brady Solomon,Brady,Solomon,So.,P,6-9,,LEFT,LEFT,"Leesburg, VA",Loudoun County,5,0,https://stats.ncaa.org/players/8890276
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8885836,55,Evan Carrier,Evan,Carrier,So.,P,5-11,,RIGHT,RIGHT,"Raleigh, NC",Enloe,3,0,https://stats.ncaa.org/players/8885836
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8886869,4,Colby Ching,Colby,Ching,Sr.,INF,5-8,,RIGHT,RIGHT,"Honolulu, HI",'Iolani School,15,15,https://stats.ncaa.org/players/8886869
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8890099,21,Evan Pravato,Evan,Pravato,Sr.,INF,5-10,,RIGHT,RIGHT,"Warren, NJ",Watchung Hills,13,12,https://stats.ncaa.org/players/8890099
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8883957,33,Cooper Poggioli,Cooper,Poggioli,So.,INF,6-4,,RIGHT,RIGHT,"Oakland, NJ",Ramapo,2,0,https://stats.ncaa.org/players/8883957
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8877705,20,Will Staviski,Will,Staviski,Sr.,P,6-2,,RIGHT,RIGHT,"Brookfield, WI",Brookfield,5,0,https://stats.ncaa.org/players/8877705
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8887904,11,Zach DeGeorge,Zach,DeGeorge,Jr.,P,6-0,,LEFT,LEFT,"New Providence, NJ",New Providence,2,0,https://stats.ncaa.org/players/8887904
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8882957,47,Erik Sibbach,Erik,Sibbach,Jr.,P,6-1,,RIGHT,RIGHT,"Boxford, MA",Masconomet Regional,5,4,https://stats.ncaa.org/players/8882957
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8877911,8,Victor Schilleci,Victor,Schilleci,Sr.,1B,6-3,,LEFT,LEFT,"Mandeville, LA",Fontainebleau,15,15,https://stats.ncaa.org/players/8877911
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8887087,3,Eli Somers,Eli,Somers,Sr.,OF,6-1,,LEFT,RIGHT,"Palos Verdes Peninsula, CA",Palos Verdes Peninsula,15,15,https://stats.ncaa.org/players/8887087
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8886317,6,Luke Mahala,Luke,Mahala,So.,OF,6-3,,RIGHT,RIGHT,"Far Hills, NJ",Seton Hall Prep,8,8,https://stats.ncaa.org/players/8886317
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8888603,25,Robert Savely,Robert,Savely,So.,OF,6-2,,LEFT,RIGHT,"Mississauga, Canada",Ecole Secondaire Catholique Sainte Famille,8,1,https://stats.ncaa.org/players/8888603
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8876418,1,Kevin Villares,Kevin,Villares,Sr.,INF,5-8,,RIGHT,RIGHT,"Union City, NJ",High Tech,8,4,https://stats.ncaa.org/players/8876418
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8879389,44,Quinton Sterling,Quinton,Sterling,So.,OF,6-1,,RIGHT,RIGHT,"Palo Alto, CA",Gunn,9,7,https://stats.ncaa.org/players/8879389
 2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8894416,57,Zach Rechtshaid,Zach,Rechtshaid,So.,P,5-11,,LEFT,LEFT,"St Petersburg, FL",St. Petersburg,0,0,https://stats.ncaa.org/players/8894416
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8894452,48,David Finch,David,Finch,So.,P,6-2,,RIGHT,RIGHT,"Brentwood, TN",Brentwood,1,0,https://stats.ncaa.org/players/8894452
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8893774,12,William Sotiropoulos,William,Sotiropoulos,Jr.,P,6-2,,RIGHT,RIGHT,"Tampa, FL",Tampa Prep,0,0,https://stats.ncaa.org/players/8893774
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8894452,48,David Finch,David,Finch,So.,P,6-2,,RIGHT,RIGHT,"Brentwood, TN",Brentwood,6,0,https://stats.ncaa.org/players/8894452
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8893774,12,William Sotiropoulos,William,Sotiropoulos,Jr.,P,6-2,,RIGHT,RIGHT,"Tampa, FL",Tampa Prep,2,0,https://stats.ncaa.org/players/8893774
 2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8895880,29,Tyler Wilke,Tyler,Wilke,So.,UT,6-4,,RIGHT,RIGHT,"Hopedale, MA",Hopedale Junior-Senior,0,0,https://stats.ncaa.org/players/8895880
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8898610,7,Sean Shea,Sean,Shea,Sr.,P,6-2,,RIGHT,RIGHT,"Westwood, MA",Westwood,1,0,https://stats.ncaa.org/players/8898610
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8898725,16,Chip Krese,Chip,Krese,So.,INF,5-9,,RIGHT,RIGHT,"Alexandria, VA",Maret School,3,3,https://stats.ncaa.org/players/8898725
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8894014,23,Kirk Kinzler,Kirk,Kinzler,Sr.,P,6-4,,RIGHT,RIGHT,"Hayward, CA",Moreau Catholic,0,0,https://stats.ncaa.org/players/8894014
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8891600,2,Dylan Fishbough,Dylan,Fishbough,Jr.,OF,6-1,,RIGHT,RIGHT,"Carlsbad, CA",La Costa Canyon,2,1,https://stats.ncaa.org/players/8891600
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8891649,13,Matt Villapiano,Matt,Villapiano,Sr.,P,5-10,,LEFT,LEFT,"Howell, NJ",Freehold Township,2,0,https://stats.ncaa.org/players/8891649
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8898610,7,Sean Shea,Sean,Shea,Sr.,P,6-2,,RIGHT,RIGHT,"Westwood, MA",Westwood,4,0,https://stats.ncaa.org/players/8898610
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8898725,16,Chip Krese,Chip,Krese,So.,INF,5-9,,RIGHT,RIGHT,"Alexandria, VA",Maret School,6,6,https://stats.ncaa.org/players/8898725
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8894014,23,Kirk Kinzler,Kirk,Kinzler,Sr.,P,6-4,,RIGHT,RIGHT,"Hayward, CA",Moreau Catholic,2,0,https://stats.ncaa.org/players/8894014
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8891600,2,Dylan Fishbough,Dylan,Fishbough,Jr.,OF,6-1,,RIGHT,RIGHT,"Carlsbad, CA",La Costa Canyon,8,4,https://stats.ncaa.org/players/8891600
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8891649,13,Matt Villapiano,Matt,Villapiano,Sr.,P,5-10,,LEFT,LEFT,"Howell, NJ",Freehold Township,7,0,https://stats.ncaa.org/players/8891649
 2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8893231,34,Garret Wolf,Garret,Wolf,So.,OF,6-1,,RIGHT,LEFT,"Wayne, NJ",DePaul Catholic,2,2,https://stats.ncaa.org/players/8893231
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8901386,9,Jonah Swarts,Jonah,Swarts,Jr.,P,6-2,,RIGHT,RIGHT,"Chester, NJ",West Morris-Mendham,1,1,https://stats.ncaa.org/players/8901386
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8900258,19,Liam DeRubertis,Liam,DeRubertis,Sr.,OF,5-11,,RIGHT,RIGHT,"Pearl River, NY",Bergen Catholic,3,3,https://stats.ncaa.org/players/8900258
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8899198,17,Joe Gonzalez,Joe,Gonzalez,Sr.,P,6-0,,RIGHT,RIGHT,"Northport, NY",Northport,2,0,https://stats.ncaa.org/players/8899198
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8901386,9,Jonah Swarts,Jonah,Swarts,Jr.,P,6-2,,RIGHT,RIGHT,"Chester, NJ",West Morris-Mendham,4,3,https://stats.ncaa.org/players/8901386
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8900258,19,Liam DeRubertis,Liam,DeRubertis,Sr.,OF,5-11,,RIGHT,RIGHT,"Pearl River, NY",Bergen Catholic,15,14,https://stats.ncaa.org/players/8900258
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,8899198,17,Joe Gonzalez,Joe,Gonzalez,Sr.,P,6-0,,RIGHT,RIGHT,"Northport, NY",Northport,9,1,https://stats.ncaa.org/players/8899198
 2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108909,26,Robbie Hughes,Robbie,Hughes,Jr.,P,6-5,,RIGHT,RIGHT,,Wayne Hills,0,0,https://stats.ncaa.org/players/9108909
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108906,14,Frank Tonina,Frank,Tonina,Sr.,C,5-10,,RIGHT,RIGHT,"Seattle, WA",Seattle Academy of Arts & Sciences,2,2,https://stats.ncaa.org/players/9108906
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108907,18,Justin Doyle,Justin,Doyle,Sr.,P,6-4,,LEFT,RIGHT,"Louisville, KY",North Oldham,1,0,https://stats.ncaa.org/players/9108907
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108940,49,E.J. Balewitz Jr.,E.J.,Balewitz Jr.,Fr.,1B,-,,LEFT,RIGHT,,,1,0,https://stats.ncaa.org/players/9108940
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108929,39,Henry Parson,Henry,Parson,Fr.,,-,,RIGHT,RIGHT,,,1,0,https://stats.ncaa.org/players/9108929
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108930,40,Jacob Buurman,Jacob,Buurman,Sr.,P,6-6,,RIGHT,RIGHT,"Sussex, NJ",Vernon Township,1,0,https://stats.ncaa.org/players/9108930
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108970,45,Drew DiSanto,Drew,DiSanto,Fr.,UT,-,,RIGHT,RIGHT,,,2,0,https://stats.ncaa.org/players/9108970
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108905,10,Marc Rivera,Marc,Rivera,Sr.,P,6-0,,RIGHT,RIGHT,"Englishtown, NJ",Manalapan,1,0,https://stats.ncaa.org/players/9108905
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108908,22,Jordan Fisse,Jordan,Fisse,Jr.,P,6-2,,RIGHT,RIGHT,"Ridgewood, NJ",Ridgewood,1,1,https://stats.ncaa.org/players/9108908
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108960,56,Jack Reichlin,Jack,Reichlin,Fr.,OF,-,,RIGHT,RIGHT,,,2,1,https://stats.ncaa.org/players/9108960
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108952,53,Aaron Wong,Aaron,Wong,Fr.,C,-,,RIGHT,RIGHT,,,2,1,https://stats.ncaa.org/players/9108952
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108959,54,Jason Wu,Jason,Wu,Fr.,INF,-,,RIGHT,RIGHT,,,1,0,https://stats.ncaa.org/players/9108959
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9107080,5,Kieran O'Brien,Kieran,O'Brien,Sr.,UT,6-0,,RIGHT,RIGHT,"Wappingers Falls, NY",Roy C. Ketchum,1,0,https://stats.ncaa.org/players/9107080
 2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108910,27,Yuvan Anthony,Yuvan,Anthony,Fr.,P,-,,RIGHT,RIGHT,,,0,0,https://stats.ncaa.org/players/9108910
 2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108911,28,Ethan Hurwitz,Ethan,Hurwitz,Fr.,INF,-,,RIGHT,RIGHT,,,0,0,https://stats.ncaa.org/players/9108911
 2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108918,30,Will Corum,Will,Corum,Fr.,P,-,,RIGHT,RIGHT,,,0,0,https://stats.ncaa.org/players/9108918
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108906,14,Frank Tonina,Frank,Tonina,Sr.,C,5-10,,RIGHT,RIGHT,"Seattle, WA",Seattle Academy of Arts & Sciences,12,12,https://stats.ncaa.org/players/9108906
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108907,18,Justin Doyle,Justin,Doyle,Sr.,P,6-4,,LEFT,RIGHT,"Louisville, KY",North Oldham,5,3,https://stats.ncaa.org/players/9108907
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108940,49,E.J. Balewitz Jr.,E.J.,Balewitz Jr.,Fr.,1B,-,,LEFT,RIGHT,,,4,0,https://stats.ncaa.org/players/9108940
 2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108927,36,Amresh Balakrishnan,Amresh,Balakrishnan,Fr.,P,-,,RIGHT,RIGHT,,,0,0,https://stats.ncaa.org/players/9108927
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108929,39,Henry Parson,Henry,Parson,Fr.,,-,,RIGHT,RIGHT,,,1,0,https://stats.ncaa.org/players/9108929
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108930,40,Jacob Buurman,Jacob,Buurman,Sr.,P,6-6,,RIGHT,RIGHT,"Sussex, NJ",Vernon Township,6,0,https://stats.ncaa.org/players/9108930
 2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108932,41,Raphael Schneider,Raphael,Schneider,Fr.,P,-,,RIGHT,LEFT,,,0,0,https://stats.ncaa.org/players/9108932
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108921,35,Dean Qira,Dean,Qira,Fr.,P,-,,LEFT,LEFT,,,0,0,https://stats.ncaa.org/players/9108921
-2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108928,37,Connor Herlihy,Connor,Herlihy,Fr.,P,-,,RIGHT,RIGHT,,,0,0,https://stats.ncaa.org/players/9108928
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108970,45,Drew DiSanto,Drew,DiSanto,Fr.,UT,-,,RIGHT,RIGHT,,,3,0,https://stats.ncaa.org/players/9108970
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108905,10,Marc Rivera,Marc,Rivera,Sr.,P,6-0,,RIGHT,RIGHT,"Englishtown, NJ",Manalapan,3,0,https://stats.ncaa.org/players/9108905
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108908,22,Jordan Fisse,Jordan,Fisse,Jr.,P,6-2,,RIGHT,RIGHT,"Ridgewood, NJ",Ridgewood,4,4,https://stats.ncaa.org/players/9108908
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108921,35,Dean Qira,Dean,Qira,Fr.,P,-,,LEFT,LEFT,,,4,0,https://stats.ncaa.org/players/9108921
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108928,37,Connor Herlihy,Connor,Herlihy,Fr.,P,-,,RIGHT,RIGHT,,,2,0,https://stats.ncaa.org/players/9108928
 2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108937,46,Julian Garcia,Julian,Garcia,Fr.,,-,,LEFT,LEFT,,,0,0,https://stats.ncaa.org/players/9108937
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108960,56,Jack Reichlin,Jack,Reichlin,Fr.,OF,-,,RIGHT,RIGHT,,,11,9,https://stats.ncaa.org/players/9108960
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108952,53,Aaron Wong,Aaron,Wong,Fr.,C,-,,RIGHT,RIGHT,,,7,4,https://stats.ncaa.org/players/9108952
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9108959,54,Jason Wu,Jason,Wu,Fr.,INF,-,,RIGHT,RIGHT,,,3,0,https://stats.ncaa.org/players/9108959
+2025,2024-25,MBA,3,III,MAC Freedom,679,Stevens,9107080,5,Kieran O'Brien,Kieran,O'Brien,Sr.,UT,6-0,,RIGHT,RIGHT,"Wappingers Falls, NY",Roy C. Ketchum,10,7,https://stats.ncaa.org/players/9107080

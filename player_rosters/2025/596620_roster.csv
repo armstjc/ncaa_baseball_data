@@ -1,40 +1,40 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
 2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8889060,44,Ian Hughes,Ian,Hughes,Jr.,P,6-4,,RIGHT,RIGHT,"Twin Falls, ID",Canyon Ridge HS,1,0,https://stats.ncaa.org/players/8889060
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8884875,35,Jacob Doyle,Jacob,Doyle,So.,OF,6-6,,RIGHT,RIGHT,"Sparks, NV",Spanish Springs HS,9,8,https://stats.ncaa.org/players/8884875
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8885088,16,Peyton Fosher,Peyton,Fosher,Sr.,P,6-0,,RIGHT,RIGHT,"Tomball, TX",Tomball HS,3,3,https://stats.ncaa.org/players/8885088
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8887258,3,Taylor Holder,Taylor,Holder,Sr.,OF,6-1,,RIGHT,RIGHT,"Corvallis, OR",Crescent Valley HS,8,8,https://stats.ncaa.org/players/8887258
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8874191,10,Zach Garber,Zach,Garber,Sr.,P,6-3,,LEFT,LEFT,"Huntington Beach, CA",Edison HS,1,0,https://stats.ncaa.org/players/8874191
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8876149,30,Billy Ham,Billy,Ham,Sr.,1B,6-1,,LEFT,RIGHT,"Las Vegas, NV",Bishop Gorman HS,11,10,https://stats.ncaa.org/players/8876149
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8880337,13,Eddie Tierney,Eddie,Tierney,So.,P,6-2,,RIGHT,RIGHT,"Reno, NV",Damonte Ranch HS,5,0,https://stats.ncaa.org/players/8880337
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8885517,18,Jake Harvey,Jake,Harvey,Jr.,INF,6-0,,RIGHT,RIGHT,"Roseville, CA",Woodcreek HS,10,10,https://stats.ncaa.org/players/8885517
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8875331,23,Dominic Desch,Dominic,Desch,Sr.,P,6-2,,RIGHT,RIGHT,"Henderson, NV",Lake Mead Christian HS,5,0,https://stats.ncaa.org/players/8875331
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8892175,28,Nate Snakenborg,Nate,Snakenborg,Fr.,C,6-3,,RIGHT,RIGHT,"San Marcos, CA",San Marcos HS,2,0,https://stats.ncaa.org/players/8892175
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8895753,5,Mason Hirata,Mason,Hirata,Jr.,INF,5-10,,RIGHT,RIGHT,"Hilo, HI",Waiakea HS,4,1,https://stats.ncaa.org/players/8895753
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8890576,7,Jack Helmholz,Jack,Helmholz,Fr.,UT,5-10,,RIGHT,RIGHT,"Reno, NV",Reno HS,2,0,https://stats.ncaa.org/players/8890576
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8893063,32,Jackson Waller,Jackson,Waller,Jr.,INF,6-0,,RIGHT,RIGHT,"San Marcos, CA",Mission Hills HS,12,12,https://stats.ncaa.org/players/8893063
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8901584,26,Ethan O'Neal,Ethan,O'Neal,Sr.,P,6-5,,RIGHT,RIGHT,"Henderson, NV",Liberty HS,5,0,https://stats.ncaa.org/players/8901584
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8884875,35,Jacob Doyle,Jacob,Doyle,So.,OF,6-6,,RIGHT,RIGHT,"Sparks, NV",Spanish Springs HS,17,16,https://stats.ncaa.org/players/8884875
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8885088,16,Peyton Fosher,Peyton,Fosher,Sr.,P,6-0,,RIGHT,RIGHT,"Tomball, TX",Tomball HS,5,5,https://stats.ncaa.org/players/8885088
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8887258,3,Taylor Holder,Taylor,Holder,Sr.,OF,6-1,,RIGHT,RIGHT,"Corvallis, OR",Crescent Valley HS,16,16,https://stats.ncaa.org/players/8887258
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8874191,10,Zach Garber,Zach,Garber,Sr.,P,6-3,,LEFT,LEFT,"Huntington Beach, CA",Edison HS,3,0,https://stats.ncaa.org/players/8874191
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8876149,30,Billy Ham,Billy,Ham,Sr.,1B,6-1,,LEFT,RIGHT,"Las Vegas, NV",Bishop Gorman HS,19,18,https://stats.ncaa.org/players/8876149
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8880337,13,Eddie Tierney,Eddie,Tierney,So.,P,6-2,,RIGHT,RIGHT,"Reno, NV",Damonte Ranch HS,8,0,https://stats.ncaa.org/players/8880337
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8885517,18,Jake Harvey,Jake,Harvey,Jr.,INF,6-0,,RIGHT,RIGHT,"Roseville, CA",Woodcreek HS,16,16,https://stats.ncaa.org/players/8885517
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8875331,23,Dominic Desch,Dominic,Desch,Sr.,P,6-2,,RIGHT,RIGHT,"Henderson, NV",Lake Mead Christian HS,8,0,https://stats.ncaa.org/players/8875331
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8892175,28,Nate Snakenborg,Nate,Snakenborg,Fr.,C,6-3,,RIGHT,RIGHT,"San Marcos, CA",San Marcos HS,4,2,https://stats.ncaa.org/players/8892175
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8895753,5,Mason Hirata,Mason,Hirata,Jr.,INF,5-10,,RIGHT,RIGHT,"Hilo, HI",Waiakea HS,7,1,https://stats.ncaa.org/players/8895753
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8890576,7,Jack Helmholz,Jack,Helmholz,Fr.,UT,5-10,,RIGHT,RIGHT,"Reno, NV",Reno HS,3,0,https://stats.ncaa.org/players/8890576
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8893063,32,Jackson Waller,Jackson,Waller,Jr.,INF,6-0,,RIGHT,RIGHT,"San Marcos, CA",Mission Hills HS,20,20,https://stats.ncaa.org/players/8893063
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8901584,26,Ethan O'Neal,Ethan,O'Neal,Sr.,P,6-5,,RIGHT,RIGHT,"Henderson, NV",Liberty HS,8,0,https://stats.ncaa.org/players/8901584
 2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8901606,33,Jake Cumming,Jake,Cumming,So.,P,6-3,,RIGHT,RIGHT,"Fernley, NV",Fernley HS,2,0,https://stats.ncaa.org/players/8901606
 2025,2024-25,MBA,1,I,Mountain West,466,Nevada,8900725,37,Jackson Kemmerer,Jackson,Kemmerer,Fr.,OF,5-9,,RIGHT,RIGHT,"Rancho Santa Margarita, CA",Tesoro HS,5,0,https://stats.ncaa.org/players/8900725
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109356,15,Sean Yamaguchi,Sean,Yamaguchi,Fr.,INF,5-10,,RIGHT,RIGHT,"Aiea, HI",Saint Louis HS,12,12,https://stats.ncaa.org/players/9109356
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109356,15,Sean Yamaguchi,Sean,Yamaguchi,Fr.,INF,5-10,,RIGHT,RIGHT,"Aiea, HI",Saint Louis HS,20,20,https://stats.ncaa.org/players/9109356
 2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109360,49,Jack Perotti,Jack,Perotti,Fr.,P,5-11,,LEFT,LEFT,"Parker, CO",Legend HS,1,0,https://stats.ncaa.org/players/9109360
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109367,9,Jayce Dobie,Jayce,Dobie,Jr.,UT,6-2,,RIGHT,RIGHT,"Santa Clara, CA",Santa Clara HS,12,11,https://stats.ncaa.org/players/9109367
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109375,47,Ryan Oakes,Ryan,Oakes,Jr.,P,6-2,,RIGHT,RIGHT,"Folsom, CA",Folsom HS,3,0,https://stats.ncaa.org/players/9109375
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109364,21,Jack Metcho,Jack,Metcho,Jr.,INF,6-0,,RIGHT,RIGHT,"Fairfield, CA",Angelo Rodriguez HS,7,3,https://stats.ncaa.org/players/9109364
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109365,4,Antonio Avila,Antonio,Avila,Jr.,P,6-2,,RIGHT,RIGHT,"Rio Rancho, NM",Cleveland HS,2,1,https://stats.ncaa.org/players/9109365
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109367,9,Jayce Dobie,Jayce,Dobie,Jr.,UT,6-2,,RIGHT,RIGHT,"Santa Clara, CA",Santa Clara HS,20,19,https://stats.ncaa.org/players/9109367
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109375,47,Ryan Oakes,Ryan,Oakes,Jr.,P,6-2,,RIGHT,RIGHT,"Folsom, CA",Folsom HS,4,0,https://stats.ncaa.org/players/9109375
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109364,21,Jack Metcho,Jack,Metcho,Jr.,INF,6-0,,RIGHT,RIGHT,"Fairfield, CA",Angelo Rodriguez HS,12,5,https://stats.ncaa.org/players/9109364
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109365,4,Antonio Avila,Antonio,Avila,Jr.,P,6-2,,RIGHT,RIGHT,"Rio Rancho, NM",Cleveland HS,4,1,https://stats.ncaa.org/players/9109365
 2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109366,6,Nik Miller,Nik,Miller,Jr.,P,5-8,,BOTH,LEFT,"Gilbert, AZ",Perry HS,0,0,https://stats.ncaa.org/players/9109366
 2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109368,11,Aiden Pollock,Aiden,Pollock,Fr.,UT,5-9,,RIGHT,RIGHT,"Las Vegas, NV",Bishop Gorman HS,0,0,https://stats.ncaa.org/players/9109368
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109370,29,Daniel Tovar,Daniel,Tovar,Jr.,P,5-11,,RIGHT,RIGHT,"Encino, CA",Crespi HS,3,0,https://stats.ncaa.org/players/9109370
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109371,31,Logan Saloman,Logan,Saloman,Jr.,P,6-4,,RIGHT,RIGHT,"Chandler, AZ",Hamilton HS,2,0,https://stats.ncaa.org/players/9109371
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109370,29,Daniel Tovar,Daniel,Tovar,Jr.,P,5-11,,RIGHT,RIGHT,"Encino, CA",Crespi HS,4,0,https://stats.ncaa.org/players/9109370
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109371,31,Logan Saloman,Logan,Saloman,Jr.,P,6-4,,RIGHT,RIGHT,"Chandler, AZ",Hamilton HS,4,0,https://stats.ncaa.org/players/9109371
 2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109373,38,Tanner Short,Tanner,Short,Jr.,UT,6-2,,RIGHT,RIGHT,"Des Moines, IA",Roosevelt HS,0,0,https://stats.ncaa.org/players/9109373
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109376,8,Michael Ball,Michael,Ball,Sr.,INF,5-10,,RIGHT,RIGHT,"Beaverton, OR",Southridge HS,12,12,https://stats.ncaa.org/players/9109376
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109377,19,Casey Burfield,Casey,Burfield,Sr.,P,6-3,,RIGHT,RIGHT,"Sparks, NV",Reed HS,2,2,https://stats.ncaa.org/players/9109377
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109376,8,Michael Ball,Michael,Ball,Sr.,INF,5-10,,RIGHT,RIGHT,"Beaverton, OR",Southridge HS,20,20,https://stats.ncaa.org/players/9109376
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109377,19,Casey Burfield,Casey,Burfield,Sr.,P,6-3,,RIGHT,RIGHT,"Sparks, NV",Reed HS,4,4,https://stats.ncaa.org/players/9109377
 2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109357,27,Payton Dixon,Payton,Dixon,Fr.,P,6-0,,LEFT,LEFT,"Honolulu, HI",Mid-Pacific Institute,0,0,https://stats.ncaa.org/players/9109357
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109374,45,Eric Valdez,Eric,Valdez,Jr.,P,6-1,,RIGHT,RIGHT,"Reno, NV",Damonte Ranch HS,3,1,https://stats.ncaa.org/players/9109374
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109374,45,Eric Valdez,Eric,Valdez,Jr.,P,6-1,,RIGHT,RIGHT,"Reno, NV",Damonte Ranch HS,5,1,https://stats.ncaa.org/players/9109374
 2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109359,40,Takeo Cervantez,Takeo,Cervantez,Fr.,INF,5-11,,RIGHT,RIGHT,"Reno, NV",Bishop Manogue HS,0,0,https://stats.ncaa.org/players/9109359
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109362,22,Caedon Kottinger,Caedon,Kottinger,Sr.,P,6-0,,RIGHT,RIGHT,"Reno, NV",Reno HS,5,0,https://stats.ncaa.org/players/9109362
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109363,14,Alessandro Castro,Alessandro,Castro,So.,P,6-1,,LEFT,LEFT,"Tucson, AZ",Pusch Ridge Christian HS,3,3,https://stats.ncaa.org/players/9109363
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109369,2,Junhyuk Kwon,Junhyuk,Kwon,Jr.,UT,6-1,,RIGHT,RIGHT,"Seoul, South Korea",,12,12,https://stats.ncaa.org/players/9109369
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109362,22,Caedon Kottinger,Caedon,Kottinger,Sr.,P,6-0,,RIGHT,RIGHT,"Reno, NV",Reno HS,8,0,https://stats.ncaa.org/players/9109362
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109363,14,Alessandro Castro,Alessandro,Castro,So.,P,6-1,,LEFT,LEFT,"Tucson, AZ",Pusch Ridge Christian HS,5,5,https://stats.ncaa.org/players/9109363
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109369,2,Junhyuk Kwon,Junhyuk,Kwon,Jr.,UT,6-1,,RIGHT,RIGHT,"Seoul, South Korea",,20,19,https://stats.ncaa.org/players/9109369
 2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109372,36,Mahiro Tomita,Mahiro,Tomita,Jr.,P,5-10,,RIGHT,RIGHT,"Fujisawa, Japan",Fujisawa Shoryo,0,0,https://stats.ncaa.org/players/9109372
 2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109355,1,Josiah Palomino,Josiah,Palomino,Fr.,INF,5-8,,RIGHT,RIGHT,"Riverside, CA",Corona HS,0,0,https://stats.ncaa.org/players/9109355
 2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9109358,39,Jaden Mason,Jaden,Mason,Fr.,P,6-2,,RIGHT,RIGHT,"Benicia, CA",Benicia HS,1,0,https://stats.ncaa.org/players/9109358
-2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9215186,24,Donovan Ratfield,Donovan,Ratfield,Sr.,C,6-1,,RIGHT,RIGHT,"Sparks, NV",Earl Wooster HS,9,9,https://stats.ncaa.org/players/9215186
+2025,2024-25,MBA,1,I,Mountain West,466,Nevada,9215186,24,Donovan Ratfield,Donovan,Ratfield,Sr.,C,6-1,,RIGHT,RIGHT,"Sparks, NV",Earl Wooster HS,10,10,https://stats.ncaa.org/players/9215186

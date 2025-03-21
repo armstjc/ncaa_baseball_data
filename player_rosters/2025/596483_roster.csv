@@ -1,30 +1,37 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8878667,3,Reyfield Adams,Reyfield,Adams,Jr.,OF,5-9,,,,,,0,0,https://stats.ncaa.org/players/8878667
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8881017,36,Caden Wade,Caden,Wade,So.,c,-,,,,,,0,0,https://stats.ncaa.org/players/8881017
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8889252,8,Jermel Ford,Jermel,Ford,Sr.,P,6-0,,,,"Hattiesburg, MS","Hattiesburg, HS",2,2,https://stats.ncaa.org/players/8889252
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8881933,28,Jesse Burton,Jesse,Burton,Sr.,1B,-,,,,,,0,0,https://stats.ncaa.org/players/8881933
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8879936,16,Clayvonje Wright,Clayvonje,Wright,So.,OF,5-8,,,,"Roxie, MO",Franklin County HS,0,0,https://stats.ncaa.org/players/8879936
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8877080,15,Mason Duke,Mason,Duke,Jr.,OF,6-4,,,,"Baytown, TX",Goose Creek Memorial HS,0,0,https://stats.ncaa.org/players/8877080
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8888169,32,Stephen Hunt,Stephen,Hunt,Sr.,p,5-10,,,,"Houston, TX",Benjamin O. Davis HS,1,0,https://stats.ncaa.org/players/8888169
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8877199,23,Gavin Caston,Gavin,Caston,Jr.,OF,6-3,,,,"Jackson, MO",Terry HS,2,1,https://stats.ncaa.org/players/8877199
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8884421,0,Ty Boze,Ty,Boze,So.,2b,5-3,,,,"Atlanta, GA",West Geauga HS,0,0,https://stats.ncaa.org/players/8884421
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8875211,11,Terrance Johnson,Terrance,Johnson,Jr.,C,5-11,,,,,,0,0,https://stats.ncaa.org/players/8875211
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8878310,15,Guershon Exi,Guershon,Exi,Sr.,p,6-3,,,,"McDonough, GA",,0,0,https://stats.ncaa.org/players/8878310
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8888722,12,Dillon Brown,Dillon,Brown,So.,C,5-7,,,,"Hattiesburg, MS",Hattiesburg,1,0,https://stats.ncaa.org/players/8888722
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8883682,24,Chance Jackson,Chance,Jackson,So.,3b,6-1,,,,"Jackson, MO",Terry HS,1,0,https://stats.ncaa.org/players/8883682
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8884713,21,Jaylon Burrell,Jaylon,Burrell,So.,cf,6-2,,,,"Houston, TX",Harmony School of Advancement,2,2,https://stats.ncaa.org/players/8884713
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8876532,99,Paul Smith,Paul,Smith,So.,3b,-,,,,,,0,0,https://stats.ncaa.org/players/8876532
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8882554,33,Hayden Konkler,Hayden,Konkler,Jr.,P,6-3,,,,"Orlando, FL",Lake Howell HS,1,0,https://stats.ncaa.org/players/8882554
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8895527,29,Myles Dews,Myles,Dews,Jr.,OF,6-2,,,,"Fort Worth, TX",Keller Timber Creek HS,1,0,https://stats.ncaa.org/players/8895527
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8890305,5,Payton Baylis,Payton,Baylis,Sr.,P,5-9,,,,"Monticello, MO",Lawrence County HS,0,0,https://stats.ncaa.org/players/8890305
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,9303073,36,Luke Sanders,Luke,Sanders,Jr.,P,5-9,,LEFT,LEFT,"Beaufort, SC",Battery Creek HS,7,2,https://stats.ncaa.org/players/9303073
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,9311946,25,Brandon Robinson,Brandon,Robinson,So.,c,-,,,,,,2,0,https://stats.ncaa.org/players/9311946
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,9303072,1,Samuel Leonard,Samuel,Leonard,Fr.,2b,5-9,,,,"Holtsville, NY",Sachem East HS,18,18,https://stats.ncaa.org/players/9303072
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,9304412,16,KeShawn Lee,KeShawn,Lee,Fr.,ph,-,,,,,,7,2,https://stats.ncaa.org/players/9304412
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,9303075,2,Kanious Davis,Kanious,Davis,Fr.,P,5-9,,,,"Atlanta, GA",Maynard Jackson,6,2,https://stats.ncaa.org/players/9303075
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,9303082,18,Jullian Jarrett,Jullian,Jarrett,Fr.,ss,-,,,,,,10,4,https://stats.ncaa.org/players/9303082
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8878667,3,Reyfield Adams,Reyfield,Adams,Jr.,OF,5-9,,,,,,17,17,https://stats.ncaa.org/players/8878667
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8881017,36,Caden Wade,Caden,Wade,So.,c,-,,,,,,4,0,https://stats.ncaa.org/players/8881017
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8889252,8,Jermel Ford,Jermel,Ford,Sr.,P,6-0,,,,"Hattiesburg, MS","Hattiesburg, HS",15,15,https://stats.ncaa.org/players/8889252
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8881933,28,Jesse Burton,Jesse,Burton,Sr.,1B,-,,,,,,4,0,https://stats.ncaa.org/players/8881933
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8879936,16,Clayvonje Wright,Clayvonje,Wright,So.,OF,5-8,,,,"Roxie, MO",Franklin County HS,6,2,https://stats.ncaa.org/players/8879936
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8877080,15,Mason Duke,Mason,Duke,Jr.,OF,6-4,,,,"Baytown, TX",Goose Creek Memorial HS,10,9,https://stats.ncaa.org/players/8877080
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8888169,32,Stephen Hunt,Stephen,Hunt,Sr.,p,5-10,,,,"Houston, TX",Benjamin O. Davis HS,8,0,https://stats.ncaa.org/players/8888169
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8877199,23,Gavin Caston,Gavin,Caston,Jr.,OF,6-3,,,,"Jackson, MO",Terry HS,14,11,https://stats.ncaa.org/players/8877199
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8884421,0,Ty Boze,Ty,Boze,So.,2b,5-3,,,,"Atlanta, GA",West Geauga HS,6,1,https://stats.ncaa.org/players/8884421
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8875211,11,Terrance Johnson,Terrance,Johnson,Jr.,C,5-11,,,,,,2,0,https://stats.ncaa.org/players/8875211
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8878310,15,Guershon Exi,Guershon,Exi,Sr.,p,6-3,,,,"McDonough, GA",,5,0,https://stats.ncaa.org/players/8878310
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8888722,12,Dillon Brown,Dillon,Brown,So.,C,5-7,,,,"Hattiesburg, MS",Hattiesburg,12,8,https://stats.ncaa.org/players/8888722
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8883682,24,Chance Jackson,Chance,Jackson,So.,3b,6-1,,,,"Jackson, MO",Terry HS,7,2,https://stats.ncaa.org/players/8883682
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8884713,21,Jaylon Burrell,Jaylon,Burrell,So.,cf,6-2,,,,"Houston, TX",Harmony School of Advancement,11,10,https://stats.ncaa.org/players/8884713
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8876532,99,Paul Smith,Paul,Smith,So.,3b,-,,,,,,3,0,https://stats.ncaa.org/players/8876532
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8882554,33,Hayden Konkler,Hayden,Konkler,Jr.,P,6-3,,,,"Orlando, FL",Lake Howell HS,7,0,https://stats.ncaa.org/players/8882554
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8895527,29,Myles Dews,Myles,Dews,Jr.,OF,6-2,,,,"Fort Worth, TX",Keller Timber Creek HS,7,4,https://stats.ncaa.org/players/8895527
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,9303074,31,H. Bell,H.,Bell,So.,p,-,,,,,,7,3,https://stats.ncaa.org/players/9303074
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8890305,5,Payton Baylis,Payton,Baylis,Sr.,P,5-9,,,,"Monticello, MO",Lawrence County HS,4,0,https://stats.ncaa.org/players/8890305
 2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8898564,13,Cameron Mccoy,Cameron,Mccoy,Sr.,INF,-,,,,"Tupelo, MS",,0,0,https://stats.ncaa.org/players/8898564
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8893780,14,Kameron Hopson,Kameron,Hopson,Jr.,P,6-2,,,,"Hattiesburg, MO",Hattiesburg HS,0,0,https://stats.ncaa.org/players/8893780
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8895977,12,Jeremiah Farmer,Jeremiah,Farmer,Sr.,C,5-11,,,,,,1,1,https://stats.ncaa.org/players/8895977
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8890627,19,Edwin Guzman,Edwin,Guzman,So.,p,5-11,,,,"New Braunfels, TX",New Braunfels HS,1,0,https://stats.ncaa.org/players/8890627
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8894743,28,"Kalum Banks, Jr.",Kalum,"Banks, Jr.",Sr.,UT,6-2,,,,"Atlanta, GA",South Atlanta HS,0,0,https://stats.ncaa.org/players/8894743
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8894130,37,Jacobe Nailer,Jacobe,Nailer,Fr.,p,-,,,,,,0,0,https://stats.ncaa.org/players/8894130
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8893013,26,Chris Tillman,Chris,Tillman,Jr.,OF,5-10,,,,"Flowood, MO",Northwest Rankin HS,1,0,https://stats.ncaa.org/players/8893013
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8898340,31,Nathan Gamez,Nathan,Gamez,Jr.,3B,6-2,,,,"San Antonio, TX",Southwest HS,1,1,https://stats.ncaa.org/players/8898340
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8895414,34,Andres Chirinos,Andres,Chirinos,Sr.,p,6-2,,,,"Tampa, FL",,1,0,https://stats.ncaa.org/players/8895414
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8900641,7,Ben Martin,Ben,Martin,Jr.,INF,5-8,,,,"Cut Off, LA",South Lafourche HS,2,2,https://stats.ncaa.org/players/8900641
-2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8902329,32,Kevin Jackson,Kevin,Jackson,Jr.,P,5-9,,,,,,0,0,https://stats.ncaa.org/players/8902329
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8893780,14,Kameron Hopson,Kameron,Hopson,Jr.,P,6-2,,,,"Hattiesburg, MO",Hattiesburg HS,1,0,https://stats.ncaa.org/players/8893780
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8895977,12,Jeremiah Farmer,Jeremiah,Farmer,Sr.,C,5-11,,,,,,11,10,https://stats.ncaa.org/players/8895977
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8890627,19,Edwin Guzman,Edwin,Guzman,So.,p,5-11,,,,"New Braunfels, TX",New Braunfels HS,7,0,https://stats.ncaa.org/players/8890627
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8894743,28,"Kalum Banks, Jr.",Kalum,"Banks, Jr.",Sr.,UT,6-2,,,,"Atlanta, GA",South Atlanta HS,16,16,https://stats.ncaa.org/players/8894743
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8894130,37,Jacobe Nailer,Jacobe,Nailer,Fr.,p,-,,,,,,6,2,https://stats.ncaa.org/players/8894130
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8893013,26,Chris Tillman,Chris,Tillman,Jr.,OF,5-10,,,,"Flowood, MO",Northwest Rankin HS,10,4,https://stats.ncaa.org/players/8893013
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8898340,31,Nathan Gamez,Nathan,Gamez,Jr.,3B,6-2,,,,"San Antonio, TX",Southwest HS,18,18,https://stats.ncaa.org/players/8898340
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8895414,34,Andres Chirinos,Andres,Chirinos,Sr.,p,6-2,,,,"Tampa, FL",,4,0,https://stats.ncaa.org/players/8895414
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8900641,7,Ben Martin,Ben,Martin,Jr.,INF,5-8,,,,"Cut Off, LA",South Lafourche HS,18,18,https://stats.ncaa.org/players/8900641
+2025,2024-25,MBA,1,I,SWAC,17,Alcorn,8902329,32,Kevin Jackson,Kevin,Jackson,Jr.,P,5-9,,,,,,1,1,https://stats.ncaa.org/players/8902329

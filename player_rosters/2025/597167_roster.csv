@@ -1,35 +1,34 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,8888897,12,J. Stried,J.,Stried,Fr.,3b,-,,,,,,0,0,https://stats.ncaa.org/players/8888897
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,8879347,10,Kurt Giricz,Kurt,Giricz,Sr.,P,6-0,,,,"Brookfield, WI",Catholic Memorial,0,0,https://stats.ncaa.org/players/8879347
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,8887553,6,J. Sutker,J.,Sutker,Fr.,p,-,,,,,,0,0,https://stats.ncaa.org/players/8887553
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,8887695,33,C. Hoier,C.,Hoier,Fr.,ph,-,,,,,,2,2,https://stats.ncaa.org/players/8887695
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,8895581,2,Jordan Skolmar,Jordan,Skolmar,Jr.,OF,-,,,,,,2,2,https://stats.ncaa.org/players/8895581
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,8895613,13,A.J. Le,A.J.,Le,Jr.,UT,-,,,,,,2,2,https://stats.ncaa.org/players/8895613
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,8894512,20,Christian Bosque,Christian,Bosque,So.,C,-,,,,,,2,2,https://stats.ncaa.org/players/8894512
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,8894776,7,Robert Erickson,Robert,Erickson,Jr.,UT,-,,,,,,0,0,https://stats.ncaa.org/players/8894776
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,8891049,18,John Kalitowski,John,Kalitowski,Sr.,INF,5-10,,,,"Barrington, IL",Fremd,2,2,https://stats.ncaa.org/players/8891049
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,8891053,29,AJ Hamilton,AJ,Hamilton,Sr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/8891053
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,8895201,31,Z. Brzezinsk,Z.,Brzezinsk,Fr.,p,-,,,,,,1,1,https://stats.ncaa.org/players/8895201
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,8896625,32,Caleb Wilson,Caleb,Wilson,So.,P,-,,,,,,0,0,https://stats.ncaa.org/players/8896625
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,8896651,5,J. Shepski,J.,Shepski,Fr.,p,-,,,,,,2,2,https://stats.ncaa.org/players/8896651
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,8892068,11,Aagam Shah,Aagam,Shah,Jr.,P,-,,,,,,1,0,https://stats.ncaa.org/players/8892068
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,8900193,25,J. Franks,J.,Franks,Fr.,1B,-,,,,,,2,2,https://stats.ncaa.org/players/8900193
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,8901745,99,Caden Morton,Caden,Morton,Jr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/8901745
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,8902435,34,Luke Langjahr,Luke,Langjahr,Jr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/8902435
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,9112609,30,Morgan Davis,Morgan,Davis,Fr.,P,6-4,,,RIGHT,,,0,0,https://stats.ncaa.org/players/9112609
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,9112602,15,Max Babich,Max,Babich,Jr.,P,6-0,,,LEFT,,,1,1,https://stats.ncaa.org/players/9112602
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,9112614,8,Jayden Hoffman,Jayden,Hoffman,So.,P,6-2,,,,,,0,0,https://stats.ncaa.org/players/9112614
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,9096961,3,Samuel Ark,Samuel,Ark,Fr.,UT,5-11,,,,"Helena, MT",Helena,0,0,https://stats.ncaa.org/players/9096961
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,9097003,47,William Fornos,William,Fornos,Fr.,C,5-9,,,RIGHT,"Miami, FL",Immculata La Salle,0,0,https://stats.ncaa.org/players/9097003
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,9096958,1,Charlie Claas,Charlie,Claas,Fr.,INF,5-10,,,,,Janesville Craig,2,2,https://stats.ncaa.org/players/9096958
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,9096980,17,Eric Williamson,Eric,Williamson,So.,P,6-2,,,RIGHT,"Franksville, WI",Union Grove,0,0,https://stats.ncaa.org/players/9096980
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,8888897,12,J. Stried,J.,Stried,Fr.,3b,-,,,,,,10,10,https://stats.ncaa.org/players/8888897
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,8879347,10,Kurt Giricz,Kurt,Giricz,Sr.,P,6-0,,,,"Brookfield, WI",Catholic Memorial,2,0,https://stats.ncaa.org/players/8879347
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,8887553,6,J. Sutker,J.,Sutker,Fr.,p,-,,,,,,1,0,https://stats.ncaa.org/players/8887553
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,8887695,33,C. Hoier,C.,Hoier,Fr.,ph,-,,,,,,10,8,https://stats.ncaa.org/players/8887695
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,8895581,2,Jordan Skolmar,Jordan,Skolmar,Jr.,OF,-,,,,,,10,9,https://stats.ncaa.org/players/8895581
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,8895613,13,A.J. Le,A.J.,Le,Jr.,UT,-,,,,,,13,12,https://stats.ncaa.org/players/8895613
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,8894512,20,Christian Bosque,Christian,Bosque,So.,C,-,,,,,,13,13,https://stats.ncaa.org/players/8894512
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,8894776,7,Robert Erickson,Robert,Erickson,Jr.,UT,-,,,,,,5,3,https://stats.ncaa.org/players/8894776
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,8891049,18,John Kalitowski,John,Kalitowski,Sr.,INF,5-10,,,,"Barrington, IL",Fremd,13,13,https://stats.ncaa.org/players/8891049
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,8891053,29,AJ Hamilton,AJ,Hamilton,Sr.,P,-,,,,,,2,1,https://stats.ncaa.org/players/8891053
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,8895201,31,Z. Brzezinsk,Z.,Brzezinsk,Fr.,p,-,,,,,,2,2,https://stats.ncaa.org/players/8895201
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,8896625,32,Caleb Wilson,Caleb,Wilson,So.,P,-,,,,,,1,0,https://stats.ncaa.org/players/8896625
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,8896651,5,J. Shepski,J.,Shepski,Fr.,p,-,,,,,,8,7,https://stats.ncaa.org/players/8896651
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,8892068,11,Aagam Shah,Aagam,Shah,Jr.,P,-,,,,,,5,0,https://stats.ncaa.org/players/8892068
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,8900193,25,J. Franks,J.,Franks,Fr.,1B,-,,,,,,12,12,https://stats.ncaa.org/players/8900193
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,8901745,99,Caden Morton,Caden,Morton,Jr.,P,-,,,,,,2,0,https://stats.ncaa.org/players/8901745
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,8902435,34,Luke Langjahr,Luke,Langjahr,Jr.,P,-,,,,,,1,0,https://stats.ncaa.org/players/8902435
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,9112609,30,Morgan Davis,Morgan,Davis,Fr.,P,6-4,,,RIGHT,,,3,1,https://stats.ncaa.org/players/9112609
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,9112602,15,Max Babich,Max,Babich,Jr.,P,6-0,,,LEFT,,,3,2,https://stats.ncaa.org/players/9112602
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,9112614,8,Jayden Hoffman,Jayden,Hoffman,So.,P,6-2,,,,,,3,0,https://stats.ncaa.org/players/9112614
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,9097003,47,William Fornos,William,Fornos,Fr.,C,5-9,,,RIGHT,"Miami, FL",Immculata La Salle,1,0,https://stats.ncaa.org/players/9097003
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,9096958,1,Charlie Claas,Charlie,Claas,Fr.,INF,5-10,,,,,Janesville Craig,12,11,https://stats.ncaa.org/players/9096958
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,9096980,17,Eric Williamson,Eric,Williamson,So.,P,6-2,,,RIGHT,"Franksville, WI",Union Grove,4,1,https://stats.ncaa.org/players/9096980
 2025,2024-25,MBA,3,III,NACC,20220,MSOE,9096997,35,Timothy Kim,Timothy,Kim,Fr.,P,5-10,,,RIGHT,"Leander, TX",Vista Ridge,0,0,https://stats.ncaa.org/players/9096997
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,9096998,36,Quinn Zills,Quinn,Zills,Fr.,INF,5-10,,,,"West Bend, WI",West Bend West,0,0,https://stats.ncaa.org/players/9096998
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,9097002,44,Kaleb Martin,Kaleb,Martin,Fr.,P,6-3,,,RIGHT,"Cedar Rapids, IA",Linn-Mar,0,0,https://stats.ncaa.org/players/9097002
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,9096964,4,Kyle Mayberry,Kyle,Mayberry,Fr.,UT,6-1,,,LEFT,"Lady Lake, FL",The Villages,2,2,https://stats.ncaa.org/players/9096964
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,9096989,23,JJ Jackson,JJ,Jackson,Fr.,INF,5-9,,,,"Lake Villa, IL",Lakes Community,0,0,https://stats.ncaa.org/players/9096989
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,9097000,38,Kamrin Borck,Kamrin,Borck,Fr.,C,6-1,,,RIGHT,"Mchenry, IL",McHenry,0,0,https://stats.ncaa.org/players/9097000
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,9107029,24,Kellen Pate,Kellen,Pate,Sr.,P,6-3,,RIGHT,RIGHT,"Rogers, AR",Shiloh Christian School,1,0,https://stats.ncaa.org/players/9107029
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,9096998,36,Quinn Zills,Quinn,Zills,Fr.,INF,5-10,,,,"West Bend, WI",West Bend West,1,0,https://stats.ncaa.org/players/9096998
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,9097002,44,Kaleb Martin,Kaleb,Martin,Fr.,P,6-3,,,RIGHT,"Cedar Rapids, IA",Linn-Mar,2,0,https://stats.ncaa.org/players/9097002
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,9096964,4,Kyle Mayberry,Kyle,Mayberry,Fr.,UT,6-1,,,LEFT,"Lady Lake, FL",The Villages,7,7,https://stats.ncaa.org/players/9096964
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,9096989,23,JJ Jackson,JJ,Jackson,Fr.,INF,5-9,,,,"Lake Villa, IL",Lakes Community,4,4,https://stats.ncaa.org/players/9096989
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,9097000,38,Kamrin Borck,Kamrin,Borck,Fr.,C,6-1,,,RIGHT,"Mchenry, IL",McHenry,1,0,https://stats.ncaa.org/players/9097000
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,9107029,24,Kellen Pate,Kellen,Pate,Sr.,P,6-3,,RIGHT,RIGHT,"Rogers, AR",Shiloh Christian School,3,2,https://stats.ncaa.org/players/9107029
 2025,2024-25,MBA,3,III,NACC,20220,MSOE,9096982,21,Jackson Etzel,Jackson,Etzel,Fr.,P,6-0,,,LEFT,"Slinger, WI",Slinger,0,0,https://stats.ncaa.org/players/9096982
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,9096993,28,Elias Lopez,Elias,Lopez,Fr.,UT,6-4,,,RIGHT,"Poplar Grove, IL",North Boone,1,0,https://stats.ncaa.org/players/9096993
-2025,2024-25,MBA,3,III,NACC,20220,MSOE,9096974,9,Nicolas Nyasende,Nicolas,Nyasende,Fr.,OF,5-10,,,,"Bloomington, MN",Jefferson Senior,0,0,https://stats.ncaa.org/players/9096974
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,9096993,28,Elias Lopez,Elias,Lopez,Fr.,UT,6-4,,,RIGHT,"Poplar Grove, IL",North Boone,7,4,https://stats.ncaa.org/players/9096993
+2025,2024-25,MBA,3,III,NACC,20220,MSOE,9096974,9,Nicolas Nyasende,Nicolas,Nyasende,Fr.,OF,5-10,,,,"Bloomington, MN",Jefferson Senior,1,0,https://stats.ncaa.org/players/9096974

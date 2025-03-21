@@ -1,42 +1,42 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2025,2024-25,MBA,3,III,UAA,122,CWRU,8887757,9,Jay Smith,Jay,Smith,Sr.,OF,5-11,,LEFT,RIGHT,"Goshen, KY",North Oldham,3,1,https://stats.ncaa.org/players/8887757
-2025,2024-25,MBA,3,III,UAA,122,CWRU,8876769,4,Nate Arterburn,Nate,Arterburn,So.,INF,5-10,,RIGHT,RIGHT,"Southlake, TX",Southlake Carroll,3,3,https://stats.ncaa.org/players/8876769
+2025,2024-25,MBA,3,III,UAA,122,CWRU,8887757,9,Jay Smith,Jay,Smith,Sr.,OF,5-11,,LEFT,RIGHT,"Goshen, KY",North Oldham,9,6,https://stats.ncaa.org/players/8887757
+2025,2024-25,MBA,3,III,UAA,122,CWRU,8876769,4,Nate Arterburn,Nate,Arterburn,So.,INF,5-10,,RIGHT,RIGHT,"Southlake, TX",Southlake Carroll,15,15,https://stats.ncaa.org/players/8876769
 2025,2024-25,MBA,3,III,UAA,122,CWRU,8884864,39,Ryan Castrillon,Ryan,Castrillon,Jr.,P,6-0,,RIGHT,RIGHT,"Seaford, NY",General Douglas MacArthur,0,0,https://stats.ncaa.org/players/8884864
-2025,2024-25,MBA,3,III,UAA,122,CWRU,8889182,23,Thomas Downs,Thomas,Downs,Jr.,INF,6-2,,RIGHT,RIGHT,"Falls Church, VA",Meridian,1,0,https://stats.ncaa.org/players/8889182
-2025,2024-25,MBA,3,III,UAA,122,CWRU,8879886,16,Austin McGowan,Austin,McGowan,Jr.,P,6-1,,LEFT,RIGHT,"Bellefontaine, OH",Benjamin Logan,1,0,https://stats.ncaa.org/players/8879886
-2025,2024-25,MBA,3,III,UAA,122,CWRU,8882988,13,Zach Barnes,Zach,Barnes,So.,P,6-5,,RIGHT,RIGHT,"Chapel Hill, NC",Chapel Hill,1,0,https://stats.ncaa.org/players/8882988
-2025,2024-25,MBA,3,III,UAA,122,CWRU,8888343,33,Jackson Brewer,Jackson,Brewer,Sr.,P,6-3,,RIGHT,RIGHT,"Greenville, SC",Wade Hampton,1,0,https://stats.ncaa.org/players/8888343
-2025,2024-25,MBA,3,III,UAA,122,CWRU,8879591,20,Archer Stankowski,Archer,Stankowski,Jr.,P,6-3,,RIGHT,RIGHT,"New Albany, OH",St. Charles Prep,1,1,https://stats.ncaa.org/players/8879591
-2025,2024-25,MBA,3,III,UAA,122,CWRU,8881674,22,Sean Donahue,Sean,Donahue,Jr.,C,6-0,,RIGHT,RIGHT,"Durham, NC",Durham Academy,1,1,https://stats.ncaa.org/players/8881674
-2025,2024-25,MBA,3,III,UAA,122,CWRU,8896011,7,Logan Andreyko,Logan,Andreyko,Sr.,OF,5-7,,LEFT,RIGHT,"Pittsburgh, PA",North Allegheny Senior,3,2,https://stats.ncaa.org/players/8896011
-2025,2024-25,MBA,3,III,UAA,122,CWRU,8892773,29,Quinn Saunders,Quinn,Saunders,So.,P,6-4,,LEFT,LEFT,"Palos Park, IL",Amos Alonso Stagg,1,1,https://stats.ncaa.org/players/8892773
-2025,2024-25,MBA,3,III,UAA,122,CWRU,8892927,14,Matt Trout,Matt,Trout,Jr.,OF,6-3,,RIGHT,RIGHT,"North East, MD",St. Elizabeth,2,2,https://stats.ncaa.org/players/8892927
-2025,2024-25,MBA,3,III,UAA,122,CWRU,8896420,1,Jasiah Harris,Jasiah,Harris,Jr.,INF,6-0,,RIGHT,RIGHT,"Upper Marlboro, MD",Saint Stephens & Saint Agnes,1,1,https://stats.ncaa.org/players/8896420
-2025,2024-25,MBA,3,III,UAA,122,CWRU,8896642,19,Carson Walker,Carson,Walker,So.,C,5-9,,RIGHT,RIGHT,"San Diego, CA",La Jolla Country Day,1,1,https://stats.ncaa.org/players/8896642
-2025,2024-25,MBA,3,III,UAA,122,CWRU,8901864,10,Tyler Stillson,Tyler,Stillson,So.,UT,6-3,,RIGHT,RIGHT,"Chapel Hill, NC",Chapel Hill,3,3,https://stats.ncaa.org/players/8901864
-2025,2024-25,MBA,3,III,UAA,122,CWRU,8899419,11,Tommy Moonan,Tommy,Moonan,So.,OF,5-9,,RIGHT,LEFT,"Johns Creek, GA",Johns Creek,0,0,https://stats.ncaa.org/players/8899419
-2025,2024-25,MBA,3,III,UAA,122,CWRU,8902087,27,Kyle Gearding,Kyle,Gearding,Sr.,P,6-4,,LEFT,RIGHT,"Cincinnati, OH",Anderson,1,1,https://stats.ncaa.org/players/8902087
-2025,2024-25,MBA,3,III,UAA,122,CWRU,8900916,26,Nick Harms,Nick,Harms,Sr.,OF,6-3,,LEFT,LEFT,"Saint Louis, MO",Parkway West,3,3,https://stats.ncaa.org/players/8900916
-2025,2024-25,MBA,3,III,UAA,122,CWRU,9110482,2,Franco Alonso,Franco,Alonso,Sr.,INF,6-2,,RIGHT,RIGHT,"Pasadena, CA",Polytechnic School,3,2,https://stats.ncaa.org/players/9110482
-2025,2024-25,MBA,3,III,UAA,122,CWRU,9110486,40,Dane Camphausen,Dane,Camphausen,Sr.,INF,6-8,,RIGHT,RIGHT,"Mc Lean, VA",The Landon School,3,3,https://stats.ncaa.org/players/9110486
-2025,2024-25,MBA,3,III,UAA,122,CWRU,9110501,35,Karthik Gondy,Karthik,Gondy,Jr.,P,6-1,,RIGHT,RIGHT,"Las Vegas, NV",Palo Verde,2,0,https://stats.ncaa.org/players/9110501
-2025,2024-25,MBA,3,III,UAA,122,CWRU,9110527,6,Eric Colgrove,Eric,Colgrove,Fr.,P,6-2,,RIGHT,RIGHT,"Los Altos, CA",Los Altos,1,0,https://stats.ncaa.org/players/9110527
-2025,2024-25,MBA,3,III,UAA,122,CWRU,9110540,28,Cody Hughes,Cody,Hughes,Fr.,P,6-2,,LEFT,RIGHT,"Durham, NC",Jordan,1,0,https://stats.ncaa.org/players/9110540
-2025,2024-25,MBA,3,III,UAA,122,CWRU,9110543,25,Oliver Miller,Oliver,Miller,Fr.,P,6-0,,RIGHT,RIGHT,"Lorton, VA",St. Stephens & St. Agnes,1,0,https://stats.ncaa.org/players/9110543
-2025,2024-25,MBA,3,III,UAA,122,CWRU,9110484,5,Jack Anderson,Jack,Anderson,Sr.,C,6-0,,RIGHT,RIGHT,"Clarkston, MI",Clarkston,3,3,https://stats.ncaa.org/players/9110484
-2025,2024-25,MBA,3,III,UAA,122,CWRU,9110488,31,Zack Carinci,Zack,Carinci,Sr.,UT,6-0,,RIGHT,RIGHT,"Twinsburg, OH",Twinsburg,2,1,https://stats.ncaa.org/players/9110488
-2025,2024-25,MBA,3,III,UAA,122,CWRU,9110532,21,Calvin Gelle,Calvin,Gelle,Fr.,INF,5-11,,RIGHT,RIGHT,"Saint Louis, MO",John Burroughs,2,1,https://stats.ncaa.org/players/9110532
-2025,2024-25,MBA,3,III,UAA,122,CWRU,9110534,3,Charlie Griffith,Charlie,Griffith,Fr.,P,6-2,,LEFT,LEFT,"Columbus, OH",Saint Charles Prep,1,0,https://stats.ncaa.org/players/9110534
-2025,2024-25,MBA,3,III,UAA,122,CWRU,9110579,12,Jeff Radinsky,Jeff,Radinsky,Fr.,P,5-9,,LEFT,LEFT,"Port Washington, NY",Paul D. Schreiber,1,0,https://stats.ncaa.org/players/9110579
-2025,2024-25,MBA,3,III,UAA,122,CWRU,9110560,37,Armand Ortiz,Armand,Ortiz,Fr.,P,5-9,,RIGHT,RIGHT,"Severn, MD",The Key School,1,0,https://stats.ncaa.org/players/9110560
+2025,2024-25,MBA,3,III,UAA,122,CWRU,8889182,23,Thomas Downs,Thomas,Downs,Jr.,INF,6-2,,RIGHT,RIGHT,"Falls Church, VA",Meridian,3,0,https://stats.ncaa.org/players/8889182
+2025,2024-25,MBA,3,III,UAA,122,CWRU,8879886,16,Austin McGowan,Austin,McGowan,Jr.,P,6-1,,LEFT,RIGHT,"Bellefontaine, OH",Benjamin Logan,4,0,https://stats.ncaa.org/players/8879886
+2025,2024-25,MBA,3,III,UAA,122,CWRU,8882988,13,Zach Barnes,Zach,Barnes,So.,P,6-5,,RIGHT,RIGHT,"Chapel Hill, NC",Chapel Hill,4,0,https://stats.ncaa.org/players/8882988
+2025,2024-25,MBA,3,III,UAA,122,CWRU,8888343,33,Jackson Brewer,Jackson,Brewer,Sr.,P,6-3,,RIGHT,RIGHT,"Greenville, SC",Wade Hampton,4,1,https://stats.ncaa.org/players/8888343
+2025,2024-25,MBA,3,III,UAA,122,CWRU,8879591,20,Archer Stankowski,Archer,Stankowski,Jr.,P,6-3,,RIGHT,RIGHT,"New Albany, OH",St. Charles Prep,4,3,https://stats.ncaa.org/players/8879591
+2025,2024-25,MBA,3,III,UAA,122,CWRU,8881674,22,Sean Donahue,Sean,Donahue,Jr.,C,6-0,,RIGHT,RIGHT,"Durham, NC",Durham Academy,8,5,https://stats.ncaa.org/players/8881674
+2025,2024-25,MBA,3,III,UAA,122,CWRU,8896011,7,Logan Andreyko,Logan,Andreyko,Sr.,OF,5-7,,LEFT,RIGHT,"Pittsburgh, PA",North Allegheny Senior,14,13,https://stats.ncaa.org/players/8896011
+2025,2024-25,MBA,3,III,UAA,122,CWRU,8892773,29,Quinn Saunders,Quinn,Saunders,So.,P,6-4,,LEFT,LEFT,"Palos Park, IL",Amos Alonso Stagg,5,4,https://stats.ncaa.org/players/8892773
+2025,2024-25,MBA,3,III,UAA,122,CWRU,8892927,14,Matt Trout,Matt,Trout,Jr.,OF,6-3,,RIGHT,RIGHT,"North East, MD",St. Elizabeth,12,7,https://stats.ncaa.org/players/8892927
+2025,2024-25,MBA,3,III,UAA,122,CWRU,8896420,1,Jasiah Harris,Jasiah,Harris,Jr.,INF,6-0,,RIGHT,RIGHT,"Upper Marlboro, MD",Saint Stephens & Saint Agnes,7,6,https://stats.ncaa.org/players/8896420
+2025,2024-25,MBA,3,III,UAA,122,CWRU,8896642,19,Carson Walker,Carson,Walker,So.,C,5-9,,RIGHT,RIGHT,"San Diego, CA",La Jolla Country Day,6,1,https://stats.ncaa.org/players/8896642
+2025,2024-25,MBA,3,III,UAA,122,CWRU,8901864,10,Tyler Stillson,Tyler,Stillson,So.,UT,6-3,,RIGHT,RIGHT,"Chapel Hill, NC",Chapel Hill,15,15,https://stats.ncaa.org/players/8901864
+2025,2024-25,MBA,3,III,UAA,122,CWRU,8899419,11,Tommy Moonan,Tommy,Moonan,So.,OF,5-9,,RIGHT,LEFT,"Johns Creek, GA",Johns Creek,4,0,https://stats.ncaa.org/players/8899419
+2025,2024-25,MBA,3,III,UAA,122,CWRU,8902087,27,Kyle Gearding,Kyle,Gearding,Sr.,P,6-4,,LEFT,RIGHT,"Cincinnati, OH",Anderson,3,3,https://stats.ncaa.org/players/8902087
+2025,2024-25,MBA,3,III,UAA,122,CWRU,8900916,26,Nick Harms,Nick,Harms,Sr.,OF,6-3,,LEFT,LEFT,"Saint Louis, MO",Parkway West,15,15,https://stats.ncaa.org/players/8900916
+2025,2024-25,MBA,3,III,UAA,122,CWRU,9110482,2,Franco Alonso,Franco,Alonso,Sr.,INF,6-2,,RIGHT,RIGHT,"Pasadena, CA",Polytechnic School,14,13,https://stats.ncaa.org/players/9110482
+2025,2024-25,MBA,3,III,UAA,122,CWRU,9110486,40,Dane Camphausen,Dane,Camphausen,Sr.,INF,6-8,,RIGHT,RIGHT,"Mc Lean, VA",The Landon School,12,12,https://stats.ncaa.org/players/9110486
+2025,2024-25,MBA,3,III,UAA,122,CWRU,9110501,35,Karthik Gondy,Karthik,Gondy,Jr.,P,6-1,,RIGHT,RIGHT,"Las Vegas, NV",Palo Verde,6,0,https://stats.ncaa.org/players/9110501
 2025,2024-25,MBA,3,III,UAA,122,CWRU,9110530,30,Evan Garbincus,Evan,Garbincus,Fr.,OF,5-10,,LEFT,RIGHT,"Painesville, OH",Riverside,0,0,https://stats.ncaa.org/players/9110530
 2025,2024-25,MBA,3,III,UAA,122,CWRU,9110538,32,Tedros Hemberger,Tedros,Hemberger,Fr.,OF,6-0,,RIGHT,RIGHT,"San Diego, CA",Carlsbad,0,0,https://stats.ncaa.org/players/9110538
-2025,2024-25,MBA,3,III,UAA,122,CWRU,9110556,99,Mason Nemec,Mason,Nemec,Fr.,OF,6-0,,RIGHT,RIGHT,"Woodstock, MD",Mount Saint Joseph,0,0,https://stats.ncaa.org/players/9110556
+2025,2024-25,MBA,3,III,UAA,122,CWRU,9110556,99,Mason Nemec,Mason,Nemec,Fr.,OF,6-0,,RIGHT,RIGHT,"Woodstock, MD",Mount Saint Joseph,2,2,https://stats.ncaa.org/players/9110556
 2025,2024-25,MBA,3,III,UAA,122,CWRU,9110528,38,Charlie Dickie,Charlie,Dickie,Fr.,INF,5-10,,RIGHT,RIGHT,"Weston, MA",Weston,0,0,https://stats.ncaa.org/players/9110528
+2025,2024-25,MBA,3,III,UAA,122,CWRU,9110527,6,Eric Colgrove,Eric,Colgrove,Fr.,P,6-2,,RIGHT,RIGHT,"Los Altos, CA",Los Altos,4,0,https://stats.ncaa.org/players/9110527
+2025,2024-25,MBA,3,III,UAA,122,CWRU,9110540,28,Cody Hughes,Cody,Hughes,Fr.,P,6-2,,LEFT,RIGHT,"Durham, NC",Jordan,4,0,https://stats.ncaa.org/players/9110540
+2025,2024-25,MBA,3,III,UAA,122,CWRU,9110543,25,Oliver Miller,Oliver,Miller,Fr.,P,6-0,,RIGHT,RIGHT,"Lorton, VA",St. Stephens & St. Agnes,4,0,https://stats.ncaa.org/players/9110543
+2025,2024-25,MBA,3,III,UAA,122,CWRU,9110484,5,Jack Anderson,Jack,Anderson,Sr.,C,6-0,,RIGHT,RIGHT,"Clarkston, MI",Clarkston,15,15,https://stats.ncaa.org/players/9110484
+2025,2024-25,MBA,3,III,UAA,122,CWRU,9110488,31,Zack Carinci,Zack,Carinci,Sr.,UT,6-0,,RIGHT,RIGHT,"Twinsburg, OH",Twinsburg,10,6,https://stats.ncaa.org/players/9110488
 2025,2024-25,MBA,3,III,UAA,122,CWRU,9110524,8,Ross Brotherston,Ross,Brotherston,Fr.,INF,6-2,,RIGHT,RIGHT,"Wynnewood, PA",Harriton,0,0,https://stats.ncaa.org/players/9110524
+2025,2024-25,MBA,3,III,UAA,122,CWRU,9110532,21,Calvin Gelle,Calvin,Gelle,Fr.,INF,5-11,,RIGHT,RIGHT,"Saint Louis, MO",John Burroughs,5,4,https://stats.ncaa.org/players/9110532
+2025,2024-25,MBA,3,III,UAA,122,CWRU,9110534,3,Charlie Griffith,Charlie,Griffith,Fr.,P,6-2,,LEFT,LEFT,"Columbus, OH",Saint Charles Prep,4,1,https://stats.ncaa.org/players/9110534
 2025,2024-25,MBA,3,III,UAA,122,CWRU,9110547,36,Jack Millman,Jack,Millman,Fr.,P,5-10,,RIGHT,RIGHT,"Baltimore, MD",Pikesville,0,0,https://stats.ncaa.org/players/9110547
-2025,2024-25,MBA,3,III,UAA,122,CWRU,9110583,15,Anton Sabo,Anton,Sabo,Fr.,P,6-4,,RIGHT,LEFT,"Falcon Heights, MN",Roseville Area,0,0,https://stats.ncaa.org/players/9110583
-2025,2024-25,MBA,3,III,UAA,122,CWRU,9110589,24,Fitz Smith,Fitz,Smith,Fr.,P,6-2,,RIGHT,RIGHT,"New York, NY",Packer Collegiate Institute,0,0,https://stats.ncaa.org/players/9110589
+2025,2024-25,MBA,3,III,UAA,122,CWRU,9110583,15,Anton Sabo,Anton,Sabo,Fr.,P,6-4,,RIGHT,LEFT,"Falcon Heights, MN",Roseville Area,2,0,https://stats.ncaa.org/players/9110583
+2025,2024-25,MBA,3,III,UAA,122,CWRU,9110589,24,Fitz Smith,Fitz,Smith,Fr.,P,6-2,,RIGHT,RIGHT,"New York, NY",Packer Collegiate Institute,1,0,https://stats.ncaa.org/players/9110589
 2025,2024-25,MBA,3,III,UAA,122,CWRU,9110590,17,Mark Takasaki,Mark,Takasaki,Fr.,C,6-1,,RIGHT,RIGHT,"Algonquin, IL",Jacobs,0,0,https://stats.ncaa.org/players/9110590
-2025,2024-25,MBA,3,III,UAA,122,CWRU,9110585,18,Ayush Shetty,Ayush,Shetty,Fr.,UT,5-10,,RIGHT,RIGHT,"Alpharetta, GA",Northview,0,0,https://stats.ncaa.org/players/9110585
+2025,2024-25,MBA,3,III,UAA,122,CWRU,9110579,12,Jeff Radinsky,Jeff,Radinsky,Fr.,P,5-9,,LEFT,LEFT,"Port Washington, NY",Paul D. Schreiber,4,0,https://stats.ncaa.org/players/9110579
+2025,2024-25,MBA,3,III,UAA,122,CWRU,9110585,18,Ayush Shetty,Ayush,Shetty,Fr.,UT,5-10,,RIGHT,RIGHT,"Alpharetta, GA",Northview,3,1,https://stats.ncaa.org/players/9110585
+2025,2024-25,MBA,3,III,UAA,122,CWRU,9110560,37,Armand Ortiz,Armand,Ortiz,Fr.,P,5-9,,RIGHT,RIGHT,"Severn, MD",The Key School,3,1,https://stats.ncaa.org/players/9110560
 2025,2024-25,MBA,3,III,UAA,122,CWRU,9110552,34,Jacob Montemore,Jacob,Montemore,Fr.,P,6-2,,RIGHT,RIGHT,"Cincinnati, OH",Turpin,0,0,https://stats.ncaa.org/players/9110552

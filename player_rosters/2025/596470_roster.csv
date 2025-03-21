@@ -1,37 +1,37 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,8899012,1,Michael Lareau,Michael,Lareau,Jr.,OF,6-3,,LEFT,LEFT,"Allen Park, MI",Allen Park HS,3,3,https://stats.ncaa.org/players/8899012
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,8882602,23,Jordan Zuger,Jordan,Zuger,Sr.,P,6-3,,RIGHT,RIGHT,"Hendersonville, TN",Hendersonville HS,0,0,https://stats.ncaa.org/players/8882602
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,8880761,6,Kaden Galason,Kaden,Galason,Jr.,INF,6-0,,RIGHT,RIGHT,"Kathleen, GA",Houston County HS,3,3,https://stats.ncaa.org/players/8880761
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,8887808,27,Will Pyor,Will,Pyor,Jr.,P,6-2,,RIGHT,RIGHT,"Whitwell, TN",Marion County HS,1,1,https://stats.ncaa.org/players/8887808
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,8874775,31,Jake Timbes,Jake,Timbes,Jr.,P,6-2,,RIGHT,RIGHT,"Kingsport, TN",Dobyns Bennett HS,1,1,https://stats.ncaa.org/players/8874775
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,8878945,25,Joe Ruzicka,Joe,Ruzicka,Jr.,P,6-3,,RIGHT,RIGHT,"Webster Groves, MO",Webster Groves HS,1,1,https://stats.ncaa.org/players/8878945
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,8882168,20,Wyatt Fooks,Wyatt,Fooks,So.,OF,6-0,,RIGHT,RIGHT,"Hoschton, GA",Mountain View HS,0,0,https://stats.ncaa.org/players/8882168
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,8884441,10,Blake Barton,Blake,Barton,Sr.,OF,6-0,,RIGHT,RIGHT,"Franklin, TN",Grace Christian Academy,3,3,https://stats.ncaa.org/players/8884441
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,8895480,30,Landon Godsey,Landon,Godsey,Sr.,C,6-0,,RIGHT,RIGHT,"Indianapolis, IN",Southport HS,3,3,https://stats.ncaa.org/players/8895480
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,8896960,38,Caleb Guisewite,Caleb,Guisewite,Sr.,P,6-2,,RIGHT,RIGHT,"Greenbrier, TN",White House Heritage HS,0,0,https://stats.ncaa.org/players/8896960
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,8898704,3,Zach Hernandez,Zach,Hernandez,So.,P,6-2,,RIGHT,RIGHT,"Fayetteville, TN",Lincoln County HS,0,0,https://stats.ncaa.org/players/8898704
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,8891722,7,Ty Allen,Ty,Allen,So.,OF,5-10,,RIGHT,RIGHT,"Franklin, TN",Independence HS,3,3,https://stats.ncaa.org/players/8891722
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,8891043,13,Ethan Harden,Ethan,Harden,Jr.,P,6-0,,RIGHT,LEFT,"Franklin, TN",Battle Ground Adademy,1,0,https://stats.ncaa.org/players/8891043
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,8899012,1,Michael Lareau,Michael,Lareau,Jr.,OF,6-3,,LEFT,LEFT,"Allen Park, MI",Allen Park HS,17,15,https://stats.ncaa.org/players/8899012
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,8882602,23,Jordan Zuger,Jordan,Zuger,Sr.,P,6-3,,RIGHT,RIGHT,"Hendersonville, TN",Hendersonville HS,3,0,https://stats.ncaa.org/players/8882602
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,8880761,6,Kaden Galason,Kaden,Galason,Jr.,INF,6-0,,RIGHT,RIGHT,"Kathleen, GA",Houston County HS,17,16,https://stats.ncaa.org/players/8880761
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,8887808,27,Will Pryor,Will,Pryor,Jr.,P,6-2,,RIGHT,RIGHT,"Whitwell, TN",Marion County HS,5,5,https://stats.ncaa.org/players/8887808
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,8874775,31,Jake Timbes,Jake,Timbes,Jr.,P,6-2,,RIGHT,RIGHT,"Kingsport, TN",Dobyns Bennett HS,5,5,https://stats.ncaa.org/players/8874775
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,8878945,25,Joe Ruzicka,Joe,Ruzicka,Jr.,P,6-3,,RIGHT,RIGHT,"Webster Groves, MO",Webster Groves HS,5,5,https://stats.ncaa.org/players/8878945
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,8882168,20,Wyatt Fooks,Wyatt,Fooks,So.,OF,6-0,,RIGHT,RIGHT,"Hoschton, GA",Mountain View HS,12,8,https://stats.ncaa.org/players/8882168
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,8884441,10,Blake Barton,Blake,Barton,Sr.,OF,6-0,,RIGHT,RIGHT,"Franklin, TN",Grace Christian Academy,22,22,https://stats.ncaa.org/players/8884441
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,8895480,30,Landon Godsey,Landon,Godsey,Sr.,C,6-0,,RIGHT,RIGHT,"Indianapolis, IN",Southport HS,22,22,https://stats.ncaa.org/players/8895480
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,8896960,38,Caleb Guisewite,Caleb,Guisewite,Sr.,P,6-2,,RIGHT,RIGHT,"Greenbrier, TN",White House Heritage HS,1,0,https://stats.ncaa.org/players/8896960
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,8898704,3,Zach Hernandez,Zach,Hernandez,So.,P,6-2,,RIGHT,RIGHT,"Fayetteville, TN",Lincoln County HS,5,2,https://stats.ncaa.org/players/8898704
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,8891722,7,Ty Allen,Ty,Allen,So.,OF,5-10,,RIGHT,RIGHT,"Franklin, TN",Independence HS,22,22,https://stats.ncaa.org/players/8891722
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,8891043,13,Ethan Harden,Ethan,Harden,Jr.,P,6-0,,RIGHT,LEFT,"Franklin, TN",Battle Ground Adademy,9,0,https://stats.ncaa.org/players/8891043
 2025,2024-25,MBA,1,I,MVC,14927,Belmont,8899203,24,Hank Liss,Hank,Liss,So.,P,6-0,,RIGHT,RIGHT,"Evanston, IL",Evanston Township HS,0,0,https://stats.ncaa.org/players/8899203
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,8901997,14,Pete Daniel,Pete,Daniel,So.,INF,6-3,,RIGHT,RIGHT,"Nashville, TN",Ensworth HS,3,3,https://stats.ncaa.org/players/8901997
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,8902534,40,Cade Granzow,Cade,Granzow,Sr.,P,6-3,,RIGHT,RIGHT,"Franklin, TN",Brentwood HS,1,0,https://stats.ncaa.org/players/8902534
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,8901997,14,Pete Daniel,Pete,Daniel,So.,INF,6-3,,RIGHT,RIGHT,"Nashville, TN",Ensworth HS,22,22,https://stats.ncaa.org/players/8901997
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,8902534,40,Cade Granzow,Cade,Granzow,Sr.,P,6-3,,RIGHT,RIGHT,"Franklin, TN",Brentwood HS,4,2,https://stats.ncaa.org/players/8902534
 2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101776,22,Noah Rice,Noah,Rice,Fr.,OF,5-11,,LEFT,LEFT,"Gallatin, TN",Station Camp HS,0,0,https://stats.ncaa.org/players/9101776
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101707,2,Gardner Lawrence,Gardner,Lawrence,Jr.,C,6-0,,LEFT,LEFT,"Dallas, TX",Jesuit College Preparatory School of Dallas,3,3,https://stats.ncaa.org/players/9101707
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101710,9,Cade Batchelor,Cade,Batchelor,Fr.,INF,6-1,,RIGHT,RIGHT,"Maryville, TN",Maryville HS,0,0,https://stats.ncaa.org/players/9101710
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101739,17,Preston Heben,Preston,Heben,Jr.,C,6-0,,RIGHT,RIGHT,"Fort Myers, FL",Bishop Verot HS,0,0,https://stats.ncaa.org/players/9101739
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101793,29,Krish Gandhi,Krish,Gandhi,Fr.,P,6-0,,RIGHT,LEFT,"Suwanee, GA",Lambert HS,0,0,https://stats.ncaa.org/players/9101793
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101812,34,Michael Sprockett,Michael,Sprockett,Jr.,C,5-10,,LEFT,RIGHT,"West Chester, OH",Lakota East HS,3,2,https://stats.ncaa.org/players/9101812
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101708,8,Charlie Davis,Charlie,Davis,Jr.,INF,5-10,,LEFT,RIGHT,"Paris, TN",,3,3,https://stats.ncaa.org/players/9101708
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101718,11,Andrew Perry,Andrew,Perry,Fr.,P,6-0,,RIGHT,LEFT,"Jackson, TN",Trinity Christian Academy,1,0,https://stats.ncaa.org/players/9101718
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101727,15,Jake Maddox,Jake,Maddox,Fr.,UT,6-5,,LEFT,RIGHT,"Murfreesboro, TN",Central Magnet School,0,0,https://stats.ncaa.org/players/9101727
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101707,2,Gardner Lawrence,Gardner,Lawrence,Jr.,C,6-0,,LEFT,LEFT,"Dallas, TX",Jesuit College Preparatory School of Dallas,13,8,https://stats.ncaa.org/players/9101707
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101710,9,Cade Batchelor,Cade,Batchelor,Fr.,INF,6-1,,RIGHT,RIGHT,"Maryville, TN",Maryville HS,6,4,https://stats.ncaa.org/players/9101710
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101739,17,Preston Heben,Preston,Heben,Jr.,C,6-0,,RIGHT,RIGHT,"Fort Myers, FL",Bishop Verot HS,2,0,https://stats.ncaa.org/players/9101739
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101793,29,Krish Gandhi,Krish,Gandhi,Fr.,P,6-0,,RIGHT,LEFT,"Suwanee, GA",Lambert HS,2,0,https://stats.ncaa.org/players/9101793
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101812,34,Michael Sprockett,Michael,Sprockett,Jr.,C,5-10,,LEFT,RIGHT,"West Chester, OH",Lakota East HS,21,19,https://stats.ncaa.org/players/9101812
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101708,8,Charlie Davis,Charlie,Davis,Jr.,INF,5-10,,LEFT,RIGHT,"Paris, TN",,22,22,https://stats.ncaa.org/players/9101708
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101718,11,Andrew Perry,Andrew,Perry,Fr.,P,6-0,,RIGHT,LEFT,"Jackson, TN",Trinity Christian Academy,8,0,https://stats.ncaa.org/players/9101718
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101727,15,Jake Maddox,Jake,Maddox,Fr.,UT,6-5,,LEFT,RIGHT,"Murfreesboro, TN",Central Magnet School,8,5,https://stats.ncaa.org/players/9101727
 2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101781,26,Nick Chiappetta,Nick,Chiappetta,Fr.,INF,6-1,,RIGHT,RIGHT,"Keller, TX",Nolan Catholic HS,0,0,https://stats.ncaa.org/players/9101781
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101747,18,Zane Brown,Zane,Brown,So.,P,6-4,,RIGHT,RIGHT,"Cottontown, TN",White House HS,1,0,https://stats.ncaa.org/players/9101747
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101790,28,Owen Marsh,Owen,Marsh,Jr.,P,6-4,,LEFT,RIGHT,"Lakewood, CO",Lakewood HS,1,0,https://stats.ncaa.org/players/9101790
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101798,32,Jonathon Van Ness,Jonathon,Van Ness,Fr.,P,6-3,,RIGHT,RIGHT,"Knoxville, TN",Christian Academy of Knoxville,1,0,https://stats.ncaa.org/players/9101798
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101825,36,Lake Morris,Lake,Morris,Fr.,P,5-11,,LEFT,LEFT,"Gallatin, TN",Hendersonville HS,1,0,https://stats.ncaa.org/players/9101825
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101805,33,Trey Maeker,Trey,Maeker,Sr.,P,6-2,,LEFT,LEFT,"Pearland, TX",Pearland,1,0,https://stats.ncaa.org/players/9101805
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101829,37,Logan Brock,Logan,Brock,Fr.,P,6-1,,RIGHT,RIGHT,"Marietta, GA",Lassiter HS,0,0,https://stats.ncaa.org/players/9101829
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101833,41,Dean Spoto,Dean,Spoto,Fr.,INF,5-9,,RIGHT,RIGHT,"Tampa, FL",Jesuit HS,1,0,https://stats.ncaa.org/players/9101833
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101836,5,Nolan Sergeant,Nolan,Sergeant,Fr.,UT,5-10,,LEFT,RIGHT,"Chattanooga, TN",McCallie School,2,0,https://stats.ncaa.org/players/9101836
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101734,16,Jack Morrissey,Jack,Morrissey,Fr.,P,6-0,,LEFT,LEFT,"Ladera Ranch, CA",San Juan Hills HS,0,0,https://stats.ncaa.org/players/9101734
-2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101818,35,Tucker Smith,Tucker,Smith,Fr.,INF,5-11,,RIGHT,RIGHT,"Hendersonville, TN",Station Camp HS,2,1,https://stats.ncaa.org/players/9101818
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101747,18,Zane Brown,Zane,Brown,So.,P,6-4,,RIGHT,RIGHT,"Cottontown, TN",White House HS,6,2,https://stats.ncaa.org/players/9101747
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101790,28,Owen Marsh,Owen,Marsh,Jr.,P,6-4,,LEFT,RIGHT,"Lakewood, CO",Lakewood HS,8,0,https://stats.ncaa.org/players/9101790
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101798,32,Jonathon Van Ness,Jonathon,Van Ness,Fr.,P,6-3,,RIGHT,RIGHT,"Knoxville, TN",Christian Academy of Knoxville,6,1,https://stats.ncaa.org/players/9101798
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101825,36,Lake Morris,Lake,Morris,Fr.,P,5-11,,LEFT,LEFT,"Gallatin, TN",Hendersonville HS,3,0,https://stats.ncaa.org/players/9101825
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101805,33,Trey Maeker,Trey,Maeker,Sr.,P,6-2,,LEFT,LEFT,"Pearland, TX",Pearland,9,0,https://stats.ncaa.org/players/9101805
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101829,37,Logan Brock,Logan,Brock,Fr.,P,6-1,,RIGHT,RIGHT,"Marietta, GA",Lassiter HS,4,0,https://stats.ncaa.org/players/9101829
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101833,41,Dean Spoto,Dean,Spoto,Fr.,INF,5-9,,RIGHT,RIGHT,"Tampa, FL",Jesuit HS,4,1,https://stats.ncaa.org/players/9101833
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101836,5,Nolan Sergeant,Nolan,Sergeant,Fr.,UT,5-10,,LEFT,RIGHT,"Chattanooga, TN",McCallie School,14,9,https://stats.ncaa.org/players/9101836
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101734,16,Jack Morrissey,Jack,Morrissey,Fr.,P,6-0,,LEFT,LEFT,"Ladera Ranch, CA",San Juan Hills HS,2,0,https://stats.ncaa.org/players/9101734
+2025,2024-25,MBA,1,I,MVC,14927,Belmont,9101818,35,Tucker Smith,Tucker,Smith,Fr.,INF,5-11,,RIGHT,RIGHT,"Hendersonville, TN",Station Camp HS,7,3,https://stats.ncaa.org/players/9101818

@@ -1,35 +1,44 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9305778,11,Trent Bielak,Trent,Bielak,So.,P,-,,RIGHT,RIGHT,,,1,1,https://stats.ncaa.org/players/9305778
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9305779,40,Nickson III,Nickson,III,Jr.,dh,-,,,,,,1,0,https://stats.ncaa.org/players/9305779
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9305780,21,T. Johnson,T.,Johnson,Jr.,cf,-,,,,,,1,0,https://stats.ncaa.org/players/9305780
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9305781,25,A. Zimmerman,A.,Zimmerman,Fr.,ss,-,,,,,,1,1,https://stats.ncaa.org/players/9305781
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8876741,35,Austin Kitcey,Austin,Kitcey,Sr.,P,-,,LEFT,RIGHT,"W Springfield, PA",Northwestern,0,0,https://stats.ncaa.org/players/8876741
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8886852,32,Alex Ognen,Alex,Ognen,Jr.,INF,-,,RIGHT,RIGHT,"Smethport, PA",Smethport,1,1,https://stats.ncaa.org/players/8886852
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9305778,11,Trent Bielak,Trent,Bielak,So.,P,-,,RIGHT,RIGHT,,,14,14,https://stats.ncaa.org/players/9305778
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9308164,45,Ethan Zimmerman,Ethan,Zimmerman,So.,OF,-,,,,,,4,0,https://stats.ncaa.org/players/9308164
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9311225,12,L. Laser,L.,Laser,Fr.,c,-,,,,,,1,1,https://stats.ncaa.org/players/9311225
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9307756,27,B. Meadows,B.,Meadows,Fr.,ph,-,,,,,,7,6,https://stats.ncaa.org/players/9307756
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9308165,28,C. Leviski,C.,Leviski,Fr.,p,-,,,,,,1,0,https://stats.ncaa.org/players/9308165
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9308163,10,Tim Beimel,Tim,Beimel,So.,OF,-,,,,,,4,3,https://stats.ncaa.org/players/9308163
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9307757,15,Alan Compres,Alan,Compres,So.,OF,-,,,,,,5,4,https://stats.ncaa.org/players/9307757
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9309150,19,Nick Manee,Nick,Manee,Fr.,p,-,,,,,,1,0,https://stats.ncaa.org/players/9309150
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9309149,4,Grant Casses,Grant,Casses,Fr.,ss,-,,,,,,1,1,https://stats.ncaa.org/players/9309149
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9305779,40,Nickson III,Nickson,III,Jr.,dh,-,,,,,,4,3,https://stats.ncaa.org/players/9305779
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9305780,21,T. Johnson,T.,Johnson,Jr.,cf,-,,,,,,9,7,https://stats.ncaa.org/players/9305780
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9305781,25,A. Zimmerman,A.,Zimmerman,Fr.,ss,-,,,,,,8,8,https://stats.ncaa.org/players/9305781
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9312433,41,Kyle Ketchum,Kyle,Ketchum,So.,OF,-,,,,,,1,0,https://stats.ncaa.org/players/9312433
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8876741,35,Austin Kitcey,Austin,Kitcey,Sr.,P,-,,LEFT,RIGHT,"W Springfield, PA",Northwestern,1,0,https://stats.ncaa.org/players/8876741
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8886852,32,Alex Ognen,Alex,Ognen,Jr.,INF,-,,RIGHT,RIGHT,"Smethport, PA",Smethport,7,7,https://stats.ncaa.org/players/8886852
 2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8877743,45,Mallick Metcalfe,Mallick,Metcalfe,So.,UT,-,,RIGHT,RIGHT,"Chicora, PA",Karns City,0,0,https://stats.ncaa.org/players/8877743
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8880963,4,Logan McConnell,Logan,McConnell,So.,C,-,,RIGHT,RIGHT,"Archbald, PA",Valley View,1,0,https://stats.ncaa.org/players/8880963
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8888066,15,Garret Smith,Garret,Smith,Jr.,P,-,,RIGHT,RIGHT,"Clinton, PA",South Side,0,0,https://stats.ncaa.org/players/8888066
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8880963,4,Logan McConnell,Logan,McConnell,So.,C,-,,RIGHT,RIGHT,"Archbald, PA",Valley View,7,6,https://stats.ncaa.org/players/8880963
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8888066,15,Garret Smith,Garret,Smith,Jr.,P,-,,RIGHT,RIGHT,"Clinton, PA",South Side,1,0,https://stats.ncaa.org/players/8888066
 2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8879935,16,Ryota Kaneko,Ryota,Kaneko,So.,OF,-,,LEFT,RIGHT,,Nihon University Sr. High,0,0,https://stats.ncaa.org/players/8879935
 2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8874091,40,John Cornacchio,John,Cornacchio,So.,C,-,,RIGHT,RIGHT,"Milltown, NJ",St. John Vianney,0,0,https://stats.ncaa.org/players/8874091
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8878952,36,Collin Porter,Collin,Porter,Jr.,P,-,,RIGHT,RIGHT,"Johnsonburg, PA",Johnsonburg,1,0,https://stats.ncaa.org/players/8878952
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8874186,26,Branson Scarantine,Branson,Scarantine,Sr.,1B,-,,LEFT,LEFT,"Anita, PA",Punxsutawney,0,0,https://stats.ncaa.org/players/8874186
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8878394,1,Trey Ayers,Trey,Ayers,Sr.,OF,-,,RIGHT,RIGHT,"Port Allegany, PA",Port Allegany,0,0,https://stats.ncaa.org/players/8878394
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8878952,36,Collin Porter,Collin,Porter,Jr.,P,-,,RIGHT,RIGHT,"Johnsonburg, PA",Johnsonburg,5,1,https://stats.ncaa.org/players/8878952
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8874186,26,Branson Scarantine,Branson,Scarantine,Sr.,1B,-,,LEFT,LEFT,"Anita, PA",Punxsutawney,3,0,https://stats.ncaa.org/players/8874186
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8878394,1,Trey Ayers,Trey,Ayers,Sr.,OF,-,,RIGHT,RIGHT,"Port Allegany, PA",Port Allegany,1,1,https://stats.ncaa.org/players/8878394
 2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8874479,14,Shane Wetherington,Shane,Wetherington,So.,INF,-,,RIGHT,RIGHT,"Duanesburg, NY",Duanesburg,0,0,https://stats.ncaa.org/players/8874479
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8874626,24,Patrick Synan,Patrick,Synan,Jr.,P,-,,RIGHT,RIGHT,"Pittsburgh, PA",North Catholic,1,0,https://stats.ncaa.org/players/8874626
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8874626,24,Patrick Synan,Patrick,Synan,Jr.,P,-,,RIGHT,RIGHT,"Pittsburgh, PA",North Catholic,4,3,https://stats.ncaa.org/players/8874626
 2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8892313,12,Riley Derenzo,Riley,Derenzo,So.,INF,-,,LEFT,RIGHT,"Niskayuna, NY",Niskayuna,0,0,https://stats.ncaa.org/players/8892313
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8895817,2, Blake Prestash,,Blake Prestash,Jr.,INF,-,,RIGHT,RIGHT,"Philipsburg, PA",Clearfield,1,1,https://stats.ncaa.org/players/8895817
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8898510,43,Maddox Stadler,Maddox,Stadler,Jr.,UT,-,,RIGHT,RIGHT,"Harborcreek, PA",Cathedral Prep,0,0,https://stats.ncaa.org/players/8898510
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8895817,2, Blake Prestash,,Blake Prestash,Jr.,INF,-,,RIGHT,RIGHT,"Philipsburg, PA",Clearfield,13,13,https://stats.ncaa.org/players/8895817
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8898510,43,Maddox Stadler,Maddox,Stadler,Jr.,UT,-,,RIGHT,RIGHT,"Harborcreek, PA",Cathedral Prep,1,0,https://stats.ncaa.org/players/8898510
 2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8898527,9,Aden Hafer,Aden,Hafer,Sr.,UT,-,,RIGHT,RIGHT,"Hanover, PA",Hanover,0,0,https://stats.ncaa.org/players/8898527
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8898577,6,Shawn Mannering,Shawn,Mannering,Sr.,P,-,,RIGHT,RIGHT,"Smyrna, DE",Smyrna,1,1,https://stats.ncaa.org/players/8898577
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8898577,6,Shawn Mannering,Shawn,Mannering,Sr.,P,-,,RIGHT,RIGHT,"Smyrna, DE",Smyrna,4,4,https://stats.ncaa.org/players/8898577
 2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8894783,25,Justin Peterson,Justin,Peterson,So.,INF,-,,RIGHT,RIGHT,"Kane, PA",Kane,0,0,https://stats.ncaa.org/players/8894783
 2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8894786,23,Matthew Hassaj,Matthew,Hassaj,Jr.,C,-,,RIGHT,RIGHT,"Archbald, PA",Holy Cross,0,0,https://stats.ncaa.org/players/8894786
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8892840,18,Kyle Kimoto,Kyle,Kimoto,Sr.,INF,-,,RIGHT,RIGHT,"Mars, PA",Pine-Richland,1,0,https://stats.ncaa.org/players/8892840
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8897753,13,Jake Soricone,Jake,Soricone,Sr.,OF,-,,RIGHT,RIGHT,"Rochester, NY",Hilton,1,1,https://stats.ncaa.org/players/8897753
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8897765,17,Jacob Sherdel,Jacob,Sherdel,Jr.,P,-,,RIGHT,RIGHT,"Mcsherrystown, PA",Delone Catholic,0,0,https://stats.ncaa.org/players/8897765
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8897922,33,Maxwell Rogers,Maxwell,Rogers,Sr.,UT,-,,RIGHT,RIGHT,"Bellefonte, PA",Bellefonte,1,1,https://stats.ncaa.org/players/8897922
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8892840,18,Kyle Kimoto,Kyle,Kimoto,Sr.,INF,-,,RIGHT,RIGHT,"Mars, PA",Pine-Richland,3,1,https://stats.ncaa.org/players/8892840
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8897753,13,Jake Soricone,Jake,Soricone,Sr.,OF,-,,RIGHT,RIGHT,"Rochester, NY",Hilton,6,5,https://stats.ncaa.org/players/8897753
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8897765,17,Jacob Sherdel,Jacob,Sherdel,Jr.,P,-,,RIGHT,RIGHT,"Mcsherrystown, PA",Delone Catholic,3,2,https://stats.ncaa.org/players/8897765
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8897922,33,Maxwell Rogers,Maxwell,Rogers,Sr.,UT,-,,RIGHT,RIGHT,"Bellefonte, PA",Bellefonte,14,14,https://stats.ncaa.org/players/8897922
 2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8896700,28,Owen Dombrosky,Owen,Dombrosky,So.,UT,-,,RIGHT,RIGHT,"Hollidaysburg, PA",Bishop Guilfoyle,0,0,https://stats.ncaa.org/players/8896700
 2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8900168,5,Justin Smulik,Justin,Smulik,Sr.,INF,-,,RIGHT,LEFT,"Kittanning, PA",West Shamokin,0,0,https://stats.ncaa.org/players/8900168
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8899287,20,Alex Colwell,Alex,Colwell,Jr.,INF,-,,RIGHT,RIGHT,"Kittanning, PA",Armstrong,1,1,https://stats.ncaa.org/players/8899287
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8900967,34,Brayden Hageter,Brayden,Hageter,Sr.,P,-,,RIGHT,RIGHT,"Cabot, PA",Knoch,0,0,https://stats.ncaa.org/players/8900967
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8902267,22,Noah Avey,Noah,Avey,Jr.,C,-,,RIGHT,RIGHT,"Saint Petersburg, FL",Keswick Christian,1,1,https://stats.ncaa.org/players/8902267
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8899878,7,Joe Long,Joe,Long,Sr.,UT,-,,RIGHT,RIGHT,"Cuba, NY",Portville,1,0,https://stats.ncaa.org/players/8899878
-2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9112637,6,Seth Helgert,Seth,Helgert,So.,INF,5-10,,RIGHT,RIGHT,"Natrona Heights, PA",Highlands,1,1,https://stats.ncaa.org/players/9112637
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8899287,20,Alex Colwell,Alex,Colwell,Jr.,INF,-,,RIGHT,RIGHT,"Kittanning, PA",Armstrong,13,13,https://stats.ncaa.org/players/8899287
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8900967,34,Brayden Hageter,Brayden,Hageter,Sr.,P,-,,RIGHT,RIGHT,"Cabot, PA",Knoch,3,1,https://stats.ncaa.org/players/8900967
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8902267,22,Noah Avey,Noah,Avey,Jr.,C,-,,RIGHT,RIGHT,"Saint Petersburg, FL",Keswick Christian,8,8,https://stats.ncaa.org/players/8902267
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,8899878,7,Joe Long,Joe,Long,Sr.,UT,-,,RIGHT,RIGHT,"Cuba, NY",Portville,4,2,https://stats.ncaa.org/players/8899878
+2025,2024-25,MBA,3,III,AMCC,1315,Pitt.-Bradford,9112637,6,Seth Helgert,Seth,Helgert,So.,INF,5-10,,RIGHT,RIGHT,"Natrona Heights, PA",Highlands,11,11,https://stats.ncaa.org/players/9112637
