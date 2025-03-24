@@ -1,0 +1,85 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,1,top,"Giberti, M. flied out to lf (2-2 KBKBFF).",1,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,1,top,"Cooper, G. struck out swinging (0-2 FFS).",2,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,1,top,"Fang, C. struck out swinging (1-2 KSBS).",3,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,1,bot,"Taylor, R. struck out swinging (0-2 FKS).",4,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,1,bot,"Baker, D. lined out to cf (0-1 K).",5,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,1,bot,"Ahearn, Q. struck out looking (1-2 BKKK).",6,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,2,top,"Colasante, G singled through the left side (0-0).",7,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,2,top,"Kang, J. grounded into double play 2b to ss to 1b (1-2 BKS)3a Colasante, G out on the play.",8,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,2,top,"Lane, M. struck out looking (1-2 KFBK).",9,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,2,bot,"Collins, G. grounded out to p (2-2 BKBS).",10,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,2,bot,"Pokrovsky, J singled to right field (1-2 FBS).",11,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,2,bot,"Pokrovsky, J advanced to second on a wild pitch.",12,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,2,bot,"Spaventa, N. singled to shortstop (2-1 BKB).",13,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,2,bot,"Powell, M. reached on a fielder's choice (3-2 BFBKBF)3a Spaventa, N. advanced to second on an error by 2b3a Pokrovsky, J advanced to third.",14,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,2,bot,"Degnan, G. walked, RBI (3-1 BBKBB)3a Powell, M. advanced to second3a Spaventa, N. advanced to third3a Pokrovsky, J scored.",15,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,2,bot,"Chavez, C. flied out to cf, SF, RBI (3-2 BKBFFBF)3a Spaventa, N. scored, unearned.",16,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,2,bot,"Taylor, R. struck out looking (1-2 SBKK).",17,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,3,top,"Feller, S. flied out to cf (0-1 S).",18,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,3,top,"Rickheim, J. grounded out to 3b (0-2 KK).",19,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,3,top,"Shulman, T. grounded out to p (1-2 BKKF).",20,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,3,bot,"Baker, D. homered to right center, RBI (3-2 BBBKK).",21,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,3,bot,"Ahearn, Q. struck out swinging, out at first c to 1b (1-2 FBSS).",22,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,3,bot,"Collins, G. struck out swinging (3-2 SKFBBBFS).",23,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,3,bot,"Pokrovsky, J popped up to 2b (0-0).",24,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,4,top,"Giberti, M. singled up the middle (1-0 B).",25,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,4,top,"Cooper, G. popped up to ss (1-1 FB).",26,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,4,top,"Giberti, M. advanced to second on a wild pitch.",27,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,4,top,"Fang, C. struck out swinging (2-2 SBFBFS).",28,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,4,top,"Colasante, G struck out looking (1-2 BSSK).",29,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,4,bot,"Spaventa, N. walked (3-2 BFBKBB).",30,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,4,bot,"Powell, M. flied out to lf (2-2 KBBS).",31,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,4,bot,"Degnan, G. singled to third base, bunt (0-0)3a Spaventa, N. advanced to second.",32,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,4,bot,"Degnan, G. advanced to second on a wild pitch3a Spaventa, N. advanced to third on a wild pitch.",33,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,4,bot,"Chavez, C. flied out to cf, SF, RBI (2-0 BB)3a Degnan, G. advanced to third3a Spaventa, N. scored.",34,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,4,bot,"Taylor, R. struck out swinging (0-2 FFS).",35,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,5,top,"Kang, J. struck out looking (2-2 FFBBK).",36,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,5,top,"Lane, M. struck out looking (2-2 SSBBFFK).",37,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,5,top,"Feller, S. popped up to p (1-2 BSS).",38,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,5,bot,"Baker, D. grounded out to 2b (2-2 BKBF).",39,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,5,bot,"Ahearn, Q. struck out swinging (2-2 BSFBS).",40,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,5,bot,"Collins, G. struck out swinging, reached first on a wild pitch (1-2 SKFB).",41,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,5,bot,"Collins, G. advanced to second on a wild pitch.",42,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,5,bot,"Pokrovsky, J hit by pitch (2-2 KKBB).",43,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,5,bot,"Bergsma, C. to p for Pauley, T..",44,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,5,bot,"Pokrovsky, J advanced to second on an error by c3a Collins, G. advanced to third.",45,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,5,bot,"Spaventa, N. walked (3-2 KBBKBB).",46,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,5,bot,"Powell, M. struck out swinging (1-2 BFKS).",47,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,6,top,"Rickheim, J. flied out to rf (1-1 BK).",48,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,6,top,"Shulman, T. lined out to cf (0-0).",49,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,6,top,"Giberti, M. struck out looking (0-2 FKFK).",50,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,6,bot,"Degnan, G. grounded out to ss (0-1 F).",51,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,6,bot,"Chavez, C. singled to center field (3-1 BBBK).",52,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,6,bot,"Taylor, R. reached on a fielder's choice (1-2 FBF)3a Chavez, C. out at second ss to 2b.",53,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,6,bot,"Baker, D. doubled to right field (0-0)3a Taylor, R. advanced to third.",54,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,6,bot,"Ahearn, Q. walked (3-2 KSBBBB).",55,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,6,bot,"Collins, G. flied out to rf (0-0).",56,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,7,top,"Cooper, G. lined out to rf (1-0 B).",57,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,7,top,"Fang, C. homered to center field, RBI (0-2 KK).",58,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,7,top,"Colasante, G homered down the lf line, RBI (1-1 FB).",59,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,7,top,"Kang, J. flied out to lf (1-2 SKBFF).",60,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,7,top,"Lane, M. grounded out to p, bunt (1-0 B).",61,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,7,bot,"Pokrovsky, J grounded out to ss (3-2 BFBKB).",62,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,7,bot,"Spaventa, N. grounded out to 2b (2-2 FBBFF).",63,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,7,bot,"Powell, M. hit by pitch (0-1 K).",64,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,7,bot,"Degnan, G. flied out to cf (0-2 KSF).",65,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,8,top,"Katz, J. to p for Haggard, S..",66,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,8,top,"Feller, S. out at first 1b to p (0-0).",67,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,8,top,"Rickheim, J. struck out swinging (1-2 KFBS).",68,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,8,top,"Shulman, T. struck out looking (2-2 BFKBK).",69,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,8,bot,"Cleary, C. to p for Bergsma, C..",70,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,8,bot,"Chavez, C. walked (3-0 BBBB).",71,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,8,bot,"Taylor, R. grounded out to p, SAC, bunt (0-1 F)3a Chavez, C. advanced to second.",72,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,8,bot,"Baker, D. singled to right center, RBI (3-2 KBBBK)3a Chavez, C. scored.",73,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,8,bot,"Ahearn, Q. reached on a fielder's choice (2-2 BKBFF)3a Baker, D. advanced to second on an error by p.",74,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,8,bot,"Collins, G. singled to left field, RBI (2-1 BFB)3a Ahearn, Q. advanced to second3a Baker, D. scored, unearned.",75,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,8,bot,"Pokrovsky, J reached on a fielder's choice (0-0)3a Collins, G. out at second ss to 2b3a Ahearn, Q. advanced to third.",76,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,8,bot,"Spaventa, N. hit by pitch (0-0)3a Pokrovsky, J advanced to second.",77,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596716,8,bot,"Powell, M. grounded out to ss (0-0).",78,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,9,top,"Lybrook, W. pinch hit for Giberti, M..",79,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,9,top,"Lybrook, W. struck out looking (1-2 BFFK).",80,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,9,top,"Cooper, G. doubled down the lf line (0-0).",81,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,9,top,"Fang, C. doubled to left center, RBI (1-1 KB)3a Cooper, G. scored.",82,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,9,top,"Colasante, G flied out to rf (1-2 BKK)3a Fang, C. advanced to third.",83,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025
+6304709,596556,Harvard Crimson,596716,Penn Quakers,596556,9,top,"Kang, J. flied out to lf (0-2 FF).",84,2025-03-22T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",214,MBA,2025

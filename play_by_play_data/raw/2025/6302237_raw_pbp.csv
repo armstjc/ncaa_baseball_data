@@ -1,0 +1,106 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,1,top,Jackson Smit walked (3-2).,1,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,1,top,Cole Smith grounded out to ss (3-1): Jackson Smit advanced to second.,2,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,1,top,Mason Breide flied out to lf (3-1).,3,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,1,top,Bobby Atkins grounded out to 2b (2-2).,4,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,1,bot,"Bogenpohl,C. grounded out to 1b unassisted (2-1).",5,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,1,bot,"Rodriguez,N. walked (3-2).",6,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,1,bot,"McCutcheon,J doubled to left center (2-1): Rodriguez,N. advanced to third.",7,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,1,bot,"Gollert,T. grounded out to ss, RBI (1-1): McCutcheon,J advanced to third: Rodriguez,N. scored.",8,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,1,bot,"Knight,M. struck out looking (2-2).",9,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,2,top,Beau Durbin struck out swinging (2-2).,10,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,2,top,Nick Hosie grounded out to 3b (0-1).,11,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,2,top,Timmy O'Brie struck out swinging (2-2).,12,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,2,bot,"Sutherland,C flied out to cf (3-2).",13,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,2,bot,"Stewart,Z. singled to center field (0-0).",14,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,2,bot,"Epstein,T. grounded out to ss (3-2): Stewart,Z. advanced to second.",15,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,2,bot,"Bergman,C. singled to left field, RBI (1-0): Stewart,Z. scored.",16,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,2,bot,"Bogenpohl,C. struck out looking (2-2).",17,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,3,top,"Mitch Ball doubled to left center, ground-rule (2-2).",18,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,3,top,"Weston Ginge out at first p to 2b, SAC, bunt (0-0): Mitch Ball advanced to third.",19,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,3,top,Jackson Smit struck out swinging (2-2).,20,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,3,top,Cole Smith lined out to 3b (1-2).,21,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,3,bot,"Rodriguez,N. walked (3-2).",22,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,3,bot,"McCutcheon,J singled to right field (2-1): Rodriguez,N. advanced to third.",23,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,3,bot,"McCutcheon,J stole second.",24,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,3,bot,"Gollert,T. singled through the left side, RBI (2-2): McCutcheon,J advanced to third: Rodriguez,N. scored.",25,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,3,bot,"Knight,M. walked (3-2): Gollert,T. advanced to second.",26,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,3,bot,Matthew Kitz to p for Josh Vaughn.,27,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,3,bot,"Sutherland,C walked, RBI (3-1): Knight,M. advanced to second: Gollert,T. advanced to third: McCutcheon,J scored.",28,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,3,bot,"Stewart,Z. struck out swinging (1-2).",29,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,3,bot,"Epstein,T. grounded out to ss, RBI (0-1): Sutherland,C advanced to second: Knight,M. advanced to third: Gollert,T. scored.",30,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,3,bot,"Bergman,C. walked (3-2).",31,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,3,bot,"Bogenpohl,C. grounded out to 2b (2-1).",32,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,4,top,Mason Breide walked (3-0).,33,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,4,top,"Bobby Atkins reached on a throwing error by 2b, advanced to second on the error (1-1): Mason Breide advanced to second, advanced to third on the error.",34,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,4,top,"Beau Durbin grounded out to 2b, RBI (0-1): Bobby Atkins advanced to third: Mason Breide scored, unearned.",35,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,4,top,"Nick Hosie grounded out to 1b unassisted, RBI (0-1): Bobby Atkins scored, unearned.",36,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,4,top,Timmy O'Brie hit by pitch (0-1).,37,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,4,top,Mitch Ball doubled down the lf line (3-1): Timmy O'Brie advanced to third.,38,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,4,top,"Knight,M. to p.",39,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,4,top,"/  for Slater,O..",40,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,4,top,Weston Ginge struck out looking (0-2).,41,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,4,bot,"Rodriguez,N. flied out to cf (0-0).",42,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,4,bot,"McCutcheon,J homered to right field, RBI (0-0).",43,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,4,bot,"Gollert,T. walked (3-1).",44,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,4,bot,"Knight,M. popped up to ss (2-1).",45,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,4,bot,"Sutherland,C homered to left field, 2 RBI (0-2): Gollert,T. scored.",46,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,4,bot,"Stewart,Z. popped up to 2b (0-1).",47,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,5,top,Nick Flecken pinch hit for Jackson Smit.,48,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,5,top,Nick Flecken grounded out to 2b (3-1).,49,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,5,top,Cole Smith singled up the middle (2-1).,50,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,5,top,Mason Breide grounded out to 2b (3-2): Cole Smith advanced to second.,51,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,5,top,"Bobby Atkins struck out swinging, out at first c to 1b (1-2).",52,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,5,bot,Nick Flecken to ss.,53,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,5,bot,Brayden Mark to p for Matthew Kitz.,54,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,5,bot,"Epstein,T. grounded out to 2b (2-2).",55,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,5,bot,"Bergman,C. struck out looking (2-2).",56,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,5,bot,"Bogenpohl,C. struck out swinging (1-2).",57,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,6,top,Beau Durbin flied out to cf to left center (1-2).,58,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,6,top,Nick Hosie struck out looking (0-2).,59,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,6,top,Timmy O'Brie struck out looking (2-2).,60,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,6,bot,"Rodriguez,N. singled to left field (0-0).",61,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,6,bot,"McCutcheon,J flied out to cf (2-1).",62,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,6,bot,"Gollert,T. popped up to 3b (2-2).",63,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,6,bot,"Knight,M. struck out swinging (1-2).",64,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,7,top,Mitch Ball singled to left field (0-2).,65,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,7,top,Weston Ginge singled through the right side (2-1): Mitch Ball advanced to third.,66,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,7,top,Nick Flecken grounded into double play 2b to ss to 1b (0-0): Weston Ginge out on the play: Mitch Ball scored.,67,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,7,top,Cole Smith grounded out to ss (2-2).,68,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,7,bot,"Sutherland,C walked (3-2).",69,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,7,bot,"Stewart,Z. singled to right field (2-1): Sutherland,C advanced to second.",70,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,7,bot,"Epstein,T. struck out looking (3-2).",71,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,7,bot,"Bergman,C. flied out to cf to left center (1-2).",72,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,7,bot,"Bogenpohl,C. singled to left field, RBI (0-0): Stewart,Z. advanced to second: Sutherland,C scored.",73,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,7,bot,"Rodriguez,N. singled through the right side, RBI (0-0): Bogenpohl,C. advanced to second: Stewart,Z. scored.",74,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,7,bot,Ethan Price to p for Brayden Mark.,75,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,7,bot,"Bogenpohl,C. out at third c to 3b, caught stealing.",76,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,8,top,Mason Breide walked (3-2).,77,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,8,top,Bobby Atkins walked (3-1): Mason Breide advanced to second.,78,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,8,top,Beau Durbin singled to shortstop (0-1): Bobby Atkins advanced to second: Mason Breide advanced to third.,79,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,8,top,"Nick Hosie grounded out to 1b unassisted, RBI (0-2): Beau Durbin advanced to second: Bobby Atkins advanced to third: Mason Breide scored.",80,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,8,top,Timmy O'Brie walked (3-0).,81,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,8,top,"Knight,M. to dh.",82,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,8,top,"Ferguson,G. to p.",83,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,8,top,"Mitch Ball homered to left field, 4 RBI (0-0): Timmy O'Brie scored: Beau Durbin scored: Bobby Atkins scored.",84,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,8,top,Weston Ginge flied out to cf (2-2).,85,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,8,top,Nick Flecken reached on a fielding error by 3b (1-0).,86,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,8,top,Cole Smith reached on a fielder's choice to shortstop (2-2): Nick Flecken out at second ss to 2b.,87,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,8,bot,"McCutcheon,J homered to left field, RBI (3-1).",88,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,8,bot,"Gollert,T. walked (3-0).",89,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,8,bot,Jake Pemble to p for Ethan Price.,90,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,8,bot,"Knight,M. singled down the rf line (1-2): Gollert,T. advanced to second.",91,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,8,bot,"Sutherland,C walked (3-2): Knight,M. advanced to second: Gollert,T. advanced to third.",92,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,8,bot,"Stewart,Z. reached on a fielder's choice to third base (1-2): Sutherland,C advanced to second: Knight,M. advanced to third: Gollert,T. scored on a muffed throw by c, assist by 3b, unearned.",93,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,8,bot,"Epstein,T. hit by pitch, RBI (1-2): Stewart,Z. advanced to second: Sutherland,C advanced to third: Knight,M. scored.",94,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,8,bot,"Bergman,C. doubled down the lf line, 3 RBI (0-0): Epstein,T. scored: Stewart,Z. scored: Sutherland,C scored.",95,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,8,bot,"Bogenpohl,C. popped up to 3b (0-0).",96,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,8,bot,"Rodriguez,N. flied out to lf (0-1).",97,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596685,8,bot,"McCutcheon,J flied out to rf down the rf line (0-0).",98,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,9,top,"Stewart,D. to p for Ferguson,G..",99,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,9,top,Mason Breide walked (3-2).,100,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,9,top,Bobby Atkins singled up the middle (1-2): Mason Breide advanced to third.,101,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,9,top,Bobby Atkins advanced to second.,102,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,9,top,Beau Durbin struck out swinging (1-2).,103,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,9,top,Nick Hosie struck out swinging (2-2).,104,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025
+6302237,596498,Bradley Braves,596685,Missouri St. Bears,596498,9,top,Timmy O'Brie struck out swinging (2-2).,105,2025-03-22T00:00:00-04:00,"Hammons Field (Springfield, MO)",571,MBA,2025

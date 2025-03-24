@@ -1,0 +1,103 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,1,top,"Gibson, K. walked (3-1 FBBBB).",1,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,1,top,"Gibson, K. out at second c to 2b, caught stealing.",2,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,1,top,"Smith, N. struck out swinging (1-2 BSSFS).",3,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,1,top,"Pacella, D. grounded out to 2b (3-2 BBSBS).",4,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,1,bot,Daniel singled through the left side (1-0 B).,5,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,1,bot,Davis struck out swinging (0-2 FFS).,6,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,1,bot,"Daniel out at second c to 2b, caught stealing.",7,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,1,bot,Allen grounded out to 3b (2-2 FFBFB).,8,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,2,top,"Morris, J. walked (3-1 FBBBB).",9,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,2,top,"Bakes, B. walked (3-2 KBBFBB)3a Morris, J. advanced to second.",10,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,2,top,"Mastros, G. struck out looking (2-2 BFBSK).",11,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,2,top,"Contreras, D singled through the right side, RBI (0-1 F)3a Bakes, B. advanced to third3a Morris, J. scored.",12,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,2,top,"Outlaw, J. reached on a throwing error by ss, advanced to second, RBI (2-1 BBF)3a Contreras, D advanced to third3a Bakes, B. scored.",13,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,2,top,"Stulga, L. singled to left field, advanced to second on the throw, 2 RBI (2-2 BKBSFF)3a Outlaw, J. scored, unearned3a Contreras, D scored.",14,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,2,top,"Gibson, K. grounded out to p (2-1 FBB).",15,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,2,top,"Smith, N. walked (3-1 BBSBB).",16,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,2,top,Brock to p for Ruzicka.,17,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,2,top,"Pacella, D. walked (3-2 SFBBBB)3a Smith, N. advanced to second3a Stulga, L. advanced to third.",18,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,2,top,"Morris, J. flied out to cf (0-1 F).",19,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,2,bot,"Barton reached on an error by rf, advanced to third (3-2 FBFFBB).",20,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,2,bot,"Godsey tripled to right field, RBI (0-0)3a Barton scored, unearned.",21,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,2,bot,Sprockett struck out looking (1-2 BFFK).,22,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,2,bot,"Maddox out at first p to 2b to 1b, RBI (2-1 BKB)3a Godsey scored, unearned.",23,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,2,bot,Lawrence grounded out to p unassisted (1-2 SBF).,24,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,3,top,"Bakes, B. struck out looking (2-2 SBFBK).",25,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,3,top,"Mastros, G. lined out to lf (1-1 FB).",26,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,3,top,"Contreras, D grounded out to 3b (2-2 BKFB).",27,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,3,bot,Lareau walked (3-2 KBBBSB).,28,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,3,bot,Daniel singled to right field (0-0)3a Lareau advanced to third.,29,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,3,bot,Daniel stole second.,30,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,3,bot,Davis struck out swinging (3-2 BSBFBS).,31,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,3,bot,"Allen homered to right field, 3 RBI (0-0)3a Daniel scored3a Lareau scored.",32,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,3,bot,Barton struck out swinging (1-2 FKBFFS).,33,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,3,bot,Godsey fouled out to 2b (0-0).,34,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,4,top,"Outlaw, J. walked (3-2 KBFBBB).",35,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,4,top,"Stulga, L. popped up to ss (0-0).",36,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,4,top,"Gibson, K. grounded into double play 2b to ss to 1b (2-2 BBKK)3a Outlaw, J. out on the play.",37,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,4,bot,Sprockett singled through the left side (1-1 FB).,38,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,4,bot,Maddox flied out to lf (2-2 BFFB).,39,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,4,bot,Lawrence singled to right field (2-1 FBB)3a Sprockett advanced to second.,40,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,4,bot,"Lareau singled to left field, RBI (0-0)3a Lawrence advanced to second3a Sprockett scored.",41,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,4,bot,"Daniel homered to right field, 3 RBI (0-0)3a Lareau scored3a Lawrence scored.",42,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,4,bot,Davis grounded out to 3b (0-2 FF).,43,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,4,bot,Allen struck out swinging (1-2 FKBFS).,44,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,5,top,"Smith, N. struck out swinging (0-2 KSS).",45,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,5,top,"Pacella, D. walked (3-0 BBBB).",46,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,5,top,"Morris, J. walked (3-2 BFBFBB)3a Pacella, D. advanced to second.",47,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,5,top,"Bakes, B. reached on a fielder's choice (0-0)3a Morris, J. out at second 2b to ss3a Pacella, D. advanced to third.",48,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,5,top,"Mastros, G. flied out to cf (0-0).",49,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,5,bot,"Berger, L. to p for Perry, T..",50,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,5,bot,Barton grounded out to 2b (0-0).,51,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,5,bot,Godsey doubled down the lf line (3-1 KBBB).,52,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,5,bot,Sprockett singled to second base (1-1 FB)3a Godsey advanced to third.,53,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,5,bot,"Maddox singled to center field, RBI (3-1 BBKB)3a Sprockett advanced to second3a Godsey scored.",54,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,5,bot,Maddox stole second3a Sprockett stole third.,55,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,5,bot,Lawrence struck out swinging (2-2 BFFBS).,56,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,5,bot,Lareau struck out swinging (0-2 SKS).,57,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,6,top,Perry to p for Brock.,58,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,6,top,"Contreras, D singled to center field (1-1 FB).",59,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,6,top,"Outlaw, J. struck out swinging (0-2 KKS).",60,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,6,top,"Stulga, L. struck out swinging (1-2 SKBS).",61,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,6,top,"Gibson, K. out at first p to 2b to 1b (1-2 KFB).",62,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,6,bot,"Conklin, M. to p for Berger, L..",63,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,6,bot,Daniel flied out to rf (0-1 K).,64,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,6,bot,Davis walked (3-2 FFBFBBB).,65,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,6,bot,Allen walked (3-0 BBBB)3a Davis advanced to second.,66,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,6,bot,Barton lined out to lf (0-0).,67,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,6,bot,Allen stole second3a Davis stole third.,68,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,6,bot,Godsey grounded out to ss (1-2 KSB).,69,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,7,top,"Machej, E. pinch hit.",70,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,7,top,"Machej, E. to 2b for Smith, N..",71,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,7,top,"Machej, E. struck out swinging (2-2 SKBBS).",72,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,7,top,"Pacella, D. homered to right field, RBI (0-1 K).",73,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,7,top,"Morris, J. walked (3-1 BBKBB).",74,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,7,top,"Bakes, B. reached on a fielder's choice (0-2 SK)3a Morris, J. out at second 3b to 2b.",75,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,7,top,"Bakes, B. advanced to second on a passed ball.",76,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,7,top,"Mastros, G. doubled to left center, RBI (2-2 KBFFB)3a Bakes, B. scored, unearned.",77,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,7,top,"Mastros, G. out at third c to 3b, caught stealing.",78,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,7,bot,"Finn, J. to p for Conklin, M..",79,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,7,bot,"Sprockett homered to right field, RBI (2-1 BFB).",80,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,7,bot,Maddox struck out swinging (3-2 BFKBBS).,81,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,7,bot,Lawrence walked (3-2 BKFBBB).,82,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,7,bot,Galason pinch ran for Lawrence.,83,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,7,bot,Lareau flied out to rf (1-0 B).,84,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,7,bot,Galason advanced to second on a wild pitch.,85,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,7,bot,Daniel flied out to rf (1-0 B).,86,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,8,top,Marsh to p for Perry.,87,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,8,top,"Contreras, D singled to catcher (1-0 B).",88,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,8,top,"Outlaw, J. grounded out to p (0-2 SK)3a Contreras, D advanced to second.",89,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,8,top,"Barry, N. pinch hit for Stulga, L..",90,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,8,top,"Barry, N. grounded out to 3b (2-2 BKKB).",91,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,8,top,"Gibson, K. struck out swinging to catcher (2-2 KBBFS).",92,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,8,bot,"Barry, N. to cf.",93,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,8,bot,"Schriefer, T to p for Finn, J..",94,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,8,bot,Davis struck out swinging (1-2 BKFS).,95,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,8,bot,Allen walked (3-2 SBBBKB).,96,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,8,bot,Barton singled up the middle (2-0 BB)3a Allen advanced to second.,97,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,8,bot,Godsey popped up to 1b (1-2 FBF).,98,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596470,8,bot,Sprockett popped up to 1b (2-2 FFBB).,99,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,9,top,"Machej, E. grounded out to ss (0-2 KS).",100,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,9,top,"Pacella, D. singled to left field (0-0).",101,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025
+6302228,596562,Illinois St. Redbirds,596470,Belmont Bruins,596562,9,top,"Morris, J. grounded into double play ss to 2b to 1b (2-1 KBB)3a Pacella, D. out on the play.",102,2025-03-22T00:00:00-04:00,"E.S. Rose Park (Nashville, TN)",205,MBA,2025

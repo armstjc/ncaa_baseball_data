@@ -1,0 +1,105 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,1,top,T. Schoenfel grounded out to ss.,1,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,1,top,J. Spivey flied out to cf.,2,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,1,top,"C. McCarthy struck out swinging, out at first c unassisted.",3,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,1,bot,J. Yoxall singled to third base.,4,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,1,bot,G. Sullivan reached on a fielder's choice3a J. Yoxall out at second ss to 2b.,5,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,1,bot,G. Sullivan advanced to second on a wild pitch.,6,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,1,bot,D. Swift walked3a G. Sullivan did not advance.,7,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,1,bot,B. Biggane struck out looking3a D. Swift did not advance3a G. Sullivan did not advance.,8,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,1,bot,B. Genser walked3a D. Swift advanced to second3a G. Sullivan advanced to third.,9,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,1,bot,G. Sullivan out at home c to p.,10,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,2,top,Z. Moore doubled to right center.,11,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,2,top,M. Soqui popped up to 3b3a Z. Moore did not advance.,12,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,2,top,R. Tubbs lined out to cf3a Z. Moore advanced to third.,13,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,2,top,L. Hernandez struck out swinging3a Z. Moore did not advance.,14,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,2,bot,L. Yardley lined out to cf.,15,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,2,bot,K. Ryan struck out looking.,16,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,2,bot,J. Margiloff walked.,17,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,2,bot,J. Margiloff stole second.,18,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,2,bot,"N. Bibbo singled through the left side, RBI3a J. Margiloff scored.",19,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,2,bot,N. Bibbo stole second.,20,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,2,bot,J. Yoxall walked3a N. Bibbo did not advance.,21,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,2,bot,G. Sullivan struck out swinging3a J. Yoxall did not advance3a N. Bibbo did not advance.,22,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,3,top,J. Dwyer flied out to cf.,23,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,3,top,O. Malone struck out swinging.,24,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,3,top,T. Schoenfel grounded out to 3b.,25,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,3,bot,D. Swift singled to third base.,26,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,3,bot,B. Biggane lined out to cf3a D. Swift did not advance.,27,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,3,bot,B. Genser grounded into double play ss to 2b to 1b3a D. Swift out on the play.,28,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,4,top,J. Spivey walked.,29,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,4,top,C. McCarthy struck out swinging3a J. Spivey did not advance.,30,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,4,top,"Z. Moore singled to right center, advanced to second on a throwing error by rf3a J. Spivey advanced to third.",31,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,4,top,M. Soqui flied out to rf3a Z. Moore did not advance3a J. Spivey did not advance.,32,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,4,top,R. Tubbs grounded out to 3b3a Z. Moore did not advance3a J. Spivey did not advance.,33,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,4,bot,L. Yardley singled to left field.,34,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,4,bot,L. Yardley advanced to second on a wild pitch.,35,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,4,bot,K. Ryan walked3a L. Yardley did not advance.,36,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,4,bot,C. Rubin to p for C. Foster.,37,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,4,bot,"K. Ryan advanced to second3a L. Yardley out at third p to 3b, caught stealing.",38,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,4,bot,J. Margiloff flied out to cf3a K. Ryan did not advance.,39,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,4,bot,N. Bibbo fouled out to rf3a K. Ryan did not advance.,40,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,5,top,L. Hernandez reached first on a fielding error by ss.,41,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,5,top,L. Hernandez advanced to second on a passed ball.,42,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,5,top,"J. Dwyer reached first on a throwing error by 2b3a L. Hernandez scored, unearned.",43,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,5,top,"O. Malone out at first 1b to 2b, SAC, bunt3a J. Dwyer advanced to second.",44,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,5,top,T. Schoenfel grounded out to 2b3a J. Dwyer advanced to third.,45,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,5,top,"J. Spivey singled through the right side, RBI3a J. Dwyer scored, unearned.",46,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,5,top,C. McCarthy singled up the middle3a J. Spivey advanced to third.,47,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,5,top,"C. McCarthy stole second3a J. Spivey stole home, unearned.",48,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,5,top,Z. Moore popped up to 2b3a C. McCarthy did not advance.,49,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,5,bot,"J. Yoxall reached first on a fielding error by 1b, bunt, assist by p.",50,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,5,bot,G. Sullivan singled through the left side3a J. Yoxall advanced to second.,51,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,5,bot,D. Swift fouled out to 1b3a G. Sullivan did not advance3a J. Yoxall did not advance.,52,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,5,bot,B. Biggane struck out swinging3a G. Sullivan did not advance3a J. Yoxall did not advance.,53,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,5,bot,B. Genser walked3a G. Sullivan advanced to second3a J. Yoxall advanced to third.,54,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,5,bot,L. Yardley lined out to cf3a B. Genser did not advance3a G. Sullivan did not advance3a J. Yoxall did not advance.,55,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,6,top,M. Soqui flied out to lf.,56,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,6,top,R. Tubbs singled to shortstop.,57,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,6,top,L. Hernandez grounded out to 3b3a R. Tubbs advanced to second.,58,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,6,top,"J. Dwyer singled to right center, RBI3a R. Tubbs scored.",59,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,6,top,O. Malone grounded out to ss3a J. Dwyer did not advance.,60,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,6,bot,K. Ryan singled to center field.,61,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,6,bot,J. Margiloff grounded into double play ss to 2b to 1b3a K. Ryan out on the play.,62,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,6,bot,N. Bibbo struck out swinging.,63,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,7,top,K. Carlisle to p for D. Sarabia.,64,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,7,top,T. Schoenfel walked.,65,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,7,top,J. Spivey reached on a fielder's choice3a T. Schoenfel out at second 3b to 2b.,66,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,7,top,C. McCarthy fouled out to lf3a J. Spivey did not advance.,67,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,7,top,Z. Moore singled to center field3a J. Spivey advanced to second.,68,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,7,top,"M. Soqui singled to left field, RBI3a Z. Moore advanced to second3a J. Spivey scored.",69,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,7,top,M. Soqui stole second3a Z. Moore stole third.,70,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,7,top,"M. Soqui advanced to third3a Z. Moore scored on a passed ball, unearned.",71,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,7,top,R. Tubbs out at first 1b to p3a M. Soqui did not advance.,72,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,7,bot,J. Yoxall struck out looking.,73,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,7,bot,G. Sullivan grounded out to ss.,74,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,7,bot,D. Swift grounded out to 3b.,75,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,8,top,L. Hernandez struck out looking.,76,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,8,top,J. Dwyer singled through the left side.,77,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,8,top,O. Malone lined out to lf3a J. Dwyer did not advance.,78,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,8,top,J. Dwyer stole second.,79,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,8,top,T. Schoenfel walked3a J. Dwyer did not advance.,80,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,8,top,C. Bushley to p for K. Carlisle.,81,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,8,top,T. Schoenfel stole second3a J. Dwyer stole third.,82,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,8,top,J. Spivey grounded out to 3b3a T. Schoenfel did not advance3a J. Dwyer did not advance.,83,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,8,bot,L. Yoon pinch hit for B. Biggane.,84,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,8,bot,L. Yoon hit by pitch.,85,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,8,bot,B. Genser grounded out to p3a L. Yoon advanced to second.,86,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,8,bot,L. Yardley struck out swinging3a L. Yoon did not advance.,87,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,8,bot,K. Ryan lined out to ss3a L. Yoon did not advance.,88,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,9,top,C. McCarthy lined out to cf.,89,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,9,top,Z. Moore grounded out to 3b.,90,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,9,top,M. Soqui singled to first base.,91,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,9,top,E. Moore pinch ran for M. Soqui.,92,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,9,top,R. Tubbs reached first on a fielding error by 3b3a E. Moore advanced to second.,93,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597329,9,top,"L. Hernandez singled to left field, RBI3a R. Tubbs advanced to second, out at third lf to 3b to 2b3a E. Moore scored, unearned.",94,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,9,bot,J. Moore to p for C. Rubin.,95,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,9,bot,H. Lee to c for J. Dwyer.,96,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,9,bot,J. Margiloff lined out to cf.,97,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,9,bot,N. Bibbo struck out swinging.,98,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,9,bot,J. Yoxall hit by pitch.,99,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,9,bot,J. Yoxall stole second.,100,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,9,bot,G. Sullivan walked3a J. Yoxall did not advance.,101,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,9,bot,"D. Swift doubled to center field, RBI3a G. Sullivan advanced to third3a J. Yoxall scored.",102,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,9,bot,L. Yoon walked3a D. Swift did not advance3a G. Sullivan did not advance.,103,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
+6355768,597329,MIT Engineers,597223,Bates Bobcats,597223,9,bot,B. Genser struck out looking3a L. Yoon did not advance3a D. Swift did not advance3a G. Sullivan did not advance.,104,2025-03-22T00:00:00-04:00,"Leahey Field (Lewiston, ME)",250,MBA,2025
