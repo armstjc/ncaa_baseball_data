@@ -1,0 +1,93 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,1,top,J. Carpenter flied out to lf (0-0).,1,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,1,top,A. Mascuilli grounded out to 3b (3-2 KBBKFB).,2,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,1,top,L. Molessa reached on a fielding error by 3b (0-2 SK).,3,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,1,top,M. Best reached on a throwing error by 3b (1-0 B)3a L. Molessa advanced to second.,4,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,1,top,D. Orr grounded out to 3b (0-1 K).,5,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,1,bot,Campbell grounded out to ss (0-1 F).,6,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,1,bot,Sallie flied out to cf (0-2 KF).,7,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,1,bot,"Ortiz reached on a dropped fly by lf, advanced to second (0-1 K).",8,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,1,bot,Eppinger grounded out to 3b (2-1 KBB).,9,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,2,top,D. Wyatt fouled out to 3b (1-0 B).,10,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,2,top,D. Paris grounded out to 3b (0-1 K).,11,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,2,top,N. Pratt singled up the middle (0-2 FK).,12,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,2,top,S. Droz grounded out to p (1-2 KBKF).,13,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,2,bot,Wolf reached on a fielding error by 2b (0-1 K).,14,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,2,bot,Doyle singled through the left side (0-0)3a Wolf advanced to second.,15,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,2,bot,"Francis out at first p to 2b, SAC (0-1 F)3a Doyle advanced to second3a Wolf advanced to third.",16,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,2,bot,"Thomas grounded out to 2b, RBI (1-2 KBKF)3a Doyle advanced to third3a Wolf scored, unearned.",17,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,2,bot,Caballero struck out swinging (1-2 BFFS).,18,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,3,top,J. Carpenter doubled to right center (2-2 KBFB).,19,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,3,top,A. Mascuilli flied out to rf (1-2 KBS)3a J. Carpenter advanced to third.,20,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,3,top,"L. Molessa homered to left field, 2 RBI (2-1 BBS)3a J. Carpenter scored.",21,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,3,top,M. Best popped up to 3b (2-0 BB).,22,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,3,top,"D. Orr homered to left field, RBI (3-1 BBBK).",23,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,3,top,D. Wyatt grounded out to 3b (0-1 K).,24,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,3,bot,Campbell doubled down the rf line (2-2 KBFBF).,25,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,3,bot,"Sallie singled through the right side, RBI (1-2 BKK)3a Campbell scored.",26,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,3,bot,Ortiz flied out to lf (0-1 K).,27,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,3,bot,"Eppinger singled to right field, advanced to third on a fielding error by rf (0-0)3a Sallie scored, unearned.",28,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,3,bot,E. Ianni to p for Z. Robinson.,29,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,3,bot,"Wolf flied out to cf, SF, RBI (0-0)3a Eppinger scored, unearned.",30,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,3,bot,Doyle grounded out to c (0-1 F).,31,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,4,top,D. Paris flied out to rf (0-1 K).,32,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,4,top,N. Pratt grounded out to 3b (1-2 KBS).,33,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,4,top,S. Droz struck out swinging (3-2 KBBBKS).,34,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,4,bot,Francis walked (3-1 BFBBB).,35,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,4,bot,Thomas walked (3-2 BKKBBFFB)3a Francis advanced to second.,36,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,4,bot,"Caballero doubled down the lf line, RBI (1-2 FBF)3a Thomas advanced to third3a Francis scored.",37,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,4,bot,A. Gonzalez to p for E. Ianni.,38,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,4,bot,"Campbell reached on an error by 3b, RBI (0-2 FF)3a Thomas scored, unearned.",39,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,4,bot,"Sallie out at first 1b to 2b, SAC (2-1 KBB)3a Campbell advanced to second3a Caballero advanced to third.",40,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,4,bot,"Ortiz reached on a fielder's choice to shortstop, RBI (0-0)3a Campbell advanced to third3a Caballero scored.",41,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,4,bot,Eppinger struck out swinging (1-2 SBFS).,42,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,4,bot,Wolf walked (3-0 BBBB)3a Ortiz advanced to second.,43,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,4,bot,"Doyle walked, RBI (3-2 BBKKBB)3a Wolf advanced to second3a Ortiz advanced to third3a Campbell scored, unearned.",44,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,4,bot,"Francis doubled down the lf line, 3 RBI (0-1 K)3a Doyle scored, unearned3a Wolf scored, unearned3a Ortiz scored, unearned.",45,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,4,bot,Thomas flied out to lf (3-1 BKBB).,46,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,5,top,J. Carpenter flied out to cf (0-1 K).,47,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,5,top,A. Mascuilli struck out swinging (1-2 BKKS).,48,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,5,top,L. Molessa struck out swinging (2-2 FSBBS).,49,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,5,bot,N. Remy to p for A. Gonzalez.,50,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,5,bot,A. Mascuilli to 3b.,51,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,5,bot,K. Eddington to ss for D. Wyatt.,52,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,5,bot,Caballero popped up to 2b (1-1 BK).,53,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,5,bot,Campbell grounded out to ss (0-2 KF).,54,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,5,bot,Sallie struck out looking (1-2 SBFK).,55,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,6,top,M. Best struck out looking (2-2 BBKKK).,56,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,6,top,D. Orr struck out swinging (2-2 KBKBS).,57,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,6,top,K. Eddington flied out to rf (0-0).,58,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,6,bot,Ortiz flied out to cf (1-0 B).,59,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,6,bot,Eppinger popped up to 2b (1-2 BSK).,60,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,6,bot,Wolf grounded out to ss (2-0 BB).,61,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,7,top,D. Paris grounded out to ss (0-1 K).,62,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,7,top,N. Pratt grounded out to 2b (2-2 KSBB).,63,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,7,top,L. Buscaglia pinch hit for S. Droz.,64,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,7,top,L. Buscaglia struck out swinging (0-2 KKFS).,65,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,7,bot,L. Buscaglia to 2b.,66,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,7,bot,Doyle doubled to center field (1-1 BF).,67,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,7,bot,Stead pinch ran for Doyle.,68,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,7,bot,Francis struck out looking (0-2 FFK).,69,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,7,bot,Thomas grounded out to p (1-2 BKK)3a Stead advanced to third.,70,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,7,bot,Caballero flied out to lf (0-0).,71,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,8,top,Hart to rf for Eppinger.,72,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,8,top,Stead to 3b.,73,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,8,top,DeSchryver to p for Peterson.,74,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,8,top,J. Carpenter struck out looking (3-2 BFBSFBK).,75,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,8,top,A. Mascuilli walked (3-0 BBBB).,76,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,8,top,L. Molessa walked (3-0 BBBB)3a A. Mascuilli advanced to second.,77,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,8,top,M. Best struck out looking (1-2 SKBK).,78,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,8,top,D. Orr walked (3-2 BBBKSB)3a L. Molessa advanced to second3a A. Mascuilli advanced to third.,79,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,8,top,K. Eddington struck out swinging (1-2 KFBS).,80,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,8,bot,S. Bell to p for N. Remy.,81,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,8,bot,M. Joseph to c for D. Paris.,82,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,8,bot,Campbell flied out to lf (0-1 K).,83,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,8,bot,Sallie struck out swinging (3-2 BKBKBFS).,84,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,8,bot,Ortiz doubled to left field (0-0).,85,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596621,8,bot,Hart flied out to lf (1-2 SFB).,86,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,9,top,M. Joseph walked (3-2 BSBBKB).,87,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,9,top,N. Pratt grounded into double play ss to 2b to 1b (0-1 S)3a M. Joseph out on the play.,88,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,9,top,C. Salazar pinch hit for L. Buscaglia.,89,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,9,top,C. Salazar walked (3-2 BBKKBB).,90,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,9,top,N. Kutney pinch hit for J. Carpenter.,91,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025
+6314125,596592,UMBC Retrievers,596621,NJIT Highlanders,596592,9,top,N. Kutney struck out swinging (2-2 FSBBS).,92,2025-03-23T00:00:00-04:00,"Newark, NJ",94,MBA,2025

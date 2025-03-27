@@ -1,0 +1,95 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,1,top,Brady Groves singled through the right side.,1,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,1,top,"Brady Groves out at first p to 1b, picked off.",2,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,1,top,Jeffery Chen struck out looking.,3,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,1,top,Kyle Baxt flied out to lf.,4,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,1,bot,"Hartman, Quinn flied out to rf.",5,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,1,bot,"Fishel, Jack flied out to rf.",6,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,1,bot,"Hu, Mark lined out to ss.",7,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,2,top,Samuel Labrecque singled to right field.,8,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,2,top,Jack Braddell walked3a Samuel Labrecque advanced to second.,9,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,2,top,Zach Masnikoff hit by pitch3a Jack Braddell advanced to second3a Samuel Labrecque advanced to third.,10,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,2,top,Max Bernstein struck out swinging.,11,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,2,top,Caden Rosenbaugh struck out looking.,12,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,2,top,"Aj Senga reached first on a throwing error by 3b, advanced to second on the throw3a Zach Masnikoff advanced to third3a Jack Braddell scored, unearned3a Samuel Labrecque scored, unearned.",13,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,2,top,"Brady Groves reached first on a throwing error by ss3a Aj Senga out at third 1b to 3b3a Zach Masnikoff scored, unearned.",14,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,2,bot,"Bernhardt, Jack grounded out to p, bunt.",15,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,2,bot,"Kristufek, Thorsen grounded out to p unassisted.",16,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,2,bot,"Alderete, Levi singled to left center.",17,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,2,bot,"Choudhari, Sayuj flied out to rf.",18,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,3,top,Jeffery Chen walked.,19,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,3,top,Kyle Baxt flied out to cf.,20,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,3,top,Samuel Labrecque singled down the rf line3a Jeffery Chen advanced to second.,21,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,3,top,Jack Braddell popped up to 1b.,22,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,3,top,"Zach Masnikoff tripled to center field, 2 RBI3a Samuel Labrecque scored3a Jeffery Chen scored.",23,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,3,top,Max Bernstein grounded out to 3b.,24,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,3,bot,"Minatel, William grounded out to 2b.",25,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,3,bot,"Flaherty, Brendan tripled to right center.",26,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,3,bot,"Hartman, Quinn doubled down the rf line, RBI3a Flaherty, Brendan scored.",27,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,3,bot,"Fishel, Jack reached on a fielder's choice to shortstop3a Hartman, Quinn out at third ss to 3b to ss.",28,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,3,bot,"Hu, Mark struck out swinging.",29,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,4,top,"Hartman, Quinn to p.",30,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,4,top,"Speer, Edward to c for Bernhardt, Jack.",31,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,4,top,"Kristufek, Thorsen to rf.",32,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,4,top,"Alderete, Levi to lf.",33,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,4,top,"Knuf, Garrett to 2b for Choudhari, Sayuj.",34,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,4,top,"Flaherty, Brendan to 1b.",35,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,4,top,"/  for Favretto, Lucas.",36,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,4,top,Caden Rosenbaugh walked.,37,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,4,top,"Aj Senga singled to second base3a Caden Rosenbaugh out at second 2b unassisted, interference.",38,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,4,top,Aj Senga advanced to second on a wild pitch.,39,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,4,top,Brady Groves out at first ss to 3b.,40,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,4,top,Aj Senga stole third.,41,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,4,top,Aj Senga scored on a wild pitch.,42,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,4,top,Jeffery Chen reached first on a fielding error by 1b down the rf line.,43,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,4,top,Kyle Baxt popped up to 2b.,44,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,4,bot,"Speer, Edward struck out swinging, reached first on a passed ball.",45,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,4,bot,"Kristufek, Thorsen reached on a fielder's choice to third base3a Speer, Edward out at second 3b to 2b.",46,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,4,bot,"Alderete, Levi struck out looking.",47,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,4,bot,"Knuf, Garrett tripled to right center, RBI3a Kristufek, Thorsen scored.",48,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,4,bot,"Minatel, William struck out swinging, out at first c to 1b.",49,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,5,top,Samuel Labrecque struck out swinging.,50,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,5,top,Jack Braddell walked.,51,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,5,top,Zach Masnikoff popped up to rf.,52,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,5,top,Max Bernstein singled through the right side3a Jack Braddell advanced to second.,53,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,5,top,Jack Braddell stole third.,54,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,5,top,Caden Rosenbaugh reached on a fielder's choice to third base3a Max Bernstein out at second 3b to 2b.,55,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,5,bot,Matthew Ruttkay to 1b for Kyle Baxt.,56,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,5,bot,"Flaherty, Brendan singled to shortstop.",57,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,5,bot,"Hartman, Quinn struck out swinging.",58,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,5,bot,"Fishel, Jack popped up to 1b.",59,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,5,bot,"Hu, Mark singled through the right side3a Flaherty, Brendan advanced to second.",60,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,5,bot,"Speer, Edward walked3a Hu, Mark advanced to second3a Flaherty, Brendan advanced to third.",61,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,5,bot,"Kristufek, Thorsen hit by pitch, RBI3a Speer, Edward advanced to second3a Hu, Mark advanced to third3a Flaherty, Brendan scored.",62,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,5,bot,"Alderete, Levi reached on a fielder's choice to third base3a Kristufek, Thorsen advanced to second3a Speer, Edward out at third 3b unassisted.",63,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,6,top,"Hartman, Quinn to lf.",64,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,6,top,"Gabbita, Varun to p for Alderete, Levi.",65,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,6,top,Aj Senga grounded out to 1b unassisted.,66,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,6,top,Brady Groves singled up the middle.,67,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,6,top,Brady Groves stole second.,68,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,6,top,Jeffery Chen reached on a fielder's choice to shortstop3a Brady Groves advanced to third on a throwing error by ss.,69,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,6,top,"Matthew Ruttkay reached on a fielder's choice to shortstop, RBI3a Jeffery Chen advanced to second, advanced to third on a throwing error by ss3a Brady Groves scored, unearned.",70,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,6,top,"Samuel Labrecque reached on a fielder's choice to third base, RBI3a Matthew Ruttkay advanced to second on a throwing error by 3b, advanced to third3a Jeffery Chen scored, unearned.",71,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,6,top,Jack Braddell grounded out to p3a Samuel Labrecque advanced to second3a Matthew Ruttkay did not advance.,72,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,6,top,Zach Masnikoff lined out to ss.,73,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,6,bot,"Knuf, Garrett singled to center field.",74,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,6,bot,"Alderete, Jacob pinch hit for Minatel, William.",75,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,6,bot,"Alderete, Jacob lined out to 2b.",76,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,6,bot,"Knuf, Garrett out at second c to 2b, caught stealing.",77,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,6,bot,"Flaherty, Brendan doubled to right field.",78,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,6,bot,"Hartman, Quinn struck out swinging.",79,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,7,top,"Hartman, Quinn to 1b.",80,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,7,top,"Alderete, Jacob to lf.",81,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,7,top,"Flaherty, Brendan to ss.",82,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,7,top,Max Bernstein struck out looking.,83,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,7,top,Caden Rosenbaugh flied out to lf.,84,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,596990,7,top,Aj Senga lined out to 3b.,85,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,7,bot,Zachary Ritts to p for Warner Gearhart.,86,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,7,bot,"Fishel, Jack singled, advanced to second on a throwing error by ss.",87,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,7,bot,"Hu, Mark hit by pitch.",88,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,7,bot,"Speer, Edward grounded into double play ss to 2b to 1b3a Hu, Mark out on the play3a Fishel, Jack advanced to third.",89,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,7,bot,"Kristufek, Thorsen hit by pitch.",90,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,7,bot,"Gabbita, Varun singled through the right side, RBI3a Kristufek, Thorsen advanced to second3a Fishel, Jack scored, unearned.",91,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,7,bot,"Gabbita, Varun advanced to second3a Kristufek, Thorsen advanced to third on a wild pitch.",92,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,7,bot,"Knuf, Garrett hit by pitch.",93,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025
+6350946,596990,Oberlin Yeomen,597236,Caltech Beavers,597236,7,bot,"Alderete, Jacob struck out looking.",94,2025-03-24T00:00:00-04:00,"North Field (Pasadena, CA)",49,MBA,2025

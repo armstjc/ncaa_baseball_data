@@ -1,0 +1,93 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,1,top,M. Eckardt walked.,1,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,1,top,M. Eckardt stole second.,2,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,1,top,T. Johnson grounded out to 3b.,3,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,1,top,J. Brosius grounded out to 2b3a M. Eckardt advanced to third.,4,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,1,top,"J. Allison singled through the left side, RBI3a M. Eckardt scored.",5,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,1,top,"J. Allison out at first c to 1b, picked off.",6,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,1,bot,T. Dent doubled to left center.,7,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,1,bot,A. Elfering grounded out to 3b.,8,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,1,bot,T. Dent advanced to third on a wild pitch.,9,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,1,bot,W. Sullivan struck out swinging.,10,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,1,bot,C. Pratt flied out to lf.,11,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,2,top,A. Gomez singled to center field.,12,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,2,top,J. Wille hit by pitch3a A. Gomez advanced to second.,13,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,2,top,J. Wille advanced to second3a A. Gomez advanced to third on a passed ball.,14,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,2,top,R. Thoreson struck out looking.,15,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,2,top,E. Devally struck out looking.,16,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,2,top,R. Brosius flied out to lf.,17,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,2,bot,J. Cekander walked.,18,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,2,bot,Z. Ingram struck out swinging.,19,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,2,bot,M. O'Neal singled up the middle3a J. Cekander advanced to second.,20,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,2,bot,G. Sherlock struck out swinging.,21,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,2,bot,"D. Maller singled to left center, advanced to second on the throw, 2 RBI3a M. O'Neal scored3a J. Cekander scored.",22,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,2,bot,T. Dent fouled out to 1b.,23,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,3,top,M. Eckardt doubled to left field.,24,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,3,top,"T. Johnson singled to third base, bunt3a M. Eckardt advanced to third.",25,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,3,top,T. Johnson stole second.,26,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,3,top,"J. Brosius flied out to lf3a T. Johnson advanced to third3a M. Eckardt scored on an error by lf, unearned.",27,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,3,top,J. Allison struck out swinging.,28,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,3,top,A. Gomez flied out to lf.,29,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,3,bot,A. Elfering struck out swinging.,30,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,3,bot,W. Sullivan struck out looking.,31,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,3,bot,C. Pratt singled to left field.,32,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,3,bot,J. Cekander singled through the right side3a C. Pratt advanced to second.,33,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,3,bot,Z. Ingram struck out looking.,34,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,4,top,J. Wille flied out to rf.,35,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,4,top,"R. Thoreson struck out swinging, out at first c to 1b.",36,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,4,top,E. Devally grounded out to 1b unassisted.,37,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,4,bot,M. O'Neal walked.,38,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,4,bot,M. O'Neal stole second.,39,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,4,bot,G. Sherlock struck out looking.,40,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,4,bot,D. Maller flied out to cf.,41,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,4,bot,T. Dent singled to left field3a M. O'Neal out at third lf to 3b to c.,42,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,5,top,R. Brosius hit by pitch.,43,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,5,top,"M. Eckardt doubled to right field, RBI3a R. Brosius scored.",44,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,5,top,"T. Johnson singled to catcher, bunt3a M. Eckardt advanced to third.",45,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,5,top,J. Brosius reached on a fielder's choice3a T. Johnson advanced to second3a M. Eckardt out at home p to c.,46,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,5,top,J. Allison singled to shortstop3a J. Brosius advanced to second3a T. Johnson advanced to third.,47,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,5,top,"A. Gomez flied out to lf, SAC, RBI3a T. Johnson scored.",48,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,5,top,J. Wille flied out to cf.,49,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,5,bot,"A. Elfering homered to left center, RBI.",50,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,5,bot,W. Sullivan struck out swinging.,51,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,5,bot,C. Pratt struck out looking.,52,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,5,bot,J. Cekander struck out looking.,53,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,6,top,R. Thoreson struck out swinging.,54,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,6,top,E. Devally flied out to rf.,55,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,6,top,R. Brosius struck out looking.,56,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,6,bot,C. Johnson to p for D. Osterman.,57,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,6,bot,Z. Ingram singled to left field.,58,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,6,bot,M. O'Neal walked3a Z. Ingram advanced to second.,59,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,6,bot,G. Sherlock walked3a M. O'Neal advanced to second3a Z. Ingram advanced to third.,60,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,6,bot,L. Moore to p for C. Johnson.,61,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,6,bot,"D. Maller singled up the middle, RBI3a G. Sherlock advanced to second3a M. O'Neal advanced to third3a Z. Ingram scored.",62,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,6,bot,"T. Dent flied out to cf, SAC, RBI3a G. Sherlock advanced to third3a M. O'Neal scored.",63,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,6,bot,D. Maller stole second.,64,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,6,bot,"A. Elfering homered to left field, 3 RBI3a D. Maller scored3a G. Sherlock scored.",65,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,6,bot,W. Sullivan struck out looking.,66,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,6,bot,C. Pratt flied out to cf.,67,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,7,top,/  for C. Jaeger.,68,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,7,top,J. Cekander to p.,69,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,7,top,M. Eckardt flied out to rf.,70,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,7,top,T. Johnson flied out to rf.,71,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,7,top,J. Brosius grounded out to ss.,72,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,7,bot,J. Cekander flied out to lf.,73,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,7,bot,Z. Ingram popped up to ss.,74,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,7,bot,M. O'Neal grounded out to p.,75,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,8,top,J. Allison singled to third base.,76,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,8,top,A. Gomez singled to right field3a J. Allison advanced to second.,77,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,8,top,J. Wille reached on a fielder's choice3a A. Gomez out at second 3b to 2b3a J. Allison advanced to third.,78,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,8,top,"J. Wille out at second p to 1b to ss, caught stealing3a J. Allison scored.",79,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,8,top,R. Thoreson walked.,80,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,8,top,W. Hosch to dh for E. Devally.,81,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,8,top,W. Hosch flied out to cf.,82,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,8,bot,G. Sherlock grounded out to 3b.,83,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,8,bot,"D. Maller singled, bunt.",84,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,8,bot,T. Dent grounded out to ss3a D. Maller advanced to second.,85,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,8,bot,A. Elfering was intentionally walked.,86,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597268,8,bot,W. Sullivan flied out to rf.,87,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,9,top,V. Pico to 2b for C. Pratt.,88,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,9,top,"R. Brosius homered to left field, RBI.",89,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,9,top,M. Eckardt grounded out to 1b unassisted.,90,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,9,top,T. Johnson flied out to cf.,91,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025
+6344362,597255,Coe Kohawks,597268,Dubuque Spartans,597255,9,top,J. Brosius struck out swinging.,92,2025-03-25T00:00:00-04:00,"Dan. W. Runkle Field (Dubuque, IA)",145,MBA,2025

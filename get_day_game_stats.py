@@ -2,6 +2,7 @@ import logging
 from datetime import date, datetime, timedelta
 from os import mkdir
 from os.path import exists
+import time
 
 import pandas as pd
 from ncaa_stats_py.baseball import (
@@ -75,6 +76,7 @@ def get_day_game_stats(date_obj: date):
                 logging.warning(
                     f"Unhandled exception: `{e}`, game ID: {game_id}"
                 )
+                time.sleep(15)
                 continue
 
             if len(player_stats_df) > 0:
@@ -90,6 +92,7 @@ def get_day_game_stats(date_obj: date):
                 logging.warning(
                     f"Unhandled exception: `{e}`, game ID: {game_id}"
                 )
+                time.sleep(15)
                 continue
 
             if len(raw_pbp_df) > 0:
