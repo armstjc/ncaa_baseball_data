@@ -2,9 +2,9 @@ from glob import glob
 import logging
 from multiprocessing import Pool
 
+import numpy as np
 import pandas as pd
 from tqdm import tqdm
-import pytz
 
 def csv_combiner(file_path_str: str) -> pd.DataFrame:
     """ """
@@ -21,9 +21,19 @@ def csv_combiner(file_path_str: str) -> pd.DataFrame:
 
 def game_to_season_stats_combiner(year: int):
     """ """
-    stats_df = pd.read_csv(
-        f"combined_files/game_stats/player/{year}_game_stats.csv"
-    )
+    stats_df = pd.DataFrame()
+    stats_df_arr = []
+    for i in range(0, 10):
+        temp_df = pd.read_csv(
+            f"combined_files/game_stats/player/{year}_game_stats_{i}.csv"
+        )
+        stats_df_arr.append(temp_df)
+        del temp_df
+
+    stats_df = pd.concat(stats_df_arr, ignore_index=True)
+    # stats_df = pd.read_csv(
+    #     f"combined_files/game_stats/player/{year}_game_stats.csv"
+    # )
 
     batting_df = stats_df.groupby(
         [
@@ -108,7 +118,6 @@ def game_to_season_stats_combiner(year: int):
         f"combined_files/season_stats/player/{year}_season_pitching_stats.csv",
         index=False,
     )
-    print()
 
 
 def combine_raw_pbp():
@@ -117,9 +126,6 @@ def combine_raw_pbp():
     pbp_df = csv_combiner("play_by_play_data/raw/*/*.csv")
     pbp_df["game_datetime"] = pd.to_datetime(pbp_df["game_datetime"])
 
-    # pbp_df.to_csv("test.csv", index=Faalse)
-    # pbp_df["game_date"] = pbp_df["game_datetime"].astype("str").str.split(" ")[0]
-    # pbp_df["game_date"] = pd.to_datetime(pbp_df["game_datetime"], format="%Y-%m-%d", utc=True)
     dates_arr = pbp_df["game_datetime"].to_list()
 
     dates_arr = list(set(dates_arr))
@@ -156,6 +162,7 @@ def combine_rosters():
 
 def combine_game_stats():
     """ """
+    number_of_chunks = 10
     print("Combining game stats")
     stats_df = csv_combiner("individual_game_stats/player/*/*.csv")
     season_arr = stats_df["season"].to_list()
@@ -166,10 +173,12 @@ def combine_game_stats():
 
     for season in season_arr:
         temp_df = stats_df[stats_df["season"] == season]
-        temp_df.to_csv(
-            "combined_files/game_stats/player/" + f"{season}_game_stats.csv",
-            index=False,
-        )
+        for idx, chunk in enumerate(np.array_split(temp_df, number_of_chunks)):
+            chunk.to_csv(
+                "combined_files/game_stats/player/" +
+                f"{season}_game_stats_{idx}.csv",
+                index=False,
+            )
 
 
 def combine_season_stats():
@@ -228,11 +237,12 @@ def combine_season_stats():
 
 def main():
     """ """
+    # combine_rosters()
+    # combine_season_stats()
+    # combine_game_stats()
+    game_to_season_stats_combiner(2025)
+    combine_raw_pbp()
 
 
 if __name__ == "__main__":
-    combine_rosters()
-    combine_season_stats()
-    combine_game_stats()
-    game_to_season_stats_combiner(2025)
-    combine_raw_pbp()
+    main()

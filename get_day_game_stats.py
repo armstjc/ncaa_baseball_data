@@ -76,7 +76,7 @@ def get_day_game_stats(date_obj: date):
                 logging.warning(
                     f"Unhandled exception: `{e}`, game ID: {game_id}"
                 )
-                time.sleep(15)
+                time.sleep(5)
                 continue
 
             if len(player_stats_df) > 0:
@@ -92,7 +92,7 @@ def get_day_game_stats(date_obj: date):
                 logging.warning(
                     f"Unhandled exception: `{e}`, game ID: {game_id}"
                 )
-                time.sleep(15)
+                time.sleep(5)
                 continue
 
             if len(raw_pbp_df) > 0:
