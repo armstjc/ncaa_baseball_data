@@ -237,9 +237,9 @@ def combine_season_stats():
 
 def main():
     """ """
-    # combine_rosters()
-    # combine_season_stats()
-    # combine_game_stats()
+    combine_rosters()
+    combine_season_stats()
+    combine_game_stats()
     game_to_season_stats_combiner(2025)
     combine_raw_pbp()
 

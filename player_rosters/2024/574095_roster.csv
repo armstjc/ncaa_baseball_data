@@ -1,6 +1,6 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8503411,20,Russell Derbyshire,Russell,Derbyshire,Jr.,P,6-5,,RIGHT,RIGHT,"Leamington, Canada",,18,1,https://stats.ncaa.org/players/8503411
-2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8503416,6,Logan Walters,Logan,Walters,Jr.,OF,6-4,,RIGHT,RIGHT,"Petal, MS",,46,45,https://stats.ncaa.org/players/8503416
+2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8503416,6,Logan Walters,Logan,Walters,Jr.,OF,6-4,,RIGHT,RIGHT,"Petal, MS",Petal HS,46,45,https://stats.ncaa.org/players/8503416
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8526626,15,Sam Silas,Sam,Silas,Fr.,INF,6-0,,RIGHT,RIGHT,"Holtville, AK",Holtville HS,38,33,https://stats.ncaa.org/players/8526626
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8526638,16,Preston Soper,Preston,Soper,Jr.,OF,6-2,,LEFT,RIGHT,"Madison, MS",,8,2,https://stats.ncaa.org/players/8526638
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8269068,3,Bear Madliak,Bear,Madliak,So.,C,5-9,,RIGHT,RIGHT,"Carrollton, GA",Carrollton,51,51,https://stats.ncaa.org/players/8269068
@@ -15,14 +15,11 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8265533,1,Will Fincher,Will,Fincher,So.,OF,6-3,,RIGHT,RIGHT,"Powder Springs, GA",,48,42,https://stats.ncaa.org/players/8265533
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8281731,36,Cole Smith,Cole,Smith,Sr.,INF,6-0,,RIGHT,RIGHT,"Suwanee, GA",,0,0,https://stats.ncaa.org/players/8281731
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8281808,8,Brennen Norton,Brennen,Norton,Jr.,INF,5-9,,RIGHT,RIGHT,"Cullman, AL",Cullman,52,52,https://stats.ncaa.org/players/8281808
-2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8282051,9,Michael Dallas,Michael,Dallas,So.,INF,6-1,,,,"Arlington, TN",Briarcrest HS,28,17,https://stats.ncaa.org/players/8282051
+2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8282051,9,Michael Dallas,Michael,Dallas,So.,INF,5-11,,RIGHT,RIGHT,"Arlington, TN",Briarcrest HS,28,17,https://stats.ncaa.org/players/8282051
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8279845,30,Kensky Thomas,Kensky,Thomas,So.,OF,5-11,,RIGHT,RIGHT,"Canton, GA",Sequoyah,12,4,https://stats.ncaa.org/players/8279845
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8281247,37,Austin Cornelius,Austin,Cornelius,Jr.,P,6-3,,RIGHT,RIGHT,"Hoover, AL",,17,12,https://stats.ncaa.org/players/8281247
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8503420,12,Gabe Young,Gabe,Young,Fr.,P,6-0,,LEFT,LEFT,"Mountain Brook, AL",,48,40,https://stats.ncaa.org/players/8503420
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8503423,13,Drew Collins,Drew,Collins,Jr.,OF,6-2,,LEFT,RIGHT,"Oregon, OH",Oregon Clay,50,44,https://stats.ncaa.org/players/8503423
-2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8503410,47,Jackson Sleeper,Jackson,Sleeper,So.,P,6-5,,RIGHT,RIGHT,"Franklin, TN",Grace Christian Academy,14,13,https://stats.ncaa.org/players/8503410
-2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8503408,17,Ethan Patera,Ethan,Patera,Fr.,P,6-4,,RIGHT,RIGHT,"Downers Grove, IL",Downers Grove South HS,4,0,https://stats.ncaa.org/players/8503408
-2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8503414,5,Hudson Walburn,Hudson,Walburn,Fr.,C,5-11,,RIGHT,RIGHT,"Vestavia Hills, AL",,30,18,https://stats.ncaa.org/players/8503414
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8526644,21,Alex Pipes,Alex,Pipes,Jr.,P,6-3,,RIGHT,RIGHT,"Saint Charles, MO",,0,0,https://stats.ncaa.org/players/8526644
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8526650,22,Krayton Morse,Krayton,Morse,Jr.,C,6-2,,RIGHT,RIGHT,"Harrisburg, IL",Harrisburg HS,12,2,https://stats.ncaa.org/players/8526650
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8526659,23,Ryan Vermillion,Ryan,Vermillion,Fr.,P,6-0,,RIGHT,RIGHT,"Vestavia Hills, AL",,16,0,https://stats.ncaa.org/players/8526659
@@ -30,10 +27,13 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8526668,27,Colin Woodham,Colin,Woodham,Fr.,P,5-11,,LEFT,LEFT,"Millbrook, AL",,18,2,https://stats.ncaa.org/players/8526668
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8526676,28,Ethan Adkison,Ethan,Adkison,Jr.,P,6-2,,LEFT,LEFT,"Chipley, FL",,16,2,https://stats.ncaa.org/players/8526676
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8526695,32,Matthew Albritton,Matthew,Albritton,Jr.,INF,6-3,,RIGHT,RIGHT,"O'Fallen, IL",O'Fallon High School,21,11,https://stats.ncaa.org/players/8526695
-2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8526701,34,Colby Morse,Colby,Morse,Jr.,INF,5-11,,RIGHT,RIGHT,"Harrisburg, IL",,20,4,https://stats.ncaa.org/players/8526701
+2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8526701,34,Colby Morse,Colby,Morse,Jr.,INF,5-11,,RIGHT,RIGHT,"Harrisburg, IL",Harrisburg,20,4,https://stats.ncaa.org/players/8526701
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8526702,35,Evan Smallwood,Evan,Smallwood,Fr.,P,5-11,,RIGHT,RIGHT,"Hoover, AL",,7,0,https://stats.ncaa.org/players/8526702
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8526708,40,David Hamilton,David,Hamilton,Fr.,P,6-2,,RIGHT,RIGHT,"Spring Hill, TN",,3,0,https://stats.ncaa.org/players/8526708
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8526709,43,Austin Gast,Austin,Gast,Jr.,P,6-0,,RIGHT,RIGHT,"Cape Girardeau, MO",Notre Dame Regional HS,10,0,https://stats.ncaa.org/players/8526709
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8526710,44,Drew McCormick,Drew,McCormick,Fr.,P,6-3,,RIGHT,RIGHT,"Oxford, AL",,10,1,https://stats.ncaa.org/players/8526710
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8526712,45,Foster McDonald,Foster,McDonald,So.,P,6-3,,LEFT,LEFT,"Huntington, IN",,6,1,https://stats.ncaa.org/players/8526712
 2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8526683,31,Ethan Mallett,Ethan,Mallett,So.,P,6-2,,RIGHT,RIGHT,"Torrance, CA",,5,0,https://stats.ncaa.org/players/8526683
+2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8503414,5,Hudson Walburn,Hudson,Walburn,Fr.,C,5-11,,RIGHT,RIGHT,"Vestavia Hills, AL",,30,18,https://stats.ncaa.org/players/8503414
+2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8503410,47,Jackson Sleeper,Jackson,Sleeper,So.,P,6-5,,RIGHT,RIGHT,"Franklin, TN",Grace Christian Academy,14,13,https://stats.ncaa.org/players/8503410
+2024,2023-24,MBA,1,I,CUSA,315,Jacksonville St.,8503408,17,Ethan Patera,Ethan,Patera,Fr.,P,6-4,,RIGHT,RIGHT,"Downers Grove, IL",Downers Grove South HS,4,0,https://stats.ncaa.org/players/8503408

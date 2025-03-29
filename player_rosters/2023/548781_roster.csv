@@ -9,7 +9,7 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7817305,23,Aidan Volk-Specht,Aidan,Volk-Specht,Jr.,P,-,,,,,,12,12,https://stats.ncaa.org/players/7817305
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7817307,1,Mason Brock,Mason,Brock,Jr.,INF,-,,,,,,42,42,https://stats.ncaa.org/players/7817307
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7817308,47,Tyler VanCise,Tyler,VanCise,Jr.,P,6-6,,RIGHT,RIGHT,"Kosciusko, MS",Koskiusko,5,3,https://stats.ncaa.org/players/7817308
-2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7817309,0,Jacob Crowley,Jacob,Crowley,Jr.,P,-,,,,,,2,0,https://stats.ncaa.org/players/7817309
+2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7817309,00,Jacob Crowley,Jacob,Crowley,Jr.,P,-,,,,,,2,0,https://stats.ncaa.org/players/7817309
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7817310,19,Rhys Dewick,Rhys,Dewick,Sr.,C,-,,,,,,39,37,https://stats.ncaa.org/players/7817310
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7817314,36,Willy Cruz,Willy,Cruz,So.,INF,5-10,,RIGHT,RIGHT,"Miami, FL",Somerset Academy Charter High School,3,0,https://stats.ncaa.org/players/7817314
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7817317,18,Brett Sutterby,Brett,Sutterby,So.,INF,-,,,,,,4,0,https://stats.ncaa.org/players/7817317
@@ -18,6 +18,7 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7817322,8,Ashton Long,Ashton,Long,So.,1B,-,,,,,,38,38,https://stats.ncaa.org/players/7817322
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7817323,20,Patrick Minchow,Patrick,Minchow,So.,INF,-,,,,,,6,1,https://stats.ncaa.org/players/7817323
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7817328,15,Danny Gallardo,Danny,Gallardo,So.,P,-,,,,,,9,0,https://stats.ncaa.org/players/7817328
+2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994675,52,Liam Fritz,Liam,Fritz,Jr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/7994675
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994628,13,Jack Becker,Jack,Becker,Sr.,INF,-,,,,,,40,39,https://stats.ncaa.org/players/7994628
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994629,27,Will Cantrell,Will,Cantrell,Jr.,C,-,,,,,,13,3,https://stats.ncaa.org/players/7994629
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994631,43,Ethan Stadler,Ethan,Stadler,Fr.,C,-,,,,,,0,0,https://stats.ncaa.org/players/7994631
@@ -25,26 +26,25 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994671,37,Aidan Drotzer,Aidan,Drotzer,Fr.,C,-,,,,,,0,0,https://stats.ncaa.org/players/7994671
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994672,40,Quin Tretsven,Quin,Tretsven,Fr.,P,-,,,,,,1,0,https://stats.ncaa.org/players/7994672
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994674,51,Tyler Shamrock,Tyler,Shamrock,Fr.,C,-,,,,,,0,0,https://stats.ncaa.org/players/7994674
-2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994675,52,Liam Fritz,Liam,Fritz,Jr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/7994675
-2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994296,11,Tristan Shoemaker,Tristan,Shoemaker,Jr.,INF,-,,,,,,21,4,https://stats.ncaa.org/players/7994296
-2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994659,14,Jacob Worley,Jacob,Worley,Jr.,P,6-1,,RIGHT,RIGHT,"Ocoee, FL",Legacy Charter ,11,2,https://stats.ncaa.org/players/7994659
-2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994663,30,Matthew Shaugabay,Matthew,Shaugabay,Sr.,C,-,,,,,,29,24,https://stats.ncaa.org/players/7994663
-2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994665,32,Zach Adams,Zach,Adams,Fr.,INF,-,,,,,,3,0,https://stats.ncaa.org/players/7994665
-2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994667,34,Zach Anderson,Zach,Anderson,Fr.,INF,-,,,,,,2,0,https://stats.ncaa.org/players/7994667
-2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994668,35,Charlie Joyce,Charlie,Joyce,Fr.,OF,-,,,,,,7,0,https://stats.ncaa.org/players/7994668
+2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994654,25,Ryan Vondracek,Ryan,Vondracek,Jr.,P,-,,,,,,9,7,https://stats.ncaa.org/players/7994654
+2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994655,12,Howie Hatton,Howie,Hatton,Sr.,OF,-,,,,,,39,37,https://stats.ncaa.org/players/7994655
+2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994662,31,Jefferson Barmoy,Jefferson,Barmoy,Sr.,P,-,,,,,,8,7,https://stats.ncaa.org/players/7994662
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994288,2,Seth Betts,Seth,Betts,Sr.,SS,-,,,,,,42,42,https://stats.ncaa.org/players/7994288
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994291,4,Cael Magill,Cael,Magill,So.,OF,-,,,,,,41,41,https://stats.ncaa.org/players/7994291
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994294,6,Blake Cramer,Blake,Cramer,Fr.,P,-,,,,,,7,0,https://stats.ncaa.org/players/7994294
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994660,24,Cody Csulak,Cody,Csulak,Sr.,C,-,,,,,,22,15,https://stats.ncaa.org/players/7994660
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994666,33,Thomas Wilmot,Thomas,Wilmot,Fr.,OF,6-1,,RIGHT,RIGHT,"Suwanee, GA",North Gwinnett,10,0,https://stats.ncaa.org/players/7994666
-2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994630,41,Cole Vahovick,Cole,Vahovick,Fr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/7994630
-2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994370,7,Tristen Ciarlo,Tristen,Ciarlo,Jr.,INF,-,,,,,,31,21,https://stats.ncaa.org/players/7994370
-2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994372,10,Noah Neal,Noah,Neal,Fr.,P,-,,,,,,7,2,https://stats.ncaa.org/players/7994372
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994633,54,Jackson Casida,Jackson,Casida,Fr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/7994633
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994357,3,Drew Girtz,Drew,Girtz,Fr.,OF,-,,,,,,29,17,https://stats.ncaa.org/players/7994357
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994365,5,Ethan Habetler,Ethan,Habetler,Jr.,INF,-,,,,,,25,6,https://stats.ncaa.org/players/7994365
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),8156757,44,M. Hendricks,M.,Hendricks,---,2b,-,,,,,,1,0,https://stats.ncaa.org/players/8156757
+2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994296,11,Tristan Shoemaker,Tristan,Shoemaker,Jr.,INF,-,,,,,,21,4,https://stats.ncaa.org/players/7994296
 2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994676,53,Jason Anderson,Jason,Anderson,Fr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/7994676
-2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994654,25,Ryan Vondracek,Ryan,Vondracek,Jr.,P,-,,,,,,9,7,https://stats.ncaa.org/players/7994654
-2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994655,12,Howie Hatton,Howie,Hatton,Sr.,OF,-,,,,,,39,37,https://stats.ncaa.org/players/7994655
-2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994662,31,Jefferson Barmoy,Jefferson,Barmoy,Sr.,P,-,,,,,,8,7,https://stats.ncaa.org/players/7994662
+2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994659,14,Jacob Worley,Jacob,Worley,Jr.,P,6-1,,RIGHT,RIGHT,"Ocoee, FL",Legacy Charter ,11,2,https://stats.ncaa.org/players/7994659
+2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994663,30,Matthew Shaugabay,Matthew,Shaugabay,Sr.,C,-,,,,,,29,24,https://stats.ncaa.org/players/7994663
+2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994665,32,Zach Adams,Zach,Adams,Fr.,INF,-,,,,,,3,0,https://stats.ncaa.org/players/7994665
+2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994667,34,Zach Anderson,Zach,Anderson,Fr.,INF,-,,,,,,2,0,https://stats.ncaa.org/players/7994667
+2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994668,35,Charlie Joyce,Charlie,Joyce,Fr.,OF,-,,,,,,7,0,https://stats.ncaa.org/players/7994668
+2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994630,41,Cole Vahovick,Cole,Vahovick,Fr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/7994630
+2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994370,7,Tristen Ciarlo,Tristen,Ciarlo,Jr.,INF,-,,,,,,31,21,https://stats.ncaa.org/players/7994370
+2023,2022-23,MBA,3,III,UMAC,30035,Crown (MN),7994372,10,Noah Neal,Noah,Neal,Fr.,P,-,,,,,,7,2,https://stats.ncaa.org/players/7994372

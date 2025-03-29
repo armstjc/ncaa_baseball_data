@@ -2,10 +2,10 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994538,31,Noah Moritz,Noah,Moritz,Fr.,OF,5-10,,,,,,0,0,https://stats.ncaa.org/players/7994538
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994537,26,JonAlan Richardson,JonAlan,Richardson,Fr.,INF,5-9,,,,,,6,1,https://stats.ncaa.org/players/7994537
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994449,1,Bryce Hunt,Bryce,Hunt,Fr.,OF,5-11,,RIGHT,RIGHT,,,0,0,https://stats.ncaa.org/players/7994449
+2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7833563,22,Garret Hladilek,Garret,Hladilek,Jr.,INF,6-1,,RIGHT,RIGHT,,,51,51,https://stats.ncaa.org/players/7833563
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994451,2,Eric Green,Eric,Green,So.,OF,6-0,,RIGHT,RIGHT,"Sanford, FL",Seminole HS,38,22,https://stats.ncaa.org/players/7994451
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7833560,44,Brayden Merrick,Brayden,Merrick,So.,INF,6-4,,RIGHT,RIGHT,,,11,7,https://stats.ncaa.org/players/7833560
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7833561,5,Erik Romero,Erik,Romero,So.,INF,6-0,,RIGHT,RIGHT,,,29,7,https://stats.ncaa.org/players/7833561
-2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7833563,22,Garret Hladilek,Garret,Hladilek,Jr.,INF,6-1,,RIGHT,RIGHT,,,51,51,https://stats.ncaa.org/players/7833563
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7833565,27,Jacob Matheney,Jacob,Matheney,Jr.,P,6-0,,LEFT,LEFT,,,12,1,https://stats.ncaa.org/players/7833565
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994454,14,Jacob Emerson,Jacob,Emerson,Sr.,P,6-0,,RIGHT,RIGHT,,,11,1,https://stats.ncaa.org/players/7994454
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7833569,32,Brantley Durham,Brantley,Durham,Sr.,INF,6-0,,RIGHT,RIGHT,,,46,38,https://stats.ncaa.org/players/7833569
@@ -18,13 +18,10 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7833585,40,Cole Cote,Cole,Cote,Jr.,OF,6-3,,RIGHT,RIGHT,,,50,49,https://stats.ncaa.org/players/7833585
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7833589,8,Zane Eggleston,Zane,Eggleston,Jr.,P,6-1,,LEFT,LEFT,,,9,1,https://stats.ncaa.org/players/7833589
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994531,30,Daniel Hutton,Daniel,Hutton,Fr.,P,6-4,,RIGHT,RIGHT,,,0,0,https://stats.ncaa.org/players/7994531
-2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994532,33,Daniel Hale,Daniel,Hale,Fr.,P,6-2,,,,,,7,1,https://stats.ncaa.org/players/7994532
-2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994560,42,Tyson Mickie,Tyson,Mickie,So.,OF,6-0,,RIGHT,RIGHT,,,21,8,https://stats.ncaa.org/players/7994560
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994476,9,Korbin Bostic,Korbin,Bostic,Fr.,OF,5-11,,LEFT,LEFT,,,26,10,https://stats.ncaa.org/players/7994476
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994533,34,Jordan Batten,Jordan,Batten,Jr.,INF,5-10,,RIGHT,RIGHT,,,11,1,https://stats.ncaa.org/players/7994533
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994558,39,Chris Lubchuk,Chris,Lubchuk,So.,INF,5-11,,RIGHT,RIGHT,"Long Island City, NY",,19,7,https://stats.ncaa.org/players/7994558
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994559,41,Nate Wesley,Nate,Wesley,Fr.,INF,6-0,,,,,,0,0,https://stats.ncaa.org/players/7994559
-2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994521,21,Andres Santanna,Andres,Santanna,Fr.,C,5-9,,RIGHT,RIGHT,,,5,0,https://stats.ncaa.org/players/7994521
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994576,19,Aiden Hedgepeth,Aiden,Hedgepeth,So.,P,6-3,,RIGHT,RIGHT,,,16,4,https://stats.ncaa.org/players/7994576
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994502,13,Conner Elliott,Conner,Elliott,Fr.,P,6-0,,RIGHT,RIGHT,,,15,1,https://stats.ncaa.org/players/7994502
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994509,16,Blake Perry,Blake,Perry,Sr.,P,6-1,,RIGHT,RIGHT,,,9,1,https://stats.ncaa.org/players/7994509
@@ -32,20 +29,23 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994564,47,Jackson Harless,Jackson,Harless,Jr.,P,6-0,,LEFT,LEFT,,,6,0,https://stats.ncaa.org/players/7994564
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994566,48,Colton Roberts,Colton,Roberts,So.,P,5-11,,RIGHT,RIGHT,,,5,0,https://stats.ncaa.org/players/7994566
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994570,50,Robert Eschenburg,Robert,Eschenburg,Fr.,P,6-2,,,,,,4,0,https://stats.ncaa.org/players/7994570
+2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994525,24,Will Austin,Will,Austin,Jr.,P,5-9,,RIGHT,RIGHT,,,4,0,https://stats.ncaa.org/players/7994525
+2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994471,4,Curtis Ball,Curtis,Ball,Fr.,C,5-11,,RIGHT,RIGHT,,,37,36,https://stats.ncaa.org/players/7994471
+2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994519,18,Braden Major,Braden,Major,Fr.,P,5-10,,RIGHT,RIGHT,,,16,7,https://stats.ncaa.org/players/7994519
+2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994534,36,Drake Mullins,Drake,Mullins,So.,C,6-2,,RIGHT,RIGHT,,,12,2,https://stats.ncaa.org/players/7994534
+2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994532,33,Daniel Hale,Daniel,Hale,Fr.,P,6-2,,,,,,7,1,https://stats.ncaa.org/players/7994532
+2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994560,42,Tyson Mickie,Tyson,Mickie,So.,OF,6-0,,RIGHT,RIGHT,,,21,8,https://stats.ncaa.org/players/7994560
+2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994521,21,Andres Santanna,Andres,Santanna,Fr.,C,5-9,,RIGHT,RIGHT,,,5,0,https://stats.ncaa.org/players/7994521
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994518,17,Jason Fernandez,Jason,Fernandez,So.,INF,6-1,,RIGHT,RIGHT,,,10,0,https://stats.ncaa.org/players/7994518
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994526,25,Riley Bost,Riley,Bost,Sr.,P,6-5,,RIGHT,RIGHT,,,13,10,https://stats.ncaa.org/players/7994526
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994528,82,J P,J,P,Jr.,P,6-0,,RIGHT,RIGHT,,,0,0,https://stats.ncaa.org/players/7994528
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994530,29,Tahir Emulems,Tahir,Emulems,Jr.,INF,6-0,,RIGHT,RIGHT,,,1,1,https://stats.ncaa.org/players/7994530
-2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994525,24,Will Austin,Will,Austin,Jr.,P,5-9,,RIGHT,RIGHT,,,4,0,https://stats.ncaa.org/players/7994525
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994469,3,Cam Lowke,Cam,Lowke,So.,INF,5-8,,RIGHT,LEFT,,,42,31,https://stats.ncaa.org/players/7994469
-2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994471,4,Curtis Ball,Curtis,Ball,Fr.,C,5-11,,RIGHT,RIGHT,,,37,36,https://stats.ncaa.org/players/7994471
-2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994519,18,Braden Major,Braden,Major,Fr.,P,5-10,,RIGHT,RIGHT,,,16,7,https://stats.ncaa.org/players/7994519
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994475,7,Kerry Collins,Kerry,Collins,Fr.,OF,6-4,,RIGHT,RIGHT,,,24,8,https://stats.ncaa.org/players/7994475
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994478,10,Sebastian Ortega,Sebastian,Ortega,So.,OF,5-9,,RIGHT,RIGHT,,,23,11,https://stats.ncaa.org/players/7994478
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994481,12,Sam Walker,Sam,Walker,So.,INF,5-10,,RIGHT,RIGHT,"Concord, NC",,31,26,https://stats.ncaa.org/players/7994481
-2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994534,36,Drake Mullins,Drake,Mullins,So.,C,6-2,,RIGHT,RIGHT,,,12,2,https://stats.ncaa.org/players/7994534
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994535,37,Daniel Dickason,Daniel,Dickason,Fr.,INF,6-0,,,,,,0,0,https://stats.ncaa.org/players/7994535
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994568,49,Andrew Scarberry,Andrew,Scarberry,So.,INF,6-0,,,,,,5,0,https://stats.ncaa.org/players/7994568
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7994572,51,Austin Deel,Austin,Deel,Fr.,C,6-1,,,,,,1,0,https://stats.ncaa.org/players/7994572
-2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7999174,29,Tahir Meulens,Tahir,Meulens,Jr.,ss,-,,,,,,48,48,https://stats.ncaa.org/players/7999174
 2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,8529326,28,Josh Plisko,Josh,Plisko,Jr.,P,6-0,,RIGHT,RIGHT,,,10,2,https://stats.ncaa.org/players/8529326
+2023,2022-23,MBA,2,II,DII Independent,985,Bluefield St.,7999174,29,Tahir Meulens,Tahir,Meulens,Jr.,ss,-,,,,,,48,48,https://stats.ncaa.org/players/7999174

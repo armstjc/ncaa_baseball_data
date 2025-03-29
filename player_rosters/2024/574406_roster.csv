@@ -8,7 +8,7 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8447413,31,Ethan Coddington,Ethan,Coddington,Fr.,INF,5-10,,RIGHT,RIGHT,"West Homestead, PA",Serra Catholic,3,0,https://stats.ncaa.org/players/8447413
 2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8447434,39,Dane Samartino,Dane,Samartino,Fr.,P,6-0,,RIGHT,RIGHT,"Haddonfield, NJ",Haddonfield Memorial HS,17,0,https://stats.ncaa.org/players/8447434
 2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8265749,33,Peyton Johnson,Peyton,Johnson,Jr.,SS,6-0,,RIGHT,RIGHT,"Lock Haven, PA",Central Mountain,56,53,https://stats.ncaa.org/players/8265749
-2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8447497,40,Jake Black,Jake,Black,Jr.,P,6-1,,RIGHT,RIGHT,"Bethlehem, PA",,14,12,https://stats.ncaa.org/players/8447497
+2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8447497,40,Jake Black,Jake,Black,Jr.,P,6-1,,RIGHT,RIGHT,"Bethlehem, PA",Elizabethtown Area,14,12,https://stats.ncaa.org/players/8447497
 2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8261244,24,Andrew Sicinski,Andrew,Sicinski,Sr.,C,5-10,,LEFT,RIGHT,"Philadelphia, PA",Father Judge,38,29,https://stats.ncaa.org/players/8261244
 2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8264819,2,Teague Hoover,Teague,Hoover,So.,INF,5-10,,RIGHT,RIGHT,"Selinsgrove, PA",Selinsgrove,12,9,https://stats.ncaa.org/players/8264819
 2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8275445,29,Elijah Dunn,Elijah,Dunn,So.,OF,6-2,,RIGHT,RIGHT,"North Huntingdon, PA",Norwin,38,31,https://stats.ncaa.org/players/8275445
@@ -29,8 +29,6 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8287061,35,Brady Yard,Brady,Yard,Jr.,1B,6-2,,RIGHT,RIGHT,"Saltsburg, PA",Saltsburg,49,46,https://stats.ncaa.org/players/8287061
 2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8282325,30,Matt Luchovick,Matt,Luchovick,So.,C,5-10,,RIGHT,RIGHT,"Montour, PA",Montour,9,5,https://stats.ncaa.org/players/8282325
 2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8447393,27,Gabe Jansen,Gabe,Jansen,Fr.,P,5-10,,RIGHT,RIGHT,"Morgantown, WV",University HS,2,0,https://stats.ncaa.org/players/8447393
-2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8447361,16,Jackson Roberts,Jackson,Roberts,Fr.,P,6-2,,LEFT,LEFT,"Parkesburg, PA",Octorara,0,0,https://stats.ncaa.org/players/8447361
-2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8447365,18,James Desmond,James,Desmond,Fr.,P,6-3,,LEFT,LEFT,"Butler, PA",Butler,0,0,https://stats.ncaa.org/players/8447365
 2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8425210,3,Ricardo Aponte,Ricardo,Aponte,So.,C,5-8,,RIGHT,RIGHT,"Rio Grande, Puerto Rico",Colegio Santa Gema,59,58,https://stats.ncaa.org/players/8425210
 2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8425232,10,Harrison Pontoli,Harrison,Pontoli,Sr.,SS,6-0,,LEFT,RIGHT,"Beaver, PA",Beaver Area,59,59,https://stats.ncaa.org/players/8425232
 2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8425216,4,Addison Clymer,Addison,Clymer,Fr.,P,5-10,,RIGHT,RIGHT,"York, PA",Central York,10,1,https://stats.ncaa.org/players/8425216
@@ -38,5 +36,7 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8425235,11,Bryce Devan,Bryce,Devan,Fr.,P,6-0,,RIGHT,RIGHT,"Harrisburg, PA",Central Dauphin,17,1,https://stats.ncaa.org/players/8425235
 2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8685622,13,Branden Kanick,Branden,Kanick,Jr.,OF,5-10,,RIGHT,RIGHT,"Indiana, PA",Indiana,10,0,https://stats.ncaa.org/players/8685622
 2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8685627,5,Blaise Zeiders,Blaise,Zeiders,Sr.,1B,-,,,,,,30,27,https://stats.ncaa.org/players/8685627
-2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8685624,6,Nathan Mankoski,Nathan,Mankoski,So.,P,-,,,,,,11,9,https://stats.ncaa.org/players/8685624
+2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8685624,6,Nathan Mankoski,Nathan,Mankoski,So.,P,5-10,,LEFT,LEFT,"New Cumberland, PA",Cedar Cliff,11,9,https://stats.ncaa.org/players/8685624
 2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8685626,15,Zach Miller,Zach,Miller,Jr.,OF,-,,,,,,41,15,https://stats.ncaa.org/players/8685626
+2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8447365,18,James Desmond,James,Desmond,Fr.,P,6-3,,LEFT,LEFT,"Butler, PA",Butler,0,0,https://stats.ncaa.org/players/8447365
+2024,2023-24,MBA,2,II,PSAC,307,Indiana (PA),8447361,16,Jackson Roberts,Jackson,Roberts,Fr.,P,6-2,,LEFT,LEFT,"Parkesburg, PA",Octorara,0,0,https://stats.ncaa.org/players/8447361

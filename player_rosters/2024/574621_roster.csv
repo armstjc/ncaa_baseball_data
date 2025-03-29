@@ -1,7 +1,6 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8273771,33,TJ Laplante,TJ,Laplante,Sr.,P,-,,RIGHT,RIGHT,"Sheridan, IN",Westfield,20,10,https://stats.ncaa.org/players/8273771
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8264345,6,Jake Danneman,Jake,Danneman,Jr.,INF,-,,RIGHT,RIGHT,"Edgewood, KY",Covington Catholic ,48,48,https://stats.ncaa.org/players/8264345
-2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8276676,23,Matthew McCoy,Matthew,McCoy,So.,OF,-,,RIGHT,RIGHT,"Charlestown, IN",Charlestown,43,39,https://stats.ncaa.org/players/8276676
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8491294,28,Nathan Julius,Nathan,Julius,Fr.,OF,-,,,,"New Albany, IN",Our Lady of Providence,16,0,https://stats.ncaa.org/players/8491294
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8491297,34,Jonah Broxterman,Jonah,Broxterman,Fr.,INF,-,,,,"Cheviot, OH",Oak Hills,0,0,https://stats.ncaa.org/players/8491297
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8274021,20,John Girard,John,Girard,So.,P,-,,LEFT,LEFT,"Richmond, KY",Madison Central ,14,13,https://stats.ncaa.org/players/8274021
@@ -19,12 +18,10 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8277152,5,Keelan Dyson,Keelan,Dyson,So.,UT,-,,,,"Camby, IN",Decatur Central,2,0,https://stats.ncaa.org/players/8277152
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8277166,3,Eric Rodebush,Eric,Rodebush,Sr.,OF,-,,LEFT,RIGHT,"New Palestine, IN",New Palestine,48,48,https://stats.ncaa.org/players/8277166
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8273440,41,Reid Douglas,Reid,Douglas,Jr.,C,-,,RIGHT,RIGHT,"Rossville, IN",Rossville,48,48,https://stats.ncaa.org/players/8273440
-2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8266605,11,Tyler Rhoades,Tyler,Rhoades,Sr.,P,-,,RIGHT,RIGHT,"Fishers, IN",Hamilton Southeastern,0,0,https://stats.ncaa.org/players/8266605
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8267864,39,Gabe Gowens,Gabe,Gowens,Sr.,1B,-,,RIGHT,RIGHT,"Lanesville, IN",Lanesville Jr.-Sr.,7,1,https://stats.ncaa.org/players/8267864
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8268660,4,Sam Perkins,Sam,Perkins,Jr.,INF,-,,RIGHT,RIGHT,"Louisville, KY",Louisville Male,45,43,https://stats.ncaa.org/players/8268660
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8285133,27,Wyatt Prather,Wyatt,Prather,Sr.,P,-,,RIGHT,RIGHT,"Indianapolis, IN",Bishop Chatard,16,0,https://stats.ncaa.org/players/8285133
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8284307,17,Robert Carroll,Robert,Carroll,So.,OF,-,,RIGHT,RIGHT,"Hendersonville, TN",Pope John Paul II,48,48,https://stats.ncaa.org/players/8284307
-2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8286724,13,Gavyn Heiner,Gavyn,Heiner,So.,INF,-,,RIGHT,RIGHT,"Vine Grove, KY",Meade County,13,5,https://stats.ncaa.org/players/8286724
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8285585,0,Ashton Dickmann,Ashton,Dickmann,Jr.,P,-,,RIGHT,RIGHT,"Greenfield, IN",Greenfield Central,12,2,https://stats.ncaa.org/players/8285585
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8281987,1,Jack Woodard,Jack,Woodard,So.,INF,-,,RIGHT,RIGHT,"Carmel, IN",Westfield,6,0,https://stats.ncaa.org/players/8281987
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8282377,31,Jaden Siemer,Jaden,Siemer,Jr.,P,-,,RIGHT,RIGHT,"Edgewood, KY",Covington Catholic,16,0,https://stats.ncaa.org/players/8282377
@@ -39,6 +36,9 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8491317,37,Nickey Gutzwiller,Nickey,Gutzwiller,Fr.,INF,-,,,,"Cincinnati, OH",Elder,1,0,https://stats.ncaa.org/players/8491317
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8491320,40,Ely Lucas,Ely,Lucas,Fr.,C,-,,,,"Columbus, IN",Columbus North,0,0,https://stats.ncaa.org/players/8491320
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8491335,44,Gavin Lengacher,Gavin,Lengacher,Jr.,P,-,,RIGHT,RIGHT,"Pittsboro, IN",Tri-West,0,0,https://stats.ncaa.org/players/8491335
+2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8686378,49,Braxton Garner,Braxton,Garner,So.,P,-,,RIGHT,RIGHT,"Bowling Green, KY",Greenwood,7,0,https://stats.ncaa.org/players/8686378
+2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8276676,23,Matthew McCoy,Matthew,McCoy,So.,OF,-,,RIGHT,RIGHT,"Charlestown, IN",Charlestown,43,39,https://stats.ncaa.org/players/8276676
+2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8266605,11,Tyler Rhoades,Tyler,Rhoades,Sr.,P,-,,RIGHT,RIGHT,"Fishers, IN",Hamilton Southeastern,0,0,https://stats.ncaa.org/players/8266605
+2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8286724,13,Gavyn Heiner,Gavyn,Heiner,So.,INF,-,,RIGHT,RIGHT,"Vine Grove, KY",Meade County,13,5,https://stats.ncaa.org/players/8286724
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8491310,35,Jake Morris,Jake,Morris,Fr.,P,-,,,,"Indianapolis, IN",Franklin Central,0,0,https://stats.ncaa.org/players/8491310
 2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8491341,48,Grayson Key,Grayson,Key,Fr.,OF,-,,,,"Seymour, IN",Seymour,0,0,https://stats.ncaa.org/players/8491341
-2024,2023-24,MBA,3,III,HCAC,1115,Hanover,8686378,49,Braxton Garner,Braxton,Garner,So.,P,-,,RIGHT,RIGHT,"Bowling Green, KY",Greenwood,7,0,https://stats.ncaa.org/players/8686378

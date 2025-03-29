@@ -1,8 +1,8 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8276221,3,Jared Clark,Jared,Clark,So.,INF,6-0,,LEFT,RIGHT,"Bristol, CT",Bristol Central,29,14,https://stats.ncaa.org/players/8276221
+2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8276221,3,J.T. Clark,J.T.,Clark,So.,INF,6-0,,LEFT,RIGHT,"Bristol, CT",Bristol Central,29,14,https://stats.ncaa.org/players/8276221
 2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8259588,11,Dylan Jackson,Dylan,Jackson,So.,INF,5-11,,RIGHT,RIGHT,"Manchester, CT",Manchester,6,0,https://stats.ncaa.org/players/8259588
 2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8260876,6,Emmanuel Zaiter,Emmanuel,Zaiter,Jr.,INF,6-0,,RIGHT,RIGHT,"Miami, FL",Coral Reef,17,8,https://stats.ncaa.org/players/8260876
-2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8447445,29,Chris Torres,Chris,Torres,Fr.,P,5-11,,LEFT,LEFT,"West Springfield, MA",West Springfield,14,6,https://stats.ncaa.org/players/8447445
+2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8447445,29,Chris Torres,Chris,Torres,Fr.,P,5-11,,LEFT,LEFT,"West Springfield, MA",West Springfield HS,14,6,https://stats.ncaa.org/players/8447445
 2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8447458,1,Zach Donahue,Zach,Donahue,Sr.,INF,5-11,,BOTH,RIGHT,"South Windsor, CT",South Windsor,42,42,https://stats.ncaa.org/players/8447458
 2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8447459,37,Mike Furgalack,Mike,Furgalack,Jr.,P,6-2,,RIGHT,RIGHT,"Southington, CT",Southington,14,2,https://stats.ncaa.org/players/8447459
 2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8447468,52,Josh Mayo,Josh,Mayo,Fr.,P,6-3,,RIGHT,RIGHT,"Westfield, MA",Westfield,1,0,https://stats.ncaa.org/players/8447468
@@ -29,6 +29,7 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8278870,5,Ray Leonzi,Ray,Leonzi,Jr.,OF,5-8,,LEFT,LEFT,"Trumbull, CT",Trumbull,43,43,https://stats.ncaa.org/players/8278870
 2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8278896,43,Finn Doherty,Finn,Doherty,Sr.,P,5-9,,RIGHT,RIGHT,"Milton, MA",Milton,8,0,https://stats.ncaa.org/players/8278896
 2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8447562,50,Ryan Salvador,Ryan,Salvador,Jr.,INF,5-8,,RIGHT,RIGHT,"Waterford, CT",Waterford,4,0,https://stats.ncaa.org/players/8447562
+2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8527761,24,Logan Huzi,Logan,Huzi,So.,P,6-3,,RIGHT,RIGHT,"Trumbull, CT",,0,0,https://stats.ncaa.org/players/8527761
 2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8447503,23,Justin Marks,Justin,Marks,So.,P,6-3,,LEFT,LEFT,"Beacon Falls, CT",Woodland Regional,8,5,https://stats.ncaa.org/players/8447503
 2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8447587,31,Tyler Rice,Tyler,Rice,Jr.,OF,5-10,,LEFT,RIGHT,"Berlin, CT",Berlin,12,0,https://stats.ncaa.org/players/8447587
 2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8447585,16,Tiernan Powers,Tiernan,Powers,Jr.,P,6-1,,RIGHT,RIGHT,"Haddam Neck, CT",Xavier,8,0,https://stats.ncaa.org/players/8447585
@@ -38,4 +39,3 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8447495,9,Lucas Malave,Lucas,Malave,Jr.,INF,6-2,,RIGHT,RIGHT,"Toms River, NJ",Toms River North,27,22,https://stats.ncaa.org/players/8447495
 2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8447518,45,Andrew Merrill,Andrew,Merrill,So.,C,6-2,,RIGHT,RIGHT,"South Paris, ME",Oxford Hills,1,0,https://stats.ncaa.org/players/8447518
 2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8447579,51,Teige Kimbler,Teige,Kimbler,Fr.,INF,5-10,,LEFT,RIGHT,"Latham, NY",Albany Academy ,12,6,https://stats.ncaa.org/players/8447579
-2024,2023-24,MBA,3,III,Little East,200,Eastern Conn. St.,8527761,24,Logan Huzi,Logan,Huzi,So.,P,6-3,,RIGHT,RIGHT,"Trumbull, CT",,0,0,https://stats.ncaa.org/players/8527761

@@ -1,7 +1,7 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7827481,13,James McCoy,James,McCoy,Fr.,INF,-,,,,,,37,34,https://stats.ncaa.org/players/7827481
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7827482,41,Evan Byers,Evan,Byers,So.,P,-,,,,,,24,0,https://stats.ncaa.org/players/7827482
-2023,2022-23,MBA,1,I,SEC,334,Kentucky,7827486,19,Nolan McCarthy,Nolan,McCarthy,So.,UT,-,,,,,,43,34,https://stats.ncaa.org/players/7827486
+2023,2022-23,MBA,1,I,SEC,334,Kentucky,7827486,19,Nolan McCarthy,Nolan,McCarthy,So.,UT,6-0,,RIGHT,RIGHT,"Kalamazoo, MI",Portage Northern,43,34,https://stats.ncaa.org/players/7827486
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7827487,25,Seth Logue,Seth,Logue,Jr.,P,6-1,,RIGHT,RIGHT,"Mason, OH",Archbishop Moeller,13,1,https://stats.ncaa.org/players/7827487
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7827488,48,Zack Lee,Zack,Lee,Sr.,P,-,,,,,,16,15,https://stats.ncaa.org/players/7827488
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7827489,16,Austin Strickland,Austin,Strickland,Jr.,P,-,,,,,,20,3,https://stats.ncaa.org/players/7827489
@@ -19,6 +19,7 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7827504,11,Colby Frieda,Colby,Frieda,So.,P,6-3,,RIGHT,RIGHT,"St Johns, FL",Creekside HS,9,1,https://stats.ncaa.org/players/7827504
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7827505,2,Jase Felker,Jase,Felker,Sr.,INF,-,,,,,,55,54,https://stats.ncaa.org/players/7827505
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976673,47,Carson Applegate,Carson,Applegate,Fr.,UT,5-11,,,,"Columbus, NJ",The Hun School,0,0,https://stats.ncaa.org/players/7976673
+2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976672,22,Patrick Herrera,Patrick,Herrera,So.,INF,-,,,,,,12,1,https://stats.ncaa.org/players/7976672
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976665,0,Kendal Ewell,Kendal,Ewell,Jr.,OF,6-3,,RIGHT,RIGHT,"Calumet City, IL",,14,12,https://stats.ncaa.org/players/7976665
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976667,31,Alex Degen,Alex,Degen,Sr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/7976667
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976668,9,Chase Stanke,Chase,Stanke,Sr.,C,-,,,,,,31,20,https://stats.ncaa.org/players/7976668
@@ -26,16 +27,15 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976666,35,Tyler Bosma,Tyler,Bosma,Sr.,P,-,,,,,,13,13,https://stats.ncaa.org/players/7976666
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976669,12,Grant Smith,Grant,Smith,Sr.,INF,6-0,,,,"Albuquerque, NM",,61,61,https://stats.ncaa.org/players/7976669
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976670,14,Hunter Gilliam,Hunter,Gilliam,Sr.,INF,-,,,,,,60,60,https://stats.ncaa.org/players/7976670
-2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976672,22,Patrick Herrera,Patrick,Herrera,So.,INF,-,,,,,,12,1,https://stats.ncaa.org/players/7976672
+2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976653,36,Logan Martin,Logan,Martin,Sr.,P,6-1,,RIGHT,RIGHT,,,9,8,https://stats.ncaa.org/players/7976653
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976644,8,Isaiah Byars,Isaiah,Byars,Sr.,INF,-,,,,,,11,6,https://stats.ncaa.org/players/7976644
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976648,28,Hayden Smith,Hayden,Smith,Fr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/7976648
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976649,30,Aaron Blum,Aaron,Blum,Fr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/7976649
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976650,34,Lukas Schramm,Lukas,Schramm,Fr.,OF,6-3,,,,"Apex, NC",,0,0,https://stats.ncaa.org/players/7976650
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976651,52,Austin Fawley,Austin,Fawley,Fr.,C,6-1,,RIGHT,RIGHT,"West Palm Beach, FL",Park Vista,0,0,https://stats.ncaa.org/players/7976651
-2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976653,36,Logan Martin,Logan,Martin,Sr.,P,6-1,,RIGHT,RIGHT,,,9,8,https://stats.ncaa.org/players/7976653
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976642,1,Ryder Giles,Ryder,Giles,Sr.,UT,6-0,,RIGHT,RIGHT,"Vass, NC",Union Pines,26,0,https://stats.ncaa.org/players/7976642
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976643,5,Darren Williams,Darren,Williams,Sr.,P,6-6,,,,,,17,6,https://stats.ncaa.org/players/7976643
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976645,10,Seth Chavez,Seth,Chavez,Jr.,P,-,,,,,,12,0,https://stats.ncaa.org/players/7976645
-2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976652,51,Jackson Gray,Jackson,Gray,Sr.,OF,-,,,,,,60,60,https://stats.ncaa.org/players/7976652
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976646,40,Zach Hise,Zach,Hise,So.,P,6-5,,RIGHT,RIGHT,"Joliet, IL",Joliet Catholic,10,1,https://stats.ncaa.org/players/7976646
 2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976647,26,Drew Lafferty,Drew,Lafferty,Fr.,P,6-1,,RIGHT,RIGHT,"South Park, PA",South Park,0,0,https://stats.ncaa.org/players/7976647
+2023,2022-23,MBA,1,I,SEC,334,Kentucky,7976652,51,Jackson Gray,Jackson,Gray,Sr.,OF,-,,,,,,60,60,https://stats.ncaa.org/players/7976652

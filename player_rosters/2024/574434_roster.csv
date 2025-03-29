@@ -1,13 +1,13 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8260795,14,Luke Roussel,Luke,Roussel,Jr.,OF,-,,,,,,31,23,https://stats.ncaa.org/players/8260795
+2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8260795,14,Luke Roussel,Luke,Roussel,Jr.,OF,5-10,,LEFT,RIGHT,"Reno, NV",,31,23,https://stats.ncaa.org/players/8260795
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8270063,28,Luke Turner,Luke,Turner,Sr.,3b,-,,,,,,50,50,https://stats.ncaa.org/players/8270063
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8271337,4,Dylan Thompson,Dylan,Thompson,Jr.,C,-,,,,,,50,50,https://stats.ncaa.org/players/8271337
-2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8266956,29,Max Meusey,Max,Meusey,Sr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/8266956
+2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8266956,29,Max Meusey,Max,Meusey,Sr.,P,6-2,,LEFT,LEFT,"Ballwin, MO",Parkway South,0,0,https://stats.ncaa.org/players/8266956
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8262175,23,Drew Hnilo,Drew,Hnilo,Jr.,P,-,,,,,,10,0,https://stats.ncaa.org/players/8262175
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8267110,10,Luke Wilson,Luke,Wilson,Jr.,P,-,,,,,,6,0,https://stats.ncaa.org/players/8267110
-2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8269172,21,Cole Eggerding,Cole,Eggerding,Jr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/8269172
-2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8271651,8,Tyler Tieman,Tyler,Tieman,Fr.,rf,-,,,,,,37,30,https://stats.ncaa.org/players/8271651
-2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8261216,31,I. Epp,I.,Epp,Fr.,p,-,,,,,,13,13,https://stats.ncaa.org/players/8261216
+2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8269172,21,Cole Eggerding,Cole,Eggerding,Jr.,P,6-4,,RIGHT,LEFT,"Saint Louis, MO",,0,0,https://stats.ncaa.org/players/8269172
+2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8271651,8,Tyler Tieman,Tyler,Tieman,Fr.,rf,5-11,,RIGHT,LEFT,"Belleville, IL",,37,30,https://stats.ncaa.org/players/8271651
+2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8261216,31,Isaac Epp,Isaac,Epp,Fr.,p,6-0,,RIGHT,LEFT,"Wichita, KS",,13,13,https://stats.ncaa.org/players/8261216
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8276963,26,Brian Bruxvoort,Brian,Bruxvoort,Fr.,p,-,,,,,,18,0,https://stats.ncaa.org/players/8276963
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8263740,3,Grant Beck,Grant,Beck,Fr.,ss,-,,,,,,24,11,https://stats.ncaa.org/players/8263740
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8269377,35,Ty Rauser,Ty,Rauser,Fr.,p,6-3,,RIGHT,RIGHT,"Saint Charles, MO",Francis Howell,13,7,https://stats.ncaa.org/players/8269377
@@ -17,25 +17,25 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8259193,31,Will Wirt,Will,Wirt,Sr.,C,-,,,,,,0,0,https://stats.ncaa.org/players/8259193
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8272211,19,Dakota Spicer,Dakota,Spicer,Sr.,OF,-,,,,,,0,0,https://stats.ncaa.org/players/8272211
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8266617,17,F. ajeel,F.,ajeel,So.,p,-,,,,,,0,0,https://stats.ncaa.org/players/8266617
-2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8261883,15,Jackson Mitchell,Jackson,Mitchell,Jr.,P,-,,,,,,7,0,https://stats.ncaa.org/players/8261883
+2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8261883,15,Jackson Mitchell,Jackson,Mitchell,Jr.,P,6-2,,RIGHT,RIGHT,"Saint Charles, MO",,7,0,https://stats.ncaa.org/players/8261883
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8263150,32,Trey Herzing,Trey,Herzing,Jr.,OF,-,,,,,,0,0,https://stats.ncaa.org/players/8263150
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8284122,30,Sam Shaffer,Sam,Shaffer,Sr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/8284122
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8284281,26,Brennan Perkins,Brennan,Perkins,Sr.,rf,-,,,,,,0,0,https://stats.ncaa.org/players/8284281
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8283158,34,PJ Jerszynski,PJ,Jerszynski,Fr.,,-,,,,,,21,10,https://stats.ncaa.org/players/8283158
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8279428,12,Will Fromm,Will,Fromm,Sr.,1B,-,,,,,,42,37,https://stats.ncaa.org/players/8279428
-2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8280806,32,A. Wittenaue,A.,Wittenaue,Fr.,c,-,,,,,,22,19,https://stats.ncaa.org/players/8280806
+2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8280806,32,Alex Wittenauer,Alex,Wittenauer,Fr.,c,6-1,,RIGHT,RIGHT,"Saint Louis, MO",,22,19,https://stats.ncaa.org/players/8280806
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8279606,6,Zachry Schneider,Zachry,Schneider,Sr.,P,-,,,,,,13,10,https://stats.ncaa.org/players/8279606
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8286999,34,JJ Swafford,JJ,Swafford,Jr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/8286999
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8283498,25,Alex Leary,Alex,Leary,Sr.,P,-,,,,,,14,6,https://stats.ncaa.org/players/8283498
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8286041,11,Michael Daggett,Michael,Daggett,Sr.,p,-,,,,,,1,0,https://stats.ncaa.org/players/8286041
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8280102,5,Tal Dean,Tal,Dean,Jr.,UT,-,,,,,,45,45,https://stats.ncaa.org/players/8280102
-2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8585451,9,O. Degenhard,O.,Degenhard,---,ss,-,,,,,,50,50,https://stats.ncaa.org/players/8585451
+2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8585451,9,Oliver Degenhard,Oliver,Degenhard,---,ss,6-0,,RIGHT,RIGHT,"Saint Louis, MO",,50,50,https://stats.ncaa.org/players/8585451
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8585452,24,Kevin Donohue,Kevin,Donohue,Sr.,rf,-,,,,,,33,25,https://stats.ncaa.org/players/8585452
-2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8585453,17,D. Joggerst,D.,Joggerst,---,3b,-,,,,,,50,50,https://stats.ncaa.org/players/8585453
-2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8585454,19,C. Mueth,C.,Mueth,---,cf,-,,,,,,50,50,https://stats.ncaa.org/players/8585454
+2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8585453,17,Dakota Joggerst,Dakota,Joggerst,---,3b,6-2,,LEFT,RIGHT,"Eureka, MO",,50,50,https://stats.ncaa.org/players/8585453
+2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8585454,19,Colin Mueth,Colin,Mueth,---,cf,5-11,,LEFT,RIGHT,"Saint Louis, MO",,50,50,https://stats.ncaa.org/players/8585454
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8585455,1,Jaren Guck,Jaren,Guck,Sr.,P,6-0,,RIGHT,RIGHT,"Saint Joseph, MO",Bishop LeBlond,18,0,https://stats.ncaa.org/players/8585455
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8585456,16,Justin Maloney,Justin,Maloney,Sr.,ss,-,,,,,,24,0,https://stats.ncaa.org/players/8585456
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8585457,27,N. Bartlett,N.,Bartlett,---,p,-,,,,,,12,9,https://stats.ncaa.org/players/8585457
-2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8585459,33,E. Still,E.,Still,---,p,-,,,,,,10,0,https://stats.ncaa.org/players/8585459
-2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8585460,22,K. Stratman,K.,Stratman,---,p,-,,,,,,12,0,https://stats.ncaa.org/players/8585460
+2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8585459,33,Evan Still,Evan,Still,---,p,6-1,,LEFT,LEFT,"Lees Summit, MO",,10,0,https://stats.ncaa.org/players/8585459
+2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8585460,22,Kyle Stratman,Kyle,Stratman,---,p,5-9,,RIGHT,RIGHT,"Lees Summit, MO",,12,0,https://stats.ncaa.org/players/8585460
 2024,2023-24,MBA,2,II,GLVC,499,Truman St.,8593161,1,Charlie Burt,Charlie,Burt,Fr.,c,-,,,,,,1,0,https://stats.ncaa.org/players/8593161

@@ -1,6 +1,6 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9308938,54,Luke Kamon,Luke,Kamon,Fr.,P,6-1,,LEFT,LEFT,"Plymouth, MN",Wayzata HS,0,0,https://stats.ncaa.org/players/9308938
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305074,3,Gus Swenson,Gus,Swenson,Fr.,INF,5-8,,RIGHT,RIGHT,"Stillwater, MN",Stillwater,5,0,https://stats.ncaa.org/players/9305074
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305074,3,Gus Swenson,Gus,Swenson,Fr.,INF,5-8,,RIGHT,RIGHT,"Stillwater, MN",Stillwater,7,0,https://stats.ncaa.org/players/9305074
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9308937,53,Ephram Lanz,Ephram,Lanz,Fr.,UT,6-1,,RIGHT,RIGHT,"Stillwater, MN",Stillwater HS,0,0,https://stats.ncaa.org/players/9308937
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9308982,61,Ethan Klahsen,Ethan,Klahsen,Fr.,INF,5-11,,LEFT,RIGHT,"Minnetonka, MN",Holy Family Catholic,0,0,https://stats.ncaa.org/players/9308982
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9308934,49,Garrett Green,Garrett,Green,Fr.,P,6-1,,RIGHT,RIGHT,"Riverside, CA",Martin Luther King HS,4,0,https://stats.ncaa.org/players/9308934
@@ -10,10 +10,10 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9309112,32,Dylan Gibson,Dylan,Gibson,Sr.,P,5-10,,RIGHT,RIGHT,,,0,0,https://stats.ncaa.org/players/9309112
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9308919,13,Kellan Graning,Kellan,Graning,Fr.,UT,6-1,,RIGHT,RIGHT,"Becker, MN",Becker ,2,0,https://stats.ncaa.org/players/9308919
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9308920,15,Nate Herberger,Nate,Herberger,Fr.,INF,6-1,,RIGHT,RIGHT,"San Ramon, CA",California HS,0,0,https://stats.ncaa.org/players/9308920
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305060,5,Jake Schelonka,Jake,Schelonka,Sr.,UT,6-2,,RIGHT,RIGHT,"Sartell, MN",Sartell,12,10,https://stats.ncaa.org/players/9305060
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305061,6,Jack Tiemann,Jack,Tiemann,Sr.,INF,6-2,,LEFT,RIGHT,"Bloomington, MN",Bloomington Kennedy,12,10,https://stats.ncaa.org/players/9305061
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305060,5,Jake Schelonka,Jake,Schelonka,Sr.,UT,6-2,,RIGHT,RIGHT,"Sartell, MN",Sartell,14,12,https://stats.ncaa.org/players/9305060
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305061,6,Jack Tiemann,Jack,Tiemann,Sr.,INF,6-2,,LEFT,RIGHT,"Bloomington, MN",Bloomington Kennedy,14,12,https://stats.ncaa.org/players/9305061
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305072,24,Logan Price,Logan,Price,Fr.,P,6-0,,RIGHT,RIGHT,"Phoenix, AZ",Horizon HS,3,3,https://stats.ncaa.org/players/9305072
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305075,34,Jacob Worley,Jacob,Worley,Sr.,P,6-1,,RIGHT,RIGHT,"Ocoee, FL",Legacy Charter ,5,0,https://stats.ncaa.org/players/9305075
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305075,34,Jacob Worley,Jacob,Worley,Sr.,P,6-1,,RIGHT,RIGHT,"Ocoee, FL",Legacy Charter ,6,0,https://stats.ncaa.org/players/9305075
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9308981,58,Damon Newall,Damon,Newall,Fr.,INF,6-2,,RIGHT,RIGHT,"Jonesville, MI",Jonesville HS,0,0,https://stats.ncaa.org/players/9308981
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9308927,44,Will Adrid,Will,Adrid,Fr.,UT,5-11,,RIGHT,RIGHT,"Highlands Ranch, CO",Mountain Vista HS,0,0,https://stats.ncaa.org/players/9308927
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9308930,48,Spencer Rosenberg,Spencer,Rosenberg,Fr.,C,6-0,,RIGHT,RIGHT,"Brookings, OR",Brookings Harbor HS,0,0,https://stats.ncaa.org/players/9308930
@@ -24,36 +24,36 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9308928,46,Noah Grosspietsch,Noah,Grosspietsch,Fr.,INF,6-1,,LEFT,LEFT,"Madison, WI",Vel Phillips Memorial HS,0,0,https://stats.ncaa.org/players/9308928
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9308983,64,Robert Rodriguez,Robert,Rodriguez,Jr.,UT,6-1,,RIGHT,RIGHT,"Glendale, AZ",Raymond S. Kellis HS,0,0,https://stats.ncaa.org/players/9308983
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305058,17,Andrew Beffel,Andrew,Beffel,Fr.,INF,5-8,,RIGHT,RIGHT,"Highlands Ranch, CO",Mountain Vista HS,6,0,https://stats.ncaa.org/players/9305058
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305059,43,Brady Goebel,Brady,Goebel,Jr.,INF,6-3,,RIGHT,RIGHT,"Albany, MN",Albany HS,12,9,https://stats.ncaa.org/players/9305059
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305067,29,Damian Tamayo Vera,Damian,Tamayo Vera,Jr.,OF,6-2,,RIGHT,RIGHT,"Miami, FL",Felix Varela Senior HS,10,9,https://stats.ncaa.org/players/9305067
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305069,14,Nate Hammerback,Nate,Hammerback,So.,INF,5-11,,RIGHT,RIGHT,"Alexandria, MN",Alexandria ,7,1,https://stats.ncaa.org/players/9305069
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305070,19,Luke Krull,Luke,Krull,Fr.,OF,6-4,,RIGHT,RIGHT,"Greenville, WI",Xavier HS,7,4,https://stats.ncaa.org/players/9305070
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305073,11,Jonathan Stoeckle,Jonathan,Stoeckle,Fr.,P,6-2,,RIGHT,RIGHT,"Fresno, CA",Clovis West HS,3,1,https://stats.ncaa.org/players/9305073
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305059,43,Brady Goebel,Brady,Goebel,Jr.,INF,6-3,,RIGHT,RIGHT,"Albany, MN",Albany HS,14,10,https://stats.ncaa.org/players/9305059
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305067,29,Damian Tamayo Vera,Damian,Tamayo Vera,Jr.,OF,6-2,,RIGHT,RIGHT,"Miami, FL",Felix Varela Senior HS,11,10,https://stats.ncaa.org/players/9305067
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305069,14,Nate Hammerback,Nate,Hammerback,So.,INF,5-11,,RIGHT,RIGHT,"Alexandria, MN",Alexandria ,8,1,https://stats.ncaa.org/players/9305069
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305070,19,Luke Krull,Luke,Krull,Fr.,OF,6-4,,RIGHT,RIGHT,"Greenville, WI",Xavier HS,9,5,https://stats.ncaa.org/players/9305070
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,9305073,11,Jonathan Stoeckle,Jonathan,Stoeckle,Fr.,P,6-2,,RIGHT,RIGHT,"Fresno, CA",Clovis West HS,4,1,https://stats.ncaa.org/players/9305073
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8879666,47,Ethan Zimmerman,Ethan,Zimmerman,Jr.,P,5-10,,RIGHT,RIGHT,"Maple Grove, MN",Maple Grove ,3,1,https://stats.ncaa.org/players/8879666
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8886954,16,Sam Shopbell,Sam,Shopbell,Sr.,C,6-1,,RIGHT,RIGHT,"Prior Lake, MN",Prior Lake,9,7,https://stats.ncaa.org/players/8886954
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8889126,1,Payton Jeffries,Payton,Jeffries,Sr.,INF,5-9,,RIGHT,RIGHT,"Vancouver, WA",Union,3,3,https://stats.ncaa.org/players/8889126
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8886954,16,Sam Shopbell,Sam,Shopbell,Sr.,C,6-1,,RIGHT,RIGHT,"Prior Lake, MN",Prior Lake,11,9,https://stats.ncaa.org/players/8886954
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8889126,1,Payton Jeffries,Payton,Jeffries,Sr.,INF,5-9,,RIGHT,RIGHT,"Vancouver, WA",Union,4,4,https://stats.ncaa.org/players/8889126
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8877862,38,Zeke Walton,Zeke,Walton,Sr.,P,6-2,,RIGHT,RIGHT,"Olivia, MN",BOLD,3,0,https://stats.ncaa.org/players/8877862
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8877865,59,Andrew Barich,Andrew,Barich,So.,INF,6-1,,RIGHT,RIGHT,"Crystal, MN",Armstrong,0,0,https://stats.ncaa.org/players/8877865
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8889255,21,Matt Forrest,Matt,Forrest,Sr.,P,6-0,,LEFT,LEFT,"Oakdale, MN",Hill-Murray,3,2,https://stats.ncaa.org/players/8889255
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8887069,12,Levi Stubbles,Levi,Stubbles,Sr.,INF,6-2,,RIGHT,RIGHT,"San Bruno, CA",El Camino HS,12,9,https://stats.ncaa.org/players/8887069
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8888247,22,Finley Spicer,Finley,Spicer,Jr.,UT,6-2,,RIGHT,RIGHT,"Aberdeen, NC",Union Pines,12,9,https://stats.ncaa.org/players/8888247
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8889255,21,Matt Forrest,Matt,Forrest,Sr.,P,6-0,,LEFT,LEFT,"Oakdale, MN",Hill-Murray,4,3,https://stats.ncaa.org/players/8889255
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8887069,12,Levi Stubbles,Levi,Stubbles,Sr.,INF,6-2,,RIGHT,RIGHT,"San Bruno, CA",El Camino HS,14,11,https://stats.ncaa.org/players/8887069
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8888247,22,Finley Spicer,Finley,Spicer,Jr.,UT,6-2,,RIGHT,RIGHT,"Aberdeen, NC",Union Pines,14,11,https://stats.ncaa.org/players/8888247
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8888328,52,Eilas Jouppi,Eilas,Jouppi,So.,OF,6-0,,RIGHT,RIGHT,"Duluth, MN",Duluth East ,1,0,https://stats.ncaa.org/players/8888328
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8883340,10,Mason Argir,Mason,Argir,Sr.,OF,5-11,,LEFT,LEFT,"Brainerd, MN",Brainerd ,3,1,https://stats.ncaa.org/players/8883340
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8879230,20,Ryan Garlick,Ryan,Garlick,Sr.,OF,5-11,,RIGHT,RIGHT,"Coon Rapids, MN",Coon Rapids,9,6,https://stats.ncaa.org/players/8879230
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8882316,2,Adam Braun,Adam,Braun,Sr.,UT,6-1,,LEFT,RIGHT,"Buffalo, MN",Buffalo,12,10,https://stats.ncaa.org/players/8882316
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8883340,10,Mason Argir,Mason,Argir,Sr.,OF,5-11,,LEFT,LEFT,"Brainerd, MN",Brainerd ,4,1,https://stats.ncaa.org/players/8883340
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8879230,20,Ryan Garlick,Ryan,Garlick,Sr.,OF,5-11,,RIGHT,RIGHT,"Coon Rapids, MN",Coon Rapids,11,7,https://stats.ncaa.org/players/8879230
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8882316,2,Adam Braun,Adam,Braun,Sr.,UT,6-1,,LEFT,RIGHT,"Buffalo, MN",Buffalo,14,12,https://stats.ncaa.org/players/8882316
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8889765,40,Patrick McManus,Patrick,McManus,Jr.,P,6-0,,RIGHT,RIGHT,"Lakeville, MN",Lakeville South,1,0,https://stats.ncaa.org/players/8889765
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8885650,27,Mason Boos,Mason,Boos,Jr.,OF,6-0,,LEFT,LEFT,"Duluth, MN",Duluth Marshall,1,0,https://stats.ncaa.org/players/8885650
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8885650,27,Mason Boos,Mason,Boos,Jr.,OF,6-0,,LEFT,LEFT,"Duluth, MN",Duluth Marshall,2,0,https://stats.ncaa.org/players/8885650
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8876472,37,Jonah Johnson,Jonah,Johnson,Jr.,OF,6-1,,LEFT,LEFT,"New York Mills, MN",New York Mills ,1,0,https://stats.ncaa.org/players/8876472
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8879467,26,Zach Hlinsky,Zach,Hlinsky,Jr.,P,6-1,,RIGHT,RIGHT,"Albertville, MN",St. Michael-Albertville HS,1,0,https://stats.ncaa.org/players/8879467
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8881649,55,Kyle Oswald,Kyle,Oswald,Sr.,C,5-10,,LEFT,RIGHT,"Mahtomedi, MN",Mahtomedi ,6,5,https://stats.ncaa.org/players/8881649
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8879467,26,Zach Hlinsky,Zach,Hlinsky,Jr.,P,6-1,,RIGHT,RIGHT,"Albertville, MN",St. Michael-Albertville HS,2,0,https://stats.ncaa.org/players/8879467
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8881649,55,Kyle Oswald,Kyle,Oswald,Sr.,C,5-10,,LEFT,RIGHT,"Mahtomedi, MN",Mahtomedi ,8,7,https://stats.ncaa.org/players/8881649
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8883733,57,Ethan Hursh,Ethan,Hursh,Jr.,C,5-10,,RIGHT,RIGHT,"Forest Lake, MN",Forest Lake,0,0,https://stats.ncaa.org/players/8883733
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8898929,51,Marcos Gallegos,Marcos,Gallegos,So.,INF,5-8,,RIGHT,RIGHT,"Forest Lake, MN",Forest Lake,0,0,https://stats.ncaa.org/players/8898929
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8895757,36,Ethan Raye,Ethan,Raye,Sr.,C,6-0,,RIGHT,RIGHT,"Superior, WI",Superior,3,1,https://stats.ncaa.org/players/8895757
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8892478,35,Nico Gallegos,Nico,Gallegos,Jr.,P,5-9,,LEFT,LEFT,"Forest Lake, MN",Forest Lake ,4,0,https://stats.ncaa.org/players/8892478
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8892478,35,Nico Gallegos,Nico,Gallegos,Jr.,P,5-9,,LEFT,LEFT,"Forest Lake, MN",Forest Lake ,5,0,https://stats.ncaa.org/players/8892478
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8893760,15,Andrew Rott,Andrew,Rott,Sr.,OF,6-0,,RIGHT,RIGHT,"Saint Augusta, MN",St. Cloud Cathedral ,0,0,https://stats.ncaa.org/players/8893760
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8894760,7,Joe Udd,Joe,Udd,Sr.,P,6-1,,RIGHT,LEFT,"Duluth, MN",Duluth Denfeld,0,0,https://stats.ncaa.org/players/8894760
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8898818,63,Connor Stanley,Connor,Stanley,So.,P,6-0,,RIGHT,RIGHT,"Lino Lakes, MN",White Bear Lake,0,0,https://stats.ncaa.org/players/8898818
-2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8896152,39,Matt Juza,Matt,Juza,Jr.,P,6-0,,RIGHT,RIGHT,"Rice Lake, WI",Rice Lake,3,1,https://stats.ncaa.org/players/8896152
+2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8896152,39,Matt Juza,Matt,Juza,Jr.,P,6-0,,RIGHT,RIGHT,"Rice Lake, WI",Rice Lake,4,1,https://stats.ncaa.org/players/8896152
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8897645,45,Spencer Schmidt,Spencer,Schmidt,So.,UT,5-8,,RIGHT,RIGHT,"Alexandria, MN",Alexandria ,1,0,https://stats.ncaa.org/players/8897645
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8897817,30,Beau Plaisance,Beau,Plaisance,Sr.,INF,5-9,,RIGHT,RIGHT,"New Prague, MN",New Prague,0,0,https://stats.ncaa.org/players/8897817
 2025,2024-25,MBA,3,III,MIAC,618,St. Scholastica,8897899,56,Drew Sparrow,Drew,Sparrow,So.,P,6-4,,RIGHT,RIGHT,"Edina, MN",Edina,0,0,https://stats.ncaa.org/players/8897899

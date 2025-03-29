@@ -1,6 +1,8 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995822,37,Hayden Robbins,Hayden,Robbins,Fr.,INF,6-3,,RIGHT,RIGHT,"Richmond, KY",Madison Central HS,0,0,https://stats.ncaa.org/players/7995822
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995751,5,Ryan Grabosch,Ryan,Grabosch,Jr.,C,6-2,,,,"Tucson, AZ",,24,24,https://stats.ncaa.org/players/7995751
+2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995826,41,Davis Germann,Davis,Germann,Fr.,OF,6-0,,RIGHT,RIGHT,"Kitchener, Canada",Cameron Heights Collegiate Institute,11,2,https://stats.ncaa.org/players/7995826
+2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7828503,27,Jacob Ferry,Jacob,Ferry,Jr.,OF,6-2,,,,"Aurora, IL",Oswego East HS,25,12,https://stats.ncaa.org/players/7828503
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995832,44,Renan Dobbs,Renan,Dobbs,Fr.,P,6-2,,,,"Monticello, KY",Wayne County HS,0,0,https://stats.ncaa.org/players/7995832
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995811,24,Luke Lyman,Luke,Lyman,Fr.,P,6-5,,RIGHT,RIGHT,"Berryville, VA",Clarke County,25,0,https://stats.ncaa.org/players/7995811
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995813,25,Jonah Sibley,Jonah,Sibley,Jr.,P,5-11,,RIGHT,RIGHT,"Niles, MI",Lake Michigan CC (Mich.),0,0,https://stats.ncaa.org/players/7995813
@@ -8,7 +10,6 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7828500,9,Ryley Preece,Ryley,Preece,Jr.,INF,5-11,,,,"Paintsville, KY",Johnson Central HS,56,56,https://stats.ncaa.org/players/7828500
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7828501,22,Matt Bettio,Matt,Bettio,Sr.,P,6-3,,,,"Montville, NJ",Montville Township HS,29,1,https://stats.ncaa.org/players/7828501
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7828502,1,Luke Helton,Luke,Helton,Sr.,P,6-1,,,,"Whiteland, IN",Whiteland HS,15,14,https://stats.ncaa.org/players/7828502
-2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7828503,27,Jacob Ferry,Jacob,Ferry,Jr.,OF,6-2,,,,"Aurora, IL",Oswego East HS,25,12,https://stats.ncaa.org/players/7828503
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7828504,10,Joe Rotkis,Joe,Rotkis,Sr.,P,6-2,,,,"Granger, IN",St. Joseph's HS,18,8,https://stats.ncaa.org/players/7828504
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7828505,21,Eli Kirkendoll,Eli,Kirkendoll,Jr.,C,6-4,,RIGHT,RIGHT,"Salt Rock, WV",Lincoln County HS,7,0,https://stats.ncaa.org/players/7828505
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7828506,30,Jackson Feltner,Jackson,Feltner,Jr.,INF,-,,,,,,56,56,https://stats.ncaa.org/players/7828506
@@ -26,6 +27,12 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7828522,46,Branden Blakenship,Branden,Blakenship,Sr.,P,-,,,,,,9,0,https://stats.ncaa.org/players/7828522
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7828523,18,Carter Sakamoto,Carter,Sakamoto,Sr.,C,-,,,,,,41,31,https://stats.ncaa.org/players/7828523
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7828524,19,Roman Kuntz,Roman,Kuntz,Jr.,OF,6-3,,,,"New Carlisle, IN",Lake Michigan CC (Mich.),56,56,https://stats.ncaa.org/players/7828524
+2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995824,38,Nick Karls,Nick,Karls,Fr.,P,6-2,,RIGHT,RIGHT,"Severna Park, MD",Chesapeake H.S.,0,0,https://stats.ncaa.org/players/7995824
+2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995834,45,Carter Owens,Carter,Owens,Fr.,OF,6-0,,LEFT,RIGHT,"Lexington, KY",Lafayette HS,37,25,https://stats.ncaa.org/players/7995834
+2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995790,14,Riley Bradshaw,Riley,Bradshaw,Fr.,P,6-0,,,,"Pekin, IL",Lincoln Land CC (Ill.),28,4,https://stats.ncaa.org/players/7995790
+2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995810,23,Zach Taylor,Zach,Taylor,Fr.,P,6-2,,,,"Paintsville, KY",Paintsville HS,6,0,https://stats.ncaa.org/players/7995810
+2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995821,36,Gabriel Sepulveda,Gabriel,Sepulveda,Jr.,INF,5-11,,,,"Conroe, TX",Conroe HS,5,0,https://stats.ncaa.org/players/7995821
+2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995779,35,Jarrett Miller,Jarrett,Miller,Sr.,P,-,,,,,,20,0,https://stats.ncaa.org/players/7995779
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995748,6,Alex Kafka,Alex,Kafka,Sr.,P,6-1,,RIGHT,RIGHT,"Pittsburg, KS",,7,1,https://stats.ncaa.org/players/7995748
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995778,26,John Bakke,John,Bakke,Sr.,P,-,,,,,,18,10,https://stats.ncaa.org/players/7995778
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995782,2,Nick Gooden,Nick,Gooden,Sr.,INF,5-10,,,,"Berlin, PA",Berlin Brothersvalley HS,52,51,https://stats.ncaa.org/players/7995782
@@ -33,10 +40,3 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995788,7,Kyle Bartman,Kyle,Bartman,Jr.,INF,6-0,,,,"Metamora, IL",Danville Area CC (Ill.),19,14,https://stats.ncaa.org/players/7995788
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995791,20,Ethan Davis,Ethan,Davis,Fr.,P,6-0,,RIGHT,RIGHT,"Nicholasville, KY",West Jessamine HS,9,3,https://stats.ncaa.org/players/7995791
 2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995796,34,Ryan Atkins,Ryan,Atkins,Fr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/7995796
-2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995790,14,Riley Bradshaw,Riley,Bradshaw,Fr.,P,6-0,,,,"Pekin, IL",Lincoln Land CC (Ill.),28,4,https://stats.ncaa.org/players/7995790
-2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995779,35,Jarrett Miller,Jarrett,Miller,Sr.,P,-,,,,,,20,0,https://stats.ncaa.org/players/7995779
-2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995810,23,Zach Taylor,Zach,Taylor,Fr.,P,6-2,,,,"Paintsville, KY",Paintsville HS,6,0,https://stats.ncaa.org/players/7995810
-2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995821,36,Gabriel Sepulveda,Gabriel,Sepulveda,Jr.,INF,5-11,,,,"Conroe, TX",Conroe HS,5,0,https://stats.ncaa.org/players/7995821
-2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995834,45,Carter Owens,Carter,Owens,Fr.,OF,6-0,,LEFT,RIGHT,"Lexington, KY",Lafayette HS,37,25,https://stats.ncaa.org/players/7995834
-2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995826,41,Davis Germann,Davis,Germann,Fr.,OF,6-0,,RIGHT,RIGHT,"Kitchener, Canada",Cameron Heights Collegiate Institute,11,2,https://stats.ncaa.org/players/7995826
-2023,2022-23,MBA,1,I,OVC,444,Morehead St.,7995824,38,Nick Karls,Nick,Karls,Fr.,P,6-2,,RIGHT,RIGHT,"Severna Park, MD",Chesapeake H.S.,0,0,https://stats.ncaa.org/players/7995824

@@ -1,9 +1,9 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7988954,24,Matt Woods,Matt,Woods,---,INF,6-1,,LEFT,RIGHT,"Warwick, RI",Pilgrim,48,48,https://stats.ncaa.org/players/7988954
+2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7827978,42,Nick Dean,Nick,Dean,Sr.,P,-,,,,,,15,15,https://stats.ncaa.org/players/7827978
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7827972,1,Jacob Orr,Jacob,Orr,So.,INF,5-9,,RIGHT,RIGHT,"Frederick, MD",Thomas Johnson,44,35,https://stats.ncaa.org/players/7827972
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7827974,15,Zach Martin,Zach,Martin,So.,OF,6-0,,RIGHT,RIGHT,"Middletown, MD",,11,8,https://stats.ncaa.org/players/7827974
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7827977,45,Jason Savacool,Jason,Savacool,Jr.,P,-,,,,,,17,16,https://stats.ncaa.org/players/7827977
-2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7827978,42,Nick Dean,Nick,Dean,Sr.,P,-,,,,,,15,15,https://stats.ncaa.org/players/7827978
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7827980,13,Matt Orlando,Matt,Orlando,Sr.,INF,-,,,,,,5,0,https://stats.ncaa.org/players/7827980
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7827981,40,Michael Bouma,Michael,Bouma,Sr.,INF,-,,,,,,3,0,https://stats.ncaa.org/players/7827981
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7827984,38,James Heffley,James,Heffley,Jr.,C,-,,,,,,9,2,https://stats.ncaa.org/players/7827984
@@ -20,20 +20,20 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7828001,23,Ian Petrutz,Ian,Petrutz,So.,OF,6-0,,LEFT,LEFT,"Mantua, NJ",,58,56,https://stats.ncaa.org/players/7828001
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7828002,35,Ryan Van Buren,Ryan,Van Buren,So.,P,6-3,,RIGHT,RIGHT,"Meadowbrook, PA",Abington,21,8,https://stats.ncaa.org/players/7828002
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7828003,5,Andrew Johnson,Andrew,Johnson,So.,P,6-0,,LEFT,LEFT,"Mount Airy, MD",Glenelg,22,1,https://stats.ncaa.org/players/7828003
-2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989046,9,Simmi Whitehill,Simmi,Whitehill,Fr.,INF,5-10,,LEFT,RIGHT,"Middletown, DE",Bishop Shanahan,2,0,https://stats.ncaa.org/players/7989046
-2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989054,16,Eliakim Stowe,Eliakim,Stowe,Fr.,P,-,,,,,,5,0,https://stats.ncaa.org/players/7989054
-2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989064,43,Thomas Rogers,Thomas,Rogers,Fr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/7989064
-2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989074,21,Kenny Lippman,Kenny,Lippman,---,P,6-4,,RIGHT,RIGHT,"McLean, VA",Langley,31,3,https://stats.ncaa.org/players/7989074
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989049,10,Joey Colucci,Joey,Colucci,Fr.,P,-,,,,,,6,0,https://stats.ncaa.org/players/7989049
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989051,12,Devin Russell,Devin,Russell,Fr.,C,6-2,,RIGHT,RIGHT,"Boonton Township, NJ",Mountain Lakes,5,3,https://stats.ncaa.org/players/7989051
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989091,31,Tommy Kane,Tommy,Kane,Jr.,P,-,,,,,,17,0,https://stats.ncaa.org/players/7989091
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989056,18,Jake Walman,Jake,Walman,Fr.,INF,6-0,,RIGHT,RIGHT,"Bourne, MA",St. John II,0,0,https://stats.ncaa.org/players/7989056
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989060,32,Luke Zeisloft,Luke,Zeisloft,Fr.,OF,5-11,,,,"Bloomsburg, PA",Central Columbia,10,2,https://stats.ncaa.org/players/7989060
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989067,11,Elijah Lambros,Elijah,Lambros,So.,OF,6-2,,RIGHT,RIGHT,"Fredericksburg, VA",Fredericksburg Christian School,62,59,https://stats.ncaa.org/players/7989067
-2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989082,26,Nate Haberthier,Nate,Haberthier,Jr.,P,6-5,,RIGHT,RIGHT,"West Chester, OH",Lakota East,17,7,https://stats.ncaa.org/players/7989082
-2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989040,4,Alex Irizarry,Alex,Irizarry,Fr.,INF,-,,,,,,5,1,https://stats.ncaa.org/players/7989040
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989041,7,Caleb Estes,Caleb,Estes,Fr.,INF,6-4,,RIGHT,RIGHT,"Severn, MD",Archbishop Spalding,3,0,https://stats.ncaa.org/players/7989041
+2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989058,22,Kyle McCoy,Kyle,McCoy,Fr.,P,6-6,,LEFT,LEFT,"Ringoes, NJ",Hunterdon School,15,12,https://stats.ncaa.org/players/7989058
+2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989040,4,Alex Irizarry,Alex,Irizarry,Fr.,INF,-,,,,,,5,1,https://stats.ncaa.org/players/7989040
+2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989082,26,Nate Haberthier,Nate,Haberthier,Jr.,P,6-5,,RIGHT,RIGHT,"West Chester, OH",Lakota East,17,7,https://stats.ncaa.org/players/7989082
+2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989046,9,Simmi Whitehill,Simmi,Whitehill,Fr.,INF,5-10,,LEFT,RIGHT,"Middletown, DE",Bishop Shanahan,2,0,https://stats.ncaa.org/players/7989046
+2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989054,16,Eli Stowe,Eli,Stowe,Fr.,P,6-3,,RIGHT,RIGHT,"Poughkeepsie, NY",Millbrook,5,0,https://stats.ncaa.org/players/7989054
+2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989064,43,Thomas Rogers,Thomas,Rogers,Fr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/7989064
+2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989074,21,Kenny Lippman,Kenny,Lippman,---,P,6-4,,RIGHT,RIGHT,"McLean, VA",Langley,31,3,https://stats.ncaa.org/players/7989074
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989053,14,Wagner Morrisette,Wagner,Morrisette,Fr.,P,-,,,,,,3,0,https://stats.ncaa.org/players/7989053
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989055,17,Andrew Brock,Andrew,Brock,Fr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/7989055
 2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989093,39,Eddie Hacopian,Eddie,Hacopian,So.,INF,6-3,,RIGHT,RIGHT,"Potomac, MD",Winston Churchill,63,63,https://stats.ncaa.org/players/7989093
-2023,2022-23,MBA,1,I,Big Ten,392,Maryland,7989058,22,Kyle McCoy,Kyle,McCoy,Fr.,P,6-6,,LEFT,LEFT,"Ringoes, NJ",Hunterdon School,15,12,https://stats.ncaa.org/players/7989058

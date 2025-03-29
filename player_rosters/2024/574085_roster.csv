@@ -1,7 +1,7 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8276211,24,Ryan Dollar,Ryan,Dollar,So.,P,6-3,,RIGHT,RIGHT,"Houston, TX",MacArthur HS,18,0,https://stats.ncaa.org/players/8276211
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8263271,10,Cary Arbolida,Cary,Arbolida,Sr.,OF,6-1,,RIGHT,RIGHT,"Torrance, CA",South Torrance HS,45,38,https://stats.ncaa.org/players/8263271
-2024,2023-24,MBA,1,I,Big 12,288,Houston,8269048,18,Cameron Nickens,Cameron,Nickens,Jr.,OF,6-3,,RIGHT,RIGHT,,,37,28,https://stats.ncaa.org/players/8269048
+2024,2023-24,MBA,1,I,Big 12,288,Houston,8269048,18,Cameron Nickens,Cameron,Nickens,Jr.,OF,6-3,,RIGHT,RIGHT,"Magnolia, TX",Magnolia HS,37,28,https://stats.ncaa.org/players/8269048
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8261030,46,Merek Sears,Merek,Sears,Jr.,P,6-3,,,,"Ferndale, CA",Arcata HS,0,0,https://stats.ncaa.org/players/8261030
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8262150,48,Jacob Schoenvogel,Jacob,Schoenvogel,Sr.,OF,6-2,,LEFT,RIGHT,"Houston, TX",Cy-Fair HS,36,17,https://stats.ncaa.org/players/8262150
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8259818,45,Tyler Gray,Tyler,Gray,So.,P,6-3,,,,"Coral Springs, FL",J.P Taravella HS,0,0,https://stats.ncaa.org/players/8259818
@@ -23,23 +23,23 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491180,8,Alex Solis,Alex,Solis,Fr.,P,6-1,,RIGHT,RIGHT,"Weslaco, TX",Weslaco East HS,19,2,https://stats.ncaa.org/players/8491180
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491185,19,Dillon DeSpain,Dillon,DeSpain,Fr.,P,6-4,,RIGHT,RIGHT,"Hawthorne, CA",Mira Costa HS,0,0,https://stats.ncaa.org/players/8491185
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491187,31,Kenneth Jimenez,Kenneth,Jimenez,Jr.,C,5-8,,RIGHT,RIGHT,"Tucson, AZ",Nogales HS,45,30,https://stats.ncaa.org/players/8491187
+2024,2023-24,MBA,1,I,Big 12,288,Houston,8491151,42,Chris Stuart,Chris,Stuart,Jr.,P,6-1,,LEFT,LEFT,"Amsterdam, Netherlands",Calandlyceum,17,1,https://stats.ncaa.org/players/8491151
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491177,1,Ace Reese,Ace,Reese,Fr.,INF,6-3,,LEFT,RIGHT,"Canton, TX",Canton HS,48,42,https://stats.ncaa.org/players/8491177
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491132,26,Jose Torrealba,Jose,Torrealba,Sr.,P,5-8,,LEFT,LEFT,,,19,0,https://stats.ncaa.org/players/8491132
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491134,0,Harold Coll,Harold,Coll,Sr.,INF,5-11,,RIGHT,RIGHT,"Boston, MA",Georgia Premier Academy / San Jacinto College,54,54,https://stats.ncaa.org/players/8491134
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491136,33,Tre Jones,Tre,Jones,Jr.,OF,6-4,,LEFT,LEFT,"Houston, TX",Jersey Village HS,44,38,https://stats.ncaa.org/players/8491136
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491144,29,Jonathan French,Jonathan,French,Jr.,C,5-11,,RIGHT,RIGHT,"Lilburn, GA",Parkview HS,50,41,https://stats.ncaa.org/players/8491144
-2024,2023-24,MBA,1,I,Big 12,288,Houston,8491151,42,Chris Stuart,Chris,Stuart,Jr.,P,6-1,,LEFT,LEFT,"Amsterdam, Netherlands",Calandlyceum,17,1,https://stats.ncaa.org/players/8491151
+2024,2023-24,MBA,1,I,Big 12,288,Houston,8491181,11,Tristan Russell,Tristan,Russell,Fr.,UT,6-0,,BOTH,RIGHT,"Cypress, TX",Cypress Woods HS,0,0,https://stats.ncaa.org/players/8491181
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491133,20,Kyle LaCalamento,Kyle,LaCalamento,Sr.,P,6-2,,LEFT,LEFT,,,16,6,https://stats.ncaa.org/players/8491133
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491140,15,Tristan Moore,Tristan,Moore,Jr.,OF,6-2,,LEFT,LEFT,"St. Thomas, U.S. Virgin Islands",Antilles,7,3,https://stats.ncaa.org/players/8491140
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491142,25,Duncan Howard,Duncan,Howard,Jr.,P,6-3,,RIGHT,RIGHT,"Kernersville, NC",Robert B. Glenn,8,7,https://stats.ncaa.org/players/8491142
-2024,2023-24,MBA,1,I,Big 12,288,Houston,8491181,11,Tristan Russell,Tristan,Russell,Fr.,UT,6-0,,BOTH,RIGHT,"Cypress, TX",Cypress Woods HS,0,0,https://stats.ncaa.org/players/8491181
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491192,50,Richie Roman,Richie,Roman,Fr.,P,6-3,,RIGHT,RIGHT,"Corpus Christi, TX",Carroll HS,8,2,https://stats.ncaa.org/players/8491192
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491184,12,Joey Craig,Joey,Craig,Jr.,OF,6-2,,RIGHT,RIGHT,"Omaha, NE",Omaha Central HS,12,3,https://stats.ncaa.org/players/8491184
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491188,34,Conner Bennett,Conner,Bennett,Fr.,C,5-8,,RIGHT,RIGHT,"Conroe, TX",Oak Ridge HS,19,7,https://stats.ncaa.org/players/8491188
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491189,36,Diego Luzardo,Diego,Luzardo,Fr.,P,6-0,,RIGHT,RIGHT,"La Porte, TX",La Porte HS,16,0,https://stats.ncaa.org/players/8491189
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491194,32,Anthony Avalos,Anthony,Avalos,Fr.,INF,5-9,,RIGHT,RIGHT,"Pearland, TX",Pearland HS,13,4,https://stats.ncaa.org/players/8491194
+2024,2023-24,MBA,1,I,Big 12,288,Houston,8491141,21,Jaxon Jelkin,Jaxon,Jelkin,Fr.,P,6-5,,RIGHT,RIGHT,"Omaha, NE",Bellevue West HS,7,7,https://stats.ncaa.org/players/8491141
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491131,13,Justin Murray,Justin,Murray,Sr.,UT,6-0,,RIGHT,RIGHT,"Charlotte, NC",Providence Day School,54,54,https://stats.ncaa.org/players/8491131
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491135,3,Hudson Sapp,Hudson,Sapp,So.,OF,5-10,,RIGHT,RIGHT,"Dawsonville, GA",Dawson County,1,0,https://stats.ncaa.org/players/8491135
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8491137,4,Antoine Jean,Antoine,Jean,Sr.,P,6-1,,RIGHT,LEFT,"Montreal, Canada",Edouard-Montpetit,14,14,https://stats.ncaa.org/players/8491137
-2024,2023-24,MBA,1,I,Big 12,288,Houston,8491141,21,Jaxon Jelkin,Jaxon,Jelkin,Fr.,P,6-5,,RIGHT,RIGHT,"Omaha, NE",Bellevue West HS,7,7,https://stats.ncaa.org/players/8491141
 2024,2023-24,MBA,1,I,Big 12,288,Houston,8685158,5,Anthony Tulimero,Anthony,Tulimero,Sr.,C,-,,,,,,37,37,https://stats.ncaa.org/players/8685158

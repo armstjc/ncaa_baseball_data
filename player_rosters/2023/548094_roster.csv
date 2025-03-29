@@ -1,9 +1,9 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
 2023,2022-23,MBA,1,I,ACC,67,Boston College,7988894,33,Henry Leake,Henry,Leake,Sr.,P,-,,RIGHT,RIGHT,,,18,11,https://stats.ncaa.org/players/7988894
 2023,2022-23,MBA,1,I,ACC,67,Boston College,7988895,52,Ian Murphy,Ian,Murphy,Sr.,P,6-4,,RIGHT,RIGHT,,,19,1,https://stats.ncaa.org/players/7988895
-2023,2022-23,MBA,1,I,ACC,67,Boston College,7988948,27,Jason Hernandez,Jason,Hernandez,Fr.,P,6-1,,RIGHT,RIGHT,,,0,0,https://stats.ncaa.org/players/7988948
+2023,2022-23,MBA,1,I,ACC,67,Boston College,7988948,27,Jason Hernandez,Jason,Hernandez,Fr.,P,6-1,,RIGHT,RIGHT,"Bridgeport, CT",Greens Farms Academy '22,0,0,https://stats.ncaa.org/players/7988948
 2023,2022-23,MBA,1,I,ACC,67,Boston College,7824897,20,Barry Walsh,Barry,Walsh,Sr.,OF,6-0,,RIGHT,RIGHT,"Sterling, MA",Wachusett,53,51,https://stats.ncaa.org/players/7824897
-2023,2022-23,MBA,1,I,ACC,67,Boston College,7824898,7,Patrick Roche,Patrick,Roche,Jr.,INF,6-0,,RIGHT,RIGHT,"Milton, MA",,56,56,https://stats.ncaa.org/players/7824898
+2023,2022-23,MBA,1,I,ACC,67,Boston College,7824898,7,Patrick Roche,Patrick,Roche,Jr.,INF,6-0,,RIGHT,RIGHT,"Milton, MA",Boston College High,56,56,https://stats.ncaa.org/players/7824898
 2023,2022-23,MBA,1,I,ACC,67,Boston College,7824899,2,Travis Honeyman,Travis,Honeyman,Jr.,OF,-,,RIGHT,RIGHT,,,39,39,https://stats.ncaa.org/players/7824899
 2023,2022-23,MBA,1,I,ACC,67,Boston College,7824900,19,Brian McMonagle,Brian,McMonagle,Sr.,P,6-1,,RIGHT,RIGHT,"Moorestown, NJ",Moorestown,2,0,https://stats.ncaa.org/players/7824900
 2023,2022-23,MBA,1,I,ACC,67,Boston College,7824901,29,Jon Campbell,Jon,Campbell,Sr.,P,-,,RIGHT,RIGHT,,,0,0,https://stats.ncaa.org/players/7824901
@@ -34,7 +34,6 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2023,2022-23,MBA,1,I,ACC,67,Boston College,7988918,40,Andrew Roman,Andrew,Roman,Sr.,P,6-0,,RIGHT,RIGHT,"Monson, MA",Pathfinder,23,1,https://stats.ncaa.org/players/7988918
 2023,2022-23,MBA,1,I,ACC,67,Boston College,7989029,48,A.J. Colarusso,A.J.,Colarusso,Fr.,P,6-0,,LEFT,LEFT,"Leominster, MA",Groton School,10,5,https://stats.ncaa.org/players/7989029
 2023,2022-23,MBA,1,I,ACC,67,Boston College,7988923,31,Chris Flynn,Chris,Flynn,Sr.,P,6-3,,RIGHT,RIGHT,"Naugatuck, CT",Holy Cross,16,16,https://stats.ncaa.org/players/7988923
-2023,2022-23,MBA,1,I,ACC,67,Boston College,7989024,37,James Hackett,James,Hackett,Fr.,OF,6-5,,LEFT,RIGHT,"Glenview, IL",Glenbrook South,0,0,https://stats.ncaa.org/players/7989024
 2023,2022-23,MBA,1,I,ACC,67,Boston College,7989028,46,Ryan DiMaggio,Ryan,DiMaggio,Fr.,P,6-3,,LEFT,LEFT,"Hamilton, NJ",The Hun School,0,0,https://stats.ncaa.org/players/7989028
 2023,2022-23,MBA,1,I,ACC,67,Boston College,7989030,55,Adonys Guzman,Adonys,Guzman,Fr.,C,5-11,,RIGHT,RIGHT,"Valley Cottage, NY",Salesian HS,22,19,https://stats.ncaa.org/players/7989030
 2023,2022-23,MBA,1,I,ACC,67,Boston College,7989023,35,Kyle Wolff,Kyle,Wolff,Fr.,INF,6-1,,RIGHT,LEFT,"Andover, MA",Middlesex School,20,11,https://stats.ncaa.org/players/7989023
@@ -42,3 +41,4 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2023,2022-23,MBA,1,I,ACC,67,Boston College,7988908,45,Travis Lane,Travis,Lane,Sr.,P,6-2,,LEFT,RIGHT,"Georgetown, MA",Phillips Academy,3,0,https://stats.ncaa.org/players/7988908
 2023,2022-23,MBA,1,I,ACC,67,Boston College,7989013,12,Owen DeShazo,Owen,DeShazo,Fr.,INF,6-6,,RIGHT,RIGHT,"Glen Allen, VA",,6,1,https://stats.ncaa.org/players/7989013
 2023,2022-23,MBA,1,I,ACC,67,Boston College,7988947,24,Giovanni Arzuaga,Giovanni,Arzuaga,Fr.,P,6-1,,RIGHT,RIGHT,"New Bedford, MA",Tabor Academy,0,0,https://stats.ncaa.org/players/7988947
+2023,2022-23,MBA,1,I,ACC,67,Boston College,7989024,37,James Hackett,James,Hackett,Fr.,OF,6-5,,LEFT,RIGHT,"Glenview, IL",Glenbrook South,0,0,https://stats.ncaa.org/players/7989024

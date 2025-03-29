@@ -5,7 +5,6 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8263669,3,Ryan Niese,Ryan,Niese,Sr.,INF,-,,,,,,22,17,https://stats.ncaa.org/players/8263669
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8277035,6,Travis Wiese,Travis,Wiese,Sr.,3b,-,,,,,,28,23,https://stats.ncaa.org/players/8277035
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8270675,46,Lynden Bruegman,Lynden,Bruegman,So.,p,6-3,,LEFT,LEFT,"Lincoln, NE",Lincoln Northstar,11,9,https://stats.ncaa.org/players/8270675
-2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8273266,18,Landon Klein,Landon,Klein,Sr.,OF,-,,,,,,0,0,https://stats.ncaa.org/players/8273266
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8260276,1,Jhonatan Pena,Jhonatan,Pena,So.,ss,-,,,,,,0,0,https://stats.ncaa.org/players/8260276
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8268436,43,Jackson Adam,Jackson,Adam,So.,p,-,,,,,,10,0,https://stats.ncaa.org/players/8268436
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8260458,5,Cale Sackewitz,Cale,Sackewitz,Sr.,ph,-,,,,,,0,0,https://stats.ncaa.org/players/8260458
@@ -24,6 +23,9 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457727,45,Cameron Dean,Cameron,Dean,Fr.,c,5-11,,LEFT,RIGHT,"Kansas City, MO",Platte County,18,13,https://stats.ncaa.org/players/8457727
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457729,39,Robert Farrell,Robert,Farrell,Sr.,P,-,,,,,,16,0,https://stats.ncaa.org/players/8457729
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457734,13,Jon Stanley,Jon,Stanley,Jr.,p,6-3,,RIGHT,RIGHT,"Overland Park, KS",Raytown,11,5,https://stats.ncaa.org/players/8457734
+2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457726,49,Anthony Taggart,Anthony,Taggart,---,rf,6-3,,RIGHT,RIGHT,"Topeka, KS",Washburn Rural,22,15,https://stats.ncaa.org/players/8457726
+2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8585493,29,David Steffen,David,Steffen,Sr.,P,-,,,,,,14,4,https://stats.ncaa.org/players/8585493
+2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457720,7,Tyson Gerdes,Tyson,Gerdes,Jr.,cf/lf,5-10,,RIGHT,RIGHT,"Omaha, NE",Millard South,18,13,https://stats.ncaa.org/players/8457720
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457617,27,Zach Hanlan,Zach,Hanlan,Sr.,OF,-,,,,,,12,7,https://stats.ncaa.org/players/8457617
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457622,12,Quinton Robertson,Quinton,Robertson,Jr.,dh,6-0,,BOTH,RIGHT,"Blue Springs, MO",Blue Springs South,39,32,https://stats.ncaa.org/players/8457622
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457732,47,Mitch Mauk,Mitch,Mauk,Fr.,p,6-7,,RIGHT,RIGHT,"Gardner, KS",Gardner Edgerton,3,0,https://stats.ncaa.org/players/8457732
@@ -35,17 +37,14 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457718,30,Rogelio Berumen,Rogelio,Berumen,Jr.,lf,6-0,,RIGHT,RIGHT,"Edwardsville, IL",Edwardsville,21,17,https://stats.ncaa.org/players/8457718
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457724,21,Layne Rutherford,Layne,Rutherford,Jr.,p,-,,,,,,10,4,https://stats.ncaa.org/players/8457724
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457733,48,Jacob Ross,Jacob,Ross,---,p,5-9,,RIGHT,RIGHT,"Belton, MO",Belton,14,0,https://stats.ncaa.org/players/8457733
-2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457726,49,Anthony Taggart,Anthony,Taggart,---,rf,6-3,,RIGHT,RIGHT,"Topeka, KS",Washburn Rural,22,15,https://stats.ncaa.org/players/8457726
-2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8585493,29,David Steffen,David,Steffen,Sr.,P,-,,,,,,14,4,https://stats.ncaa.org/players/8585493
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457621,1,Blake Martin,Blake,Martin,So.,cf,-,,,,,,20,13,https://stats.ncaa.org/players/8457621
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457623,43,Diego Rodriguez,Diego,Rodriguez,Fr.,2b,-,,,,,,6,2,https://stats.ncaa.org/players/8457623
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457618,36,Jared Munk,Jared,Munk,Sr.,INF,-,,,,,,40,38,https://stats.ncaa.org/players/8457618
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457717,25,Jake Beckmann,Jake,Beckmann,Jr.,p,-,,,,,,13,2,https://stats.ncaa.org/players/8457717
-2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457720,7,Tyson Gerdes,Tyson,Gerdes,Jr.,cf/lf,5-10,,RIGHT,RIGHT,"Omaha, NE",Millard South,18,13,https://stats.ncaa.org/players/8457720
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457730,19,Quinn Gundelfinger,Quinn,Gundelfinger,Jr.,ss,6-2,,RIGHT,RIGHT,"Nixa, MO",Nixa,22,17,https://stats.ncaa.org/players/8457730
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8457731,28,Jeremy Husband,Jeremy,Husband,Sr.,p,-,,,,,,13,0,https://stats.ncaa.org/players/8457731
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8587179,22,Ryan Koval,Ryan,Koval,Sr.,OF,6-3,,RIGHT,RIGHT,"Olathe, KS",Olathe South High School,43,43,https://stats.ncaa.org/players/8587179
-2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8598124,16,John Green,John,Green,Jr.,p,-,,,,,,3,0,https://stats.ncaa.org/players/8598124
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8587146,24,Ty Campbell,Ty,Campbell,Jr.,C,-,,,,,,0,0,https://stats.ncaa.org/players/8587146
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8587149,24,Noah Cook,Noah,Cook,Sr.,C,5-11,,RIGHT,RIGHT,"Urbandale, IA",Urbandale HS,43,34,https://stats.ncaa.org/players/8587149
 2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8587158,31,Brayden Haug,Brayden,Haug,Sr.,P,-,,,,,,6,6,https://stats.ncaa.org/players/8587158
+2024,2023-24,MBA,2,II,Mid-America Intercollegiate,9013,Missouri Western,8598124,16,John Green,John,Green,Jr.,p,-,,,,,,3,0,https://stats.ncaa.org/players/8598124
