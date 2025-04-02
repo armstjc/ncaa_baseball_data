@@ -1,0 +1,70 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,1,top,"Klug, C. flied out to lf (2-2 BBKS).",1,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,1,top,"Murtha, B. struck out looking (2-2 BBFFK).",2,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,1,top,"Killelea, J. grounded out to 2b (1-2 SFFB).",3,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,1,bot,Egrie struck out swinging (0-2 FFFS).,4,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,1,bot,Scanlon doubled down the lf line (2-1 KBB).,5,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,1,bot,Baillargeon walked (3-2 BBFBFB).,6,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,1,bot,King grounded into double play ss to 1b (0-1 S)3a Baillargeon out on the play.,7,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,2,top,"DePerno, T. flied out to rf (0-0).",8,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,2,top,"Brown, E. walked (3-0 BBBB).",9,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,2,top,"Izquierdo, V fouled out to rf (0-2 KF).",10,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,2,top,"Brown, E. out at second p to 1b to ss, caught stealing, picked off.",11,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,2,bot,Royer grounded out to ss (0-0).,12,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,2,bot,Jones grounded out to ss (2-1 BBK).,13,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,2,bot,Cooney grounded out to 3b (1-2 BSS).,14,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,3,top,"Manning, A. walked (3-2 BKBKBB).",15,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,3,top,"Mitchell, H. grounded out to 3b, SAC, bunt (0-0)3a Manning, A. advanced to second.",16,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,3,top,Ceccarelli grounded out to 2b (2-2 KBSB).,17,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,3,top,"Klug, C. flied out to lf (3-2 BFBBSF).",18,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,3,bot,Peek singled to center field (1-0 B).,19,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,3,bot,Spaner singled to right center (2-2 BSSFBF)3a Peek advanced to third.,20,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,3,bot,"Egrie singled to pitcher, bunt, RBI (0-0)3a Spaner advanced to second3a Peek scored.",21,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,3,bot,Scanlon flied out to rf (2-2 FSBB)3a Egrie advanced to second3a Spaner advanced to third.,22,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,3,bot,"Baillargeon out at first 1b to p, RBI (1-0 B)3a Egrie advanced to third3a Spaner scored.",23,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,3,bot,King walked (3-0 BBBB).,24,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,3,bot,King advanced to second3a Egrie scored on a wild pitch.,25,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,3,bot,Royer flied out to lf (2-2 BBKF).,26,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,4,top,"Murtha, B. struck out looking (2-2 BSFBK).",27,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,4,top,"Killelea, J. grounded out to 2b (1-0 B).",28,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,4,top,"DePerno, T. grounded out to 3b (2-0 BB).",29,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,4,bot,Jones walked (3-2 FBBBKB).,30,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,4,bot,"Cooney grounded out to 3b, SAC, bunt (0-0)3a Jones advanced to second.",31,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,4,bot,Peek grounded out to 2b (1-0 B)3a Jones advanced to third.,32,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,4,bot,Spaner struck out looking (3-2 BKSFBBK).,33,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,5,top,"Brown, E. walked (3-0 BBBB).",34,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,5,top,Lenahan to p for Volz.,35,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,5,top,"Izquierdo, V flied out to cf (0-0).",36,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,5,top,"Manning, A. struck out swinging (1-2 BKSS).",37,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,5,top,"Mitchell, H. struck out swinging, out at first c to 1b (0-2 KFS).",38,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,5,bot,"Stephens, S. to p for Plummer, M..",39,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,5,bot,Egrie reached on a fielding error by cf (1-0 B).,40,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,5,bot,"Scanlon homered to left field, 2 RBI (2-1 BBK)3a Egrie scored, unearned.",41,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,5,bot,Baillargeon popped up to ss (0-1 K).,42,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,5,bot,King grounded out to 2b (1-1 BF).,43,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,5,bot,Royer flied out to 2b (0-1 K).,44,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,6,top,"Ceccarelli struck out swinging, out at first c to 1b (1-2 BSKS).",45,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,6,top,"Klug, C. struck out swinging to catcher (0-2 KKFS).",46,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,6,top,"Murtha, B. grounded out to ss (1-1 BK).",47,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,6,bot,Jones walked (3-2 BKBBKB).,48,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,6,bot,Cooney grounded out to ss (0-1 S)3a Jones advanced to second.,49,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,6,bot,Peek grounded out to ss (0-0)3a Jones advanced to third.,50,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,6,bot,Spaner fouled out to 1b (2-1 BFB).,51,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,7,top,"Killelea, J. doubled down the lf line (0-1 K).",52,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,7,top,"DePerno, T. struck out swinging to catcher (1-2 BFFS).",53,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,7,top,"Brown, E. walked (3-0 BBBB).",54,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,7,top,"Izquierdo, V struck out swinging (0-2 KSS).",55,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,7,top,"Brown, E. advanced to second3a Killelea, J. advanced to third on a wild pitch.",56,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596431,7,top,"Manning, A. flied out to lf (2-2 BKSB).",57,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,7,bot,"Egrie singled to third base, bunt (0-0).",58,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,7,bot,Egrie advanced to second on a wild pitch.,59,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,7,bot,Scanlon walked (3-1 BBBKB).,60,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,7,bot,Baillargeon struck out swinging (1-2 KFBS).,61,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,7,bot,Egrie stole third.,62,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,7,bot,"King singled to left field, RBI (1-2 FBK)3a Scanlon advanced to second3a Egrie scored.",63,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,7,bot,Royer reached on a fielder's choice (1-2 KFFB)3a King advanced to second on a throwing error by 2b3a Scanlon advanced to third.,64,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,7,bot,"Jones walked, RBI (3-1 BKBBB)3a Royer advanced to second3a King advanced to third3a Scanlon scored.",65,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,7,bot,"Clancy, K. to p for Stephens, S..",66,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,7,bot,"Cooney hit by pitch, RBI (0-0)3a Jones advanced to second3a Royer advanced to third3a King scored, unearned.",67,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,7,bot,"Peek walked, RBI (3-2 BBBKFB)3a Cooney advanced to second3a Jones advanced to third3a Royer scored.",68,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
+6351316,596431,Navy Midshipmen,596559,Holy Cross Crusaders,596559,7,bot,"Spaner flied out to cf, SF, RBI (0-0)3a Peek advanced to second3a Cooney advanced to third3a Jones scored.",69,2025-03-30T00:00:00-04:00,"Fitton Field (Worcester, MA)",220,MBA,2025
