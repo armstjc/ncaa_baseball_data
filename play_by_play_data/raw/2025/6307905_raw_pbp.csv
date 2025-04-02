@@ -1,0 +1,109 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,1,top,"Carter, B. flied out to rf (3-2 BBKKB).",1,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,1,top,"Irish, I. homered to right field, RBI (1-0 B).",2,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,1,top,"Steele, L. struck out, out at first c to 1b (2-2 KBKBS).",3,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,1,top,"McMurray, C. hit by pitch (2-2 SSBBF).",4,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,1,top,"Snow, E. struck out swinging (1-2 BFKS).",5,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,1,bot,Obee walked (3-2 KBBFFBB).,6,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,1,bot,"Burnett, Ro singled to right field (1-0 B): Obee advanced to second.",7,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,1,bot,Zaborowski struck out swinging (1-2 FFBS).,8,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,1,bot,"Alford, S. walked (3-2 FFBBFFBFB): Burnett, Ro advanced to second: Obee advanced to third.",9,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,1,bot,"Adams, Chr. walked, RBI (3-2 BKBKBB): Alford, S. advanced to second: Burnett, Ro advanced to third: Obee scored.",10,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,1,bot,"Myers, C. to p for Chatterton,C.",11,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,1,bot,"McCarthy, N. flied out to lf, SF, RBI (0-2 SFF): Burnett, Ro scored.",12,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,1,bot,"Jackson, Dan flied out to cf (2-1 KBB).",13,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,2,top,"Fralick, C. homered to right field, RBI (2-2 KBFFB).",14,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,2,top,"Rembert, C. flied out to rf (1-2 KBFF).",15,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,2,top,"Terrell, B. singled to shortstop (0-0).",16,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,2,top,"Fabian, D. reached on a fielder's choice (2-2 BKBSF): Terrell, B. out at second 3b to 2b.",17,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,2,top,"Carter, B. struck out looking (1-2 SFBK).",18,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,2,bot,"Hunter, H. struck out looking (3-2 KBKBBK).",19,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,2,bot,"Branch, K. popped up to ss (2-1 BBK).",20,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,2,bot,Obee flied out to rf (1-2 KBF).,21,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,3,top,"Irish, I. grounded out to ss (1-0 B).",22,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,3,top,"Steele, L. hit by pitch (0-2 FKF).",23,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,3,top,"McMurray, C. flied out to cf (2-2 KFBB).",24,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,3,top,"Snow, E. reached on a fielder's choice (0-0): Steele, L. out at second ss to 2b.",25,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,3,bot,"Burnett, Ro struck out swinging (1-2 BSFS).",26,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,3,bot,Zaborowski struck out looking (2-2 FBSFBFK).,27,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,3,bot,"Alford, S. singled to center field (2-2 BKFB).",28,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,3,bot,"Adams, Chr. singled to right field (0-0): Alford, S. advanced to second.",29,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,3,bot,"McCarthy, N. struck out swinging (2-2 SSBBS).",30,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,4,top,"Fralick, C. singled to right field (2-1 BBK).",31,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,4,top,Hoskins to p for Finley.,32,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,4,top,"Rembert, C. singled to center field (3-1 BBKB): Fralick, C. advanced to second.",33,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,4,top,"Terrell, B. flied out to cf (0-0).",34,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,4,top,"Fabian, D. walked (3-1 BBBKB): Rembert, C. advanced to second: Fralick, C. advanced to third.",35,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,4,top,"Carter, B. flied out to rf, SF, RBI (3-1 BBBK): Fralick, C. scored.",36,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,4,top,"Irish, I. struck out swinging (1-2 BSKS).",37,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,4,bot,"Jackson, Dan struck out looking (1-2 BKFK).",38,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,4,bot,"Hunter, H. struck out looking (3-2 SBBFBK).",39,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,4,bot,"Branch, K. struck out looking (2-2 FBBFK).",40,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,5,top,"Black, Ry. to 2b for Burnett, Ro.",41,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,5,top,"Steele, L. struck out swinging (3-2 KBKBFBS).",42,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,5,top,"McMurray, C. struck out swinging (3-2 BKBBKS).",43,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,5,top,"Snow, E. singled to center field (0-0).",44,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,5,top,"Fralick, C. grounded out to c (1-2 FBK).",45,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,5,bot,Obee struck out looking (2-2 BSFBK).,46,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,5,bot,"Black, Ry. struck out swinging (3-2 KFBFBFBS).",47,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,5,bot,Zaborowski struck out looking (3-2 BSBSBK).,48,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,6,top,"Rembert, C. grounded out to ss (1-0 B).",49,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,6,top,"Terrell, B. doubled to right field (1-2 FFB).",50,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,6,top,"Fabian, D. flied out to rf (0-2 FK).",51,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,6,top,"Terrell, B. advanced to third on a wild pitch.",52,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,6,top,"Carter, B. grounded out to 2b (2-0 BB).",53,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,6,bot,"Watts, D. to p for Myers, C..",54,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,6,bot,"Alford, S. doubled to right field (0-0).",55,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,6,bot,"Adams, Chr. fouled out to 3b (0-0).",56,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,6,bot,"McCarthy, N. singled to shortstop (0-0): Alford, S. advanced to third.",57,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,6,bot,"Jackson, Dan hit by pitch (0-1 F): McCarthy, N. advanced to second.",58,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,6,bot,"Hunter, H. grounded out to 1b unassisted, RBI (3-2 SBSBB): Jackson, Dan advanced to second: McCarthy, N. advanced to third: Alford, S. scored.",59,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,6,bot,"Branch, K. singled to shortstop, RBI (1-1 BS): Jackson, Dan advanced to third: McCarthy, N. scored.",60,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,6,bot,Obee struck out swinging (2-2 SFBBS).,61,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,7,top,"Stephens, Jo to p for Hoskins.",62,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,7,top,"Irish, I. walked (3-2 BKBBFB).",63,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,7,top,"Steele, L. grounded into double play 2b to ss to 1b (0-0): Irish, I. out on the play.",64,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,7,top,"McMurray, C. walked (3-2 BBKFBB).",65,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,7,top,"Snow, E. grounded out to 3b (2-0 BB).",66,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,7,bot,"Hetzler, R. to p for Watts, D..",67,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,7,bot,"Black, Ry. singled to right field (0-1 K).",68,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,7,bot,"Zaborowski grounded into double play 3b to 2b to 1b (0-0): Black, Ry. out on the play.",69,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,7,bot,"Alford, S. grounded out to ss (1-2 SBFFFFF).",70,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,8,top,"Davis II to p for Stephens, Jo.",71,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,8,top,"Fralick, C. struck out swinging (1-2 BFKS).",72,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,8,top,"Rembert, C. walked (3-1 BFBBB).",73,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,8,top,"Terrell, B. reached on a fielder's choice (0-1 F): Rembert, C. out at second 2b to ss.",74,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,8,top,Hammond to p for Davis II.,75,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,8,top,"Fabian, D. grounded out to p (0-0).",76,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,8,bot,"Adams, Chr. struck out looking (2-2 BKFBK).",77,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,8,bot,"McCarthy, N. flied out to cf (1-1 KB).",78,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,8,bot,"Jackson, Dan walked (3-0 BBBB).",79,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,8,bot,"Hunter, H. struck out swinging (1-2 FBSS).",80,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,9,top,"Carter, B. doubled to left field (2-2 BKBK).",81,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,9,top,"Zeldin, B. to p for Hammond.",82,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,9,top,"Carter, B. advanced to third on a passed ball.",83,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,9,top,"Irish, I. grounded out to 2b, RBI (1-2 KBKF): Carter, B. scored, unearned.",84,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,9,top,"Steele, L. walked (3-2 BKBBFB).",85,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,9,top,"Belyeu, C. pinch ran for Steele, L..",86,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,9,top,"Belyeu, C. stole second.",87,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,9,top,"McMurray, C. struck out swinging (3-2 BKBKBFS).",88,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,9,top,"Snow, E. grounded out to ss (2-1 BBF).",89,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,9,bot,"Branch, K. struck out swinging (3-2 BKBBFFS).",90,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,9,bot,Obee grounded out to 3b (1-0 B).,91,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,9,bot,"Black, Ry. popped up to ss (2-1 SBB).",92,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,10,top,"Radtke to p for Zeldin, B..",93,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,10,top,"King, Trey to 2b for Black, Ry..",94,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,10,top,"Fralick, C. flied out to lf (3-2 KFBFBB).",95,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,10,top,"Rembert, C. singled to left field (2-2 BKBFF).",96,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,10,top,"Terrell, B. homered to right field, 2 RBI (1-0 B): Rembert, C. scored.",97,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,10,top,"Fabian, D. popped up to 2b (0-2 FS).",98,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596489,10,top,"Carter, B. flied out to rf (0-1 K).",99,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,10,bot,"Murphy, H. to p for Hetzler, R..",100,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,10,bot,Zaborowski singled to left field (3-1 BBKB).,101,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,10,bot,"Alford, S. singled to center field (1-2 SFB): Zaborowski advanced to third.",102,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,10,bot,"Adams, Chr. walked (3-0 BBBB): Alford, S. advanced to second.",103,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,10,bot,"Clavon pinch ran for Adams, Chr..",104,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,10,bot,"Johnston, J. to p for Murphy, H..",105,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,10,bot,"McCarthy, N. reached on a fielder's choice (1-1 SB): Clavon advanced to third: Alford, S. scored: Zaborowski scored on an error by p, unearned.",106,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,10,bot,"McCarthy, N. stole second.",107,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6307905,596489,Auburn Tigers,596554,Georgia Bulldogs,596554,10,bot,"Jackson, Dan homered to right field, 3 RBI (0-1 S): McCarthy, N. scored: Clavon scored.",108,2025-03-29T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025

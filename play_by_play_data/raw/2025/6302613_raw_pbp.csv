@@ -1,0 +1,94 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,1,top,"Fishel,Ben struck out swinging (2-2 BKBSS).",1,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,1,top,"Miller,Sam reached on a throwing error by 2b (0-2 SKF).",2,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,1,top,"Fellows,Col struck out swinging (2-2 KBFBS).",3,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,1,top,"Lazits,Anto struck out looking (2-2 BKFFBK).",4,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,1,bot,"Koonin, J. struck out swinging (0-2 KFFS).",5,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,1,bot,"Shapiro, C. popped up to 3b (1-2 KSB).",6,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,1,bot,"Bold, J. grounded out to 3b (3-2 KKBBB).",7,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,2,top,"Kail,Jack singled to center field (0-1 F).",8,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,2,top,"Kail,Jack advanced to second on a wild pitch.",9,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,2,top,"Palfrey,Gri grounded out to p (3-1 FBBB); Kail,Jack advanced to third.",10,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,2,top,"Brewer,Jack grounded out to 1b unassisted, RBI (3-2 BBSBK); Kail,Jack scored.",11,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,2,top,"Vogler,Tate lined out to 3b (0-1 K).",12,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,2,bot,"Kernodle, J. flied out to rf (0-2 KS).",13,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,2,bot,"Shenefelt, N singled to left field (0-1 K).",14,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,2,bot,"Kelly, J. flied out to cf (1-1 KB).",15,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,2,bot,"Zorc. J. singled up the middle (2-2 BBKSF); Shenefelt, N advanced to second.",16,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,2,bot,"Googins, T. lined out to ss (2-1 BSB).",17,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,3,top,"Estabrook, O walked (3-0 BBBB).",18,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,3,top,"Fishel,Ben walked (3-1 BBKBB); Estabrook, O advanced to second.",19,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,3,top,"Miller,Sam singled through the left side, RBI (2-1 BBK); Fishel,Ben advanced to second; Estabrook, O scored.",20,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,3,top,"Miller,Sam advanced to second; Fishel,Ben advanced to third on a wild pitch.",21,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,3,top,"Fellows,Col struck out swinging (2-2 BSSBFFS).",22,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,3,top,"Lazits,Anto hit by pitch (1-0 B).",23,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,3,top,"Kail,Jack singled through the right side, 2 RBI (0-1 K); Lazits,Anto advanced to third; Miller,Sam scored; Fishel,Ben scored.",24,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,3,top,"Palfrey,Gri singled to second base, RBI (1-1 FB); Kail,Jack advanced to second; Lazits,Anto scored.",25,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,3,top,"Brewer,Jack fouled out to 3b (1-0 B).",26,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,3,top,"Vogler,Tate reached on a fielder's choice (0-0); Palfrey,Gri out at second ss to 2b.",27,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,3,bot,Werdesheim popped up to 2b (0-2 SKFF).,28,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,3,bot,"Koonin, J. hit by pitch (2-2 KFBB).",29,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,3,bot,"Shapiro, C. struck out swinging (2-2 KBBKS).",30,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,3,bot,"Bold, J. struck out swinging (0-2 FKS).",31,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,4,top,"Estabrook, O struck out swinging (0-2 FFS).",32,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,4,top,"Fishel,Ben singled through the left side (0-0).",33,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,4,top,"Miller,Sam flied out to cf (3-2 SBBBF).",34,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,4,top,"Fellows,Col grounded out to 1b unassisted (1-2 KBS).",35,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,4,bot,"Kernodle, J. struck out looking (3-2 KFBBBFK).",36,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,4,bot,"Shenefelt, N grounded out to 2b (1-1 BK).",37,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,4,bot,"Kelly, J. flied out to rf (0-1 K).",38,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,5,top,"Lazits,Anto hit by pitch (0-1 F).",39,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,5,top,"Kail,Jack reached on a fielder's choice (0-0); Lazits,Anto out at second 1b to ss.",40,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,5,top,"Palfrey,Gri flied out to lf (0-2 KF).",41,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,5,top,"Brewer,Jack walked (3-2 KBKFBFFBFFB); Kail,Jack advanced to second.",42,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,5,top,"Vogler,Tate walked (3-1 BFBBB); Brewer,Jack advanced to second; Kail,Jack advanced to third.",43,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,5,top,"Shenefelt, N to p.",44,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,5,top,"/  for Kinneen, L..",45,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,5,top,"Estabrook, O popped up to 2b (1-0 B).",46,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,5,bot,Zorc. J. flied out to cf (2-0 BB).,47,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,5,bot,"Googins, T. flied out to cf (1-0 B).",48,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,5,bot,Werdesheim struck out swinging (2-2 BBSFFS).,49,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,6,top,"Fishel,Ben walked (3-2 BFKBBFB).",50,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,6,top,"Miller,Sam walked (3-1 BBFBB); Fishel,Ben advanced to second.",51,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,6,top,"Fellows,Col singled through the right side, RBI (1-0 B); Miller,Sam advanced to third; Fishel,Ben scored.",52,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,6,top,"Lazits,Anto homered to left field, 3 RBI (1-0 B); Fellows,Col scored; Miller,Sam scored.",53,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,6,top,"Kail,Jack flied out to rf to right center (0-0).",54,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,6,top,"Palfrey,Gri grounded out to ss (1-0 B).",55,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,6,top,"Brewer,Jack popped up to ss (3-2 KKBBB).",56,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,6,bot,"Koonin, J. struck out swinging (0-2 KSS).",57,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,6,bot,"Shapiro, C. grounded out to 2b (0-1 K).",58,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,6,bot,"Bold, J. singled to third base (3-2 KBBKB).",59,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,6,bot,"Kernodle, J. singled through the right side (1-0 B); Bold, J. advanced to second.",60,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,6,bot,"Shenefelt, N fouled out to c (2-2 BSSB).",61,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,7,top,"Shenefelt, N to dh.",62,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,7,top,"Baldrate, J. to p.",63,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,7,top,"Vogler,Tate out at first 1b to 2b to p (3-2 BBKBK).",64,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,7,top,"Estabrook, O hit by pitch (3-1 BBKB).",65,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,7,top,"Estabrook, O advanced to second on a wild pitch.",66,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,7,top,"Fishel,Ben walked (3-1 SBBBB).",67,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,7,top,"Miller,Sam infield fly to 3b (0-2 KF).",68,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,7,top,"Fellows,Col grounded out to 1b unassisted (0-0).",69,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,7,bot,"Harrigan,Wi to p for Santana, Tho.",70,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,7,bot,"Kelly, J. grounded out to 2b (1-2 KBF).",71,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,7,bot,Zorc. J. walked (3-1 BBKBB).,72,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,7,bot,"Googins, T. singled to third base (1-0 B); Zorc. J. advanced to second.",73,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,7,bot,"Werdesheim reached on a fielder's choice (0-0); Googins, T. out at second p to 2b; Zorc. J. advanced to third.",74,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,7,bot,"Koonin, J. reached on a throwing error by 3b, advanced to second on the error (0-2 FS); Werdesheim advanced to second, scored on the error, unearned; Zorc. J. scored, unearned.",75,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,7,bot,"Shapiro, C. grounded out to 2b (0-0).",76,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,8,top,"Zdimal, M. to p for Baldrate, J..",77,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,8,top,"Lazits,Anto flied out to cf (1-2 KSB).",78,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,8,top,"Kail,Jack popped up to ss (2-0 BB).",79,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,8,top,"Palfrey,Gri singled to center field (1-1 BK).",80,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,8,top,"Brewer,Jack hit by pitch (1-0 B); Palfrey,Gri advanced to second.",81,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,8,top,"Vogler,Tate struck out swinging (1-2 KBSS).",82,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,8,bot,"Bold, J. singled through the left side (0-0).",83,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,8,bot,"Kernodle, J. reached on a fielder's choice (0-1 F); Bold, J. out at second 2b to ss.",84,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,8,bot,"Shenefelt, N grounded into double play 2b to ss to 1b (0-2 KS); Kernodle, J. out on the play.",85,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,9,top,"Westrop, R. to p for Zdimal, M..",86,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,9,top,"Estabrook, O struck out looking (1-2 KBKK).",87,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,9,top,"Fishel,Ben struck out swinging, out at first c to 1b (2-2 KBFBFS).",88,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596525,9,top,"Miller,Sam struck out swinging (2-2 KBFBS).",89,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,9,bot,"Corso,Kyle to lf for Fellows,Col.",90,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,9,bot,"Kelly, J. grounded out to ss (2-2 BKSB).",91,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,9,bot,Zorc. J. flied out to rf down the rf line (1-1 BS).,92,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025
+6302613,596525,Columbia Lions,596652,Princeton Tigers,596652,9,bot,"Googins, T. popped up to p (2-2 SBSB).",93,2025-03-30T00:00:00-04:00,"Princeton, NJ",271,MBA,2025

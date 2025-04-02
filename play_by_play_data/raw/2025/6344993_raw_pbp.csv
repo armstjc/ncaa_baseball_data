@@ -1,0 +1,147 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,1,top,J. Woodfin struck out swinging.,1,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,1,top,D. Barson struck out swinging.,2,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,1,top,T. Burch struck out looking.,3,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,1,bot,D. Girtz popped up to ss.,4,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,1,bot,K. Thruston reached first on an error by 3b.,5,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,1,bot,K. Thruston stole second.,6,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,1,bot,K. Thruston stole third.,7,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,1,bot,"B. Gerbers grounded out to ss, RBI3a K. Thruston scored, unearned.",8,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,1,bot,T. Bloom flied out to rf.,9,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,2,top,C. Alfaro doubled.,10,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,2,top,B. Letness struck out swinging.,11,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,2,top,"J. Taylor homered, 2 RBI3a C. Alfaro scored.",12,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,2,top,W. Cruz singled.,13,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,2,top,N. Vieau grounded out to p3a W. Cruz advanced to second.,14,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,2,top,N. Taylor walked.,15,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,2,top,J. Woodfin hit by pitch3a N. Taylor advanced to second3a W. Cruz advanced to third.,16,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,2,top,"D. Barson singled, RBI3a J. Woodfin advanced to second3a N. Taylor advanced to third3a W. Cruz scored.",17,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,2,top,T. Burch grounded out to ss.,18,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,2,bot,A. Long walked.,19,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,2,bot,C. Yowell walked3a A. Long advanced to second.,20,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,2,bot,T. Olson hit by pitch3a C. Yowell advanced to second3a A. Long advanced to third.,21,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,2,bot,"J. Encinas flied out to lf, sacrifice fly, RBI3a A. Long scored.",22,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,2,bot,T. Olson advanced to second3a C. Yowell advanced to third on a wild pitch.,23,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,2,bot,"L. Garcia reached on a fielder's choice, advanced to second3a T. Olson out at third ss to 3b.",24,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,2,bot,D. Girtz grounded out to 1b unassisted.,25,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,3,top,C. Alfaro struck out swinging.,26,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,3,top,B. Letness singled.,27,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,3,top,J. Taylor reached on a fielder's choice3a B. Letness out at second ss to 2b.,28,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,3,top,J. Taylor stole second.,29,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,3,top,W. Cruz lined out to cf.,30,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,3,bot,K. Thruston walked.,31,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,3,bot,B. Gerbers singled3a K. Thruston advanced to third.,32,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,3,bot,T. Bloom hit by pitch3a B. Gerbers advanced to second.,33,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,3,bot,C. Smith to p for B. Dahlstran.,34,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,3,bot,T. Bloom advanced to second3a B. Gerbers advanced to third3a K. Thruston scored on a wild pitch.,35,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,3,bot,A. Long walked.,36,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,3,bot,"C. Yowell hit by pitch, RBI3a A. Long advanced to second3a T. Bloom advanced to third3a B. Gerbers scored.",37,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,3,bot,T. Olson grounded into double play 2b to ss to 1b3a C. Yowell out on the play3a A. Long advanced to third3a T. Bloom scored.,38,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,3,bot,J. Encinas flied out to lf.,39,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,4,top,N. Vieau reached first on an error by ss.,40,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,4,top,N. Taylor struck out looking.,41,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,4,top,J. Woodfin struck out looking.,42,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,4,top,D. Barson struck out swinging.,43,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,4,bot,L. Garcia grounded out to ss.,44,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,4,bot,D. Girtz struck out swinging.,45,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,4,bot,K. Thruston flied out to cf.,46,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,5,top,T. Burch struck out looking.,47,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,5,top,C. Alfaro struck out swinging.,48,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,5,top,B. Letness grounded out to 3b.,49,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,5,bot,B. Gerbers popped up to ss.,50,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,5,bot,T. Bloom hit by pitch.,51,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,5,bot,A. Long fouled out to 2b.,52,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,5,bot,C. Yowell singled3a T. Bloom advanced to second.,53,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,5,bot,C. Yowell advanced to second3a T. Bloom advanced to third on a passed ball.,54,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,5,bot,"T. Olson singled, 2 RBI3a C. Yowell scored3a T. Bloom scored.",55,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,5,bot,J. Encinas doubled3a T. Olson advanced to third.,56,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,5,bot,"L. Garcia singled to left field, RBI3a J. Encinas advanced to third3a T. Olson scored.",57,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,5,bot,N. Boyer to p for C. Smith.,58,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,5,bot,L. Garcia stole second3a J. Encinas scored on a wild pitch.,59,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,5,bot,"D. Girtz singled, advanced to second on an error by 3b, RBI3a L. Garcia scored.",60,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,5,bot,D. Girtz stole third.,61,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,5,bot,K. Thruston walked.,62,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,5,bot,K. Thruston stole second.,63,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,5,bot,"B. Gerbers singled to left field, 2 RBI3a K. Thruston scored3a D. Girtz scored, unearned.",64,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,5,bot,T. Bloom flied out to cf.,65,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,6,top,J. Phillipp to p for A. Volk-Spec.,66,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,6,top,J. Taylor grounded out to 2b.,67,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,6,top,W. Cruz popped up to 1b.,68,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,6,top,N. Vieau grounded out to ss.,69,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,6,bot,A. Long flied out to lf.,70,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,6,bot,C. Yowell walked.,71,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,6,bot,T. Olson struck out swinging.,72,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,6,bot,C. Yowell advanced to second on a wild pitch.,73,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,6,bot,C. Yowell advanced to third on a passed ball.,74,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,6,bot,J. Encinas grounded out to 2b.,75,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,7,top,N. Taylor hit by pitch.,76,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,7,top,J. Woodfin walked3a N. Taylor advanced to second.,77,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,7,top,D. Barson reached on catcher's interference3a J. Woodfin advanced to second3a N. Taylor advanced to third.,78,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,7,top,T. Burch struck out swinging.,79,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,7,top,"C. Alfaro singled to right field, RBI3a D. Barson advanced to second3a J. Woodfin advanced to third3a N. Taylor scored.",80,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,7,top,"B. Letness reached on catcher's interference3a C. Alfaro advanced to second3a D. Barson advanced to third3a J. Woodfin scored, unearned.",81,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,7,top,"J. Taylor reached first on a throwing error by ss, advanced to second3a B. Letness advanced to third3a C. Alfaro scored, unearned3a D. Barson scored, unearned.",82,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,7,top,"W. Cruz flied out to rf, sacrifice fly, RBI3a J. Taylor advanced to third3a B. Letness scored, unearned.",83,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,7,top,"N. Vieau singled, RBI3a J. Taylor scored, unearned.",84,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,7,top,N. Taylor singled3a N. Vieau advanced to second.,85,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,7,top,J. Brew to p for J. Phillipp.,86,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,7,top,J. Woodfin flied out to rf.,87,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,7,bot,L. Garcia grounded out to 2b.,88,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,7,bot,D. Girtz flied out to cf.,89,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,7,bot,K. Thruston hit by pitch.,90,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,7,bot,"K. Thruston out at second c to 2b, caught stealing.",91,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,8,top,D. Barson struck out looking.,92,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,8,top,T. Burch walked.,93,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,8,top,T. Burch advanced to second on a wild pitch.,94,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,8,top,T. Burch advanced to third on a wild pitch.,95,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,8,top,C. Alfaro walked.,96,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,8,top,C. Alfaro stole second3a T. Burch stole home.,97,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,8,top,B. Letness singled3a C. Alfaro advanced to third.,98,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,8,top,J. Taylor hit by pitch3a B. Letness advanced to second.,99,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,8,top,Q. Holmes to p for J. Brew.,100,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,8,top,"W. Cruz walked, RBI3a J. Taylor advanced to second3a B. Letness advanced to third3a C. Alfaro scored.",101,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,8,top,A. De pinch hit for N. Vieau.,102,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,8,top,"A. De singled, 2 RBI3a W. Cruz advanced to second3a J. Taylor scored3a B. Letness scored.",103,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,8,top,K. Cahill pinch ran for A. De.,104,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,8,top,N. Taylor struck out swinging.,105,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,8,top,J. Woodfin reached on a fielder's choice3a K. Cahill out at second 2b unassisted.,106,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,8,bot,C. Pittman to p for N. Boyer.,107,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,8,bot,"B. Gerbers struck out swinging, out at first c to 1b.",108,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,8,bot,T. Bloom walked.,109,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,8,bot,A. Garza pinch ran for T. Bloom.,110,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,8,bot,A. Long hit by pitch3a A. Garza advanced to second.,111,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,8,bot,"C. Yowell singled3a A. Long advanced to third3a A. Garza advanced to third, out at home ss to c.",112,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,8,bot,"T. Olson struck out swinging, out at first c to 1b.",113,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,9,top,A. Garza to 3b.,114,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,9,top,A. Long to 1b.,115,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,9,top,D. Barson flied out to lf.,116,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,9,top,T. Burch struck out swinging.,117,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,9,top,C. Alfaro walked.,118,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,9,top,C. Alfaro advanced to second on a wild pitch.,119,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,9,top,B. Letness struck out looking.,120,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,9,bot,J. Encinas walked.,121,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,9,bot,C. Joyce pinch ran for J. Encinas.,122,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,9,bot,L. Garcia grounded out to p3a C. Joyce advanced to second on a fielder's choice.,123,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,9,bot,D. Girtz grounded out to 2b3a C. Joyce advanced to third.,124,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,9,bot,"K. Thruston doubled, RBI3a C. Joyce scored.",125,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,9,bot,B. Gerbers grounded out to 3b.,126,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,10,top,B. Gerbers to c.,127,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,10,top,C. Joyce to lf.,128,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,10,top,J. Taylor struck out swinging.,129,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,10,top,W. Cruz hit by pitch.,130,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,10,top,J. Trevino pinch hit for K. Cahill.,131,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,10,top,J. Trevino grounded into double play 3b to 2b to 1b3a W. Cruz out on the play.,132,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,10,bot,A. Garza singled.,133,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,10,bot,A. Long popped up to c.,134,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,10,bot,A. Garza stole second.,135,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,10,bot,C. Yowell grounded out to 3b.,136,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,10,bot,T. Olson popped up to 1b.,137,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,11,top,N. Taylor grounded out to ss.,138,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,11,top,J. Woodfin walked.,139,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,11,top,"J. Woodfin out at second c to 2b, caught stealing.",140,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597187,11,top,D. Barson grounded out to 3b.,141,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,11,bot,C. Joyce popped up to 1b.,142,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,11,bot,L. Garcia singled.,143,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,11,bot,D. Girtz singled3a L. Garcia advanced to second.,144,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,11,bot,K. Thruston reached first on an error by 3b3a D. Girtz advanced to second3a L. Garcia advanced to third.,145,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025
+6344993,597187,North Central (MN) Rams,597183,Crown (MN) Polars,597183,11,bot,L. Garcia scored on a wild pitch.,146,2025-03-28T00:00:00-04:00,"St. Bonifacius, MN",35,MBA,2025

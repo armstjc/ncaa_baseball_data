@@ -1,0 +1,95 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,1,top,"Ruiz, D. hit by pitch (1-1 KB).",1,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,1,top,"Evans, B. struck out swinging (1-2 FFFBS)3a Ruiz, D. advanced to second on a wild pitch.",2,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,1,top,"Tracy, T. hit by pitch (1-0 B).",3,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,1,top,"Skinner, Z. grounded into double play 2b to ss to 1b (0-0)3a Tracy, T. out on the play.",4,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,1,bot,Martinez grounded out to ss (2-1 BFB).,5,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,1,bot,Calabrese struck out looking (1-2 FBSFFFK).,6,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,1,bot,Liddington grounded out to 2b (0-0).,7,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,2,top,"Moreno, H. singled through the right side (0-0).",8,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,2,top,"Spinn, Z. grounded into double play 2b to 1b (1-0 B)3a Moreno, H. out on the play.",9,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,2,top,"Ryan, M. struck out swinging (1-2 KKBS).",10,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,2,bot,DeJesus grounded out to 2b (1-1 BK).,11,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,2,bot,R.Mendoza out at first p to ss to 1b (0-0).,12,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,2,bot,Lyssy lined out to rf (3-1 BBBK).,13,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,3,top,"R, Hector struck out swinging (1-2 KBFS).",14,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,3,top,"Culp, E. grounded out to 3b (0-2 KK).",15,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,3,top,"Ruiz, D. walked (3-1 KBBBB).",16,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,3,top,"Evans, B. struck out looking (2-2 KBKBK).",17,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,3,bot,Hernandez grounded out to 3b (0-0).,18,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,3,bot,"Bane homered to right center, RBI (0-0).",19,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,3,bot,Cowan walked (3-1 BFBBB).,20,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,3,bot,Martinez grounded out to 3b (1-0 B)3a Cowan advanced to second.,21,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,3,bot,"Calabrese doubled to left center, RBI (1-2 FBK)3a Cowan scored.",22,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,3,bot,Liddington singled to shortstop (0-0)3a Calabrese advanced to third.,23,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,3,bot,DeJesus struck out swinging (0-2 FKS).,24,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,4,top,"Tracy, T. struck out looking (1-2 FBFK).",25,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,4,top,"Skinner, Z. grounded out to 3b (0-1 K).",26,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,4,top,"Moreno, H. grounded out to 2b (0-1 F).",27,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,4,bot,R.Mendoza grounded out to 2b (0-2 SS).,28,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,4,bot,Lyssy walked (3-0 BBBB).,29,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,4,bot,Hernandez grounded out to 2b (0-0)3a Lyssy advanced to second.,30,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,4,bot,Bane walked (3-2 BSBBSB).,31,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,4,bot,Cowan grounded out to 2b (1-0 B).,32,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,5,top,"Spinn, Z. grounded out to 1b unassisted (0-0).",33,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,5,top,"Ryan, M. walked (3-0 BBBB).",34,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,5,top,"R, Hector flied out to lf (0-2 KS).",35,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,5,top,"Culp, E. hit by pitch (1-2 KFB)3a Ryan, M. advanced to second.",36,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,5,top,"Ruiz, D. reached on a throwing error by p (0-1 S)3a Culp, E. advanced to third3a Ryan, M. advanced to third, scored on the error, unearned.",37,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,5,top,"Evans, B. singled to right field, RBI (0-0)3a Ruiz, D. advanced to third3a Culp, E. scored, unearned.",38,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,5,top,"Tracy, T. walked (3-1 SBBBB)3a Evans, B. advanced to second.",39,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,5,top,"Skinner, Z. singled to pitcher, RBI (1-0 B)3a Tracy, T. advanced to second3a Evans, B. advanced to third3a Ruiz, D. scored, unearned.",40,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,5,top,"Skinner, Z. advanced to second3a Tracy, T. advanced to third3a Evans, B. scored on a balk, unearned.",41,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,5,top,"Moreno, H. walked (3-2 FBBKFBFB).",42,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,5,top,"Spinn, Z. popped up to 2b (0-1 K).",43,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,5,bot,Martinez grounded out to ss (0-2 FF).,44,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,5,bot,Calabrese flied out to rf (0-1 S).,45,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,5,bot,"Liddington homered to right center, RBI (0-1 S).",46,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,5,bot,DeJesus grounded out to 2b (0-1 F).,47,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,6,top,"Ryan, M. walked (3-2 FBBBKB).",48,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,6,top,"Ryan, M. advanced to second on a wild pitch.",49,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,6,top,"R, Hector grounded out to p, SAC, bunt (1-1 BF)3a Ryan, M. advanced to third.",50,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,6,top,"Grizzaffi, B pinch hit for Culp, E..",51,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,6,top,"Ryan, M. scored on a wild pitch.",52,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,6,top,"Grizzaffi, B walked (3-1 BFBBB).",53,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,6,top,EJ.Garcia to p for McKay.,54,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,6,top,"Ruiz, D. doubled to left center, RBI (0-0)3a Grizzaffi, B scored.",55,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,6,top,"Evans, B. grounded out to 2b (0-0)3a Ruiz, D. advanced to third.",56,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,6,top,"Tracy, T. reached on a throwing error by p, advanced to third (0-1 K)3a Ruiz, D. scored, unearned.",57,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,6,top,"Skinner, Z. flied out to rf (2-2 FBFB).",58,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,6,bot,"Grizzaffi, B to c.",59,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,6,bot,"Krkovski, L to p for Sutton, C..",60,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,6,bot,R.Mendoza grounded out to p (1-1 BS).,61,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,6,bot,Lyssy struck out swinging (0-2 KSS).,62,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,6,bot,Hernandez grounded out to ss (1-0 B).,63,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,7,top,"Moreno, H. singled to right center (1-2 BFF).",64,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,7,top,"Spinn, Z. grounded into double play 2b to ss to 1b (0-1 K)3a Moreno, H. out on the play.",65,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,7,top,"Ryan, M. grounded out to ss (3-1 BFBB).",66,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,7,bot,Bane grounded out to 3b (3-2 BKBBK).,67,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,7,bot,Cowan singled to first base (0-0).,68,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,7,bot,Martinez lined out to 2b (0-1 S).,69,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,7,bot,Calabrese grounded out to 2b (1-0 B).,70,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,8,top,"R, Hector lined out to lf (1-1 BK).",71,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,8,top,"Grizzaffi, B grounded out to ss (0-0).",72,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,8,top,"Ruiz, D. out at first 1b to p (1-0 B).",73,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,8,bot,Liddington grounded out to 3b (1-0 B).,74,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,8,bot,DeJesus struck out swinging (1-2 KBFS).,75,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,8,bot,R.Mendoza lined out to rf to right center (0-2 FK).,76,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,9,top,"Evans, B. singled to right field (0-0).",77,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,9,top,"Tracy, T. reached on a fielder's choice (0-1 K)3a Evans, B. out at second 2b to ss.",78,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,9,top,"Tracy, T. stole second.",79,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,9,top,"Skinner, Z. struck out looking (0-2 KFK).",80,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,9,top,"Moreno, H. doubled to left center, RBI (0-0)3a Tracy, T. scored.",81,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,9,top,"Spinn, Z. walked (3-2 BBKBFB).",82,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596579,9,top,"Ryan, M. lined out to 2b (0-0).",83,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,9,bot,Scott pinch hit for Lyssy.,84,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,9,bot,Scott struck out swinging (2-2 FBBFS).,85,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,9,bot,Burckel pinch hit for Hernandez.,86,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,9,bot,"Burckel homered to left center, RBI (2-1 BSB).",87,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,9,bot,Bane grounded out to ss (0-0).,88,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,9,bot,Cowan singled up the middle (2-2 BBKSF).,89,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,9,bot,Magee pinch ran for Cowan.,90,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,9,bot,Magee advanced to second.,91,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,9,bot,Martinez walked (3-1 BBFBB).,92,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,9,bot,Magee advanced to third.,93,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025
+6313121,596579,Lamar University Cardinals,596468,UIW Cardinals,596468,9,bot,Calabrese grounded out to 2b (1-2 FFB).,94,2025-03-29T00:00:00-04:00,"Sullivan Field (San Antonio, TX)",378,MBA,2025

@@ -1,0 +1,87 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,1,top,"Arendt, E walked.",1,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,1,top,"Fuecker, C walked3a Arendt, E advanced to second.",2,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,1,top,"Berreth, A flied out to cf3a Arendt, E advanced to third.",3,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,1,top,"Hietpas, G reached on a fielder's choice, RBI3a Fuecker, C out at second ss to 2b3a Arendt, E scored.",4,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,1,top,"Hietpas, G stole second.",5,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,1,top,"Harer, D fouled out to 1b.",6,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,1,bot,"Thoma, B. grounded out to 3b.",7,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,1,bot,"Evenson, Z. grounded out to ss.",8,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,1,bot,"Hyden, H. reached on an error by ss.",9,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,1,bot,"Drusch, N. grounded out to 1b unassisted.",10,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,2,top,"Wall, R singled through the right side.",11,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,2,top,"Funke, J homered to right center, 2 RBI3a Wall, R scored.",12,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,2,top,"Pederson, M reached on an error by 3b.",13,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,2,top,"Hatano, J grounded out to c, SAC, bunt3a Pederson, M advanced to second.",14,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,2,top,"Arendt, E flied out to rf3a Pederson, M advanced to third.",15,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,2,top,"Fuecker, C singled through the left side, RBI3a Pederson, M scored, unearned.",16,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,2,top,"Berreth, A singled up the middle3a Fuecker, C advanced to second.",17,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,2,top,"Hietpas, G singled through the left side, RBI3a Berreth, A advanced to second, advanced to third on a throwing error by 3b3a Fuecker, C scored, unearned.",18,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,2,top,"Harer, D singled up the middle, RBI3a Hietpas, G advanced to third3a Berreth, A scored, unearned.",19,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,2,top,"Donlin, C to p for Hoffman, D..",20,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,2,top,"Wall, R struck out swinging.",21,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,2,bot,"Filippi, M. flied out to lf.",22,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,2,bot,KoscielniakC grounded out to 2b.,23,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,2,bot,"Feldman, J. struck out swinging.",24,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,3,top,"Hedley, D. to 3b for Corradi, B..",25,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,3,top,"Funke, J singled to right field.",26,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,3,top,"Pederson, M hit by pitch3a Funke, J advanced to second.",27,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,3,top,"Hatano, J singled through the right side3a Pederson, M advanced to second3a Funke, J advanced to third.",28,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,3,top,"Arendt, E singled up the middle, RBI3a Hatano, J advanced to second3a Pederson, M advanced to third3a Funke, J scored.",29,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,3,top,"Fuecker, C popped up to ss.",30,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,3,top,"Berreth, A struck out swinging.",31,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,3,top,"Hietpas, G struck out swinging.",32,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,3,bot,"Falcon, A. grounded out to 3b.",33,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,3,bot,"Hedley, D. singled through the right side.",34,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,3,bot,"Thoma, B. reached on an error by 3b3a Hedley, D. advanced to second.",35,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,3,bot,"Evenson, Z. reached on a fielder's choice3a Thoma, B. out at second ss unassisted3a Hedley, D. advanced to third.",36,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,3,bot,"Hyden, H. flied out to cf.",37,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,4,top,"Schulte, Ty to p for Donlin, C.",38,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,4,top,"Harer, D grounded out to 3b.",39,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,4,top,"Wall, R struck out swinging.",40,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,4,top,"Funke, J hit by pitch.",41,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,4,top,"Pederson, M doubled to left center, RBI3a Funke, J scored.",42,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,4,top,"Greiner, M to p for Schulte, Ty.",43,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,4,top,"Hatano, J walked.",44,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,4,top,"Arendt, E lined out to rf.",45,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,4,bot,"Drusch, N. flied out to rf.",46,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,4,bot,"Filippi, M. homered to right center, RBI.",47,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,4,bot,"Filippi, H pinch hit for KoscielniakC.",48,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,4,bot,"Filippi, H struck out swinging, out at first c to 1b.",49,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,4,bot,"Feldman, J. grounded out to ss.",50,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,5,top,"Filippi, H to c.",51,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,5,top,"Fuecker, C struck out looking.",52,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,5,top,"Weed, C pinch hit for Berreth, A.",53,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,5,top,"Weed, C struck out swinging.",54,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,5,top,"Hietpas, G grounded out to 1b unassisted.",55,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,5,bot,"Weed, C to cf.",56,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,5,bot,"Harer, D to rf.",57,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,5,bot,"Falcon, A. singled up the middle.",58,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,5,bot,"Hedley, D. flied out to cf.",59,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,5,bot,"Thoma, B. lined into double play 2b to 1b3a Falcon, A. out on the play.",60,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,6,top,"Czech, R. to p for Greiner, M.",61,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,6,top,"Harer, D homered to center field, RBI.",62,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,6,top,"Wall, R homered to left field, RBI.",63,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,6,top,"Funke, J popped up to 1b.",64,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,6,top,"Pederson, M doubled to right center.",65,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,6,top,"Hatano, J struck out swinging.",66,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,6,top,"Arendt, E fouled out to 3b.",67,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,6,bot,"Evenson, Z. singled to right center.",68,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,6,bot,"Hyden, H. grounded out to 3b3a Evenson, Z. advanced to second.",69,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,6,bot,"Drusch, N. struck out swinging.",70,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,6,bot,"Filippi, M. struck out swinging.",71,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,7,top,"McRoberts, C to p for Czech, R..",72,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,7,top,"Fuecker, C doubled to center field.",73,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,7,top,"Kirst, B. pinch ran for Fuecker, C.",74,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,7,top,"Kirst, B. advanced to third on a wild pitch.",75,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,7,top,"Weed, C tripled to center field, RBI3a Kirst, B. scored.",76,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,7,top,"Hietpas, G popped up to 1b.",77,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,7,top,"Harer, D grounded out to 2b, RBI3a Weed, C scored.",78,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,7,top,"Wall, R walked.",79,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,7,top,"Menzel, S pinch hit for Funke, J.",80,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596949,7,top,"Menzel, S struck out swinging.",81,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,7,bot,"Kirst, B. to 1b.",82,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,7,bot,"Filippi, H singled through the left side.",83,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,7,bot,"Anderson, C. to cf for Feldman, J..",84,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,7,bot,"Anderson, C. reached on a fielder's choice3a Filippi, H out at second ss to 2b.",85,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025
+6351012,596949,Winona St. Warriors,596860,Bemidji St. Beavers,596860,7,bot,"Falcon, A. hit into double play ss to 2b to 1b3a Anderson, C. out on the play.",86,2025-03-28T00:00:00-04:00,"BSU Baseball Field (Bemidji, MN)",317,MBA,2025

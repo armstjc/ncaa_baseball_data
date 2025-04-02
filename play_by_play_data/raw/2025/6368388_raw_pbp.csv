@@ -1,0 +1,80 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,1,top,"Contreras, A struck out swinging.",1,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,1,top,"Nelson,T lined out to cf.",2,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,1,top,"Ramirez,A struck out looking.",3,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,1,bot,"Neuman, A. grounded out to 2b.",4,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,1,bot,"Williams, R. reached on a fielding error by lf, advanced to second.",5,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,1,bot,"Hufft, Dylan grounded out to 3b.",6,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,1,bot,"Young, K. struck out looking.",7,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,2,top,"Peninger,W struck out swinging.",8,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,2,top,"Romero,J struck out swinging.",9,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,2,top,"Mitchell,J struck out swinging.",10,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,2,bot,"Brooks, C. struck out swinging.",11,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,2,bot,"Griffith, P. struck out looking.",12,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,2,bot,"Bowers, Alex struck out swinging.",13,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,3,top,"Torres,R struck out swinging.",14,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,3,top,"Fuentes, L struck out looking.",15,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,3,top,"Cheatwood,C walked.",16,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,3,top,"Cheatwood,C advanced to second on a throwing error by p, failed pickoff attempt.",17,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,3,top,"Contreras, A doubled to left center, RBI3a Cheatwood,C scored.",18,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,3,top,"Nelson,T walked.",19,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,3,top,"Ramirez,A walked3a Nelson,T advanced to second3a Contreras, A advanced to third.",20,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,3,top,"Peninger,W flied out to cf.",21,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,3,bot,"Miles, Brady hit by pitch.",22,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,3,bot,"Selock, J. reached on an error by 3b3a Miles, Brady advanced to second.",23,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,3,bot,"Neuman, A. lined into double play 1b unassisted3a Selock, J. out on the play.",24,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,3,bot,"Williams, R. grounded out to p unassisted.",25,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,4,top,"Romero,J grounded out to 3b, bunt.",26,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,4,top,"Mitchell,J reached on an error by ss.",27,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,4,top,"Torres,R struck out swinging.",28,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,4,top,"Fuentes, L singled3a Mitchell,J advanced to third.",29,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,4,top,"Fuentes, L stole second3a Mitchell,J stole home, unearned.",30,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,4,top,"Cheatwood,C singled, bunt3a Fuentes, L advanced to third.",31,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,4,top,"Cheatwood,C stole second.",32,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,4,top,"Contreras, A popped up to ss.",33,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,4,bot,"Hufft, Dylan grounded out to 2b.",34,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,4,bot,"Young, K. flied out to rf.",35,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,4,bot,"Brooks, C. reached on an error by 3b.",36,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,4,bot,"Griffith, P. singled to left field3a Brooks, C. advanced to second.",37,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,4,bot,"Bowers, Alex flied out to lf.",38,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,5,top,"Nelson,T walked.",39,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,5,top,"Cook, Kayden to p for Haug, Ben.",40,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,5,top,"Ramirez,A walked3a Nelson,T advanced to second.",41,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,5,top,"Peninger,W singled to center field3a Ramirez,A advanced to second3a Nelson,T advanced to third.",42,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,5,top,"Ramirez,A advanced to third on an error by p3a Nelson,T scored.",43,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,5,top,"Romero,J popped up to 1b.",44,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,5,top,"Mitchell,J walked3a Peninger,W advanced to second.",45,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,5,top,"Torres,R reached on an error by 3b, RBI3a Mitchell,J advanced to third3a Peninger,W scored3a Ramirez,A scored.",46,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,5,top,"Fuentes, L flied out to rf.",47,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,5,top,"Cheatwood,C walked3a Torres,R advanced to second.",48,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,5,top,"Wells, L. to p for Cook, Kayden.",49,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,5,top,"Contreras, A homered, 4 RBI3a Cheatwood,C scored, unearned3a Torres,R scored, unearned3a Mitchell,J scored, unearned.",50,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,5,top,"Nelson,T reached on an error by ss.",51,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,5,top,"Ramirez,A singled to left field3a Nelson,T advanced to second.",52,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,5,top,"Peninger,W walked3a Ramirez,A advanced to second3a Nelson,T advanced to third.",53,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,5,top,"Blair, Caden to p for Wells, L..",54,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,5,top,"Romero,J reached on a fielder's choice3a Peninger,W out at second ss to 2b.",55,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,5,bot,"Miles, Brady singled to center field.",56,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,5,bot,"Selock, J. struck out looking.",57,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,5,bot,"Neuman, A. struck out swinging.",58,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,5,bot,"Williams, R. grounded out to ss.",59,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,6,top,"Mitchell,J popped up to ss.",60,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,6,top,"Torres,R doubled, ground-rule.",61,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,6,top,"Fuentes, L singled to center field, RBI3a Torres,R scored.",62,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,6,top,"Cheatwood,C struck out swinging.",63,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,6,top,"Contreras, A grounded out to 1b unassisted.",64,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,6,bot,"Hufft, Dylan struck out swinging.",65,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,6,bot,"Young, K. flied out to lf.",66,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,6,bot,"Brooks, C. singled to third base.",67,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,6,bot,"Griffith, P. singled to left field3a Brooks, C. advanced to second.",68,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,6,bot,"Bowers, Alex grounded out to 2b.",69,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,7,top,"O'Gorman, A. to p for Blair, Caden.",70,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,7,top,"Nelson,T lined out to ss.",71,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,7,top,"Ramirez,A grounded out to ss.",72,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,7,top,"Peninger,W homered, RBI.",73,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,7,top,"Romero,J doubled to left field.",74,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,7,top,"Mitchell,J walked.",75,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596834,7,top,"Torres,R struck out looking.",76,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,7,bot,"Miles, Brady popped up to 1b.",77,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,7,bot,"Selock, J. struck out swinging.",78,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
+6368388,596834,Rogers St. Hillcats,596919,Northwest Mo. St. Bearcats,596919,7,bot,"Neuman, A. flied out to cf.",79,2025-03-28T00:00:00-04:00,"Maryville, MO",100,MBA,2025
