@@ -1,0 +1,110 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,1,top,First pitch: 2:30 p.m.,1,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,1,top,"Gillen, T. doubled down the rf line (1-1 BK).",2,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,1,top,"Duffalo, D. struck out swinging (1-2 BKFS).",3,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,1,top,"Sailors, N. hit by pitch (2-2 BFKB).",4,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,1,top,"North, B. walked (3-2 SKBBBB); Sailors, N. advanced to second; Gillen, T. advanced to third.",5,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,1,top,Nebraska mound visit.,6,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,1,top,"Deters, T. walked, RBI (3-2 BKBBKB); North, B. advanced to second; Sailors, N. advanced to third; Gillen, T. scored.",7,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,1,top,"MacLean, W. walked, RBI (3-1 BBKBB); Deters, T. advanced to second; North, B. advanced to third; Sailors, N. scored.",8,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,1,top,"Capece, C. singled to right center, RBI (2-2 KKBB); MacLean, W. advanced to second; Deters, T. advanced to third; North, B. scored.",9,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,1,top,"Worthley, J. to p for Coats, T..",10,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,1,top,"Hess, K. struck out looking (2-2 BKKBK).",11,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,1,top,"Venteicher,N popped up to ss (0-1 K).",12,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,1,bot,"Sanderson, C grounded out to 2b (1-0 B).",13,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,1,bot,"Silva, R. singled down the rf line (0-2 KS).",14,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,1,bot,"Brumbaugh, C grounded out to 3b, SAC, bunt; Silva, R. advanced to second.",15,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,1,bot,"Stone, T. grounded out to ss (2-0 BB).",16,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,2,top,"Gillen, T. grounded out to 1b unassisted (0-2 KF).",17,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,2,top,"Duffalo, D. grounded out to ss (2-2 KBBF).",18,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,2,top,"Sailors, N. grounded out to 1b unassisted (0-0).",19,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,2,bot,"Carey, D. hit by pitch (2-0 BB).",20,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,2,bot,"Nunez, D. struck out swinging (1-2 SBSFS).",21,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,2,bot,"Buettenback singled to right field (1-0 B); Carey, D. advanced to second.",22,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,2,bot,"Helligso, H. singled to center field, RBI (3-1 BBBK); Buettenback advanced to second; Carey, D. scored.",23,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,2,bot,"Overbeek, J. flied out to cf (3-1 FBBB).",24,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,2,bot,"Sanderson, C walked (3-1 BBKBB); Helligso, H. advanced to second; Buettenback advanced to third.",25,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,2,bot,"Silva, R. singled to right center, 2 RBI (2-2 BBKF); Sanderson, C advanced to second; Helligso, H. scored; Buettenback scored.",26,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,2,bot,"Brumbaugh, C reached on a fielder's choice to shortstop (2-2 KBSB); Silva, R. out at second ss to 2b.",27,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,3,top,"North, B. walked (3-0 BBBB).",28,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,3,top,"Deters, T. flied out to lf (1-2 BKK).",29,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,3,top,"MacLean, W. singled up the middle (1-0 B); North, B. advanced to second.",30,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,3,top,"Capece, C. struck out swinging (2-2 BKSFFBS).",31,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,3,top,"Hess, K. reached on a fielder's choice to third base (1-1 BK); MacLean, W. advanced to second; North, B. out at third 3b unassisted.",32,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,3,bot,"Stone, T. struck out looking (0-2 FKFK).",33,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,3,bot,"Carey, D. singled to right field (2-1 BKB).",34,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,3,bot,"Nunez, D. struck out swinging, hit into double play c to ss (0-2 SSS); Carey, D. out on the play, caught stealing.",35,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,4,top,"Venteicher,N flied out to lf (0-0).",36,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,4,top,"Gillen, T. walked (3-2 BBBKFB).",37,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,4,top,"Duffalo, D. singled to left field (0-0); Gillen, T. advanced to second.",38,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,4,top,"Sailors, N. singled up the middle, RBI (0-2 KF); Duffalo, D. advanced to second; Gillen, T. scored.",39,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,4,top,"Christo, D. to p for Worthley, J..",40,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,4,top,"North, B. struck out swinging (3-2 BBFBFS).",41,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,4,top,"Deters, T. reached on a fielder's choice to shortstop (2-1 KBB); Sailors, N. out at second ss to 2b.",42,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,4,bot,"Curtin, S. to p for Koosman, I..",43,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,4,bot,Buettenback walked (3-2 BKBKFBB).,44,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,4,bot,"Helligso, H. grounded out to 1b unassisted (0-1 F); Buettenback advanced to second.",45,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,4,bot,"Overbeek, J. struck out swinging (1-2 BSKS).",46,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,4,bot,"Sanderson, C grounded out to 2b (0-1 K).",47,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,5,top,"MacLean, W. struck out looking (3-2 KKBBFBK).",48,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,5,top,"Capece, C. flied out to rf (0-1 F).",49,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,5,top,"Hess, K. singled to right center (2-0 BB).",50,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,5,top,"Venteicher,N popped up to 2b (1-1 BK).",51,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,5,bot,"Silva, R. singled through the right side (1-2 BKK).",52,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,5,bot,"Brumbaugh, C reached on a fielder's choice to shortstop (2-2 BKBF); Silva, R. out at second ss to 2b.",53,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,5,bot,"Stone, T. grounded out to 1b unassisted (1-1 BS); Brumbaugh, C advanced to second.",54,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,5,bot,"Carey, D. intentionally walked (3-0 BBB).",55,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,5,bot,"Swansen, G. pinch hit for Nunez, D..",56,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,5,bot,"Swansen, G. doubled to left field, RBI (0-2 KF); Carey, D. advanced to third; Brumbaugh, C scored.",57,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,5,bot,Buettenback grounded out to 1b unassisted (2-2 BBKF).,58,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,6,top,"Swansen, G. to lf.",59,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,6,top,"Gillen, T. flied out to cf (2-0 BB).",60,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,6,top,"Duffalo, D. flied out to rf (2-1 BBK).",61,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,6,top,"Sailors, N. walked (3-1 BFBBB).",62,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,6,top,"North, B. singled through the right side (0-1 F); Sailors, N. advanced to third.",63,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,6,top,"Deters, T. flied out to cf (3-1 KBBB).",64,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,6,bot,"Burke, J. to p for Curtin, S..",65,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,6,bot,"Helligso, H. grounded out to 3b (1-2 SBF).",66,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,6,bot,"Overbeek, J. flied out to rf (1-2 KBK).",67,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,6,bot,"Sanderson, C struck out swinging (1-2 SKBFS).",68,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,7,top,"Nowaczyk, C. to p for Christo, D..",69,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,7,top,"MacLean, W. walked (3-2 KBBBKB).",70,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,7,top,"Capece, C. doubled to right field (0-1 K); MacLean, W. advanced to third.",71,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,7,top,"Hess, K. singled to left center, 2 RBI (3-2 BBKFB); Capece, C. scored; MacLean, W. scored.",72,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,7,top,"Harrahill, R to p for Nowaczyk, C..",73,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,7,top,"Venteicher,N out at first p to 2b, SAC, bunt (0-0); Hess, K. advanced to second.",74,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,7,top,"Gillen, T. walked (3-2 KFBFFBBB).",75,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,7,top,"Duffalo, D. reached on a fielder's choice to shortstop (0-1 K); Gillen, T. out at second ss to 2b; Hess, K. advanced to third.",76,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,7,top,"Sailors, N. walked (3-1 BBBKB); Duffalo, D. advanced to second.",77,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,7,top,"North, B. flied out to cf (1-2 FKB).",78,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,7,bot,"Silva, R. popped up to ss (1-1 BK).",79,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,7,bot,"Brumbaugh, C flied out to rf (1-2 BKSF).",80,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,7,bot,"Stone, T. grounded out to p (2-2 BBKFF).",81,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,8,top,"Deters, T. grounded out to 3b (0-0).",82,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,8,top,"MacLean, W. grounded out to 3b (2-2 KFBB).",83,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,8,top,"Capece, C. grounded out to 2b (1-1 KB).",84,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,8,bot,"Aukerman, M. to p for Burke, J..",85,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,8,bot,"Carey, D. hit by pitch (3-2 BBKFFB).",86,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,8,bot,"Swansen, G. flied out to lf (1-2 KFB).",87,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,8,bot,"Buettenback singled to left field (1-0 B); Carey, D. advanced to second.",88,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,8,bot,"Langrell, G. to p for Aukerman, M..",89,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,8,bot,"Frost, C. pinch hit for Helligso, H..",90,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,8,bot,"Frost, C. doubled down the rf line, RBI (1-1 BF); Buettenback advanced to third; Carey, D. scored.",91,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,8,bot,"Bolin, R. pinch hit for Overbeek, J..",92,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,8,bot,"Bolin, R. struck out swinging, out at first c to 1b (2-2 SFBBS).",93,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,8,bot,"Sanderson, C flied out to lf (1-0 B).",94,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,9,top,"Jesske, W. to c for Frost, C..",95,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,9,top,"Stokes, R. to 3b for Bolin, R..",96,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,9,top,"Bender, P. to p for Harrahill, R.",97,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,9,top,"Hess, K. doubled to right field (0-1 K).",98,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,9,top,"Broderick, L to p for Bender, P..",99,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,9,top,"Venteicher,N struck out swinging, reached first on a wild pitch (0-2 FFFS); Hess, K. advanced to third on a wild pitch.",100,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,9,top,"Gillen, T. struck out swinging (2-2 BKBFFS); Venteicher,N stole second.",101,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,9,top,"Torosian, J. pinch hit for Duffalo, D..",102,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,9,top,"Torosian, J. tripled down the rf line, 2 RBI (0-2 FK); Venteicher,N scored; Hess, K. scored.",103,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,9,top,"Sailors, N. struck out swinging (3-2 SBFBBFS).",104,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,9,top,"North, B. singled to right field, RBI (3-2 BBBKF); Torosian, J. scored.",105,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596529,9,top,"Deters, T. flied out to rf (0-1 F).",106,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,9,bot,"Silva, R. grounded out to ss (1-2 KFB).",107,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,9,bot,"Brumbaugh, C grounded out to p (0-0).",108,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025
+6308906,596529,Creighton Bluejays,596712,Nebraska Huskers,596712,9,bot,"Stone, T. grounded out to 2b (0-0).",109,2025-04-01T03:00:00-04:00,"Hawks Field (Lincoln, NE)",4392,MBA,2025

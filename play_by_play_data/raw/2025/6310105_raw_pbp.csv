@@ -1,0 +1,134 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,1,top,DRUMM singled to left field.,1,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,1,top,MOROKNEK singled through the right side; DRUMM advanced to second.,2,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,1,top,"BELLO singled to right field; MOROKNEK advanced to second; DRUMM advanced to third, out at home 2b to c.",3,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,1,top,TOWNSEND struck out swinging.,4,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,1,top,BARBERO reached on an error by 3b; BELLO advanced to second; MOROKNEK advanced to third.,5,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,1,top,"CARR doubled to left field, 2 RBI; BARBERO advanced to third; BELLO scored, unearned; MOROKNEK scored, unearned.",6,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,1,top,DUNCAN struck out swinging.,7,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,1,bot,"WORCESTER, C singled to third base.",8,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,1,bot,"CASTRO, T grounded out to p, SAC; WORCESTER, C advanced to second.",9,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,1,bot,"O'CONOR, M homered to right field, 2 RBI; WORCESTER, C scored.",10,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,1,bot,"GOODWIN, Z flied out to cf to right center.",11,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,1,bot,"FERGUSON, J walked.",12,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,1,bot,"LOVE, J flied out to cf.",13,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,2,top,BURGESS flied out to lf.,14,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,2,top,SOLOMON flied out to lf.,15,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,2,top,DRUMM grounded out to 3b.,16,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,2,bot,"STANLEY, B singled to left center.",17,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,2,bot,"STANLEY, B stole second.",18,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,2,bot,"HILL, E reached on an error by ss; STANLEY, B advanced to third.",19,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,2,bot,"ROSSI, E grounded out to p; HILL, E advanced to second.",20,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,2,bot,"WORCESTER, C hit by pitch.",21,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,2,bot,"CASTRO, T flied out to lf, SAC, RBI; STANLEY, B scored, unearned.",22,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,2,bot,"WORCESTER, C advanced to second on a wild pitch; HILL, E advanced to third on a wild pitch.",23,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,2,bot,"O'CONOR, M walked.",24,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,2,bot,"GOODWIN, Z singled to center field, 2 RBI; O'CONOR, M advanced to second; WORCESTER, C scored, unearned; HILL, E scored, unearned.",25,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,2,bot,"FERGUSON, J singled to center field, RBI; GOODWIN, Z advanced to second; O'CONOR, M scored, unearned.",26,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,2,bot,"LOVE, J struck out looking.",27,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,3,top,"CARTWRIGHT E to p for CAREW, C.",28,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,3,top,MOROKNEK popped up to 1b.,29,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,3,top,BELLO grounded out to 3b.,30,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,3,top,TOWNSEND singled through the right side.,31,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,3,top,BARBERO flied out to rf.,32,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,3,bot,HORNSCHEMEIE to p for GRIFFITHS.,33,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,3,bot,"STANLEY, B struck out swinging.",34,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,3,bot,"HILL, E walked.",35,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,3,bot,"HILL, E advanced to second on a wild pitch.",36,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,3,bot,"HILL, E advanced to third on a passed ball.",37,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,3,bot,"ROSSI, E struck out looking.",38,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,3,bot,"WORCESTER, C walked.",39,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,3,bot,"WORCESTER, C stole second.",40,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,3,bot,"CASTRO, T grounded out to ss.",41,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,4,top,CARR struck out swinging.,42,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,4,top,DUNCAN walked.,43,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,4,top,BURGESS walked; DUNCAN advanced to second.,44,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,4,top,SOLOMON walked; BURGESS advanced to second; DUNCAN advanced to third.,45,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,4,top,DRUMM struck out swinging.,46,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,4,top,MOROKNEK flied out to lf.,47,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,4,bot,GALDONI to p for HORNSCHEMEIE.,48,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,4,bot,"O'CONOR, M grounded out to 3b.",49,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,4,bot,"GOODWIN, Z hit by pitch.",50,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,4,bot,"FERGUSON, J singled to left center; GOODWIN, Z advanced to third.",51,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,4,bot,"FERGUSON, J stole second.",52,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,4,bot,"LOVE, J singled to right field, RBI; FERGUSON, J advanced to third; GOODWIN, Z scored.",53,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,4,bot,"STANLEY, B walked; LOVE, J advanced to second.",54,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,4,bot,"STANLEY, B advanced to second on a wild pitch; LOVE, J advanced to third on a wild pitch; FERGUSON, J scored on a wild pitch.",55,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,4,bot,"HILL, E struck out swinging.",56,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,4,bot,"ROSSI, E walked.",57,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,4,bot,"VOTA, C. to p for GALDONI.",58,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,4,bot,"WORCESTER, C walked, RBI; ROSSI, E advanced to second; STANLEY, B advanced to third; LOVE, J scored.",59,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,4,bot,"CASTRO, T flied out to rf.",60,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,5,top,"MARSHALL, N to p for CARTWRIGHT E.",61,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,5,top,BELLO grounded out to ss.,62,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,5,top,TOWNSEND struck out looking.,63,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,5,top,BARBERO grounded out to ss.,64,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,5,bot,"SIMPSON to p for VOTA, C..",65,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,5,bot,"O'CONOR, M doubled to left center.",66,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,5,bot,"GOODWIN, Z hit by pitch.",67,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,5,bot,"FERGUSON, J hit by pitch; GOODWIN, Z advanced to second; O'CONOR, M advanced to third.",68,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,5,bot,"LOVE, J struck out swinging.",69,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,5,bot,"STANLEY, B struck out looking.",70,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,5,bot,"HILL, E grounded out to 2b.",71,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,6,top,"MELTON, L to c for GOODWIN, Z.",72,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,6,top,CARR grounded out to 2b.,73,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,6,top,DUNCAN struck out looking.,74,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,6,top,BURGESS flied out to rf to right center.,75,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,6,bot,SHERRARD to p for SIMPSON.,76,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,6,bot,"ROSSI, E walked.",77,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,6,bot,"WORCESTER, C grounded into double play 2b to 1b; ROSSI, E out on the play.",78,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,6,bot,"CASTRO, T flied out to lf.",79,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,7,top,SOLOMON walked.,80,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,7,top,DRUMM hit by pitch; SOLOMON advanced to second.,81,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,7,top,"MOROKNEK doubled to left center, RBI; DRUMM advanced to third; SOLOMON scored.",82,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,7,top,"BELLO singled to right field, 2 RBI; MOROKNEK scored; DRUMM scored.",83,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,7,top,TOWNSEND singled through the right side; BELLO advanced to second.,84,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,7,top,BARBERO struck out swinging.,85,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,7,top,CARR singled to right field; TOWNSEND advanced to second; BELLO advanced to third.,86,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,7,top,CONNORS pinch hit for DUNCAN.,87,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,7,top,"CONNORS reached on a fielder's choice, RBI; CARR out at second 1b to ss; TOWNSEND advanced to third; BELLO scored.",88,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,7,top,CONNORS stole second.,89,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,7,top,BURGESS grounded out to 2b.,90,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,7,bot,MUNTON to c for CONNORS.,91,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,7,bot,PANCRATZ to p for SHERRARD.,92,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,7,bot,"O'CONOR, M grounded out to ss.",93,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,7,bot,"PETERS, Q pinch hit for MELTON, L.",94,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,7,bot,"PETERS, Q walked.",95,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,7,bot,"PETERS, Q stole second.",96,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,7,bot,"FERGUSON, J doubled to center field, RBI; PETERS, Q scored.",97,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,7,bot,"FERGUSON, J advanced to third on a wild pitch.",98,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,7,bot,"LOVE, J walked.",99,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,7,bot,KANIPE to p for PANCRATZ.,100,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,7,bot,"STANLEY, B out at first p to 2b, SAC, RBI; LOVE, J advanced to second; FERGUSON, J scored.",101,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,7,bot,"MELTON, L pinch hit for HILL, E.",102,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,7,bot,"MELTON, L grounded out to ss.",103,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,8,top,"PETERS, Q to cf.",104,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,8,top,"MELTON, L to c.",105,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,8,top,"ROSSI, E to rf.",106,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,8,top,SOLOMON singled to center field.,107,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,8,top,DRUMM flied out to cf.,108,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,8,top,"BRADLEY, K to p for MARSHALL, N.",109,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,8,top,MOROKNEK flied out to lf.,110,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,8,top,BELLO struck out swinging.,111,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,8,bot,"ROSSI, E reached on an error by ss.",112,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,8,bot,"WORCESTER, C grounded out to p, SAC; ROSSI, E advanced to second.",113,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,8,bot,"CASTRO, T singled to center field, RBI; ROSSI, E scored, unearned.",114,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,8,bot,"CASTRO, T stole second.",115,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,8,bot,"O'CONOR, M struck out swinging.",116,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,8,bot,"PETERS, Q singled to shortstop; CASTRO, T advanced to third.",117,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,8,bot,"FERGUSON, J walked; PETERS, Q advanced to second.",118,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,8,bot,"WIESE, S pinch hit for LOVE, J.",119,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,8,bot,"WIESE, S singled up the middle, 2 RBI; FERGUSON, J advanced to second; PETERS, Q scored, unearned; CASTRO, T scored, unearned.",120,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,8,bot,"WIESE, S advanced to second on a wild pitch; FERGUSON, J advanced to third on a wild pitch.",121,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596537,8,bot,"STANLEY, B grounded out to ss.",122,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,9,top,TOWNSEND struck out swinging.,123,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,9,top,BARBERO singled up the middle.,124,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,9,top,BARBERO stole second.,125,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,9,top,CARR walked.,126,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,9,top,"POTTEIGER, J to p for BRADLEY, K.",127,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,9,top,SACKETT pinch hit for MUNTON.,128,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,9,top,SACKETT singled through the right side; CARR advanced to second; BARBERO advanced to third.,129,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,9,top,"BURGESS reached on a fielder's choice, RBI; SACKETT advanced to second on an error by 2b; CARR advanced to third; BARBERO scored.",130,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,9,top,"SOLOMON walked, RBI; BURGESS advanced to second; SACKETT advanced to third; CARR scored, unearned.",131,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,9,top,DRUMM popped up to ss.,132,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
+6310105,596503,Butler Bulldogs,596537,Eastern Ill. Panthers,596503,9,top,MOROKNEK grounded out to ss.,133,2025-04-01T00:00:00-04:00,"Coaches Stadium (Charleston, IL)",121,MBA,2025
