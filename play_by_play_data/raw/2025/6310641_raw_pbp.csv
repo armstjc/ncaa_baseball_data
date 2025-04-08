@@ -1,0 +1,92 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,1,top,B-ANDERSON walked (3-2 KBBFFBB).,1,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,1,top,L-COOK flied out to cf (1-2 FSB).,2,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,1,top,RICHMOND reached on a fielder's choice (0-1 S)3a B-ANDERSON out at second 2b to ss.,3,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,1,top,SUTTER struck out swinging (1-2 FBKS).,4,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,1,bot,"Guerrero,A walked (3-1 BBBFB).",5,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,1,bot,"Guerrero,A advanced to second on a balk.",6,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,1,bot,"Taggart,C singled to second base, RBI (2-2 BKFB)3a Guerrero,A scored.",7,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,1,bot,"Knight,M flied out to rf (0-2 FF).",8,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,1,bot,"DeCarlo,S grounded out to 3b (0-2 KKF)3a Taggart,C advanced to second.",9,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,1,bot,"Taggart,C advanced to third on a balk.",10,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,1,bot,"Terry,B out at first 1b to p (1-2 BKF).",11,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,2,top,SPENCE flied out to rf (1-2 SBS).,12,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,2,top,DECELLO singled to third base (0-1 F).,13,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,2,top,CHOI struck out swinging (1-2 SKBS).,14,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,2,top,GILL singled to right center (0-1 F)3a DECELLO advanced to third.,15,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,2,top,DECELLO out at home p to 1b to c.,16,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,2,bot,"Wilson,B doubled to right center (2-2 BKBF).",17,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,2,bot,"Hotchkiss,J homered to left field, 2 RBI (2-2 SBBKF)3a Wilson,B scored.",18,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,2,bot,"Kole,T grounded out to 2b (0-2 KK).",19,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,2,bot,"Blanchard,C out at first 1b to p (1-1 KB).",20,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,2,bot,"Guerrero,A walked (3-1 BFBBB).",21,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,2,bot,"Guerrero,A out at second c to ss, caught stealing.",22,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,3,top,"ROGERS reached on a throwing error by p, advanced to second (0-1 F).",23,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,3,top,B-ANDERSON flied out to rf (2-2 BSSFFB)3a ROGERS advanced to third.,24,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,3,top,L-COOK struck out swinging (1-2 FSFBS).,25,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,3,top,RICHMOND popped up to ss (1-1 SB).,26,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,3,bot,"Taggart,C grounded out to 1b unassisted (2-1 BBK).",27,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,3,bot,"Knight,M reached on an error by ss (1-1 BK).",28,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,3,bot,"Knight,M stole second.",29,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,3,bot,"DeCarlo,S struck out swinging (2-2 BKKFBS).",30,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,3,bot,"Terry,B homered, 2 RBI, unearned (0-1 K)3a Knight,M scored, unearned.",31,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,3,bot,VALLONE to p for MILBURN.,32,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,3,bot,"Wilson,B fouled out to 3b (0-0).",33,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,4,top,SUTTER struck out swinging (2-2 BBSKS).,34,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,4,top,SPENCE struck out looking (3-2 SBBKBK).,35,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,4,top,DECELLO hit by pitch (1-2 SSB).,36,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,4,top,CHOI struck out swinging (1-2 BKKFS).,37,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,4,bot,"Hotchkiss,J struck out swinging (2-2 KSFBBS).",38,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,4,bot,"Kole,T struck out swinging, reached first on a wild pitch (1-2 BSKS).",39,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,4,bot,"Kole,T advanced to second on a balk.",40,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,4,bot,"Blanchard,C struck out swinging (3-2 BKKBBS).",41,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,4,bot,"Guerrero,A walked (3-2 KBBKBB).",42,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,4,bot,"Taggart,C struck out swinging (2-2 KKBFFBS).",43,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,5,top,GILL walked (3-1 BBBKB).,44,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,5,top,ROGERS struck out swinging (1-2 SBFS).,45,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,5,top,B-ANDERSON doubled to right field (3-1 BBKB)3a GILL advanced to third.,46,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,5,top,"L-COOK grounded out to ss, RBI (1-2 BSK)3a GILL scored.",47,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,5,top,RICHMOND hit by pitch (3-1 BSBB).,48,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,5,top,SUTTER reached on a fielder's choice (0-2 SFF)3a RICHMOND out at second ss to 2b.,49,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,5,bot,"Knight,M flied out to lf (1-1 FB).",50,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,5,bot,"DeCarlo,S flied out to rf (1-2 BFF).",51,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,5,bot,"Terry,B struck out swinging (0-2 KFFS).",52,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,6,top,"Emanuels,J to p for Thomas,J.",53,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,6,top,SPENCE struck out swinging (1-2 KBFFS).,54,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,6,top,DECELLO flied out to rf (1-1 KB).,55,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,6,top,MOORE pinch hit for CHOI.,56,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,6,top,MOORE grounded out to ss (0-0).,57,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,6,bot,MOORE to lf.,58,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,6,bot,"Wilson,B struck out swinging (1-2 BKSS).",59,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,6,bot,"Hotchkiss,J flied out to cf (0-1 K).",60,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,6,bot,"Kole,T struck out swinging (2-2 BKBSS).",61,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,7,top,GILL struck out looking (0-2 FKFK).,62,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,7,top,ROGERS flied out to cf (1-0 B).,63,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,7,top,B-ANDERSON walked (3-1 BBKBB).,64,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,7,top,"L-COOK doubled to left field, RBI (0-0)3a B-ANDERSON scored.",65,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,7,top,RICHMOND hit by pitch (2-2 FFBB).,66,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,7,top,SUTTER struck out swinging (0-2 FSS).,67,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,7,bot,"Blanchard,C struck out looking (1-2 BKFK).",68,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,7,bot,"Guerrero,A flied out to cf (0-1 F).",69,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,7,bot,"Taggart,C flied out to cf (0-0).",70,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,8,top,NOWIK pinch hit for SPENCE.,71,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,8,top,NOWIK struck out looking (2-2 SSBFBK).,72,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,8,top,DECELLO struck out swinging (2-2 BSBSS).,73,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,8,top,MOORE flied out to cf (0-1 K).,74,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,8,bot,MALOTT to rf for NOWIK.,75,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,8,bot,"Knight,M popped up to 2b (0-0).",76,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,8,bot,"DeCarlo,S struck out looking (1-2 KBKK).",77,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596443,8,bot,"Terry,B struck out swinging (1-2 KSBS).",78,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,9,top,MANIAS pinch hit for GILL.,79,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,9,top,"Whitton,C to rf for Hotchkiss,J.",80,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,9,top,MANIAS walked (3-2 KBBFBB).,81,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,9,top,ROGERS struck out swinging (2-2 FSFFBFBFFS).,82,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,9,top,B-ANDERSON hit by pitch (0-0)3a MANIAS advanced to second.,83,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,9,top,"Yeager,I to p for Emanuels,J.",84,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,9,top,L-COOK singled through the right side (1-0 B)3a B-ANDERSON advanced to second3a MANIAS advanced to third.,85,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,9,top,"RICHMOND singled to center field, RBI (0-0)3a L-COOK advanced to second3a B-ANDERSON advanced to third3a MANIAS scored.",86,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,9,top,"SUTTER reached on a fielder's choice, RBI (0-1 S)3a RICHMOND out at second 3b to 2b3a L-COOK advanced to third3a B-ANDERSON scored.",87,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,9,top,GASSER pinch hit for MALOTT.,88,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,9,top,E-ANDERSON pinch ran for SUTTER.,89,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,9,top,E-ANDERSON advanced to second.,90,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025
+6310641,596653,Purdue Boilermakers,596443,Washington Huskies,596653,9,top,GASSER struck out looking (1-2 KSBK).,91,2025-04-05T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1204,MBA,2025

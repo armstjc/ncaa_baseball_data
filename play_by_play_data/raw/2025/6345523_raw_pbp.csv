@@ -1,0 +1,89 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,1,top,"Andrew McDermott singled to pitcher, bunt.",1,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,1,top,Collin Feeney singled to left field; Andrew McDermott advanced to second.,2,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,1,top,Ethan Fantel grounded out to ss; Collin Feeney advanced to second; Andrew McDermott advanced to third.,3,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,1,top,"Matt Curtis grounded out to lf unassisted, sacrifice fly, RBI; Andrew McDermott scored.",4,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,1,top,Collin Feeney stole third.,5,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,1,top,Ethan Daddabbo lined out to rf.,6,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,1,bot,Andrew McDermott to rf.,7,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,1,bot,Collin Feeney to cf.,8,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,1,bot,"Dodig, Randy walked.",9,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,1,bot,"Rusiecki, Jackson flied out to cf.",10,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,1,bot,"Marsh, Adam grounded out to ss; Dodig, Randy advanced to second.",11,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,1,bot,"Moses, Jarin out at first 1b to p.",12,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,2,top,Camden Laney lined out to cf.,13,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,2,top,Logan Scully flied out to lf.,14,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,2,top,Ryan Laubscher grounded out to ss.,15,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,2,bot,"Reade, Roberto struck out swinging.",16,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,2,bot,"Slaymaker, Charlie flied out to rf.",17,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,2,bot,"Kim, Caelen singled up the middle.",18,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,2,bot,"Bagley, John struck out looking.",19,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,3,top,Riley Brawdy grounded out to 2b.,20,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,3,top,Andrew McDermott struck out looking.,21,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,3,top,"Collin Feeney singled, bunt.",22,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,3,top,Collin Feeney stole second.,23,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,3,top,Ethan Fantel grounded out to ss.,24,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,3,bot,"Breagelmann, Isaac struck out looking.",25,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,3,bot,"Dodig, Randy walked.",26,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,3,bot,"Rusiecki, Jackson reached first on an error by 1b; Dodig, Randy advanced to second.",27,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,3,bot,"Marsh, Adam reached on a fielder's choice; Rusiecki, Jackson out at second 1b to ss; Dodig, Randy advanced to third.",28,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,3,bot,"Marsh, Adam stole second.",29,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,3,bot,"Moses, Jarin grounded out to 3b.",30,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,4,top,Matt Curtis grounded out to 2b.,31,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,4,top,Ethan Daddabbo fouled out to 3b.,32,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,4,top,Camden Laney singled up the middle.,33,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,4,top,Logan Scully lined out to cf.,34,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,4,bot,"Reade, Roberto walked.",35,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,4,bot,"Slaymaker, Charlie reached on a fielder's choice; Reade, Roberto out at second 3b to 2b.",36,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,4,bot,"Kim, Caelen singled through the right side; Slaymaker, Charlie advanced to third.",37,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,4,bot,"Bagley, John grounded out to ss, RBI; Kim, Caelen advanced to second; Slaymaker, Charlie scored.",38,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,4,bot,"Breagelmann, Isaac struck out looking.",39,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,5,top,Ryan Laubscher singled to left center.,40,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,5,top,Riley Brawdy struck out swinging.,41,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,5,top,Andrew McDermott popped up to 2b.,42,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,5,top,Ryan Laubscher advanced to second on a wild pitch.,43,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,5,top,Collin Feeney struck out looking.,44,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,5,bot,"Dodig, Randy struck out swinging.",45,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,5,bot,"Rusiecki, Jackson struck out looking.",46,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,5,bot,"Marsh, Adam singled through the right side.",47,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,5,bot,"Moses, Jarin grounded out to 3b.",48,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,6,top,Ethan Fantel walked.,49,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,6,top,Matt Curtis lined out to cf.,50,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,6,top,Ethan Daddabbo grounded into double play 3b to 2b to 1b; Ethan Fantel out on the play.,51,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,6,bot,"Reade, Roberto singled down the lf line.",52,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,6,bot,"Stroud, Dorian pinch ran for Reade, Roberto.",53,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,6,bot,"Slaymaker, Charlie struck out swinging.",54,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,6,bot,"Kim, Caelen walked; Stroud, Dorian advanced to second.",55,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,6,bot,"Stroud, Dorian out at second p to ss, picked off.",56,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,6,bot,"Bagley, John hit by pitch; Kim, Caelen advanced to second.",57,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,6,bot,"Breagelmann, Isaac flied out to cf.",58,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,7,top,Camden Laney grounded out to 2b.,59,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,7,top,Logan Scully popped up to ss.,60,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,7,top,Ryan Laubscher lined out to 3b.,61,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,7,bot,Jack Colyer to p for Jack Picozzi.,62,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,7,bot,"Dodig, Randy grounded out to 2b.",63,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,7,bot,"Rusiecki, Jackson grounded out to 2b.",64,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,7,bot,"Marsh, Adam singled up the middle.",65,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,7,bot,"Moses, Jarin flied out to rf.",66,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,8,top,Riley Brawdy grounded out to 2b.,67,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,8,top,Andrew McDermott grounded out to 1b unassisted.,68,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,8,top,Collin Feeney grounded out to 2b.,69,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,8,bot,Colin Dunn to rf for Andrew McDermott.,70,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,8,bot,"Zacher, Mikey pinch hit for Stroud, Dorian.",71,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,8,bot,Colin Dunn to cf.,72,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,8,bot,Collin Feeney to rf.,73,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,8,bot,"Zacher, Mikey struck out swinging.",74,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,8,bot,"Slaymaker, Charlie grounded out to 3b.",75,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,8,bot,"Kim, Caelen walked.",76,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,8,bot,"Bagley, John reached on a fielder's choice; Kim, Caelen out at second 2b to ss.",77,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,9,top,"Merkov, Ryan to p for Rising, Luc.",78,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,9,top,Ethan Fantel walked.,79,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,9,top,Sheldon Walker pinch ran for Ethan Fantel.,80,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,9,top,Matt Curtis out at first 1b to p; Sheldon Walker advanced to second.,81,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,9,top,Ethan Daddabbo flied out to rf; Sheldon Walker advanced to third.,82,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597303,9,top,Camden Laney flied out to rf.,83,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,9,bot,Sheldon Walker to lf.,84,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,9,bot,Camden Laney to 1b.,85,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,9,bot,"Breagelmann, Isaac grounded out to 2b.",86,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,9,bot,"Dodig, Randy walked.",87,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025
+6345523,597303,Ithaca Bombers,597014,RIT Tigers,597014,9,bot,"Rusiecki, Jackson doubled down the lf line, RBI; Dodig, Randy scored.",88,2025-04-04T00:00:00-04:00,"Freeman Field (Ithaca, NY)",106,MBA,2025

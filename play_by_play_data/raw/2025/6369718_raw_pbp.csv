@@ -1,0 +1,105 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,1,top,Lawson grounded out to 2b (1-2 BFS).,1,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,1,top,Conley flied out to lf (1-1 BS).,2,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,1,top,Sicoli flied out to rf (0-1 K).,3,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,1,bot,"Anderson grounded out to p, bunt (0-0).",4,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,1,bot,Harms singled to right field (0-2 KK).,5,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,1,bot,Stillson struck out looking (0-2 KFFK).,6,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,1,bot,"Harms advanced to second on a throwing error by p, failed pickoff attempt, advanced to third.",7,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,1,bot,Alonso walked (3-1 BBBKB).,8,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,1,bot,Camphausen struck out looking (0-2 KSK).,9,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,2,top,Halloran walked (3-2 FBSBBB).,10,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,2,top,Dincman struck out looking (3-2 KFBBBFK).,11,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,2,top,Wasserlauf reached on catcher's interference (1-1 KB)3a Halloran advanced to second.,12,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,2,top,Smallwood struck out looking (1-2 KFBFK).,13,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,2,top,Liu struck out looking (0-2 SKK).,14,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,2,bot,Donahue flied out to cf (1-0 B).,15,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,2,bot,Andreyko hit by pitch (1-1 F).,16,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,2,bot,Carinci flied out to cf (2-2 SBBF).,17,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,2,bot,Arterburn grounded out to 2b (0-2 FKF).,18,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,3,top,"Hanson, Z. struck out swinging (2-2 BFFBS).",19,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,3,top,Lawson hit by pitch (2-2 BKF).,20,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,3,top,Conley struck out swinging (0-2 KSS).,21,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,3,top,Sicoli singled through the left side (1-1 SB)3a Lawson advanced to second.,22,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,3,top,Sicoli advanced to second on a wild pitch3a Lawson advanced to third on a wild pitch.,23,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,3,top,Halloran walked (3-2 SBBBKB).,24,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,3,top,Dincman struck out swinging (0-2 KSS).,25,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,3,bot,Anderson flied out to rf (0-1 S).,26,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,3,bot,Harms walked (3-1 BKBBB).,27,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,3,bot,Harms advanced to second on a wild pitch.,28,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,3,bot,Stillson singled to shortstop (2-2 BFKFBF)3a Harms advanced to third.,29,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,3,bot,Stillson advanced to second on a wild pitch3a Harms scored on a wild pitch.,30,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,3,bot,Alonso walked (3-1 BBBKB).,31,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,3,bot,Camphausen struck out swinging (0-2 KFFFS).,32,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,3,bot,"Donahue struck out swinging, out at first c to 1b (2-2 FSBBS).",33,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,4,top,Wasserlauf fouled out to ss (2-0 BB).,34,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,4,top,Smallwood singled through the right side (0-0).,35,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,4,top,Liu reached on a fielder's choice to shortstop (1-0 B)3a Smallwood out at second ss to 2b.,36,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,4,top,"Hanson, Z. singled through the right side (1-0 B)3a Liu advanced to second.",37,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,4,top,Lawson struck out swinging (3-2 SKFBBFBS).,38,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,4,bot,Andreyko walked (3-1 FBBBB).,39,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,4,bot,Carinci singled to right center (2-2 BKBF)3a Andreyko advanced to third.,40,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,4,bot,"Arterburn singled to pitcher, bunt, RBI3a Carinci advanced to second3a Andreyko scored.",41,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,4,bot,Anderson fouled out to c (2-1 BKB).,42,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,4,bot,Arterburn stole second3a Carinci stole third.,43,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,4,bot,"Harms singled to right field, 2 RBI (1-2 KSFFBF)3a Arterburn scored3a Carinci scored.",44,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,4,bot,Harms stole second.,45,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,4,bot,Stillson walked (3-1 BBSBB).,46,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,4,bot,Stillson stole second3a Harms stole third.,47,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,4,bot,"Alonso grounded out to ss, RBI (3-2 BBKKFBF)3a Stillson advanced to third3a Harms scored.",48,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,4,bot,"Camphausen doubled to right center, RBI (2-2 SBBF)3a Stillson scored.",49,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,4,bot,Camphausen advanced to third on a wild pitch.,50,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,4,bot,Donahue walked (3-1 BKBBB).,51,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,4,bot,Andreyko flied out to cf (1-0 B).,52,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,5,top,Conley singled to left field (0-1 K).,53,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,5,top,Sicoli popped up to ss (1-0 B).,54,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,5,top,Halloran flied out to rf (0-0).,55,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,5,top,Dincman singled to center field (1-2 KKB)3a Conley advanced to second.,56,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,5,top,"Wasserlauf singled to left field, RBI (1-0 B)3a Dincman advanced to second3a Conley scored.",57,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,5,top,Smallwood fouled out to 3b (0-1 K).,58,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,5,bot,"Patel, M. to p for Zuckerman.",59,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,5,bot,Carinci singled to center field (2-2 FKBFB).,60,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,5,bot,Carinci stole second.,61,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,5,bot,Arterburn popped up to ss (1-2 KBS).,62,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,5,bot,"Anderson singled through the right side, RBI, advanced to second on the throw (1-0 B)3a Carinci scored.",63,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,5,bot,Harms singled through the left side (1-0 B)3a Anderson advanced to third.,64,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,5,bot,"Stillson flied out to cf, SF, RBI (1-1 BF)3a Anderson scored.",65,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,5,bot,Alonso grounded out to 3b (1-0 B).,66,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,6,top,Liu flied out to cf (0-0).,67,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,6,top,"Hanson, Z. grounded out to 2b (0-1 K).",68,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,6,top,Lawson singled to first base (2-2 KBBF).,69,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,6,top,Conley grounded out to p (1-2 BKFF).,70,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,6,bot,Camphausen hit by pitch (1-0).,71,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,6,bot,Camphausen advanced to second on a balk.,72,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,6,bot,Donahue singled through the right side (0-0)3a Camphausen advanced to third.,73,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,6,bot,Donahue stole second.,74,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,6,bot,Andreyko walked (3-0 BBBB).,75,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,6,bot,"Carinci singled to left field, RBI (1-2 KBF)3a Andreyko advanced to second3a Donahue advanced to third3a Camphausen scored.",76,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,6,bot,Arterburn grounded into double play 2b to ss to 1b (3-2 BBBKF)3a Carinci out on the play3a Andreyko advanced to third3a Donahue scored.,77,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,6,bot,Anderson struck out looking (1-2 BFKFK).,78,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,7,top,Sicoli doubled down the lf line (0-1 K).,79,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,7,top,Sicoli stole third.,80,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,7,top,"Halloran grounded out to ss, RBI (2-2 KSBBFF)3a Sicoli scored.",81,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,7,top,Dincman flied out to cf (1-1 BK).,82,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,7,top,Stillson to dh.,83,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,7,top,Shetty to p.,84,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,7,top,Wasserlauf lined out to lf (1-2 BSFF).,85,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,7,bot,"Edwards to p for Patel, M..",86,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,7,bot,Harms singled to left field (3-2 BFBBFFF).,87,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,7,bot,Stillson grounded into double play ss to 2b to 1b (1-0 B)3a Harms out on the play.,88,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,7,bot,Alonso doubled down the rf line (0-2 SS).,89,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,7,bot,Camphausen struck out swinging (0-2 SSS).,90,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,8,top,Smallwood grounded out to 1b unassisted (1-2 SBS).,91,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,8,top,Liu grounded out to p (0-0).,92,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,8,top,"Hanson, Z. flied out to rf (3-2 BBKFBF).",93,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,8,bot,Donahue struck out looking (3-2 FFFBBBFK).,94,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,8,bot,Andreyko flied out to cf (2-1 BSB).,95,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,8,bot,Carinci singled through the left side (0-1 K).,96,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,8,bot,Arterburn singled through the left side (1-2 BKF)3a Carinci advanced to second.,97,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597243,8,bot,Anderson struck out swinging (2-2 KBFBFS).,98,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,9,top,Lang pinch hit for Lawson.,99,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,9,top,Lang grounded out to 2b (0-1 K).,100,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,9,top,Newell pinch hit for Conley.,101,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,9,top,Newell flied out to cf (1-1 KB).,102,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,9,top,McGinley pinch hit for Sicoli.,103,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
+6369718,597276,Emory Eagles,597243,CWRU Spartans,597276,9,top,McGinley grounded out to 1b unassisted (1-2 KKB).,104,2025-04-04T00:00:00-04:00,"Nobby's Ballpark (Cleveland, OH)",346,MBA,2025
