@@ -1,0 +1,60 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,1,top,Wooldridge struck out swinging.,1,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,1,top,A. Renfro popped up to 1b.,2,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,1,top,P. White walked.,3,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,1,top,K. Garland grounded out to 3b.,4,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,1,bot,A. Jorge grounded out to 2b.,5,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,1,bot,S. Gonzalez struck out looking.,6,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,1,bot,C. Lockwood reached first on an error by ss.,7,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,1,bot,"J. Garcia struck out swinging, out at first c to 1b.",8,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,2,top,Z. Lewis flied out to cf to right center.,9,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,2,top,G. Minyard singled to center field.,10,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,2,top,C. Poellnitz reached on a fielder's choice3a G. Minyard out at second ss to 2b.,11,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,2,top,C. Nolden struck out looking.,12,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,2,bot,"K. Hall homered to left field, RBI.",13,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,2,bot,T. Hall walked.,14,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,2,bot,N. Deterding hit by pitch3a T. Hall advanced to second.,15,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,2,bot,N. Deterding advanced to second on a balk3a T. Hall advanced to third on a balk.,16,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,2,bot,"M. O'Neill struck out swinging, out at first c unassisted3a T. Hall out at third c to 3b, picked off.",17,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,2,bot,"N. Deterding out at third c to 3b, caught stealing.",18,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,3,top,A. Jackson tripled to center field.,19,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,3,top,Wooldridge lined out to 2b.,20,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,3,top,A. Renfro grounded out to p.,21,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,3,top,P. White grounded out to 3b.,22,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,3,bot,"C. Blunt singled to third base, bunt.",23,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,3,bot,"C. Blunt stole second, advanced to third on an error by c.",24,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,3,bot,"A. Jorge doubled down the lf line, RBI3a C. Blunt scored.",25,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,3,bot,S. Gonzalez struck out swinging.,26,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,3,bot,C. Lockwood popped up to 2b.,27,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,3,bot,J. Garcia reached first on an error by 3b3a A. Jorge advanced to third.,28,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,3,bot,"K. Hall singled to right field, RBI3a J. Garcia advanced to second3a A. Jorge scored, unearned.",29,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,3,bot,T. Hall struck out looking.,30,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,4,top,K. Garland grounded out to ss.,31,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,4,top,Z. Lewis fouled out to 1b.,32,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,4,top,G. Minyard struck out looking.,33,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,4,bot,N. Deterding grounded out to 3b.,34,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,4,bot,M. O'Neill grounded out to 3b.,35,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,4,bot,C. Blunt popped up to 1b.,36,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,5,top,C. Poellnitz singled to right center.,37,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,5,top,C. Poellnitz stole second.,38,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,5,top,C. Nolden grounded out to ss3a C. Poellnitz advanced to third.,39,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,5,top,C. Poellnitz out at home p to c to 3b to p.,40,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,5,top,A. Jackson singled to third base.,41,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,5,top,"A. Jackson out at first p to 1b to ss to 2b, picked off.",42,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,5,bot,A. Jorge struck out looking.,43,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,5,bot,S. Gonzalez doubled to left center.,44,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,5,bot,C. Lockwood hit by pitch.,45,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,5,bot,"C. Lockwood stole second3a S. Gonzalez out at third c to 3b, caught stealing.",46,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,5,bot,C. Lockwood advanced to third on a wild pitch.,47,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,5,bot,J. Garcia walked.,48,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,5,bot,"J. Garcia out at first p to 1b, picked off.",49,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,6,top,Wooldridge grounded out to 2b.,50,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,6,top,A. Renfro grounded out to ss.,51,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,6,top,P. White doubled down the rf line.,52,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,6,top,K. Garland struck out looking.,53,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,6,bot,K. Hall grounded out to 1b unassisted.,54,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,6,bot,T. Hall struck out swinging.,55,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596896,6,bot,N. Deterding flied out to cf to left center.,56,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,7,top,Z. Lewis grounded out to 3b.,57,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,7,top,G. Minyard grounded out to ss.,58,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
+6351569,596893,Kentucky St. Thorobreds,596896,Lane Dragons,596893,7,top,C. Poellnitz struck out looking.,59,2025-04-07T00:00:00-04:00,"Lane Baseball Field  (Jackson, TN)",81,MBA,2025
