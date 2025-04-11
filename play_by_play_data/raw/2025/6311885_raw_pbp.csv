@@ -1,0 +1,101 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,1,top,No play.,1,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,1,top,No play.,2,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,1,top,"Ishikawa, K walked (3-0 BBBB).",3,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,1,top,"Ishikawa, K advanced to second on a wild pitch.",4,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,1,top,"Peterson, T walked (3-1 BBKBB).",5,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,1,top,"Kane, S flied out to cf (1-0 B).",6,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,1,top,"Harmon, R singled to left field, RBI (1-2 KKFFFB); Peterson, T advanced to second; Ishikawa, K scored.",7,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,1,top,"Wagoner, J flied out to rf (2-2 BBKSF); Peterson, T advanced to third.",8,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,1,top,"Harmon, R out at first c to ss to 1b, caught stealing; Peterson, T scored.",9,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,1,bot,"Guerrero,A flied out to cf to right center (0-0).",10,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,1,bot,"Taggart,C flied out to lf (0-2 KK).",11,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,1,bot,"Knight,M walked (3-1 KBBBB).",12,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,1,bot,"DeCarlo,S singled to right field (0-2 FK); Knight,M advanced to third.",13,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,1,bot,"DeCarlo,S stole second.",14,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,1,bot,"Terry,B struck out looking (1-2 FKBK).",15,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,2,top,"Feliciano, V flied out to rf (1-2 FBS).",16,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,2,top,"Tsoukalas, M singled to shortstop, bunt (0-0).",17,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,2,top,"Cunnigan, J popped up to 3b (1-2 SKFBF).",18,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,2,top,"Stevenson, J flied out to lf (3-1 BBBK).",19,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,2,bot,"Hotchkiss,J singled (2-0 BB).",20,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,2,bot,"Wilson,B doubled to left center (2-0 BB); Hotchkiss,J advanced to third.",21,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,2,bot,"Kole,T popped up to 1b (1-0 B).",22,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,2,bot,"Blanchard,C grounded out to 1b unassisted, RBI (0-2 KK); Wilson,B advanced to third; Hotchkiss,J scored.",23,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,2,bot,"Espinoza, R to p for Liddle, B.",24,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,2,bot,"Guerrero,A walked (3-0 BBBB).",25,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,2,bot,"Guerrero,A stole second.",26,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,2,bot,"Taggart,C struck out looking (2-2 BKBFK).",27,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,3,top,"Brandenburg to p for Gilbert,B.",28,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,3,top,"Ishikawa, K flied out to cf (2-2 BKFFBF).",29,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,3,top,"Peterson, T doubled down the rf line (0-0).",30,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,3,top,"Kane, S walked (3-0 BBBB).",31,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,3,top,"Harmon, R flied into double play cf to 2b (0-0); Peterson, T out on the play.",32,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,3,bot,"Knight,M struck out swinging (0-2 KFS).",33,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,3,bot,"DeCarlo,S grounded out to 3b (3-2 FBBFBFF).",34,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,3,bot,"Terry,B walked (3-2 BFFBBB).",35,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,3,bot,"Terry,B advanced to second on an error by p.",36,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,3,bot,"Hotchkiss,J walked (3-1 BBBKB).",37,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,3,bot,"Wilson,B struck out swinging (2-2 SKFBBFS).",38,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,4,top,"Wagoner, J walked (3-1 BBKBB).",39,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,4,top,"Feliciano, V reached on a fielder's choice (0-1 K); Wagoner, J out at second 2b to ss.",40,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,4,top,"Tsoukalas, M struck out swinging (0-2 KSFS).",41,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,4,top,"Cunnigan, J walked (3-2 BFKBBFB); Feliciano, V advanced to second.",42,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,4,top,"Stevenson, J walked (3-2 KBKBBB); Cunnigan, J advanced to second; Feliciano, V advanced to third.",43,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,4,top,"Ishikawa, K popped up to 3b (0-2 SFFF).",44,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,4,bot,"Galvin, P to p for Espinoza, R.",45,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,4,bot,"Kole,T grounded out to 1b unassisted (0-1 F).",46,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,4,bot,"Blanchard,C flied out to rf (0-1 K).",47,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,4,bot,"Guerrero,A doubled to right field (2-1 BSB).",48,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,4,bot,"Taggart,C singled (3-2 KBFBB); Guerrero,A out at third rf to c.",49,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,5,top,"Sweeney,P to p for Brandenburg.",50,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,5,top,"Peterson, T flied out to cf (3-2 BFKBB).",51,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,5,top,"Kane, S fouled out to 1b (2-2 BSFB).",52,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,5,top,"Harmon, R fouled out to lf (0-0).",53,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,5,bot,"Knight,M walked (3-1 BBBKB).",54,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,5,bot,"DeCarlo,S hit by pitch (1-0 B); Knight,M advanced to second.",55,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,5,bot,"Madariaga, R to p for Galvin, P.",56,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,5,bot,"Terry,B flied out to rf (1-2 BKF); Knight,M advanced to third.",57,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,5,bot,"Hotchkiss,J struck out swinging, interference; DeCarlo,S out at second c unassisted.",58,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,6,top,"Wagoner, J grounded out to ss (0-0).",59,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,6,top,"Feliciano, V grounded out to 2b (0-1 S).",60,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,6,top,"Tsoukalas, M struck out swinging (0-2 KSS).",61,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,6,bot,"Wilson,B flied out to cf (1-0 B).",62,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,6,bot,"Kole,T fouled out to c (0-0).",63,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,6,bot,"Blanchard,C struck out swinging (3-2 KFBBBS).",64,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,7,top,"Cunnigan, J reached on an error by 1b (0-0).",65,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,7,top,"Curry, C to c for Cunnigan, J.",66,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,7,top,"Curry, C stole second.",67,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,7,top,"Stevenson, J walked (3-2 BFKBBB).",68,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,7,top,"Ishikawa, K walked (3-2 BFBBFFB); Stevenson, J advanced to second; Curry, C advanced to third.",69,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,7,top,"Nichols,G to p for Sweeney,P.",70,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,7,top,"Peterson, T walked, RBI (3-1 BBKBB); Ishikawa, K advanced to second; Stevenson, J advanced to third; Curry, C scored, unearned.",71,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,7,top,"Kane, S struck out looking (1-2 KSBK).",72,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,7,top,"Harmon, R flied into double play cf to c (1-0 B); Stevenson, J out on the play.",73,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,7,bot,"Lind, J to c for Curry, C.",74,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,7,bot,"Guerrero,A singled to left center (3-1 BBBK).",75,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,7,bot,"Taggart,C walked (3-2 KFFFBBBB); Guerrero,A advanced to second.",76,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,7,bot,"Knight,M singled to pitcher, bunt (1-0 B); Taggart,C advanced to second; Guerrero,A advanced to third.",77,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,7,bot,"DeCarlo,S struck out swinging (0-2 FFFS).",78,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,7,bot,"Terry,B flied out to rf, SAC, RBI (0-1 K); Guerrero,A scored.",79,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,7,bot,"Hotchkiss,J struck out looking (1-2 FBKK).",80,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,8,top,"Wagoner, J walked (3-2 KBBKBB).",81,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,8,top,"Feliciano, V struck out swinging (0-2 KSFS).",82,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,8,top,"Tsoukalas, M struck out swinging (0-2 KFS).",83,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,8,top,"Lind, J struck out looking (1-2 KSBK).",84,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,8,bot,"Morrison, R to p for Madariaga, R.",85,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,8,bot,"Wilson,B singled to left field (1-1 BF).",86,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,8,bot,"Kole,T reached on an error by 3b, bunt (1-0 B); Wilson,B advanced to second, advanced to third on the throw.",87,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,8,bot,"Blanchard,C struck out swinging (0-2 FSS).",88,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,8,bot,"Kole,T stole second.",89,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,8,bot,"Guerrero,A walked (3-2 KBBBSFB).",90,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,8,bot,"Taggart,C singled to first base, RBI (0-1 K); Guerrero,A advanced to second; Kole,T advanced to third; Wilson,B scored.",91,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,8,bot,"Knight,M grounded out to p, RBI (2-2 BBSS); Taggart,C advanced to second; Guerrero,A advanced to third; Kole,T scored, unearned.",92,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596443,8,bot,"DeCarlo,S struck out swinging (2-2 BKBFFS).",93,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,9,top,"Yeager,I to p for Nichols,G.",94,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,9,top,"Stevenson, J struck out swinging (1-2 BSFS).",95,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,9,top,"Whitton,C to rf for Hotchkiss,J.",96,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,9,top,"Ishikawa, K singled (0-2 KS).",97,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,9,top,"Peterson, T walked (3-0 BBBB); Ishikawa, K advanced to second.",98,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,9,top,"Kane, S struck out swinging (3-2 BKBSBS).",99,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
+6311885,596465,Seattle U Redhawks,596443,Washington Huskies,596465,9,top,"Harmon, R flied out to rf (2-2 SFBB).",100,2025-04-08T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",909,MBA,2025
