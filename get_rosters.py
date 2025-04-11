@@ -1,6 +1,7 @@
 import logging
 from os import mkdir
 from random import shuffle
+import time
 
 import pandas as pd
 from ncaa_stats_py.baseball import (

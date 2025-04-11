@@ -1,0 +1,85 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,1,top,V. Ward out at first 1b to p.,1,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,1,top,A. Espada doubled to right center.,2,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,1,top,"E. Garabito singled up the middle, RBI; A. Espada scored.",3,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,1,top,"E. Garabito out at second c to ss, caught stealing.",4,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,1,top,E. Galarza struck out swinging.,5,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,1,bot,E. Oliver flied out to rf.,6,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,1,bot,J. Medhurst struck out swinging.,7,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,1,bot,B. Carpenter grounded out to ss.,8,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,2,top,J. Cortes struck out swinging.,9,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,2,top,K. Rivera walked.,10,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,2,top,"K. Rivera out at second c to 2b, caught stealing.",11,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,2,top,C. Telford walked.,12,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,2,top,B. Arent singled up the middle; C. Telford advanced to third.,13,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,2,top,B. Arent Failed pickoff attempt; C. Telford stole home.,14,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,2,top,B. Arent advanced to second on a wild pitch.,15,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,2,top,T. Pilla grounded out to ss.,16,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,2,bot,T. Lussier flied out to cf.,17,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,2,bot,B. Stewart flied out to rf.,18,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,2,bot,K. Tanis grounded out to ss.,19,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,3,top,V. Ward singled through the left side.,20,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,3,top,"A. Espada grounded out to p, SAC, bunt; V. Ward advanced to second.",21,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,3,top,E. Garabito singled to right field; V. Ward advanced to third.,22,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,3,top,E. Galarza hit by pitch; E. Garabito advanced to second.,23,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,3,top,"J. Cortes reached first on a throwing error by ss, advanced to second, RBI; E. Galarza advanced to third; E. Garabito scored, unearned; V. Ward scored.",24,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,3,top,K. Rivera walked.,25,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,3,top,P. Idleman to p for J. Tetzlaff.,26,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,3,top,"C. Telford singled through the left side, RBI; K. Rivera advanced to second; J. Cortes advanced to third; E. Galarza scored.",27,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,3,top,"B. Arent doubled to left field, 2 RBI; C. Telford advanced to third; K. Rivera scored; J. Cortes scored, unearned.",28,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,3,top,T. Pilla popped up to ss.,29,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,3,top,V. Ward flied out to cf.,30,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,3,bot,J. Ringer grounded out to ss.,31,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,3,bot,"Davide, Jr flied out to cf.",32,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,3,bot,K. Ohlsen singled to right center.,33,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,3,bot,E. Oliver flied out to rf.,34,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,4,top,A. Abate pinch hit for A. Espada.,35,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,4,top,A. Abate popped up to 1b.,36,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,4,top,E. Garabito flied out to rf.,37,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,4,top,E. Galarza grounded out to 1b unassisted.,38,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,4,bot,A. Abate to ss.,39,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,4,bot,J. Medhurst struck out looking.,40,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,4,bot,B. Carpenter singled to left center.,41,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,4,bot,T. Lussier hit by pitch; B. Carpenter advanced to second.,42,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,4,bot,B. Stewart flied out to rf.,43,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,4,bot,"K. Tanis singled through the left side, RBI; T. Lussier advanced to second; B. Carpenter scored.",44,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,4,bot,J. Ringer flied out to lf.,45,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,5,top,J. Cortes struck out looking.,46,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,5,top,K. Rivera walked.,47,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,5,top,C. Telford flied out to rf.,48,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,5,top,B. Arent reached on a fielder's choice; K. Rivera out at second 3b to 2b.,49,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,5,bot,"Davide, Jr flied out to lf.",50,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,5,bot,K. Ohlsen flied out to lf.,51,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,5,bot,E. Oliver popped up to ss.,52,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,6,top,E. Oliver to lf.,53,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,6,top,N. Knight to rf for J. Medhurst.,54,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,6,top,"Davide, Jr to cf.",55,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,6,top,T. Pilla grounded out to 3b.,56,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,6,top,V. Ward struck out swinging.,57,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,6,top,A. Abate doubled to right center.,58,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,6,top,E. Garabito grounded out to 2b.,59,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,6,bot,R. Anton to 3b for E. Garabito.,60,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,6,bot,N. Knight singled to right center.,61,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,6,bot,B. Carpenter reached first on an error by ss; N. Knight advanced to second.,62,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,6,bot,T. Lussier walked; B. Carpenter advanced to second; N. Knight advanced to third.,63,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,6,bot,B. Stewart flied out to cf.,64,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,6,bot,"K. Tanis reached on a fielder's choice, RBI; T. Lussier advanced to second; B. Carpenter out at third 3b; N. Knight scored, unearned.",65,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,6,bot,J. Ringer reached on a fielder's choice; K. Tanis out at second ss to 2b.,66,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,7,top,B. Butler to p for P. Idleman.,67,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,7,top,M. Roth to lf for E. Oliver.,68,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,7,top,E. Galarza singled to right center.,69,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,7,top,E. Galarza advanced to second on a passed ball.,70,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,7,top,J. Cortes walked.,71,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,7,top,"K. Rivera singled to third base, RBI; J. Cortes advanced to third; E. Galarza scored.",72,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,7,top,"C. Telford singled to right center, RBI; K. Rivera advanced to second; J. Cortes scored.",73,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,7,top,C. Telford advanced to second; K. Rivera advanced to third on a wild pitch.,74,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,7,top,B. Arent walked.,75,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,7,top,T. Pilla struck out swinging.,76,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,7,top,"V. Ward walked, RBI; B. Arent advanced to second; C. Telford advanced to third; K. Rivera scored.",77,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,7,top,"A. Abate flied out to lf, sacrifice fly, RBI; C. Telford scored.",78,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,597146,7,top,R. Anton flied out to lf.,79,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,7,bot,"Davide, Jr walked.",80,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,7,bot,K. Ohlsen popped up to 2b.,81,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,7,bot,M. Roth popped up to p.,82,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,7,bot,"N. Knight doubled down the lf line; Davide, Jr advanced to third.",83,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
+6351751,597146,Albertus Magnus Falcons,596989,Norwich Cadets,596989,7,bot,B. Carpenter grounded out to 2b.,84,2025-04-10T00:00:00-04:00,"Garrity Field (Northfield, VT)",16,MBA,2025
