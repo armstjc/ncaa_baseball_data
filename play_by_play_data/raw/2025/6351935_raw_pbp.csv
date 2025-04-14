@@ -1,0 +1,82 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,1,top,I.Canty flied out to rf.,1,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,1,top,N.Gioia flied out to cf.,2,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,1,top,J.Guardado walked.,3,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,1,top,J.Murray walked3a J.Guardado advanced to second.,4,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,1,top,"J.Akins singled to center field, RBI3a J.Murray advanced to second3a J.Guardado advanced to third, scored on the throw.",5,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,1,top,J.Olmedo flied out to cf.,6,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,1,bot,N. Pratt struck out swinging.,7,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,1,bot,D. Lee walked.,8,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,1,bot,J. Saffold singled to right field3a D. Lee advanced to second.,9,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,1,bot,"S. Williams tripled to left field, 2 RBI3a J. Saffold scored3a D. Lee scored.",10,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,1,bot,J. Johnson popped up to 2b.,11,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,1,bot,"A. Glass reached on an error by 3b, RBI3a S. Williams scored, unearned.",12,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,1,bot,A. Glass stole second.,13,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,1,bot,J. Brooks struck out swinging.,14,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,2,top,"J.Hall struck out swinging, out at first c to 1b.",15,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,2,top,M.Bates grounded out to ss.,16,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,2,top,J.Mitchell grounded out to ss.,17,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,2,bot,J. Stevens walked.,18,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,2,bot,R. Morrow walked3a J. Stevens advanced to second.,19,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,2,bot,"N. Pratt singled to pitcher, bunt3a R. Morrow advanced to second, advanced to third on the throw3a J. Stevens advanced to third, out at home p to c.",20,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,2,bot,"D. Lee singled to pitcher, bunt3a N. Pratt advanced to second.",21,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,2,bot,"J. Saffold grounded out to 2b, RBI3a D. Lee advanced to second3a N. Pratt advanced to third3a R. Morrow scored.",22,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,2,bot,"S. Williams singled to right field, 2 RBI3a D. Lee scored3a N. Pratt scored.",23,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,2,bot,J. Johnson grounded out to p.,24,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,3,top,I.Canty hit by pitch.,25,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,3,top,I.Canty advanced to second on an error by p.,26,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,3,top,N.Gioia grounded out to ss3a I.Canty advanced to third.,27,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,3,top,"J.Guardado singled to third base, advanced to second on the throw, RBI3a I.Canty scored.",28,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,3,top,J.Murray popped up to 2b.,29,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,3,top,"J.Akins struck out swinging, out at first c to 1b.",30,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,3,bot,J.Olmedo to p.,31,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,3,bot,B.Duran to 3b for C.Fellows.,32,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,3,bot,A. Glass doubled to left field.,33,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,3,bot,"J. Brooks grounded out to p, SAC, bunt3a A. Glass advanced to third.",34,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,3,bot,J. Stevens grounded out to p.,35,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,3,bot,"R. Morrow singled to left field, RBI3a A. Glass scored.",36,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,3,bot,N. Pratt popped up to 1b.,37,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,4,top,J.Olmedo hit by pitch.,38,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,4,top,J.Hall flied out to cf.,39,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,4,top,J.Olmedo advanced to second on a passed ball.,40,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,4,top,B.Duran to dh for M.Bates.,41,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,4,top,/  for B.Duran.,42,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,4,top,B.Duran walked.,43,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,4,top,J.Mitchell reached on a fielder's choice to third base3a B.Duran advanced to second3a J.Olmedo out at third 3b unassisted.,44,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,4,top,I.Canty hit by pitch3a J.Mitchell advanced to second3a B.Duran advanced to third.,45,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,4,top,"I.Canty advanced to second on a passed ball3a J.Mitchell advanced to third on a passed ball3a B.Duran scored on a passed ball, unearned.",46,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,4,top,"N.Gioia singled to shortstop, RBI3a I.Canty advanced to third3a J.Mitchell scored.",47,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,4,top,N.Gioia stole second.,48,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,4,top,J.Guardado flied out to cf.,49,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,4,bot,B.Duran to 3b.,50,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,4,bot,D. Lee lined out to 3b.,51,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,4,bot,J. Saffold grounded out to ss.,52,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,4,bot,S. Williams grounded out to ss.,53,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,5,top,J.Murray doubled to left field.,54,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,5,top,J.Akins grounded out to 2b3a J.Murray advanced to third.,55,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,5,top,J.Murray scored on a passed ball.,56,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,5,top,J.Olmedo flied out to lf.,57,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,5,top,J.Hall reached on an error by ss.,58,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,5,top,J.Hall stole second.,59,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,5,top,"J.Hall out at third c to 3b, caught stealing.",60,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,5,bot,J. Johnson struck out looking.,61,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,5,bot,A. Glass grounded out to ss.,62,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,5,bot,J. Brooks tripled to right field.,63,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,5,bot,J. Stevens popped up to 2b.,64,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,6,top,D. Lee to p.,65,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,6,top,R. Morrow to dh.,66,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,6,top,J. Harmon to ss.,67,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,6,top,B.Duran struck out looking.,68,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,6,top,J.Mitchell singled to shortstop.,69,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,6,top,I.Canty flied out to rf.,70,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,6,top,J.Mitchell advanced to second on a passed ball.,71,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,6,top,J.Mitchell advanced to third on a passed ball.,72,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,6,top,N.Gioia walked.,73,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,6,top,J.Mitchell scored on a wild pitch.,74,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,6,top,J.Guardado flied out to lf.,75,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,6,bot,R. Morrow flied out to rf.,76,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,6,bot,N. Pratt fouled out to 1b.,77,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596941,6,bot,D. Lee grounded out to 2b.,78,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,7,top,J.Murray flied out to cf.,79,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,7,top,J.Akins flied out to cf.,80,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025
+6351935,596861,Benedict Tigers,596941,Tuskegee Golden Tigers,596861,7,top,J.Olmedo flied out to cf.,81,2025-04-12T00:00:00-04:00,"Washington Field (Tuskegee, AL)",65,MBA,2025

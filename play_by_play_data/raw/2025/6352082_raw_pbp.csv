@@ -1,0 +1,80 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,1,top,"Flom, J. struck out looking.",1,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,1,top,"Kliber, S. flied out to cf.",2,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,1,top,Richardson singled to left field.,3,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,1,top,"Lynch, T. reached on an error by 2b3a Richardson advanced to second.",4,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,1,top,"Rosenberg, N hit by pitch3a Lynch, T. advanced to second3a Richardson advanced to third.",5,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,1,top,"Stauffacher reached on an error by p3a Rosenberg, N advanced to second3a Lynch, T. advanced to third3a Richardson scored, unearned.",6,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,1,top,"Peloquin, K. reached on a fielder's choice3a Stauffacher out at second 2b to ss.",7,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,1,bot,"Phillips, B struck out swinging.",8,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,1,bot,"Castellanos, struck out swinging.",9,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,1,bot,"Friedges, N flied out to 1b.",10,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,2,top,"Bushey, H. struck out looking.",11,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,2,top,"Thompson, N. walked.",12,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,2,top,"Thompson, N. out at second c to ss, caught stealing.",13,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,2,top,"Flom, J. grounded out to 2b.",14,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,2,bot,"Benson, D flied out to rf.",15,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,2,bot,"Weidner, J popped up to p.",16,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,2,bot,"Soulek, D struck out looking.",17,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,3,top,"Kliber, S. popped up to 1b.",18,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,3,top,Richardson walked.,19,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,3,top,"Lynch, T. singled through the right side3a Richardson advanced to second.",20,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,3,top,"Rosenberg, N flied out to rf3a Richardson advanced to third.",21,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,3,top,Stauffacher grounded out to 1b unassisted.,22,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,3,bot,"Mendez, A flied out to rf.",23,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,3,bot,"Hull, J struck out looking.",24,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,3,bot,"Ochoa, N singled to shortstop.",25,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,3,bot,"Ochoa, N out at second p to 1b to ss, picked off.",26,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,4,top,"Peloquin, K. homered to right field, RBI.",27,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,4,top,"Bushey, H. grounded out to ss.",28,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,4,top,"Thompson, N. struck out swinging.",29,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,4,top,"Flom, J. grounded out to 2b.",30,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,4,bot,"Phillips, B singled to right center.",31,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,4,bot,"Castellanos, flied out to cf.",32,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,4,bot,"Friedges, N flied out to 2b.",33,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,4,bot,"Phillips, B stole second.",34,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,4,bot,"Benson, D popped up to 1b.",35,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,5,top,"Kliber, S. hit by pitch.",36,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,5,top,"Helleloid, J to p for Brown, H.",37,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,5,top,"Kliber, S. advanced to second on a wild pitch.",38,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,5,top,"Richardson flied out to rf3a Kliber, S. advanced to third.",39,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,5,top,"Lynch, T. singled to center field, advanced to second on the throw, RBI3a Kliber, S. scored.",40,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,5,top,"Rosenberg, N singled up the middle3a Lynch, T. advanced to third.",41,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,5,top,Stauffacher struck out swinging.,42,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,5,top,"Peloquin, K. tripled to left center, 2 RBI3a Rosenberg, N scored3a Lynch, T. scored.",43,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,5,top,"Bushey, H. struck out swinging.",44,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,5,bot,"Weidner, J flied out to lf.",45,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,5,bot,"Soulek, D lined out to rf.",46,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,5,bot,"Mendez, A flied out to 3b.",47,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,6,top,"Ask, B to p for Helleloid, J.",48,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,6,top,"Thompson, N. walked.",49,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,6,top,"Flom, J. singled through the right side3a Thompson, N. advanced to second.",50,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,6,top,"Kliber, S. walked3a Flom, J. advanced to second3a Thompson, N. advanced to third.",51,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,6,top,"Culbertson, to p for Ask, B.",52,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,6,top,"Richardson hit into double play ss to 2b to 1b, RBI3a Kliber, S. out on the play3a Flom, J. advanced to third3a Thompson, N. scored.",53,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,6,top,"Lynch, T. doubled to left center, RBI3a Flom, J. scored.",54,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,6,top,"Rosenberg, N homered to left field, RBI3a Lynch, T. scored.",55,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,6,top,Stauffacher grounded out to 2b.,56,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,6,bot,"Hudson, M pinch hit for Hull, J.",57,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,6,bot,"Hudson, M singled up the middle.",58,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,6,bot,"Ochoa, N lined out to lf.",59,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,6,bot,"Phillips, B flied out to cf.",60,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,6,bot,"Hudson, M out at second c to ss, caught stealing.",61,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,7,top,"Hudson, M to cf.",62,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,7,top,"Culbertson,K to p for Culbertson,.",63,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,7,top,"Peloquin, K. singled up the middle.",64,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,7,top,"Bushey, H. walked3a Peloquin, K. advanced to second.",65,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,7,top,"Thompson, N. reached on an error by 2b3a Bushey, H. advanced to second3a Peloquin, K. advanced to third.",66,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,7,top,"Flom, J. flied out to cf, SAC, RBI3a Peloquin, K. scored.",67,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,7,top,"Kliber, S. walked3a Thompson, N. advanced to second3a Bushey, H. advanced to third.",68,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,7,top,"Mundt, C to p for Culbertson,K.",69,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,7,top,"Richardson reached on a fielder's choice3a Kliber, S. advanced to second3a Thompson, N. advanced to third, scored on the throw, unearned3a Bushey, H. out at home 3b to c.",70,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596910,7,top,"Lynch, T. struck out swinging.",71,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,7,bot,"Castellanos, singled to second base.",72,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,7,bot,"Friedges, N singled through the right side3a Castellanos, advanced to second.",73,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,7,bot,"Paar, X to dh for Benson, D.",74,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,7,bot,"Paar, X popped up to 3b.",75,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,7,bot,"Peine. E pinch hit for Weidner, J.",76,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,7,bot,Peine. E struck out swinging.,77,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,7,bot,"Tahsini, M pinch hit for Soulek, D.",78,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025
+6352082,596910,Minn. Duluth Bulldogs,596740,Northern St. Wolves,596740,7,bot,"Tahsini, M grounded out to 2b.",79,2025-04-12T00:00:00-04:00,"Aberdeen, SD",63,MBA,2025

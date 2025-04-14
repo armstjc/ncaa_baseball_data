@@ -1,0 +1,71 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,1,top,"Brewer,Jack singled to center field (2-0 BB).",1,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,1,top,"Miller,Sam flied out to cf (2-0 BB).",2,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,1,top,"Fellows,Col lined into double play 1b unassisted (1-0 B)3a Brewer,Jack out on the play.",3,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,1,bot,G. Larsen singled to center field (0-1 K).,4,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,1,bot,"T. Martin grounded out to p, SAC, bunt (0-2 FF)3a G. Larsen advanced to second.",5,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,1,bot,J. Williams grounded out to ss (1-0 B)3a G. Larsen advanced to third.,6,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,1,bot,G. Larsen out at home c unassisted.,7,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,2,top,"Lazits,Anto singled to shortstop (1-1 BK).",8,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,2,top,"Kail,Jack grounded into double play ss to 1b (2-1 BFB)3a Lazits,Anto out on the play.",9,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,2,top,"Selinsky,Sk struck out looking (0-2 FFK).",10,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,2,bot,M. Imhoff walked (3-0 BBBB).,11,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,2,bot,A. Atkinson singled to right field (0-1 K)3a M. Imhoff advanced to second.,12,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,2,bot,"J. Dauer grounded out to p, SAC, bunt3a A. Atkinson advanced to second3a M. Imhoff advanced to third.",13,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,2,bot,"K. Dossa flied out to rf, SF, RBI (1-0 B)3a A. Atkinson advanced to third3a M. Imhoff scored.",14,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,2,bot,"J.Pierantoni singled to left field, RBI (0-1 K)3a A. Atkinson scored.",15,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,2,bot,"J.Pierantoni out at second p to 1b to ss, caught stealing, picked off.",16,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,3,top,"Palfrey,Gri doubled to right center (2-0 BB).",17,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,3,top,"Vogler,Tate struck out swinging, out at first c to 1b (1-2 SSBFS).",18,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,3,top,"Temesvary,A hit by pitch (2-0 BB).",19,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,3,top,"Brewer,Jack struck out swinging (2-2 KBBSS).",20,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,3,top,"Miller,Sam singled to shortstop (0-0)3a Temesvary,A advanced to second3a Palfrey,Gri advanced to third.",21,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,3,top,"Fellows,Col reached on a fielder's choice (1-2 SBF)3a Miller,Sam out at second ss to 2b.",22,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,3,bot,H. Sobecki struck out swinging (1-2 KSBS).,23,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,3,bot,G. Larsen walked (3-2 KKBBBB).,24,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,3,bot,T. Martin walked (3-0 BBBB)3a G. Larsen advanced to second.,25,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,3,bot,G. Larsen stole third.,26,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,3,bot,J. Williams grounded into double play ss to 2b to 1b (0-2 KF)3a T. Martin out on the play.,27,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,4,top,"Lazits,Anto flied out to cf (0-2 KF).",28,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,4,top,"Kail,Jack grounded out to 1b unassisted (1-1 BF).",29,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,4,top,"Selinsky,Sk struck out looking (1-2 KBKK).",30,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,4,bot,M. Imhoff grounded out to ss (3-2 BSBFBF).,31,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,4,bot,A. Atkinson singled to shortstop (0-1 K).,32,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,4,bot,J. Dauer singled to right field (0-1 F)3a A. Atkinson advanced to third.,33,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,4,bot,"K. Dossa singled to right center, RBI (1-2 FBS)3a J. Dauer advanced to second3a A. Atkinson scored.",34,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,4,bot,J.Pierantoni flied out to cf (0-1 K)3a J. Dauer advanced to third.,35,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,4,bot,K. Dossa stole second.,36,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,4,bot,H. Sobecki flied out to lf (3-2 BSBBK).,37,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,5,top,"Palfrey,Gri flied out to lf (0-2 SS).",38,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,5,top,"Vogler,Tate struck out swinging (2-2 KBBSFS).",39,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,5,top,"Temesvary,A struck out looking (0-2 KFK).",40,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,5,bot,"Sotiropoulos to p for Edwards, Jag.",41,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,5,bot,G. Larsen grounded out to 3b (1-2 KBK).,42,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,5,bot,T. Martin hit by pitch (0-0).,43,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,5,bot,T. Martin advanced to second on a passed ball.,44,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,5,bot,J. Williams walked (3-2 BBKSBB).,45,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,5,bot,M. Imhoff struck out looking (2-2 BBFSK)3a J. Williams advanced to second on a passed ball3a T. Martin advanced to third on a passed ball.,46,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,5,bot,A. Atkinson struck out swinging (3-2 BKFBBS).,47,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,6,top,"Brewer,Jack grounded out to 3b (1-0 B).",48,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,6,top,"Miller,Sam fouled out to c (0-1 F).",49,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,6,top,"Fellows,Col flied out to lf (3-2 BBFFB).",50,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,6,bot,J. Dauer grounded out to ss (1-1 FB).,51,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,6,bot,K. Dossa struck out swinging (2-2 KBFBFS).,52,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,6,bot,J.Pierantoni walked (3-2 BKBSFBB).,53,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,6,bot,"J.Pierantoni out at second c to ss, caught stealing.",54,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,7,top,"Lazits,Anto grounded out to 3b (2-1 BKB).",55,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,7,top,"Kail,Jack flied out to lf (1-2 BFS).",56,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,7,top,"Selinsky,Sk flied out to cf (0-0).",57,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,7,bot,H. Sobecki struck out looking (2-2 BFBFK).,58,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,7,bot,G. Larsen singled to shortstop (0-0).,59,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,7,bot,T. Martin grounded into double play 1b to ss to p (1-1 BF)3a G. Larsen out on the play.,60,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,8,top,"Palfrey,Gri flied out to cf (0-2 KFFF).",61,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,8,top,"Vogler,Tate grounded out to p unassisted (0-2 FF).",62,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,8,top,"Temesvary,A flied out to lf (3-2 SBBKBF).",63,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,8,bot,J. Williams flied out to rf (1-2 KFB).,64,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,8,bot,M. Imhoff out at first 1b to p (0-1 F).,65,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596455,8,bot,A. Atkinson grounded out to 2b (0-2 KKF).,66,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,9,top,"Brewer,Jack singled to left field (3-2 BBBKK).",67,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,9,top,"Miller,Sam flied out to rf (2-2 KKBFFB).",68,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,9,top,"Fellows,Col grounded out to 2b (1-0 B)3a Brewer,Jack advanced to second.",69,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025
+6371226,596525,Columbia Lions,596455,"Yale Elis, Bulldogs",596525,9,top,"Lazits,Anto flied out to lf (2-2 FFBB).",70,2025-04-11T00:00:00-04:00,"Yale Field (West Haven, CT)",117,MBA,2025

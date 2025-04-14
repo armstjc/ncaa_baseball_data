@@ -1,0 +1,88 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,1,top,Curiel flied out to lf down the lf line (0-2).,1,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,1,top,Jones grounded out to ss (3-2).,2,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,1,top,Dickinson singled to center field (1-2).,3,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,1,top,"Pearson, Js. flied out to lf to left center (1-1).",4,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,1,bot,"Snow, E. struck out looking (2-2).",5,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,1,bot,"Rembert, C. flied out to cf (1-2).",6,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,1,bot,"Irish, I. struck out looking (3-2).",7,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,2,top,Frey struck out swinging (1-2).,8,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,2,top,Milam grounded out to ss to second base (3-2).,9,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,2,top,Hernandez flied out to cf (2-1).,10,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,2,bot,"McMurray, C. struck out looking (2-2).",11,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,2,bot,"Terrell, B. singled through the right side (0-0).",12,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,2,bot,"Guevara, E. singled through the right side (2-1); Terrell, B. advanced to third.",13,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,2,bot,"Carter, B. popped up to ss (0-2).",14,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,2,bot,"Fralick, C. doubled to left center, 2 RBI (0-2); Guevara, E. scored; Terrell, B. scored.",15,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,2,bot,"Fabian, D. struck out swinging (1-2).",16,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,3,top,Reaves struck out swinging (2-2).,17,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,3,top,Stanfield walked (3-2).,18,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,3,top,Curiel struck out swinging (3-2); Stanfield stole second.,19,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,3,top,"Jones struck out swinging, grounded out to c unassisted (1-2).",20,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,3,bot,"Snow, E. flied out to lf to left center (2-0).",21,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,3,bot,"Rembert, C. grounded out to ss (0-2).",22,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,3,bot,"Irish, I. walked (3-1).",23,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,3,bot,"Irish, I. advanced to second on a wild pitch.",24,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,3,bot,"McMurray, C. flied out to lf (2-2).",25,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,4,top,Dickinson flied out to lf (2-2).,26,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,4,top,"Pearson, Js. singled to right field (1-2).",27,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,4,top,Frey lined out to lf (1-2).,28,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,4,top,Milam flied out to rf (0-0).,29,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,4,bot,"Terrell, B. flied out to lf (1-2).",30,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,4,bot,"Guevara, E. struck out swinging (1-2).",31,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,4,bot,"Carter, B. grounded out to p (1-1).",32,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,5,top,Hernandez grounded out to ss (1-1).,33,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,5,top,Reaves flied out to lf (0-1).,34,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,5,top,Stanfield struck out swinging (2-2).,35,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,5,bot,"Fralick, C. struck out swinging (0-2).",36,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,5,bot,"Fabian, D. singled up the middle (0-1).",37,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,5,bot,"Snow, E. reached on an error by 3b (3-2); Fabian, D. advanced to second.",38,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,5,bot,"Rembert, C. singled to right field (0-2); Snow, E. advanced to second; Fabian, D. advanced to third.",39,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,5,bot,"Irish, I. tripled to center field, 3 RBI (3-2); Rembert, C. scored; Snow, E. scored, unearned; Fabian, D. scored.",40,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,5,bot,Williams to p for Anderson.,41,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,5,bot,"McMurray, C. singled through the left side, RBI (2-1); Irish, I. scored.",42,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,5,bot,"Terrell, B. doubled to right center (1-0); McMurray, C. advanced to third.",43,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,5,bot,"Guevara, E. grounded out to ss (1-1).",44,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,5,bot,"Carter, B. struck out looking (2-2).",45,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,6,top,"Curiel singled to third base, bunt, advanced to second on an error by 3b (0-0).",46,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,6,top,Jones grounded out to 3b (3-1).,47,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,6,top,Dickinson struck out swinging (1-2).,48,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,6,top,"Pearson, Js. walked (3-1).",49,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,6,top,Frey struck out looking (2-2).,50,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,6,bot,"Fralick, C. walked (3-2).",51,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,6,bot,Rizy to p for Williams.,52,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,6,bot,"Fabian, D. struck out swinging (2-2).",53,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,6,bot,"Snow, E. singled to third base (1-1); Fralick, C. advanced to second, advanced to third on an error by 3b.",54,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,6,bot,"Rembert, C. singled to left field, RBI (1-2); Snow, E. advanced to second; Fralick, C. scored, unearned.",55,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,6,bot,"Irish, I. grounded into double play p to ss to 1b (3-1); Rembert, C. out on the play.",56,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,7,top,"Tilly, C. to p for Dutton, S..",57,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,7,top,Milam struck out swinging (2-2).,58,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,7,top,Hernandez hit by pitch (3-1).,59,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,7,top,"Pearson, Jn. pinch hit for Reaves.",60,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,7,top,"Pearson, Jn. walked (3-1); Hernandez advanced to second.",61,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,7,top,"Stanfield walked (3-2); Pearson, Jn. advanced to second; Hernandez advanced to third.",62,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,7,top,"Myers, C. to p for Tilly, C..",63,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,7,top,"Curiel grounded out to 1b unassisted, RBI (2-1); Stanfield advanced to second; Pearson, Jn. advanced to third; Hernandez scored.",64,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,7,top,"Jones doubled to right center, 2 RBI (0-1); Stanfield scored; Pearson, Jn. scored.",65,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,7,top,Dickinson struck out swinging (0-2).,66,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,7,bot,"Pearson, Jn. to 3b.",67,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,7,bot,"McMurray, C. grounded out to ss to second base (2-1).",68,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,7,bot,"Terrell, B. doubled to left field (2-2).",69,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,7,bot,"Guevara, E. singled up the middle, RBI (1-0); Terrell, B. scored.",70,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,7,bot,"Carter, B. struck out swinging (0-2).",71,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,7,bot,"Fralick, C. singled to left field (2-2); Guevara, E. advanced to second.",72,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,7,bot,"Fabian, D. popped up to ss (1-2).",73,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,8,top,"Pearson, Js. flied out to rf to right center (1-2).",74,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,8,top,Frey fouled out to lf (3-1).,75,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,8,top,Milam fouled out to lf (2-2).,76,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,8,bot,Mayers to p for Rizy.,77,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,8,bot,Braswell III to ss for Milam.,78,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,8,bot,"Snow, E. struck out looking (0-2).",79,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,8,bot,"Rembert, C. hit by pitch (2-2).",80,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,8,bot,"Rembert, C. out at second c to ss, caught stealing.",81,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596489,8,bot,"Irish, I. struck out looking (1-2).",82,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,9,top,Hernandez struck out looking (1-2).,83,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,9,top,"Pearson, Jn. struck out swinging (2-2).",84,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,9,top,Stanfield doubled to left center (2-1).,85,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,9,top,"Curiel doubled down the lf line, RBI (0-1); Stanfield scored.",86,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025
+6303067,596583,LSU Fighting Tigers,596489,Auburn Tigers,596583,9,top,Jones struck out swinging (1-2).,87,2025-04-11T00:00:00-04:00,"Plainsman Park (Auburn, AL)",6756,MBA,2025

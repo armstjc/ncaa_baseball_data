@@ -1,0 +1,103 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,1,top,Davalan grounded out to 2b (2-0 BB).,1,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,1,top,W. Aloy singled to left field (0-2 KFF).,2,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,1,top,W. Aloy advanced to second on a wild pitch.,3,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,1,top,Maxwell struck out swinging (3-2 BFBBKS).,4,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,1,top,Iredale struck out looking (2-2 BKKBK).,5,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,1,bot,"Black, Ry. struck out looking (2-2 BSBFK).",6,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,1,bot,"Alford, S. walked (3-2 BKKFBBB).",7,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,1,bot,"Burnett, Ro singled to right field (1-0 B): Alford, S. advanced to third.",8,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,1,bot,"McCarthy, N. singled to left field, RBI (1-2 BFF): Burnett, Ro advanced to second: Alford, S. scored.",9,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,1,bot,"McCarthy, N. advanced to second: Burnett, Ro advanced to third on a passed ball.",10,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,1,bot,"Zaborowski singled to left field, 2 RBI (3-1 BBBK): McCarthy, N. scored: Burnett, Ro scored.",11,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,1,bot,"Adams, Chr. flied out to rf (3-2 KBBKB).",12,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,1,bot,"Branch, K. singled to left field (0-2 KS): Zaborowski advanced to second.",13,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,1,bot,"Hunter, H. flied out to lf (1-2 BSFF).",14,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,2,top,Kozeal grounded out to p (0-1 K).,15,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,2,top,K. Aloy struck out looking (1-2 KBSK).,16,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,2,top,"Helfrick homered to left field, RBI (2-0 BB).",17,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,2,top,Fraser singled to center field (0-0).,18,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,2,top,Thomas Jr. struck out swinging (0-2 SKS).,19,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,2,bot,"Jackson, Dan struck out swinging (2-2 BBKKS).",20,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,2,bot,"Black, Ry. flied out to cf (1-2 KFB).",21,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,2,bot,"Alford, S. singled to left field (0-0).",22,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,2,bot,"Burnett, Ro homered to left field, 2 RBI (1-0 B): Alford, S. scored.",23,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,2,bot,"McCarthy, N. flied out to cf (3-2 SSBFBB).",24,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,3,top,Davalan doubled to center field (3-2 BKFBBF).,25,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,3,top,W. Aloy struck out swinging (2-2 BBSSS).,26,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,3,top,Davalan advanced to third on a balk.,27,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,3,top,"Maxwell grounded out to 1b unassisted, RBI (0-2 KK): Davalan scored.",28,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,3,top,Iredale struck out swinging (3-2 BFKBBS).,29,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,3,bot,Bybee to p for Gaeckle.,30,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,3,bot,"Zaborowski homered to center field, RBI (1-1 KB).",31,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,3,bot,"Adams, Chr. grounded out to 2b (0-0).",32,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,3,bot,"Branch, K. struck out swinging (3-2 BKBFBS).",33,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,3,bot,"Hunter, H. grounded out to 1b unassisted (1-1 SB).",34,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,4,top,Kozeal walked (3-2 BSBBFB).,35,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,4,top,K. Aloy struck out swinging (0-2 KSS).,36,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,4,top,Helfrick out at first 1b to p (1-2 BFF): Kozeal advanced to second.,37,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,4,top,"Fraser singled, bunt (0-0): Kozeal advanced to third.",38,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,4,top,Boles pinch hit for Thomas Jr..,39,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,4,top,Boles struck out looking (0-2 KFK).,40,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,4,bot,Davalan to cf.,41,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,4,bot,Boles to lf.,42,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,4,bot,"Jackson, Dan struck out swinging (0-2 KKS).",43,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,4,bot,"Black, Ry. flied out to rf (2-0 BB).",44,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,4,bot,"Alford, S. struck out looking (0-2 FKK).",45,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,5,top,"McCarthy, N. to lf.",46,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,5,top,"Obee to cf for Jackson, Dan.",47,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,5,top,Davalan lined out to 1b (2-2 BBKS).,48,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,5,top,W. Aloy grounded out to ss (3-2 KSBBB).,49,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,5,top,Maxwell hit by pitch (1-0 B).,50,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,5,top,Iredale grounded out to ss (1-1 KB).,51,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,5,bot,"Burnett, Ro flied out to lf (1-2 BSF).",52,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,5,bot,"McCarthy, N. singled to left field (0-1 K).",53,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,5,bot,"Zaborowski doubled to right center (1-0 B): McCarthy, N. advanced to third.",54,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,5,bot,"Adams, Chr. struck out looking (1-2 FBFFK).",55,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,5,bot,"Branch, K. struck out swinging (1-2 KBSS).",56,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,6,top,"Chastain, Da to p for Smith, Kol..",57,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,6,top,Kozeal doubled to right field (2-2 KBFB).,58,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,6,top,K. Aloy singled to center field (1-0 B): Kozeal advanced to third.,59,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,6,top,"Radtke to p for Chastain, Da.",60,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,6,top,Helfrick struck out swinging (1-2 KSBS).,61,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,6,top,"Fraser grounded out to ss, RBI (1-2 SBF): K. Aloy advanced to second: Kozeal scored.",62,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,6,top,Boles struck out looking (0-2 SFK).,63,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,6,bot,"Hunter, H. grounded out to p (0-1 K).",64,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,6,bot,Obee singled to center field (1-0 B).,65,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,6,bot,"Black, Ry. doubled to left center, RBI (0-0): Obee scored.",66,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,6,bot,Foutch to p for Bybee.,67,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,6,bot,"Black, Ry. advanced to third on a wild pitch.",68,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,6,bot,"Alford, S. struck out swinging (0-2 KFS).",69,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,6,bot,"Burnett, Ro walked (3-2 SFBBBFB).",70,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,6,bot,"Burnett, Ro stole second.",71,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,6,bot,"McCarthy, N. struck out swinging (2-2 BKFBS).",72,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,7,top,Davalan struck out looking (3-2 KBBBFK).,73,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,7,top,W. Aloy grounded out to c (2-2 BBFS).,74,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,7,top,Maxwell struck out swinging (0-2 SKS).,75,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,7,bot,Zaborowski struck out swinging (1-2 FBKFS).,76,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,7,bot,"Adams, Chr. struck out swinging (1-2 KSFBS).",77,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,7,bot,"Branch, K. struck out swinging (3-2 BKFBBS).",78,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,8,top,"King, Trey to 2b for Adams, Chr..",79,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,8,top,Iredale flied out to rf (2-0 BB).,80,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,8,top,Kozeal doubled to right field (0-0).,81,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,8,top,"K. Aloy homered to right field, 2 RBI (0-0): Kozeal scored.",82,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,8,top,Helfrick grounded out to ss (2-2 KSBB).,83,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,8,top,Fraser walked (3-2 SBKBBFB).,84,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,8,top,Boles singled to center field (0-0): Fraser advanced to second.,85,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,8,top,Goldstein to p for Radtke.,86,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,8,top,Davalan flied out to cf (1-0 B).,87,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,8,bot,Gibler to p for Foutch.,88,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,8,bot,"Hunter, H. struck out swinging (0-2 SSS).",89,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,8,bot,Obee singled to center field (1-1 SB).,90,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,8,bot,"Black, Ry. struck out swinging (1-2 BKKS).",91,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,8,bot,Obee stole second.,92,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596554,8,bot,"Alford, S. struck out swinging (2-2 BFBKS).",93,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,9,top,W. Aloy walked (3-2 SBKBBB).,94,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,9,top,Maxwell singled to first base (0-1 K): W. Aloy advanced to third.,95,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,9,top,Diggs pinch ran for Maxwell.,96,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,9,top,Hoskins to p for Goldstein.,97,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,9,top,Diggs advanced to second: W. Aloy scored on a wild pitch.,98,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,9,top,Iredale grounded out to ss (3-2 BBBKK).,99,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,9,top,Kozeal grounded out to 2b (1-1 BK): Diggs advanced to third.,100,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,9,top,K. Aloy walked (3-2 BBFBFB).,101,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6303148,596487,Arkansas Razorbacks,596554,Georgia Bulldogs,596487,9,top,Helfrick struck out swinging (3-2 BFFFBBS).,102,2025-04-12T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025

@@ -1,0 +1,69 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,1,top,Egrie walked (3-2 BBKFBFB).,1,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,1,top,Scanlon grounded into double play 2b to ss to 1b (0-1 K)3a Egrie out on the play.,2,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,1,top,Baillargeon flied out to cf (1-1 KB).,3,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,1,bot,Dunn singled to third base (2-2 BKFFB).,4,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,1,bot,Kender flied out to rf (3-2 BKFBB).,5,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,1,bot,Trommer grounded into double play ss to 2b to 1b (0-0)3a Dunn out on the play.,6,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,2,top,Royer flied out to rf (2-2 KFFFFBB).,7,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,2,top,King singled to right field (2-1 BFB).,8,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,2,top,Jones walked (3-2 BFKBBB)3a King advanced to second.,9,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,2,top,Cooney flied out to rf (0-1 K)3a Jones advanced to second3a King advanced to third.,10,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,2,top,Grundy struck out swinging (0-2 KSS).,11,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,2,bot,Facinelli struck out looking (1-2 KFBK).,12,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,2,bot,Morabito struck out swinging (0-2 FKS).,13,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,2,bot,Nascimento struck out swinging (0-2 SKS).,14,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,3,top,"Spaner struck out swinging, out at first c to 1b (0-2 KKFS).",15,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,3,top,Egrie grounded out to 2b (0-0).,16,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,3,top,Scanlon singled to right field (0-1 S).,17,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,3,top,Baillargeon struck out swinging (3-2 BBKFBS).,18,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,3,bot,Karp struck out swinging (1-2 KBFS).,19,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,3,bot,Calabrese struck out swinging (2-2 BKKBFFS).,20,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,3,bot,Fluharty struck out swinging (1-2 SBFS).,21,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,4,top,Royer grounded out to ss (1-1 BK).,22,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,4,top,King grounded out to ss (2-2 FFBB).,23,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,4,top,Jones lined out to ss (1-1 KB).,24,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,4,bot,Dunn reached on an error by 2b (3-1 BBBK).,25,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,4,bot,Kender grounded out to 1b unassisted (0-0)3a Dunn advanced to second.,26,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,4,bot,Trommer grounded out to 2b (2-2 BKFB)3a Dunn advanced to third.,27,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,4,bot,Facinelli lined out to rf (2-2 FSBB).,28,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,5,top,Cooney walked (3-1 BBKBB).,29,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,5,top,"Cooney out at second c to ss, caught stealing.",30,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,5,top,Grundy struck out looking (2-2 BSKBK).,31,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,5,top,Spaner struck out swinging (0-2 FFS).,32,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,5,bot,Morabito grounded out to 2b (0-0).,33,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,5,bot,Nascimento struck out looking (2-2 KFBBK).,34,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,5,bot,Karp flied out to cf (2-2 FSFBB).,35,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,6,top,Egrie flied out to lf (1-1 BK).,36,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,6,top,Scanlon flied out to rf (3-2 KKBBB).,37,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,6,top,Baillargeon grounded out to 2b (0-1 F).,38,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,6,bot,Calabrese singled to left field (0-1 K).,39,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,6,bot,Fluharty grounded into double play ss to 2b to 1b (2-2 KBFFFB)3a Calabrese out on the play.,40,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,6,bot,Dunn grounded out to 2b (2-2 KBFFB).,41,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,7,top,Royer singled to second base (2-1 BBK).,42,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,7,top,King flied out to cf (0-1 K).,43,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,7,top,Jones flied out to lf (2-1 BFB).,44,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,7,top,Royer stole second.,45,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,7,top,Cooney flied out to cf (2-2 BKFB).,46,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,7,bot,Kender grounded out to 3b (2-0 BB).,47,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,7,bot,Trommer walked (3-2 KBFBFBB).,48,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,7,bot,Facinelli walked (3-2 BBKBFB)3a Trommer advanced to second.,49,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,7,bot,Morabito reached on an error by 3b (1-1 BF)3a Facinelli advanced to second3a Trommer advanced to third.,50,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,7,bot,Nascimento struck out swinging (0-2 KFFS).,51,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,7,bot,Karp flied out to cf (0-0).,52,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,8,top,Grundy struck out looking (3-2 BKBFBFK).,53,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,8,top,Spaner flied out to cf (0-0).,54,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,8,top,Egrie lined out to rf (1-0 B).,55,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,8,bot,Lenahan to p for Macchiarola.,56,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,8,bot,Calabrese grounded out to 2b (1-1 BS).,57,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,8,bot,Fluharty grounded out to 3b (1-1 BF).,58,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,8,bot,Dunn lined out to cf (1-1 BK).,59,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,9,top,Adelmann to p for O'Neill.,60,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,9,top,Scanlon out at first 1b to p (2-1 KBB).,61,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,9,top,Baillargeon grounded out to 2b (1-1 BS).,62,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,9,top,Royer singled through the left side (1-0 B).,63,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,9,top,Royer stole second.,64,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596559,9,top,King struck out swinging (3-2 BBKFBS).,65,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,9,bot,Kender singled to third base (3-2 BKBSB).,66,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,9,bot,Trommer singled up the middle (1-0 B)3a Kender advanced to second.,67,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025
+6371405,596559,Holy Cross Crusaders,596502,Bucknell Bison,596502,9,bot,"Facinelli reached on a throwing error by 3b (2-1 BFB)3a Trommer advanced to second3a Kender scored, unearned.",68,2025-04-12T00:00:00-04:00,"Depew Field (Lewisburg, PA)",55,MBA,2025

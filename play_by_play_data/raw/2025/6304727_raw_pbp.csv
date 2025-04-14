@@ -1,0 +1,75 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,1,top,"Koonin, J. flied out to rf (1-0 B).",1,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,1,top,"Bold, J. struck out swinging (1-2 BKKS).",2,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,1,top,"Shapiro, C. struck out swinging (3-2 KKBBBS).",3,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,1,bot,"Giberti, M. singled to shortstop (0-1 K).",4,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,1,bot,"Rickheim, J. reached on a fielder's choice (1-2 KBF); Giberti, M. out at second 3b to 2b.",5,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,1,bot,"Rickheim, J. advanced to second on a throwing error by p, failed pickoff attempt.",6,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,1,bot,"Cooper, G. struck out swinging (0-2 KFS).",7,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,1,bot,"Colasante, G struck out swinging (0-2 FFS).",8,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,2,top,"Shenefelt, N flied out to lf (2-2 KFBB).",9,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,2,top,"Kelly, J. walked (3-2 BSBKFBB).",10,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,2,top,"Googins, T. flied out to cf (1-0 B).",11,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,2,top,"Kelly, J. out at second c to 2b.",12,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,2,bot,"Lybrook, W. singled to right field (0-1 F).",13,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,2,bot,"Shulman, T. walked (3-0 BBBB); Lybrook, W. advanced to second.",14,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,2,bot,"Kang, J. out at first p to 2b, SAC, bunt (0-1 K); Shulman, T. advanced to second; Lybrook, W. advanced to third.",15,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,2,bot,"Feller, S. struck out swinging (2-2 SBSBFS).",16,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,2,bot,"Mooney, R. struck out looking (2-2 BSSFBK).",17,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,3,top,"Blowers, K. grounded out to 2b (3-2 BKKFBB).",18,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,3,top,"Mentink, J. grounded out to ss (3-2 BFFBBF).",19,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,3,top,Werdesheim struck out looking (1-2 BKFFK).,20,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,3,bot,"Giberti, M. singled to pitcher, bunt (0-0).",21,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,3,bot,"Rickheim, J. singled to pitcher, bunt (0-0); Giberti, M. advanced to second.",22,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,3,bot,"Cooper, G. out at first p to 2b, SAC, bunt (0-0); Rickheim, J. advanced to second; Giberti, M. advanced to third.",23,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,3,bot,"Colasante, G intentionally walked.",24,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,3,bot,"Lybrook, W. singled to center field, RBI (2-2 BSBKF); Colasante, G advanced to second, out at second cf to ss to 2b; Rickheim, J. advanced to third; Giberti, M. scored.",25,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,3,bot,"Shulman, T. singled through the left side, RBI, advanced to second on an error by ss (0-0); Lybrook, W. advanced to second, advanced to third on the error; Rickheim, J. scored.",26,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,3,bot,"Kang, J. grounded out to p (1-2 BKS).",27,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,4,top,"Koonin, J. struck out swinging (3-2 BKSBBS).",28,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,4,top,"Bold, J. grounded out to ss (3-2 FBBBKFF).",29,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,4,top,"Shapiro, C. struck out swinging (1-2 BKSS).",30,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,4,bot,"Feller, S. struck out swinging (0-2 FSS).",31,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,4,bot,"Mooney, R. grounded out to p (0-0).",32,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,4,bot,"Giberti, M. struck out swinging (3-2 KBBFFBS).",33,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,5,top,"Shenefelt, N grounded out to 2b (3-2 BBBKS).",34,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,5,top,"Kelly, J. struck out looking (1-2 KBFK).",35,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,5,top,"Googins, T. struck out swinging (1-2 KKBS).",36,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,5,bot,"Rickheim, J. walked (3-1 BBKBB).",37,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,5,bot,"Cooper, G. popped up to ss (1-0 B).",38,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,5,bot,"Colasante, G struck out swinging (1-2 KFFFBS).",39,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,5,bot,"Lybrook, W. singled to left field (0-1 K); Rickheim, J. advanced to second.",40,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,5,bot,"Shulman, T. grounded out to ss (0-1 F).",41,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,6,top,"Blowers, K. walked (3-1 FBBBB).",42,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,6,top,"Mentink, J. flied out to rf (0-0).",43,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,6,top,Werdesheim struck out swinging (1-2 BSKS).,44,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,6,top,"Blowers, K. advanced to second on a balk.",45,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,6,top,"Koonin, J. struck out looking (2-2 BBKKFFK).",46,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,6,bot,"Kang, J. lined out to rf (0-0).",47,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,6,bot,"Feller, S. struck out swinging (2-2 KFFBBS).",48,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,6,bot,"Mooney, R. walked (3-1 BBBKB).",49,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,6,bot,"Giberti, M. walked (3-2 BKBBFB); Mooney, R. advanced to second.",50,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,6,bot,"Rickheim, J. lined out to cf (0-1 K).",51,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,7,top,"Bold, J. grounded out to 3b (1-2 BKK).",52,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,7,top,"Shapiro, C. grounded out to 2b (3-1 BBKB).",53,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,7,top,"Shenefelt, N flied out to lf (1-1 BK).",54,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,7,bot,"Cooper, G. singled to right field (1-1 BF).",55,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,7,bot,"Colasante, G grounded out to p, SAC, bunt (0-0); Cooper, G. advanced to second.",56,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,7,bot,"Lybrook, W. intentionally walked.",57,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,7,bot,"Shulman, T. singled to left field, RBI (0-0); Lybrook, W. advanced to second; Cooper, G. scored.",58,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,7,bot,"Kang, J. flied out to rf (1-1 KB).",59,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,7,bot,"Feller, S. reached on a fielder's choice (0-1 F); Shulman, T. out at second 2b to ss.",60,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,8,top,"Kelly, J. popped up to 2b (3-2 KBBBKF).",61,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,8,top,"Googins, T. struck out looking (0-2 KSK).",62,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,8,top,"Blowers, K. walked (3-1 KBBBB).",63,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,8,top,"Mentink, J. struck out swinging (0-2 KKS).",64,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,8,bot,"Kim, J. to p for Faulkner, J..",65,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,8,bot,"Mooney, R. flied out to ss down the lf line (3-2 BBBKS).",66,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,8,bot,"Giberti, M. struck out swinging (1-2 BKKS).",67,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596556,8,bot,"Rickheim, J. grounded out to 2b (1-0 B).",68,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,9,top,Werdesheim reached on a fielding error by ss (0-2 SK).,69,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,9,top,"Koonin, J. struck out swinging (0-2 KSS).",70,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,9,top,"Bold, J. doubled to left field, RBI, advanced to third on a throwing error by ss (0-2 KS); Werdesheim scored, unearned.",71,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,9,top,"McHugh, R. to p for Pauley, T..",72,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,9,top,"Shapiro, C. singled to center field, RBI (2-1 BKB); Bold, J. scored, unearned.",73,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
+6304727,596652,Princeton Tigers,596556,Harvard Crimson,596652,9,top,"Shenefelt, N grounded into double play ss to 1b (3-1 BBBK); Shapiro, C. out on the play.",74,2025-04-11T00:00:00-04:00,"O'Donnell Field (Boston, MA)",123,MBA,2025
