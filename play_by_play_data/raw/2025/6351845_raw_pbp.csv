@@ -1,0 +1,69 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,1,top,N. Hester singled up the middle.,1,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,1,top,N. Hester Failed pickoff attempt.,2,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,1,top,"O. Hibbard grounded out to p, bunt3a N. Hester advanced to second.",3,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,1,top,"N. Hester Failed pickoff attempt, advanced to third on an error by p.",4,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,1,top,S. Weigel walked.,5,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,1,top,S. Weigel Failed pickoff attempt.,6,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,1,top,W. Florio struck out swinging.,7,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,1,top,S. Weigel Failed pickoff attempt.,8,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,1,top,S. Weigel advanced to second on a wild pitch3a N. Hester scored on a wild pitch.,9,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,1,top,S. Weigel advanced to third on an error by p.,10,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,1,top,G. Ruffner struck out swinging.,11,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,1,bot,J. Romatzick popped up to 2b.,12,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,1,bot,J. Santiago singled up the middle.,13,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,1,bot,J. Santiago stole second.,14,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,1,bot,J. Mangiamel struck out swinging.,15,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,1,bot,A. Popovich fouled out to 1b.,16,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,2,top,D. Folan walked.,17,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,2,top,D. Folan Failed pickoff attempt.,18,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,2,top,"N. Sheehan grounded out to 1b, bunt unassisted3a D. Folan advanced to second.",19,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,2,top,E. Keeney popped up to ss.,20,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,2,top,"T. Cali singled up the middle3a D. Folan advanced to third, out at home 2b to 1b to c to 3b to p.",21,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,2,bot,J. Ciccone walked.,22,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,2,bot,"R. Knight grounded out to p, SAC, bunt3a J. Ciccone advanced to second.",23,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,2,bot,P. Joseph hit by pitch.,24,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,2,bot,"J. Ciccone out at third c to 3b, caught stealing.",25,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,2,bot,J. Russell walked3a P. Joseph advanced to second.,26,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,2,bot,Z. Godbee lined out to 1b.,27,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,3,top,N. Hester flied out to lf.,28,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,3,top,O. Hibbard singled to center field.,29,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,3,top,S. Weigel flied out to lf.,30,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,3,top,O. Hibbard Failed pickoff attempt.,31,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,3,top,"O. Hibbard out at second c to 2b, caught stealing.",32,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,3,bot,J. Romatzick singled to third base.,33,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,3,bot,J. Romatzick Failed pickoff attempt.,34,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,3,bot,J. Romatzick advanced to second on a wild pitch.,35,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,3,bot,J. Santiago struck out swinging.,36,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,3,bot,J. Mangiamel walked.,37,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,3,bot,A. Popovich walked3a J. Mangiamel advanced to second3a J. Romatzick advanced to third.,38,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,3,bot,J. Ciccone reached on a fielder's choice to third base3a A. Popovich advanced to second3a J. Mangiamel advanced to third3a J. Romatzick out at home 3b to c.,39,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,3,bot,"R. Knight homered to right field, 4 RBI3a J. Ciccone scored3a A. Popovich scored3a J. Mangiamel scored.",40,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,3,bot,P. Joseph flied out to cf.,41,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,4,top,W. Florio popped up to 2b.,42,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,4,top,G. Ruffner struck out swinging.,43,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,4,top,D. Folan struck out swinging.,44,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,4,bot,J. Russell flied out to rf.,45,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,4,bot,Z. Godbee struck out swinging.,46,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,4,bot,J. Romatzick grounded out to 2b.,47,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,5,top,N. Sheehan hit by pitch.,48,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,5,top,N. Sheehan Failed pickoff attempt.,49,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,5,top,E. Keeney struck out looking.,50,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,5,top,T. Cali grounded into double play ss to 2b to 1b3a N. Sheehan out on the play.,51,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,5,bot,N. Gleason to p for J. Quinn.,52,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,5,bot,J. Santiago grounded out to p.,53,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,5,bot,J. Mangiamel struck out swinging.,54,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,5,bot,A. Popovich out at first 1b to p.,55,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,6,top,N. Hester flied out to lf.,56,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,6,top,O. Hibbard singled up the middle.,57,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,6,top,S. Weigel singled through the right side3a O. Hibbard advanced to second.,58,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,6,top,W. Florio struck out swinging.,59,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,6,top,G. Ruffner struck out swinging.,60,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,6,bot,J. Ciccone flied out to lf.,61,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,6,bot,R. Knight doubled to right center.,62,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,6,bot,R. Knight Failed pickoff attempt.,63,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,6,bot,P. Joseph struck out swinging.,64,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,596977,6,bot,J. Russell struck out swinging.,65,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,7,top,D. Folan flied out to cf.,66,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,7,top,N. Sheehan flied out to rf.,67,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025
+6351845,597017,Roger Williams Hawks,596977,Hartford Hawks,597017,7,top,E. Keeney popped up to ss.,68,2025-04-14T00:00:00-04:00,"Fiondella Field (Hartford, CT)",89,MBA,2025

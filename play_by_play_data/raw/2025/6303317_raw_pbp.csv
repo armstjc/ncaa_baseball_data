@@ -1,0 +1,115 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,1,top,"ULM in White Pants, Burgandy Camo Jersey with gold Lettering, Black Hat.",1,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,1,top,"LTU in White/Blue Pinstripe Pants, Black Patriotic Jersey and tri color Hat.",2,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,1,top,"Coates,C lined out to 3b (1-0 B).",3,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,1,top,"Ballard,M out at first 1b to p (1-2 KBK).",4,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,1,top,"Mexico,S doubled to left center (2-2 KBFB).",5,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,1,top,"Berkley,G struck out swinging (3-2 BBKBFS).",6,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,1,bot,"Walker, I lined out to cf (2-2 BBKKFFF).",7,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,1,bot,"Dupont, K grounded out to p (0-0).",8,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,1,bot,"Blaser, B out at first 1b to p (2-1 BBS).",9,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,2,top,"Ruddell,Z singled to first base (0-1 K).",10,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,2,top,Call of Safe At First Under Review.  After review Call Stands.,11,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,2,top,"Berch,E lined out to lf (0-0).",12,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,2,top,"Hawsey,T walked (3-0 BBBB); Ruddell,Z advanced to second.",13,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,2,top,ULM Player Mound Visit.,14,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,2,top,"Berch,T struck out swinging (2-2 BBFFS).",15,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,2,top,"Hawsey,T stole second; Ruddell,Z stole third.",16,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,2,top,"Safford,W walked (3-1 BSBBB).",17,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,2,top,"Coates,C grounded out to 3b (1-1 SB).",18,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,2,bot,"Garcia Jr, H grounded out to ss (0-1 K).",19,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,2,bot,"Lunsford, C singled to right field (0-1 F).",20,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,2,bot,"Artzberger M grounded out to 2b (0-0); Lunsford, C advanced to second.",21,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,2,bot,"Haggard, J reached on a throwing error by ss (0-1 F); Lunsford, C advanced to third.",22,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,2,bot,"Haggard, J stole second.",23,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,2,bot,"Brignon, M struck out swinging (1-2 BKKS).",24,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,3,top,"Brewer, B to p for Huff, H.",25,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,3,top,"Ballard,M grounded out to 1b unassisted (2-1 KBB).",26,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,3,top,"Mexico,S grounded out to 2b (1-0 B).",27,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,3,top,"Berkley,G walked (3-2 KBFBBB).",28,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,3,top,"Berkley,G stole second.",29,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,3,top,"Ruddell,Z struck out swinging (2-2 BKFBS).",30,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,3,bot,"White, Z grounded out to ss (0-0).",31,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,3,bot,"Walker, I reached on a fielding error by 2b (1-2 FSB).",32,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,3,bot,"Dupont, K tripled down the rf line, RBI (0-0); Walker, I scored, unearned.",33,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,3,bot,"Blaser, B doubled down the rf line, RBI (2-0 BB); Dupont, K scored.",34,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,3,bot,LTU Coach Mound Visit.,35,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,3,bot,"Garcia Jr, H doubled down the lf line, RBI (0-1 F); Blaser, B scored.",36,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,3,bot,"Lunsford, C grounded out to 2b (3-2 KKBBFB); Garcia Jr, H advanced to third.",37,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,3,bot,"Artzberger M doubled down the lf line, RBI (1-2 BKFF); Garcia Jr, H scored, unearned.",38,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,3,bot,"Magee,N to p for Nichols,L.",39,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,3,bot,"Haggard, J singled through the left side, RBI (0-0); Artzberger M scored, unearned.",40,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,3,bot,"Brignon, M singled to third base, bunt (0-0); Haggard, J advanced to second.",41,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,3,bot,"White, Z struck out swinging, out at first c to 1b (0-2 KSS).",42,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,4,top,"Lindwedel, T to c for White, Z.",43,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,4,top,"Berch,E grounded out to 1b unassisted (1-2 BKF).",44,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,4,top,"Hawsey,T singled down the rf line (1-1 BK).",45,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,4,top,"Berch,T reached on a fielder's choice (3-2 KBKBB); Hawsey,T out at second 3b to 2b.",46,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,4,top,"Safford,W flied out to lf to left center (2-2 KBFB).",47,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,4,bot,"Walker, I flied out to rf to right center (2-2 BFBS).",48,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,4,bot,"Dupont, K walked (3-0 BBBB).",49,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,4,bot,"Blaser, B singled through the right side (0-1 K); Dupont, K advanced to second.",50,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,4,bot,"Garcia Jr, H singled to first base (1-1 FB); Blaser, B advanced to second; Dupont, K advanced to third.",51,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,4,bot,"Lunsford, C flied into double play rf to ss, SF, RBI (2-1 BBF); Garcia Jr, H out on the play; Blaser, B advanced to third; Dupont, K scored.",52,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,5,top,"Hess, H to p for Brewer, B.",53,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,5,top,"Coates,C flied out to cf to left center (3-1 BBBK).",54,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,5,top,"Ballard,M singled up the middle (0-1 K).",55,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,5,top,"Mexico,S struck out looking (1-2 KBKK).",56,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,5,top,"Ballard,M advanced to second on a balk.",57,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,5,top,"Berkley,G flied out to cf (1-1 BK).",58,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,5,bot,"Harland,R to p for Magee,N.",59,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,5,bot,Artzberger M flied out to ss (3-2 BBSKBF).,60,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,5,bot,"Haggard, J singled to center field (1-2 SKFB).",61,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,5,bot,"Brignon, M reached on a fielder's choice (2-2 BBKF); Haggard, J out at second 1b to ss.",62,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,5,bot,"Lindwedel, T singled up the middle (0-0); Brignon, M advanced to second.",63,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,5,bot,"Walker, I tripled down the rf line, 2 RBI (1-2 SFFFB); Lindwedel, T scored; Brignon, M scored.",64,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,5,bot,"Dupont, K struck out swinging (0-2 KSS).",65,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,6,top,"Ruddell,Z walked (3-2 BBKBFB).",66,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,6,top,"Berch,E homered to left field, 2 RBI (3-2 BKFBB); Ruddell,Z scored.",67,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,6,top,Home Run Distance 397 Feet 6 Inches.,68,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,6,top,"Tubbs, A to p for Hess, H.",69,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,6,top,"Hawsey,T struck out swinging (2-2 KKBBS).",70,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,6,top,"Berch,T singled down the rf line (0-1 K).",71,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,6,top,"Safford,W flied out to cf to left center (3-1 BBKB).",72,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,6,top,"Coates,C doubled to right center (0-2 KK); Berch,T advanced to third.",73,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,6,top,Call of safe at 2nd under review.  After Review Call stands.,74,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,6,top,"Grigg, L to p for Tubbs, A.",75,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,6,top,"Ballard,M struck out looking (3-2 BBSBKK).",76,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,6,bot,"Nation,C to p for Harland,R.",77,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,6,bot,"Blaser, B struck out swinging (1-2 BSKS).",78,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,6,bot,"Garcia Jr, H struck out looking (1-2 SBSK).",79,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,6,bot,"Lunsford, C flied out to rf (3-2 BBKBF).",80,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,7,top,"Mexico,S singled through the left side (2-2 BKKBF).",81,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,7,top,"Berkley,G struck out swinging (0-2 KSS).",82,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,7,top,"Ruddell,Z popped up to 2b (3-2 BKFBBF).",83,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,7,top,"Berch,E struck out swinging (1-2 KSBS).",84,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,7,bot,Artzberger M singled through the right side (2-0 BB).,85,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,7,bot,"Haggard, J flied out to ss (2-1 KBB).",86,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,7,bot,"Brignon, M lined out to rf (3-1 SBBB).",87,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,7,bot,"Lindwedel, T lined out to cf (1-0 B).",88,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,8,top,"Bassett, A to p for Grigg, L.",89,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,8,top,"Hawsey,T struck out swinging (0-2 KKS).",90,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,8,top,"Berch,T struck out swinging (0-2 SKS).",91,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,8,top,"Safford,W walked (3-1 BBKBB).",92,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,8,top,"Coates,C flied out to rf (2-2 BBKK).",93,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,8,bot,"Coates,C to 1b.",94,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,8,bot,"Comeaux,G to 3b for Hawsey,T.",95,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,8,bot,"Drost,B to cf for Berch,T.",96,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,8,bot,"Crider,N to p for Nation,C.",97,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,8,bot,"Walker, I struck out swinging, out at first c to 1b (1-2 BFKS).",98,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,8,bot,"Dupont, K struck out looking (1-2 SKBK).",99,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,8,bot,"Blaser, B singled through the right side (2-2 FBBF).",100,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,8,bot,"Blaser, B advanced to second on a balk.",101,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,8,bot,"Blaser, B advanced to third on a wild pitch.",102,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596630,8,bot,"Garcia Jr, H grounded out to ss (2-2 KFFBFBF).",103,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,9,top,"Gregoire, J to p for Bassett, A.",104,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,9,top,"Ballard,M doubled to left field (2-1 BKB).",105,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,9,top,"Mexico,S singled to right field, RBI (1-1 BK); Ballard,M scored.",106,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,9,top,"Patterson,C pinch hit for Berkley,G.",107,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,9,top,"Netterville pinch ran for Mexico,S.",108,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,9,top,"Patterson,C struck out swinging (0-2 KKS).",109,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,9,top,"Ruddell,Z walked (3-1 BBBKB); Netterville advanced to second.",110,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,9,top,ULM Coach Mound Visit.,111,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,9,top,"Berch,E struck out swinging (1-2 BKFS).",112,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,9,top,"Snider,R pinch hit for Comeaux,G.",113,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025
+6303317,596584,Louisiana Tech Bulldogs,596630,ULM Warhawks,596584,9,top,"Snider,R flied out to ss (1-0 B).",114,2025-04-15T00:00:00-04:00,"Lou St. Amant Field (Monroe, LA)",1532,MBA,2025

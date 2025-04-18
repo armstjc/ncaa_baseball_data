@@ -1,0 +1,106 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,1,top,NOWAK struck out swinging (3-2 KBFBFBS).,1,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,1,top,SMITH flied out to cf to right center (0-1 S).,2,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,1,top,BESSETTE struck out swinging (3-2 BKFBBS).,3,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,1,bot,ROESSLER flied out to cf (2-1 BKB).,4,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,1,bot,HAUSSER walked (3-2 FBBKFBB).,5,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,1,bot,HAUSSER stole second.,6,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,1,bot,BICKERS walked (3-2 KBKBBB).,7,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,1,bot,MARION fouled out to lf down the lf line (1-0 B).,8,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,1,bot,HEADLEE struck out looking (1-2 BKFFK).,9,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,2,top,THOMPSON-ALL grounded out to ss (0-1 F).,10,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,2,top,NICOLOUDES flied out to rf (3-2 KBBKBF).,11,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,2,top,CURRY grounded out to 3b (3-2 KBBFB).,12,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,2,bot,SCHMIDT singled through the left side (0-0).,13,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,2,bot,OTTO struck out swinging (0-2 KFS).,14,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,2,bot,PHILLIPS walked (3-1 BKBBB)3a SCHMIDT advanced to second.,15,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,2,bot,ELLIS reached on a fielding error by 2b (0-0)3a PHILLIPS advanced to second3a SCHMIDT advanced to third.,16,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,2,bot,"ROESSLER hit by pitch, RBI (0-1 F)3a ELLIS advanced to second3a PHILLIPS advanced to third3a SCHMIDT scored.",17,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,2,bot,"HAUSSER singled to center field, 2 RBI (2-2 BKBFF)3a ROESSLER advanced to third3a ELLIS scored, unearned3a PHILLIPS scored.",18,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,2,bot,"BICKERS singled to right field, RBI (1-0 B)3a HAUSSER advanced to second3a ROESSLER scored.",19,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,2,bot,GOULD to p for COX.,20,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,2,bot,"MARION singled to right field (2-2 BBKF)3a BICKERS advanced to second3a HAUSSER advanced to third, out at third rf to 2b to c to 3b.",21,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,2,bot,HEADLEE flied out to rf (3-2 KBKBB).,22,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,3,top,FLANIGAN doubled down the rf line (1-1 KB).,23,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,3,top,COLON struck out looking (3-2 BBSFBFFFK).,24,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,3,top,HOLMES struck out swinging (0-2 KSS).,25,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,3,top,NOWAK singled to first base (1-2 BKK)3a FLANIGAN advanced to third.,26,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,3,top,SMITH flied out to cf (0-2 FKFFF).,27,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,3,bot,SCHMIDT doubled down the rf line (0-1 K).,28,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,3,bot,OTTO flied out to rf (3-2 BFBBK).,29,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,3,bot,PHILLIPS flied out to cf to right center (2-2 BFBK)3a SCHMIDT advanced to third.,30,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,3,bot,ELLIS grounded out to 1b unassisted (0-2 KK).,31,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,4,top,BESSETTE flied out to cf (3-1 BBFB).,32,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,4,top,THOMPSON-ALL struck out looking (0-2 SKK).,33,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,4,top,NICOLOUDES singled through the left side (1-1 KB).,34,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,4,top,CURRY struck out swinging (0-2 KSS).,35,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,4,bot,ROESSLER singled through the left side (0-2 KFFF).,36,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,4,bot,HAUSSER grounded out to 1b unassisted (2-0 BB)3a ROESSLER advanced to second.,37,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,4,bot,BICKERS flied out to cf to right center (2-1 BSB).,38,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,4,bot,"MARION singled, advanced to second on a fielding error by cf, RBI (1-2 BSF)3a ROESSLER scored.",39,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,4,bot,HEADLEE grounded out to ss (0-2 FS).,40,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,5,top,ARNOLD to p for MUELLER.,41,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,5,top,FLANIGAN grounded out to 1b unassisted (0-2 KF).,42,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,5,top,COLON walked (3-1 BKBBB).,43,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,5,top,Ball Two was Called on a Pitch-Clock Violation by Pitcher.,44,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,5,top,COLON advanced to second on a wild pitch.,45,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,5,top,"HOLMES singled to left field, RBI (3-2 FBFBB)3a COLON scored.",46,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,5,top,NOWAK flied out to cf (0-1 K).,47,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,5,top,SMITH struck out swinging (2-2 BBFFS).,48,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,5,bot,GOHLKE to p for GOULD.,49,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,5,bot,SCHMIDT walked (3-1 KBBBB).,50,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,5,bot,"OTTO doubled down the lf line, RBI (1-2 FSB)3a SCHMIDT scored.",51,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,5,bot,PHILLIPS walked (3-1 BBBKB).,52,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,5,bot,ELLIS walked (3-1 FBBBB)3a PHILLIPS advanced to second3a OTTO advanced to third.,53,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,5,bot,BARTON to p for GOHLKE.,54,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,5,bot,ROESSLER reached on a fielder's choice to third base (0-0)3a ELLIS advanced to second3a PHILLIPS advanced to third3a OTTO out at home 3b to c.,55,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,5,bot,"HAUSSER popped up to 2b, SF, RBI (0-2 KFF)3a PHILLIPS scored.",56,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,5,bot,ROESSLER advanced to second on a wild pitch3a ELLIS advanced to third.,57,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,5,bot,BICKERS walked (3-0 BBBB).,58,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,5,bot,MARION struck out swinging (0-2 KFS).,59,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,6,top,BESSETTE hit by pitch (1-0 B).,60,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,6,top,THOMPSON-ALL flied out to cf to right center (0-0).,61,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,6,top,NICOLOUDES singled to left field (3-1 KBBB)3a BESSETTE advanced to third.,62,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,6,top,"CURRY singled through the left side, RBI (1-0 B)3a NICOLOUDES advanced to second3a BESSETTE scored.",63,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,6,top,FLANIGAN struck out swinging (2-2 BBFSS).,64,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,6,top,DOHRMANN to p for ARNOLD.,65,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,6,top,CURRY advanced to second on a wild pitch3a NICOLOUDES advanced to third.,66,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,6,top,COLON grounded out to ss (2-1 KBB).,67,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,6,bot,VITELLARO to p for BARTON.,68,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,6,bot,HEADLEE grounded out to ss (2-2 BBKK).,69,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,6,bot,SCHMIDT grounded out to 2b (0-2 KF).,70,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,6,bot,OTTO grounded out to 3b (3-2 BBFKBF).,71,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,7,top,HOLMES struck out looking (2-2 BKKBK).,72,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,7,top,NOWAK flied out to cf (1-0 B).,73,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,7,top,SMITH reached on a fielding error by 1b (0-0).,74,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,7,top,BESSETTE popped up to 2b (2-0 BB).,75,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,7,bot,JIBBEN to p for VITELLARO.,76,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,7,bot,PHILLIPS singled to right center (1-0 B).,77,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,7,bot,PHILLIPS advanced to second on a passed ball.,78,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,7,bot,ELLIS struck out swinging (2-2 FBBFFS).,79,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,7,bot,ROESSLER struck out swinging (1-2 BKKS).,80,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,7,bot,HAUSSER flied out to cf (1-2 SFB).,81,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,8,top,PETERSON to p for DOHRMANN.,82,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,8,top,THOMPSON-ALL flied out to cf (2-0 BB).,83,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,8,top,NICOLOUDES flied out to cf (0-0).,84,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,8,top,CURRY walked (3-2 BFBFFFBB).,85,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,8,top,FLANIGAN popped up to 3b down the lf line (2-0 BB).,86,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,8,bot,BARRERA to p for JIBBEN.,87,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,8,bot,BICKERS flied out to rf (0-0).,88,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,8,bot,MARION flied out to cf (0-0).,89,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596452,8,bot,HEADLEE grounded out to ss (0-1 K).,90,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,9,top,SULLIVAN to p for PETERSON.,91,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,9,top,"Dropped foul ball, E1.",92,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,9,top,COLON walked (3-2 BBKFBB).,93,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,9,top,HOLMES singled to center field (2-1 BBF)3a COLON advanced to second.,94,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,9,top,ANDREWS to p for SULLIVAN.,95,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,9,top,"NOWAK singled through the right side, RBI (1-1 BK)3a HOLMES advanced to third3a COLON scored, unearned.",96,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,9,top,BLECK to p for ANDREWS.,97,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,9,top,NOWAK advanced to second on a wild pitch3a HOLMES scored.,98,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,9,top,SMITH walked (3-1 BBBKB).,99,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,9,top,MULHERN to p for BLECK.,100,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,9,top,BESSETTE struck out looking (3-2 BBKFBK).,101,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,9,top,THOMPSON-ALL struck out swinging (1-2 KSBFFS).,102,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,9,top,NICOLOUDES reached on a fielder's choice to second base (1-1 BF)3a SMITH advanced to second on a throwing error by 2b3a NOWAK advanced to third.,103,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,9,top,BUTLER pinch ran for NICOLOUDES.,104,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025
+6303301,596564,UIC Flames,596452,Milwaukee Panthers,596564,9,top,CURRY grounded out to 3b (1-0 B).,105,2025-04-15T00:00:00-04:00,"Franklin Field (Franklin, WI)",192,MBA,2025

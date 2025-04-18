@@ -1,0 +1,102 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,1,top,Bennett struck out swinging (0-2 KKS).,1,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,1,top,Cloyd walked (3-1 BBFBB).,2,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,1,top,Mascaro hit by pitch (1-0 B); Cloyd advanced to second.,3,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,1,top,Perreira infield fly to ss (3-1 BBBK).,4,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,1,top,Alvarez flied out to lf (0-1 K).,5,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,1,bot,McClellin grounded out to 3b (2-2 BKSFB).,6,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,1,bot,Sloan lined out to 2b (0-0).,7,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,1,bot,Waldon singled to left field (3-2 BBBKK).,8,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,1,bot,Tandy doubled down the rf line (0-0); Waldon advanced to third.,9,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,1,bot,Schnabel flied out to cf (1-2 FSB).,10,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,2,top,Leroy walked (3-1 BFBBB).,11,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,2,top,BujandaMcCon singled to third base (1-0 B); Leroy advanced to second.,12,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,2,top,"Pelayo out at first p to 2b, SAC, bunt; BujandaMcCon advanced to second; Leroy advanced to third.",13,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,2,top,"Barnum V homered to left field, 3 RBI (0-0); BujandaMcCon scored; Leroy scored.",14,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,2,top,Bennett singled to right field (1-0 B).,15,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,2,top,Cloyd flied out to rf (1-0 B).,16,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,2,top,Bennett stole second.,17,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,2,top,Mascaro walked (3-1 BBKBB).,18,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,2,top,Souza to p for McKinney.,19,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,2,top,Perreira hit by pitch (0-1 K); Mascaro advanced to second; Bennett advanced to third.,20,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,2,top,Alvarez grounded out to ss (0-0).,21,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,2,bot,Bicknell doubled to left center.,22,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,2,bot,"Scott grounded out to p, SAC, bunt (0-1 S); Bicknell advanced to third.",23,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,2,bot,Davis hit by pitch (0-0).,24,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,2,bot,Brown struck out swinging (1-2 BKFS).,25,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,2,bot,McClellin popped up to 2b (0-1 F).,26,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,3,top,Leroy walked (3-1 FBBBB).,27,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,3,top,BujandaMcCon grounded out to 1b unassisted (0-1 K); Leroy advanced to second.,28,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,3,top,"Pelayo grounded out to c, SAC, bunt (1-0 B); Leroy advanced to third.",29,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,3,top,Barnum V struck out swinging (1-2 KBFS).,30,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,3,bot,Sloan fouled out to 1b (2-2 KBKB).,31,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,3,bot,Waldon out at first 1b to p (0-1 K).,32,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,3,bot,Tandy grounded out to 2b (1-1 BS).,33,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,4,top,Guardado to p for Souza.,34,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,4,top,Bennett lined out to cf (2-0 BB).,35,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,4,top,Cloyd grounded out to ss (2-2 BBFF).,36,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,4,top,Mascaro struck out swinging (1-2 KBFS).,37,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,4,bot,Schnabel grounded out to ss (0-2 KS).,38,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,4,bot,Bicknell doubled down the lf line (0-0).,39,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,4,bot,Scott flied out to cf (2-1 BFB); Bicknell advanced to third.,40,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,4,bot,Davis flied out to lf (1-0 B).,41,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,5,top,Sonoqui to p for Guardado.,42,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,5,top,Perreira struck out swinging (2-2 KBFBFS).,43,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,5,top,Alvarez walked (3-1 FBBBB).,44,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,5,top,Leroy grounded into double play 2b to ss; Alvarez out on the play.,45,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,5,bot,"Jackson, D to p for Leary.",46,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,5,bot,Brown struck out swinging (0-2 KSS).,47,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,5,bot,McClellin grounded out to 2b (0-0).,48,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,5,bot,Sloan grounded out to ss (0-2 FK).,49,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,6,top,Cruz to p for Sonoqui.,50,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,6,top,BujandaMcCon singled to right center (0-0).,51,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,6,top,Pelayo flied out to cf (1-2 BKK).,52,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,6,top,Barnum V flied out to cf (0-0).,53,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,6,top,Bennett flied out to lf (0-0).,54,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,6,bot,Waldon fouled out to 3b (2-0 BB).,55,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,6,bot,Tandy singled to right field (0-0).,56,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,6,bot,Schnabel struck out swinging (0-2 KFS).,57,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,6,bot,Bicknell grounded out to ss (3-2 BFBKFFB).,58,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,7,top,Andrus to p for Cruz.,59,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,7,top,Cloyd hit by pitch (0-0).,60,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,7,top,Mascaro walked (3-0 BBBB); Cloyd advanced to second.,61,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,7,top,"Perreira out at first p to 2b, SAC, bunt (0-1 F); Mascaro advanced to second; Cloyd advanced to third.",62,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,7,top,"Alvarez singled to third base, RBI (0-2 FK); Mascaro advanced to third; Cloyd scored.",63,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,7,top,"Leroy singled to pitcher, RBI (0-0); Alvarez advanced to second; Mascaro scored.",64,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,7,top,Hendriks pinch hit for BujandaMcCon.,65,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,7,top,Hendriks hit by pitch (0-0); Leroy advanced to second; Alvarez advanced to third.,66,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,7,top,Metcalf to p for Andrus.,67,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,7,top,"Pelayo hit by pitch, RBI (1-1 BK); Hendriks advanced to second; Leroy advanced to third; Alvarez scored.",68,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,7,top,Pollard pinch ran for Hendriks.,69,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,7,top,Pelayo advanced to second on a wild pitch; Pollard advanced to third on a wild pitch; Leroy scored on a wild pitch.,70,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,7,top,Barnum V lined into double play 3b unassisted (3-1 BBBK); Pollard out on the play.,71,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,7,bot,Pollard to rf.,72,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,7,bot,Scott grounded out to ss (1-0 B).,73,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,7,bot,Davis lined out to cf (2-1 BFB).,74,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,7,bot,Evans pinch hit for Brown.,75,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,7,bot,Evans struck out swinging (0-2 KSS).,76,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,8,top,Evans to ss.,77,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,8,top,Moll to p for Metcalf.,78,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,8,top,Bennett flied out to rf (0-1 K).,79,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,8,top,Cloyd lined out to rf (2-0 BB).,80,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,8,top,Mascaro singled through the right side (0-2 SSF).,81,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,8,top,Perreira walked (3-0 BBBB); Mascaro advanced to second.,82,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,8,top,Ruch pinch ran for Perreira.,83,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,8,top,Alvarez flied out to lf (2-2 KFBB).,84,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,8,bot,McClellin flied out to rf (3-2 KSBBB).,85,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,8,bot,Sloan singled up the middle.,86,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,8,bot,Waldon flied out to cf (2-1 BBK).,87,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,8,bot,Tandy struck out swinging (0-2 SSS).,88,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,9,top,Dobson pinch hit for Leroy.,89,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,9,top,Dobson popped up to 3b (1-0 B).,90,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,9,top,Pollard singled to left field (1-0 B).,91,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,9,top,Pollard advanced to second on a wild pitch.,92,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,9,top,Pelayo flied out to cf (3-2 KBFBFB); Pollard advanced to third.,93,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596505,9,top,Barnum V grounded out to ss (0-2 KS).,94,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,9,bot,Morisaki to c for Dobson.,95,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,9,bot,Schnabel singled to left field (0-0).,96,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,9,bot,Bicknell doubled to left center (1-0 B); Schnabel advanced to third.,97,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,9,bot,"Urias-Calvil to p for Jackson, D.",98,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,9,bot,Scott popped up to c (3-2 BBFKB).,99,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,9,bot,Davis popped up to ss (0-1 K).,100,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
+6303303,596505,CSU Bakersfield Roadrunners,596645,Pacific Tigers,596645,9,bot,Evans lined out to cf (0-0).,101,2025-04-15T00:00:00-04:00,"Klein Family Field (Stockton, CA)",294,MBA,2025
