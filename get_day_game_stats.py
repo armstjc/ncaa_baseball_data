@@ -25,15 +25,6 @@ def get_day_game_stats(date_obj: date):
     except Exception as e:
         raise e
 
-    # try:
-    #     mkdir(f"individual_game_stats/team/{season}")
-    # except FileExistsError:
-    #     logging.info(
-    #         f"`individual_game_stats/team/{season}` already exists"
-    #     )
-    # except Exception as e:
-    #     raise e
-
     try:
         mkdir(f"play_by_play_data/raw/{season}")
     except FileExistsError:

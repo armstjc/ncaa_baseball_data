@@ -1,0 +1,95 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,1,top,No play.,1,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,1,top,Zampieron grounded out to 2b (1-1).,2,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,1,top,Paulsen popped up to 3b (2-2).,3,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,1,top,Azpilcueta flied out to cf (2-2).,4,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,1,bot,"Palmer, D. singled to right field (1-1).",5,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,1,bot,"Craig, M. grounded out to 2b (0-0)3a Palmer, D. advanced to second.",6,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,1,bot,"Masiuk, L. grounded out to ss (0-2).",7,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,1,bot,"Griggs, CJ struck out swinging (2-2).",8,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,2,top,Doughty singled to shortstop (3-2).,9,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,2,top,Pilla grounded out to 2b (1-0)3a Doughty advanced to second.,10,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,2,top,Szepek reached on a fielder's choice (0-0)3a Doughty advanced to third.,11,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,2,top,"Carson singled to first base, bunt, RBI3a Szepek advanced to second3a Doughty scored.",12,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,2,top,Carson advanced to second3a Szepek advanced to third on a throwing error by p.,13,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,2,top,"Davino homered to right center, 3 RBI (3-2)3a Carson scored3a Szepek scored.",14,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,2,top,Miceli walked (3-2).,15,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,2,top,Zampieron reached on a fielder's choice (2-2)3a Miceli out at second 3b to 2b.,16,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,2,top,Paulsen singled through the left side (0-2)3a Zampieron advanced to third.,17,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,2,top,Azpilcueta walked (3-2)3a Paulsen advanced to second.,18,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,2,top,"Doughty homered to left field, 4 RBI (0-0)3a Azpilcueta scored3a Paulsen scored3a Zampieron scored.",19,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,2,top,"Rasmussen, C to p for Hamilton, S..",20,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,2,top,Pilla flied out to rf (2-2).,21,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,2,bot,"Camera, D. lined out to ss (2-0).",22,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,2,bot,"Lane, S. singled to center field (0-1).",23,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,2,bot,"Biddle, N. reached on a fielder's choice (2-1)3a Lane, S. out at second 2b to ss.",24,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,2,bot,"Brown, M. reached on a fielder's choice (0-0)3a Biddle, N. out at second 2b to ss.",25,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,3,top,Szepek doubled to center field (0-1).,26,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,3,top,"Carson homered to right field, 2 RBI (1-2)3a Szepek scored.",27,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,3,top,Davino walked (3-1).,28,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,3,top,Miceli hit by pitch (0-2)3a Davino advanced to second.,29,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,3,top,Zampieron singled to left field (1-0)3a Miceli advanced to second3a Davino advanced to third.,30,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,3,top,"Paulsen singled, out at second rf to 1b to ss, 2 RBI (0-1)3a Zampieron advanced to third3a Miceli scored3a Davino scored.",31,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,3,top,"Azpilcueta doubled to right center, RBI (0-1)3a Zampieron scored.",32,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,3,top,Doughty struck out swinging (0-2).,33,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,3,top,Pilla reached on a fielding error by 3b (2-1)3a Azpilcueta advanced to third.,34,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,3,top,Szepek reached on a fielder's choice (0-2)3a Pilla out at second 2b unassisted.,35,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,3,bot,"Harring, J. struck out looking (1-2).",36,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,3,bot,"Palmer, D. singled through the right side (1-2).",37,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,3,bot,"Craig, M. flied out to lf (0-0).",38,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,3,bot,"Masiuk, L. flied out to lf (0-1).",39,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,4,top,Carson grounded out to 1b unassisted (0-0).,40,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,4,top,Davino flied out to lf (2-2).,41,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,4,top,Miceli singled up the middle (0-0).,42,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,4,top,Zampieron singled to pitcher (1-1)3a Miceli advanced to second.,43,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,4,top,Paulsen flied out to lf (3-2).,44,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,4,bot,"Griggs, CJ grounded out to 2b (3-1).",45,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,4,bot,"Camera, D. doubled to center field (0-2).",46,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,4,bot,"Lane, S. flied out to rf (1-2).",47,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,4,bot,"Biddle, N. doubled to left center, RBI (0-0)3a Camera, D. scored.",48,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,4,bot,"Brown, M. grounded out to 2b (1-0).",49,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,5,top,"Heyman, M. to p for Rasmussen, C.",50,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,5,top,Azpilcueta doubled to left center (0-0).,51,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,5,top,Doughty struck out swinging (3-2).,52,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,5,top,Pilla struck out looking (1-2).,53,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,5,top,Azpilcueta advanced to third on a wild pitch.,54,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,5,top,"Szepek singled to pitcher, RBI (2-1)3a Azpilcueta scored.",55,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,5,top,"Carson tripled to center field, RBI (0-0)3a Szepek scored.",56,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,5,top,Davino grounded out to 1b unassisted (0-1).,57,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,5,bot,Schaffer to 2b for Pilla.,58,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,5,bot,"Harring, J. grounded out to 1b unassisted (1-2).",59,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,5,bot,"Palmer, D. struck out looking (3-2).",60,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,5,bot,"Craig, M. out at first 1b to p (1-1).",61,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,6,top,Miceli flied out to cf (0-0).,62,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,6,top,Zampieron flied out to cf (0-0).,63,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,6,top,Paulsen walked (3-2).,64,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,6,top,Azpilcueta grounded out to ss (3-2).,65,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,6,bot,"Masiuk, L. grounded out to 3b (1-1).",66,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,6,bot,"Griggs, CJ struck out swinging (1-2).",67,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,6,bot,"Camera, D. grounded out to 2b (1-1).",68,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,7,top,Jackson pinch hit for Doughty.,69,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,7,top,Jackson singled up the middle (2-2).,70,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,7,top,Schaffer reached on a fielder's choice (1-0)3a Jackson out at second 3b to 2b.,71,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,7,top,Gell pinch hit for Szepek.,72,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,7,top,Gell walked (3-2)3a Schaffer advanced to second.,73,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,7,top,Santerre pinch hit for Carson.,74,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,7,top,Santerre grounded out to p (0-0)3a Gell advanced to second3a Schaffer advanced to third.,75,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,7,top,Villani pinch hit for Davino.,76,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,7,top,Villani walked (3-1).,77,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,7,top,"Miceli walked, RBI (3-2)3a Villani advanced to second3a Gell advanced to third3a Schaffer scored.",78,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,7,top,Solorzano pinch hit for Zampieron.,79,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,7,top,"Solorzano walked, RBI (3-1)3a Miceli advanced to second3a Villani advanced to third3a Gell scored.",80,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596690,7,top,Paulsen flied out to rf (1-1).,81,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,7,bot,Solorzano to cf.,82,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,7,bot,Jackson to rf.,83,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,7,bot,Gell to c.,84,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,7,bot,Santerre to lf.,85,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,7,bot,Villani to 3b.,86,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,7,bot,"Lane, S. grounded out to ss (0-0).",87,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,7,bot,"Castrataro pinch hit for Biddle, N..",88,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,7,bot,Castrataro flied out to cf (0-1).,89,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,7,bot,"Sweeney, M. pinch hit for Brown, M..",90,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,7,bot,"Sweeney, M. singled to right field (1-0).",91,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,7,bot,"Harring, J. singled through the left side (0-0)3a Sweeney, M. advanced to second.",92,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,7,bot,"Palmer, D. tripled to right field, 2 RBI (1-0)3a Harring, J. scored3a Sweeney, M. scored.",93,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
+6312445,596690,Stony Brook Seawolves,596558,Hofstra Pride,596558,7,bot,"Craig, M. grounded out to 1b unassisted (1-0).",94,2025-04-18T00:00:00-04:00,"University Field (Hempstead, NY)",498,MBA,2025
