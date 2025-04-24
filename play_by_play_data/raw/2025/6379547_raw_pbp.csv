@@ -1,0 +1,98 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,1,top,T. Kozlusky grounded out to ss.,1,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,1,top,J. Taylor flied out to cf.,2,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,1,top,L. Meehan grounded out to ss.,3,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,1,bot,C. Michak flied out to rf.,4,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,1,bot,J. Ayers flied out to cf.,5,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,1,bot,T. Gatchalia reached first on a fielding error by 3b.,6,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,1,bot,T. Gatchalia stole second.,7,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,1,bot,A. Giannetti walked.,8,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,1,bot,A. Ginsberg flied out to cf.,9,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,2,top,M. Gonglik grounded out to ss.,10,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,2,top,B. Lang walked.,11,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,2,top,B. Langlotz grounded out to c3a B. Lang advanced to second.,12,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,2,top,R. Buono walked.,13,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,2,top,L. Heuer flied out to lf.,14,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,2,bot,J. Schmidt grounded out to 2b.,15,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,2,bot,C. McCain grounded out to 2b.,16,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,2,bot,T. Day hit by pitch.,17,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,2,bot,T. Day advanced to second on a passed ball.,18,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,2,bot,"N. Ruiz singled to right field, advanced to second on the throw3a T. Day advanced to third.",19,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,2,bot,"N. Ruiz advanced to third3a T. Day scored on a passed ball, unearned.",20,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,2,bot,C. Michak walked.,21,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,2,bot,C. Michak stole second.,22,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,2,bot,J. Ayers grounded out to 2b.,23,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,3,top,T. MacDougal singled to left field.,24,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,3,top,T. MacDougal stole second.,25,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,3,top,T. Kozlusky walked.,26,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,3,top,"J. Taylor out at first p to 2b, SAC, bunt3a T. Kozlusky advanced to second3a T. MacDougal advanced to third.",27,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,3,top,"L. Meehan flied out to lf, sacrifice fly, RBI3a T. MacDougal scored.",28,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,3,top,M. Gonglik walked.,29,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,3,top,"B. Lang doubled to left center, 2 RBI3a M. Gonglik scored3a T. Kozlusky scored.",30,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,3,top,B. Lang advanced to third on a passed ball.,31,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,3,top,B. Langlotz grounded out to ss.,32,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,3,bot,T. Gatchalia fouled out to 1b.,33,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,3,bot,A. Giannetti singled to center field.,34,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,3,bot,A. Giannetti advanced to second on a wild pitch.,35,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,3,bot,A. Ginsberg flied out to cf.,36,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,3,bot,J. Schmidt struck out swinging.,37,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,4,top,M. Aronica to p for C. Fisher.,38,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,4,top,R. Buono grounded out to 3b.,39,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,4,top,L. Heuer popped up to 1b.,40,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,4,top,T. MacDougal singled to left field.,41,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,4,top,"T. MacDougal out at second c to 2b, caught stealing.",42,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,4,bot,C. McCain popped up to 2b.,43,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,4,bot,T. Day tripled to right center.,44,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,4,bot,"N. Ruiz singled to left field, RBI3a T. Day scored.",45,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,4,bot,N. Ruiz stole second.,46,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,4,bot,C. Michak walked.,47,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,4,bot,R. Corso to p for P. Mellana.,48,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,4,bot,N. Ruiz stole third.,49,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,4,bot,C. Michak stole second.,50,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,4,bot,J. Ayers hit by pitch.,51,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,4,bot,"T. Gatchalia walked, RBI3a J. Ayers advanced to second3a C. Michak advanced to third3a N. Ruiz scored.",52,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,4,bot,"A. Giannetti flied out to lf, sacrifice fly, RBI3a J. Ayers advanced to third3a C. Michak scored.",53,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,4,bot,A. Ginsberg grounded out to 2b unassisted.,54,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,5,top,T. Kozlusky singled to left field.,55,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,5,top,J. Taylor flied out to rf.,56,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,5,top,L. Meehan singled to left field3a T. Kozlusky advanced to second.,57,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,5,top,M. Gonglik singled up the middle3a L. Meehan advanced to second3a T. Kozlusky advanced to third.,58,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,5,top,"B. Lang hit by pitch, RBI3a M. Gonglik advanced to second3a L. Meehan advanced to third3a T. Kozlusky scored.",59,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,5,top,"B. Langlotz hit by pitch, RBI3a B. Lang advanced to second3a M. Gonglik advanced to third3a L. Meehan scored.",60,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,5,top,"R. Buono walked, RBI3a B. Langlotz advanced to second3a B. Lang advanced to third3a M. Gonglik scored.",61,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,5,top,A. Bausman to p for M. Aronica.,62,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,5,top,J. DiCesare pinch hit for L. Heuer.,63,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,5,top,"J. DiCesare doubled down the lf line, 3 RBI3a R. Buono scored3a B. Langlotz scored3a B. Lang scored.",64,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,5,top,T. Harris pinch ran for J. DiCesare.,65,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,5,top,T. MacDougal grounded out to ss.,66,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,5,top,"T. Kozlusky singled to left field, RBI3a T. Harris scored.",67,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,5,top,J. Taylor singled to right field3a T. Kozlusky advanced to third.,68,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,5,top,L. Meehan popped up to 1b.,69,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,5,bot,Z. Mornell to c for T. Harris.,70,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,5,bot,J. Schmidt flied out to cf.,71,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,5,bot,C. McCain grounded out to ss.,72,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,5,bot,T. Day flied out to cf.,73,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,6,top,C. Hamm to p for A. Bausman.,74,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,6,top,M. Gonglik walked.,75,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,6,top,B. Lang struck out swinging.,76,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,6,top,B. Langlotz walked3a M. Gonglik advanced to second.,77,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,6,top,L. Marinucci pinch hit for R. Buono.,78,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,6,top,L. Marinucci grounded into double play ss to 2b to 1b3a B. Langlotz out on the play3a M. Gonglik advanced to third.,79,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,6,bot,L. Marinucci to 2b.,80,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,6,bot,E. Levine pinch hit for N. Ruiz.,81,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,6,bot,E. Levine flied out to rf.,82,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,6,bot,C. Michak walked.,83,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,6,bot,J. Ayers singled to right field3a C. Michak advanced to second.,84,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,6,bot,"J. Ayers out at first p to 1b to ss, picked off3a C. Michak advanced to third.",85,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,6,bot,T. Gatchalia popped up to 2b.,86,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,7,top,E. Levine to 2b.,87,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,7,top,K. Beman to p for C. Hamm.,88,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,7,top,Z. Mornell fouled out to c.,89,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,7,top,T. MacDougal walked.,90,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597156,7,top,"T. Kozlusky reached on a fielder's choice, out on double play 3b to 2b3a T. MacDougal out on the play, interference.",91,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,7,bot,A. Giannetti grounded out to ss.,92,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,7,bot,A. Ginsberg hit by pitch.,93,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,7,bot,D. Palma pinch hit for J. Schmidt.,94,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,7,bot,D. Palma hit by pitch3a A. Ginsberg advanced to second.,95,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,7,bot,C. McCain flied out to cf.,96,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025
+6379547,597156,Eastern Eagles,597328,Marywood Pacers,597328,7,bot,T. Day popped up to 2b.,97,2025-04-23T00:00:00-04:00,"Pacers Field (Scranton, PA)",54,MBA,2025

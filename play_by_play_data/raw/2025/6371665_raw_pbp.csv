@@ -1,0 +1,104 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,1,top,"Baker, D. singled to left field (1-1 KB).",1,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,1,top,"Collins, G. hit by pitch (1-2 KFB)3a Baker, D. advanced to second.",2,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,1,top,"Pokrovsky, J walked (3-2 SSBBBFB)3a Collins, G. advanced to second3a Baker, D. advanced to third.",3,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,1,top,"Pokrovsky, J advanced to second on a wild pitch3a Collins, G. advanced to third3a Baker, D. scored.",4,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,1,top,"Echevarria E grounded out to 2b, RBI (1-2 KFB)3a Pokrovsky, J advanced to third3a Collins, G. scored.",5,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,1,top,"Spaventa, N. struck out swinging (1-2 KBKS).",6,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,1,top,"Taylor, R. struck out swinging (3-2 KBBBKS).",7,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,1,bot,Quinlan popped up to ss (1-1 BK).,8,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,1,bot,Carlson flied out to cf (0-0).,9,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,1,bot,Quatrani flied out to lf (1-1 KB).,10,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,2,top,"O'Brien, N. flied out to rf (1-1 BK).",11,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,2,top,"Degnan, G. flied out to cf (1-2 SKFBF).",12,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,2,top,"Chavez, C. grounded out to 3b (0-1 K).",13,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,2,bot,Hager flied out to rf to right center (0-0).,14,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,2,bot,"Wildman homered to left field, RBI (3-2 BSBKB).",15,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,2,bot,Musser singled to right field (2-0 BB).,16,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,2,bot,Porter doubled down the lf line (1-2 KFB)3a Musser advanced to third.,17,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,2,bot,"Davis singled to first base, RBI (3-2 SBBBK)3a Porter scored3a Musser scored.",18,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,2,bot,"Johnson, L. fouled out to c, bunt (0-0).",19,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,2,bot,Davis stole second.,20,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,2,bot,Quinlan grounded out to 2b (3-2 FBBBKF).,21,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,3,top,"Baker, D. grounded out to 2b (1-0 B).",22,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,3,top,"Collins, G. singled to center field (0-1 K).",23,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,3,top,"Collins, G. advanced to second on a wild pitch.",24,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,3,top,"Pokrovsky, J walked (3-2 BKKBBB).",25,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,3,top,Echevarria E flied out to rf to right center (2-2 BBFF).,26,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,3,top,"Spaventa, N. doubled to right center, 2 RBI (0-2 FF)3a Pokrovsky, J scored3a Collins, G. scored.",27,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,3,top,"Taylor, R. struck out swinging (2-2 SBBKS).",28,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,3,bot,Carlson singled to second base (1-0 B).,29,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,3,bot,Quatrani singled through the right side (1-2 KBS)3a Carlson advanced to second.,30,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,3,bot,Hager flied out to rf (0-1 F)3a Carlson advanced to third.,31,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,3,bot,Wildman grounded into double play 2b to ss to 1b (1-2 SSB)3a Quatrani out on the play.,32,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,4,top,"O'Brien, N. singled to center field (1-1 KB).",33,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,4,top,"Degnan, G. doubled to right center (0-0)3a O'Brien, N. advanced to third.",34,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,4,top,Mound visit #1 for COR.,35,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,4,top,"Chavez, C. grounded out to p (2-0 BB).",36,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,4,top,"Baker, D. flied out to rf, SF, RBI (0-0)3a O'Brien, N. scored.",37,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,4,top,"Collins, G. grounded out to 2b (0-0).",38,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,4,bot,Musser singled up the middle (1-0 B).,39,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,4,bot,Porter grounded into double play 3b to 2b to 1b (0-1 K)3a Musser out on the play.,40,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,4,bot,Davis struck out swinging (2-2 KBKBS).,41,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,5,top,"Pokrovsky, J grounded out to ss (3-2 BKFFBFBFF).",42,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,5,top,Echevarria E singled to left field (0-1 F).,43,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,5,top,Echevarria E advanced to second on a wild pitch.,44,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,5,top,"Spaventa, N. flied out to cf (2-1 KBB).",45,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,5,top,"Taylor, R. grounded out to 2b (0-0).",46,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,5,bot,"Johnson, L. grounded out to ss (3-2 KFBBB).",47,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,5,bot,"Quinlan singled to right field, out at second rf to ss (1-1 KB).",48,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,5,bot,Carlson struck out swinging (3-2 KBSBFFBS).,49,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,6,top,"O'Brien, N. tripled to right field (1-1 SB).",50,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,6,top,"Degnan, G. grounded out to ss (3-1 BBBK).",51,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,6,top,"Chavez, C. singled to right field, RBI (0-0)3a O'Brien, N. scored.",52,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,6,top,Keller to p for Holcombe.,53,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,6,top,"Baker, D. struck out swinging (3-2 BBKFBFS)3a Chavez, C. stole second.",54,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,6,top,"Collins, G. walked (3-2 BFBBFB).",55,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,6,top,"Pokrovsky, J grounded out to 3b (1-2 FBF).",56,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,6,bot,Quatrani struck out swinging (3-2 BKBSBS).,57,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,6,bot,Hager flied out to cf (2-1 SBB).,58,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,6,bot,"Wildman grounded out to p, bunt (0-0).",59,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,7,top,Echevarria E struck out looking (1-2 KBFK).,60,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,7,top,"Spaventa, N. singled up the middle (1-1 BK).",61,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,7,top,"Spaventa, N. advanced to second on a throwing error by p, failed pickoff attempt.",62,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,7,top,"Taylor, R. singled through the right side (1-2 BKK)3a Spaventa, N. advanced to third.",63,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,7,top,"O'Brien, N. struck out looking (1-2 BFFFK)3a Taylor, R. stole second.",64,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,7,top,"Degnan, G. walked (3-0 BBBB).",65,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,7,top,Mound visit #2 for COR.,66,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,7,top,"Chavez, C. walked, RBI (3-1 BBKBB)3a Degnan, G. advanced to second3a Taylor, R. advanced to third3a Spaventa, N. scored.",67,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,7,top,Pitching change made with 2-0 count.,68,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,7,top,"Baker, D. walked, RBI (3-0 BBBB)3a Chavez, C. advanced to second3a Degnan, G. advanced to third3a Taylor, R. scored.",69,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,7,top,Hegarty to p for Keller.,70,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,7,top,"Collins, G. walked, RBI (3-2 BKBFBFB)3a Baker, D. advanced to second3a Chavez, C. advanced to third3a Degnan, G. scored, unearned.",71,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,7,top,"Pokrovsky, J grounded out to ss (1-1 BK).",72,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,7,bot,"Delany, T. to p for Katz, J..",73,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,7,bot,Musser grounded out to 3b (0-1 K).,74,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,7,bot,Porter struck out swinging (1-2 KFBS).,75,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,7,bot,Davis popped up to ss to center field (0-0).,76,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,8,top,Jaun to p for Hegarty.,77,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,8,top,Echevarria E singled to right center (2-2 BBKK).,78,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,8,top,"Spaventa, N. singled to pitcher (2-2 BBKF)3a Echevarria E advanced to second.",79,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,8,top,"Taylor, R. popped up to 2b to right field (1-2 FSFB).",80,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,8,top,"O'Brien, N. struck out looking (1-2 KBSFFK).",81,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,8,top,"Spaventa, N. advanced to second on a wild pitch3a Echevarria E advanced to third.",82,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,8,top,"Degnan, G. grounded out to 2b (2-2 BBFSF).",83,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,8,bot,"Moss, J. to p for Delany, T..",84,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,8,bot,"Johnson, L. homered to left field, RBI (2-1 BFB).",85,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,8,bot,Quinlan struck out looking (1-2 KBFFK).,86,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,8,bot,Carlson singled to right field (2-2 BFBFF).,87,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,8,bot,Quatrani lined out to 2b (0-1 S).,88,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,8,bot,Hager hit by pitch (0-0)3a Carlson advanced to second.,89,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,8,bot,Wildman grounded out to p (1-1 FB).,90,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,9,top,Van Sice to p for Jaun.,91,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,9,top,"Chavez, C. grounded out to 3b (0-0).",92,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,9,top,"Baker, D. singled to third base (0-0).",93,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,9,top,"Baker, D. advanced to second on a wild pitch.",94,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,9,top,"Collins, G. grounded out to p (3-2 KFBBB)3a Baker, D. advanced to third.",95,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596716,9,top,"Pokrovsky, J flied out to cf (1-1 BS).",96,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,9,bot,"Mott, M. to p for Moss, J..",97,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,9,bot,Musser singled to center field (3-2 KBFBB).,98,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,9,bot,Porter struck out looking (0-2 KFFFK).,99,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,9,bot,Davis reached on a fielder's choice to shortstop (2-2 BBSK)3a Musser out at second ss to 2b.,100,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,9,bot,Davis advanced to second.,101,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,9,bot,Davis advances on defensive indifference.,102,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025
+6371665,596716,Penn Quakers,596528,Cornell Big Red,596528,9,bot,"Johnson, L. fouled out to 1b (1-1 KB).",103,2025-04-13T00:00:00-04:00,"Booth Field (Ithaca, NY)",148,MBA,2025

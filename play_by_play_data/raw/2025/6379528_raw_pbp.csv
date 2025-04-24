@@ -1,0 +1,150 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,1,top,"R. Hirsh homered to right field, RBI.",1,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,1,top,"W. Turner homered to left field, RBI.",2,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,1,top,Z. Stolze doubled to right center.,3,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,1,top,C. Ruppel flied out to rf3a Z. Stolze advanced to third.,4,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,1,top,D. Kinsey reached first on an error by 3b.,5,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,1,top,"T. Everitt doubled to left center, 2 RBI3a D. Kinsey scored, unearned3a Z. Stolze scored.",6,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,1,top,"S. SanFilipp doubled down the lf line, RBI3a T. Everitt scored.",7,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,1,top,J. Hallihan to p for D. Neves.,8,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,1,top,S. SanFilipp stole third.,9,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,1,top,"B. Wozniak doubled to left center, out at third lf to ss to 3b, RBI3a S. SanFilipp scored.",10,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,1,top,N. Miller grounded out to ss.,11,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,1,bot,R. Bauerle walked.,12,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,1,bot,"R. Bauerle out at second c to 2b, caught stealing.",13,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,1,bot,J. Balcer flied out to rf.,14,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,1,bot,K. Bukowski doubled to left center.,15,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,1,bot,B. Raven grounded out to ss.,16,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,2,top,R. Hirsh singled to left field.,17,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,2,top,W. Turner grounded into double play 2b to 1b3a R. Hirsh out on the play.,18,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,2,top,Z. Stolze struck out swinging.,19,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,2,bot,C. Edwards to p for D. Hamlin.,20,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,2,bot,M. Koblos doubled down the rf line.,21,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,2,bot,S. Burke walked.,22,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,2,bot,M. Calderban walked3a S. Burke advanced to second3a M. Koblos advanced to third.,23,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,2,bot,"T. Harper reached on a fielder's choice to first base, RBI3a M. Calderban out at second 1b to ss3a S. Burke advanced to third3a M. Koblos scored.",24,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,2,bot,"J. Aman singled down the lf line, RBI3a T. Harper advanced to second3a S. Burke scored.",25,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,2,bot,B. Spurgeon to p for C. Edwards.,26,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,2,bot,R. Bauerle flied out to lf down the lf line.,27,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,2,bot,"J. Balcer homered to center field, 3 RBI3a J. Aman scored3a T. Harper scored.",28,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,2,bot,K. Bukowski grounded out to p.,29,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,3,top,C. Ruppel flied out to rf.,30,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,3,top,D. Kinsey flied out to cf.,31,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,3,top,T. Everitt reached first on an error by ss.,32,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,3,top,T. Everitt stole second.,33,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,3,top,T. Everitt stole third.,34,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,3,top,S. SanFilipp walked.,35,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,3,top,B. Wozniak flied out to lf.,36,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,3,bot,B. Raven reached first on an error by ss.,37,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,3,bot,B. Raven advanced to second on a wild pitch.,38,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,3,bot,M. Koblos walked.,39,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,3,bot,S. Burke flied out to lf.,40,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,3,bot,M. Calderban struck out swinging.,41,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,3,bot,T. Harper flied out to lf.,42,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,4,top,N. Miller walked.,43,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,4,top,R. Hirsh flied out to cf.,44,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,4,top,N. Miller stole second.,45,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,4,top,W. Turner struck out looking.,46,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,4,top,"Z. Stolze homered to left center, 2 RBI3a N. Miller scored.",47,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,4,top,C. Ruppel singled through the left side.,48,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,4,top,C. Ruppel stole second.,49,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,4,top,D. Kinsey grounded out to 3b.,50,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,4,bot,J. Aman walked.,51,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,4,bot,"R. Bauerle doubled to left center, RBI3a J. Aman scored.",52,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,4,bot,"J. Balcer doubled to right center, RBI3a R. Bauerle scored.",53,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,4,bot,"K. Bukowski doubled down the lf line, RBI3a J. Balcer scored.",54,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,4,bot,C. Connelly to p for B. Spurgeon.,55,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,4,bot,B. Raven hit by pitch.,56,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,4,bot,M. Koblos hit by pitch3a B. Raven advanced to second3a K. Bukowski advanced to third.,57,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,4,bot,L. Friedman to p for C. Connelly.,58,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,4,bot,C. McKenna pinch hit for S. Burke.,59,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,4,bot,C. McKenna grounded into double play 2b to ss to 1b3a M. Koblos out on the play3a B. Raven advanced to third3a K. Bukowski scored.,60,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,4,bot,M. Calderban struck out swinging.,61,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,5,top,B. Clinton to cf for M. Koblos.,62,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,5,top,C. McKenna to 3b.,63,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,5,top,R. Bauerle to ss.,64,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,5,top,T. Everitt grounded out to ss.,65,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,5,top,S. SanFilipp popped up to 2b.,66,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,5,top,B. Wozniak struck out swinging.,67,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,5,bot,T. Titus to p for L. Friedman.,68,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,5,bot,T. Harper hit by pitch.,69,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,5,bot,J. Aman singled up the middle3a T. Harper advanced to third.,70,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,5,bot,"R. Bauerle grounded out to p, SAC, bunt, RBI3a J. Aman advanced to second3a T. Harper scored.",71,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,5,bot,R. Madden pinch hit for J. Balcer.,72,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,5,bot,R. Madden grounded out to ss3a J. Aman advanced to third.,73,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,5,bot,J. Aman scored on a wild pitch.,74,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,5,bot,K. Bukowski struck out swinging.,75,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,6,top,R. Madden to cf.,76,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,6,top,B. Clinton to lf.,77,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,6,top,Z. Pollock to p for J. Hallihan.,78,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,6,top,N. Nigro to c for T. Harper.,79,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,6,top,N. Miller grounded out to ss.,80,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,6,top,R. Hirsh grounded out to 1b unassisted.,81,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,6,top,W. Turner hit by pitch.,82,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,6,top,W. Turner stole second.,83,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,6,top,Z. Stolze hit by pitch.,84,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,6,top,C. Ruppel flied out to cf to left center.,85,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,6,bot,L. Ruga to p for T. Titus.,86,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,6,bot,C. Wojciecho pinch hit for B. Raven.,87,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,6,bot,C. Wojciecho singled down the rf line.,88,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,6,bot,B. Clinton reached on a fielder's choice to second base3a C. Wojciecho out at second 2b to ss.,89,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,6,bot,"B. Clinton out at first p to 1b, picked off.",90,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,6,bot,C. McKenna struck out swinging.,91,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,7,top,H. O'Neill to p for Z. Pollock.,92,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,7,top,D. Kinsey hit by pitch.,93,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,7,top,D. Kinsey stole second.,94,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,7,top,T. Everitt doubled to left center3a D. Kinsey advanced to third.,95,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,7,top,"S. SanFilipp singled to shortstop, RBI3a D. Kinsey scored.",96,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,7,top,B. Wozniak flied out to cf to left center3a S. SanFilipp advanced to second3a T. Everitt advanced to third.,97,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,7,top,J. Najdek to p for H. O'Neill.,98,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,7,top,"N. Miller doubled to left field, RBI3a S. SanFilipp advanced to third3a T. Everitt scored.",99,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,7,top,"R. Hirsh singled through the left side, 2 RBI3a N. Miller scored3a S. SanFilipp scored.",100,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,7,top,W. Turner flied out to cf.,101,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,7,top,"R. Hirsh out at second c to 2b, caught stealing.",102,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,7,bot,A. Martin to p for L. Ruga.,103,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,7,bot,M. Calderban doubled to right center.,104,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,7,bot,N. Nigro struck out swinging.,105,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,7,bot,J. Aman struck out looking.,106,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,7,bot,"R. Bauerle doubled to right center, RBI3a M. Calderban scored.",107,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,7,bot,"R. Madden singled to second base, RBI3a R. Bauerle scored.",108,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,7,bot,B. Fitzpatri pinch hit for K. Bukowski.,109,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,7,bot,"R. Madden out at second c to 2b, caught stealing.",110,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,8,top,B. Fitzpatri to 1b.,111,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,8,top,C. Wojciecho to dh.,112,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,8,top,E. Geackel to p for J. Najdek.,113,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,8,top,Z. Stolze walked.,114,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,8,top,M. O'Connor pinch ran for Z. Stolze.,115,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,8,top,"C. Ruppel homered to left center, 2 RBI3a M. O'Connor scored.",116,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,8,top,E. Lytle to p for E. Geackel.,117,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,8,top,"D. Kinsey homered to left center, RBI.",118,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,8,top,T. Everitt doubled down the rf line.,119,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,8,top,S. SanFilipp walked.,120,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,8,top,"B. Wozniak doubled down the lf line, RBI3a S. SanFilipp advanced to third3a T. Everitt scored.",121,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,8,top,C. Horner to p for E. Lytle.,122,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,8,top,B. Wozniak advanced to third3a S. SanFilipp scored on a wild pitch.,123,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,8,top,N. Miller lined out to 2b.,124,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,8,top,"R. Hirsh grounded out to 2b, RBI3a B. Wozniak scored.",125,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,8,top,W. Turner struck out swinging.,126,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,8,bot,M. O'Connor to 2b.,127,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,8,bot,B. Wozniak to 3b.,128,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,8,bot,L. Girillo to p for A. Martin.,129,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,8,bot,"B. Fitzpatri homered to right field, RBI.",130,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,8,bot,C. Wojciecho struck out swinging.,131,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,8,bot,B. Clinton reached first on an error by 3b.,132,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,8,bot,"B. Clinton out at second c to 2b, caught stealing.",133,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,8,bot,C. McKenna flied out to cf to left center.,134,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,9,top,J. Houy to p for C. Horner.,135,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,9,top,M. O'Connor grounded out to 2b.,136,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,9,top,C. Ruppel grounded out to p.,137,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,9,top,D. Kinsey singled through the left side.,138,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597062,9,top,T. Everitt flied out to cf.,139,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,9,bot,M. Calderban struck out looking.,140,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,9,bot,N. Nigro walked.,141,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,9,bot,J. Aman struck out looking.,142,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,9,bot,N. Nigro advanced to second on a wild pitch.,143,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,9,bot,"R. Bauerle doubled to left field, RBI3a N. Nigro scored.",144,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,9,bot,"R. Madden doubled to left field, RBI3a R. Bauerle scored.",145,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,9,bot,N. DiGrazio to p for L. Girillo.,146,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,9,bot,"B. Fitzpatri doubled down the rf line, RBI3a R. Madden scored.",147,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,9,bot,C. Wojciecho walked.,148,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025
+6379528,597062,Washington Col. Shoremen,597076,Widener Pride,597076,9,bot,B. Clinton struck out swinging.,149,2025-04-23T00:00:00-04:00,"Widener Baseball Field (Chester, PA)",76,MBA,2025

@@ -1,0 +1,88 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,1,top,J. Haynes grounded out to 1b unassisted.,1,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,1,top,H. Hoag popped up to 2b.,2,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,1,top,P. Evans grounded out to 1b unassisted.,3,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,1,bot,Q. Feng lined out to lf.,4,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,1,bot,C. Tortorici singled to center field.,5,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,1,bot,K. Ueno reached on a fielder's choice: C. Tortorici out at second 3b to 2b.,6,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,1,bot,"K. Ueno out at second c to 2b, caught stealing.",7,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,2,top,N. Evans grounded out to ss.,8,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,2,top,J. Duffek grounded out to ss.,9,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,2,top,D. Hendrix singled to left field.,10,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,2,top,A. Ellison singled to center field: D. Hendrix advanced to second.,11,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,2,top,"R. Lesmeiest singled to right field, RBI: A. Ellison advanced to third: D. Hendrix scored.",12,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,2,top,R. Lesmeiest stole second.,13,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,2,top,J. Watson walked.,14,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,2,top,"J. Haynes hit by pitch, RBI: J. Watson advanced to second: R. Lesmeiest advanced to third: A. Ellison scored.",15,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,2,top,H. Hoag lined out to ss.,16,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,2,bot,I. Slate grounded out to 2b.,17,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,2,bot,N. Hall grounded out to 3b.,18,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,2,bot,V. Lucyszyn singled to right field.,19,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,2,bot,T. Kenney grounded out to ss.,20,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,3,top,P. Evans lined out to 1b.,21,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,3,top,N. Evans lined out to 3b.,22,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,3,top,J. Duffek singled to first base.,23,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,3,top,"J. Duffek out at second c to 2b, caught stealing.",24,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,3,bot,J. Nelson grounded out to 3b.,25,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,3,bot,"J. Chow reached first on a throwing error by 3b, advanced to second.",26,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,3,bot,Q. Feng walked.,27,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,3,bot,C. Tortorici grounded out to p: Q. Feng advanced to second: J. Chow advanced to third.,28,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,3,bot,"K. Ueno singled to center field, 2 RBI: Q. Feng scored, unearned: J. Chow scored, unearned.",29,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,3,bot,I. Slate struck out swinging.,30,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,4,top,D. Hendrix doubled to right center.,31,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,4,top,H. Zhang to p for J. Haines.,32,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,4,top,A. Ellison walked.,33,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,4,top,R. Lesmeiest struck out swinging: A. Ellison advanced to second: D. Hendrix advanced to third on a passed ball.,34,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,4,top,"J. Watson flied out to rf, sacrifice fly, RBI: A. Ellison advanced to third: D. Hendrix scored.",35,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,4,top,"J. Haynes singled to right field, RBI: A. Ellison scored, unearned.",36,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,4,top,H. Hoag flied out to rf.,37,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,4,bot,N. Hall walked.,38,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,4,bot,N. Hall stole second.,39,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,4,bot,N. Hall advanced to third on a wild pitch.,40,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,4,bot,"V. Lucyszyn lined out to lf, sacrifice fly, RBI: N. Hall scored.",41,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,4,bot,T. Kenney grounded out to p.,42,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,4,bot,J. Nelson struck out looking.,43,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,5,top,N. Tyler to p for H. Zhang.,44,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,5,top,P. Evans popped up to 3b.,45,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,5,top,N. Evans popped up to c.,46,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,5,top,J. Duffek doubled to left field.,47,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,5,top,D. Hendrix walked.,48,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,5,top,"A. Ellison reached first on a fielding error by 3b: D. Hendrix advanced to third: J. Duffek scored, unearned.",49,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,5,top,R. Lesmeiest grounded out to ss.,50,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,5,bot,T. Noel to p for A. Rumfola.,51,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,5,bot,J. Chow lined out to p.,52,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,5,bot,Q. Feng flied out to lf.,53,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,5,bot,C. Tortorici singled to right field.,54,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,5,bot,K. Ueno grounded out to 3b.,55,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,6,top,J. Watson walked.,56,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,6,top,B. Lobello pinch ran for J. Watson.,57,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,6,top,J. Haynes doubled to right field: B. Lobello advanced to third.,58,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,6,top,H. Hoag grounded out to 1b unassisted.,59,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,6,top,"P. Evans doubled to right field, RBI: J. Haynes advanced to third: B. Lobello scored.",60,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,6,top,D. Allard to p for N. Tyler.,61,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,6,top,"N. Evans flied out to rf, sacrifice fly, RBI: P. Evans advanced to third: J. Haynes scored.",62,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,6,top,"J. Duffek singled to left field, RBI: P. Evans scored.",63,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,6,top,D. Hendrix lined out to 2b.,64,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,6,bot,B. Lobello to rf.,65,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,6,bot,I. Slate lined out to cf.,66,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,6,bot,N. Hall reached first on a fielding error by ss.,67,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,6,bot,V. Lucyszyn grounded into double play 3b to 2b to 1b: N. Hall out on the play.,68,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,7,top,"A. Ellison reached first on a throwing error by 3b, advanced to second.",69,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,7,top,R. Lesmeiest hit by pitch.,70,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,7,top,D. Earsing pinch ran for R. Lesmeiest.,71,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,7,top,B. Lobello struck out looking.,72,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597147,7,top,J. Haynes grounded into double play ss to 2b to 1b: D. Earsing out on the play.,73,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,7,bot,G. McAndrews to c for D. Earsing.,74,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,7,bot,M. Riddell pinch hit for T. Kenney.,75,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,7,bot,M. Riddell singled to center field.,76,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,7,bot,J. Nelson walked: M. Riddell advanced to second.,77,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,7,bot,J. Nelson advanced to second: M. Riddell advanced to third on a wild pitch.,78,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,7,bot,J. Chow grounded out to p.,79,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,7,bot,Q. Feng walked.,80,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,7,bot,D. Alessi to p for T. Noel.,81,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,7,bot,C. Tortorici struck out swinging.,82,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,7,bot,"K. Ueno walked, RBI: Q. Feng advanced to second: J. Nelson advanced to third: M. Riddell scored.",83,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,7,bot,"I. Slate walked, RBI: K. Ueno advanced to second: Q. Feng advanced to third: J. Nelson scored.",84,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,7,bot,M. Lewandows pinch ran for I. Slate.,85,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,7,bot,B. Walsh to p for D. Alessi.,86,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025
+6378999,597147,Hilbert Hawks,597201,Houghton Highlanders,597201,7,bot,N. Hall struck out swinging.,87,2025-04-22T00:00:00-04:00,"Houghton Baseball Stadium (Houghton, NY)",85,MBA,2025

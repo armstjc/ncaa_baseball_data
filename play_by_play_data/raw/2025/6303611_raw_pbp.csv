@@ -1,0 +1,99 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,1,top,"Tirado, A singled through the left side (3-2).",1,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,1,top,"Tirado, A advanced to second on a wild pitch.",2,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,1,top,"Tirado, A advanced to third on a passed ball.",3,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,1,top,"Travisano, M flied out to rf, SF, RBI (3-1)3a Tirado, A scored, unearned.",4,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,1,top,"Beverly, J struck out swinging (1-2).",5,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,1,top,"Hanson, C singled to right center (1-1).",6,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,1,top,"Sullivan, B singled to left field (0-2)3a Hanson, C advanced to second.",7,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,1,top,"Willi, M struck out looking (0-2).",8,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,1,bot,RISPOLI walked (3-1).,9,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,1,bot,RISPOLI advanced to second on a balk.,10,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,1,bot,"SHPUR grounded out to p, SAC, bunt (0-1)3a RISPOLI advanced to third.",11,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,1,bot,RISPOLI scored on a wild pitch.,12,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,1,bot,DANIELS struck out looking (3-2).,13,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,1,bot,DOUGHERTY lined out to 3b (3-1).,14,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,2,top,SHAW III to p for HAMBERGER.,15,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,2,top,"Kolben, R flied out to cf (3-2).",16,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,2,top,"McCarthy, R struck out swinging (0-2).",17,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,2,top,"Hill, S struck out looking (3-2).",18,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,2,bot,ROOT flied out to cf (1-1).,19,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,2,bot,PADILLA walked (3-1).,20,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,2,bot,LANE struck out swinging (1-2).,21,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,2,bot,PADILLA advanced to second on a throwing error by p.,22,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,2,bot,MACARTHUR walked (3-1).,23,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,2,bot,BILLER flied out to cf (0-0).,24,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,3,top,"Tirado, A struck out swinging (3-2).",25,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,3,top,"Travisano, M walked (3-2).",26,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,3,top,"Beverly, J flied out to rf (2-1).",27,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,3,top,"Hanson, C flied out to cf (1-2).",28,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,3,bot,"RISPOLI homered to left center, RBI (3-2).",29,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,3,bot,SHPUR tripled to left center (1-1).,30,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,3,bot,DANIELS grounded out to 1b unassisted (0-0).,31,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,3,bot,"DOUGHERTY reached on a throwing error by 1b, RBI (2-1)3a SHPUR scored.",32,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,3,bot,"DOUGHERTY out at second c to ss, caught stealing.",33,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,3,bot,ROOT hit by pitch (1-2).,34,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,3,bot,ROOT advanced to second on a wild pitch.,35,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,3,bot,ROOT advanced to third on a wild pitch.,36,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,3,bot,"PADILLA walked (3-2)3a ROOT scored on a wild pitch, unearned.",37,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,3,bot,"Jensen, M to p for Thomason, B.",38,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,3,bot,"PADILLA out at second c to ss, caught stealing.",39,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,4,top,"Sullivan, B grounded out to 2b (3-2).",40,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,4,top,"Willi, M homered to right center, RBI (0-1).",41,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,4,top,"Kolben, R flied out to cf (1-2).",42,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,4,top,"McCarthy, R doubled to right field (2-2).",43,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,4,top,"Hill, S flied out to cf (2-2).",44,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,4,bot,LANE singled to center field (1-0).,45,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,4,bot,MACARTHUR flied out to rf (2-2).,46,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,4,bot,BILLER singled to third base (0-0)3a LANE advanced to second.,47,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,4,bot,RISPOLI walked (3-2)3a BILLER advanced to second3a LANE advanced to third.,48,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,4,bot,"BILLER out at second p to 2b, picked off.",49,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,4,bot,SHPUR struck out swinging (3-2).,50,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,5,top,COOKE to p for SHAW III.,51,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,5,top,"Tirado, A hit by pitch (1-2).",52,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,5,top,"Travisano, M walked (3-2)3a Tirado, A advanced to second.",53,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,5,top,"Tirado, A out at second p to 2b, picked off.",54,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,5,top,"Beverly, J struck out looking (2-2).",55,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,5,top,"Hanson, C doubled to right field (0-0)3a Travisano, M advanced to third.",56,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,5,top,"Sullivan, B grounded out to 2b (0-2).",57,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,5,bot,"DANIELS homered down the rf line, RBI (2-2).",58,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,5,bot,DOUGHERTY flied out to cf (1-1).,59,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,5,bot,"ROOT homered to center field, inside the park, RBI (1-2).",60,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,5,bot,PADILLA singled to third base (2-1).,61,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,5,bot,LANE singled to left center3a PADILLA advanced to second.,62,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,5,bot,"MACARTHUR singled to right field, out at first rf to 2b to 1b (0-1)3a LANE advanced to second3a PADILLA advanced to third.",63,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,5,bot,"BILLER homered down the lf line, 3 RBI (2-0)3a LANE scored3a PADILLA scored.",64,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,5,bot,RISPOLI doubled to left center (1-1).,65,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,5,bot,"SHPUR singled to left field, RBI (0-2)3a RISPOLI scored.",66,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,5,bot,"Campbell, A to p for Jensen, M.",67,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,5,bot,SHPUR stole second.,68,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,5,bot,DANIELS hit by pitch (1-0).,69,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,5,bot,DANIELS stole second3a SHPUR stole third.,70,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,5,bot,DOUGHERTY hit by pitch (3-1).,71,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,5,bot,DOUGHERTY advanced to second on a wild pitch3a DANIELS advanced to third on a wild pitch3a SHPUR scored on a wild pitch.,72,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,5,bot,"Aceto, M to p for Campbell, A.",73,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,5,bot,ROOT flied out to rf (1-2).,74,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,6,top,HUTCHINSON to p for COOKE.,75,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,6,top,"Willi, M hit by pitch (0-2).",76,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,6,top,"Kolben, R popped up to 1b (2-1).",77,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,6,top,"McCarthy, R struck out looking (1-2).",78,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,6,top,"Hill, S struck out swinging (2-2).",79,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,6,bot,PADILLA lined out to ss (0-1).,80,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,6,bot,LANE struck out looking (1-2).,81,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,6,bot,MACARTHUR hit by pitch (0-0).,82,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,6,bot,MACARTHUR advanced to second on a wild pitch.,83,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,6,bot,BILLER grounded out to 1b unassisted (2-2).,84,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,7,top,PETERS to p for HUTCHINSON.,85,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,7,top,"Tirado, A struck out looking (0-2).",86,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,7,top,"Travisano, M struck out swinging (3-2).",87,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,7,top,"Schroeder, M pinch hit for Beverly, J.",88,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596595,7,top,"Schroeder, M struck out swinging (2-2).",89,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,7,bot,"Travisano, M to 3b.",90,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,7,bot,"Peters, J to ss for Schroeder, M.",91,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,7,bot,RISPOLI grounded out to ss (0-0).,92,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,7,bot,SHPUR flied out to cf (0-0).,93,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,7,bot,DANIELS doubled to left center (1-2).,94,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,7,bot,BELISARIO pinch hit for DOUGHERTY.,95,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,7,bot,BELISARIO walked (3-0).,96,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,7,bot,TIRADO pinch hit for ROOT.,97,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025
+6303611,596595,Massachusetts Minutemen,596526,UConn Huskies,596526,7,bot,"TIRADO singled up the middle, RBI (1-0)3a BELISARIO advanced to second3a DANIELS scored.",98,2025-04-22T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",1035,MBA,2025

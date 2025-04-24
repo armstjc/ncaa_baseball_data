@@ -1,0 +1,106 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,1,top,Barr flied out to rf (1-0).,1,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,1,top,"Farrell homered to left field, RBI (3-1).",2,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,1,top,Parker walked (3-1).,3,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,1,top,Parker stole second.,4,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,1,top,Lehman singled through the left side (3-2)3a Parker advanced to third.,5,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,1,top,"Quinlan singled through the left side, RBI (0-0)3a Lehman advanced to second3a Parker scored.",6,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,1,top,McKillop flied out to lf (0-0).,7,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,1,top,Delph walked (3-0)3a Quinlan advanced to second3a Lehman advanced to third.,8,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,1,top,HUTCHINSON to p for GALUSHA.,9,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,1,top,Titus grounded out to 3b unassisted (3-1).,10,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,1,bot,RISPOLI singled through the left side (0-0).,11,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,1,bot,SHPUR reached on a fielder's choice (3-2)3a RISPOLI out at second ss to 2b.,12,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,1,bot,DANIELS struck out swinging (1-2).,13,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,1,bot,SHPUR stole second.,14,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,1,bot,"DOUGHERTY singled through the right side, RBI (2-2)3a SHPUR scored.",15,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,1,bot,"DOUGHERTY out at second c to ss, caught stealing.",16,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,2,top,Schreck singled to left field (0-1).,17,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,2,top,Barr struck out looking (1-2).,18,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,2,top,Farrell flied out to lf (0-1).,19,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,2,top,Parker flied out to rf (0-1).,20,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,2,bot,ROOT popped up to 3b (1-0).,21,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,2,bot,PADILLA popped up to 2b (0-2).,22,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,2,bot,LANE struck out swinging (3-2).,23,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,3,top,Lehman hit by pitch (0-0).,24,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,3,top,Quinlan hit by pitch (3-2)3a Lehman advanced to second.,25,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,3,top,McKillop struck out looking (2-2).,26,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,3,top,Delph struck out swinging (0-2).,27,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,3,top,Titus flied out to rf (2-1).,28,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,3,bot,MACARTHUR flied out to cf (0-1).,29,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,3,bot,BILLER flied out to lf (0-1).,30,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,3,bot,RISPOLI hit by pitch (1-1).,31,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,3,bot,SHPUR struck out looking (3-2).,32,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,4,top,SPIRITO IV to p for HUTCHINSON.,33,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,4,top,"Schreck homered to right center, RBI (2-2).",34,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,4,top,Barr flied out to rf (3-1).,35,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,4,top,Farrell flied out to lf (3-2).,36,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,4,top,Parker grounded out to 3b (0-1).,37,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,4,bot,Delph to dh.,38,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,4,bot,Ates to p.,39,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,4,bot,DANIELS struck out looking (3-2).,40,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,4,bot,DOUGHERTY walked (3-0).,41,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,4,bot,ROOT fouled out to 3b (1-2).,42,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,4,bot,PADILLA flied out to rf (2-1).,43,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,5,top,CARUSO to p for SPIRITO IV.,44,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,5,top,Lehman struck out looking (1-2).,45,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,5,top,Quinlan grounded out to 3b (1-1).,46,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,5,top,McKillop struck out looking (0-2).,47,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,5,bot,LANE walked (3-2).,48,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,5,bot,MACARTHUR walked (3-2)3a LANE advanced to second.,49,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,5,bot,BILLER out at first 2b to ss to 1b (2-1)3a MACARTHUR advanced to second3a LANE advanced to third.,50,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,5,bot,"RISPOLI singled through the right side, RBI (1-1)3a MACARTHUR advanced to third3a LANE scored.",51,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,5,bot,"SHPUR flied out to cf, SF, RBI (0-0)3a MACARTHUR scored.",52,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,5,bot,"DANIELS homered to right center, 2 RBI (1-1)3a RISPOLI scored.",53,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,5,bot,DOUGHERTY grounded out to ss (2-2).,54,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,6,top,Delph struck out swinging (1-2).,55,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,6,top,ABBADESSA to p for CARUSO.,56,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,6,top,Titus struck out swinging (0-2).,57,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,6,top,Schreck singled to shortstop (3-2).,58,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,6,top,Barr flied out to cf (0-0).,59,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,6,bot,Abell to p for Ates.,60,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,6,bot,ROOT singled up the middle (3-1).,61,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,6,bot,PADILLA flied out to cf (2-1).,62,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,6,bot,LANE struck out swinging (1-2).,63,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,6,bot,MACARTHUR flied out to rf (0-0).,64,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,7,top,Farrell popped up to 2b (1-2).,65,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,7,top,Parker struck out swinging (3-2).,66,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,7,top,Lehman reached on a throwing error by 3b (3-2).,67,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,7,top,Lehman advanced to second on a wild pitch.,68,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,7,top,Quinlan grounded out to ss (1-1).,69,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,7,bot,BILLER singled to left field (0-0).,70,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,7,bot,BILLER stole second.,71,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,7,bot,RISPOLI out at first p to 2b to 1b (2-2)3a BILLER advanced to third.,72,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,7,bot,SHPUR struck out swinging (2-2).,73,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,7,bot,DANIELS intentionally walked (0-0).,74,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,7,bot,DANIELS stole second.,75,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,7,bot,DANIELS stole third3a BILLER stole home.,76,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,7,bot,DOUGHERTY struck out swinging (1-2).,77,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,8,top,FINN to p for ABBADESSA.,78,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,8,top,McKillop reached on an error by 1b (2-0).,79,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,8,top,Delph flied out to rf (0-1).,80,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,8,top,Titus singled through the left side (1-1)3a McKillop advanced to second.,81,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,8,top,Schreck struck out looking (1-2).,82,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,8,top,"Barr singled through the right side, RBI (1-1)3a Titus advanced to third3a McKillop scored, unearned.",83,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,8,top,Barr stole second.,84,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,8,top,Farrell struck out looking (0-2).,85,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,8,bot,Brownlee to p for Abell.,86,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,8,bot,ROOT popped up to ss (1-1).,87,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,8,bot,PADILLA flied out to cf (3-1).,88,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,8,bot,LANE doubled to left center (1-1).,89,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,8,bot,"MACARTHUR singled to left field, RBI (2-0)3a LANE scored.",90,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,8,bot,MINICK pinch hit for MACARTHUR.,91,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,8,bot,BILLER singled to center field (1-1)3a MINICK advanced to third.,92,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,8,bot,BILLER advanced to second on a wild pitch3a MINICK scored on a wild pitch.,93,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,8,bot,RISPOLI walked (3-1).,94,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,8,bot,SHPUR singled to third base (0-2)3a RISPOLI advanced to second3a BILLER advanced to third.,95,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,8,bot,"DANIELS homered to right field, 4 RBI (0-0)3a SHPUR scored3a RISPOLI scored3a BILLER scored.",96,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596526,8,bot,DOUGHERTY struck out swinging (3-2).,97,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,9,top,MINICK to 1b.,98,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,9,top,ALEJANDRO to p for FINN.,99,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,9,top,BELISARIO to 2b for DANIELS.,100,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,9,top,Parker singled to left field (1-0).,101,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,9,top,Lehman struck out swinging (2-2).,102,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,9,top,"Quinlan tripled to center field, RBI (2-2)3a Parker scored.",103,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,9,top,McKillop flied out to lf (0-1).,104,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025
+6303631,596702,Army West Point Black Knights,596526,UConn Huskies,596702,9,top,Delph grounded out to p (2-2).,105,2025-04-23T00:00:00-04:00,"Elliot Ballpark (Storrs, CT)",589,MBA,2025

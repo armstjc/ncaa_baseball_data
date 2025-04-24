@@ -1,0 +1,111 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,1,top,B. WEST flied out to rf (0-1 S).,1,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,1,top,K. FRETT walked (3-1 BFBBB).,2,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,1,top,J. CRESPO grounded out to 2b (1-2 KBK)3a K. FRETT advanced to second.,3,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,1,top,"A. ILDEFONSO singled through the left side, RBI (0-0)3a K. FRETT scored.",4,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,1,top,A. DEARING flied out to cf (0-0).,5,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,1,bot,McKee struck out swinging (1-2 KBSS).,6,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,1,bot,Dempsey singled to right center (0-1 K).,7,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,1,bot,Moya doubled down the lf line (1-2 KFB)3a Dempsey advanced to third.,8,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,1,bot,"Moise flied out to rf, SF, RBI (0-0)3a Moya advanced to third3a Dempsey scored.",9,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,1,bot,Hessemyer struck out swinging (3-2 KFBBBS).,10,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,2,top,Rogers to p for Mattison.,11,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,2,top,A. ULLOA lined out to lf (2-1 BBF).,12,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,2,top,C. CLEVELAND grounded out to 2b (0-1 K).,13,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,2,top,A. VELEZ struck out swinging (3-2 BBBKFS).,14,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,2,bot,Povey fouled out to 1b (2-2 BKKBF).,15,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,2,bot,Embury walked (3-0 BBBB).,16,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,2,bot,Embury advanced to second on a passed ball.,17,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,2,bot,Samuel flied out to lf (3-2 KBSBB).,18,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,2,bot,Mummau flied out to cf (1-1 KB).,19,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,3,top,Possehl to p for Rogers.,20,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,3,top,M. HERSH struck out swinging (3-2 BKBBKS).,21,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,3,top,B. WEST doubled down the lf line (1-1 BF).,22,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,3,top,"K. FRETT doubled to center field, RBI (1-1 BK)3a B. WEST scored.",23,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,3,top,J. CRESPO reached on an error by 2b (0-2 SS)3a K. FRETT advanced to third.,24,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,3,top,"A. ILDEFONSO homered, 3 RBI (3-1 KBBB)3a J. CRESPO scored, unearned3a K. FRETT scored.",25,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,3,top,A. DEARING flied out to cf (3-2 SBBBFF).,26,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,3,top,A. ULLOA doubled down the rf line (0-0).,27,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,3,top,"C. CLEVELAND singled down the lf line, RBI (1-1 KB)3a A. ULLOA scored, unearned.",28,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,3,top,Giannoni to p for Possehl.,29,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,3,top,A. VELEZ singled up the middle (1-0 B)3a C. CLEVELAND advanced to second.,30,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,3,top,M. HERSH flied out to rf (1-1 KB).,31,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,3,bot,L. RUNDE to p for J. BISHOP.,32,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,3,bot,McKee grounded out to 3b (0-1 K).,33,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,3,bot,Dempsey grounded out to 2b (2-1 KBB).,34,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,3,bot,Moya flied out to cf (2-2 BBKK).,35,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,4,top,B. WEST grounded out to 2b (1-0 B).,36,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,4,top,K. FRETT grounded out to 3b (1-2 FKB).,37,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,4,top,J. CRESPO singled up the middle (2-2 FBBK).,38,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,4,top,A. ILDEFONSO fouled out to 1b (0-2 KS).,39,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,4,bot,Moise fouled out to 1b (2-2 KFBFBF).,40,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,4,bot,Hessemyer singled up the middle (2-2 FBFB).,41,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,4,bot,Povey flied out to cf (1-0 B).,42,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,4,bot,Hessemyer advanced to second on a wild pitch.,43,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,4,bot,"Embury doubled through the left side (2-2 KBSB)3a Hessemyer advanced to third, out at home lf to c.",44,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,5,top,Kriebel to p for Giannoni.,45,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,5,top,A. DEARING walked (3-2 KKBBBB).,46,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,5,top,A. ULLOA flied out to cf (0-0).,47,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,5,top,A. DEARING advanced to second on a wild pitch.,48,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,5,top,C. CLEVELAND hit by pitch (2-0 BB).,49,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,5,top,A. VELEZ grounded into double play 2b to ss to 1b (0-1 K)3a C. CLEVELAND out on the play.,50,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,5,bot,Samuel struck out swinging (0-2 KFS).,51,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,5,bot,Mummau grounded out to ss (2-0 BB).,52,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,5,bot,McKee grounded out to 3b (0-1 K).,53,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,6,top,Pocol to p for Kriebel.,54,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,6,top,M. HERSH struck out swinging (0-2 KKS).,55,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,6,top,B. WEST lined out to cf (2-1 BBK).,56,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,6,top,K. FRETT singled to left center (1-1 SB).,57,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,6,top,K. FRETT advanced to second on a wild pitch.,58,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,6,top,J. CRESPO struck out swinging (2-2 BFSBK).,59,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,6,bot,Dempsey hit by pitch (0-1 F).,60,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,6,bot,Moya singled up the middle (3-2 FBKBB)3a Dempsey advanced to third.,61,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,6,bot,"Moise grounded out to ss, RBI (0-1 K)3a Moya advanced to second3a Dempsey scored.",62,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,6,bot,"Hessemyer singled up the middle, RBI (0-0)3a Moya scored.",63,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,6,bot,D. ECKAUS to p for L. RUNDE.,64,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,6,bot,Povey singled to first base (1-0 B)3a Hessemyer advanced to second.,65,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,6,bot,"Embury homered, 3 RBI (0-0)3a Povey scored3a Hessemyer scored.",66,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,6,bot,Samuel struck out looking (3-2 BBSFBFFFFK).,67,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,6,bot,Herb pinch hit for Mummau.,68,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,6,bot,Herb struck out looking (1-2 FSBK).,69,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,7,top,Herb to ss.,70,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,7,top,Vera to p for Pocol.,71,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,7,top,A. ILDEFONSO grounded out to ss (2-2 KBBKF).,72,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,7,top,A. DEARING walked (3-2 BSFBBB).,73,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,7,top,A. DEARING stole second.,74,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,7,top,A. ULLOA singled up the middle (3-2 BSBKB)3a A. DEARING advanced to third.,75,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,7,top,C. CLEVELAND struck out swinging (1-2 KBFS).,76,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,7,top,H. CANDELAS pinch hit for A. VELEZ.,77,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,7,top,H. CANDELAS flied out to cf (0-1 K).,78,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,7,bot,K. VALENTIN to 2b for H. CANDELAS.,79,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,7,bot,McKee singled through the right side (3-2 BKBBK).,80,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,7,bot,Dempsey doubled through the right side (1-0 B)3a McKee advanced to third.,81,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,7,bot,Moya hit by pitch (1-2 BKF).,82,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,7,bot,"Moise walked, RBI (3-2 FFBBBB)3a Moya advanced to second3a Dempsey advanced to third3a McKee scored.",83,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,7,bot,"Hessemyer singled up the middle, RBI (0-0)3a Moise advanced to second3a Moya advanced to third3a Dempsey scored.",84,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,7,bot,Povey struck out swinging (0-2 SFFFFS).,85,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,7,bot,T. CAMERON to p for D. ECKAUS.,86,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,7,bot,"Embury hit by pitch, RBI (1-2 KSB)3a Hessemyer advanced to second3a Moise advanced to third3a Moya scored.",87,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,7,bot,Gagnon to dh for Samuel.,88,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,7,bot,"Gagnon hit by pitch, RBI (0-2 KFF)3a Embury advanced to second3a Hessemyer advanced to third3a Moise scored.",89,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,7,bot,"Herb homered, 4 RBI (0-1 K)3a Gagnon scored3a Embury scored3a Hessemyer scored.",90,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,7,bot,McKee struck out looking (0-2 FKK).,91,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,7,bot,Dempsey flied out to cf (0-0).,92,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,8,top,Cheeley to p for Vera.,93,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,8,top,"M. HERSH homered, RBI (1-0 B).",94,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,8,top,B. WEST struck out swinging (2-2 FBBFFS).,95,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,8,top,"K. FRETT homered, RBI (3-1 BBBK).",96,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,8,top,J. CRESPO popped up to 3b (1-0 B).,97,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,8,top,A. ILDEFONSO grounded out to ss (2-0 BB).,98,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,8,bot,T. HAARER to p for T. CAMERON.,99,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,8,bot,Moya popped up to 3b (1-1 BK).,100,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,8,bot,Moise walked (3-0 BBBB).,101,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,8,bot,Moise stole second.,102,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,8,bot,"Hessemyer doubled through the left side, RBI (1-1 KB)3a Moise scored.",103,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,8,bot,Povey struck out swinging (0-2 KSS).,104,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,8,bot,S. TUCKER to p for T. HAARER.,105,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596473,8,bot,Embury struck out swinging (3-2 KBBKFFBFFS).,106,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,9,top,Baisley to p for Cheeley.,107,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,9,top,A. DEARING flied out to lf (1-1 FB).,108,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,9,top,A. ULLOA flied out to cf (2-2 BFFBF).,109,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025
+6379312,596544,FIU Panthers,596473,FGCU Eagles,596544,9,top,C. CLEVELAND struck out swinging (1-2 KBFS).,110,2025-04-22T00:00:00-04:00,"Swanson Stadium (Fort Myers, FL)",102,MBA,2025

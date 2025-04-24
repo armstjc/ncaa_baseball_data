@@ -1,0 +1,143 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,1,top,"Sawyer,E fouled out to 3b (3-2 FFBBFB).",1,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,1,top,"Hall,B doubled to left field (3-1 BKBB).",2,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,1,top,"Wicklund,G popped up to 2b (2-1 BBK).",3,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,1,top,"Zimmer,B grounded out to ss (0-0).",4,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,1,bot,"Sherman,H grounded out to ss (0-1 F).",5,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,1,bot,"Bittle,P walked (3-1 BFBBB).",6,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,1,bot,"McMinn,S singled through the right side (0-1 K)3a Bittle,P advanced to third.",7,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,1,bot,"Garcia,J struck out swinging (2-2 BFBKS).",8,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,1,bot,"Muth,K walked (3-1 BBKBB)3a McMinn,S advanced to second.",9,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,1,bot,"Shuman,N walked, RBI (3-1 BSBBB)3a Muth,K advanced to second3a McMinn,S advanced to third3a Bittle,P scored.",10,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,1,bot,"Cruse,C doubled to left field, 2 RBI (2-1 BBK)3a Shuman,N advanced to third3a Muth,K scored3a McMinn,S scored.",11,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,1,bot,"Meuli,M flied out to lf (0-1 S).",12,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,2,top,"Meiners,T grounded out to 3b (0-1 S).",13,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,2,top,"Grams,J homered to center field, RBI (2-0 BB).",14,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,2,top,"Vargas,J hit by pitch (0-0).",15,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,2,top,"Baehler,J grounded into double play ss to 1b (3-2 BKBBK)3a Vargas,J out on the play.",16,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,2,bot,"Toone,H singled to left field (1-1 BK).",17,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,2,bot,"Sherman,H struck out swinging (0-2 KFS).",18,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,2,bot,"Bittle,P homered to left field, 2 RBI (1-0 B)3a Toone,H scored.",19,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,2,bot,"McMinn,S walked (3-0 BBBB).",20,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,2,bot,"Garcia,J flied out to ss (2-1 BBF).",21,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,2,bot,"Muth,K walked (3-2 BSBFBB)3a McMinn,S advanced to second.",22,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,2,bot,"Shuman,N singled down the lf line, RBI (2-2 BFBK)3a Muth,K advanced to third3a McMinn,S scored.",23,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,2,bot,"Cruse,C walked (3-2 BBBKSB)3a Shuman,N advanced to second.",24,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,2,bot,"Meuli,M lined out to ss (1-1 BK).",25,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,3,top,"Safranski,P popped up to 2b (2-2 BBFS).",26,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,3,top,"Sawyer,E singled to right center (0-2 KK).",27,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,3,top,"Hall,B walked (3-0 BBBB)3a Sawyer,E advanced to second.",28,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,3,top,"Wicklund,G singled through the right side (2-0 BB)3a Hall,B advanced to second3a Sawyer,E advanced to third.",29,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,3,top,"Zimmer,B walked, RBI (3-2 BFBBKB)3a Wicklund,G advanced to second3a Hall,B advanced to third3a Sawyer,E scored.",30,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,3,top,"Meiners,T infield fly to ss (1-2 FKFB).",31,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,3,top,"Grams,J singled up the middle, 2 RBI (0-1 K)3a Zimmer,B advanced to second3a Wicklund,G scored3a Hall,B scored.",32,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,3,top,"Apps,P to p for Vaughn,B.",33,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,3,top,"Vargas,J walked (3-2 BBBKFB)3a Grams,J advanced to second3a Zimmer,B advanced to third.",34,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,3,top,"Baehler,J flied out to rf (2-2 BKBF).",35,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,3,bot,"Toone,H walked (3-2 BBKBFB).",36,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,3,bot,"Sherman,H homered to left field, 2 RBI (2-2 KBBF)3a Toone,H scored.",37,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,3,bot,"Glowacki,T to p for Marhefke,S.",38,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,3,bot,"Bittle,P lined out to 3b (2-1 FBB).",39,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,3,bot,"McMinn,S walked (3-1 BBFBB).",40,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,3,bot,"Garcia,J struck out looking (2-2 FBBKK).",41,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,3,bot,"Muth,K struck out swinging (0-2 FKS).",42,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,4,top,"Safranski,P grounded out to 3b (2-2 FBBS).",43,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,4,top,"Sawyer,E grounded out to 2b (1-2 FBFFF).",44,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,4,top,"Hall,B grounded out to 1b unassisted (1-2 KBK).",45,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,4,bot,"Shuman,N struck out looking (0-2 SKK).",46,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,4,bot,"Cruse,C struck out looking (3-2 KKBBBK).",47,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,4,bot,"Meuli,M walked (3-2 BBBKKB).",48,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,4,bot,"Meuli,M advanced to second on a passed ball.",49,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,4,bot,"Meuli,M advanced to third on a passed ball.",50,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,4,bot,"Toone,H walked (3-1 KBBBB).",51,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,4,bot,"Toone,H stole second.",52,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,4,bot,"Sherman,H flied out to rf (1-2 BKK).",53,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,5,top,"Wicklund,G struck out swinging (3-2 SBBSBFS).",54,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,5,top,"Zimmer,B homered to center field, RBI (0-1 K).",55,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,5,top,"Meiners,T struck out looking (0-2 KKK).",56,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,5,top,"Grams,J walked (3-2 KBBKBB).",57,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,5,top,"Vargas,J struck out swinging (0-2 SKS).",58,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,5,bot,"Bittle,P fouled out to 3b (2-1 BBK).",59,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,5,bot,"McMinn,S walked (3-1 BBBKB).",60,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,5,bot,"Garcia,J walked (3-2 BBSBKB)3a McMinn,S advanced to second.",61,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,5,bot,"Garcia,J advanced to second on a wild pitch3a McMinn,S advanced to third on a wild pitch.",62,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,5,bot,"Muth,K lined out to 3b (3-2 SBBFBF).",63,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,5,bot,"Shuman,N struck out looking (1-2 BSKK).",64,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,6,top,"Baehler,J flied out to cf (1-1 KB).",65,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,6,top,"Safranski,P struck out swinging (1-2 KBFS).",66,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,6,top,"Sawyer,E walked (3-2 KBFBBB).",67,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,6,top,"Hall,B fouled out to 1b (2-1 BBK).",68,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,6,bot,"Cruse,C struck out swinging (2-2 KSBBS).",69,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,6,bot,"Meuli,M walked (3-0 BBBB).",70,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,6,bot,"Toone,H hit by pitch (1-2 FKFB)3a Meuli,M advanced to second.",71,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,6,bot,"Sherman,H flied out to lf (0-2 SF)3a Meuli,M advanced to third.",72,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,6,bot,"Toone,H stole second.",73,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,6,bot,"Bittle,P walked (3-1 BBBKB).",74,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,6,bot,"McMinn,S flied out to lf (3-2 BKBBS).",75,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,7,top,"Barnes,M to p for Apps,P.",76,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,7,top,"Wicklund,G popped up to 3b (1-1 KB).",77,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,7,top,"Zimmer,B hit by pitch (2-0 BB).",78,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,7,top,"Meiners,T singled through the left side (1-1 KB)3a Zimmer,B advanced to second.",79,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,7,top,"Grams,J walked (3-1 KBBBB)3a Meiners,T advanced to second3a Zimmer,B advanced to third.",80,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,7,top,"Vargas,J reached on a fielder's choice (2-0 BB)3a Grams,J advanced to second3a Meiners,T advanced to third3a Zimmer,B scored on a fielding error by c, assist by 3b, unearned.",81,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,7,top,"Baehler,J popped up to 2b, SF, RBI (0-1 K)3a Meiners,T scored.",82,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,7,top,"Safranski,P walked (3-0 BBBB)3a Vargas,J advanced to second3a Grams,J advanced to third.",83,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,7,top,"Aubuchon,L to p for Barnes,M.",84,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,7,top,"Sawyer,E lined out to 2b (0-1 F).",85,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,7,bot,"Powell,C to p for Glowacki,T.",86,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,7,bot,"Garcia,J homered to left field, RBI (0-2 SF).",87,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,7,bot,"Muth,K struck out swinging (2-2 BSFBS).",88,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,7,bot,"Shuman,N walked (3-0 BBBB).",89,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,7,bot,"Cruse,C flied out to ss down the lf line (2-0 BB).",90,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,7,bot,"Shuman,N advanced to second on a wild pitch.",91,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,7,bot,"Meuli,M grounded out to 3b (2-2 KKBB).",92,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,8,top,"Hall,B singled to center field (0-2 KF).",93,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,8,top,"Wicklund,G flied out to lf (2-2 BBKS).",94,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,8,top,"Zimmer,B walked (3-1 BBFBB)3a Hall,B advanced to second.",95,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,8,top,"Keeney,A to p for Aubuchon,L.",96,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,8,top,"Meiners,T grounded into double play 3b to 2b to 1b (2-2 BKBK)3a Zimmer,B out on the play.",97,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,8,bot,"Kiburis,W to p for Powell,C.",98,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,8,bot,"Toone,H singled to right center (1-0 B).",99,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,8,bot,"Sherman,H flied out to lf (1-0 B).",100,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,8,bot,"Bittle,P popped up to 1b (0-1 K).",101,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,8,bot,"McMinn,S homered to center field, 2 RBI (0-1 S)3a Toone,H scored.",102,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,8,bot,"Garcia,J struck out looking (0-2 SKK).",103,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,9,top,"Grams,J singled to right center (2-1 BBK).",104,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,9,top,"Vargas,J walked (3-1 BBBKB)3a Grams,J advanced to second.",105,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,9,top,"Humphrey,B to p for Keeney,A.",106,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,9,top,"Baehler,J walked (3-0 BBBB)3a Vargas,J advanced to second3a Grams,J advanced to third.",107,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,9,top,"Wallin,E pinch ran for Baehler,J.",108,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,9,top,"Hoodjer,J pinch hit for Safranski,P.",109,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,9,top,"Hoodjer,J singled to center field, RBI (2-2 BKBK)3a Wallin,E advanced to second3a Vargas,J advanced to third3a Grams,J scored.",110,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,9,top,"Sawyer,E singled to left field, 2 RBI (1-2 FKB)3a Hoodjer,J advanced to second3a Wallin,E scored3a Vargas,J scored.",111,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,9,top,"Sawyer,E advanced to second on a passed ball3a Hoodjer,J advanced to third on a passed ball.",112,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,9,top,"Hall,B struck out looking (3-2 FBBBFK).",113,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,9,top,"Wicklund,G flied out to cf, SF, RBI (0-0)3a Sawyer,E advanced to third3a Hoodjer,J scored, unearned.",114,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,9,top,"Zimmer,B struck out swinging (2-2 BKFBS).",115,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,9,bot,"Stellmacher to c for Wallin,E.",116,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,9,bot,"Hoodjer,J to lf.",117,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,9,bot,"Muth,K reached on a throwing error by ss (1-1 BS).",118,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,9,bot,"Shuman,N hit by pitch (2-1 SBB)3a Muth,K advanced to second.",119,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,9,bot,"Cruse,C fouled out to 3b, bunt (0-0).",120,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,9,bot,"Meuli,M flied out to cf (1-2 BFKFF).",121,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,9,bot,"Toone,H flied out to rf (2-2 BFKBF).",122,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,10,top,"Rhorer,A to p for Humphrey,B.",123,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,10,top,"Meiners,T homered to right center, RBI (2-0 BB).",124,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,10,top,"Grams,J grounded out to p (2-2 BKFB).",125,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,10,top,"Vargas,J walked (3-0 BBBB).",126,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,10,top,"Barnes,J to p for Rhorer,A.",127,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,10,top,Stellmacher lined out to lf (1-1 BK).,128,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,10,top,"Hoodjer,J walked (3-1 BKBBB)3a Vargas,J advanced to second.",129,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,10,top,"Sawyer,E doubled to left center, 2 RBI (2-0 BB)3a Hoodjer,J scored3a Vargas,J scored.",130,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,10,top,"Hall,B hit by pitch (2-1 KBB).",131,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,10,top,"Geitz, G to p for Barnes,J.",132,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,10,top,"Wicklund,G homered to center field, 3 RBI (1-0 B)3a Hall,B scored3a Sawyer,E scored.",133,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,10,top,"Zimmer,B singled to left center (0-2 KK).",134,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,10,top,"Meiners,T homered to left center, 2 RBI (0-0)3a Zimmer,B scored.",135,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,10,top,"Hrncir,K pinch hit for Grams,J.",136,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596942,10,top,"Hrncir,K fouled out to 1b (3-2 BSSBFBF).",137,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,10,bot,"Hrncir,K to ss.",138,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,10,bot,"Sherman,H fouled out to p (1-0 B).",139,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,10,bot,"Bittle,P singled to shortstop (1-2 FBF).",140,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,10,bot,"McMinn,S grounded out to c (0-1 F)3a Bittle,P advanced to second.",141,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025
+6346877,596942,Upper Iowa Peacocks,596822,McKendree Bearcats,596822,10,bot,"Garcia,J struck out swinging (1-2 BFSFS).",142,2025-04-13T00:00:00-04:00,"Hypes Field (Lebanon, IL)",79,MBA,2025

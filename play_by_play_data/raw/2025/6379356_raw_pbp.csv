@@ -1,0 +1,91 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,1,top,E. Balingit singled to right field.,1,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,1,top,"G. DeBenedet grounded out to 3b, SAC3a E. Balingit advanced to second.",2,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,1,top,C. Coulter struck out swinging.,3,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,1,top,G. Strube out at first 1b to p.,4,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,1,bot,D. Kamihara walked.,5,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,1,bot,D. Kamihara stole second.,6,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,1,bot,M. Murashige struck out swinging.,7,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,1,bot,R. Spero walked.,8,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,1,bot,R. Spero stole second3a D. Kamihara stole third.,9,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,1,bot,"K. Krebs homered, 3 RBI3a R. Spero scored3a D. Kamihara scored.",10,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,1,bot,M. Churchill struck out swinging.,11,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,1,bot,J. O'Brien struck out swinging.,12,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,2,top,B. Tokushima singled to shortstop.,13,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,2,top,M. Eastman reached on a fielder's choice3a B. Tokushima out at second ss to 2b.,14,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,2,top,A. Stalwick struck out swinging.,15,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,2,top,N. Takayama grounded out to 2b.,16,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,2,bot,C. Hirano struck out looking.,17,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,2,bot,S. Murphy flied out to cf.,18,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,2,bot,C. Ueyama struck out looking.,19,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,3,top,D. Hamburg grounded out to ss.,20,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,3,top,E. Balingit singled to left field.,21,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,3,top,G. DeBenedet struck out swinging.,22,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,3,top,C. Coulter flied out to lf.,23,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,3,bot,D. Kamihara walked.,24,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,3,bot,M. Murashige reached on a fielder's choice3a D. Kamihara out at second 2b unassisted.,25,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,3,bot,R. Spero struck out swinging.,26,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,3,bot,M. Murashige stole second.,27,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,3,bot,M. Murashige advanced to third on an error by p.,28,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,3,bot,K. Krebs struck out swinging.,29,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,4,top,G. Strube flied out to lf.,30,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,4,top,B. Tokushima grounded out to ss.,31,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,4,top,M. Eastman walked.,32,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,4,top,A. Stalwick lined out to cf.,33,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,4,bot,M. Churchill walked.,34,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,4,bot,L. Plenert to p for L. Vrable.,35,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,4,bot,J. O'Brien reached on a fielder's choice3a M. Churchill out at second 2b to ss.,36,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,4,bot,C. Hirano singled to right field3a J. O'Brien advanced to second.,37,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,4,bot,S. Murphy struck out swinging.,38,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,4,bot,C. Ueyama flied out to rf.,39,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,5,top,N. Takayama walked.,40,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,5,top,"D. Hamburg grounded out to p, SAC3a N. Takayama advanced to second.",41,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,5,top,E. Balingit struck out swinging.,42,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,5,top,G. DeBenedet walked.,43,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,5,top,H. Eschliman to p for P. Crockett.,44,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,5,top,C. Coulter lined out to cf.,45,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,5,bot,D. Kamihara struck out swinging.,46,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,5,bot,M. Murashige singled to shortstop.,47,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,5,bot,"M. Murashige stole second, advanced to third.",48,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,5,bot,R. Spero walked.,49,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,5,bot,R. Spero stole second3a M. Murashige stole home.,50,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,5,bot,"K. Krebs doubled3a R. Spero advanced to third, out at home lf to c.",51,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,5,bot,M. Churchill struck out looking.,52,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,6,top,G. Strube flied out to rf.,53,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,6,top,B. Tokushima struck out swinging.,54,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,6,top,M. Eastman struck out looking.,55,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,6,bot,J. O'Brien flied out to lf down the lf line.,56,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,6,bot,C. Hirano singled to pitcher.,57,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,6,bot,"S. Murphy doubled down the lf line, RBI3a C. Hirano scored.",58,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,6,bot,C. Ueyama lined out to lf.,59,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,6,bot,D. Kamihara popped up to 2b.,60,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,7,top,E. Rattie to p for H. Eschliman.,61,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,7,top,A. Stalwick struck out swinging.,62,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,7,top,N. Takayama struck out swinging.,63,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,7,top,D. Hamburg lined out to cf.,64,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,7,bot,R. Edwards to p for L. Plenert.,65,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,7,bot,"M. Murashige reached first on an error by lf, advanced to second.",66,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,7,bot,"R. Spero singled to right field, RBI3a M. Murashige scored, unearned.",67,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,7,bot,"K. Krebs homered, 2 RBI3a R. Spero scored, unearned.",68,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,7,bot,M. Churchill flied out to lf.,69,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,7,bot,J. O'Brien popped up to 2b.,70,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,7,bot,C. Hirano singled to left field.,71,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,7,bot,S. Murphy popped up to 1b.,72,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,8,top,M. Murashige to 2b.,73,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,8,top,E. Nakamura to 3b for K. Krebs.,74,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,8,top,B. Blackwell to p for E. Rattie.,75,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,8,top,E. Balingit struck out swinging.,76,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,8,top,G. DeBenedet lined out to rf.,77,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,8,top,C. Coulter flied out to rf.,78,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,8,bot,S. Johnson to p for R. Edwards.,79,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,8,bot,C. Ueyama singled to right center.,80,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,8,bot,"C. Ueyama stole second, advanced to third.",81,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,8,bot,"D. Kamihara flied out to lf, sacrifice fly, RBI3a C. Ueyama scored.",82,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,8,bot,M. Murashige grounded out to ss.,83,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,8,bot,A. Sullivan pinch hit for R. Spero.,84,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597005,8,bot,A. Sullivan grounded out to p.,85,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,9,top,A. Sullivan to rf.,86,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,9,top,Z. Robman to p for B. Blackwell.,87,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,9,top,G. Strube grounded out to ss.,88,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,9,top,B. Tokushima lined out to rf.,89,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025
+6379356,597108,George Fox Bruins,597005,Puget Sound Loggers,597108,9,top,M. Eastman struck out swinging.,90,2025-04-22T00:00:00-04:00,"Logger Baseball Field (Tacoma, WA)",0,MBA,2025

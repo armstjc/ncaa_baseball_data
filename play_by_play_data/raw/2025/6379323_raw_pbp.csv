@@ -1,0 +1,96 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,1,top,K. Peters flied out to cf.,1,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,1,top,J. Theodore struck out swinging.,2,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,1,top,E. Evola hit by pitch.,3,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,1,top,"R. LaRocco lined out to p, bunt.",4,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,1,bot,B. Buday grounded out to ss.,5,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,1,bot,C. Couillard grounded out to 3b.,6,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,1,bot,N. Reichman singled through the left side.,7,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,1,bot,S. Pellegrin singled through the left side; N. Reichman advanced to second.,8,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,1,bot,B. Mazone walked; S. Pellegrin advanced to second; N. Reichman advanced to third.,9,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,1,bot,W. Taigen flied out to 2b to right field.,10,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,2,top,C. McBride fouled out to c.,11,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,2,top,"R. Hartz struck out swinging, out at first c to 1b.",12,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,2,top,B. Stedman struck out looking.,13,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,2,bot,W. Yarbro flied out to cf.,14,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,2,bot,A. Equale flied out to lf.,15,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,2,bot,K. Stephens grounded out to 1b unassisted.,16,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,3,top,A. Gomez to p for P. Guthrie.,17,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,3,top,D. Groves flied out to cf to left center.,18,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,3,top,J. Charlson struck out swinging.,19,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,3,top,K. Peters grounded out to ss.,20,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,3,bot,B. Buday doubled to left center.,21,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,3,bot,D. Groves to c for A. Simmons.,22,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,3,bot,"C. Couillard reached first on a throwing error by ss, advanced to third on the error; B. Buday advanced to third, scored on the error.",23,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,3,bot,N. Reichman walked.,24,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,3,bot,"S. Pellegrin flied out to rf, SAC, RBI; C. Couillard scored, unearned.",25,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,3,bot,B. Mazone doubled to right field; N. Reichman advanced to third.,26,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,3,bot,W. Taigen struck out swinging.,27,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,3,bot,W. Yarbro struck out looking.,28,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,4,top,J. Theodore singled to center field.,29,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,4,top,J. Theodore stole second.,30,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,4,top,"E. Evola doubled down the rf line, RBI; J. Theodore scored.",31,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,4,top,T. Stevenson to p for A. Gomez.,32,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,4,top,R. LaRocco popped up to ss.,33,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,4,top,C. McBride struck out looking.,34,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,4,top,R. Hartz walked.,35,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,4,top,B. Stedman walked; R. Hartz advanced to second; E. Evola advanced to third.,36,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,4,top,D. Groves reached on a fielder's choice; B. Stedman out at second ss to 2b.,37,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,4,bot,A. Equale doubled to right center.,38,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,4,bot,K. Stephens reached first on a fielding error by 1b; A. Equale advanced to third.,39,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,4,bot,"K. Stephens advanced to second on a throwing error by p, failed pickoff attempt, advanced to third; A. Equale scored on the error.",40,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,4,bot,"B. Buday singled up the middle, RBI; K. Stephens scored, unearned.",41,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,4,bot,"C. Couillard doubled to left field, RBI; B. Buday scored.",42,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,4,bot,J. Wilson to p for J. Miller.,43,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,4,bot,N. Reichman hit by pitch.,44,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,4,bot,S. Pellegrin walked; N. Reichman advanced to second; C. Couillard advanced to third.,45,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,4,bot,C. Johnson to p for J. Wilson.,46,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,4,bot,B. Mazone struck out swinging.,47,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,4,bot,J. Erpenbeck pinch hit for W. Taigen.,48,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,4,bot,"J. Erpenbeck walked, RBI; S. Pellegrin advanced to second; N. Reichman advanced to third; C. Couillard scored.",49,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,4,bot,"W. Yarbro walked, RBI; J. Erpenbeck advanced to second; S. Pellegrin advanced to third; N. Reichman scored.",50,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,4,bot,E. Luzum to p for C. Johnson.,51,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,4,bot,A. Equale struck out looking.,52,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,4,bot,K. Stephens reached on a fielder's choice; W. Yarbro out at second 3b to 2b.,53,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,5,top,J. Erpenbeck to lf.,54,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,5,top,J. Charlson struck out swinging.,55,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,5,top,K. Peters popped up to 2b.,56,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,5,top,J. Theodore doubled to left center.,57,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,5,top,E. Evola grounded out to 3b.,58,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,5,bot,B. Buday singled to second base.,59,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,5,bot,C. Couillard grounded into double play 2b to ss to 1b; B. Buday out on the play.,60,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,5,bot,N. Reichman flied out to lf.,61,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,6,top,R. LaRocco hit by pitch.,62,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,6,top,M. Quemuel-L to p for T. Stevenson.,63,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,6,top,C. McBride out at first ss to 2b; R. LaRocco advanced to second.,64,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,6,top,R. Hartz reached first on a throwing error by 3b; R. LaRocco advanced to third on the throw.,65,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,6,top,"B. Stedman flied out to rf, sacrifice fly, RBI; R. LaRocco scored, unearned.",66,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,6,top,D. Groves reached on a fielder's choice; R. Hartz out at second ss to 2b.,67,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,6,bot,S. Pellegrin grounded out to c.,68,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,6,bot,B. Mazone grounded out to 2b.,69,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,6,bot,J. Erpenbeck fouled out to 1b.,70,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,7,top,C. Hailstone pinch hit for J. Charlson.,71,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,7,top,C. Hailstone struck out looking.,72,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,7,top,K. Peters singled up the middle.,73,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,7,top,J. Theodore grounded out to 2b; K. Peters advanced to second.,74,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,7,top,E. Evola grounded out to 1b unassisted.,75,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,7,bot,C. Hailstone to 2b.,76,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,7,bot,C. Greene to dh for W. Yarbro.,77,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,7,bot,C. Greene singled to right center.,78,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,7,bot,A. Equale grounded into double play 2b to ss to 1b; C. Greene out on the play.,79,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,7,bot,K. Stephens singled through the left side.,80,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,7,bot,B. Buday grounded out to ss.,81,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,8,top,R. LaRocco popped up to 2b.,82,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,8,top,C. McBride struck out swinging.,83,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,8,top,R. Hartz grounded out to ss.,84,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,8,bot,N. Wrubluski to c for D. Groves.,85,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,8,bot,C. Couillard singled to right center.,86,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,8,bot,"N. Reichman homered to left field, 2 RBI; C. Couillard scored.",87,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,8,bot,S. Pellegrin fouled out to c.,88,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,8,bot,B. Mazone out at first 1b to p.,89,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597063,8,bot,J. Erpenbeck flied out to lf down the lf line.,90,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,9,top,B. Stedman grounded out to 3b.,91,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,9,top,N. Wrubluski struck out swinging.,92,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,9,top,N. Schumache pinch hit for C. Hailstone.,93,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,9,top,N. Schumache doubled to left field.,94,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025
+6379323,597064,Webster Gorloks,597063,WashU Bears,597064,9,top,K. Peters grounded out to p.,95,2025-04-22T00:00:00-04:00,"Kelly Field at Irv Utz Stadium (St. Louis, MO)",93,MBA,2025

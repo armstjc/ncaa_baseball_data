@@ -1,0 +1,66 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,1,top,Ceccarelli grounded out to 2b.,1,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,1,top,"Murtha, B. struck out swinging.",2,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,1,top,"Brown, E. struck out looking.",3,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,1,bot,E. Swidler singled to center field.,4,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,1,bot,"A. Barrist reached on an error by p, advanced to second on the throw, SAC, bunt: E. Swidler advanced to third.",5,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,1,bot,"E. Brenner flied out to cf, SF, RBI: E. Swidler scored, unearned.",6,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,1,bot,M. Colella grounded out to p.,7,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,1,bot,M. Zarrillo walked: A. Barrist advanced to third on a wild pitch.,8,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,1,bot,J. Mislan popped up to 2b.,9,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,2,top,"DePerno, T. struck out swinging.",10,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,2,top,"Izquierdo, V doubled down the rf line.",11,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,2,top,"Manning, A. struck out looking.",12,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,2,top,"Rucker, T. walked.",13,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,2,top,"Bouchard, T. walked: Rucker, T. advanced to second: Izquierdo, V advanced to third.",14,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,2,top,"Mitchell, H. walked, RBI: Bouchard, T. advanced to second: Rucker, T. advanced to third: Izquierdo, V scored.",15,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,2,top,Ceccarelli lined out to 3b.,16,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,2,bot,B. Grieve walked.,17,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,2,bot,"L. Ebbs grounded out to p, SAC, bunt: B. Grieve advanced to second.",18,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,2,bot,"T. Cashman struck out swinging, out at first c to 1b.",19,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,2,bot,"E. Swidler doubled down the lf line, RBI: B. Grieve scored.",20,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,2,bot,A. Barrist popped up to 2b.,21,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,3,top,"Murtha, B. doubled to left field.",22,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,3,top,"Murtha, B. advanced to third on a wild pitch.",23,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,3,top,"Brown, E. singled to center field, RBI: Murtha, B. scored.",24,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,3,top,"DePerno, T. grounded into double play 3b to 2b to 1b: Brown, E. out on the play.",25,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,3,top,"Izquierdo, V struck out looking.",26,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,3,bot,E. Brenner singled to right field.,27,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,3,bot,"M. Colella grounded out to p, SAC, bunt: E. Brenner advanced to second.",28,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,3,bot,"M. Zarrillo singled to right field, RBI: E. Brenner scored.",29,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,3,bot,J. Mislan popped up to 2b.,30,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,3,bot,B. Grieve flied out to rf.,31,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,4,top,"Manning, A. grounded out to 2b.",32,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,4,top,"Rucker, T. fouled out to c.",33,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,4,top,"Bouchard, T. struck out swinging, out at first c to 1b.",34,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,4,bot,L. Ebbs grounded out to ss.,35,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,4,bot,T. Cashman walked.,36,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,4,bot,E. Swidler singled to right field: T. Cashman advanced to second.,37,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,4,bot,A. Barrist struck out swinging.,38,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,4,bot,E. Brenner walked: E. Swidler advanced to second: T. Cashman advanced to third.,39,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,4,bot,M. Colella flied out to cf.,40,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,5,top,"Mitchell, H. struck out swinging.",41,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,5,top,Ceccarelli flied out to lf.,42,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,5,top,"Murtha, B. flied out to rf.",43,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,5,bot,M. Zarrillo grounded out to ss.,44,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,5,bot,J. Mislan grounded out to ss.,45,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,5,bot,B. Grieve grounded out to p.,46,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,6,top,"Brown, E. singled to center field.",47,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,6,top,"Brown, E. picked off, out at first c to 1b.",48,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,6,top,"DePerno, T. walked.",49,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,6,top,"Izquierdo, V flied out to cf.",50,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,6,top,"Manning, A. struck out swinging.",51,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,6,bot,L. Ebbs singled to left center.,52,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,6,bot,"T. Cashman out at first c to 2b, SAC, bunt: L. Ebbs advanced to second.",53,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,6,bot,E. Swidler fouled out to 1b.,54,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,6,bot,"A. Barrist singled to left field, advanced to second on the throw, RBI: L. Ebbs scored.",55,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,6,bot,E. Brenner walked.,56,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596578,6,bot,M. Colella flied out to rf.,57,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,7,top,M. Romano to p for J. Skapinetz.,58,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,7,top,"Rucker, T. singled to right field.",59,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,7,top,"Peterson, O. pinch hit for Bouchard, T..",60,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,7,top,"Peterson, O. reached on a fielder's choice: Rucker, T. out at second 3b to 2b.",61,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,7,top,"Mitchell, H. grounded out to 1b unassisted: Peterson, O. advanced to second.",62,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,7,top,"Ceccarelli singled to center field, RBI: Peterson, O. scored.",63,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,7,top,"Ditas, N. pinch ran for Ceccarelli.",64,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025
+6371599,596431,Navy Midshipmen,596578,Lafayette Leopards,596431,7,top,"Murtha, B. grounded out to 3b.",65,2025-04-13T00:00:00-04:00,"Kamine Stadium (Easton, PA)",119,MBA,2025

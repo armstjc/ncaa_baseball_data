@@ -1,0 +1,102 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,1,top,Sangalang walked.,1,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,1,top,Thorburn struck out swinging.,2,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,1,top,Paradine hit by pitch3a Sangalang advanced to second.,3,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,1,top,Sparks flied out to lf.,4,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,1,top,"Bergamotto doubled to center field, 2 RBI3a Paradine scored3a Sangalang scored.",5,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,1,top,"Brooks doubled down the lf line, RBI3a Bergamotto scored.",6,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,1,top,Paltridge flied out to cf.,7,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,1,bot,L. Myers walked.,8,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,1,bot,L. Myers advanced to second on a wild pitch.,9,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,1,bot,L. Filippi walked.,10,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,1,bot,L. Filippi advanced to second on a wild pitch3a L. Myers advanced to third on a wild pitch.,11,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,1,bot,R. Ferremi grounded out to 2b.,12,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,1,bot,J. Toby walked.,13,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,1,bot,"K. Stephens tripled to left field, 3 RBI3a J. Toby scored3a L. Filippi scored3a L. Myers scored.",14,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,1,bot,"L. McAlliste singled up the middle, RBI3a K. Stephens scored.",15,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,1,bot,Wieczorek to p for Falace.,16,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,1,bot,L. McAlliste advanced to second on a passed ball.,17,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,1,bot,L. Morris struck out swinging.,18,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,1,bot,M. Maggio walked.,19,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,1,bot,C. Loyal struck out swinging.,20,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,2,top,D'Elia walked.,21,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,2,top,Meland struck out swinging.,22,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,2,top,D'Elia stole second.,23,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,2,top,Sangalang flied out to cf.,24,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,2,top,Camacho pinch hit for Thorburn.,25,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,2,top,Camacho walked.,26,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,2,top,A. Enea to p for C. Mello.,27,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,2,top,Paradine flied out to lf.,28,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,2,bot,Camacho to cf.,29,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,2,bot,L. Myers grounded out to c.,30,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,2,bot,L. Filippi struck out swinging.,31,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,2,bot,R. Ferremi flied out to cf.,32,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,3,top,Sparks flied out to cf.,33,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,3,top,Bergamotto flied out to lf.,34,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,3,top,Brooks flied out to rf.,35,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,3,bot,J. Toby flied out to cf.,36,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,3,bot,K. Stephens popped up to 2b.,37,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,3,bot,L. McAlliste flied out to rf.,38,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,4,top,E. Nardacci to p for A. Enea.,39,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,4,top,Paltridge popped up to ss.,40,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,4,top,"D'Elia singled, bunt.",41,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,4,top,Meland doubled to right center3a D'Elia advanced to third.,42,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,4,top,"Sangalang doubled down the lf line, 2 RBI3a Meland scored3a D'Elia scored.",43,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,4,top,Camacho singled to left field3a Sangalang advanced to third.,44,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,4,top,Camacho stole second.,45,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,4,top,"Paradine singled, advanced to second on an error by rf, advanced to third, 2 RBI3a Camacho scored3a Sangalang scored.",46,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,4,top,"Sparks flied out to cf, sacrifice fly, RBI3a Paradine scored, unearned.",47,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,4,top,Bergamotto struck out looking.,48,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,4,bot,L. Morris flied out to lf.,49,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,4,bot,M. Maggio walked.,50,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,4,bot,C. Loyal struck out swinging.,51,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,4,bot,L. Myers reached on a fielder's choice3a M. Maggio out at second ss to 2b.,52,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,5,top,K. McCaffrey to p for E. Nardacci.,53,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,5,top,Brooks grounded out to 3b.,54,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,5,top,Paltridge struck out swinging.,55,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,5,top,D'Elia lined out to 2b.,56,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,5,bot,"L. Filippi homered, RBI.",57,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,5,bot,R. Ferremi flied out to lf.,58,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,5,bot,J. Toby walked.,59,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,5,bot,K. Stephens walked3a J. Toby advanced to second.,60,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,5,bot,"L. McAlliste singled through the left side, advanced to second on a throwing error by 3b, RBI3a K. Stephens advanced to second, advanced to third on the throw3a J. Toby scored.",61,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,5,bot,A. Scarabino pinch hit for L. Morris.,62,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,5,bot,A. Scarabino struck out swinging.,63,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,5,bot,"M. Maggio singled to center field, 2 RBI3a L. McAlliste scored3a K. Stephens scored.",64,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,5,bot,M. Maggio stole second.,65,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,5,bot,"C. Loyal singled, advanced to second on an error by cf, RBI3a M. Maggio scored.",66,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,5,bot,L. Myers out on batter's interference.,67,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,6,top,L. Myers to 2b.,68,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,6,top,R. Ferremi to 1b.,69,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,6,top,A. Herbst to 3b for A. Scarabino.,70,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,6,top,Meland grounded out to ss.,71,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,6,top,Sangalang singled to right field.,72,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,6,top,Camacho singled through the right side3a Sangalang advanced to second.,73,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,6,top,"Paradine singled through the right side, RBI3a Camacho advanced to third3a Sangalang scored.",74,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,6,top,M. Mariano to p for K. McCaffrey.,75,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,6,top,"Sparks singled through the right side, RBI3a Paradine advanced to second3a Camacho scored.",76,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,6,top,Bergamotto flied out to cf3a Paradine advanced to third.,77,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,6,top,Brooks grounded out to 3b.,78,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,Pincince to 1b for Paltridge.,79,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,McIntosh to p for Wieczorek.,80,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,L. Filippi flied out to rf.,81,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,R. Ferremi walked.,82,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,J. Toby hit by pitch3a R. Ferremi advanced to second.,83,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,K. Stephens hit by pitch3a J. Toby advanced to second3a R. Ferremi advanced to third.,84,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,"L. McAlliste hit by pitch, RBI3a K. Stephens advanced to second3a J. Toby advanced to third3a R. Ferremi scored.",85,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,L. Kaleb pinch ran for L. McAlliste.,86,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,"A. Herbst hit by pitch, RBI3a L. Kaleb advanced to second3a K. Stephens advanced to third3a J. Toby scored.",87,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,Glickman to p for McIntosh.,88,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,"M. Maggio walked, RBI3a A. Herbst advanced to second3a L. Kaleb advanced to third3a K. Stephens scored.",89,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,"C. Loyal hit by pitch, RBI3a M. Maggio advanced to second3a A. Herbst advanced to third3a L. Kaleb scored.",90,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,"L. Myers walked, RBI3a C. Loyal advanced to second3a M. Maggio advanced to third3a A. Herbst scored.",91,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,"L. Filippi walked, RBI3a L. Myers advanced to second3a C. Loyal advanced to third3a M. Maggio scored.",92,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,Tilton to p for Glickman.,93,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,"R. Ferremi tripled to center field, 3 RBI3a L. Filippi scored3a L. Myers scored3a C. Loyal scored.",94,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,J. Toby grounded out to 1b unassisted.,95,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596482,6,bot,K. Stephens flied out to cf.,96,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,7,top,Pincince doubled down the lf line.,97,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,7,top,D'Elia grounded out to 1b unassisted3a Pincince advanced to third.,98,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,7,top,Meland struck out swinging.,99,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,7,top,"Pincince scored on a passed ball, unearned.",100,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025
+6379339,596675,Siena Saints,596482,UAlbany Great Danes,596675,7,top,Sangalang grounded out to 2b.,101,2025-04-22T00:00:00-04:00,"Varsity field (Albany, NY)",152,MBA,2025

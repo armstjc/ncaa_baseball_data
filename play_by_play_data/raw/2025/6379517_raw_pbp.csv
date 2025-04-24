@@ -1,0 +1,132 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,1,top,Omar Morillo singled to center field (0-0).,1,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,1,top,Crixtian Tav walked (3-2 BSBBKB)3a Omar Morillo advanced to second.,2,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,1,top,"Jared Campbe homered to left center, 3 RBI (0-0)3a Crixtian Tav scored3a Omar Morillo scored.",3,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,1,top,Isaac Santan flied out to rf (2-2 SBFB).,4,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,1,top,Chris Willia struck out swinging (1-2 SFFBS).,5,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,1,top,Joseph Pilew grounded out to ss (2-1 BKB).,6,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,1,bot,J. Whalen grounded out to ss (2-0 BB).,7,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,1,bot,O. Henne hit by pitch (2-2 BKBF).,8,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,1,bot,O. Henne stole second.,9,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,1,bot,B. McGuire struck out looking (0-2 KFK).,10,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,1,bot,C. Ahr lined out to lf (1-1 KB).,11,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,2,top,Wechtenhiser to p for J. Minaya.,12,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,2,top,Trevor Jones grounded out to ss (0-1 F).,13,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,2,top,Luis Gonzale singled to center field (2-1 KBB).,14,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,2,top,Luis Gonzale advanced to second on a wild pitch.,15,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,2,top,Jordon Campb walked (3-0 BBBB).,16,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,2,top,"Omar Morillo singled through the right side, RBI (0-1 K)3a Jordon Campb advanced to third3a Luis Gonzale scored.",17,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,2,top,Crixtian Tav hit by pitch (0-1 F)3a Omar Morillo advanced to second.,18,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,2,top,"Jared Campbe walked, RBI (3-2 BBSBKB)3a Crixtian Tav advanced to second3a Omar Morillo advanced to third3a Jordon Campb scored.",19,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,2,top,"Isaac Santan doubled to right field, 2 RBI (2-0 BB)3a Jared Campbe advanced to third3a Crixtian Tav scored3a Omar Morillo scored.",20,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,2,top,Chris Willia walked (3-0 BBBB).,21,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,2,top,S. Williams to p for Wechtenhiser.,22,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,2,top,Joseph Pilew struck out swinging (3-2 BKBBFFS).,23,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,2,top,Trevor Jones grounded out to 1b unassisted (0-0).,24,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,2,bot,"J. Haynes struck out swinging, out at first c to 1b (0-2 FFS).",25,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,2,bot,M. Frazetta popped up to p (2-2 BBFS).,26,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,2,bot,M. Black doubled to right center (0-0).,27,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,2,bot,G. Wheaton popped up to rf (3-2 BFFBB).,28,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,3,top,Luis Gonzale grounded out to ss (0-2 KSFF).,29,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,3,top,Jordon Campb popped up to rf (0-1 K).,30,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,3,top,Omar Morillo grounded out to 2b (2-2 BKFB).,31,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,3,bot,O. Yoder hit by pitch (2-2 BKKBF).,32,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,3,bot,J. Whalen flied out to rf (1-0 B).,33,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,3,bot,"O. Henne tripled to right center, RBI (0-0)3a O. Yoder scored.",34,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,3,bot,B. McGuire reached on a fielder's choice (0-1 F)3a O. Henne out at home p to c.,35,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,3,bot,C. Ahr struck out swinging (1-2 FFBS).,36,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,4,top,Crixtian Tav grounded out to p (1-2 BFK).,37,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,4,top,Jared Campbe reached on a fielding error by ss (0-0).,38,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,4,top,Isaac Santan singled through the left side (0-0)3a Jared Campbe advanced to second.,39,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,4,top,"Chris Willia doubled down the rf line, 2 RBI (1-2 SBF)3a Isaac Santan scored3a Jared Campbe scored, unearned.",40,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,4,top,Joseph Pilew struck out swinging (2-2 KBBKFS).,41,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,4,top,Trevor Jones grounded out to ss (0-1 S).,42,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,4,bot,Logan Creame to p for Brandon Clif.,43,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,4,bot,J. Haynes struck out swinging (2-2 KBBSS).,44,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,4,bot,M. Frazetta struck out looking (3-2 FBBFBK).,45,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,4,bot,M. Black tripled to left center (3-2 BFKBBF).,46,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,4,bot,G. Wheaton flied out to cf (0-1 S).,47,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,5,top,H. Fetchik to c for M. Black.,48,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,5,top,Luis Gonzale struck out swinging (1-2 SKBS).,49,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,5,top,Jordon Campb singled to left field (1-1 BS).,50,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,5,top,Omar Morillo grounded into double play 2b to ss to 1b (1-1 BF)3a Jordon Campb out on the play.,51,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,5,bot,O. Yoder reached on a fielding error by ss (2-0 BB).,52,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,5,bot,O. Yoder stole second.,53,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,5,bot,J. Whalen struck out looking (1-2 KKBK).,54,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,5,bot,O. Yoder stole third.,55,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,5,bot,"O. Henne lined out to cf, SF, RBI (2-1 KBB)3a O. Yoder scored, unearned.",56,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,5,bot,B. McGuire lined out to lf (1-0 B).,57,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,6,top,Crixtian Tav hit by pitch (0-0).,58,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,6,top,Jared Campbe reached on a fielder's choice (0-1 K)3a Crixtian Tav out at second 3b to 2b.,59,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,6,top,Isaac Santan walked (3-1 BBBKB)3a Jared Campbe advanced to second.,60,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,6,top,J. Pletcher to p for S. Williams.,61,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,6,top,Chris Willia hit by pitch (1-1 SB)3a Isaac Santan advanced to second3a Jared Campbe advanced to third.,62,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,6,top,"Joseph Pilew walked, RBI (3-0 BBBB)3a Chris Willia advanced to second3a Isaac Santan advanced to third3a Jared Campbe scored.",63,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,6,top,"Trevor Jones reached on a fielder's choice, RBI (1-1 KB)3a Joseph Pilew out at second 2b to ss3a Chris Willia advanced to third3a Isaac Santan scored.",64,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,6,top,Trevor Jones stole second.,65,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,6,top,Luis Gonzale hit by pitch (0-1 K).,66,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,6,top,"Jordon Campb walked, RBI (3-1 BBBKB)3a Luis Gonzale advanced to second3a Trevor Jones advanced to third3a Chris Willia scored.",67,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,6,top,B. Kuzior to p for J. Pletcher.,68,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,6,top,Omar Morillo struck out swinging (0-2 KFS).,69,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,6,bot,Paul Ruiz to p for Logan Creame.,70,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,6,bot,C. Ahr grounded out to 1b unassisted (1-1 BF).,71,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,6,bot,H. Boebel pinch hit for J. Haynes.,72,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,6,bot,H. Boebel walked (3-1 BBBKB).,73,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,6,bot,M. Frazetta singled down the lf line (2-2 BBFF)3a H. Boebel advanced to second.,74,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,6,bot,H. Fetchik walked (3-1 BSBBB)3a M. Frazetta advanced to second3a H. Boebel advanced to third.,75,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,6,bot,Samuel Georg to p for Paul Ruiz.,76,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,6,bot,"G. Wheaton walked, RBI (3-0 BBBB)3a H. Fetchik advanced to second3a M. Frazetta advanced to third3a H. Boebel scored.",77,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,6,bot,O. Yoder struck out swinging (2-2 KBKBFS).,78,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,6,bot,N. Dorinsky pinch hit for J. Whalen.,79,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,6,bot,N. Dorinsky reached on a fielder's choice (0-0)3a G. Wheaton out at second 3b to 2b.,80,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,7,top,N. Dorinsky to lf.,81,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,7,top,J. Fiedor to ss for O. Henne.,82,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,7,top,M. Gregos to cf for C. Ahr.,83,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,7,top,H. Boebel to dh.,84,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,7,top,Crixtian Tav singled to right field (2-2 FBBF).,85,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,7,top,Jared Campbe grounded out to 1b unassisted (2-2 BKKB)3a Crixtian Tav advanced to second.,86,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,7,top,Isaac Santan struck out swinging (0-2 FFFS).,87,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,7,top,Chris Willia struck out swinging (0-2 KSS).,88,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,7,bot,J. Fiedor struck out looking (3-2 BBFFBK).,89,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,7,bot,B. McGuire doubled to left center (3-1 BSBB).,90,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,7,bot,C. Colwell pinch ran for B. McGuire.,91,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,7,bot,M. Gregos popped up to cf (1-1 FB).,92,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,7,bot,H. Boebel grounded out to 1b unassisted (0-0).,93,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,8,top,C. Colwell to 3b.,94,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,8,top,T. Buttari to p for B. Kuzior.,95,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,8,top,Joseph Pilew singled to left center (1-0 B).,96,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,8,top,Trevor Jones reached on a fielder's choice (1-0 B)3a Joseph Pilew out at second 3b to 2b.,97,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,8,top,Luis Gonzale lined out to cf (1-0 B).,98,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,8,top,Jordon Campb struck out swinging (0-2 KSS).,99,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,8,bot,Jonathan Ram to p for Samuel Georg.,100,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,8,bot,M. Frazetta singled through the left side (1-0 B).,101,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,8,bot,M. Frazetta stole second.,102,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,8,bot,H. Fetchik struck out looking (0-2 FKK).,103,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,8,bot,G. Wheaton struck out swinging (1-2 KSFBS).,104,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,8,bot,O. Yoder hit by pitch (1-1 BF).,105,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,8,bot,"N. Dorinsky reached on a fielder's choice (2-0 BB)3a O. Yoder advanced to second on a throwing error by ss, advanced to third on the error3a M. Frazetta scored on the error, unearned.",106,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,8,bot,N. Dorinsky stole second.,107,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,8,bot,J. Fiedor walked (3-0 BBBB).,108,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,8,bot,Joey Tedesco to p for Jonathan Ram.,109,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,8,bot,C. Colwell struck out swinging (2-2 KBSBS).,110,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,9,top,M. Boehm to p for T. Buttari.,111,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,9,top,Edward Mateo pinch hit for Omar Morillo.,112,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,9,top,Edward Mateo walked (3-1 BBBKB).,113,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,9,top,Crixtian Tav popped up to cf (1-2 KBF).,114,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,9,top,Marcus Franc pinch hit for Jared Campbe.,115,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,9,top,Marcus Franc popped up to cf (0-0).,116,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,9,top,Isaac Santan singled to left field (0-0)3a Edward Mateo advanced to second.,117,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,597522,9,top,"Chris Willia singled through the left side (0-1 K)3a Isaac Santan advanced to second3a Edward Mateo advanced to third, out at home lf to c.",118,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,9,bot,Edward Mateo to 2b.,119,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,9,bot,Marcus Franc to 1b.,120,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,9,bot,Isaac Santan to 3b.,121,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,9,bot,Trevor Jones to cf.,122,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,9,bot,Luis Gonzale to rf.,123,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,9,bot,Ethan Van Sc to p for Joey Tedesco.,124,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,9,bot,Matt Brandt to c for Jordon Campb.,125,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,9,bot,M. Gregos grounded out to ss (1-1 BF).,126,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,9,bot,Winkleblech pinch hit for H. Boebel.,127,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,9,bot,Winkleblech reached on a throwing error by ss (1-1 BK).,128,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,9,bot,M. Frazetta struck out swinging (0-2 KFS).,129,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,9,bot,H. Fetchik singled to center field (0-0)3a Winkleblech advanced to second.,130,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025
+6379517,597522,Point Park Pioneers,596808,Seton Hill Griffins,596808,9,bot,G. Wheaton struck out swinging (3-2 BKKBBFS).,131,2025-04-23T00:00:00-04:00,"Greensburg, PA",95,MBA,2025

@@ -1,0 +1,79 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,1,top,"Tirado, A struck out looking (2-2).",1,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,1,top,"Travisano, M walked (3-2).",2,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,1,top,"Beverly, J walked (3-1)3a Travisano, M advanced to second.",3,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,1,top,"Hanson, C singled to right field3a Beverly, J advanced to second3a Travisano, M advanced to third.",4,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,1,top,"Sullivan, B struck out swinging (1-2).",5,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,1,top,"Willi, M walked, RBI (3-2)3a Hanson, C advanced to second3a Beverly, J advanced to third3a Travisano, M scored.",6,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,1,top,"Munoz, J flied out to rf (2-2).",7,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,1,bot,"Whitley, A grounded out to ss (2-1).",8,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,1,bot,"Bernstein, P lined out to ss (0-0).",9,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,1,bot,"Jaffe, J struck out swinging (2-2).",10,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,2,top,"Gruber, C to p for Siesky, D.",11,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,2,top,"McCarthy, R singled to right center (0-1).",12,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,2,top,"Toth, M flied out to rf (3-2)3a McCarthy, R out at second rf to 2b.",13,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,2,top,"Tirado, A flied out to 1b (2-1).",14,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,2,bot,"Arcamone, J struck out swinging (2-2).",15,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,2,bot,"O'Brien, B doubled to right center (3-2).",16,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,2,bot,"Elko, M walked (3-1).",17,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,2,bot,"Pacheco, DJ singled to left field, RBI (1-1)3a Elko, M advanced to third3a O'Brien, B scored.",18,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,2,bot,"Wilga, J grounded into double play ss to 2b to 1b3a Pacheco, DJ out on the play.",19,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,3,top,"Travisano, M struck out looking (0-2).",20,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,3,top,"Beverly, J popped up to 2b (1-1).",21,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,3,top,"Hanson, C grounded out to 2b (3-2).",22,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,3,bot,"Larson, C struck out looking (0-2).",23,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,3,bot,"Whitley, A grounded out to ss (0-1).",24,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,3,bot,"Bernstein, P grounded out to 1b unassisted (3-2).",25,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,4,top,"Sullivan, B walked (3-2).",26,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,4,top,"Willi, M popped up to 3b (2-1).",27,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,4,top,"Munoz, J grounded into double play 2b to 1b (0-1)3a Sullivan, B out on the play.",28,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,4,bot,"Jaffe, J grounded out to 3b (2-2).",29,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,4,bot,"Arcamone, J struck out swinging (3-2).",30,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,4,bot,"O'Brien, B singled up the middle (1-1).",31,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,4,bot,"Elko, M grounded out to 2b.",32,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,5,top,"Giordano, J to p for Gruber, C.",33,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,5,top,"McCarthy, R struck out looking (3-2).",34,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,5,top,"Toth, M singled to left field (1-2).",35,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,5,top,"Tirado, A grounded into double play 2b to ss to 1b (1-2)3a Toth, M out on the play.",36,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,5,bot,"Pacheco, DJ homered down the lf line, RBI.",37,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,5,bot,"Wilga, J singled up the middle.",38,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,5,bot,"Larson, C lined out to cf (1-2).",39,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,5,bot,"Whitley, A walked (3-1)3a Wilga, J advanced to second.",40,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,5,bot,"Bernstein, P popped up to 2b (0-2).",41,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,5,bot,"Jaffe, J flied out to cf.",42,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,6,top,"Travisano, M grounded out to ss (1-2).",43,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,6,top,"Beverly, J walked (3-2).",44,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,6,top,"Hanson, C flied out to cf.",45,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,6,top,"Sullivan, B lined out to cf (1-1).",46,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,6,bot,"Levine, J to p for Belliveau, S.",47,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,6,bot,"Arcamone, J walked (3-2).",48,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,6,bot,"O'Brien, B reached on a fielder's choice (2-2)3a Arcamone, J out at second ss to 2b.",49,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,6,bot,"Elko, M grounded into double play ss to 1b (3-2)3a O'Brien, B out on the play.",50,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,7,top,"Rigot, T to p for Giordano, J.",51,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,7,top,"Willi, M struck out swinging (0-2).",52,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,7,top,"Munoz, J singled to left field (3-2).",53,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,7,top,"Hoog, K pinch ran for Munoz, J.",54,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,7,top,"Hoog, K stole second.",55,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,7,top,"McCarthy, R struck out swinging (3-2).",56,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,7,top,"Wallon, D to p for Rigot, T.",57,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,7,top,"Hoog, K advanced to third on a wild pitch.",58,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,7,top,"Toth, M grounded out to 3b (3-2).",59,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,7,bot,"Hill, S to lf for Hoog, K.",60,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,7,bot,"Pacheco, DJ flied out to rf (2-2).",61,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,7,bot,"Wilga, J struck out swinging (1-2).",62,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,7,bot,"Larson, C grounded out to 3b (1-2).",63,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,8,top,"Reinke, B to p for Wallon, D.",64,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,8,top,"Tirado, A grounded out to p (3-2).",65,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,8,top,"Bilka, R to p for Reinke, B.",66,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,8,top,"Travisano, M struck out swinging (2-2).",67,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,8,top,"Beverly, J grounded out to 1b unassisted (0-1).",68,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,8,bot,"Whitley, A flied out to cf (1-0).",69,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,8,bot,"Bernstein, P walked (3-2).",70,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,8,bot,"Jaffe, J singled to left field (1-1)3a Bernstein, P advanced to second.",71,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,8,bot,"Arcamone, J singled through the right side, RBI (0-0)3a Jaffe, J advanced to second3a Bernstein, P scored.",72,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,8,bot,"O'Brien, B struck out looking (1-2).",73,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596658,8,bot,"Elko, M flied out to cf.",74,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,9,top,"Rickabaugh to c for Arcamone, J.",75,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,9,top,"Hanson, C grounded out to ss (1-0).",76,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,9,top,"Sullivan, B flied out to rf (0-2).",77,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
+6303210,596595,Massachusetts Minutemen,596658,Richmond Spiders,596595,9,top,"Willi, M struck out swinging (2-2).",78,2025-04-13T00:00:00-04:00,"Pitt Field (Richmond, VA)",354,MBA,2025
