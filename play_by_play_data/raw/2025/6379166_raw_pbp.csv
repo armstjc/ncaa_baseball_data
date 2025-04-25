@@ -1,0 +1,157 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,1,top,J. Howland reached first on an error by ss.,1,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,1,top,O. Podolec struck out swinging.,2,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,1,top,J. Barry struck out swinging.,3,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,1,top,J. Howland stole second.,4,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,1,top,C. Klein grounded out to 2b.,5,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,1,bot,J. Acker grounded out to ss.,6,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,1,bot,M. Quiros struck out swinging.,7,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,1,bot,K. Lugo grounded out to 3b.,8,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,2,top,C. Smith singled to shortstop.,9,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,2,top,S. Grinstead grounded out to 2b; C. Smith advanced to second.,10,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,2,top,J. McDermott struck out looking.,11,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,2,top,C. Smith advanced to third on a passed ball.,12,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,2,top,"C. Manzo singled to third base, RBI; C. Smith scored.",13,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,2,top,M. Lefrancoi grounded out to 3b.,14,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,S. Hewlette singled to left field.,15,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,N. DeAndrade hit by pitch; S. Hewlette advanced to second.,16,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,"I. Arias tripled, bunt, 2 RBI; N. DeAndrade scored; S. Hewlette scored.",17,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,"J. Monks tripled to center field, RBI; I. Arias scored.",18,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,"B. Tetler singled to right field, RBI; J. Monks scored.",19,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,C. Hoffman singled to left field; B. Tetler advanced to second.,20,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,J. Acker singled to shortstop; C. Hoffman advanced to second; B. Tetler advanced to third.,21,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,E. Barringto to p for A. Meesig.,22,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,M. Quiros walked; J. Acker advanced to second; C. Hoffman advanced to third; B. Tetler scored.,23,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,K. Lugo reached on a fielder's choice; M. Quiros advanced to second; J. Acker out at third 3b unassisted; C. Hoffman scored.,24,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,"S. Hewlette tripled to left center, 2 RBI; K. Lugo scored; M. Quiros scored.",25,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,P. Foulis to p for A. Meesig.,26,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,N. DeAndrade walked.,27,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,I. Arias walked; N. DeAndrade advanced to second.,28,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,"J. Monks singled to right field, RBI; I. Arias advanced to second; N. DeAndrade advanced to third; S. Hewlette scored.",29,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,B. Tetler struck out swinging.,30,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,C. Hoffman walked; J. Monks advanced to second; I. Arias advanced to third; N. DeAndrade scored.,31,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,"J. Acker singled to center field, 2 RBI; C. Hoffman advanced to second; J. Monks scored; I. Arias scored.",32,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,2,bot,M. Quiros reached on a fielder's choice; J. Acker advanced to second; C. Hoffman out at third ss unassisted.,33,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,3,top,J. Howland singled to left center.,34,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,3,top,O. Podolec popped up to 2b.,35,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,3,top,J. Barry struck out looking.,36,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,3,top,C. Klein reached on a fielder's choice; J. Howland out at second 3b to ss.,37,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,3,bot,K. Lugo singled to left field.,38,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,3,bot,K. Lugo stole second.,39,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,3,bot,"S. Hewlette tripled to left center, RBI; K. Lugo scored.",40,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,3,bot,N. DeAndrade hit by pitch.,41,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,3,bot,I. Arias hit by pitch; N. DeAndrade advanced to second.,42,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,3,bot,J. Monks grounded out to ss; I. Arias advanced to second; N. DeAndrade advanced to third; S. Hewlette scored.,43,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,3,bot,B. Tetler grounded out to 3b; I. Arias advanced to third; N. DeAndrade scored.,44,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,3,bot,C. Hoffman grounded out to ss.,45,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,4,top,C. Smith struck out swinging.,46,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,4,top,S. Grinstead singled to left center.,47,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,4,top,J. McDermott struck out swinging.,48,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,4,top,C. Manzo struck out swinging.,49,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,4,bot,E. Barringto to p for P. Foulis.,50,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,4,bot,J. Acker grounded out to ss.,51,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,4,bot,M. Quiros singled to right field.,52,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,4,bot,J. Roque pinch hit for K. Lugo.,53,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,4,bot,M. Quiros stole second.,54,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,4,bot,M. Quiros stole third.,55,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,4,bot,"J. Roque singled to left center, RBI; M. Quiros scored.",56,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,4,bot,S. Hewlette doubled to left field; J. Roque advanced to third.,57,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,4,bot,J. Roque scored on a wild pitch.,58,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,4,bot,S. Hewlette advanced to third on a wild pitch.,59,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,4,bot,N. DeAndrade walked.,60,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,4,bot,I. Arias popped up to 2b.,61,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,4,bot,J. Monks hit by pitch; N. DeAndrade advanced to second.,62,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,4,bot,B. Tetler hit by pitch; J. Monks advanced to second; N. DeAndrade advanced to third; S. Hewlette scored.,63,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,4,bot,C. Hoffman grounded out to ss.,64,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,5,top,J. Roque to 2b.,65,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,5,top,M. Lefrancoi grounded out to ss.,66,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,5,top,J. Howland singled to left field.,67,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,5,top,O. Podolec reached on a fielder's choice; J. Howland out at second ss to 2b.,68,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,5,top,J. Barry struck out swinging.,69,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,5,bot,L. Maiello to p for E. Barringto.,70,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,5,bot,J. Acker hit by pitch.,71,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,5,bot,J. Acker advanced to second on a balk.,72,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,5,bot,M. Quiros flied out to rf; J. Acker advanced to third.,73,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,5,bot,J. Roque walked.,74,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,5,bot,"S. Hewlette flied out to rf, sacrifice fly, RBI; J. Acker scored.",75,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,5,bot,N. DeAndrade struck out looking.,76,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,6,top,D. Pefine to p for D. DeLucia.,77,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,6,top,C. Klein walked.,78,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,6,top,"C. Smith reached on a fielder's choice, advanced to second; C. Klein out at second ss to 2b.",79,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,6,top,S. Grinstead struck out swinging.,80,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,6,top,J. McDermott struck out looking.,81,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,6,bot,M. Connor to p for L. Maiello.,82,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,6,bot,I. Arias doubled to left field.,83,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,6,bot,J. Monks struck out swinging.,84,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,6,bot,B. Tetler grounded out to ss; I. Arias advanced to third.,85,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,6,bot,C. Hoffman struck out swinging.,86,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,L. Lombardo pinch hit for C. Manzo.,87,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,N. Levesque to p for D. Pefine.,88,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,L. Lombardo doubled to right center.,89,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,N. Paharik pinch hit for M. Lefrancoi.,90,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,"N. Paharik singled, RBI; L. Lombardo scored.",91,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,J. Mahoney pinch hit for J. Howland.,92,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,J. Mahoney singled to left center; N. Paharik advanced to second.,93,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,E. Giarnese pinch hit for O. Podolec.,94,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,E. Giarnese singled; J. Mahoney advanced to second; N. Paharik advanced to third.,95,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,P. Kostiw pinch hit for J. Barry.,96,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,P. Kostiw struck out swinging.,97,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,W. Panza pinch hit for C. Klein.,98,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,"W. Panza singled, 2 RBI; E. Giarnese advanced to third; J. Mahoney scored; N. Paharik scored.",99,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,N. Belanger to p for N. Levesque.,100,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,A. Marco pinch hit for C. Smith.,101,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,A. Marco hit by pitch; W. Panza advanced to second.,102,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,M. Holbrook pinch hit for S. Grinstead.,103,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,"M. Holbrook homered, 4 RBI; A. Marco scored; W. Panza scored; E. Giarnese scored.",104,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,B. Wright pinch hit for J. McDermott.,105,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,B. Wright singled to right field.,106,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,L. Lombardo struck out swinging.,107,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,7,top,N. Paharik grounded out to 2b.,108,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,7,bot,E. Giarnese to dh.,109,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,7,bot,P. Kostiw to 2b.,110,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,7,bot,W. Panza to lf.,111,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,7,bot,A. Marco to cf.,112,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,7,bot,M. Holbrook to 1b.,113,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,7,bot,B. Wright to c.,114,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,7,bot,L. Lombardo to 3b.,115,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,7,bot,N. Paharik to ss.,116,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,7,bot,J. Mahoney to rf.,117,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,7,bot,L. Barry to p for M. Connor.,118,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,7,bot,J. Acker grounded out to ss.,119,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,7,bot,M. Quiros flied out to rf.,120,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,7,bot,Sanders II pinch hit for J. Roque.,121,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,7,bot,Sanders II hit by pitch.,122,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,7,bot,"S. Hewlette homered, 2 RBI; Sanders II scored.",123,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,7,bot,N. DeAndrade struck out looking.,124,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,8,top,Sanders II to 2b.,125,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,8,top,S. Foody to p for N. Belanger.,126,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,8,top,E. Giarnese to dh for P. Kostiw.,127,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,8,top,P. Kostiw to 2b for W. Panza.,128,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,8,top,W. Panza to lf for A. Marco.,129,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,8,top,A. Marco to cf for M. Holbrook.,130,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,8,top,M. Holbrook to 1b for B. Wright.,131,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,8,top,B. Wright to c for L. Lombardo.,132,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,8,top,L. Lombardo to 3b for N. Paharik.,133,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,8,top,N. Paharik to ss for J. Mahoney.,134,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,8,top,J. Mahoney to rf for E. Giarnese.,135,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,8,top,J. Mahoney grounded out to 3b.,136,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,8,top,"E. Giarnese homered, RBI.",137,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,8,top,"P. Kostiw doubled, ground-rule.",138,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,8,top,W. Panza singled to left field; P. Kostiw advanced to third.,139,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,8,top,"A. Marco reached on a fielder's choice, RBI; W. Panza out at second ss to 2b; P. Kostiw scored.",140,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,8,top,M. Holbrook reached on a fielder's choice; A. Marco out at second 2b to ss.,141,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,8,bot,C. Haas to p for L. Barry.,142,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,8,bot,I. Arias grounded out to ss.,143,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,8,bot,J. Monks singled to left center.,144,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596887,8,bot,B. Tetler grounded into double play 3b to 2b to 1b; J. Monks out on the play.,145,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,9,top,M. Lee to p for S. Foody.,146,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,9,top,B. Wright struck out swinging.,147,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,9,top,L. Lombardo walked.,148,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,9,top,T. Salvatell pinch hit for N. Paharik.,149,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,9,top,T. Salvatell walked; L. Lombardo advanced to second.,150,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,9,top,J. Mahoney walked; T. Salvatell advanced to second; L. Lombardo advanced to third.,151,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,9,top,"E. Giarnese singled to center field, 2 RBI; J. Mahoney advanced to second; T. Salvatell scored; L. Lombardo scored.",152,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,9,top,P. Kostiw walked; E. Giarnese advanced to second; J. Mahoney advanced to third.,153,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,9,top,Rivera III to p for M. Lee.,154,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,9,top,"W. Panza flied out to rf, sacrifice fly, RBI; E. Giarnese advanced to third; J. Mahoney scored.",155,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025
+6379166,596856,Assumption Greyhounds,596887,Franklin Pierce Ravens,596856,9,top,A. Marco grounded out to ss.,156,2025-04-19T00:00:00-04:00,"Pappas Field (Rindge, NH)",106,MBA,2025

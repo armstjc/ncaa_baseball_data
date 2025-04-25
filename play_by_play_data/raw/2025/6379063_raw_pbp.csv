@@ -1,0 +1,85 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,1,top,J. Kent grounded out to 3b.,1,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,1,top,A. Legner singled to center field.,2,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,1,top,M. Quarrie walked3a A. Legner advanced to second.,3,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,1,top,B. Hughes flied out to cf.,4,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,1,top,D. O'Donnell flied out to cf.,5,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,1,bot,T. Neff flied out to cf.,6,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,1,bot,J. Wanamaker flied out to rf.,7,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,1,bot,B. Kopec singled through the left side.,8,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,1,bot,K. Kullman grounded out to c.,9,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,2,top,B. Bussiere flied out to rf.,10,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,2,top,J. Meirowitz flied out to cf.,11,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,2,top,M. Edson struck out swinging.,12,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,2,bot,O. Kosar grounded out to ss.,13,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,2,bot,Z. Jenkins flied out to cf.,14,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,2,bot,J. Sutton flied out to cf.,15,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,3,top,M. Mehling popped up to ss.,16,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,3,top,J. Kent hit by pitch.,17,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,3,top,"J. Kent out at second c to 2b, caught stealing.",18,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,3,top,A. Legner flied out to lf.,19,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,3,bot,J. Quinones struck out swinging.,20,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,3,bot,B. Schoonmak walked.,21,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,3,bot,T. Neff struck out swinging.,22,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,3,bot,"J. Wanamaker doubled to left field, RBI3a B. Schoonmak scored.",23,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,3,bot,Z. Day pinch hit for B. Kopec.,24,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,3,bot,"J. Wanamaker advanced to third on a wild pitch, scored on a throwing error by c, unearned.",25,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,3,bot,Z. Day struck out swinging.,26,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,4,top,Z. Day to rf.,27,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,4,top,M. Quarrie grounded out to 3b.,28,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,4,top,B. Hughes doubled through the left side.,29,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,4,top,D. O'Donnell flied out to cf3a B. Hughes advanced to third.,30,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,4,top,B. Bussiere flied out to cf.,31,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,4,bot,K. Kullman singled through the left side.,32,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,4,bot,K. Kullman advanced to second on a wild pitch.,33,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,4,bot,"O. Kosar doubled to center field, RBI3a K. Kullman scored.",34,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,4,bot,Z. Jenkins struck out swinging.,35,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,4,bot,J. Sutton struck out swinging.,36,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,4,bot,"J. Quinones singled to right center, RBI3a O. Kosar scored.",37,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,4,bot,B. Schoonmak flied out to lf.,38,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,5,top,R. Northorn to p for A. Davis.,39,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,5,top,J. Meirowitz walked.,40,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,5,top,M. Edson singled to left field3a J. Meirowitz advanced to second.,41,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,5,top,J. Meirowitz advanced to third on a wild pitch.,42,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,5,top,M. Mehling walked3a M. Edson advanced to second.,43,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,5,top,"J. Kent walked, RBI3a M. Mehling advanced to second3a M. Edson advanced to third3a J. Meirowitz scored.",44,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,5,top,T. Mastropie to p for R. Northorn.,45,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,5,top,"A. Legner hit by pitch, RBI3a J. Kent advanced to second3a M. Mehling advanced to third3a M. Edson scored.",46,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,5,top,M. Quarrie reached on a fielder's choice3a A. Legner advanced to second3a J. Kent advanced to third3a M. Mehling out at home 3b to c.,47,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,5,top,B. Hughes grounded into double play ss to 2b to 1b3a M. Quarrie out on the play.,48,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,5,bot,F. Kern to p for M. Oehrlein.,49,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,5,bot,T. Neff flied out to cf.,50,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,5,bot,J. Wanamaker struck out swinging.,51,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,5,bot,Z. Day popped up to ss.,52,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,6,top,D. O'Donnell struck out swinging.,53,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,6,top,B. Bussiere flied out to cf.,54,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,6,top,J. Meirowitz struck out swinging.,55,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,6,bot,K. Kullman singled to pitcher.,56,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,6,bot,O. Kosar flied out to cf.,57,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,6,bot,Z. Jenkins grounded out to p3a K. Kullman advanced to second.,58,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,6,bot,"J. Sutton singled through the left side, RBI3a K. Kullman scored.",59,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,6,bot,J. Quinones struck out looking.,60,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,7,top,M. Edson flied out to cf.,61,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,7,top,M. Mehling struck out swinging.,62,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,7,top,J. Kent flied out to cf.,63,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,7,bot,R. Schultz to p for F. Kern.,64,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,7,bot,B. Schoonmak grounded out to c.,65,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,7,bot,T. Neff struck out looking.,66,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,7,bot,J. Wanamaker walked.,67,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,7,bot,Z. Day struck out swinging.,68,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,8,top,A. Legner singled to left center.,69,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,8,top,M. Quarrie singled up the middle3a A. Legner advanced to third.,70,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,8,top,"B. Hughes flied out to cf, sacrifice fly, RBI3a A. Legner scored.",71,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,8,top,D. O'Donnell grounded out to 2b3a M. Quarrie advanced to second.,72,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,8,top,B. Bussiere grounded out to 3b.,73,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,8,bot,D. Beagle to p for R. Schultz.,74,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,8,bot,K. Kullman singled through the right side.,75,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,8,bot,"O. Kosar grounded out to p, SAC, bunt3a K. Kullman advanced to second.",76,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,8,bot,Z. Jenkins grounded out to 2b3a K. Kullman advanced to third.,77,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597313,8,bot,J. Sutton grounded out to ss.,78,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,9,top,J. Meirowitz singled through the right side.,79,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,9,top,S. Lynch pinch ran for J. Meirowitz.,80,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,9,top,M. Edson flied out to rf.,81,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,9,top,M. Mehling singled down the 3b line3a S. Lynch out at second 3b to 2b.,82,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,9,top,J. Kent reached first on an error by 3b3a M. Mehling advanced to third.,83,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025
+6379063,597356,Muhlenberg Mules,597313,King's (PA) Monarchs,597356,9,top,A. Legner flied out to cf.,84,2025-04-23T00:00:00-04:00,"Lipo Field (Wilkes-Barre, PA)",0,MBA,2025

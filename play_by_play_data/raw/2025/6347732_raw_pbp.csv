@@ -1,0 +1,81 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,1,top,"Vercruysse, struck out swinging (1-2 KBSS).",1,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,1,top,"Wichgers, To struck out swinging (1-2 KKBFS).",2,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,1,top,"Smith, Rock hit by pitch (1-0 B).",3,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,1,top,"Johnson, Eva struck out swinging (1-2 BKFS).",4,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,1,bot,Perona flied out to lf (2-2 KBFB).,5,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,1,bot,Kawakami walked (3-2 FBBFBB).,6,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,1,bot,Kawakami advanced to second on a wild pitch.,7,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,1,bot,DiVito singled through the right side (2-2 BKFBFF): Kawakami advanced to third.,8,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,1,bot,"Matsuzaki flied out to lf, SF, RBI (1-0 B): Kawakami scored.",9,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,1,bot,DiVito stole second.,10,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,1,bot,DiVito stole third.,11,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,1,bot,"Vertucci singled to center field, RBI (2-2 BBKKF): DiVito scored.",12,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,1,bot,"Sommerfeld singled, advanced to second on an error by cf (3-2 BKBBKF): Vertucci advanced to third.",13,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,1,bot,Marvucic popped up to 3b (1-1 BK).,14,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,2,top,"Konrad, Zach grounded out to 3b (0-0).",15,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,2,top,"Cervantes, J flied out to rf (1-2 BFS).",16,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,2,top,"Michels, Jos struck out swinging (1-2 KSBS).",17,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,2,bot,Arakaki grounded out to 1b unassisted (2-1 BBK).,18,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,2,bot,Jepsen struck out swinging (0-2 KFS).,19,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,2,bot,Perona walked (3-1 BBBKB).,20,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,2,bot,Perona stole second.,21,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,2,bot,Perona stole third.,22,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,2,bot,Kawakami grounded out to 2b (3-1 BBBK).,23,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,3,top,"Malott, Erik hit by pitch (1-0 B).",24,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,3,top,"Fraga, Marty grounded into double play ss to 1b (2-1 BKB): Malott, Erik out on the play.",25,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,3,top,"Vercruysse, flied out to cf (1-2 KSB).",26,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,3,bot,DiVito grounded out to p (3-2 BBBKKF).,27,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,3,bot,Matsuzaki singled to right field (0-1 K).,28,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,3,bot,Vertucci grounded into double play p to ss to 2b to 1b (0-1 K): Matsuzaki out on the play.,29,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,4,top,"Wichgers, To walked (3-2 KBBKBFB).",30,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,4,top,"Smith, Rock flied out to cf (0-2 KF).",31,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,4,top,"Wichgers, To stole second.",32,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,4,top,"Johnson, Eva doubled to right field, RBI (3-2 FBBSB): Wichgers, To scored.",33,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,4,top,"Konrad, Zach struck out swinging (1-2 SSBS).",34,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,4,top,"Cervantes, J popped up to 1b (2-1 SBB).",35,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,4,bot,"Sommerfeld grounded out to p, bunt (0-0).",36,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,4,bot,Marvucic grounded out to 1b unassisted (0-1 K).,37,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,4,bot,Arakaki doubled to right center (1-1 BK).,38,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,4,bot,Jepsen struck out swinging (2-2 BKSBS).,39,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,5,top,"Michels, Jos struck out looking (0-2 KSK).",40,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,5,top,"Malott, Erik hit by pitch (3-1 KBBB).",41,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,5,top,"Fraga, Marty lined out to rf (1-0 B).",42,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,5,top,"Vercruysse, fouled out to 1b (1-0 B).",43,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,5,bot,Perona popped up to ss (0-0).,44,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,5,bot,Kawakami grounded out to 2b (1-0 B).,45,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,5,bot,DiVito lined out to ss (0-1 K).,46,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,6,top,"Wichgers, To walked (3-1 SBBBB).",47,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,6,top,"Smith, Rock flied out to cf (0-1 K).",48,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,6,top,"Johnson, Eva flied out to cf (0-0).",49,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,6,top,"Wichgers, To stole second.",50,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,6,top,"Konrad, Zach struck out swinging (2-2 BKBSS).",51,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,6,bot,Matsuzaki grounded out to 2b (1-1 FB).,52,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,6,bot,Vertucci flied out to cf (0-1 K).,53,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,6,bot,Sommerfeld flied out to rf (1-2 BKK).,54,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,7,top,"Cervantes, J popped up to 2b (0-0).",55,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,7,top,"Michels, Jos struck out swinging (1-2 BFFS).",56,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,7,top,"Malott, Erik grounded out to 3b (1-2 KSBF).",57,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,7,bot,Marvucic out at first 1b to p (1-0 B).,58,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,7,bot,Arakaki walked (3-0 BBBB).,59,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,7,bot,"Jepsen grounded out to c, bunt, SAC (0-0): Arakaki advanced to second.",60,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,7,bot,Perona struck out swinging (0-2 KKS).,61,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,8,top,"Fraga, Marty walked (3-1 BBKBB).",62,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,8,top,"Vercruysse, reached on a fielder's choice (1-1 BK): Fraga, Marty out at second ss unassisted.",63,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,8,top,"Wichgers, To flied out to rf (0-0).",64,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,8,top,"Smith, Rock intentionally walked (3-0 BBBB): Vercruysse, advanced to second.",65,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,8,top,"Condit to p for Nuese, J..",66,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,8,top,"Johnson, Eva flied out to lf (0-1 K).",67,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,8,bot,"Leach, Logan to p for Krueger, Jac.",68,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,8,bot,Kawakami popped up to 2b (1-1 KB).,69,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,8,bot,DiVito grounded out to 2b (0-2 KS).,70,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,8,bot,"Matsuzaki homered to right field, RBI (3-2 SBBFBF).",71,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,8,bot,Vertucci singled down the lf line (2-2 BSSB).,72,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,596988,8,bot,Sommerfeld popped up to 1b (1-2 KBF).,73,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,9,top,"Drowns, Conn to dh for Konrad, Zach.",74,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,9,top,"Drowns, Conn singled to second base (2-1 BBK).",75,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,9,top,"Cervantes, J grounded into double play ss to 2b to 1b (3-2 BBFBS): Drowns, Conn out on the play.",76,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,9,top,"Gnade, Carso pinch hit for Michels, Jos.",77,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,9,top,"Gnade, Carso homered to center field, RBI (2-1 BBF).",78,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,9,top,Price to p for Condit.,79,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025
+6347732,597273,Elmhurst Bluejays,596988,North Park Vikings,597273,9,top,"Malott, Erik flied out to cf (2-0 BB).",80,2025-04-19T00:00:00-04:00,"Holmgren Athletic Complex (Chicago, IL)",90,MBA,2025

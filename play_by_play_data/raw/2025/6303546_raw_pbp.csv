@@ -1,0 +1,100 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,1,top,J. Carpenter struck out looking.,1,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,1,top,A. Mascuilli grounded out to 3b.,2,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,1,top,L. Molessa hit by pitch.,3,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,1,top,L. Molessa stole second.,4,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,1,top,D. Orr walked.,5,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,1,top,D. Wyatt struck out looking.,6,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,1,bot,C. Bear singled down the 1b line.,7,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,1,bot,Rasmussen doubled to right field; C. Bear advanced to third.,8,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,1,bot,"D. O'Neill reached on an error by 1b, RBI; Rasmussen scored; C. Bear scored.",9,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,1,bot,"D. Reynolds doubled to left field, RBI; D. O'Neill scored, unearned.",10,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,1,bot,"Whitehead singled, bunt.",11,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,1,bot,"E. Menzel out at first p to 2b, SAC, bunt; Whitehead advanced to second; D. Reynolds advanced to third.",12,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,1,bot,"M. Sargent singled up the middle, RBI; Whitehead advanced to third; D. Reynolds scored.",13,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,1,bot,D. Gaither grounded into double play ss to 2b to 1b; M. Sargent out on the play.,14,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,2,top,N. Pratt flied out to cf.,15,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,2,top,"D. Paris grounded out to p, bunt.",16,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,2,top,"S. Droz homered, RBI.",17,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,2,top,K. Eddington struck out swinging.,18,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,2,bot,Q. Murphy grounded out to 1b unassisted.,19,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,2,bot,C. Bear singled to right field.,20,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,2,bot,Rasmussen singled to center field; C. Bear advanced to second.,21,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,2,bot,C. Bear stole third.,22,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,2,bot,"D. O'Neill singled through the left side, RBI; Rasmussen advanced to second; C. Bear scored.",23,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,2,bot,"D. Reynolds doubled to left field, RBI; D. O'Neill advanced to third; Rasmussen scored.",24,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,2,bot,D. Reynolds advanced to third; D. O'Neill scored on a wild pitch.,25,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,2,bot,Whitehead struck out swinging.,26,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,2,bot,"E. Menzel doubled down the lf line, RBI; D. Reynolds scored.",27,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,2,bot,"M. Sargent doubled down the 1b line, RBI; E. Menzel scored.",28,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,2,bot,D. Gaither singled up the middle; M. Sargent advanced to third.,29,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,2,bot,B. Fox to p for Z. Robinson.,30,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,2,bot,Q. Murphy hit by pitch; D. Gaither advanced to second.,31,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,2,bot,"C. Bear walked, RBI; Q. Murphy advanced to second; D. Gaither advanced to third; M. Sargent scored.",32,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,2,bot,"Rasmussen singled through the left side, RBI; C. Bear advanced to second; Q. Murphy advanced to third; D. Gaither scored.",33,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,2,bot,D. O'Neill grounded out to ss.,34,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,3,top,J. Carpenter walked.,35,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,3,top,A. Mascuilli walked; J. Carpenter advanced to second.,36,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,3,top,L. Molessa reached on a fielder's choice; A. Mascuilli out at second ss to 2b; J. Carpenter advanced to third.,37,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,3,top,D. Orr grounded into double play 2b to ss to 1b; L. Molessa out on the play.,38,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,3,bot,D. Reynolds walked.,39,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,3,bot,Whitehead singled to left field; D. Reynolds advanced to second.,40,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,3,bot,E. Menzel walked; Whitehead advanced to second; D. Reynolds advanced to third.,41,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,3,bot,C. Ho to p for B. Fox.,42,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,3,bot,M. Sargent struck out swinging.,43,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,3,bot,"D. Gaither hit by pitch, RBI; E. Menzel advanced to second; Whitehead advanced to third; D. Reynolds scored.",44,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,3,bot,"Q. Murphy hit by pitch, RBI; D. Gaither advanced to second; E. Menzel advanced to third; Whitehead scored.",45,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,3,bot,"C. Bear flied out to cf, SF, RBI; D. Gaither advanced to third; E. Menzel scored.",46,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,3,bot,Rasmussen walked; Q. Murphy advanced to second.,47,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,3,bot,"D. O'Neill walked, RBI; Rasmussen advanced to second; Q. Murphy advanced to third; D. Gaither scored.",48,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,3,bot,Z. Kelly to p for C. Ho.,49,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,3,bot,"D. Reynolds tripled down the rf line, 3 RBI; D. O'Neill scored; Rasmussen scored; Q. Murphy scored.",50,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,3,bot,Whitehead walked.,51,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,3,bot,E. Menzel walked; Whitehead advanced to second.,52,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,3,bot,"M. Sargent doubled to left field, 2 RBI; E. Menzel advanced to third; Whitehead scored; D. Reynolds scored.",53,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,3,bot,D. Gaither struck out swinging.,54,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,4,top,D. Wyatt struck out swinging.,55,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,4,top,N. Pratt flied out to cf.,56,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,4,top,M. Best pinch hit for D. Paris.,57,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,4,top,M. Best flied out to rf.,58,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,4,bot,M. Best to rf.,59,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,4,bot,N. Kutney to 2b for K. Eddington.,60,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,4,bot,M. Joseph to c for D. Wyatt.,61,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,4,bot,A. Gonzalez to p for Z. Kelly.,62,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,4,bot,Q. Murphy singled to right center.,63,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,4,bot,C. Bear singled to right field; Q. Murphy advanced to second.,64,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,4,bot,C. Bear advanced to second; Q. Murphy advanced to third on a passed ball.,65,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,4,bot,"Rasmussen singled through the left side, RBI; C. Bear advanced to third on a throwing error by ss; Q. Murphy scored.",66,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,4,bot,D. O'Neill struck out swinging.,67,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,4,bot,Rasmussen advanced to second; C. Bear scored on a wild pitch.,68,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,4,bot,"D. Reynolds singled to right field, RBI; Rasmussen scored.",69,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,4,bot,Whitehead struck out swinging.,70,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,4,bot,E. Menzel flied out to cf.,71,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,5,top,Wainwright to c for D. O'Neill.,72,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,5,top,S. Droz grounded out to ss.,73,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,5,top,N. Kutney flied out to cf.,74,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,5,top,J. Carpenter flied out to rf.,75,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,5,bot,M. Sargent lined out to cf.,76,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,5,bot,D. Gaither singled to center field.,77,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,5,bot,Q. Murphy flied out to cf.,78,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,5,bot,C. Bear singled through the left side; D. Gaither advanced to second.,79,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,5,bot,J. Quigley pinch hit for Rasmussen.,80,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,5,bot,J. Quigley struck out swinging.,81,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,6,top,J. Quigley to cf.,82,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,6,top,T. Martin to p for Gambardella.,83,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,6,top,A. Mascuilli struck out looking.,84,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,6,top,L. Molessa grounded out to ss.,85,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,6,top,N. Ong pinch hit for D. Orr.,86,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,6,top,N. Ong flied out to rf.,87,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,6,bot,N. Ong to lf.,88,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,6,bot,A. Denham to p for A. Gonzalez.,89,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,6,bot,Wainwright struck out swinging.,90,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,6,bot,D. Reynolds doubled down the 1b line.,91,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,6,bot,Whitehead flied out to rf.,92,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,6,bot,E. Menzel walked.,93,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596588,6,bot,M. Sargent reached on a fielder's choice; E. Menzel out at second 2b unassisted; D. Reynolds advanced to third.,94,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,7,top,M. Joseph struck out swinging.,95,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,7,top,L. Buscaglia pinch hit for N. Pratt.,96,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,7,top,L. Buscaglia reached on a fielding error by 3b.,97,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,7,top,M. Best flied out to cf.,98,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025
+6303546,596592,UMBC Retrievers,596588,Maine Black Bears,596592,7,top,S. Droz grounded out to 3b.,99,2025-04-20T00:00:00-04:00,"Mahaney Diamond (Orono, ME)",109,MBA,2025

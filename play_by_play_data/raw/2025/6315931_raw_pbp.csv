@@ -1,0 +1,94 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,1,top,No play.,1,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,1,top,"NITOWITZ, C grounded out to 2b (3-1).",2,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,1,top,"BEAN, B struck out swinging (1-2).",3,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,1,top,"SALK, J walked (3-2).",4,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,1,top,KATAYAMA-STA struck out looking (2-2).,5,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,1,bot,"GUREVITCH, J flied out to cf (2-1).",6,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,1,bot,"LANE, I doubled down the rf line (1-2).",7,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,1,bot,"SMITH, A flied out to lf to left center (1-0).",8,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,1,bot,"LANE, I advanced to third on a wild pitch.",9,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,1,bot,"BELTRE, AJ hit by pitch (1-1).",10,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,1,bot,"WATSON, R flied out to lf (0-1).",11,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,2,top,"TOGLIA, Z struck out looking (2-2).",12,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,2,top,"KANE, D singled to right center (0-2).",13,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,2,top,"MCCARTHY, R homered to right field, 2 RBI (3-2)3a KANE, D scored.",14,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,2,top,"HOLLABAUGH,C grounded out to ss (0-2).",15,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,2,top,"SCOTT, S grounded out to ss (3-2).",16,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,2,bot,"LIBED, N flied out to rf (1-0).",17,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,2,bot,"LOBLINER, J struck out swinging (2-2).",18,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,2,bot,"HOWARD, A struck out swinging (2-2).",19,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,3,top,"NITOWITZ, C grounded out to 2b (3-1).",20,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,3,top,"BEAN, B walked (3-1).",21,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,3,top,"BEAN, B stole second.",22,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,3,top,"SALK, J struck out swinging (2-2).",23,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,3,top,"KATAYAMA-STA doubled to right field, RBI (1-2)3a BEAN, B scored.",24,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,3,top,"TOGLIA, Z walked (3-2).",25,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,3,top,"HARRISON, D to p for HORN JR., D.",26,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,3,top,"KANE, D flied out to cf (1-1).",27,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,3,bot,"MEIDROTH, C flied out to cf to right center (1-0).",28,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,3,bot,"GUREVITCH, J struck out looking, reached first on a wild pitch (0-2).",29,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,3,bot,"LANE, I doubled to right center (3-2)3a GUREVITCH, J advanced to third.",30,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,3,bot,"SMITH, A singled up the middle, 2 RBI (0-1)3a LANE, I scored3a GUREVITCH, J scored.",31,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,3,bot,"BELTRE, AJ hit by pitch (1-0)3a SMITH, A advanced to second.",32,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,3,bot,"WATSON, R hit by pitch (0-0)3a BELTRE, AJ advanced to second3a SMITH, A advanced to third.",33,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,3,bot,"LIBED, N struck out swinging (0-2).",34,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,3,bot,"LOBLINER, J grounded out to ss (1-2).",35,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,4,top,"MCCARTHY, R singled up the middle (3-2).",36,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,4,top,"MCCARTHY, R out at second c to ss, caught stealing.",37,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,4,top,"HOLLABAUGH,C homered to right field, RBI (2-2).",38,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,4,top,"SCOTT, S flied out to rf down the rf line (3-1).",39,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,4,top,"NITOWITZ, C flied out to lf (1-2).",40,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,4,bot,"HOWARD, A singled through the left side (1-1).",41,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,4,bot,"MEIDROTH, C grounded into double play ss to 2b to 1b (0-1)3a HOWARD, A out on the play.",42,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,4,bot,"GUREVITCH, J singled through the right side (2-1).",43,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,4,bot,"LANE, I doubled down the lf line (2-1)3a GUREVITCH, J advanced to third.",44,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,4,bot,"SMITH, A grounded out to ss (1-2).",45,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,5,top,"PALENCIA, F to p for HARRISON, D.",46,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,5,top,"BEAN, B flied out to cf (0-0).",47,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,5,top,"SALK, J singled up the middle (2-0).",48,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,5,top,KATAYAMA-STA struck out looking (2-2).,49,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,5,top,"TOGLIA, Z flied out to lf (1-1).",50,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,5,bot,"BELTRE, AJ singled through the left side (0-1).",51,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,5,bot,"WATSON, R grounded into double play 2b to ss to 1b (1-2)3a BELTRE, AJ out on the play.",52,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,5,bot,"LIBED, N grounded out to 3b (1-2).",53,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,6,top,"ROVIN, P to p for PALENCIA, F.",54,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,6,top,No play.,55,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,6,top,"KANE, D struck out looking (1-2).",56,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,6,top,"MCCARTHY, R struck out swinging (2-2).",57,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,6,top,"HOLLABAUGH,C flied out to cf (2-2).",58,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,6,bot,Offensive team timeout.,59,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,6,bot,"LOBLINER, J grounded out to ss (0-2).",60,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,6,bot,"HOWARD, A struck out swinging (0-2).",61,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,6,bot,"MEIDROTH, C grounded out to 3b (0-2).",62,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,7,top,"SCOTT, S flied out to lf (0-1).",63,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,7,top,"NITOWITZ, C grounded out to ss (3-1).",64,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,7,top,"BEAN, B struck out looking (0-2).",65,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,7,bot,"GUREVITCH, J lined out to 1b down the rf line (2-1).",66,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,7,bot,"LANE, I grounded out to 2b (3-2).",67,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,7,bot,"SMITH, A hit by pitch (1-0).",68,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,7,bot,"UMLANDT, N to p for REMBISZ, R.",69,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,7,bot,"BELTRE, AJ lined out to lf (0-0).",70,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,8,top,"SALK, J grounded out to 2b (1-2).",71,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,8,top,KATAYAMA-STA flied out to cf (1-1).,72,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,8,top,"TOGLIA, Z struck out swinging (3-2).",73,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,8,bot,"WATSON, R singled to center field (3-2).",74,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,8,bot,"ANZAI, AJ to dh for LIBED, N.",75,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,8,bot,"ANZAI, AJ singled through the right side (2-2)3a WATSON, R advanced to second.",76,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,8,bot,"WARD, R pinch ran for ANZAI, AJ.",77,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,8,bot,USD OFFENSIVE TIMEOUT.,78,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,8,bot,"LOBLINER, J grounded out to ss (0-1)3a WARD, R advanced to second3a WATSON, R advanced to third.",79,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,8,bot,"HOWARD, A flied out to cf, SF, RBI (0-0)3a WATSON, R scored.",80,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,8,bot,"MEIDROTH, C tripled down the rf line, RBI (0-1)3a WARD, R scored.",81,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,8,bot,"ANDERSON, L to p for UMLANDT, N.",82,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,8,bot,REVIEW B8 - 1B 96 OVERTURNED TO 2B.,83,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,8,bot,"GUREVITCH, J doubled to right field, RBI3a MEIDROTH, C scored.",84,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596670,8,bot,"LANE, I grounded out to 2b (3-2).",85,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,9,top,"SMITH, A to p.",86,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,9,top,"WARD, R to lf.",87,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,9,top,"HOWARD, A to cf.",88,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,9,top,"/  for ROVIN, P.",89,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,9,top,No play.,90,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,9,top,"KANE, D grounded out to ss (1-0).",91,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,9,top,"MCCARTHY, R struck out swinging (1-2).",92,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025
+6315931,596650,Portland Pilots,596670,San Diego Toreros,596650,9,top,"HOLLABAUGH,C struck out swinging (1-2).",93,2025-04-19T00:00:00-04:00,"Fowler Park (San Diego, CA)",562,MBA,2025

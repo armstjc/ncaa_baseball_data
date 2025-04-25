@@ -1,0 +1,100 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,1,top,T. Bernstein flied out to cf.,1,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,1,top,D. Schnitzer singled up the middle.,2,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,1,top,A. Park lined into double play 2b to 1b3a D. Schnitzer out on the play.,3,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,1,bot,K. Ryan grounded out to c.,4,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,1,bot,J. Margiloff grounded out to 3b.,5,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,1,bot,B. Genser grounded out to 1b unassisted.,6,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,2,top,"W. Sawyer reached first on a fielding error by lf, advanced to second.",7,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,2,top,"A. Stern grounded out to p, SAC, bunt3a W. Sawyer advanced to third.",8,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,2,top,A. Stevenson struck out swinging3a W. Sawyer did not advance.,9,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,2,top,R. Aubin struck out swinging3a W. Sawyer did not advance.,10,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,2,bot,D. Swift grounded out to ss.,11,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,2,bot,G. Sullivan grounded out to 3b.,12,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,2,bot,M. Dushney grounded out to 3b.,13,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,3,top,L. Saldivia struck out looking.,14,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,3,top,A. Niman singled up the middle.,15,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,3,top,T. Bernstein reached on a fielder's choice3a A. Niman out at second 1b to ss.,16,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,3,top,"T. Bernstein out at second c to 2b, caught stealing.",17,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,3,bot,L. Yardley struck out swinging.,18,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,3,bot,"B. Gesmondi grounded out to p, bunt.",19,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,3,bot,J. Yoxall grounded out to 3b.,20,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,4,top,D. Schnitzer walked.,21,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,4,top,A. Park singled up the middle3a D. Schnitzer advanced to second.,22,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,4,top,"W. Sawyer reached first on a throwing error by p, SAC, bunt3a A. Park advanced to third3a D. Schnitzer scored.",23,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,4,top,"A. Stern flied out to lf, SAC, RBI3a W. Sawyer did not advance3a A. Park scored.",24,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,4,top,"A. Stevenson doubled to left center, RBI3a W. Sawyer scored, unearned.",25,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,4,top,R. Aubin singled to right center3a A. Stevenson advanced to third.,26,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,4,top,L. Saldivia struck out swinging3a R. Aubin out at second c to ss3a A. Stevenson did not advance.,27,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,4,bot,K. Ryan singled to shortstop.,28,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,4,bot,J. Margiloff grounded into double play 3b to 2b to 1b3a K. Ryan out on the play.,29,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,4,bot,B. Genser grounded out to 2b.,30,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,5,top,A. Niman grounded out to p.,31,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,5,top,"T. Bernstein homered to left field, RBI.",32,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,5,top,D. Schnitzer singled to center field.,33,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,5,top,"D. Schnitzer out at second c to ss, caught stealing.",34,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,5,top,A. Park grounded out to p.,35,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,5,bot,D. Swift singled to left field.,36,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,5,bot,G. Sullivan flied out to rf3a D. Swift did not advance.,37,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,5,bot,M. Dushney singled to center field3a D. Swift advanced to second.,38,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,5,bot,L. Yardley walked3a M. Dushney advanced to second3a D. Swift advanced to third.,39,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,5,bot,"B. Gesmondi doubled down the lf line, 2 RBI3a L. Yardley advanced to third3a M. Dushney scored3a D. Swift scored.",40,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,5,bot,"J. Yoxall reached on a fielder's choice to third base, RBI3a B. Gesmondi did not advance3a L. Yardley scored.",41,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,5,bot,K. Ryan grounded into double play 3b to 2b to 1b3a J. Yoxall out on the play3a B. Gesmondi did not advance.,42,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,6,top,W. Sawyer singled through the right side.,43,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,6,top,A. Stern fouled out to 3b3a W. Sawyer did not advance.,44,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,6,top,A. Stevenson singled to center field3a W. Sawyer advanced to second.,45,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,6,top,B. Stone pinch ran for A. Stevenson.,46,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,6,top,R. Aubin walked3a B. Stone advanced to second3a W. Sawyer advanced to third.,47,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,6,top,N. Hobbs to p for J. Tully.,48,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,6,top,"L. Saldivia flied out to rf, sacrifice fly, RBI3a R. Aubin did not advance3a B. Stone advanced to third3a W. Sawyer scored.",49,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,6,top,"R. Aubin stole second3a B. Stone scored on a throwing error by c, unearned.",50,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,6,top,A. Niman struck out swinging3a R. Aubin did not advance.,51,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,6,bot,J. Margiloff grounded out to 3b.,52,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,6,bot,B. Genser flied out to rf.,53,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,6,bot,D. Swift hit by pitch.,54,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,6,bot,G. Sullivan grounded out to 3b3a D. Swift did not advance.,55,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,7,top,T. Bernstein walked.,56,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,7,top,T. Bernstein advanced to second on a throwing error by p.,57,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,7,top,D. Schnitzer grounded out to ss3a T. Bernstein advanced to third.,58,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,7,top,"A. Park grounded out to 1b unassisted, RBI3a T. Bernstein scored, unearned.",59,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,7,top,W. Sawyer grounded out to 3b.,60,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,7,bot,M. Dushney grounded out to 2b.,61,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,7,bot,L. Yardley flied out to lf.,62,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,7,bot,B. Gesmondi struck out looking.,63,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,8,top,"A. Stern singled to pitcher, bunt.",64,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,8,top,"B. Stone grounded out to c, SAC, bunt3a A. Stern advanced to second.",65,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,8,top,A. Stern stole third.,66,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,8,top,"R. Aubin singled to right field, RBI3a A. Stern scored.",67,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,8,top,M. Shrake to p for N. Hobbs.,68,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,8,top,"R. Aubin out at second p to 1b to ss to 1b, caught stealing.",69,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,8,top,L. Saldivia walked.,70,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,8,top,"L. Saldivia out at second c to ss, caught stealing.",71,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,8,bot,J. Yoxall hit by pitch.,72,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,8,bot,K. Ryan hit by pitch3a J. Yoxall advanced to second.,73,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,8,bot,J. Margiloff singled to left field3a K. Ryan advanced to second3a J. Yoxall advanced to third.,74,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,8,bot,"B. Genser flied out to cf, sacrifice fly, RBI3a J. Margiloff did not advance3a K. Ryan did not advance3a J. Yoxall scored.",75,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,8,bot,"D. Swift homered to left field, 3 RBI3a J. Margiloff scored3a K. Ryan scored.",76,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,8,bot,G. Sullivan flied out to cf.,77,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,8,bot,M. Dushney grounded out to ss.,78,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,9,top,A. Niman singled to shortstop.,79,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,9,top,C. Bushley to p for M. Shrake.,80,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,9,top,T. Bernstein singled through the right side3a A. Niman advanced to third.,81,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,9,top,"D. Schnitzer singled to right field, RBI3a T. Bernstein advanced to third3a A. Niman scored.",82,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,9,top,"A. Park singled to left field, RBI3a D. Schnitzer advanced to second3a T. Bernstein scored.",83,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,9,top,W. Sawyer fouled out to 1b3a A. Park did not advance3a D. Schnitzer did not advance.,84,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,9,top,D. Schnitzer stole third.,85,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,9,top,A. Stern walked3a A. Park advanced to second3a D. Schnitzer did not advance.,86,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,9,top,"B. Stone doubled down the lf line, 3 RBI3a A. Stern scored3a A. Park scored3a D. Schnitzer scored.",87,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,9,top,R. Aubin flied out to rf3a B. Stone advanced to third.,88,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597048,9,top,L. Saldivia struck out swinging3a B. Stone did not advance.,89,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,9,bot,A. Gabriel to p for J. Capano.,90,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,9,bot,L. Yoon pinch hit for L. Yardley.,91,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,9,bot,L. Yoon struck out swinging.,92,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,9,bot,B. Gesmondi flied out to rf.,93,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,9,bot,B. Biggane pinch hit for J. Yoxall.,94,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,9,bot,B. Biggane singled through the left side.,95,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,9,bot,J. Federico pinch ran for B. Biggane.,96,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,9,bot,K. Ryan singled to center field3a J. Federico advanced to second.,97,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,9,bot,K. Ryan advanced to second3a J. Federico advanced to third on a balk.,98,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025
+6379754,597048,Trinity (CT) Bantams,597223,Bates Bobcats,597223,9,bot,J. Margiloff out at first 1b to p3a K. Ryan did not advance3a J. Federico did not advance.,99,2025-04-24T00:00:00-04:00,"Leahey Field (Lewiston, ME)",400,MBA,2025

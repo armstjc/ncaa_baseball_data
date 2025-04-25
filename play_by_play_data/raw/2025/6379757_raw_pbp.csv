@@ -1,0 +1,92 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,1,top,Kelly singled to shortstop.,1,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,1,top,Crawford popped up to ss.,2,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,1,top,L. McLean grounded into double play 3b to 2b to 1b3a Kelly out on the play.,3,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,1,bot,G. Santana walked.,4,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,1,bot,C. Rumaldo flied out to cf.,5,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,1,bot,G. Santana stole second.,6,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,1,bot,E. Rumaldo walked.,7,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,1,bot,R. Bellamy lined out to lf.,8,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,1,bot,"E. Rumaldo out at first c to 1b, picked off.",9,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,2,top,Moffett reached on a fielding error by 1b.,10,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,2,top,Howard singled through the left side3a Moffett advanced to second.,11,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,2,top,Kenney flied out to lf.,12,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,2,top,"J. Howard singled through the left side, RBI3a Howard advanced to second3a Moffett scored, unearned.",13,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,2,top,Mitta walked3a J. Howard advanced to second3a Howard advanced to third.,14,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,2,top,"Talley flied out to cf, SAC, RBI3a J. Howard advanced to third3a Howard scored.",15,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,2,top,Kelly hit by pitch3a Mitta advanced to second.,16,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,2,top,Crawford struck out looking.,17,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,2,bot,J. Dunlap grounded out to 2b.,18,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,2,bot,N. Simpson doubled down the lf line.,19,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,2,bot,B. Bausas fouled out to 1b.,20,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,2,bot,E. Robinson struck out swinging.,21,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,3,top,L. McLean grounded out to 3b.,22,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,3,top,"Moffett homered to right field, RBI.",23,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,3,top,Howard walked.,24,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,3,top,Kenney reached on a fielding error by 3b3a Howard advanced to second.,25,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,3,top,J. Howard reached on a fielder's choice3a Kenney out at second 3b to 2b3a Howard advanced to third.,26,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,3,top,Mitta popped up to ss.,27,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,3,bot,C. Rector struck out looking.,28,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,3,bot,G. Santana flied out to rf.,29,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,3,bot,C. Rumaldo flied out to rf.,30,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,4,top,Talley walked.,31,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,4,top,Kelly singled to third base3a Talley advanced to second.,32,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,4,top,Crawford reached on a fielder's choice3a Kelly advanced to second3a Talley out at third p to 3b.,33,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,4,top,"L. McLean doubled down the lf line, advanced to third on the throw, 2 RBI3a Crawford scored3a Kelly scored.",34,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,4,top,"Moffett doubled to center field, RBI3a L. McLean scored.",35,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,4,top,"Howard singled to left field, advanced to second on the throw3a Moffett advanced to third.",36,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,4,top,Kenney walked.,37,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,4,top,J. Howard struck out swinging.,38,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,4,top,Mitta struck out looking.,39,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,4,bot,E. Rumaldo grounded out to ss.,40,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,4,bot,R. Bellamy walked.,41,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,4,bot,J. Dunlap singled through the right side3a R. Bellamy advanced to second.,42,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,4,bot,N. Simpson struck out swinging.,43,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,4,bot,B. Bausas grounded out to 2b.,44,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,5,top,J. Tripp to p for J. Wise.,45,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,5,top,Talley hit by pitch.,46,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,5,top,"Talley out at second c to ss, caught stealing.",47,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,5,top,Kelly walked.,48,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,5,top,Kelly stole second.,49,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,5,top,Crawford flied out to rf3a Kelly advanced to third.,50,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,5,top,"L. McLean singled up the middle, RBI3a Kelly scored.",51,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,5,top,Moffett popped up to 3b.,52,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,5,bot,E. Robinson grounded out to ss.,53,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,5,bot,C. Rector singled to right center.,54,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,5,bot,J. James pinch hit for G. Santana.,55,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,5,bot,J. James struck out swinging.,56,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,5,bot,N. Cleghorn pinch hit for C. Rumaldo.,57,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,5,bot,N. Cleghorn struck out swinging.,58,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,6,top,Z. Wilson to p for J. Tripp.,59,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,6,top,J. James to cf.,60,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,6,top,N. Cleghorn to rf.,61,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,6,top,Howard struck out swinging.,62,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,6,top,Kenney flied out to lf.,63,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,6,top,J. Howard singled through the left side.,64,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,6,top,J. Howard advanced to second on a passed ball.,65,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,6,top,Mitta struck out swinging.,66,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,6,bot,A. Brown pinch hit for E. Rumaldo.,67,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,6,bot,A. Brown reached on a throwing error by ss.,68,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,6,bot,R. Bellamy singled to right center3a A. Brown advanced to third.,69,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,6,bot,K. Miranda pinch hit for J. Dunlap.,70,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,6,bot,K. Miranda walked3a R. Bellamy advanced to second.,71,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,6,bot,E. M. Robins pinch hit for N. Simpson.,72,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,6,bot,E. M. Robins flied out to lf.,73,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,6,bot,"B. Bausas flied out to lf, SAC, RBI3a R. Bellamy advanced to third3a A. Brown scored, unearned.",74,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,6,bot,"E. Robinson singled up the middle, RBI3a K. Miranda advanced to second3a R. Bellamy scored.",75,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,6,bot,C. Rector reached on a fielder's choice3a E. Robinson out at second 2b to ss.,76,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,7,top,A. Brown to 3b.,77,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,7,top,K. Miranda to dh.,78,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,7,top,E. M. Robins to c.,79,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,7,top,Talley struck out swinging.,80,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,7,top,Kelly doubled to center field.,81,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,7,top,Crawford struck out looking.,82,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,7,top,"L. McLean homered to left field, 2 RBI3a Kelly scored.",83,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,7,top,Moffett walked.,84,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596738,7,top,Howard flied out to cf.,85,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,7,bot,J. James struck out swinging.,86,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,7,bot,N. Cleghorn walked.,87,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,7,bot,A. Brown struck out swinging.,88,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,7,bot,N. Cleghorn stole second.,89,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,7,bot,"R. Bellamy singled to right field, RBI3a N. Cleghorn scored.",90,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025
+6379757,596738,Mount Olive Trojans,596772,Chowan Hawks,596772,7,bot,K. Miranda reached on a fielder's choice3a R. Bellamy out at second 2b to ss.,91,2025-04-24T00:00:00-04:00,"Hawkins Field (Murfreesboro, NC)",104,MBA,2025

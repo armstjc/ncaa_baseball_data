@@ -1,0 +1,91 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,1,top,"Weather: Cloudy, 58F, wind NNW 10-15 mph.",1,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,1,top,First Pitch: 6:05 pm.,2,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,1,top,"Inoue, S. walked (3-2 KFFBBFBB).",3,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,1,top,"Dardar, S. singled through the right side (2-2 FBBS); Inoue, S. advanced to second.",4,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,1,top,"Madliak, B. grounded into double play ss to 2b to 1b (2-2 KKBB); Dardar, S. out on the play; Inoue, S. advanced to third.",5,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,1,top,"Flores, S. popped up to 3b (2-1 BKB).",6,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,1,bot,"Cerda, D. struck out looking (2-2 BBSKK).",7,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,1,bot,"Ballinger, B struck out swinging (2-2 KKBBS).",8,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,1,bot,"Hauge, J. walked (3-1 BBSBB).",9,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,1,bot,"Osoria, D. struck out swinging (2-2 BFBKS).",10,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,2,top,"O'Connor, K. walked (3-2 KBFBFBB).",11,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,2,top,"Evasco, A. lined out to rf (0-1 K).",12,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,2,top,"Martin, M. walked (3-2 BSBBSB); O'Connor, K. advanced to second.",13,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,2,top,"Kennedy, D. flied out to rf (2-1 BKB); Martin, M. advanced to second; O'Connor, K. advanced to third.",14,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,2,top,"Lewis, D. doubled down the rf line, 2 RBI (0-0); Martin, M. scored; O'Connor, K. scored.",15,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,2,top,"Inoue, S. lined out to rf (2-1 SBB).",16,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,2,bot,"Counsell, B. struck out swinging (2-2 KKBFBFFS).",17,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,2,bot,"Brooks, M. grounded out to ss (0-1 K).",18,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,2,bot,"Barth, T. grounded out to 3b (2-2 BSSB).",19,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,3,top,"Dardar, S. struck out looking (3-2 BKSBBK).",20,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,3,top,"Madliak, B. grounded out to ss (2-1 BBS).",21,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,3,top,"Flores, S. singled through the right side (0-1 K).",22,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,3,top,"O'Connor, K. singled up the middle (3-2 BFFBFB); Flores, S. advanced to third.",23,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,3,top,"Evasco, A. hit by pitch (1-0 B); O'Connor, K. advanced to second.",24,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,3,top,"Evasco, A. advanced to second; O'Connor, K. advanced to third; Flores, S. scored on a wild pitch.",25,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,3,top,"Martin, M. grounded out to 3b (1-2 KKB).",26,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,3,bot,"Francis, I. grounded out to ss (1-2 BFK).",27,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,3,bot,"Smith, S. walked (3-2 BKFFBBB).",28,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,3,bot,"Cerda, D. lined out to cf (3-1 BBFB).",29,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,3,bot,"Ballinger, B popped up to ss (2-0 BB).",30,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,4,top,"Kennedy, D. grounded out to ss (1-0 B).",31,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,4,top,"Lewis, D. singled through the right side (0-1 K).",32,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,4,top,"Lewis, D. out at second c to ss, caught stealing.",33,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,4,top,"Inoue, S. walked (3-2 BBKFBB).",34,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,4,top,"Dardar, S. grounded out to 2b (1-2 BFF).",35,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,4,bot,"Hauge, J. singled to right field (1-2 KBF).",36,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,4,bot,"Osoria, D. struck out looking (1-2 BFSK).",37,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,4,bot,"Counsell, B. popped up to 2b (1-0 B).",38,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,4,bot,"Brooks, M. walked (3-1 BBBKB); Hauge, J. advanced to second.",39,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,4,bot,"Barth, T. reached on a fielding error by ss (0-1 S); Brooks, M. advanced to second; Hauge, J. advanced to third.",40,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,4,bot,"Francis, I. struck out looking (0-2 KFK).",41,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,5,top,"Madliak, B. struck out looking (3-2 BSSBBK).",42,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,5,top,"Flores, S. grounded out to 1b unassisted (0-1 K).",43,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,5,top,"O'Connor, K. grounded out to 3b (0-2 KF).",44,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,5,bot,"Smith, S. doubled to left field (3-2 FSBBBF).",45,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,5,bot,"Cerda, D. grounded out to 3b (0-0).",46,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,5,bot,"Ballinger, B fouled out to 3b (1-0 B).",47,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,5,bot,"Hauge, J. struck out swinging (1-2 KSFBS).",48,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,6,top,"Evasco, A. walked (3-2 KBBBFFB).",49,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,6,top,"Martin, M. popped up to 3b (0-0).",50,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,6,top,"Evasco, A. advanced to second on a wild pitch.",51,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,6,top,"Kennedy, D. grounded out to 3b (2-1 BSB).",52,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,6,top,"Lewis, D. walked (3-0 BBBB).",53,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,6,top,"West, M. to p for Voegele, D..",54,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,6,top,"Inoue, S. walked (3-0 BBBB); Lewis, D. advanced to second; Evasco, A. advanced to third.",55,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,6,top,"Dardar, S. flied out to cf (0-1 S).",56,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,6,bot,"Osoria, D. flied out to rf (2-2 BKSFFB).",57,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,6,bot,"Counsell, B. struck out swinging (2-2 BBFFS).",58,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,6,bot,"Brooks, M. struck out swinging (1-2 BSSFS).",59,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,7,top,"Madliak, B. grounded out to ss (0-1 K).",60,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,7,top,"Flores, S. doubled down the rf line (2-2 BBFF).",61,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,7,top,"O'Connor, K. grounded out to ss (0-0).",62,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,7,top,"Evasco, A. popped up to 2b (1-1 BS).",63,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,7,bot,"Barth, T. struck out swinging (2-2 BSBKS).",64,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,7,bot,"Francis, I. grounded out to 3b (0-0).",65,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,7,bot,"Smith, S. walked (3-0 BBBB).",66,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,7,bot,"Guyette, J. to p for Frost, J..",67,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,7,bot,"Cerda, D. walked (3-0 BBBB); Smith, S. advanced to second.",68,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,7,bot,"Ballinger, B singled to left field, RBI (1-2 KBS); Cerda, D. advanced to third; Smith, S. scored.",69,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,7,bot,"Hauge, J. homered to left center, 3 RBI (0-0); Ballinger, B scored; Cerda, D. scored.",70,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,7,bot,"Osoria, D. singled to second base (2-2 BSBKF).",71,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,7,bot,"Williams, T. pinch ran for Osoria, D..",72,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,7,bot,"Counsell, B. struck out looking (2-2 BFBFFK).",73,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,8,top,"Breckheimer to p for West, M..",74,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,8,top,"Koszewski, M to rf for Hauge, J..",75,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,8,top,"Diggins, C. to 2b for Counsell, B..",76,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,8,top,"Brooks, M. to 3b.",77,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,8,top,"Martin, M. flied out to rf (1-2 KBS).",78,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,8,top,"Kennedy, D. struck out swinging (1-2 SBSFFFFFS).",79,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,8,top,"Lewis, D. grounded out to 3b (0-0).",80,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,8,bot,"Brooks, M. flied out to rf (2-1 BKB).",81,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,8,bot,"Barth, T. tripled to right field (0-0).",82,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,8,bot,"Francis, I. struck out looking (1-2 BFFFK).",83,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,8,bot,"Smith, S. walked (3-2 BSBFBFB).",84,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,8,bot,"Cerda, D. singled to center field, RBI (0-0); Smith, S. advanced to third; Barth, T. scored.",85,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,8,bot,"Arther, A. to p for Guyette, J..",86,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596575,8,bot,"Ballinger, B flied out to lf (2-1 KBB).",87,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,9,top,"Inoue, S. grounded out to ss (3-2 BBKBK).",88,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,9,top,"Dardar, S. struck out swinging (0-2 FFS).",89,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
+6303439,596574,Kansas St. Wildcats,596575,Kansas Jayhawks,596574,9,top,"Madliak, B. struck out swinging (0-2 KSS).",90,2025-04-18T00:00:00-04:00,"Hoglund Ballpark (Lawrence, KS)",2162,MBA,2025
