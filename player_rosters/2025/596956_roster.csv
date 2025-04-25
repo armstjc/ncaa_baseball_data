@@ -1,37 +1,38 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8883844,6,Will Bradley,Will,Bradley,Jr.,C,5-10,,RIGHT,RIGHT,"Norman, OK",Norman North HS,16,13,https://stats.ncaa.org/players/8883844
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8886011,2,Nolan Casbeer,Nolan,Casbeer,So.,INF,5-11,,RIGHT,RIGHT,"Graham, TX",Graham HS,2,2,https://stats.ncaa.org/players/8886011
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8874038,14,Gabe Clyden,Gabe,Clyden,Jr.,INF,5-10,,RIGHT,RIGHT,"Piedmont, OK",Piedmont HS,17,14,https://stats.ncaa.org/players/8874038
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8883453,31,Rylan Byrd,Rylan,Byrd,Sr.,P,6-4,,,,"Forney, TX",Forney HS,2,0,https://stats.ncaa.org/players/8883453
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8889754,32,Josh Martinez,Josh,Martinez,Sr.,P,6-0,,,,"Cypress, TX",Cy-Fair HS,8,2,https://stats.ncaa.org/players/8889754
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8882485,34,Luke Lensing,Luke,Lensing,Sr.,P,6-4,,,,"Mansfield, TX",Mansfield HS,6,3,https://stats.ncaa.org/players/8882485
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8883653,16,Elijah Tolsma,Elijah,Tolsma,Sr.,OF,6-1,,RIGHT,RIGHT,"Charlotte, NC",Bishop Montgomery HS,14,12,https://stats.ncaa.org/players/8883653
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172098,3,Donovan Borg,Donovan,Borg,Jr.,OF,5-11,,,,,St. Clair HS,21,20,https://stats.ncaa.org/players/9172098
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172103,8,Keegan Solomon,Keegan,Solomon,Fr.,,-,,,,,,21,21,https://stats.ncaa.org/players/9172103
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172113,21,Reese Milam,Reese,Milam,Jr.,,-,,,,,,11,0,https://stats.ncaa.org/players/9172113
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172127,25,Cody Hill,Cody,Hill,Jr.,,-,,,,,,3,0,https://stats.ncaa.org/players/9172127
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172131,30,Cullen Flowers,Cullen,Flowers,Jr.,,-,,,,,,5,1,https://stats.ncaa.org/players/9172131
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172132,33,Ryken Brandsma,Ryken,Brandsma,Fr.,,-,,,,,,6,5,https://stats.ncaa.org/players/9172132
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172133,35,Brandon Smith,Brandon,Smith,Fr.,,-,,,,,,4,0,https://stats.ncaa.org/players/9172133
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8892209,13,Ben Williams,Ben,Williams,Sr.,P,5-11,,LEFT,LEFT,"Frisco, TX",Reedy HS,2,0,https://stats.ncaa.org/players/8892209
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172108,12,Wyatt Cunningham,Wyatt,Cunningham,Jr.,,-,,,,,,25,25,https://stats.ncaa.org/players/9172108
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172111,18,Brandon Harper,Brandon,Harper,Sr.,,-,,,,,,15,15,https://stats.ncaa.org/players/9172111
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8898684,15,Victor Munoz,Victor,Munoz,Sr.,P,6-2,,,,"El Paso, TX",Cathedral HS,7,7,https://stats.ncaa.org/players/8898684
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9315370,22,C. Popp,C.,Popp,So.,p,-,,,,,,3,0,https://stats.ncaa.org/players/9315370
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8883844,6,Will Bradley,Will,Bradley,Jr.,C,5-10,,RIGHT,RIGHT,"Norman, OK",Norman North HS,19,16,https://stats.ncaa.org/players/8883844
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8886011,2,Nolan Casbeer,Nolan,Casbeer,So.,INF,5-11,,RIGHT,RIGHT,"Graham, TX",Graham HS,3,2,https://stats.ncaa.org/players/8886011
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8874038,14,Gabe Clyden,Gabe,Clyden,Jr.,INF,5-10,,RIGHT,RIGHT,"Piedmont, OK",Piedmont HS,20,17,https://stats.ncaa.org/players/8874038
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8883453,31,Rylan Byrd,Rylan,Byrd,Sr.,P,6-4,,,,"Forney, TX",Forney HS,4,0,https://stats.ncaa.org/players/8883453
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8889754,32,Josh Martinez,Josh,Martinez,Sr.,P,6-0,,,,"Cypress, TX",Cy-Fair HS,11,5,https://stats.ncaa.org/players/8889754
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8882485,34,Luke Lensing,Luke,Lensing,Sr.,P,6-4,,,,"Mansfield, TX",Mansfield HS,7,3,https://stats.ncaa.org/players/8882485
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8883653,16,Elijah Tolsma,Elijah,Tolsma,Sr.,OF,6-1,,RIGHT,RIGHT,"Charlotte, NC",Bishop Montgomery HS,19,17,https://stats.ncaa.org/players/8883653
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172098,3,Donovan Borg,Donovan,Borg,Jr.,OF,5-11,,,,,St. Clair HS,34,33,https://stats.ncaa.org/players/9172098
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172103,8,Keegan Solomon,Keegan,Solomon,Fr.,,-,,,,,,29,29,https://stats.ncaa.org/players/9172103
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172113,21,Reese Milam,Reese,Milam,Jr.,,-,,,,,,15,0,https://stats.ncaa.org/players/9172113
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172127,25,Cody Hill,Cody,Hill,Jr.,,-,,,,,,4,0,https://stats.ncaa.org/players/9172127
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172131,30,Cullen Flowers,Cullen,Flowers,Jr.,,-,,,,,,7,1,https://stats.ncaa.org/players/9172131
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172132,33,Ryken Brandsma,Ryken,Brandsma,Fr.,,-,,,,,,10,9,https://stats.ncaa.org/players/9172132
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172133,35,Brandon Smith,Brandon,Smith,Fr.,,-,,,,,,6,0,https://stats.ncaa.org/players/9172133
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8892209,13,Ben Williams,Ben,Williams,Sr.,P,5-11,,LEFT,LEFT,"Frisco, TX",Reedy HS,8,3,https://stats.ncaa.org/players/8892209
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172108,12,Wyatt Cunningham,Wyatt,Cunningham,Jr.,,-,,,,,,38,38,https://stats.ncaa.org/players/9172108
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172111,18,Brandon Harper,Brandon,Harper,Sr.,,-,,,,,,24,24,https://stats.ncaa.org/players/9172111
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8898684,15,Victor Munoz,Victor,Munoz,Sr.,P,6-2,,,,"El Paso, TX",Cathedral HS,10,10,https://stats.ncaa.org/players/8898684
 2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8891914,28,Camden Byrd,Camden,Byrd,Sr.,P,6-3,,,,"Forney, TX",Forney HS,0,0,https://stats.ncaa.org/players/8891914
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172097,1,Kody Bigford,Kody,Bigford,Sr.,1B,-,,,,"Burkburnett, TX",Burkburnett HS,24,23,https://stats.ncaa.org/players/9172097
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172100,5,Cooper Weatherly,Cooper,Weatherly,Fr.,,-,,,,,,11,4,https://stats.ncaa.org/players/9172100
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172101,7,Lance Barnett,Lance,Barnett,Sr.,1b,-,,,,,,15,14,https://stats.ncaa.org/players/9172101
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172110,17,Randy Aberouette,Randy,Aberouette,Sr.,c,-,,,,,,5,2,https://stats.ncaa.org/players/9172110
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8902586,20,Josh Hernandez,Josh,Hernandez,Sr.,1B,-,,,,,,4,1,https://stats.ncaa.org/players/8902586
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172097,1,Kody Bigford,Kody,Bigford,Sr.,1B,-,,,,"Burkburnett, TX",Burkburnett HS,37,36,https://stats.ncaa.org/players/9172097
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172100,5,Cooper Weatherly,Cooper,Weatherly,Fr.,,-,,,,,,19,8,https://stats.ncaa.org/players/9172100
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172101,7,Lance Barnett,Lance,Barnett,Sr.,1b,-,,,,,,16,15,https://stats.ncaa.org/players/9172101
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172110,17,Randy Aberouette,Randy,Aberouette,Sr.,c,-,,,,,,7,3,https://stats.ncaa.org/players/9172110
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,8902586,20,Josh Hernandez,Josh,Hernandez,Sr.,1B,-,,,,,,5,1,https://stats.ncaa.org/players/8902586
 2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172104,9,Collin Godfrey,Collin,Godfrey,Fr.,,-,,,,,,15,9,https://stats.ncaa.org/players/9172104
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172106,10,Zane Roos,Zane,Roos,Fr.,,-,,,,,,24,24,https://stats.ncaa.org/players/9172106
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172107,11,Owen Rice,Owen,Rice,Fr.,,-,,,,,,18,14,https://stats.ncaa.org/players/9172107
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172106,10,Zane Roos,Zane,Roos,Fr.,,-,,,,,,37,37,https://stats.ncaa.org/players/9172106
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172107,11,Owen Rice,Owen,Rice,Fr.,,-,,,,,,24,20,https://stats.ncaa.org/players/9172107
 2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172115,22,Hunter Tate,Hunter,Tate,So.,,-,,,,,,2,2,https://stats.ncaa.org/players/9172115
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172119,23,Aidan Duggan,Aidan,Duggan,So.,,-,,,,,,8,0,https://stats.ncaa.org/players/9172119
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172119,23,Aidan Duggan,Aidan,Duggan,So.,,-,,,,,,11,0,https://stats.ncaa.org/players/9172119
 2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9218533,43,Collin Godfrey,Collin,Godfrey,Fr.,INF,-,,,,,,0,0,https://stats.ncaa.org/players/9218533
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172112,19,Jordan Hodges,Jordan,Hodges,Jr.,,-,,,,,,5,0,https://stats.ncaa.org/players/9172112
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172099,4,Diego Villarreal,Diego,Villarreal,Jr.,,-,,,,,,27,27,https://stats.ncaa.org/players/9172099
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172128,26,Wilmer Henriquez,Wilmer,Henriquez,Jr.,,-,,,,,,20,18,https://stats.ncaa.org/players/9172128
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172125,24,Ryan Kopp,Ryan,Kopp,Fr.,INF,5-7,,,,"Snyder, OK",Snyder HS,9,0,https://stats.ncaa.org/players/9172125
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172129,27,Hunter Davis,Hunter,Davis,Sr.,,-,,,,,,6,1,https://stats.ncaa.org/players/9172129
-2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172130,29,Nolan Archuleta,Nolan,Archuleta,Sr.,P,-,,,,,,2,1,https://stats.ncaa.org/players/9172130
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172112,19,Jordan Hodges,Jordan,Hodges,Jr.,,-,,,,,,7,0,https://stats.ncaa.org/players/9172112
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172099,4,Diego Villarreal,Diego,Villarreal,Jr.,,-,,,,,,40,40,https://stats.ncaa.org/players/9172099
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172128,26,Wilmer Henriquez,Wilmer,Henriquez,Jr.,,-,,,,,,32,30,https://stats.ncaa.org/players/9172128
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172125,24,Ryan Kopp,Ryan,Kopp,Fr.,INF,5-7,,,,"Snyder, OK",Snyder HS,11,0,https://stats.ncaa.org/players/9172125
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172129,27,Hunter Davis,Hunter,Davis,Sr.,,-,,,,,,8,1,https://stats.ncaa.org/players/9172129
+2025,2024-25,MBA,2,II,Lone Star,996,Cameron,9172130,29,Nolan Archuleta,Nolan,Archuleta,Sr.,P,-,,,,,,3,1,https://stats.ncaa.org/players/9172130

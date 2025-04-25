@@ -1,43 +1,44 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8890182,18,Davis Smith,Davis,Smith,Sr.,P,6-6,,RIGHT,RIGHT,"Social Circle, GA",Social Circle,8,0,https://stats.ncaa.org/players/8890182
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8879797,31,Will Robbins,Will,Robbins,Jr.,P,5-11,,LEFT,LEFT,"Cumming, GA",Forsyth Central,8,0,https://stats.ncaa.org/players/8879797
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8880845,41,Garrett Mackowiak,Garrett,Mackowiak,So.,P,5-9,,LEFT,LEFT,"Wesley Chapel, FL",P27 Academy,2,0,https://stats.ncaa.org/players/8880845
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8877761,2,Rhett Hammontree,Rhett,Hammontree,Sr.,INF,6-1,,RIGHT,RIGHT,"Dalton, GA",Dalton,2,0,https://stats.ncaa.org/players/8877761
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8887995,34,Jacob Phillips,Jacob,Phillips,Sr.,P,6-0,,LEFT,LEFT,"Ocala, FL",North Marion,7,2,https://stats.ncaa.org/players/8887995
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8890182,18,Davis Smith,Davis,Smith,Sr.,P,6-6,,RIGHT,RIGHT,"Social Circle, GA",Social Circle,13,0,https://stats.ncaa.org/players/8890182
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9314486,16,Jonathan Jaime,Jonathan,Jaime,Jr.,dh,-,,,,,,10,10,https://stats.ncaa.org/players/9314486
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8879797,31,Will Robbins,Will,Robbins,Jr.,P,5-11,,LEFT,LEFT,"Cumming, GA",Forsyth Central,14,0,https://stats.ncaa.org/players/8879797
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8880845,41,Garrett Mackowiak,Garrett,Mackowiak,So.,P,5-9,,LEFT,LEFT,"Wesley Chapel, FL",P27 Academy,3,0,https://stats.ncaa.org/players/8880845
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8877761,2,Rhett Hammontree,Rhett,Hammontree,Sr.,INF,6-1,,RIGHT,RIGHT,"Dalton, GA",Dalton,5,0,https://stats.ncaa.org/players/8877761
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8887995,34,Jacob Phillips,Jacob,Phillips,Sr.,P,6-0,,LEFT,LEFT,"Ocala, FL",North Marion,11,2,https://stats.ncaa.org/players/8887995
 2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8875924,33,Sawyer Osborne,Sawyer,Osborne,Sr.,P,6-1,,RIGHT,RIGHT,"Oakboro, NC",Mount Pleasant,1,0,https://stats.ncaa.org/players/8875924
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8878939,4,Luke Odden,Luke,Odden,Sr.,INF,6-0,,BOTH,RIGHT,"Scottsdale, AZ",Brophy College Prep,24,24,https://stats.ncaa.org/players/8878939
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8875412,6,Daniel Haab,Daniel,Haab,Sr.,OF,6-0,,RIGHT,RIGHT,"Norcross, GA",Norcross,24,21,https://stats.ncaa.org/players/8875412
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8878440,29,Sean White,Sean,White,Sr.,C,6-1,,RIGHT,RIGHT,"Peachtree City, GA",Starrs Mill,20,20,https://stats.ncaa.org/players/8878440
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8883676,21,J.C. Peacher,J.C.,Peacher,Sr.,OF,6-1,,LEFT,LEFT,"Pace, FL",Pace,18,9,https://stats.ncaa.org/players/8883676
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8898072,23,Landry Mead,Landry,Mead,Sr.,UT,6-0,,RIGHT,RIGHT,"Vidalia, GA",Vadalia,2,0,https://stats.ncaa.org/players/8898072
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8893571,16,Jonathan Jamie,Jonathan,Jamie,Jr.,OF,6-2,,LEFT,LEFT,"Snellville, GA",Brookwood,9,5,https://stats.ncaa.org/players/8893571
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8898749,9,JD Kaiser,JD,Kaiser,Sr.,C,6-1,,LEFT,RIGHT,"Statesboro, GA",Statesboro,14,11,https://stats.ncaa.org/players/8898749
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8890817,12,Sean Smith,Sean,Smith,Jr.,OF,6-1,,RIGHT,RIGHT,"Moss Point, MS",Pascagoula,24,24,https://stats.ncaa.org/players/8890817
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8898275,5,Cade Parker,Cade,Parker,Sr.,INF,6-0,,RIGHT,RIGHT,"Panama City Beach, FL",Deane Bozeman School,24,24,https://stats.ncaa.org/players/8898275
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8896526,11,Joey White,Joey,White,Jr.,P,5-10,,RIGHT,RIGHT,"Pembroke, GA",Savannah Christian Prep,4,0,https://stats.ncaa.org/players/8896526
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8900577,7,Josh Tate,Josh,Tate,Jr.,OF,5-11,,RIGHT,RIGHT,"Peachtree City, GA",Starr's Mill,24,24,https://stats.ncaa.org/players/8900577
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8902250,99,Brady Pendley,Brady,Pendley,Jr.,P,6-1,,RIGHT,RIGHT,"Dalton, GA",Dalton,7,0,https://stats.ncaa.org/players/8902250
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9101016,27,Evan Vandenbosch,Evan,Vandenbosch,Jr.,P,6-4,,LEFT,LEFT,"Fort Mill, SC",Legion Collegiate Academy,5,2,https://stats.ncaa.org/players/9101016
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8878939,4,Luke Odden,Luke,Odden,Sr.,INF,6-0,,BOTH,RIGHT,"Scottsdale, AZ",Brophy College Prep,41,41,https://stats.ncaa.org/players/8878939
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8875412,6,Daniel Haab,Daniel,Haab,Sr.,OF,6-0,,RIGHT,RIGHT,"Norcross, GA",Norcross,41,38,https://stats.ncaa.org/players/8875412
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8878440,29,Sean White,Sean,White,Sr.,C,6-1,,RIGHT,RIGHT,"Peachtree City, GA",Starrs Mill,36,36,https://stats.ncaa.org/players/8878440
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8883676,21,J.C. Peacher,J.C.,Peacher,Sr.,OF,6-1,,LEFT,LEFT,"Pace, FL",Pace,31,10,https://stats.ncaa.org/players/8883676
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8898072,23,Landry Mead,Landry,Mead,Sr.,UT,6-0,,RIGHT,RIGHT,"Vidalia, GA",Vadalia,6,0,https://stats.ncaa.org/players/8898072
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8893571,16,Jonathan Jamie,Jonathan,Jamie,Jr.,OF,6-2,,LEFT,LEFT,"Snellville, GA",Brookwood,12,8,https://stats.ncaa.org/players/8893571
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8898749,9,JD Kaiser,JD,Kaiser,Sr.,C,6-1,,LEFT,RIGHT,"Statesboro, GA",Statesboro,18,11,https://stats.ncaa.org/players/8898749
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8890817,12,Sean Smith,Sean,Smith,Jr.,OF,6-1,,RIGHT,RIGHT,"Moss Point, MS",Pascagoula,38,38,https://stats.ncaa.org/players/8890817
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8898275,5,Cade Parker,Cade,Parker,Sr.,INF,6-0,,RIGHT,RIGHT,"Panama City Beach, FL",Deane Bozeman School,41,40,https://stats.ncaa.org/players/8898275
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8896526,11,Joey White,Joey,White,Jr.,P,5-10,,RIGHT,RIGHT,"Pembroke, GA",Savannah Christian Prep,8,4,https://stats.ncaa.org/players/8896526
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8900577,7,Josh Tate,Josh,Tate,Jr.,OF,5-11,,RIGHT,RIGHT,"Peachtree City, GA",Starr's Mill,41,41,https://stats.ncaa.org/players/8900577
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,8902250,99,Brady Pendley,Brady,Pendley,Jr.,P,6-1,,RIGHT,RIGHT,"Dalton, GA",Dalton,11,1,https://stats.ncaa.org/players/8902250
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9101016,27,Evan Vandenbosch,Evan,Vandenbosch,Jr.,P,6-4,,LEFT,LEFT,"Fort Mill, SC",Legion Collegiate Academy,9,5,https://stats.ncaa.org/players/9101016
 2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094324,47,AJ Cammarota,AJ,Cammarota,Fr.,P,6-4,,LEFT,LEFT,"Greer, SC",Blue Ridge,0,0,https://stats.ncaa.org/players/9094324
 2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094330,39,Canon Hopper,Canon,Hopper,Fr.,P,6-4,,LEFT,LEFT,"Indialantic, FL",Holy Trinity Episcopal Academy,0,0,https://stats.ncaa.org/players/9094330
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094333,17,Jett Lovett,Jett,Lovett,Sr.,OF,5-10,,LEFT,RIGHT,"Newnan, GA",Newnan,12,4,https://stats.ncaa.org/players/9094333
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094334,18,Jevarra Martin,Jevarra,Martin,So.,P,6-7,,LEFT,LEFT,"Covington, GA",Georgia Premier Academy,4,3,https://stats.ncaa.org/players/9094334
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094333,17,Jett Lovett,Jett,Lovett,Sr.,OF,5-10,,LEFT,RIGHT,"Newnan, GA",Newnan,16,4,https://stats.ncaa.org/players/9094333
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094334,18,Jevarra Martin,Jevarra,Martin,So.,P,6-7,,LEFT,LEFT,"Covington, GA",Georgia Premier Academy,7,3,https://stats.ncaa.org/players/9094334
 2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094327,3,Cam Foster,Cam,Foster,Sr.,INF,6-4,,RIGHT,RIGHT,"Douglasville, GA",The Westminster Schools,7,4,https://stats.ncaa.org/players/9094327
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094331,25,Sammy Leis,Sammy,Leis,So.,C,6-2,,RIGHT,RIGHT,"Cumming, GA",Denmark,2,2,https://stats.ncaa.org/players/9094331
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094336,35,Jack Myers,Jack,Myers,Fr.,SS,6-0,,RIGHT,RIGHT,"Marietta, GA",Pope,4,1,https://stats.ncaa.org/players/9094336
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094337,38,Brady Owens,Brady,Owens,Jr.,P,6-0,,LEFT,LEFT,"Acworth, GA",Acworth,3,0,https://stats.ncaa.org/players/9094337
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094340,0,Juju Stevens,Juju,Stevens,Jr.,OF,6-0,,RIGHT,RIGHT,"Durham, NC",Amity HS,7,4,https://stats.ncaa.org/players/9094340
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094331,25,Sammy Leis,Sammy,Leis,So.,C,6-2,,RIGHT,RIGHT,"Cumming, GA",Denmark,5,3,https://stats.ncaa.org/players/9094331
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094336,35,Jack Myers,Jack,Myers,Fr.,SS,6-0,,RIGHT,RIGHT,"Marietta, GA",Pope,12,4,https://stats.ncaa.org/players/9094336
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094337,38,Brady Owens,Brady,Owens,Jr.,P,6-0,,LEFT,LEFT,"Acworth, GA",Acworth,5,0,https://stats.ncaa.org/players/9094337
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094340,0,Juju Stevens,Juju,Stevens,Jr.,OF,6-0,,RIGHT,RIGHT,"Durham, NC",Amity HS,9,4,https://stats.ncaa.org/players/9094340
 2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094341,36,Daegan Strickland,Daegan,Strickland,Fr.,C,5-11,,RIGHT,RIGHT,"Pooler, GA",Savannah Christian Prep,0,0,https://stats.ncaa.org/players/9094341
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094322,26,Carson Bryant,Carson,Bryant,So.,P,6-1,,RIGHT,RIGHT,"Perry, GA",Perry ,5,3,https://stats.ncaa.org/players/9094322
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094322,26,Carson Bryant,Carson,Bryant,So.,P,6-1,,RIGHT,RIGHT,"Perry, GA",Perry ,10,3,https://stats.ncaa.org/players/9094322
 2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094325,43,Dawson Coe,Dawson,Coe,Jr.,P,6-1,,LEFT,LEFT,"Covington, GA",Loganville,0,0,https://stats.ncaa.org/players/9094325
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094342,24,Bryson Trammell,Bryson,Trammell,Sr.,UT,6-4,,RIGHT,RIGHT,"Knoxville, AL",Bearden,3,0,https://stats.ncaa.org/players/9094342
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094323,30,Thomas Burke,Thomas,Burke,Fr.,P,6-6,,LEFT,LEFT,"Monroe, GA",Walnut Grove,6,5,https://stats.ncaa.org/players/9094323
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094328,28,Kade Grundy,Kade,Grundy,Sr.,P,6-1,,RIGHT,RIGHT,"Somerset, KY",Somerset,6,6,https://stats.ncaa.org/players/9094328
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094338,19,Nico Senese,Nico,Senese,So.,INF,6-3,,RIGHT,RIGHT,"Senoia, GA",East Coweta,24,24,https://stats.ncaa.org/players/9094338
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094342,24,Bryson Trammell,Bryson,Trammell,Sr.,UT,6-4,,RIGHT,RIGHT,"Knoxville, AL",Bearden,10,4,https://stats.ncaa.org/players/9094342
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094323,30,Thomas Burke,Thomas,Burke,Fr.,P,6-6,,LEFT,LEFT,"Monroe, GA",Walnut Grove,9,8,https://stats.ncaa.org/players/9094323
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094328,28,Kade Grundy,Kade,Grundy,Sr.,P,6-1,,RIGHT,RIGHT,"Somerset, KY",Somerset,10,10,https://stats.ncaa.org/players/9094328
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094338,19,Nico Senese,Nico,Senese,So.,INF,6-3,,RIGHT,RIGHT,"Senoia, GA",East Coweta,41,41,https://stats.ncaa.org/players/9094338
 2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094339,51,Gaven Smith,Gaven,Smith,Fr.,P,6-4,,LEFT,LEFT,"Leesburg, GA",Lee County,0,0,https://stats.ncaa.org/players/9094339
 2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094344,52,Jayden White,Jayden,White,Fr.,P,5-11,,RIGHT,RIGHT,"Pembroke, GA",Savannah Christian Prep,0,0,https://stats.ncaa.org/players/9094344
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094329,22,JP Herrholz,JP,Herrholz,Sr.,INF,6-2,,LEFT,RIGHT,"Miami, FL",Christopher Columbus,20,15,https://stats.ncaa.org/players/9094329
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094332,46,Jax Lewis,Jax,Lewis,Fr.,P,6-1,,LEFT,RIGHT,"Claxton, GA",Pinewood Christian,6,3,https://stats.ncaa.org/players/9094332
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094329,22,JP Herrholz,JP,Herrholz,Sr.,INF,6-2,,LEFT,RIGHT,"Miami, FL",Christopher Columbus,37,32,https://stats.ncaa.org/players/9094329
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094332,46,Jax Lewis,Jax,Lewis,Fr.,P,6-1,,LEFT,RIGHT,"Claxton, GA",Pinewood Christian,13,5,https://stats.ncaa.org/players/9094332
 2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094335,40,Alex Mason,Alex,Mason,Fr.,P,6-4,,RIGHT,RIGHT,"Hazlehurst, GA",Jeff Davis,2,0,https://stats.ncaa.org/players/9094335
-2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094326,32,Carter DeGondea,Carter,DeGondea,Jr.,P,6-4,,LEFT,LEFT,"Raymore, MO",Raymore-Peculiar,6,0,https://stats.ncaa.org/players/9094326
+2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094326,32,Carter DeGondea,Carter,DeGondea,Jr.,P,6-4,,LEFT,LEFT,"Raymore, MO",Raymore-Peculiar,12,0,https://stats.ncaa.org/players/9094326
 2025,2024-25,MBA,1,I,Sun Belt,253,Ga. Southern,9094346,49,Jack Young,Jack,Young,Fr.,P,6-0,,RIGHT,RIGHT,"Lawrenceville, GA",Archer,0,0,https://stats.ncaa.org/players/9094346
