@@ -1,0 +1,105 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,1,top,ROESSLER walked (3-2 BBBKFB).,1,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,1,top,HAUSSER struck out looking (1-2 BFKK).,2,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,1,top,ROESSLER stole second.,3,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,1,top,BICKERS walked (3-2 BBBKSB).,4,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,1,top,MARION flied out to cf (1-2 FBFF)3a ROESSLER advanced to third.,5,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,1,top,"BICKERS stole second, advanced to third on a throwing error by c3a ROESSLER stole home, unearned.",6,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,1,top,HEADLEE walked (3-2 BSSBBB).,7,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,1,top,SCHMIDT popped up to 3b (0-0).,8,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,1,bot,"Warren, H hit by pitch (0-0).",9,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,1,bot,"Smith, B struck out looking (1-2 KKBK).",10,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,1,bot,"Gregory, G doubled to left field (1-0 B)3a Warren, H advanced to third.",11,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,1,bot,"Peltier, J struck out swinging (1-2 FSBS).",12,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,1,bot,"Fultz, P walked (3-2 BFBBSB).",13,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,1,bot,"Blomquist, B doubled down the rf line, 3 RBI (1-0 B)3a Fultz, P scored3a Gregory, G scored3a Warren, H scored.",14,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,1,bot,"Arnold, L flied out to cf (1-1 BK).",15,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,2,top,OTTO struck out swinging (1-2 BSFFS).,16,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,2,top,PHILLIPS lined out to 3b (1-0 B).,17,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,2,top,PALKOWSKI struck out looking (1-2 KFBFK).,18,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,2,bot,"Gilkerson, C singled (0-0).",19,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,2,bot,"Cook, W walked (3-1 BBSBB)3a Gilkerson, C advanced to second.",20,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,2,bot,"Warren, H struck out looking (2-2 KKFBBK).",21,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,2,bot,"Smith, B walked (3-0 BBBB)3a Cook, W advanced to second3a Gilkerson, C advanced to third.",22,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,2,bot,"Gregory, G singled to right field, RBI (1-2 KFB)3a Smith, B advanced to second3a Cook, W advanced to third3a Gilkerson, C scored.",23,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,2,bot,"Peltier, J struck out swinging (1-2 SBSS).",24,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,2,bot,"Fultz, P flied out to lf (2-2 KBKB).",25,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,3,top,ROESSLER flied out to cf (0-0).,26,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,3,top,HAUSSER struck out looking (2-2 KKFBFFBFFK).,27,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,3,top,BICKERS tripled to left center (0-0).,28,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,3,top,MARION flied out to lf (1-2 BKFF).,29,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,3,bot,"Blomquist, B hit by pitch (2-1 BKB).",30,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,3,bot,"Arnold, L reached on a fielder's choice (0-0)3a Blomquist, B out at second ss to 2b.",31,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,3,bot,"Gilkerson, C struck out swinging (1-2 FBFS).",32,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,3,bot,"Cook, W struck out swinging (1-2 KBSS).",33,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,4,top,HEADLEE grounded out to 3b (1-0 B).,34,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,4,top,SCHMIDT struck out swinging (2-2 KFBFBS).,35,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,4,top,OTTO walked (3-1 BBKBB).,36,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,4,top,"Grogan, M to p for Paige, G.",37,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,4,top,PHILLIPS walked (3-1 BBBKB)3a OTTO advanced to second.,38,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,4,top,PALKOWSKI struck out swinging (2-2 BBKFS).,39,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,4,bot,"Warren, H singled down the rf line (0-1 F).",40,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,4,bot,"Smith, B hit by pitch (0-2 FKFFFF)3a Warren, H advanced to second.",41,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,4,bot,"Gregory, G flied out to cf (0-0).",42,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,4,bot,"Peltier, J homered, 3 RBI (0-2 KF)3a Smith, B scored3a Warren, H scored.",43,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,4,bot,"Fultz, P fouled out to lf (2-2 FBFB).",44,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,4,bot,"Blomquist, B singled up the middle (0-0).",45,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,4,bot,"Arnold, L flied out to cf (0-0).",46,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,5,top,ROESSLER singled to center field (1-2 KBF).,47,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,5,top,HAUSSER reached on a fielder's choice (0-0)3a ROESSLER out at second 2b to ss.,48,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,5,top,BICKERS struck out swinging (0-2 KFS).,49,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,5,top,"MARION homered, 2 RBI (0-1 F)3a HAUSSER scored.",50,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,5,top,HEADLEE hit by pitch (1-0 B).,51,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,5,top,SCHMIDT grounded out to 2b (0-0).,52,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,5,bot,"SCHULFER, L. to p for THEIS.",53,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,5,bot,"Gilkerson, C struck out swinging (0-2 KKS).",54,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,5,bot,"Cook, W struck out swinging (3-2 BBFBSS).",55,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,5,bot,"Warren, H struck out swinging (2-2 BSBFS).",56,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,6,top,OTTO struck out swinging (1-2 SBKS).,57,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,6,top,PHILLIPS singled to center field.,58,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,6,top,HADLEY pinch hit for PALKOWSKI.,59,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,6,top,HADLEY hit by pitch (0-1 K)3a PHILLIPS advanced to second.,60,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,6,top,"ROESSLER doubled down the lf line, RBI (0-1 K)3a HADLEY advanced to third3a PHILLIPS scored.",61,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,6,top,"HAUSSER doubled down the rf line, 2 RBI (2-2 KBFB)3a ROESSLER scored3a HADLEY scored.",62,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,6,top,"Hartzell, W to p for Grogan, M.",63,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,6,top,"BICKERS tripled to right center, RBI (3-2 BKBFBFFF)3a HAUSSER scored.",64,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,6,top,"MARION flied out to cf, SAC, RBI (1-2 FBFF)3a BICKERS scored.",65,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,6,top,HEADLEE walked (3-1 BBBKB).,66,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,6,top,SCHMIDT grounded out to p (2-2 BKBS).,67,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,6,bot,"Smith, B flied out to lf (0-1 K).",68,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,6,bot,"Gregory, G grounded out to 2b (3-1 BBFB).",69,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,6,bot,"Peltier, J struck out swinging (3-2 FBBBKS).",70,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,7,top,OTTO hit by pitch (1-2 KKB).,71,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,7,top,"PHILLIPS fouled out to c, bunt (0-0).",72,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,7,top,HADLEY struck out swinging (1-2 BKKS).,73,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,7,top,ROESSLER grounded out to 3b (3-2 BFBKB).,74,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,7,bot,"PETERSON to p for SCHULFER, L..",75,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,7,bot,"Fultz, P popped up to ss (1-0 B).",76,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,7,bot,"Blomquist, B hit by pitch (0-0).",77,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,7,bot,"Arnold, L singled to left field (2-0 BB)3a Blomquist, B advanced to second.",78,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,7,bot,"Gilkerson, C struck out swinging (1-2 KBFS).",79,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,7,bot,"Manley, N pinch hit for Cook, W.",80,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,7,bot,"Manley, N grounded out to 3b (1-0 B).",81,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,8,top,"Peltier, J to 1b.",82,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,8,top,"Thomas, D to lf for Manley, N.",83,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,8,top,HAUSSER grounded out to 1b unassisted (2-1 BBK).,84,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,8,top,BICKERS walked (3-2 BBKBFB).,85,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,8,top,"MARION singled, advanced to second on a fielding error by lf (1-1 BS)3a BICKERS scored, unearned.",86,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,8,top,HEADLEE popped up to 2b (1-2 KBK).,87,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,8,top,SCHMIDT grounded out to 1b unassisted (1-1 KB).,88,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,8,bot,"Warren, H singled to left field (1-0 B).",89,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,8,bot,"Smith, B flied out to rf to right center (1-0 B).",90,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,8,bot,"Warren, H advanced to second on a passed ball.",91,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,8,bot,"Gregory, G grounded out to 2b (2-1 BKB)3a Warren, H stole third.",92,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,8,bot,SNOW to p for PETERSON.,93,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,8,bot,"Peltier, J struck out swinging (3-2 BBKBSFFS).",94,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,9,top,"Valentine, J to p for Hartzell, W.",95,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,9,top,OTTO hit by pitch (0-0).,96,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,9,top,"PHILLIPS out at first p to 2b, SAC, bunt (0-0)3a OTTO advanced to second.",97,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,9,top,HORN pinch hit for HADLEY.,98,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,9,top,"Whitesell, M to p for Valentine, J.",99,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,9,top,HORN struck out swinging (1-1 BF)3a OTTO advanced to third.,100,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596452,9,top,ROESSLER flied out to lf (1-2 BFFFFF).,101,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,9,bot,"Fultz, P flied out to cf (0-1 F).",102,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,9,bot,"Blomquist, B struck out swinging (2-2 BFFBS).",103,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025
+6303662,596452,Milwaukee Panthers,596453,Wright St. Raiders,596453,9,bot,"Arnold, L grounded out to 1b unassisted (2-1 BBK).",104,2025-04-25T00:00:00-04:00,"Nischwitz Stadium (Fairborn, OH)",235,MBA,2025

@@ -1,0 +1,88 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,1,top,"Snyder,Hunt flied out to rf (0-0).",1,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,1,top,"Miller,Sam struck out swinging (0-2 KSS).",2,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,1,top,"Palfrey,Gri hit by pitch (2-0 BB).",3,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,1,top,"Lazits,Anto grounded out to 3b (1-2 KBFF).",4,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,1,bot,"Chavez, C. doubled to right field (0-2 KF).",5,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,1,bot,"Baker, D. flied out to lf (2-2 BKFFB).",6,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,1,bot,"Pokrovsky, J flied out to rf (0-0).",7,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,1,bot,"Collins, G. struck out swinging (1-2 FKBS).",8,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,2,top,"Fellows,Col grounded out to p (1-1 FB).",9,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,2,top,"Kail,Jack walked (3-1 FBBBB).",10,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,2,top,"Selinsky,Sk reached on catcher's interference (2-2 KBKB)3a Kail,Jack advanced to second.",11,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,2,top,"Vogler,Tate singled through the left side (2-0 BB)3a Selinsky,Sk advanced to second3a Kail,Jack advanced to third.",12,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,2,top,"Estabrook, O grounded into double play ss to 2b to 1b (0-0)3a Vogler,Tate out on the play.",13,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,2,bot,"McCabe, C. popped up to ss (0-1 F).",14,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,2,bot,"Spaventa, N. fouled out to c (1-1 KB).",15,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,2,bot,Echevarria E struck out looking (1-2 KFBK).,16,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,3,top,"Snyder,Hunt grounded out to ss (3-2 KBFFBBF).",17,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,3,top,"Miller,Sam fouled out to c (0-0).",18,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,3,top,"Palfrey,Gri lined out to lf (0-0).",19,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,3,bot,"O'Brien, N. singled through the left side (2-2 KBKBF).",20,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,3,bot,"Taylor, R. grounded out to p, SAC, bunt (1-1 KB)3a O'Brien, N. advanced to second.",21,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,3,bot,"Chavez, C. singled to pitcher (0-1 K)3a O'Brien, N. advanced to third.",22,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,3,bot,"Baker, D. grounded out to ss, RBI (0-0)3a Chavez, C. advanced to second3a O'Brien, N. scored.",23,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,3,bot,"Pokrovsky, J struck out swinging (3-2 BFSFBBS).",24,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,4,top,"Lazits,Anto singled to center field (1-1 SB).",25,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,4,top,"Fellows,Col grounded into double play ss to 2b to 1b (1-2 FKBF)3a Lazits,Anto out on the play.",26,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,4,top,"Kail,Jack grounded out to 2b (3-2 KBBBFFF).",27,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,4,bot,"Collins, G. lined out to cf to left center (1-0 B).",28,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,4,bot,"McCabe, C. walked (3-2 BBBKKB).",29,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,4,bot,"Spaventa, N. flied out to cf (1-0 B).",30,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,4,bot,Echevarria E struck out looking (1-2 KFBFK).,31,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,5,top,"Selinsky,Sk doubled to left field (1-2 KKB).",32,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,5,top,"Vogler,Tate singled through the left side (2-2 FFBFBF)3a Selinsky,Sk advanced to third.",33,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,5,top,"Estabrook, O struck out looking (3-2 BBFKBK).",34,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,5,top,"Snyder,Hunt flied out to lf, SF, RBI (1-0 B)3a Selinsky,Sk scored.",35,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,5,top,"Vogler,Tate advanced to second on a wild pitch.",36,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,5,top,"Miller,Sam doubled to left center, RBI (2-0 BB)3a Vogler,Tate scored.",37,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,5,top,"Coyne, M. to p for Millikan, N..",38,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,5,top,"Palfrey,Gri grounded out to ss (2-2 KFFFBB).",39,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,5,bot,"O'Brien, N. grounded out to 3b (1-2 KKB).",40,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,5,bot,"Taylor, R. flied out to rf (2-1 BBK).",41,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,5,bot,"Chavez, C. singled to right field (0-1 K).",42,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,5,bot,"Baker, D. singled to center field (0-1 K)3a Chavez, C. advanced to third.",43,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,5,bot,"Pokrovsky, J grounded out to ss (1-2 FFBF).",44,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,6,top,"Lazits,Anto struck out swinging (2-2 KBFBS).",45,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,6,top,"Fellows,Col grounded out to 2b (2-1 BBK).",46,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,6,top,"Kail,Jack struck out looking (0-2 KFK).",47,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,6,bot,"Collins, G. lined out to cf (1-1 BK).",48,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,6,bot,"McCabe, C. grounded out to ss (2-1 KBB).",49,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,6,bot,"Spaventa, N. grounded out to 3b (0-0).",50,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,7,top,"Selinsky,Sk struck out looking (0-2 KKFK).",51,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,7,top,"Vogler,Tate grounded out to p (1-0 B).",52,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,7,top,"Estabrook, O grounded out to 3b (1-2 SKFFB).",53,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,7,bot,"Powell, M. pinch hit for Echevarria E.",54,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,7,bot,"Powell, M. walked (3-2 KBBFBB).",55,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,7,bot,"Ruggeri, A. pinch ran for Powell, M..",56,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,7,bot,"O'Brien, N. grounded out to 1b unassisted, SAC, bunt (0-0)3a Ruggeri, A. advanced to second.",57,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,7,bot,"Taylor, R. walked (3-0 BBBB).",58,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,7,bot,"Sotiropoulos to p for Sheets,Joe.",59,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,7,bot,"Ruggeri, A. out at third c to 3b, caught stealing.",60,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,7,bot,"Taylor, R. stole second.",61,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,7,bot,"Chavez, C. grounded out to ss (2-2 BFKFB).",62,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,8,top,"Ahearn, Q. to c for Ruggeri, A..",63,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,8,top,"Snyder,Hunt struck out swinging (0-2 KKS).",64,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,8,top,"Miller,Sam struck out swinging, out at first c to 1b (1-2 BFFFS).",65,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,8,top,"Palfrey,Gri walked (3-2 FBBFBFB).",66,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,8,top,"Shurtleff, T to p for Coyne, M..",67,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,8,top,"Lazits,Anto walked (3-1 BBFBB)3a Palfrey,Gri advanced to second.",68,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,8,top,"Fellows,Col grounded out to 2b.",69,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,8,bot,"Corso,Kyle to lf for Fellows,Col.",70,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,8,bot,"Baker, D. walked (3-2 BBFFBB).",71,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,8,bot,"Pokrovsky, J grounded out to 2b (1-2 BFS)3a Baker, D. advanced to second.",72,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,8,bot,"Collins, G. reached on an error by 1b (2-1 BKB)3a Baker, D. scored, unearned.",73,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,8,bot,"McCabe, C. flied out to lf (2-2 KBBK).",74,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,8,bot,"Spaventa, N. walked (3-0 BBBB)3a Collins, G. advanced to second.",75,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,8,bot,"Ahearn, Q. lined out to ss (1-1 BF).",76,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,9,top,"Kail,Jack out at first 1b to p (1-1 SB).",77,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,9,top,"Selinsky,Sk hit by pitch (1-1 FB).",78,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,9,top,"Vogler,Tate reached on a fielder's choice (1-1 SB)3a Selinsky,Sk out at second 2b unassisted, interference.",79,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,9,top,"Estabrook, O doubled to right field, RBI (2-0 BB)3a Vogler,Tate scored.",80,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,9,top,"Snyder,Hunt doubled to left field, RBI (1-0 B)3a Estabrook, O scored.",81,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596525,9,top,"Miller,Sam grounded out to ss (0-1 F).",82,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,9,bot,"O'Brien, N. grounded out to 1b unassisted (1-2 BKF).",83,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,9,bot,"Taylor, R. singled to right center (3-2 BKBFB).",84,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,9,bot,"Chavez, C. singled to left field (1-1 BK)3a Taylor, R. advanced to second.",85,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,9,bot,"Baker, D. doubled to right center, RBI (2-2 BKSB)3a Chavez, C. advanced to second, out at third rf to 2b to c3a Taylor, R. scored.",86,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025
+6380131,596525,Columbia Lions,596716,Penn Quakers,596716,9,bot,"Pokrovsky, J lined out to cf (1-1 FB).",87,2025-04-25T00:00:00-04:00,"Meiklejohn Stadium (Philadelphia, PA)",59,MBA,2025

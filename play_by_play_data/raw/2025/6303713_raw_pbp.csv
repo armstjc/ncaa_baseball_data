@@ -1,0 +1,112 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,1,top,RISPOLI hit by pitch (1-0 B).,1,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,1,top,"SHPUR grounded out to p, bunt, SAC (1-0 B); RISPOLI advanced to second.",2,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,1,top,"DANIELS doubled to left center, RBI (1-0 B); RISPOLI scored.",3,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,1,top,"MINICK singled to left field, RBI (3-2 KBBSB); DANIELS scored.",4,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,1,top,ROOT popped up to lf (0-0).,5,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,1,top,DOUGHERTY grounded out to p (0-1 K).,6,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,1,bot,Tucker flied out to cf (1-2 BKK).,7,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,1,bot,Raifstanger walked (3-0 BBBB).,8,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,1,bot,Beebe singled to left field (3-2 BBKFBFF); Raifstanger advanced to second.,9,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,1,bot,McMillan grounded into double play 3b to 2b to 1b (2-1 KBB); Beebe out on the play.,10,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,2,top,PADILLA doubled down the lf line (1-0 B).,11,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,2,top,"GARBOWSKI grounded out to p, bunt, SAC (1-1 BF); PADILLA advanced to third.",12,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,2,top,BILLER struck out swinging (1-2 KSBS).,13,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,2,top,RISPOLI walked (3-2 KKBBFBB).,14,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,2,top,SHPUR grounded out to 3b (1-0 B).,15,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,2,bot,Cowan flied out to rf (2-0 BB).,16,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,2,bot,Agresti flied out to cf (0-0).,17,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,2,bot,Orbon singled up the middle (2-2 BBKS).,18,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,2,bot,Jeremiah walked (3-1 KBBBB); Orbon advanced to second.,19,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,2,bot,"LeGrande singled through the right side, RBI (2-0 BB); Jeremiah advanced to third; Orbon scored.",20,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,2,bot,LeGrande stole second.,21,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,2,bot,Tucker fouled out to c (2-2 BKKB).,22,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,3,top,"DANIELS homered to right center, RBI (0-1 K).",23,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,3,top,MINICK singled to right field (1-1 BS).,24,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,3,top,"ROOT grounded out to p, bunt, SAC (0-0); MINICK advanced to second.",25,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,3,top,"DOUGHERTY singled through the right side, RBI (3-2 KBBBK); MINICK scored.",26,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,3,top,PADILLA hit by pitch (3-2 KBBFB); DOUGHERTY advanced to second.,27,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,3,top,GARBOWSKI singled to left field (1-1 FB); PADILLA advanced to second; DOUGHERTY advanced to third.,28,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,3,top,"BILLER doubled to center field, 3 RBI (1-2 BKF); GARBOWSKI scored; PADILLA scored; DOUGHERTY scored.",29,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,3,top,BILLER advanced to third on a wild pitch.,30,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,3,top,RISPOLI flied out to rf (3-1 BBBK).,31,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,3,top,SHPUR grounded out to ss (3-2 BBBKKF).,32,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,3,bot,Raifstanger popped up to lf (0-1 K).,33,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,3,bot,Beebe grounded out to ss (1-1 KB).,34,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,3,bot,McMillan flied out to cf (0-0).,35,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,4,top,DANIELS walked (3-2 KFBBBFB).,36,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,4,top,Ruiz to p for Rodriguez.,37,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,4,top,MINICK flied out to cf (1-1 BS).,38,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,4,top,ROOT flied out to lf (1-0 B).,39,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,4,top,DOUGHERTY grounded out to 3b (2-1 BKB).,40,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,4,bot,Cowan doubled to left field (1-0 B).,41,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,4,bot,Agresti fouled out to 1b (3-2 BBFKBF).,42,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,4,bot,Orbon walked (3-0 BBBB).,43,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,4,bot,Jeremiah walked (3-1 BBBKB); Orbon advanced to second; Cowan advanced to third.,44,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,4,bot,"LeGrande walked, RBI (3-2 BBFSBB); Jeremiah advanced to second; Orbon advanced to third; Cowan scored.",45,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,4,bot,COOKE to p for PUDVAR.,46,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,4,bot,"Tucker doubled to left field, 3 RBI (0-1 S); LeGrande scored; Jeremiah scored; Orbon scored.",47,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,4,bot,Raifstanger walked (3-2 BBBKFFB).,48,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,4,bot,"Beebe singled to left center, RBI (1-2 KBK); Raifstanger advanced to third; Tucker scored.",49,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,4,bot,McMillan walked (3-2 KFBBBFB); Beebe advanced to second.,50,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,4,bot,SHAW III to p for COOKE.,51,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,4,bot,"Cowan reached on a fielder's choice, RBI (1-2 KBK); McMillan out at second ss to 2b; Beebe advanced to third; Raifstanger scored.",52,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,4,bot,Agresti popped up to rf (0-0).,53,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,5,top,PADILLA struck out looking (0-2 KKK).,54,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,5,top,GARBOWSKI grounded out to 2b (1-0 B).,55,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,5,top,"BILLER homered to right field, RBI (2-0 BB).",56,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,5,top,RISPOLI singled up the middle (0-1 K).,57,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,5,top,"SHPUR singled, bunt (0-0); RISPOLI advanced to second.",58,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,5,top,DANIELS lined out to 2b (0-0).,59,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,5,bot,Orbon struck out swinging (2-2 KBKBS).,60,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,5,bot,Jeremiah doubled to right field (1-1 BS).,61,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,5,bot,"LeGrande singled through the right side, RBI (1-2 FFB); Jeremiah scored.",62,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,5,bot,LeGrande stole second.,63,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,5,bot,Tucker flied out to rf (1-0 B).,64,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,5,bot,Raifstanger grounded out to ss (1-0 B).,65,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,6,top,"MINICK homered to left field, RBI (0-0).",66,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,6,top,ROOT singled to center field (1-0 B).,67,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,6,top,DOUGHERTY flied out to cf (2-1 BKB).,68,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,6,top,MACARTHUR pinch hit for PADILLA.,69,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,6,top,Johnson to p for Ruiz.,70,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,6,top,MACARTHUR singled to center field (0-2 KK); ROOT advanced to second.,71,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,6,top,"GARBOWSKI doubled down the lf line, 2 RBI (3-1 BBBK); MACARTHUR scored; ROOT scored.",72,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,6,top,BILLER flied out to cf (1-0 B).,73,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,6,top,GARBOWSKI advanced to third on a wild pitch.,74,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,6,top,RISPOLI grounded out to ss (2-0 BB).,75,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,6,bot,MINICK to 3b.,76,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,6,bot,MACARTHUR to 1b.,77,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,6,bot,Beebe flied out to lf (2-2 FBBF).,78,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,6,bot,McMillan struck out looking (1-2 KSBK).,79,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,6,bot,Cowan singled to third base (0-0).,80,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,6,bot,Agresti singled to left field (1-1 KB); Cowan advanced to third.,81,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,6,bot,Orbon flied out to cf (3-2 BKSBBFFFFFF).,82,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,7,top,Burns to p for Johnson.,83,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,7,top,SHPUR lined out to rf (0-0).,84,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,7,top,DANIELS grounded out to 1b unassisted (2-1 BBK).,85,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,7,top,MINICK singled to left field (1-2 BFS).,86,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,7,top,ROOT reached on a fielding error by 1b (0-0); MINICK advanced to third.,87,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,7,top,DOUGHERTY flied out to rf (1-0 B).,88,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,7,bot,Jeremiah grounded out to ss (0-0).,89,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,7,bot,LeGrande grounded out to 1b unassisted (1-0 B).,90,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,7,bot,Tucker popped up to ss (1-2 SFB).,91,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,8,top,MACARTHUR struck out swinging (1-2 BKFFS).,92,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,8,top,GARBOWSKI singled to left center (1-0 B).,93,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,8,top,BILLER reached on a fielder's choice (0-1 K); GARBOWSKI out at first ss to 1b.,94,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,8,top,BILLER stole second.,95,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,8,top,RISPOLI grounded out to 1b unassisted (2-2 BBKK).,96,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,8,bot,Raifstanger flied out to lf (3-2 FBSFBB).,97,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,8,bot,Beebe flied out to lf (1-2 FBF).,98,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,8,bot,McMillan doubled through the left side (2-2 FBFB).,99,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,8,bot,Cowan struck out looking (0-2 FKK).,100,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,9,top,SHPUR grounded out to ss (1-0 B).,101,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,9,top,DANIELS singled to center field (1-0 B).,102,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,9,top,"DANIELS advanced to second on a throwing error by p, advanced to third.",103,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,9,top,"MINICK singled to center field, RBI (0-1 K); DANIELS scored, unearned.",104,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,9,top,MINICK stole second.,105,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,9,top,ROOT grounded out to ss (1-2 SSFB); MINICK advanced to third.,106,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,9,top,"DOUGHERTY doubled to right field, RBI (0-0); MINICK scored.",107,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596526,9,top,MACARTHUR popped up to 2b (0-0).,108,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,9,bot,Agresti walked (3-2 KBFBBB).,109,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,9,bot,Orbon reached on a fielder's choice (0-0); Agresti out at second 2b to ss.,110,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
+6303713,596526,UConn Huskies,596717,St. John's (NY) Red Storm,596717,9,bot,Jeremiah grounded into double play 2b to ss to 1b (3-2 BBKBFFFF); Orbon out on the play.,111,2025-04-25T00:00:00-04:00,"Jack Kaiser Stadium (Queens, NY)",457,MBA,2025
