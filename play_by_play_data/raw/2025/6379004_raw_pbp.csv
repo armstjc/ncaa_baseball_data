@@ -1,0 +1,111 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,1,top,L. Wakil flied out to cf.,1,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,1,top,"J. Ng homered, RBI.",2,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,1,top,J. Gold grounded out to ss.,3,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,1,top,G. Pieranton tripled to right center.,4,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,1,top,"C. Berry singled to left field, RBI; G. Pieranton scored.",5,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,1,top,X. Hattenbur walked; C. Berry advanced to second.,6,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,1,top,X. Hattenbur advanced to second on a wild pitch; C. Berry advanced to third on a wild pitch.,7,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,1,top,T. DeGrazia popped up to 2b.,8,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,1,bot,R. Vosika walked.,9,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,1,bot,R. Vosika advanced to second on a wild pitch.,10,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,1,bot,M. Rice walked.,11,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,1,bot,"L. Corthell singled, bunt; M. Rice advanced to second; R. Vosika advanced to third.",12,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,1,bot,N. Garcia grounded into double play ss to 2b to 1b; L. Corthell out on the play; M. Rice advanced to third; R. Vosika scored.,13,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,1,bot,L. Reese grounded out to 3b.,14,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,2,top,G. Halbeisen to p for L. Quintana.,15,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,2,top,S. Lee flied out to cf.,16,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,2,top,J. Legg walked.,17,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,2,top,L. Wakil singled up the middle; J. Legg advanced to second.,18,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,2,top,J. Ng grounded into double play 2b to ss to 1b; L. Wakil out on the play.,19,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,2,bot,J. Givens walked.,20,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,2,bot,N. Anguiano grounded out to 3b; J. Givens advanced to second.,21,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,2,bot,M. Diaz flied out to rf; J. Givens advanced to third.,22,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,2,bot,A. Salcedo walked.,23,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,2,bot,A. Salcedo stole second.,24,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,2,bot,"R. Vosika singled to left field, RBI; A. Salcedo advanced to third; J. Givens scored.",25,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,2,bot,"M. Rice doubled to center field, 2 RBI; R. Vosika scored; A. Salcedo scored.",26,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,2,bot,M. Rice advanced to third on a wild pitch.,27,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,2,bot,"L. Corthell homered, 2 RBI; M. Rice scored.",28,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,2,bot,N. Garcia popped up to ss.,29,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,3,top,J. Gold walked.,30,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,3,top,G. Pieranton flied out to rf.,31,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,3,top,C. Berry walked; J. Gold advanced to second.,32,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,3,top,X. Hattenbur flied out to rf.,33,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,3,top,"T. DeGrazia singled to left field, RBI; C. Berry advanced to second, out at third lf to 3b to 2b to ss; J. Gold scored.",34,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,3,bot,L. Reese grounded out to 3b.,35,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,3,bot,J. Givens singled through the right side.,36,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,3,bot,N. Anguiano grounded out to 3b; J. Givens advanced to second.,37,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,3,bot,M. Diaz grounded out to ss.,38,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,4,top,A. Wente to p for G. Halbeisen.,39,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,4,top,S. Lee grounded out to 3b.,40,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,4,top,J. Legg singled to right field.,41,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,4,top,L. Wakil popped up to 3b.,42,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,4,top,J. Ng flied out to lf.,43,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,4,bot,A. Salcedo hit by pitch.,44,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,4,bot,R. Vosika reached first on a throwing error by p; A. Salcedo advanced to third.,45,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,4,bot,"M. Rice grounded into double play ss to 2b to 1b; R. Vosika out on the play; A. Salcedo scored, unearned.",46,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,4,bot,L. Corthell reached first on a fielding error by 3b.,47,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,4,bot,N. Garcia grounded out to 2b.,48,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,5,top,J. Gold flied out to lf.,49,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,5,top,G. Pieranton singled up the middle.,50,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,5,top,G. Pieranton advanced to second on a wild pitch.,51,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,5,top,C. Berry walked.,52,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,5,top,X. Hattenbur flied out to rf.,53,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,5,top,T. DeGrazia out at first 3b to 2b.,54,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,5,bot,J. Zerger to p for W. Wallace.,55,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,5,bot,L. Reese grounded out to ss.,56,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,5,bot,J. Givens grounded out to 2b.,57,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,5,bot,N. Anguiano hit by pitch.,58,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,5,bot,M. Diaz walked; N. Anguiano advanced to second.,59,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,5,bot,A. Salcedo struck out swinging.,60,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,6,top,K. Noell to p for A. Wente.,61,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,6,top,A. Whobrey to 2b for A. Salcedo.,62,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,6,top,J. Givens to lf.,63,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,6,top,M. Diaz to dh.,64,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,6,top,B. Vogel to cf for N. Anguiano.,65,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,6,top,S. Lee flied out to cf.,66,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,6,top,J. Legg flied out to cf.,67,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,6,top,L. Wakil singled up the middle.,68,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,6,top,J. Ng grounded out to 2b.,69,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,6,bot,R. Vosika hit by pitch.,70,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,6,bot,"M. Rice grounded out to p, bunt; R. Vosika advanced to second.",71,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,6,bot,R. Vosika advanced to third on a passed ball.,72,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,6,bot,"L. Corthell flied out to cf, SAC, RBI; R. Vosika scored, unearned.",73,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,6,bot,N. Garcia singled to right field.,74,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,6,bot,L. Reese reached on a fielder's choice to shortstop; N. Garcia out at second ss to 2b.,75,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,7,top,J. Gold struck out swinging.,76,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,7,top,G. Pieranton flied out to rf.,77,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,7,top,C. Berry walked.,78,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,7,top,X. Hattenbur popped up to 3b.,79,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,7,bot,S. Kwak to p for J. Zerger.,80,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,7,bot,J. Givens grounded out to 2b.,81,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,7,bot,B. Vogel singled up the middle.,82,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,7,bot,M. Diaz singled up the middle; B. Vogel advanced to second.,83,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,7,bot,A. Whobrey flied out to cf.,84,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,7,bot,R. Vosika reached on a fielder's choice to shortstop; M. Diaz out at second ss to 2b.,85,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,8,top,A. Klopfenst to p for K. Noell.,86,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,8,top,T. DeGrazia hit by pitch.,87,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,8,top,C. Cassidy pinch hit for S. Lee.,88,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,8,top,C. Cassidy grounded into double play 2b to ss to 1b; T. DeGrazia out on the play.,89,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,8,top,J. Legg walked.,90,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,8,top,L. Wakil struck out swinging.,91,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,8,bot,E. bitta to p for S. Kwak.,92,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,8,bot,M. Rice struck out swinging.,93,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,8,bot,L. Corthell grounded out to 3b.,94,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,8,bot,N. Garcia walked.,95,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,8,bot,M. Francois pinch hit for L. Reese.,96,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,8,bot,"M. Francois doubled to right center, RBI; N. Garcia scored.",97,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,8,bot,"J. Givens singled to left field, RBI; M. Francois scored.",98,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,8,bot,L. Dennis to p for E. bitta.,99,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,8,bot,B. Vogel walked; J. Givens advanced to second.,100,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,8,bot,"M. Diaz singled to center field, RBI; B. Vogel advanced to third; J. Givens scored.",101,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597315,8,bot,A. Whobrey struck out swinging.,102,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,9,top,J. Ledford to rf for M. Francois.,103,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,9,top,J. Ng walked.,104,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,9,top,J. Gold walked; J. Ng advanced to second.,105,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,9,top,C. Duffield to p for A. Klopfenst.,106,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,9,top,G. Pieranton walked; J. Gold advanced to second; J. Ng advanced to third.,107,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,9,top,"C. Berry flied out to cf, SAC, RBI; J. Ng scored.",108,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,9,top,X. Hattenbur struck out swinging.,109,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025
+6379004,597003,Pomona-Pitzer Sagehens,597315,"La Verne Leopards, Leos",597003,9,top,T. DeGrazia reached on a fielder's choice; G. Pieranton out at second ss unassisted.,110,2025-04-29T00:00:00-04:00,"Ben Hines Field (La Verne, CA)",100,MBA,2025

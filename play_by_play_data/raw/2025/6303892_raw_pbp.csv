@@ -1,0 +1,109 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,1,top,No play.,1,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,1,top,K. Williams struck out looking (0-2 FKK).,2,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,1,top,J. Hanson grounded out to p (2-2 KFBB).,3,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,1,top,Wooldridge hit by pitch (0-1 F).,4,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,1,top,N. Leehey singled to left field (1-2 KSB)3a Wooldridge advanced to second.,5,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,1,top,"R. Acosta doubled to left field, RBI (1-2 KBF)3a N. Leehey advanced to third3a Wooldridge scored.",6,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,1,top,"E. Gentil homered to left field, 3 RBI (1-2 KFB)3a R. Acosta scored3a N. Leehey scored.",7,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,1,top,Z. Story singled through the left side (3-2 BBFBK).,8,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,1,top,**mound visit**.,9,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,1,top,J. Murphy grounded out to 1b unassisted (0-2 KS).,10,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,1,bot,White grounded out to p (0-1 K).,11,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,1,bot,Masciangelo grounded out to 1b unassisted (2-2 KBBK).,12,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,1,bot,Pimentel-Gue singled to left field (2-2 BKFBF).,13,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,1,bot,"Smith, JP flied out to rf (3-2 BFFBBF).",14,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,2,top,A. Gouveia grounded out to ss (1-2 KKB).,15,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,2,top,K. Williams struck out looking (2-2 FFBBK).,16,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,2,top,J. Hanson struck out swinging (3-2 BKBBKFS).,17,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,2,bot,Poturnak struck out swinging (0-2 FSS).,18,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,2,bot,Christiansen struck out swinging (1-2 KBSS).,19,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,2,bot,"Kligman, E singled to center field (2-1 BBK).",20,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,2,bot,"Sewell singled up the middle (1-0 B)3a Kligman, E advanced to second.",21,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,2,bot,"Perazzo singled to shortstop (2-2 BKBK)3a Sewell advanced to second3a Kligman, E advanced to third.",22,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,2,bot,White flied out to rf (0-0).,23,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,3,top,Wooldridge flied out to lf (0-0).,24,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,3,top,"N. Leehey homered to center field, RBI (2-0 BB).",25,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,3,top,R. Acosta popped up to ss (0-0).,26,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,3,top,E. Gentil singled to shortstop (1-1 KB).,27,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,3,top,Z. Story struck out looking (0-2 FKK).,28,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,3,bot,Hippensteel to p for M. Lerma.,29,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,3,bot,Masciangelo grounded out to 2b (0-0).,30,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,3,bot,Pimentel-Gue grounded out to 1b unassisted (2-2 KSBB).,31,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,3,bot,"Smith, JP flied out to lf (2-2 KBFFB).",32,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,4,top,"Hunter, C to p for Stewart.",33,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,4,top,J. Murphy walked (3-2 FKBFBBB).,34,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,4,top,A. Gouveia singled through the right side (1-0 B)3a J. Murphy advanced to third.,35,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,4,top,"K. Williams flied out to rf, SF, RBI (1-1 KB)3a A. Gouveia no advance3a J. Murphy scored.",36,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,4,top,J. Hanson grounded into double play 2b to ss to 1b (2-2 KSBFB)3a A. Gouveia out on the play.,37,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,4,bot,Poturnak reached on a fielding error by 3b (0-2 FK).,38,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,4,bot,Poturnak advanced to second on a balk.,39,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,4,bot,Christiansen doubled to right field (2-2 FBBS)3a Poturnak advanced to third.,40,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,4,bot,"Kligman, E struck out swinging (1-2 SSBS).",41,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,4,bot,"Sewell flied out to rf, SF, RBI (1-0 B)3a Christiansen advanced to third3a Poturnak scored, unearned.",42,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,4,bot,"Perazzo singled up the middle, RBI (0-0)3a Christiansen scored, unearned.",43,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,4,bot,White grounded out to 3b (0-0).,44,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,5,top,Wooldridge grounded out to 2b (1-2 BKF).,45,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,5,top,N. Leehey struck out looking (2-2 KBBSK).,46,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,5,top,R. Acosta grounded out to ss (1-2 BKSF).,47,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,5,bot,K. Anzai to p for Hippensteel.,48,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,5,bot,Masciangelo singled up the middle (0-1 K).,49,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,5,bot,Pimentel-Gue walked (3-1 BBBKB)3a Masciangelo advanced to second.,50,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,5,bot,"Smith, JP grounded into double play 3b to 2b to 1b (0-0)3a Pimentel-Gue out on the play3a Masciangelo advanced to third.",51,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,5,bot,"Poturnak doubled to center field, RBI (0-1 S)3a Masciangelo scored.",52,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,5,bot,"Christiansen struck out swinging, out at first c to 1b (2-2 KBBKS).",53,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,6,top,"Chavez to p for Hunter, C.",54,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,6,top,E. Gentil struck out swinging (3-2 BKKFBBS).,55,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,6,top,Z. Story lined out to lf (2-2 BBKK).,56,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,6,top,J. Murphy singled to first base (2-0 BB).,57,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,6,top,"J. Murphy advanced to second on a throwing error by p, failed pickoff attempt.",58,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,6,top,A. Gouveia lined out to cf (2-1 BBK).,59,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,6,bot,J. Meek to p for K. Anzai.,60,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,6,bot,"Kligman, E flied out to rf (2-0 BB).",61,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,6,bot,Sewell grounded out to 2b (0-0).,62,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,6,bot,Perazzo fouled out to lf (1-2 BKS).,63,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,7,top,K. Williams struck out swinging (2-2 BFBKS).,64,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,7,top,J. Hanson struck out swinging (2-2 FBBKS).,65,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,7,top,Wooldridge flied out to cf to right center (2-2 KFBBFFF).,66,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,7,bot,M. Wolbert to cf for K. Williams.,67,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,7,bot,Wooldridge to lf.,68,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,7,bot,White singled down the rf line (1-1 KB).,69,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,7,bot,Masciangelo singled to left field (1-1 BK)3a White advanced to second.,70,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,7,bot,"Pimentel-Gue singled to left field, RBI (0-1 K)3a Masciangelo advanced to second3a White scored.",71,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,7,bot,**mound visit**.,72,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,7,bot,R. Barnes to p for J. Meek.,73,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,7,bot,"Smith, JP struck out swinging (1-2 SBSFS).",74,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,7,bot,"Poturnak singled up the middle, RBI (1-2 KSB)3a Pimentel-Gue advanced to second3a Masciangelo scored.",75,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,7,bot,Christiansen struck out looking (3-2 BKBSBK).,76,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,7,bot,"Kligman, E flied out to lf (2-2 SBBSF).",77,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,8,top,Monson to p for Chavez.,78,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,8,top,N. Leehey grounded out to ss (1-0 B).,79,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,8,top,R. Acosta popped up to 2b (1-2 KBS).,80,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,8,top,E. Gentil popped up to 2b (1-0 B).,81,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,8,bot,Wooldridge to p.,82,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,8,bot,/  for R. Barnes.,83,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,8,bot,R. Acosta to lf.,84,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,8,bot,T. Howard to rf for J. Murphy.,85,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,8,bot,Sewell struck out swinging (2-2 KBKBS).,86,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,8,bot,Perazzo doubled down the lf line (2-2 BBKK).,87,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,8,bot,White flied out to rf (0-0)3a Perazzo no advance.,88,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,8,bot,Masciangelo hit by pitch (1-0 B).,89,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,8,bot,**mound visit**.,90,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,8,bot,Wooldridge to dh.,91,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,8,bot,C. Delaney to p.,92,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,8,bot,Pimentel-Gue reached on a fielder's choice to second base (1-2 BFF)3a Masciangelo out at second 2b to ss.,93,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,9,top,Z. Story struck out looking (1-2 BFFK).,94,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,9,top,T. Howard hit by pitch (1-1 FB).,95,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,9,top,A. Gouveia fouled out to 3b (0-1 F).,96,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,9,top,Lucchesi to p for Monson.,97,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,9,top,T. Howard stole second.,98,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596512,9,top,M. Wolbert struck out swinging (3-2 BKKBFBS).,99,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,9,bot,E. Kang to lf for R. Acosta.,100,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,9,bot,"Smith, JP singled to pitcher (0-0).",101,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,9,bot,"Walton pinch ran for Smith, JP.",102,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,9,bot,Poturnak struck out looking (1-2 FBFK).,103,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,9,bot,Christiansen popped up to 3b (1-1 BS).,104,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,9,bot,"Kligman, E walked (3-2 BBKBFB)3a Walton advanced to second.",105,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,9,bot,"Beasley pinch ran for Kligman, E.",106,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,9,bot,**offensive conference**.,107,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
+6303892,596512,UC Davis Aggies,596509,Sacramento St. Hornets,596509,9,bot,Sewell struck out looking (0-2 KKFK).,108,2025-04-29T00:00:00-04:00,"John Smith Field (Sacramento, CA)",520,MBA,2025
