@@ -1,0 +1,98 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,1,top,"Farber, R. grounded out to 3b (2-2 FKBB).",1,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,1,top,"Mora, C. walked (3-2 KSFBFBBFB).",2,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,1,top,"DeFury, C. struck out looking (1-2 KSFFBFK).",3,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,1,top,"Mora, C. out at second c to 2b, caught stealing.",4,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,1,bot,"Markham, H singled to center field (2-2 FSBBF).",5,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,1,bot,"Cavill, B. walked (3-2 SBBSBB)3a Markham, H advanced to second.",6,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,1,bot,"Janicki, J. struck out swinging (3-2 BKBBKS).",7,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,1,bot,"Darnell, S. grounded out to ss (2-2 FBFB)3a Cavill, B. advanced to second3a Markham, H advanced to third.",8,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,1,bot,"Meier, S. grounded out to ss (2-2 FBBK).",9,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,2,top,Troy challening out call at first base.,10,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,2,top,Call stands3a runner out.,11,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,2,top,"Munguia, A. struck out swinging (3-2 BFBKBS).",12,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,2,top,"Park, D. struck out swinging (0-2 SSFS).",13,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,2,top,"Collier, I. struck out swinging (2-2 BSSBS).",14,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,2,bot,"Bryan, B. struck out swinging (2-2 BBFKFS).",15,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,2,bot,"Schrader, G. hit by pitch (1-0 B).",16,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,2,bot,"Schrader, G. advanced to second on a wild pitch.",17,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,2,bot,"Bowman, H. struck out swinging (2-2 BKBSS).",18,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,2,bot,"Watts, P. singled through the right side, RBI (3-1 BFBB)3a Schrader, G. scored.",19,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,2,bot,"Markham, H doubled up the middle (1-1 BK)3a Watts, P. advanced to third.",20,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,2,bot,"Cavill, B. intentionally walked.",21,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,2,bot,"Janicki, J. doubled to right field, 2 RBI (2-1 BBK)3a Cavill, B. advanced to third, out at home rf to ss to c3a Markham, H scored3a Watts, P. scored.",22,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,3,top,"Pugh, S. flied out to cf (0-0).",23,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,3,top,"Gingrich, Z. walked (3-1 BBKBB).",24,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,3,top,"Gingrich, Z. advanced to second on a wild pitch.",25,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,3,top,"Shibley, A. homered to right field, 2 RBI (3-2 KBFBFB)3a Gingrich, Z. scored.",26,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,3,top,"Farber, R. struck out swinging (2-2 BSBFFS).",27,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,3,top,"Mora, C. struck out swinging (2-2 KKBBS).",28,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,3,bot,"Dudley, B. to p for Connell, S..",29,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,3,bot,"Darnell, S. grounded out to ss (1-2 SFB).",30,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,3,bot,"Meier, S. singled to right field (1-2 BKF).",31,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,3,bot,"Meier, S. stole second.",32,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,3,bot,"Bryan, B. grounded out to 2b (1-1 KB)3a Meier, S. advanced to third.",33,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,3,bot,"Schrader, G. lined out to cf (3-2 FSBBB).",34,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,4,top,"DeFury, C. singled to right center (3-2 KFBFBB).",35,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,4,top,"Munguia, A. reached on a fielder's choice to third base (1-1 BK)3a DeFury, C. out at second 3b to 2b.",36,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,4,top,"Park, D. lined out to lf (2-1 BBF).",37,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,4,top,"Collier, I. doubled to left field, RBI (1-1 BK)3a Munguia, A. scored.",38,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,4,top,"Pugh, S. grounded out to 3b (0-1 F).",39,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,4,bot,"Bowman, H. struck out looking (0-2 FKK).",40,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,4,bot,"Watts, P. walked (3-0 BBBB).",41,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,4,bot,"Markham, H popped up to ss (2-1 BBK).",42,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,4,bot,"Cavill, B. struck out looking (1-2 BKSFK).",43,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"Falinski, A. to p for Lyon, L..",44,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"Gingrich, Z. walked (3-2 BKBFBB).",45,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"Shibley, A. walked (3-0 BBBB)3a Gingrich, Z. advanced to second.",46,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,King entered for Falinski in 2-1 count.,47,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"King, D. to p for Falinski, A..",48,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"Farber, R. homered to right field, 3 RBI (2-1 KBB)3a Shibley, A. scored3a Gingrich, Z. scored.",49,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"Mora, C. walked (3-1 BBBKB).",50,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"DeFury, C. homered to right field, 2 RBI (0-1 K)3a Mora, C. scored.",51,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"Nelson, D. to p for King, D..",52,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"Munguia, A. grounded out to ss (3-2 BBKFB).",53,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,Troy challenging safe call at first base.,54,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,Call overturned3a runner out.,55,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"Park, D. popped up to 2b (1-0 B).",56,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"Collier, I. walked (3-1 BBKBB).",57,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"Collier, I. advanced to second on a wild pitch.",58,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"Pugh, S. walked (3-2 BBFBSB).",59,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"Welch, G. to p for Nelson, D..",60,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"Gingrich, Z. hit by pitch (1-0 B)3a Pugh, S. advanced to second3a Collier, I. advanced to third.",61,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"Shibley, A. hit by pitch, RBI (2-1 BBK)3a Gingrich, Z. advanced to second3a Pugh, S. advanced to third3a Collier, I. scored.",62,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"Farber, R. singled to first base, RBI (2-2 BBKK)3a Shibley, A. advanced to second3a Gingrich, Z. advanced to third3a Pugh, S. scored.",63,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"Tapper, B. to p for Welch, G..",64,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"Mora, C. homered to right center, 4 RBI (3-1 BBBK)3a Farber, R. scored3a Shibley, A. scored3a Gingrich, Z. scored.",65,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,5,top,"DeFury, C. flied out to lf (2-1 KBB).",66,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,5,bot,"Rucker, T. to lf for Gingrich, Z..",67,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,5,bot,"Janicki, J. grounded out to 3b (1-2 KBS).",68,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,5,bot,"Darnell, S. lined out to cf (3-2 KBBFB).",69,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,5,bot,"LeJeune, T. pinch hit for Meier, S..",70,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,5,bot,"LeJeune, T. struck out swinging (1-2 BKSS).",71,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,6,top,"Bland, P. to 3b for Janicki, J..",72,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,6,top,"Eubanks, C. to 2b for Darnell, S..",73,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,6,top,"LeJeune, T. to cf.",74,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,6,top,"Hawkins, J. to c for Bryan, B..",75,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,6,top,"Munguia, A. lined out to rf (1-0 B).",76,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,6,top,"Park, D. lined out to cf (2-1 BSB).",77,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,6,top,"Collier, I. singled to left field (2-1 BBK).",78,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,6,top,"Pugh, S. singled to right center (0-0)3a Collier, I. advanced to second.",79,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,6,top,"Rucker, T. popped up to ss (1-0 B).",80,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,6,bot,"Hawkins, J. popped up to ss (2-0 BB).",81,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,6,bot,"Schrader, G. walked (3-2 BKBBSB).",82,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,6,bot,"Lewis, S. pinch hit for Bowman, H..",83,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,6,bot,"Lewis, S. struck out swinging (1-2 KSBS).",84,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,6,bot,"Watts, P. singled to center field (0-0)3a Schrader, G. advanced to third.",85,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,6,bot,"Markham, H flied out to cf (2-1 BBF).",86,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,7,top,"Gorgen, G. to p for Tapper, B..",87,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,7,top,"Wax, J. to 1b for Cavill, B..",88,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,7,top,"Shibley, A. flied out to rf (0-0).",89,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,7,top,"Farber, R. singled to left field (2-1 BKB).",90,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596686,7,top,"Mora, C. grounded into double play ss to 2b to 1b (0-1 K)3a Farber, R. out on the play.",91,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,7,bot,"Eaton, A. to p for Dudley, B..",92,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,7,bot,"Wax, J. doubled to right field (0-0).",93,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,7,bot,"Bland, P. struck out swinging (0-2 FSS).",94,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,7,bot,"Eubanks, C. struck out swinging (1-2 SSBS).",95,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,7,bot,"LeJeune, T. singled to center field (0-0)3a Wax, J. advanced to third.",96,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025
+6303837,596686,Texas St. Bobcats,596429,Troy Trojans,596429,7,bot,"Hawkins, J. struck out swinging (1-2 BFKS).",97,2025-04-27T00:00:00-04:00,"Riddle-Pace Field (Troy, AL)",2047,MBA,2025

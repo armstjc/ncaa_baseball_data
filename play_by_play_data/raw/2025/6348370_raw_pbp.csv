@@ -1,0 +1,95 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,1,top,S. Thomas hit by pitch (0-1 K).,1,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,1,top,J. Marini walked (3-0 BBBB)3a S. Thomas advanced to second.,2,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,1,top,M. Johnson grounded into double play 2b to ss to 1b (1-0 B)3a J. Marini out on the play3a S. Thomas advanced to third.,3,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,1,top,"D. Pozzi singled to left field, RBI (1-2 KBF)3a S. Thomas scored.",4,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,1,top,S. Burman walked (3-2 KBBFBB)3a D. Pozzi advanced to second.,5,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,1,top,Z. Burton struck out swinging (3-2 KFBBBS).,6,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,1,bot,D. DeLucas flied out to cf (1-2 KKB).,7,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,1,bot,S. Perkins flied out to cf (1-2 KKB).,8,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,1,bot,E. MacCluen grounded out to 3b (1-2 KSB).,9,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,2,top,J. Haines grounded out to 1b unassisted (3-2 BBKBK).,10,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,2,top,J. Bateman singled to center field (2-2 BBFS).,11,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,2,top,J. McCarthy lined into double play p to 1b (2-2 BKSB)3a J. Bateman out on the play.,12,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,2,bot,B. Lindsey flied out to 2b (0-0).,13,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,2,bot,A. Llorente grounded out to 2b (0-1 K).,14,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,2,bot,N. Hoheb grounded out to ss (0-0).,15,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,3,top,S. Thomas doubled to left center (3-2 KBBBK).,16,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,3,top,"J. Marini doubled to left center, RBI (2-2 FBBF)3a S. Thomas scored.",17,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,3,top,M. Johnson grounded out to ss (0-0).,18,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,3,top,D. Pozzi walked.,19,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,3,top,T. Green to p for L. Evans.,20,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,3,top,S. Burman walked (3-2 SBBBFFB)3a D. Pozzi advanced to second3a J. Marini advanced to third.,21,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,3,top,Z. Burton struck out swinging (1-2 SKBS).,22,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,3,top,J. Haines struck out looking (3-2 BBBKSFK).,23,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,3,bot,E. Mok grounded out to p (1-1 KB).,24,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,3,bot,J. Schilling grounded out to ss (2-2 FBKB).,25,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,3,bot,N. Reeder grounded out to ss (1-0 B).,26,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,4,top,J. Bateman struck out swinging (1-2 KKBS).,27,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,4,top,J. McCarthy struck out looking (3-2 BKBBKK).,28,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,4,top,S. Thomas fouled out to 1b (2-0 BB).,29,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,4,bot,D. DeLucas grounded out to 2b (0-1 K).,30,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,4,bot,S. Perkins struck out looking (1-2 KSBK).,31,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,4,bot,E. MacCluen doubled down the rf line (0-0).,32,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,4,bot,"B. Lindsey singled through the left side, RBI (2-2 BBKK)3a E. MacCluen scored.",33,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,4,bot,A. Llorente singled to left field (2-2 BKBF)3a B. Lindsey advanced to second.,34,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,4,bot,N. Hoheb reached on a fielding error by ss (0-0)3a A. Llorente advanced to second3a B. Lindsey advanced to third.,35,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,4,bot,E. Mok grounded out to p (2-2 BKBS).,36,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,5,top,J. Marini lined out to cf (0-0).,37,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,5,top,M. Johnson walked (3-2 BFBSBFFB).,38,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,5,top,M. Johnson advanced to second on a balk.,39,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,5,top,"D. Pozzi homered to left field, 2 RBI (3-2 KBSBFFBFF)3a M. Johnson scored.",40,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,5,top,S. Burman flied out to cf (3-2 FBKFBFB).,41,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,5,top,Z. Burton flied out to 2b (0-0).,42,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,5,bot,J. Schilling struck out swinging (1-2 KBFS).,43,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,5,bot,N. Reeder flied out to lf (0-1 F).,44,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,5,bot,D. DeLucas singled up the middle (2-1 BKB).,45,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,5,bot,S. Perkins struck out looking (3-2 BKBBKK).,46,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,6,top,H. Daab to p for T. Green.,47,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,6,top,J. Haines fouled out to 1b (3-2 BBKFFBF).,48,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,6,top,J. Bateman flied out to lf (0-0).,49,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,6,top,J. McCarthy lined out to lf (3-2 BKBBSF).,50,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,6,bot,E. MacCluen singled through the right side (1-1 FB).,51,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,6,bot,B. Lindsey singled down the lf line (2-2 BKKB)3a E. MacCluen advanced to second.,52,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,6,bot,"A. Llorente singled through the right side, RBI (0-2 KF)3a B. Lindsey advanced to third3a E. MacCluen scored.",53,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,6,bot,N. Hoheb fouled out to 3b (0-1 K).,54,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,6,bot,"E. Mok flied out to cf, SF, RBI (1-0 B)3a B. Lindsey scored.",55,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,6,bot,J. Schilling singled to pitcher (1-2 KBK)3a A. Llorente advanced to second.,56,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,6,bot,N. Reeder singled to left field (1-1 FB)3a J. Schilling advanced to second3a A. Llorente advanced to third.,57,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,6,bot,D. DeLucas struck out looking (1-2 KBFK).,58,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,7,top,S. Thomas hit by pitch (0-2 KK).,59,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,7,top,J. Marini flied out to rf (0-0).,60,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,7,top,S. Thomas stole second.,61,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,7,top,M. Johnson fouled out to 1b (2-1 BFB).,62,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,7,top,"D. Pozzi singled to left field, RBI (1-0 B)3a S. Thomas scored.",63,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,7,top,D. Pozzi advanced to second on a wild pitch.,64,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,7,top,"S. Burman tripled to left center, RBI (1-1 FB)3a D. Pozzi scored.",65,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,7,top,"Z. Burton singled up the middle, RBI (1-1 BF)3a S. Burman scored.",66,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,7,top,J. Haines flied out to cf (3-1 FBBB).,67,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,7,bot,J. Kenney to p for R. Tozzi.,68,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,7,bot,"S. Perkins homered to left field, RBI (1-2 KBF).",69,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,7,bot,E. MacCluen grounded out to 2b (2-2 BKFFBF).,70,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,7,bot,B. Lindsey walked (3-1 BBKBB).,71,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,7,bot,A. Llorente struck out swinging (2-2 KBBSFFS).,72,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,7,bot,N. Hoheb grounded out to p (1-2 KBF).,73,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,8,top,S. Polott to p for H. Daab.,74,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,8,top,J. Bateman flied out to 2b (0-2 KK).,75,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,8,top,J. McCarthy singled to left field (3-2 FBKFBFBF).,76,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,8,top,S. Thomas flied out to rf (1-1 BF).,77,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,8,top,J. Marini singled to right field (1-0 B)3a J. McCarthy advanced to third.,78,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,8,top,"M. Johnson homered to left field, 3 RBI (3-1 BBBS)3a J. Marini scored3a J. McCarthy scored.",79,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,8,top,D. Pozzi struck out swinging (2-2 FBBFS).,80,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,8,bot,E. Mok struck out looking (0-2 KFK).,81,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,8,bot,K. Shay pinch hit for J. Schilling.,82,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,8,bot,K. Shay walked (3-2 BBBKFFB).,83,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,8,bot,N. Reeder reached on a fielder's choice (0-1 K)3a K. Shay out at second p to ss.,84,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,8,bot,N. Reeder advanced to second on a wild pitch.,85,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,8,bot,D. DeLucas struck out swinging (2-2 BKBKFS).,86,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,9,top,Z. Zaller to p for S. Polott.,87,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,9,top,S. Burman flied out to cf (0-2 FF).,88,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,9,top,Z. Burton lined out to lf (2-0 BB).,89,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597245,9,top,J. Haines grounded out to ss (2-1 BKB).,90,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,9,bot,S. Perkins flied out to rf (1-2 KBK).,91,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,9,bot,E. MacCluen flied out to rf (0-0).,92,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,9,bot,B. Lindsey singled to right center (2-2 BFSFB).,93,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025
+6348370,597245,Catholic Cardinals,597359,Lycoming Warriors,597359,9,bot,A. Llorente grounded out to ss (0-1 S).,94,2025-04-26T00:00:00-04:00,"Bowman Field (Williamsport, PA)",167,MBA,2025

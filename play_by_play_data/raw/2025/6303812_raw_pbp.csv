@@ -1,0 +1,87 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,1,top,No play.,1,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,1,top,Talt flied out to cf (0-2 KK).,2,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,1,top,Arquette walked (3-2 BBBKFB).,3,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,1,top,Turley grounded into double play p to 2b to ss to 1b (1-1 BF)3a Arquette out on the play.,4,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,1,bot,"Neville, M struck out swinging (0-2 KKS).",5,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,1,bot,"Hellman, D struck out swinging (2-2 BKBSS).",6,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,1,bot,"Walsh, J struck out looking (2-2 SFBBFK).",7,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,2,top,Singer grounded out to 2b (0-2 KKF).,8,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,2,top,Weber fouled out to 1b (2-1 BSB).,9,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,2,top,Peterson walked (3-2 KBSBBFB).,10,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,2,top,Reeder walked (3-2 KSBFBBB)3a Peterson advanced to second.,11,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,2,top,Krieg walked (3-2 KBBFBB)3a Reeder advanced to second3a Peterson advanced to third.,12,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,2,top,"Caraway walked, RBI (3-2 BKBBSB)3a Krieg advanced to second3a Reeder advanced to third3a Peterson scored.",13,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,2,top,Talt flied out to rf (3-2 BBBKK).,14,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,2,bot,"Smith, D struck out swinging (2-2 KBBKS).",15,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,2,bot,"Aroz, A struck out looking (0-2 FSK).",16,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,2,bot,"Molony, M walked (3-2 FBBBFB).",17,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,2,bot,"Molony, M stole second.",18,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,2,bot,"Mabeus, B walked (3-2 KBBSBB).",19,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,2,bot,"Cooney, R fouled out to lf (1-1 KB).",20,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,3,top,Arquette grounded out to 3b (2-2 FKBB).,21,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,3,top,Turley grounded out to 3b (2-1 BBF).,22,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,3,top,Singer flied out to rf (0-1 K).,23,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,3,bot,"Garate, C flied out to lf (2-2 BSKBF).",24,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,3,bot,"Neville, M struck out swinging (1-2 KBSS).",25,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,3,bot,"Hellman, D struck out looking (3-2 SBFBBK).",26,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,4,top,Weber grounded out to ss (1-0 B).,27,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,4,top,Peterson grounded out to ss (1-1 BS).,28,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,4,top,Reeder doubled to right center (3-1 BBFB).,29,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,4,top,Krieg reached on a fielder's choice (1-0 B)3a Reeder out at third 3b unassisted.,30,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,4,bot,"Walsh, J homered to center field, RBI (0-0).",31,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,4,bot,"Smith, D walked (3-2 FBBSBB).",32,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,4,bot,"Aroz, A grounded out to p, SAC, bunt (0-1 K)3a Smith, D advanced to second.",33,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,4,bot,"Smith, D stole third.",34,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,4,bot,"Molony, M singled to center field, RBI (3-1 BBFB)3a Smith, D scored.",35,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,4,bot,"Molony, M stole second.",36,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,4,bot,"Mabeus, B struck out swinging (2-2 SBBKFS).",37,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,4,bot,"Cooney, R flied out to rf (0-1 S).",38,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,5,top,Caraway struck out swinging (0-2 KKS).,39,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,5,top,Talt flied out to rf (2-1 KBB).,40,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,5,top,Arquette flied out to cf (0-1 K).,41,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,5,bot,"Garate, C flied out to cf (0-0).",42,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,5,bot,"Neville, M grounded out to 2b (2-2 BFSFB).",43,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,5,bot,"Hellman, D singled through the left side (1-0 B).",44,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,5,bot,"Walsh, J struck out looking (0-2 FFK).",45,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,6,top,"Umlandt, I to p for Reitz, J.",46,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,6,top,Turley singled to shortstop (2-2 BBSK).,47,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,6,top,"Singer grounded out to 3b, SAC, bunt (0-1 K)3a Turley advanced to second.",48,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,6,top,Weber grounded out to 3b (0-0).,49,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,6,top,Peterson grounded out to 2b (1-1 FB).,50,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,6,bot,"Smith, D struck out swinging (2-2 KBBKS).",51,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,6,bot,"Aroz, A struck out swinging (2-2 BBFSFS).",52,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,6,bot,"Molony, M homered to left field, RBI (0-1 F).",53,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,6,bot,"Mabeus, B struck out looking (1-2 SSBK).",54,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,7,top,Reeder flied out to lf (1-2 BKFF).,55,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,7,top,Krieg doubled to right center (3-2 KBBFB).,56,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,7,top,Caraway grounded out to 3b (2-2 KFBB).,57,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,7,top,Talt struck out looking (2-2 BKFBK).,58,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,7,bot,Mundt to p for Kleinschmit.,59,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,7,bot,"Cooney, R singled to center field (0-0).",60,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,7,bot,"Garate, C struck out swinging, bunt (1-2 BKFS).",61,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,7,bot,"Cooney, R stole second.",62,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,7,bot,"Neville, M struck out swinging (3-2 KBBBFFS).",63,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,7,bot,"Hellman, D flied out to lf (2-0 BB).",64,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,8,top,"Arquette homered to left field, RBI (1-1 KB).",65,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,8,top,"Stokes, C to p for Umlandt, I.",66,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,8,top,Turley struck out looking (2-2 KSBBK).,67,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,8,top,Singer singled to left field (1-1 BK).,68,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,8,top,Weber struck out swinging (0-2 SKS).,69,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,8,top,Peterson grounded out to 1b unassisted (2-1 BBK).,70,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,8,bot,Oakes to p for Mundt.,71,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,8,bot,"Walsh, J struck out swinging (2-2 BFSBS).",72,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,8,bot,"Smith, D walked (3-2 FBBFBB).",73,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,8,bot,"Aroz, A struck out swinging (1-2 SKBS).",74,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,8,bot,"Molony, M singled through the right side (2-0 BB)3a Smith, D advanced to third.",75,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,8,bot,"Molony, M stole second.",76,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596644,8,bot,"Mabeus, B struck out swinging (3-2 BBKSBS).",77,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,9,top,"Mattox, S to p for Stokes, C.",78,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,9,top,Reeder struck out looking (0-2 KFK).,79,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,9,top,Jones pinch hit for Krieg.,80,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,9,top,Jones doubled down the rf line (1-0 B).,81,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,9,top,Hubbard pinch hit for Caraway.,82,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,9,top,"Garcia, S to p for Mattox, S.",83,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,9,top,McEntire pinch hit for Hubbard.,84,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,9,top,McEntire grounded out to 3b (0-0).,85,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025
+6303812,596643,Oregon St. Beavers,596644,Oregon Ducks,596643,9,top,Talt struck out swinging (0-2 KKS).,86,2025-04-27T00:00:00-04:00,"PK Park (Eugene, OR)",4016,MBA,2025

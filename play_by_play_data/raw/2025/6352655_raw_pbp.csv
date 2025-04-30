@@ -1,0 +1,91 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,1,top,"Flannery, Ju struck out swinging.",1,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,1,top,"Allie, Brayd fouled out to c.",2,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,1,top,"Hilde, Chase flied out to lf.",3,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,1,bot,"Mallonee,T walked.",4,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,1,bot,"Mallonee,T stole second.",5,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,1,bot,"Henderson, G tripled to center field, RBI3a Mallonee,T scored.",6,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,1,bot,"Martinez, A singled up the middle, RBI3a Henderson, G scored.",7,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,1,bot,"Barkenhagen grounded into double play ss to 2b to 1b3a Martinez, A out on the play.",8,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,1,bot,"Rosales, R homered, RBI.",9,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,1,bot,Brincefield singled through the left side.,10,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,1,bot,"Pursell, S singled through the left side3a Brincefield advanced to second.",11,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,1,bot,"Smith, J reached on a fielder's choice3a Pursell, S advanced to second3a Brincefield out at third 3b unassisted.",12,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,2,top,"Morrison, Ma flied out to cf.",13,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,2,top,"Dyer, Zach out at first 1b to p.",14,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,2,top,"Fulsher, Jad grounded out to 2b.",15,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,2,bot,"Wilson, Bray to lf for Hilde, Chase.",16,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,2,bot,"Dyer, Zach to 3b.",17,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,2,bot,"Harris, Cart to 2b.",18,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,2,bot,"Carrel, B hit by pitch.",19,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,2,bot,"Mallonee,T reached on a fielder's choice3a Carrel, B out at second ss to 2b.",20,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,2,bot,"Henderson, G popped up to 2b.",21,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,2,bot,"Martinez, A singled up the middle3a Mallonee,T advanced to second.",22,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,2,bot,Barkenhagen grounded out to ss.,23,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,3,top,"Valenzuela, struck out swinging.",24,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,3,top,"Morris, Brad walked.",25,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,3,top,"Harris, Cart grounded into double play 1b to ss3a Morris, Brad out on the play.",26,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,3,bot,"Payne, Wesle to p for Silva, Trey.",27,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,3,bot,"Rosales, R lined out to lf.",28,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,3,bot,Brincefield struck out looking.,29,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,3,bot,"Pursell, S grounded out to p.",30,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,4,top,"Solorio, J to 1b for Rosales, R.",31,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,4,top,"Flannery, Ju flied out to rf.",32,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,4,top,"Allie, Brayd singled to left field.",33,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,4,top,"Wilson, Bray struck out swinging.",34,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,4,top,"Morrison, Ma flied out to rf.",35,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,4,bot,"Smith, J flied out to cf.",36,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,4,bot,"Carrel, B grounded out to ss.",37,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,4,bot,"Mallonee,T singled, advanced to second on an error by 2b.",38,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,4,bot,"Henderson, G singled, advanced to second, advanced to third on an error by lf, RBI3a Mallonee,T scored, unearned.",39,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,4,bot,"Martinez, A singled through the left side, RBI3a Henderson, G scored.",40,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,4,bot,Barkenhagen flied out to lf.,41,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,5,top,"Dyer, Zach flied out to cf.",42,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,5,top,"Fulsher, Jad walked.",43,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,5,top,"Barger, A to p for Senneway, D.",44,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,5,top,"Valenzuela, popped up to 1b.",45,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,5,top,"Fulsher, Jad out at second c to 2b.",46,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,5,bot,"Kerr, Donova to p for Payne, Wesle.",47,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,5,bot,"Solorio, J grounded out to 1b unassisted.",48,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,5,bot,Brincefield flied out to rf.,49,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,5,bot,"Pursell, S popped up to 1b.",50,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,6,top,"Dennis, Z to p for Barger, A.",51,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,6,top,"Morris, Brad struck out looking.",52,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,6,top,"Harris, Cart hit by pitch.",53,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,6,top,"Cooper, S to p for Dennis, Z.",54,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,6,top,"Flannery, Ju doubled through the left side3a Harris, Cart advanced to third.",55,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,6,top,"Allie, Brayd doubled to center field, 2 RBI3a Flannery, Ju scored3a Harris, Cart scored.",56,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,6,top,"Wilson, Bray walked.",57,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,6,top,"Morrison, Ma singled to first base3a Wilson, Bray advanced to second3a Allie, Brayd advanced to third.",58,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,6,top,"Semone, C to p for Cooper, S.",59,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,6,top,"Dyer, Zach singled up the middle, RBI3a Morrison, Ma advanced to second3a Wilson, Bray advanced to third3a Allie, Brayd scored.",60,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,6,top,"Fulsher, Jad struck out swinging.",61,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,6,top,"Valenzuela, singled, RBI3a Dyer, Zach advanced to second3a Morrison, Ma out at third rf to c3a Wilson, Bray scored.",62,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,6,bot,"Grannes, Sam to p for Kerr, Donova.",63,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,6,bot,"Gomez, M pinch hit for Smith, J.",64,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,6,bot,"Gomez, M doubled to center field.",65,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,6,bot,"Sandoval, C pinch hit for Carrel, B.",66,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,6,bot,"Sandoval, C pinch ran for Gomez, M.",67,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,6,bot,"Carr, L pinch hit for Sandoval, C.",68,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,6,bot,"Carr, L flied out to cf.",69,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,6,bot,"Avita, T pinch hit for Mallonee,T.",70,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,6,bot,"Sandoval, C advanced to third.",71,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,6,bot,"Avita, T reached on a fielder's choice3a Sandoval, C out at home 2b to c.",72,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,6,bot,"Dillworth, D pinch ran for Avita, T.",73,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,6,bot,"Dillworth, D advanced to second on a wild pitch.",74,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,6,bot,"Henderson, G walked.",75,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,6,bot,"Henderson, G advanced to second on a wild pitch3a Dillworth, D advanced to third on a wild pitch.",76,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,6,bot,"Martinez, A hit by pitch.",77,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,6,bot,"Barkenhagen hit by pitch, RBI3a Martinez, A advanced to second3a Henderson, G advanced to third3a Dillworth, D scored.",78,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596825,6,bot,"Solorio, J flied out to lf.",79,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,7,top,"Dillworth, D to cf.",80,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,7,top,"Nixon, J to c for Sandoval, C.",81,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,7,top,"Clement, C to 2b for Carr, L.",82,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,7,top,"Gomes, Jacks to 2b for Harris, Cart.",83,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,7,top,"Gomes, Jacks to c for Morris, Brad.",84,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,7,top,"Harris, Cart to 2b for Gomes, Jacks.",85,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,7,top,"Gomes, Jacks singled through the left side.",86,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,7,top,"Harris, Cart struck out swinging.",87,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,7,top,"Flannery, Ju hit by pitch3a Gomes, Jacks advanced to second.",88,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,7,top,"Allie, Brayd fouled out to 3b.",89,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025
+6352655,596971,Menlo Oaks,596825,Fresno Pacific Sunbirds,596971,7,top,"Wilson, Bray grounded out to 2b.",90,2025-04-28T00:00:00-04:00,"Dan Martin Stadium (Fresno, CA)",383,MBA,2025

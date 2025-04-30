@@ -1,0 +1,84 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,1,top,"BATES, F. singled to center field (1-2).",1,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,1,top,"SMITH, Jn. grounded out to 2b (1-1)3a BATES, F. advanced to second.",2,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,1,top,"NOONAN, N. singled down the lf line, RBI (1-0)3a BATES, F. scored.",3,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,1,top,"MORAN, CJ walked (3-1)3a NOONAN, N. advanced to second.",4,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,1,top,"ARAMBULA, D. flied out to rf (3-2)3a NOONAN, N. advanced to third.",5,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,1,top,"JACKSON, J. lined out to lf (2-0).",6,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,1,bot,TOIGO singled through the right side (2-1).,7,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,1,bot,"E. RODRIGUEZ doubled to right center, RBI (1-0)3a TOIGO scored.",8,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,1,bot,HEFFT walked (3-0).,9,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,1,bot,KONIARSKY grounded into double play ss to 2b to 1b (1-1)3a HEFFT out on the play3a E. RODRIGUEZ advanced to third.,10,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,1,bot,"O'SULLIVAN singled to center field, RBI (2-2)3a E. RODRIGUEZ scored.",11,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,1,bot,SHEFF singled through the right side (1-2)3a O'SULLIVAN advanced to second.,12,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,1,bot,MYRO grounded out to ss (1-0).,13,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,2,top,"KELLY, Z. walked (3-0).",14,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,2,top,"SIPE, E. walked (3-2)3a KELLY, Z. advanced to second.",15,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,2,top,"SELGA, E. walked (3-2)3a SIPE, E. advanced to second3a KELLY, Z. advanced to third.",16,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,2,top,"BATES, F. struck out swinging (2-2).",17,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,2,top,"SMITH, Jn. singled to right field, RBI (1-0)3a SELGA, E. advanced to third3a SIPE, E. out at third rf to 2b to c3a KELLY, Z. scored.",18,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,2,top,"NOONAN, N. flied out to rf (0-2).",19,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,2,bot,GALLEGOS struck out looking (2-2).,20,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,2,bot,MYRO IV walked (3-0).,21,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,2,bot,TOIGO reached on a fielder's choice (1-2)3a MYRO IV out at second ss to 2b.,22,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,2,bot,E. RODRIGUEZ singled to shortstop (3-1)3a TOIGO advanced to second.,23,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,2,bot,"HEFFT singled through the left side, RBI (3-2)3a E. RODRIGUEZ advanced to third3a TOIGO scored.",24,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,2,bot,"KONIARSKY singled to center field, RBI (0-1)3a HEFFT advanced to third3a E. RODRIGUEZ scored.",25,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,2,bot,O'SULLIVAN grounded out to 1b unassisted (0-2).,26,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,3,top,"MORAN, CJ lined out to cf (0-0).",27,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,3,top,"ARAMBULA, D. lined out to cf (0-1).",28,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,3,top,"JACKSON, J. doubled to left center (0-0).",29,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,3,top,"KELLY, Z. struck out looking (1-2).",30,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,3,bot,SHEFF singled through the left side (2-2).,31,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,3,bot,MYRO singled to right center (1-1)3a SHEFF advanced to third.,32,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,3,bot,"GALLEGOS singled to right center, RBI (0-0)3a MYRO advanced to second3a SHEFF scored.",33,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,3,bot,"MYRO IV singled to pitcher, bunt (0-0)3a GALLEGOS advanced to second3a MYRO advanced to third.",34,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,3,bot,"TOIGO doubled to right center, 3 RBI (0-1)3a MYRO IV scored3a GALLEGOS scored3a MYRO scored.",35,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,3,bot,E. RODRIGUEZ struck out looking (3-2).,36,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,3,bot,HEFFT struck out swinging (1-2).,37,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,3,bot,KONIARSKY grounded out to 2b (3-2).,38,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,4,top,"SIPE, E. struck out swinging (2-2).",39,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,4,top,"SELGA, E. reached on a fielding error by 2b (1-2).",40,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,4,top,"BATES, F. grounded into double play 2b to ss to 1b (0-1)3a SELGA, E. out on the play.",41,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,4,bot,O'SULLIVAN grounded out to ss (3-2).,42,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,4,bot,SHEFF walked (3-1).,43,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,4,bot,ALLEN II pinch hit for MYRO.,44,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,4,bot,SHEFF stole second.,45,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,4,bot,ALLEN II grounded out to ss (3-2)3a SHEFF advanced to third.,46,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,4,bot,"GALLEGOS singled to shortstop, RBI (0-1)3a SHEFF scored.",47,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,4,bot,MYRO IV walked (3-2)3a GALLEGOS advanced to second.,48,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,4,bot,"MCBEAN, A. to p for SERRANO, O..",49,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,4,bot,"TOIGO singled through the right side, RBI (3-2)3a MYRO IV advanced to third3a GALLEGOS scored.",50,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,4,bot,"E. RODRIGUEZ singled through the right side, RBI (2-1)3a TOIGO advanced to second3a MYRO IV scored.",51,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,4,bot,HEFFT walked (3-0)3a E. RODRIGUEZ advanced to second3a TOIGO advanced to third.,52,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,4,bot,KONIARSKY struck out swinging (1-2).,53,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,5,top,ALLEN II to cf.,54,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,5,top,"SMITH, Jn. walked (3-1).",55,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,5,top,"NOONAN, N. flied out to cf (0-2).",56,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,5,top,"MORAN, CJ grounded out to 1b unassisted (0-0)3a SMITH, Jn. advanced to second.",57,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,5,top,"ARAMBULA, D. walked (3-0).",58,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,5,top,"JACKSON, J. flied out to rf (0-2).",59,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,5,bot,O'SULLIVAN flied out to cf (3-1).,60,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,5,bot,SHEFF doubled to left center (0-0).,61,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,5,bot,"ALLEN II doubled down the lf line, RBI (1-1)3a SHEFF scored.",62,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,5,bot,GALLEGOS walked (3-2).,63,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,5,bot,MYRO IV flied out to rf (1-0)3a ALLEN II advanced to third.,64,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,5,bot,"TOIGO singled up the middle, RBI (2-1)3a GALLEGOS advanced to third3a ALLEN II scored.",65,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,5,bot,E. RODRIGUEZ flied out to rf (1-0).,66,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,6,top,TAYLOR to p for LUECK.,67,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,6,top,"KELLY, Z. flied out to rf (0-2).",68,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,6,top,"RUTTER, D. pinch hit for SIPE, E..",69,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,6,top,"RUTTER, D. lined out to 3b (0-1).",70,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,6,top,"SELGA, E. flied out to cf (1-1).",71,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,6,bot,"FARNUM, X. to c for RUTTER, D..",72,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,6,bot,"PINTAR, L. to p for MCBEAN, A..",73,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,6,bot,HEFFT walked (3-2).,74,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,6,bot,KONIARSKY singled to left field (1-1)3a HEFFT advanced to second.,75,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,6,bot,O'SULLIVAN flied out to cf (2-0)3a HEFFT advanced to third.,76,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,6,bot,SHEFF struck out swinging (2-2).,77,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596619,6,bot,ALLEN II struck out swinging (1-2).,78,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,7,top,"BATES, F. lined out to 2b (2-1).",79,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,7,top,"SMITH, Jn. flied out to cf (3-1).",80,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,7,top,"NOONAN, N. singled to left center (0-2).",81,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,7,top,"NOONAN, N. advanced to second.",82,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025
+6303780,596669,San Diego St. Aztecs,596619,UNLV Rebels,596669,7,top,"MORAN, CJ flied out to cf (1-2).",83,2025-04-26T00:00:00-04:00,"Wilson Stadium (Las Vegas, NV)",721,MBA,2025

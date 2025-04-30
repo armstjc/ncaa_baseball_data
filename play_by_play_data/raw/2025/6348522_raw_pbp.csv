@@ -1,0 +1,115 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,1,top,L. Garrido grounded out to ss.,1,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,1,top,D. Escobar grounded out to ss.,2,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,1,top,Z. Stark doubled to right center.,3,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,1,top,R. Lisle struck out swinging.,4,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,1,bot,"J. Williams singled to pitcher, bunt.",5,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,1,bot,J. Williams stole second.,6,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,1,bot,N. Saladino struck out swinging.,7,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,1,bot,"J. Williams out at third c to 3b, caught stealing.",8,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,1,bot,J. Urso struck out looking.,9,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,2,top,K. Gelwick grounded out to ss.,10,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,2,top,D. Jones singled to right field.,11,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,2,top,C. Schumaker singled up the middle; D. Jones advanced to second.,12,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,2,top,"J. Bazydlo singled up the middle, RBI; C. Schumaker advanced to second; D. Jones scored.",13,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,2,top,J. Alzate flied out to rf; C. Schumaker advanced to third.,14,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,2,top,L. Garrido reached on a fielder's choice; J. Bazydlo out at second ss to 2b.,15,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,2,bot,B. Woodburn walked.,16,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,2,bot,E. Villegas singled to second base; B. Woodburn advanced to second.,17,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,2,bot,S. Garavito walked; E. Villegas advanced to second; B. Woodburn advanced to third.,18,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,2,bot,"K. Karstette reached on a fielder's choice, RBI; S. Garavito out at second ss to 2b; E. Villegas advanced to third; B. Woodburn scored.",19,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,2,bot,K. Karstette stole second.,20,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,2,bot,C. Russo walked.,21,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,2,bot,"M. King walked, RBI; C. Russo advanced to second; K. Karstette advanced to third; E. Villegas scored.",22,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,2,bot,"J. Williams singled to left field, RBI; M. King advanced to second; C. Russo advanced to third; K. Karstette scored.",23,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,2,bot,J. Williams advanced to second on a wild pitch; M. King advanced to third on a wild pitch; C. Russo scored on a wild pitch.,24,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,2,bot,N. Saladino lined out to lf.,25,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,2,bot,J. Urso hit by pitch.,26,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,2,bot,"B. Woodburn doubled to left center, 2 RBI; J. Urso advanced to third; J. Williams scored; M. King scored.",27,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,2,bot,E. Villegas flied out to lf.,28,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,3,top,D. Escobar flied out to lf.,29,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,3,top,Z. Stark flied out to lf.,30,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,3,top,R. Lisle singled up the middle.,31,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,3,top,K. Gelwick flied out to lf.,32,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,3,bot,S. Garavito flied out to rf.,33,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,3,bot,K. Karstette tripled to center field.,34,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,3,bot,"C. Russo doubled to right center, RBI; K. Karstette scored.",35,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,3,bot,M. King walked; C. Russo advanced to third on a wild pitch.,36,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,3,bot,"J. Williams flied out to lf, sacrifice fly, RBI; C. Russo scored.",37,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,3,bot,N. Saladino flied out to cf.,38,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,4,top,D. Jones doubled down the lf line.,39,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,4,top,C. Schumaker struck out looking.,40,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,4,top,J. Bazydlo flied out to lf.,41,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,4,top,"J. Alzate singled to center field, RBI; D. Jones scored.",42,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,4,top,L. Garrido flied out to rf.,43,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,4,bot,J. Urso singled to right field.,44,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,4,bot,B. Woodburn hit by pitch; J. Urso advanced to second.,45,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,4,bot,E. Villegas flied out to lf.,46,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,4,bot,S. Garavito struck out swinging.,47,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,4,bot,K. Karstette reached on a fielder's choice; B. Woodburn advanced to second; J. Urso out at third 3b unassisted.,48,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,5,top,D. Escobar singled to left field.,49,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,5,top,Z. Stark flied out to rf.,50,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,5,top,R. Lisle singled to right field; D. Escobar advanced to second.,51,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,5,top,R. Lisle stole second; D. Escobar stole third.,52,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,5,top,"K. Gelwick grounded out to 2b, RBI; R. Lisle advanced to third; D. Escobar scored.",53,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,5,top,"D. Jones doubled to center field, RBI; R. Lisle scored.",54,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,5,top,C. Schumaker grounded out to 2b.,55,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,5,bot,C. Russo walked.,56,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,5,bot,C. Russo advanced to second on a wild pitch.,57,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,5,bot,M. King hit by pitch.,58,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,5,bot,N. Norwood to p for R. Gargett.,59,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,5,bot,"J. Williams grounded out to p, SAC, bunt; M. King advanced to second; C. Russo advanced to third.",60,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,5,bot,N. Saladino hit by pitch.,61,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,5,bot,"J. Urso tripled to right field, 3 RBI; N. Saladino scored; M. King scored; C. Russo scored.",62,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,5,bot,"B. Woodburn doubled down the rf line, RBI; J. Urso scored.",63,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,5,bot,E. Villegas grounded out to 2b; B. Woodburn advanced to third.,64,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,5,bot,S. Garavito flied out to rf.,65,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,6,top,B. Heidel to p for S. Gonzalez.,66,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,6,top,J. Bazydlo grounded out to 2b.,67,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,6,top,J. Alzate struck out looking.,68,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,6,top,L. Garrido grounded out to 3b.,69,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,6,bot,"K. Karstette doubled to right field, advanced to third on an error by ss.",70,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,6,bot,C. Russo walked.,71,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,6,bot,"M. King lined out to lf, sacrifice fly, RBI; K. Karstette scored, unearned.",72,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,6,bot,J. Williams struck out swinging.,73,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,6,bot,N. Saladino walked; C. Russo advanced to second.,74,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,6,bot,J. Urso reached on a fielder's choice; N. Saladino out at second 2b to ss; C. Russo advanced to third.,75,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,7,top,D. Escobar fouled out to 1b.,76,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,7,top,Z. Stark walked.,77,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,7,top,R. Lisle walked; Z. Stark advanced to second.,78,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,7,top,K. Gelwick reached on a fielder's choice; R. Lisle advanced to second; Z. Stark out at third p to 3b.,79,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,7,top,D. Jones grounded out to p.,80,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,7,bot,B. Woodburn walked.,81,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,7,bot,"E. Villegas doubled to right center, RBI; B. Woodburn scored.",82,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,7,bot,S. Garavito walked.,83,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,7,bot,K. Karstette flied out to rf; E. Villegas advanced to third.,84,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,7,bot,C. Russo walked; S. Garavito advanced to second.,85,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,7,bot,D. Harman pinch hit for M. King.,86,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,7,bot,"D. Harman doubled down the lf line, 2 RBI; C. Russo advanced to third; S. Garavito scored; E. Villegas scored.",87,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,7,bot,D. McCaffery pinch hit for J. Williams.,88,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,7,bot,T. Alenbaume to p for N. Norwood.,89,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,7,bot,D. McCaffery grounded out to p.,90,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,7,bot,A. Graham pinch hit for N. Saladino.,91,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,7,bot,A. Graham out at first 1b to p.,92,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,8,top,D. McCaffery to cf.,93,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,8,top,A. Graham to ss.,94,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,8,top,J. Turer to 3b for J. Urso.,95,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,8,top,D. Harman to lf.,96,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,8,top,R. Satin to p for B. Heidel.,97,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,8,top,C. Schumaker struck out looking.,98,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,8,top,J. Bazydlo struck out swinging.,99,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,8,top,J. Alzate grounded out to ss.,100,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,8,bot,J. Turer grounded out to 3b.,101,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,8,bot,M. Fogel pinch hit for B. Woodburn.,102,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,8,bot,M. Fogel struck out looking.,103,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,8,bot,E. Villegas walked.,104,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596939,8,bot,S. Garavito grounded out to 3b.,105,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,9,top,M. Fogel to 1b.,106,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,9,top,C. Russo to 2b.,107,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,9,top,M. Alfonso to p for R. Satin.,108,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,9,top,L. Garrido singled to third base.,109,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,9,top,L. Marino pinch hit for D. Escobar.,110,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,9,top,"L. Marino homered, 2 RBI; L. Garrido scored.",111,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,9,top,Z. Stark flied out to rf.,112,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,9,top,R. Lisle struck out swinging.,113,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025
+6348522,596884,Eckerd Tritons,596939,Tampa Spartans,596884,9,top,K. Gelwick fouled out to 1b.,114,2025-04-26T00:00:00-04:00,"UT Baseball Field (Tampa, FL)",200,MBA,2025

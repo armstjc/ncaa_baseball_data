@@ -1,0 +1,108 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,1,top,R. Leonzi singled to pitcher.,1,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,1,top,H. Penders flied out to cf.,2,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,1,top,P. Cosme-Cru hit by pitch; R. Leonzi advanced to second.,3,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,1,top,P. Cosme-Cru advanced to second on a wild pitch; R. Leonzi advanced to third on a wild pitch.,4,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,1,top,"A. Soriano doubled to right center, 2 RBI; P. Cosme-Cru scored; R. Leonzi scored.",5,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,1,top,A. Soriano out at third c to 3b.,6,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,1,top,E. Zaiter walked.,7,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,1,top,F. Ferguson walked; E. Zaiter advanced to second.,8,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,1,top,I. Moser flied out to rf.,9,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,1,bot,Zach Stephenson walked.,10,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,1,bot,Danny MacDougall struck out swinging.,11,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,1,bot,Joey Frammartino reached on a fielder's choice to shortstop; Zach Stephenson out at second ss to 2b.,12,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,1,bot,Cade Bernardo struck out swinging.,13,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,2,top,S. Fallon struck out swinging.,14,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,2,top,D. Jackson singled up the middle.,15,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,2,top,R. Leonzi flied out to rf.,16,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,2,top,H. Penders grounded out to 2b.,17,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,2,bot,Kyle Grabowski singled to center field.,18,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,2,bot,John Mulready flied out to rf.,19,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,2,bot,"AJ Hamm doubled to left center, RBI; Kyle Grabowski scored.",20,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,2,bot,Robbie Wladkowski grounded out to ss.,21,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,2,bot,TJ Liponis singled to third base; AJ Hamm advanced to third.,22,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,2,bot,Zach Stephenson struck out looking.,23,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,3,top,P. Cosme-Cru singled to left field.,24,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,3,top,A. Soriano singled through the left side; P. Cosme-Cru advanced to second.,25,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,3,top,E. Zaiter grounded into double play ss to 1b; A. Soriano out on the play; P. Cosme-Cru advanced to third.,26,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,3,top,F. Ferguson flied out to cf to left center.,27,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,3,bot,Danny MacDougall singled to second base.,28,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,3,bot,Joey Frammartino singled to center field; Danny MacDougall advanced to second.,29,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,3,bot,Cade Bernardo popped up to 1b.,30,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,3,bot,Joey Frammartino stole second; Danny MacDougall stole third.,31,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,3,bot,"Kyle Grabowski doubled to left center, 2 RBI; Joey Frammartino scored; Danny MacDougall scored.",32,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,3,bot,"John Mulready tripled to right field, RBI; Kyle Grabowski scored.",33,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,3,bot,AJ Hamm flied out to lf to left center.,34,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,3,bot,Robbie Wladkowski walked.,35,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,3,bot,TJ Liponis hit by pitch; Robbie Wladkowski advanced to second.,36,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,3,bot,Zach Stephenson flied out to rf.,37,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,4,top,I. Moser grounded out to 3b.,38,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,4,top,S. Fallon struck out swinging.,39,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,4,top,D. Jackson flied out to lf.,40,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,4,bot,Danny MacDougall singled to center field.,41,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,4,bot,Joey Frammartino struck out swinging.,42,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,4,bot,Cade Bernardo popped up to 2b.,43,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,4,bot,"Kyle Grabowski doubled to left center, RBI; Danny MacDougall scored.",44,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,4,bot,John Mulready singled to pitcher; Kyle Grabowski advanced to third.,45,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,4,bot,John Mulready stole second.,46,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,4,bot,"AJ Hamm singled to pitcher, RBI; John Mulready advanced to third; Kyle Grabowski scored.",47,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,4,bot,M. Furgalack to p for D. Driscoll.,48,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,4,bot,Robbie Wladkowski struck out swinging.,49,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,5,top,R. Leonzi grounded out to 2b.,50,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,5,top,H. Penders walked.,51,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,5,top,Chris Jenkins to p for John Connolly.,52,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,5,top,P. Cosme-Cru grounded into double play ss to 2b to 1b; H. Penders out on the play.,53,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,5,bot,TJ Liponis walked.,54,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,5,bot,Zach Stephenson walked; TJ Liponis advanced to second.,55,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,5,bot,Danny MacDougall struck out swinging.,56,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,5,bot,Joey Frammartino flied out to rf to right center.,57,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,5,bot,Cade Bernardo struck out swinging.,58,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,6,top,A. Soriano popped up to 2b.,59,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,6,top,E. Zaiter hit by pitch.,60,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,6,top,F. Ferguson walked; E. Zaiter advanced to second.,61,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,6,top,I. Moser struck out swinging.,62,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,6,top,S. Fallon reached on a fielder's choice to shortstop; F. Ferguson advanced to second; E. Zaiter out at third ss to 3b.,63,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,6,bot,N. Furino to p for M. Furgalack.,64,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,6,bot,Kyle Grabowski grounded out to 2b.,65,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,6,bot,John Mulready singled to left field.,66,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,6,bot,AJ Hamm flied out to cf.,67,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,6,bot,Robbie Wladkowski reached on a fielder's choice to second base; John Mulready out at second 2b unassisted.,68,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,7,top,Danny MacDougall to 1b.,69,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,7,top,Trevor Kamuda to lf for Cade Bernardo.,70,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,7,top,D. Jackson struck out swinging.,71,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,7,top,R. Leonzi flied out to cf to right center.,72,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,7,top,H. Penders walked.,73,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,7,top,P. Cosme-Cru hit by pitch; H. Penders advanced to second.,74,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,7,top,A. Soriano walked; P. Cosme-Cru advanced to second; H. Penders advanced to third.,75,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,7,top,E. Zaiter struck out swinging.,76,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,7,bot,TJ Liponis singled to left field.,77,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,7,bot,Zach Stephenson reached on a fielder's choice to second base; TJ Liponis out at second 2b to ss.,78,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,7,bot,Zach Stephenson stole second.,79,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,7,bot,Danny MacDougall grounded out to ss; Zach Stephenson advanced to third.,80,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,7,bot,C. Willett to p for N. Furino.,81,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,7,bot,Joey Frammartino walked.,82,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,7,bot,Richard Foresteire pinch hit for Trevor Kamuda.,83,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,7,bot,"Richard Foresteire reached first on a dropped fly by lf, advanced to second on the error; Joey Frammartino scored, unearned; Zach Stephenson scored, unearned.",84,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,7,bot,Brenden Walsh pinch ran for Richard Foresteire.,85,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,7,bot,Kyle Grabowski flied out to cf.,86,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,8,top,Brenden Walsh to lf.,87,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,8,top,F. Ferguson grounded out to 2b.,88,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,8,top,I. Moser struck out swinging.,89,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,8,top,S. Fallon struck out swinging.,90,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,8,bot,E. Sharp to c for S. Fallon.,91,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,8,bot,J. Hernandez to p for C. Willett.,92,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,8,bot,John Mulready doubled to right center.,93,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,8,bot,Tim Avery pinch ran for John Mulready.,94,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,8,bot,Tim Avery advanced to third on a wild pitch.,95,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,8,bot,"AJ Hamm singled through the right side, RBI; Tim Avery scored.",96,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,8,bot,Robbie Wladkowski grounded out to 2b; AJ Hamm advanced to second.,97,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,8,bot,"TJ Liponis homered to left center, 2 RBI; AJ Hamm scored.",98,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,8,bot,Zach Stephenson struck out swinging.,99,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597157,8,bot,Danny MacDougall flied out to cf.,100,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,9,top,Caleb Clark to rf for Joey Frammartino.,101,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,9,top,James Benestad to c for Tim Avery.,102,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,9,top,"D. Jackson doubled to left center, out at third lf to ss to 3b.",103,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,9,top,T. Kimbler pinch hit for R. Leonzi.,104,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,9,top,T. Kimbler struck out swinging.,105,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,9,top,J. Clark pinch hit for H. Penders.,106,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025
+6379692,597270,Eastern Conn. St. Warriors,597157,Endicott Gulls,597270,9,top,J. Clark flied out to cf.,107,2025-04-28T00:00:00-04:00,"North Field (Beverly, MA)",326,MBA,2025

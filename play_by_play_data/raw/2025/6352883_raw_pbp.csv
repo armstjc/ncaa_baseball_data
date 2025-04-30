@@ -1,0 +1,115 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,1,top,C.Hill flied out to rf (0-0).,1,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,1,top,S.Kary lined out to 2b (0-1 K).,2,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,1,top,O.Pegg lined out to lf (0-0).,3,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,1,bot,"Moreno, L singled through the right side (2-1 SBB).",4,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,1,bot,"Bello, E flied out to rf (1-0 B).",5,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,1,bot,"Moreno, L stole second.",6,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,1,bot,"Tweet, W out at first 1b to p (1-1 BF); Moreno, L advanced to third.",7,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,1,bot,"Navratil, E struck out looking (1-2 SKBFK).",8,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,2,top,J.Orthner walked (3-2 KBBFBB).,9,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,2,top,N.Madas flied out to lf (1-0 B).,10,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,2,top,B.Riddle singled to left field (1-2 BFF); J.Orthner advanced to second.,11,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,2,top,G.Gabbert struck out looking (2-2 KSFBBFK).,12,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,2,top,B.Riddle advanced to second on a wild pitch; J.Orthner advanced to third on a wild pitch.,13,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,2,top,S.Song struck out swinging (2-2 FBKBS).,14,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,2,bot,"Guthrie, B struck out swinging (1-2 BFKS).",15,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,2,bot,"Castro, W singled to right field (1-1 FB).",16,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,2,bot,"Konkol, H hit by pitch (1-0); Castro, W advanced to second.",17,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,2,bot,"Konkol, H advanced to second on a wild pitch; Castro, W advanced to third on a wild pitch.",18,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,2,bot,"Kim, T grounded out to 2b, RBI (2-2 BKKB); Konkol, H advanced to third; Castro, W scored.",19,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,2,bot,"Jacobson, B singled to right field, RBI (2-2 KFBB); Konkol, H scored.",20,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,2,bot,"Moreno, L popped up to c (1-1 BK).",21,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,3,top,N.Gutierrez popped up to 1b (2-1 KBB).,22,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,3,top,C.Hill doubled to right center (2-1 KBB).,23,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,3,top,S.Kary flied out to cf (0-0); C.Hill advanced to third.,24,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,3,top,O.Pegg struck out swinging (2-2 BBSSS).,25,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,3,bot,"Bello, E singled to left field (1-1 BK).",26,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,3,bot,"Bello, E advanced to second on a wild pitch.",27,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,3,bot,"Bello, E advanced to third.",28,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,3,bot,"Tweet, W struck out swinging (3-2 BBSKBS).",29,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,3,bot,"Navratil, E homered to right center, 2 RBI (1-1 FB); Bello, E scored.",30,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,3,bot,"Guthrie, B lined out to ss (1-0 B).",31,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,3,bot,"Castro, W singled to left field (0-2 SF).",32,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,3,bot,"Konkol, H flied out to lf (0-0).",33,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,4,top,J.Orthner grounded out to 1b unassisted (0-1 F).,34,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,4,top,N.Madas singled to right field (0-2 KKF).,35,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,4,top,B.Riddle singled to center field (1-0 B); N.Madas advanced to second.,36,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,4,top,G.Gabbert reached on a fielder's choice (0-0); B.Riddle advanced to second; N.Madas out at third 3b unassisted.,37,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,4,top,S.Song popped up to 1b (0-0).,38,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,4,bot,D.Marton to p for A.Disantis.,39,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,4,bot,"Kim, T walked (3-2 KBKFBFFBB).",40,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,4,bot,"Jacobson, B struck out swinging (1-2 BSSS); Kim, T advanced to second on a wild pitch.",41,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,4,bot,"Moreno, L homered to left field, 2 RBI (1-0 B); Kim, T scored.",42,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,4,bot,"Bello, E flied out to rf (0-1 F).",43,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,4,bot,"Tweet, W doubled to center field (0-2 FF).",44,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,4,bot,"Navratil, E singled up the middle, RBI (3-2 BSBFB); Tweet, W scored.",45,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,4,bot,J.Czyz to p for D.Marton.,46,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,4,bot,"Guthrie, B singled down the rf line (2-2 BKBKF); Navratil, E advanced to third.",47,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,4,bot,"Hess, W pinch ran for Guthrie, B.",48,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,4,bot,"Navratil, E scored on an error by p, unearned.",49,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,4,bot,"Castro, W struck out swinging (2-2 KSBBS).",50,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,5,top,"Pribula, J to c for Hess, W.",51,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,5,top,N.Gutierrez flied out to rf (1-1 KB).,52,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,5,top,C.Hill singled to left field (1-0 B).,53,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,5,top,S.Kary singled to left field (0-0); C.Hill advanced to second.,54,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,5,top,O.Pegg struck out swinging (2-2 BBKSS).,55,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,5,top,J.Orthner struck out swinging (0-2 FKS).,56,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,5,bot,O.Tucci to p for J.Czyz.,57,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,5,bot,"Konkol, H singled up the middle (0-2 KS).",58,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,5,bot,"Fuchs, G pinch hit for Kim, T.",59,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,5,bot,"Fuchs, G grounded out to 3b (0-0); Konkol, H advanced to second.",60,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,5,bot,"Krueger, E pinch hit for Jacobson, B.",61,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,5,bot,"Krueger, E flied out to lf (1-0 B).",62,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,5,bot,"Moreno, L flied out to lf (1-0 B).",63,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,6,top,"Konkol, H to cf.",64,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,6,top,"Baumhover, A to 2b for Fuchs, G.",65,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,6,top,"Zuck, W to lf for Krueger, E.",66,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,6,top,N.Madas singled to left field (1-2 KKB).,67,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,6,top,B.Riddle struck out swinging (1-2 SFBS).,68,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,6,top,G.Gabbert struck out swinging (3-2 BKBBKS); N.Madas advanced to second on a wild pitch.,69,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,6,top,S.Song struck out swinging (1-2 KSBS).,70,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,6,bot,G.Eastlick to p for O.Tucci.,71,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,6,bot,"Bello, E struck out looking (2-2 KBBSK).",72,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,6,bot,"Tweet, W grounded out to 3b (1-2 BFK).",73,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,6,bot,"Navratil, E flied out to lf (3-2 BSBFBF).",74,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,7,top,N.Gutierrez singled to second base (1-2 BSS).,75,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,7,top,"Price, A to p for Brassfield,B.",76,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,7,top,C.Hill reached on a fielder's choice (1-1 BF); N.Gutierrez out at second 2b to ss.,77,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,7,top,S.Kary singled through the right side (0-2 KK); C.Hill advanced to second.,78,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,7,top,"O.Pegg singled up the middle, RBI (1-1 KB); S.Kary advanced to second; C.Hill scored.",79,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,7,top,"J.Orthner singled, RBI (2-2 SSFBB); O.Pegg advanced to third; S.Kary scored.",80,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,7,top,J.Orthner stole second; O.Pegg scored.,81,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,7,top,N.Madas flied out to lf (3-2 KBFBB).,82,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,7,top,"Lessman, C to p for Price, A.",83,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,7,top,B.Riddle grounded out to ss (2-1 KBB).,84,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,7,bot,W.Toth to p for G.Eastlick.,85,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,7,bot,"Pribula, J flied out to rf (2-2 SBBF).",86,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,7,bot,"Castro, W struck out swinging (3-2 BSSBFBS).",87,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,7,bot,"Konkol, H walked (3-1 BSBBB).",88,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,7,bot,"Baumhover, A doubled to left field, RBI (0-0); Konkol, H scored.",89,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,7,bot,"Zuck, W grounded out to 3b (1-2 BFK).",90,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,8,top,K.Munos pinch hit for G.Gabbert.,91,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,8,top,K.Munos struck out swinging (1-2 KBSS).,92,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,8,top,M.Iverson pinch hit for S.Song.,93,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,8,top,M.Iverson struck out swinging (0-2 FKS).,94,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,8,top,C.Talley pinch hit for N.Gutierrez.,95,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,8,top,C.Talley walked (3-2 KBBSBB).,96,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,8,top,C.Talley advanced to second on a wild pitch.,97,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,8,top,C.Hill grounded out to p (2-1 BBF).,98,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,8,bot,J.Jahnke to p for W.Toth.,99,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,8,bot,J.West to 2b for C.Talley.,100,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,8,bot,K.Munos to lf.,101,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,8,bot,P.Rodgers to c for M.Iverson.,102,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,8,bot,"Moreno, L walked (3-1 KBBBB).",103,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,8,bot,"Bello, E singled to right field; Moreno, L advanced to third.",104,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,8,bot,"Bello, E stole second.",105,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,8,bot,"Tweet, W doubled to center field, 2 RBI (1-1 SB); Bello, E scored; Moreno, L scored.",106,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,8,bot,"Navratil, E flied out to cf (2-1 SBB); Tweet, W advanced to third.",107,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,8,bot,"Pribula, J struck out swinging, out at first c to 1b (2-2 KSBBS).",108,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596931,8,bot,"Castro, W out at first ss to 2b (1-1 KB).",109,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,9,top,"Richardson,B to p for Lessman, C.",110,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,9,top,S.Kary walked (3-1 BBBKB).,111,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,9,top,O.Pegg popped up to c (2-2 SBSB).,112,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,9,top,J.Orthner flied out to cf (0-0).,113,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025
+6352883,596818,Minot St. Beavers,596931,St. Cloud St. Huskies,596818,9,top,N.Madas flied out to lf (0-1 K).,114,2025-04-26T00:00:00-04:00,"Joe Faber Field (St. Cloud, MN)",177,MBA,2025

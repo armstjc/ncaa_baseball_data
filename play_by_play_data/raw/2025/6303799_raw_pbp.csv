@@ -1,0 +1,118 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,1,top,G. Salva walked.,1,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,1,top,"G. Salva out at second c to 2b, caught stealing.",2,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,1,top,C. Basehore walked.,3,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,1,top,A. Taclas struck out swinging.,4,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,1,top,R. Lordier walked; C. Basehore advanced to second.,5,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,1,top,A. Lewis walked; R. Lordier advanced to second; C. Basehore advanced to third.,6,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,1,top,"T. Hansen singled to shortstop, RBI; A. Lewis advanced to second; R. Lordier advanced to third; C. Basehore scored.",7,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,1,top,Brady Fox to p for Sergio Droz.,8,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,1,top,"H. Sute singled to shortstop, RBI; T. Hansen advanced to second; A. Lewis advanced to third; R. Lordier scored.",9,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,1,top,T. Galletti flied out to rf.,10,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,1,bot,Jesiah Carpenter singled to shortstop.,11,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,1,bot,"Jesiah Carpenter out at second c to 2b, caught stealing.",12,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,1,bot,Anthony Mascuilli walked.,13,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,1,bot,Leewood Molessa reached on a fielder's choice; Anthony Mascuilli out at second ss to 2b.,14,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,1,bot,Danny Orr hit by pitch; Leewood Molessa advanced to second.,15,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,1,bot,Danny Wyatt flied out to cf.,16,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,2,top,D. Mayer walked.,17,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,2,top,"G. Salva grounded out to p, SAC, bunt; D. Mayer advanced to second.",18,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,2,top,C. Basehore struck out looking.,19,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,2,top,A. Taclas grounded out to 2b.,20,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,2,bot,Nick Pratt flied out to rf.,21,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,2,bot,"Nolan Kutney homered to left field, RBI.",22,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,2,bot,Kyle Eddington hit by pitch.,23,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,2,bot,Luke Buscaglia walked; Kyle Eddington advanced to second.,24,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,2,bot,Luke Buscaglia advanced to second; Kyle Eddington advanced to third on a passed ball.,25,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,2,bot,"Jesiah Carpenter singled to right field, RBI; Luke Buscaglia advanced to third; Kyle Eddington scored.",26,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,2,bot,Jesiah Carpenter stole second.,27,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,2,bot,"Anthony Mascuilli flied out to rf, sacrifice fly, RBI; Jesiah Carpenter advanced to third; Luke Buscaglia scored, unearned.",28,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,2,bot,Leewood Molessa grounded out to ss.,29,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,3,top,R. Lordier singled to shortstop.,30,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,3,top,R. Lordier stole second.,31,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,3,top,A. Lewis grounded out to ss; R. Lordier advanced to third.,32,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,3,top,T. Hansen struck out swinging.,33,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,3,top,"H. Sute homered to left center, 2 RBI; R. Lordier scored.",34,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,3,top,T. Galletti singled up the middle.,35,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,3,top,D. Mayer flied out to rf.,36,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,3,bot,Danny Orr grounded out to 3b.,37,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,3,bot,Danny Wyatt lined out to rf.,38,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,3,bot,Nick Pratt flied out to rf.,39,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,4,top,G. Salva singled to right field.,40,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,4,top,G. Salva advanced to second on a wild pitch.,41,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,4,top,"C. Basehore out at first 1b to 2b, SAC, bunt; G. Salva advanced to third.",42,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,4,top,"A. Taclas flied out to rf, sacrifice fly, RBI; G. Salva scored.",43,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,4,top,R. Lordier walked.,44,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,4,top,A. Lewis struck out swinging.,45,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,4,bot,J. Sosa to rf for A. Taclas.,46,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,4,bot,Nolan Kutney grounded out to 1b unassisted.,47,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,4,bot,Kyle Eddington grounded out to 2b.,48,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,4,bot,Luke Buscaglia struck out looking.,49,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,5,top,Ayden Gonzalez to p for Brady Fox.,50,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,5,top,T. Hansen struck out swinging.,51,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,5,top,H. Sute grounded out to 2b.,52,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,5,top,T. Galletti singled through the right side.,53,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,5,top,D. Mayer singled through the left side; T. Galletti advanced to second.,54,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,5,top,G. Salva hit by pitch; D. Mayer advanced to second; T. Galletti advanced to third.,55,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,5,top,"C. Basehore hit by pitch, RBI; G. Salva advanced to second; D. Mayer advanced to third; T. Galletti scored.",56,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,5,top,Sam Bell to p for Ayden Gonzalez.,57,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,5,top,C. Basehore advanced to second; G. Salva advanced to third; D. Mayer scored on a wild pitch.,58,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,5,top,J. Sosa flied out to rf.,59,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,5,bot,Jesiah Carpenter walked.,60,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,5,bot,Jesiah Carpenter advanced to second on a wild pitch.,61,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,5,bot,Anthony Mascuilli grounded out to 3b; Jesiah Carpenter advanced to third.,62,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,5,bot,"Leewood Molessa flied out to cf, sacrifice fly, RBI; Jesiah Carpenter scored.",63,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,5,bot,Danny Orr struck out looking.,64,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,6,top,R. Lordier flied out to rf.,65,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,6,top,A. Lewis struck out looking.,66,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,6,top,T. Hansen struck out looking.,67,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,6,bot,C. Cowburn to p for J. Duffield.,68,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,6,bot,Danny Wyatt walked.,69,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,6,bot,Nick Pratt walked; Danny Wyatt advanced to second.,70,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,6,bot,Nolan Kutney walked; Nick Pratt advanced to second; Danny Wyatt advanced to third.,71,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,6,bot,A. Brown to p for C. Cowburn.,72,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,6,bot,"Kyle Eddington hit by pitch, RBI; Nolan Kutney advanced to second; Nick Pratt advanced to third; Danny Wyatt scored.",73,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,6,bot,Derek Paris pinch hit for Luke Buscaglia.,74,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,6,bot,Derek Paris lined into double play 1b; Kyle Eddington out on the play.,75,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,6,bot,"Jesiah Carpenter singled to center field, 2 RBI; Nolan Kutney scored; Nick Pratt scored.",76,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,6,bot,Jesiah Carpenter stole second.,77,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,6,bot,"Anthony Mascuilli singled to right center, RBI; Jesiah Carpenter scored.",78,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,6,bot,"Leewood Molessa reached first on a throwing error by 3b, advanced to second; Anthony Mascuilli advanced to third.",79,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,6,bot,"Danny Orr doubled down the lf line, 2 RBI; Leewood Molessa scored, unearned; Anthony Mascuilli scored, unearned.",80,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,6,bot,J. Craska to p for A. Brown.,81,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,6,bot,"Danny Wyatt singled to first base, RBI; Danny Orr scored, unearned.",82,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,6,bot,Nick Pratt grounded out to 3b.,83,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,7,top,Danny Orr to lf.,84,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,7,top,Derek Paris to rf.,85,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,7,top,Nick Remy to p for Sam Bell.,86,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,7,top,H. Sute singled up the middle.,87,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,7,top,T. Galletti struck out swinging.,88,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,7,top,D. Mayer struck out swinging.,89,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,7,top,G. Salva singled to right field; H. Sute advanced to third.,90,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,7,top,C. Basehore flied out to lf.,91,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,7,bot,Nolan Kutney struck out looking.,92,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,7,bot,Kyle Eddington singled to right center.,93,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,7,bot,"Derek Paris homered to left field, 2 RBI; Kyle Eddington scored.",94,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,7,bot,"Jesiah Carpenter singled, bunt.",95,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,7,bot,Anthony Mascuilli singled to left field; Jesiah Carpenter advanced to second.,96,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,7,bot,Leewood Molessa walked; Anthony Mascuilli advanced to second; Jesiah Carpenter advanced to third.,97,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,7,bot,"Danny Orr reached on a fielder's choice, RBI; Leewood Molessa out at second ss to 2b; Anthony Mascuilli advanced to third; Jesiah Carpenter scored.",98,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,7,bot,Danny Wyatt grounded out to 3b.,99,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,8,top,Matthew Best to rf for Nick Pratt.,100,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,8,top,Derek Paris to c.,101,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,8,top,J. Sosa flied out to lf.,102,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,8,top,R. Lordier walked.,103,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,8,top,R. Ash pinch ran for R. Lordier.,104,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,8,top,A. Lewis flied out to rf.,105,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,8,top,T. Hansen singled to right field; R. Ash advanced to third.,106,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,8,top,"H. Sute doubled to left field, RBI; T. Hansen advanced to third; R. Ash scored.",107,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,8,top,T. Galletti struck out swinging.,108,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,8,bot,G. Salva to 2b.,109,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,8,bot,R. Ash to ss.,110,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,8,bot,Kuntzelman to p for J. Craska.,111,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,8,bot,Matthew Best flied out to cf.,112,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,8,bot,Nolan Kutney grounded out to 3b.,113,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596592,8,bot,Kyle Eddington grounded out to 3b.,114,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,9,top,D. Mayer struck out swinging.,115,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,9,top,G. Salva popped up to ss.,116,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
+6303799,596589,Manhattan Jaspers,596592,UMBC Retrievers,596589,9,top,C. Basehore flied out to rf.,117,2025-04-27T00:00:00-04:00,"Alumni Field (Baltimore, MD)",291,MBA,2025
