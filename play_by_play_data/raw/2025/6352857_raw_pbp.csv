@@ -1,0 +1,86 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6352857,596989,Norwich Cadets,597340,Dean ,596989,1,top,N. Knight struck out swinging.,1,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,1,top,K. Ohlsen singled.,2,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,1,top,R. Miller flied out to lf.,3,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,1,top,"K. Ohlsen out at second p to 1b to ss to 1b, caught stealing.",4,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,1,bot,R. Secovich doubled.,5,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,1,bot,J. Murakami grounded out to ss; R. Secovich advanced to third.,6,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,1,bot,"N. Suncar doubled, RBI; R. Secovich scored.",7,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,1,bot,"J. Bossinas doubled, RBI; N. Suncar scored.",8,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,1,bot,T. Giambra flied out to cf.,9,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,1,bot,M. Baker popped up to 3b.,10,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,2,top,M. Sabastean flied out to rf.,11,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,2,top,B. Carpenter grounded out to ss.,12,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,2,top,J. Ringer walked.,13,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,2,top,E. Oliver flied out to cf.,14,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,2,bot,S. Lichstrah hit by pitch.,15,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,2,bot,"B. Maxim reached first on an error by p; S. Lichstrah advanced to second, out at second 1b to 3b, picked off.",16,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,2,bot,"B. Maxim stole second, advanced to third on an error by c.",17,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,2,bot,J. Galati walked.,18,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,2,bot,"R. Secovich singled, RBI; J. Galati advanced to second; B. Maxim scored, unearned.",19,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,2,bot,"J. Murakami grounded out to p, SAC, bunt; R. Secovich advanced to second; J. Galati advanced to third.",20,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,2,bot,N. Suncar grounded out to p.,21,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,3,top,B. Stewart singled.,22,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,3,top,J. Hayes doubled; B. Stewart advanced to third.,23,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,3,top,J. Medhurst pinch ran for J. Hayes.,24,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,3,top,"N. Knight singled, RBI; J. Medhurst advanced to third; B. Stewart scored.",25,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,3,top,"K. Ohlsen grounded out to p, SAC, bunt, RBI; N. Knight advanced to second; J. Medhurst scored.",26,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,3,top,R. Miller grounded out to 2b; N. Knight advanced to third.,27,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,3,top,M. Sabastean flied out to rf.,28,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,3,bot,J. Medhurst to cf.,29,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,3,bot,J. Bossinas grounded out to 3b.,30,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,3,bot,T. Giambra grounded out to ss.,31,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,3,bot,M. Baker walked.,32,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,3,bot,S. Lichstrah grounded out to ss.,33,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,4,top,K. Culligan to p for N. Swain.,34,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,4,top,B. Carpenter grounded out to ss.,35,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,4,top,J. Ringer walked.,36,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,4,top,E. Oliver singled; J. Ringer advanced to second.,37,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,4,top,B. Stewart lined out to 1b; E. Oliver out at second 1b.,38,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,4,bot,J. Talbot to p for N. Abbott.,39,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,4,bot,B. Maxim flied out to lf.,40,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,4,bot,J. Galati doubled.,41,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,4,bot,R. Secovich flied out to rf; J. Galati advanced to third.,42,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,4,bot,J. Murakami walked.,43,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,4,bot,J. Murakami stole second.,44,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,4,bot,N. Suncar grounded out to ss.,45,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,5,top,J. Medhurst grounded out to 2b.,46,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,5,top,N. Knight singled.,47,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,5,top,K. Ohlsen flied out to lf.,48,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,5,top,R. Miller struck out swinging.,49,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,5,bot,J. Bossinas flied out to cf.,50,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,5,bot,T. Giambra struck out swinging.,51,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,5,bot,M. Baker grounded out to ss.,52,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,6,top,/  for K. Culligan.,53,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,6,top,O. Critchley to 3b for M. Baker.,54,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,6,top,S. Lichstrah to p.,55,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,6,top,M. Sabastean flied out to rf.,56,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,6,top,B. Carpenter walked.,57,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,6,top,J. Ringer walked; B. Carpenter advanced to second.,58,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,6,top,"Davide, Jr pinch ran for B. Carpenter.",59,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,6,top,"E. Oliver flied out to rf; Davide, Jr advanced to third.",60,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,6,top,J. Ringer stole second.,61,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,6,top,B. Stewart grounded out to ss.,62,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,6,bot,C. Rath to p for J. Talbot.,63,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,6,bot,S. Lichstrah walked.,64,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,6,bot,B. Maxim struck out swinging.,65,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,6,bot,J. Galati struck out swinging.,66,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,6,bot,R. Secovich walked; S. Lichstrah advanced to second.,67,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,6,bot,J. Murakami grounded out to p.,68,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,7,top,T. Giambra to p.,69,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,7,top,O. Critchley to ss.,70,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,7,top,S. Lichstrah to 3b.,71,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,7,top,J. Medhurst struck out looking.,72,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,7,top,N. Knight singled.,73,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,7,top,G. Franus pinch hit for K. Ohlsen.,74,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,7,top,"G. Franus homered, 2 RBI; N. Knight scored.",75,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,7,top,R. Miller grounded out to 2b.,76,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,7,top,M. Sabastean walked.,77,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,596989,7,top,"Davide, Jr struck out swinging.",78,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,7,bot,"Davide, Jr to lf.",79,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,7,bot,P. Pozzo to 3b for G. Franus.,80,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,7,bot,"Davide, Jr to dh.",81,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,7,bot,N. Suncar flied out to cf.,82,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,7,bot,J. Bossinas struck out swinging.,83,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,7,bot,T. Giambra singled.,84,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025
+6352857,596989,Norwich Cadets,597340,Dean ,597340,7,bot,O. Critchley out at first 2b to ss.,85,2025-04-29T00:00:00-04:00,"Longley Baseball Field (Franklin, MA)",34,MBA,2025

@@ -1,0 +1,111 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,1,top,E. Swidler hit by pitch.,1,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,1,top,A. Barrist walked3a E. Swidler advanced to second.,2,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,1,top,E. Brenner flied out to rf3a E. Swidler advanced to third.,3,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,1,top,"M. Colella flied out to lf, sacrifice fly, RBI3a E. Swidler scored.",4,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,1,top,M. Zarrillo singled3a A. Barrist advanced to second.,5,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,1,top,B. Grieve hit by pitch3a M. Zarrillo advanced to second3a A. Barrist advanced to third.,6,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,1,top,J. Mislan flied out to 1b.,7,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,1,bot,G. Salva flied out to cf.,8,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,1,bot,D. Mayer flied out to cf.,9,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,1,bot,R. Lordier singled.,10,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,1,bot,R. Lordier stole second.,11,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,1,bot,R. Lordier stole third.,12,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,1,bot,A. Lewis struck out swinging.,13,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,2,top,B. Vicini to p for J. Smoot.,14,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,2,top,T. Cashman grounded out to 2b.,15,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,2,top,K. Willis walked.,16,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,2,top,K. Willis advanced to second on a passed ball.,17,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,2,top,E. Swidler hit by pitch.,18,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,2,top,A. Barrist grounded into double play 2b to 1b3a E. Swidler out on the play.,19,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,2,bot,H. Sute singled.,20,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,2,bot,T. Hansen struck out looking.,21,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,2,bot,"H. Sute stole second, advanced to third on an error by c.",22,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,2,bot,"N. Mattera singled, RBI3a H. Sute scored, unearned.",23,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,2,bot,T. Galletti reached first on an error by p3a N. Mattera advanced to second.,24,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,2,bot,J. Sosa struck out swinging3a T. Galletti stole second3a N. Mattera stole third.,25,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,2,bot,G. Salva grounded out to p.,26,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,3,top,E. Brenner hit by pitch.,27,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,3,top,"M. Colella grounded out to c, SAC3a E. Brenner advanced to second.",28,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,3,top,"M. Zarrillo doubled, RBI3a E. Brenner scored.",29,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,3,top,B. Grieve lined into double play rf to ss3a M. Zarrillo out on the play.,30,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,3,bot,D. Mayer hit by pitch.,31,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,3,bot,D. Mayer stole second.,32,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,3,bot,R. Lordier flied out to cf.,33,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,3,bot,A. Lewis walked.,34,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,3,bot,T. Zaffiro to p for P. Walega.,35,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,3,bot,H. Sute struck out looking.,36,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,3,bot,A. Lewis advanced to second3a D. Mayer advanced to third on a wild pitch.,37,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,3,bot,T. Hansen flied out to cf.,38,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,4,top,P. Daseking to p for B. Vicini.,39,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,4,top,J. Mislan flied out to ss.,40,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,4,top,T. Cashman struck out.,41,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,4,top,K. Willis flied out to lf.,42,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,4,bot,R. Grace to 1b for E. Swidler.,43,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,4,bot,N. Mattera walked.,44,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,4,bot,T. Galletti grounded into double play ss to 2b to 1b3a N. Mattera out on the play.,45,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,4,bot,J. Sosa flied out to 2b.,46,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,5,top,L. Kuntzelma to p for P. Daseking.,47,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,5,top,R. Ash to 1b for T. Galletti.,48,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,5,top,R. Grace walked.,49,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,5,top,"A. Barrist out at first 1b to 2b, SAC3a R. Grace advanced to second.",50,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,5,top,"R. Grace out at third c to 3b, caught stealing.",51,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,5,top,E. Brenner walked.,52,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,5,top,M. Colella grounded out to 1b unassisted.,53,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,5,bot,G. Salva singled.,54,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,5,bot,D. Mayer flied out to cf.,55,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,5,bot,R. Lordier struck out swinging.,56,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,5,bot,"G. Salva out at second c to ss, caught stealing.",57,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,6,top,A. Ghuliani to p for L. Kuntzelma.,58,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,6,top,"M. Zarrillo homered, RBI.",59,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,6,top,B. Grieve singled.,60,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,6,top,B. Grieve advanced to second on a wild pitch.,61,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,6,top,J. Mislan struck out swinging.,62,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,6,top,T. Cashman grounded out to 2b3a B. Grieve advanced to third.,63,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,6,top,K. Willis grounded out to 2b.,64,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,6,bot,O. Basso to p for T. Zaffiro.,65,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,6,bot,A. Lewis flied out to ss.,66,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,6,bot,H. Sute singled.,67,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,6,bot,T. Hansen doubled3a H. Sute advanced to third.,68,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,6,bot,N. Mattera flied out to 2b.,69,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,6,bot,R. Ash flied out to cf.,70,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,7,top,J. Klein to p for A. Ghuliani.,71,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,7,top,R. Grace struck out looking.,72,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,7,top,A. Barrist reached first on an error by ss.,73,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,7,top,E. Brenner reached on a fielder's choice3a A. Barrist out at second 3b to 2b.,74,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,7,top,E. Brenner stole second.,75,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,7,top,M. Colella flied out to lf.,76,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,7,bot,J. Holder to p for O. Basso.,77,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,7,bot,J. Sosa doubled.,78,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,7,bot,G. Salva grounded out to 2b3a J. Sosa advanced to third.,79,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,7,bot,D. Mayer struck out swinging.,80,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,7,bot,R. Lordier walked3a J. Sosa scored on a wild pitch.,81,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,7,bot,R. Lordier stole second.,82,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,7,bot,A. Lewis walked.,83,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,7,bot,A. Correa to p for J. Holder.,84,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,7,bot,H. Sute hit by pitch3a A. Lewis advanced to second3a R. Lordier advanced to third.,85,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,7,bot,T. Hansen flied out to rf.,86,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,8,top,R. McLaughli to p for J. Klein.,87,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,8,top,M. Zarrillo walked.,88,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,8,top,B. Grieve singled3a M. Zarrillo advanced to second.,89,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,8,top,J. Mislan reached on a fielder's choice3a B. Grieve out at second 3b to 2b3a M. Zarrillo advanced to third.,90,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,8,top,J. Mislan out at second p to 1b.,91,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,8,top,T. Cashman out at first 1b to p.,92,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,8,bot,R. Dorn to p for A. Correa.,93,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,8,bot,"N. Mattera reached first on an error by p, advanced to second.",94,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,8,bot,R. Ash walked.,95,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,8,bot,R. Ash advanced to second3a N. Mattera advanced to third on a wild pitch.,96,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,8,bot,B. Waterman to p for R. Dorn.,97,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,8,bot,"J. Sosa walked3a R. Ash advanced to third3a N. Mattera scored on a wild pitch, unearned.",98,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,8,bot,J. Sosa stole second.,99,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,8,bot,"G. Salva singled, 2 RBI3a J. Sosa scored3a R. Ash scored.",100,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,8,bot,"G. Salva out at second c to 2b, caught stealing.",101,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,8,bot,D. Mayer walked.,102,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,8,bot,C. Rodgers to p for B. Waterman.,103,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,8,bot,R. Lordier struck out looking3a D. Mayer stole second.,104,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,8,bot,D. Mayer advanced to third on a wild pitch.,105,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596589,8,bot,A. Lewis struck out swinging.,106,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,9,top,A. Brown to p for R. McLaughli.,107,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,9,top,K. Willis flied out to rf.,108,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,9,top,R. Grace grounded out to ss.,109,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025
+6303919,596578,Lafayette Leopards,596589,Manhattan Jaspers,596578,9,top,A. Barrist grounded out to ss.,110,2025-04-30T00:00:00-04:00,"Clover Stadium (Pomona, NY)",100,MBA,2025

@@ -1,0 +1,114 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,1,top,Sangalang grounded out to ss (3-2 KBBBK).,1,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,1,top,Thorburn flied out to cf (0-0).,2,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,1,top,Paradine doubled down the rf line (1-1 KB).,3,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,1,top,Sparks flied out to 2b (0-0).,4,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,1,bot,"Tirado, A flied out to lf (0-1 K).",5,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,1,bot,"McCarthy, R singled to left field (1-2 BKK).",6,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,1,bot,"Munoz, J walked (3-0 BBBB)3a McCarthy, R advanced to second.",7,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,1,bot,"Hanson, C lined into double play ss to 2b (0-1 K)3a McCarthy, R out on the play.",8,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,2,top,"Belliveau, S to p for Powers, C.",9,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,2,top,Brooks flied out to cf (3-1 KBBB).,10,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,2,top,Sanchez walked (3-2 BSBFBB).,11,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,2,top,Bergamotto singled to shortstop (2-2 BKBS)3a Sanchez advanced to second.,12,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,2,top,D'Elia singled to right field (0-0)3a Bergamotto advanced to second3a Sanchez advanced to third.,13,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,2,top,Pincince struck out swinging (3-2 BBBKFS).,14,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,2,top,Sangalang flied out to cf (0-1 K).,15,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,2,bot,"Willi, M reached on an error by ss (1-1 KB).",16,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,2,bot,"Kolben, R singled to third base (0-2 KK)3a Willi, M advanced to second.",17,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,2,bot,"Hoog, K grounded out to 3b, SAC, bunt (2-1 BSB)3a Kolben, R advanced to second3a Willi, M advanced to third.",18,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,2,bot,"O'Brien, G flied out to cf, SF, RBI (2-1 KBB)3a Kolben, R advanced to third on the throw3a Willi, M scored, unearned.",19,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,2,bot,"Peters, J struck out looking (1-2 FBKK).",20,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,3,top,"Houghton, A to p for Belliveau, S.",21,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,3,top,"Thorburn reached on an error by p, advanced to second (0-0).",22,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,3,top,Paradine grounded out to 2b (1-1 BK)3a Thorburn advanced to third.,23,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,3,top,Sparks struck out swinging (1-2 FBFFS).,24,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,3,top,Brooks grounded out to ss (0-0).,25,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,3,bot,Rowe to p for Taffe.,26,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,3,bot,"Tirado, A walked (3-1 BBBKB).",27,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,3,bot,"Tirado, A out at second c to ss, caught stealing.",28,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,3,bot,"McCarthy, R walked (3-2 BBKKBB).",29,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,3,bot,Puglisi to p for Rowe.,30,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,3,bot,"Munoz, J flied out to lf (3-1 BBKB).",31,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,3,bot,"Hanson, C walked (3-0 BBBB)3a McCarthy, R advanced to second.",32,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,3,bot,"Willi, M flied out to cf (0-1 K).",33,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,4,top,Sanchez walked (3-1 BFBBB).,34,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,4,top,Bergamotto flied out to rf (1-1 BK).,35,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,4,top,Sanchez stole second.,36,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,4,top,D'Elia flied out to lf (3-2 BBFBS).,37,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,4,top,Pincince walked (3-1 BKBBB).,38,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,4,top,"Sangalang doubled to right center, 2 RBI (2-1 BBK)3a Pincince scored3a Sanchez scored.",39,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,4,top,Thorburn out at first p to 3b to 1b (2-1 BKB).,40,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,4,bot,"Kolben, R hit by pitch (0-0).",41,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,4,bot,"Hoog, K struck out looking (1-2 KBSK).",42,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,4,bot,"O'Brien, G walked (3-2 BBKBKB)3a Kolben, R advanced to second.",43,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,4,bot,"Peters, J struck out swinging (2-2 BBSFS).",44,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,4,bot,"Tirado, A walked (3-1 BKBBB)3a O'Brien, G advanced to second3a Kolben, R advanced to third.",45,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,4,bot,"McCarthy, R singled to center field, 2 RBI (0-1 K)3a Tirado, A advanced to third3a O'Brien, G scored3a Kolben, R scored.",46,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,4,bot,"McCarthy, R stole second.",47,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,4,bot,"Munoz, J grounded out to ss (1-0 B).",48,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,5,top,"Blanchard, J to p for Houghton, A.",49,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,5,top,"Paradine homered to right field, RBI (0-1 F).",50,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,5,top,Sparks singled to left center (1-0 B).,51,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,5,top,Brooks hit by pitch (1-2 KBF)3a Sparks advanced to second.,52,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,5,top,Sanchez hit by pitch (0-0)3a Brooks advanced to second3a Sparks advanced to third.,53,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,5,top,"Bergamotto doubled to right center, 3 RBI (2-0 BB)3a Sanchez scored3a Brooks scored3a Sparks scored.",54,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,5,top,D'Elia flied out to lf (0-0).,55,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,5,top,Pincince singled (0-0)3a Bergamotto advanced to third.,56,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,5,top,Sangalang struck out looking (1-2 KFBK).,57,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,5,top,Thorburn grounded out to 3b (0-0).,58,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,5,bot,Tilton to p for Puglisi.,59,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,5,bot,"Hanson, C fouled out to lf (0-0).",60,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,5,bot,"Willi, M hit by pitch (1-1 BF).",61,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,5,bot,"Kolben, R reached on a fielder's choice (0-0)3a Willi, M out at second ss to 2b.",62,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,5,bot,"Hoog, K struck out swinging (2-2 BSBSS).",63,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,6,top,Paradine grounded out to ss (0-2 FF).,64,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,6,top,Sparks singled to center field (0-1 F).,65,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,6,top,Brooks flied out to cf (2-2 KKBFFB).,66,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,6,top,Sanchez singled to shortstop (2-2 KBBK)3a Sparks advanced to second.,67,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,6,top,Bergamotto struck out swinging (0-2 KKS).,68,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,6,bot,"O'Brien, G doubled to center field (2-2 BBKF).",69,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,6,bot,"Peters, J singled to shortstop (2-2 FFFFBBF)3a O'Brien, G advanced to third.",70,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,6,bot,"Peters, J advanced to second on a balk3a O'Brien, G scored on a balk.",71,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,6,bot,"Tirado, A doubled to center field, RBI (3-2 BBBKFF)3a Peters, J scored.",72,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,6,bot,Glickman to p for Tilton.,73,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,6,bot,"Tirado, A stole third.",74,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,6,bot,"McCarthy, R doubled to right field, RBI (3-2 BBFKB)3a Tirado, A scored.",75,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,6,bot,"Munoz, J popped up to c (0-1 K).",76,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,6,bot,"McCarthy, R advanced to third on a wild pitch.",77,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,6,bot,"Hanson, C singled to center field, RBI (3-2 KBKBB)3a McCarthy, R scored.",78,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,6,bot,"Willi, M walked (3-2 BBBKFB)3a Hanson, C advanced to second.",79,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,6,bot,Saulys to p for Glickman.,80,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,6,bot,"Kolben, R struck out swinging (2-2 FBKBS).",81,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,6,bot,"Hoog, K struck out swinging (3-2 BBFFBS).",82,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,7,top,"Merritt, A to p for Blanchard, J.",83,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,7,top,D'Elia struck out looking (0-2 SSS).,84,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,7,top,Pincince flied out to lf (2-0 BB).,85,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,7,top,Sangalang struck out looking (2-2 BKFBK).,86,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,7,bot,"O'Brien, G singled through the left side (1-1 FB).",87,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,7,bot,"Peters, J grounded out to p, SAC, bunt (1-0 B)3a O'Brien, G advanced to second.",88,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,7,bot,"Tirado, A grounded out to 1b unassisted (0-0).",89,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,7,bot,"McCarthy, R singled, RBI (3-2 BSKBB)3a O'Brien, G scored.",90,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,7,bot,"Munoz, J singled to left field (0-0)3a McCarthy, R advanced to second.",91,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,7,bot,"Munoz, J stole second3a McCarthy, R stole third.",92,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,7,bot,"Hanson, C struck out swinging (3-2 BBSFFBS).",93,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,8,top,Thorburn flied out to cf (2-1 BKB).,94,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,8,top,Paradine doubled to center field (2-2 SSBFB).,95,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,8,top,Sparks out at first 1b to p (0-1 F)3a Paradine advanced to third.,96,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,8,top,Brooks hit by pitch (1-2 KSB).,97,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,8,top,Sanchez struck out swinging (0-2 KSS).,98,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,8,bot,Bentz to p for Saulys.,99,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,8,bot,"Willi, M walked (3-1 BBKBB).",100,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,8,bot,"Kolben, R flied out to cf (0-2 KS).",101,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,8,bot,"Schroeder, M pinch hit for Hoog, K.",102,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,8,bot,"Schroeder, M reached on a fielder's choice (3-2 BKBBKF)3a Willi, M advanced to second on an error by p.",103,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,8,bot,"Zaetta, Z pinch ran for Schroeder, M.",104,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,8,bot,"O'Brien, G flied out to lf (0-0).",105,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,8,bot,"Zaetta, Z advanced to second on a wild pitch3a Willi, M advanced to third on a wild pitch.",106,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596595,8,bot,"Peters, J flied out to cf (2-1 SBB).",107,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,9,top,"Zaetta, Z to cf.",108,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,9,top,"O'Brien, G to lf.",109,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,9,top,"Aceto, M to p for Merritt, A.",110,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,9,top,Bergamotto struck out swinging (1-2 KKBS).,111,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,9,top,D'Elia grounded out to 2b (0-1 F).,112,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
+6303921,596675,Siena Saints,596595,Massachusetts Minutemen,596675,9,top,Pincince struck out swinging (0-2 FFS).,113,2025-04-30T00:00:00-04:00,"Earl Lorden Field (Amherst, MA)",195,MBA,2025
