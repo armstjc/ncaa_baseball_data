@@ -1,0 +1,108 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,1,top,J. Cruz struck out swinging (0-2 KFS).,1,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,1,top,B. Wollin struck out swinging (2-2 SSBFBS).,2,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,1,top,L. Mokris struck out swinging (2-2 BBFKS).,3,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,1,bot,Petersen grounded out to ss (3-2 BBKBKF).,4,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,1,bot,Oakley singled to pitcher (1-1 KB).,5,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,1,bot,"Bussey III homered to left field, 2 RBI (1-0 B)3a Oakley scored.",6,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,1,bot,Dorrell struck out looking (3-2 BBKFBK).,7,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,1,bot,Taylor popped up to 2b (1-0 B).,8,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,2,top,H. Beall popped up to p (0-0).,9,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,2,top,Z. Bergstrom grounded out to 3b (0-1 K).,10,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,2,top,"D. Knight struck out swinging, out at first c to 1b (0-2 KSS).",11,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,2,bot,Stout walked (3-1 BSBBB).,12,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,2,bot,Koza grounded out to p (3-2 BBKFB)3a Stout advanced to second.,13,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,2,bot,Nina popped up to ss (0-0).,14,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,2,bot,"Bunn singled to right center, RBI (0-0)3a Stout scored.",15,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,2,bot,Petersen walked (3-2 BSBKBB)3a Bunn advanced to second.,16,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,2,bot,Oakley walked (3-2 KBFBBFB)3a Petersen advanced to second3a Bunn advanced to third.,17,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,2,bot,"Oakley advanced to second on a passed ball3a Petersen advanced to third on a passed ball3a Bunn scored on a passed ball, unearned.",18,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,2,bot,Bussey III struck out swinging (1-2 KKBS).,19,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,3,top,D. Oliver walked (3-1 BFBBB).,20,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,3,top,D. Bowden singled to left field (0-1 F)3a D. Oliver advanced to second.,21,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,3,top,R. Muniz flied out to rf (2-1 BSB).,22,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,3,top,J. Cruz singled to center field (0-1 S)3a D. Bowden advanced to second3a D. Oliver advanced to third.,23,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,3,top,"B. Wollin flied out to cf, SF, RBI (1-0 B)3a J. Cruz advanced to second3a D. Bowden advanced to third3a D. Oliver scored.",24,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,3,top,"L. Mokris singled to shortstop, RBI (3-2 BSFBB)3a J. Cruz advanced to third3a D. Bowden scored.",25,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,3,top,H. Beall grounded out to ss (0-2 KF).,26,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,3,bot,Dorrell flied out to lf (3-2 BKBFFB).,27,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,3,bot,Taylor walked (3-2 BSBFBFB).,28,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,3,bot,Stout walked (3-0 BBBB)3a Taylor advanced to second.,29,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,3,bot,B. Pooler to p for L. Meehan.,30,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,3,bot,"Stout advanced to second3a Taylor advanced to third on a throwing error by p, failed pickoff attempt.",31,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,3,bot,Koza fouled out to ss (3-2 BBKBK).,32,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,3,bot,Nina grounded out to ss (1-2 KBK).,33,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,4,top,Z. Bergstrom singled to right field (1-2 BFF).,34,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,4,top,D. Knight singled to left field (0-2 SSF)3a Z. Bergstrom advanced to second.,35,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,4,top,"D. Oliver reached on a throwing error by 3b, SAC (0-1 F)3a D. Knight advanced to third3a Z. Bergstrom scored.",36,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,4,top,D. Oliver stole second.,37,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,4,top,"D. Bowden doubled down the rf line, 2 RBI (0-1 K)3a D. Oliver scored3a D. Knight scored.",38,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,4,top,"R. Muniz doubled to right center, RBI (2-1 BBK)3a D. Bowden scored.",39,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,4,top,"J. Cruz grounded out to p, SAC, bunt (1-0 B)3a R. Muniz advanced to third.",40,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,4,top,"B. Wollin grounded out to 2b, RBI (0-1 S)3a R. Muniz scored, unearned.",41,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,4,top,L. Mokris popped up to 2b (2-0 BB).,42,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,4,bot,Bunn grounded out to p (1-0 B).,43,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,4,bot,Petersen struck out looking (3-2 BFBFBK).,44,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,4,bot,Oakley fouled out to rf (3-2 BBKKBFF).,45,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,5,top,H. Beall popped up to 2b (0-1 F).,46,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,5,top,Z. Bergstrom flied out to rf down the rf line (3-2 BKBFB).,47,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,5,top,D. Knight walked (3-2 BSBFBB).,48,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,5,top,"D. Knight stole second, failed pickoff attempt.",49,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,5,top,D. Oliver walked (3-1 BBBKB).,50,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,5,top,"D. Bowden doubled to left field, RBI (0-0)3a D. Oliver advanced to third3a D. Knight scored.",51,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,5,top,R. Muniz flied out to rf (1-0 B).,52,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,5,bot,Bussey III walked (3-0 BBBB).,53,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,5,bot,Dorrell grounded out to ss (2-2 BBKK)3a Bussey III advanced to second.,54,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,5,bot,Taylor flied out to cf (1-2 BSF).,55,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,5,bot,Stout struck out swinging (3-2 BKBFFBFS).,56,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,6,top,J. Cruz struck out looking (3-2 FBBBKFK).,57,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,6,top,B. Wollin popped up to 1b (1-0 B).,58,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,6,top,L. Mokris doubled down the rf line (2-2 FBBF).,59,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,6,top,"H. Beall singled to second base (2-1 KBB)3a L. Mokris advanced to third, out at home 2b to c.",60,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,6,bot,Koza flied out to rf (2-2 BKFBFFFF).,61,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,6,bot,Nina lined out to cf (2-1 BKB).,62,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,6,bot,"Bunn struck out swinging, out at first c to 1b (0-2 KSS).",63,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,7,top,Z. Bergstrom walked (3-2 FSBFBFBFFB).,64,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,7,top,D. Knight popped up to ss (2-0 BB).,65,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,7,top,D. Oliver flied out to lf (1-2 SBSF).,66,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,7,top,D. Bowden reached on a fielding error by cf (1-0 B)3a Z. Bergstrom advanced to third.,67,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,7,top,D. Bowden stole second.,68,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,7,top,"R. Muniz singled up the middle, 2 RBI (1-2 KFB)3a D. Bowden scored, unearned3a Z. Bergstrom scored, unearned.",69,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,7,top,R. Muniz stole second.,70,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,7,top,J. Cruz flied out to rf (2-0 BB).,71,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,7,bot,Petersen flied out to rf (0-0).,72,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,7,bot,Oakley flied out to lf (1-1 BK).,73,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,7,bot,Bussey III flied out to cf (3-2 BBKBK).,74,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,8,top,Oakley to lf.,75,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,8,top,Goundis to c for Nina.,76,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,8,top,Leo to p for Euson.,77,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,8,top,B. Wollin singled to left field (2-0 BB).,78,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,8,top,"L. Mokris reached on a fielder's choice (1-2 KBF)3a B. Wollin advanced to second on a fielding error by 2b, assist by ss.",79,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,8,top,"H. Beall homered to right field, 3 RBI (0-1 F)3a L. Mokris scored3a B. Wollin scored, unearned.",80,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,8,top,Z. Bergstrom doubled down the lf line (2-1 BSB).,81,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,8,top,D. Knight hit by pitch (0-0).,82,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,8,top,A. Bourrie pinch ran for 36.,83,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,8,top,"D. Oliver reached on a fielder's choice, bunt (1-0 B)3a A. Bourrie advanced to second3a Z. Bergstrom out at third p to 3b.",84,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,8,top,D. Bowden reached on a fielder's choice (0-2 KF)3a D. Oliver advanced to second3a A. Bourrie out at third ss to 3b.,85,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,8,top,"D. Bowden out at second c to 2b, caught stealing.",86,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,8,bot,A. Bourrie to 3b.,87,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,8,bot,Dorrell walked (3-2 BBBKKB).,88,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,8,bot,Taylor grounded into double play ss to 2b to 1b (0-2 KF)3a Dorrell out on the play.,89,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,8,bot,Stout struck out looking (1-2 KBKK).,90,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,9,top,Elms IV to p for Leo.,91,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,9,top,R. Muniz popped up to 2b (2-0 BB).,92,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,9,top,J. Cruz walked (3-2 BBBKKFB).,93,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,9,top,B. Wollin struck out swinging (1-2 FSBS).,94,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,9,top,"L. Mokris homered to left field, 2 RBI (3-1 BBKB)3a J. Cruz scored.",95,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,9,top,H. Beall doubled to right center (0-0).,96,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596838,9,top,Z. Bergstrom struck out swinging (1-2 KSBS).,97,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,9,bot,Koza walked (3-1 BBBKB).,98,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,9,bot,Goundis struck out swinging (0-2 KFS).,99,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,9,bot,"Koza out at second c to ss, caught stealing.",100,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,9,bot,Bunn walked (3-1 BBBKB).,101,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,9,bot,Petersen singled through the left side (1-2 KBK)3a Bunn advanced to second.,102,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,9,bot,"Oakley singled up the middle, RBI (0-0)3a Petersen advanced to second3a Bunn scored.",103,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,9,bot,"Bussey III homered to left field, 3 RBI (0-1 K)3a Oakley scored3a Petersen scored.",104,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,9,bot,W. Sherman to p for B. Pooler.,105,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,9,bot,Dorrell singled to right field (2-2 KFBB).,106,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
+6381875,596838,Emmanuel (GA) Lions,596726,Francis Marion Patriots,596726,9,bot,Taylor fouled out to 1b (1-2 BKF).,107,2025-05-01T00:00:00-04:00,"Gastonia, NC",118,MBA,2025
