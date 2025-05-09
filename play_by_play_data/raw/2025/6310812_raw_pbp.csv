@@ -1,0 +1,107 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,1,top,TOIGO grounded out to 1b unassisted (2-2 FBSB).,1,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,1,top,E. RODRIGUEZ grounded out to 2b (1-1 KB).,2,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,1,top,HEFFT grounded out to 3b (0-1 K).,3,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,1,bot,Caballero walked (3-1 FBBBB).,4,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,1,bot,Chamizo struck out swinging (2-2 SFBBS).,5,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,1,bot,Tallerman struck out swinging (2-2 BFBKFFS).,6,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,1,bot,"Lewis, Je. popped up to 2b (2-1 BBK).",7,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,2,top,KONIARSKY walked (3-1 SBBBB).,8,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,2,top,O'SULLIVAN walked (3-2 BKBKBB); KONIARSKY advanced to second.,9,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,2,top,SHEFF struck out swinging (0-2 KFS); O'SULLIVAN stole second; KONIARSKY stole third.,10,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,2,top,"ALLEN II singled to left center, 2 RBI (2-0 BB); O'SULLIVAN scored; KONIARSKY scored.",11,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,2,top,GALLEGOS singled up the middle (2-1 BBK); ALLEN II advanced to third.,12,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,2,top,GALLEGOS advanced to second on a wild pitch; ALLEN II scored on a wild pitch.,13,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,2,top,"MYRO IV doubled, advanced to third on a fielding error by lf, RBI (1-1 FB); GALLEGOS scored.",14,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,2,top,"TOIGO flied out to cf, SF, RBI (0-0); MYRO IV scored.",15,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,2,top,E. RODRIGUEZ tripled to right field (2-0 BB).,16,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,2,top,HEFFT walked (3-1 BBBKB).,17,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,2,top,"KONIARSKY homered to center field, 3 RBI (1-0 B); HEFFT scored; E. RODRIGUEZ scored.",18,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,2,top,O'SULLIVAN walked (3-2 BBKBSB).,19,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,2,top,Pereria to p for Scott.,20,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,2,top,SHEFF out on batter's interference.,21,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,2,bot,McCoy walked (3-1 BKBBB).,22,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,2,bot,Fernandes doubled down the lf line (1-0 B); McCoy advanced to third.,23,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,2,bot,Nanez struck out looking (1-2 FSBK).,24,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,2,bot,"Osorio-Agard flied out to cf, SF, RBI (1-0 B); McCoy scored.",25,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,2,bot,"Lewis, Ja. struck out swinging (1-2 SFBFFS).",26,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,3,top,ALLEN II struck out swinging (1-2 BKKS).,27,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,3,top,GALLEGOS walked (3-0 BBBB).,28,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,3,top,MYRO IV flied out to cf (3-2 BFBKB).,29,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,3,top,"TOIGO doubled to center field, RBI (0-1 K); GALLEGOS scored.",30,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,3,top,E. RODRIGUEZ struck out looking (2-2 KBKBFK).,31,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,3,bot,"Caballero homered to left field, RBI (0-0).",32,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,3,bot,Chamizo grounded out to 2b (0-2 KF).,33,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,3,bot,Tallerman singled to center field (0-2 SF).,34,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,3,bot,"Lewis, Je. struck out swinging (1-2 BSSS).",35,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,3,bot,McCoy struck out looking (1-2 BSFFK).,36,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,4,top,HEFFT popped up to 2b (1-1 FB).,37,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,4,top,KONIARSKY flied out to cf (0-1 K).,38,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,4,top,O'SULLIVAN grounded out to 3b (3-2 BKBBF).,39,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,4,bot,Fernandes flied out to lf (0-2 KF).,40,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,4,bot,Nanez singled up the middle (3-2 BBBKS).,41,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,4,bot,Osorio-Agard struck out swinging (2-2 SFBFBS).,42,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,4,bot,"Lewis, Ja. hit by pitch (0-1 K); Nanez advanced to second.",43,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,4,bot,"Caballero singled through the right side, RBI (1-2 KBF); Lewis, Ja. advanced to second; Nanez scored.",44,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,4,bot,"Caballero advanced to second on a wild pitch; Lewis, Ja. advanced to third on a wild pitch.",45,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,4,bot,Chamizo grounded out to 2b (3-1 BSBB).,46,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,5,top,SHEFF walked (3-2 BBFFBB).,47,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,5,top,Pavlovsky to p for Pereria.,48,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,5,top,ALLEN II flied out to lf (0-0).,49,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,5,top,"GALLEGOS grounded out to 3b, SAC, bunt (0-0); SHEFF advanced to second.",50,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,5,top,"MYRO IV singled to shortstop, RBI (0-1 K); SHEFF scored.",51,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,5,top,TOIGO walked (3-1 BBBKB); MYRO IV advanced to second.,52,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,5,top,E. RODRIGUEZ flied out to cf (1-0 B).,53,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,5,bot,Tallerman singled through the left side (0-0).,54,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,5,bot,Tallerman advanced to second on a wild pitch.,55,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,5,bot,"Lewis, Je. struck out swinging (2-2 BFSBFS).",56,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,5,bot,"McCoy doubled to left center, RBI (0-0); Tallerman scored.",57,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,5,bot,Fernandes grounded out to ss (0-1 F); McCoy advanced to third.,58,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,5,bot,Nanez flied out to cf (3-2 BSBSB).,59,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,6,top,HEFFT walked (3-1 BBBKB).,60,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,6,top,KONIARSKY walked (3-1 BBBKB); HEFFT advanced to second.,61,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,6,top,O'SULLIVAN struck out swinging (2-2 KBFBS).,62,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,6,top,SHEFF walked (3-2 BFFBBFB); KONIARSKY advanced to second; HEFFT advanced to third.,63,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,6,top,SHEFF advanced to second on a wild pitch; KONIARSKY advanced to third on a wild pitch; HEFFT scored on a wild pitch.,64,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,6,top,ALLEN II struck out swinging (2-2 BKKBFS).,65,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,6,top,GALLEGOS struck out swinging (3-2 BBBKSS).,66,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,6,bot,VASILIOU to p for LANE.,67,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,6,bot,Osorio-Agard struck out looking (1-2 BFFK).,68,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,6,bot,"Lewis, Ja. struck out swinging (1-2 KBSS).",69,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,6,bot,Caballero flied out to rf (0-1 K).,70,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,7,top,Reeve to p for Pavlovsky.,71,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,7,top,MYRO IV walked (3-2 BBKBKB).,72,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,7,top,TOIGO flied out to lf (3-1 BBSB); MYRO IV advanced to second.,73,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,7,top,E. RODRIGUEZ flied out to cf (1-1 BK); MYRO IV advanced to third.,74,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,7,top,HEFFT struck out swinging (2-2 BFKFBS).,75,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,7,bot,Chamizo singled up the middle (0-1 K).,76,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,7,bot,Tallerman struck out swinging (1-2 SSBS).,77,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,7,bot,"Lewis, Je. reached on a fielder's choice (0-0); Chamizo out at second 2b to ss.",78,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,7,bot,"Lewis, Je. advanced to second on a balk.",79,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,7,bot,McCoy struck out swinging (3-2 BFBSFBS).,80,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,8,top,KONIARSKY walked (3-2 KBSBBB).,81,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,8,top,O'SULLIVAN walked (3-0 BBBB); KONIARSKY advanced to second.,82,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,8,top,SHEFF struck out looking (1-2 KBKK).,83,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,8,top,"ALLEN II singled to left field, RBI (0-0); O'SULLIVAN advanced to second; KONIARSKY scored.",84,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,8,top,GALLEGOS flied out to cf (0-0).,85,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,8,top,ALLEN II advanced to second on a wild pitch; O'SULLIVAN advanced to third on a wild pitch.,86,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,8,top,MYRO IV walked (3-0 BBBB); ALLEN II advanced to third on a wild pitch; O'SULLIVAN scored on a wild pitch.,87,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,8,top,Cammarata to p for Reeve.,88,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,8,top,"TOIGO singled to right field, RBI (3-2 SBBFFB); MYRO IV advanced to third; ALLEN II scored.",89,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,8,top,"E. RODRIGUEZ singled through the left side, RBI (0-0); TOIGO advanced to second; MYRO IV scored.",90,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,8,top,HEFFT hit by pitch (1-0 B); E. RODRIGUEZ advanced to second; TOIGO advanced to third.,91,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,8,top,"KONIARSKY doubled to right field, 3 RBI (1-1 BK); HEFFT scored; E. RODRIGUEZ scored; TOIGO scored.",92,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,8,top,O'SULLIVAN reached on a throwing error by ss (1-2 KBF); KONIARSKY advanced to third.,93,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,8,top,"O'SULLIVAN advanced to second on a wild pitch; KONIARSKY scored on a wild pitch, unearned.",94,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596619,8,top,SHEFF struck out swinging (3-2 KKBBFBFS).,95,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,8,bot,Jansen pinch hit for Fernandes.,96,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,8,bot,Jansen tripled to center field (0-0).,97,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,8,bot,Campagna pinch hit for Nanez.,98,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,8,bot,"Campagna out at first 1b to p, RBI (1-2 BKF); Jansen scored.",99,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,8,bot,Fabian Jr. pinch hit for Osorio-Agard.,100,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,8,bot,Fabian Jr. grounded out to ss (1-0 B).,101,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,8,bot,"Giannini pinch hit for Lewis, Ja..",102,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,8,bot,Giannini walked (3-2 BSFBBFB).,103,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,8,bot,Caballero reached on a fielding error by ss (1-2 SSB); Giannini advanced to second.,104,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,8,bot,Chamizo hit by pitch (0-0); Caballero advanced to second; Giannini advanced to third.,105,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025
+6310812,596619,UNLV Rebels,596672,San Jose St. Spartans,596672,8,bot,Tallerman grounded out to 2b (0-1 K).,106,2025-05-02T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",328,MBA,2025

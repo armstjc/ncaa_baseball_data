@@ -1,0 +1,98 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,1,top,Wilmes struck out looking (0-2 KSK).,1,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,1,top,Mitchell grounded out to p (2-2 BFSB).,2,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,1,top,Moore walked (3-1 BBKBB).,3,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,1,top,Rogers walked (3-0 BBBB)3a Moore advanced to second.,4,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,1,top,B. Guerin flied out to cf (2-1 BFB).,5,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,1,bot,"Taggart,C flied out to lf (0-0).",6,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,1,bot,"Guerrero,A doubled to left center (2-2 BKFBF).",7,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,1,bot,"DeCarlo,S grounded out to ss (2-2 BKFB).",8,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,1,bot,"Hotchkiss,J flied out to cf (0-0).",9,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,2,top,Risley struck out swinging (0-2 SKFS).,10,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,2,top,Nelson doubled to right field (1-2 BSS).,11,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,2,top,Strohmeyer walked (3-0 BBBB).,12,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,2,top,Schulte struck out looking (0-2 KSK).,13,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,2,top,Wilmes popped up to 2b (2-2 KBBFF).,14,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,2,bot,"Knight,M popped up to ss (1-1 BK).",15,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,2,bot,"Bower,C struck out swinging (0-2 KKS).",16,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,2,bot,"Wilson,B popped up to 2b (0-2 KS).",17,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,3,top,Mitchell doubled to right center (0-0).,18,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,3,top,Moore struck out looking (0-2 FFFK).,19,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,3,top,Rogers flied out to rf (0-1 S)3a Mitchell advanced to third.,20,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,3,top,B. Guerin walked (3-1 BBSBB).,21,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,3,top,Risley grounded out to p (1-1 KB).,22,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,3,bot,"Kole,T popped up to 1b (1-2 KKB).",23,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,3,bot,"Whitton,C struck out swinging (1-2 KFBS).",24,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,3,bot,"Taggart,C struck out swinging (1-2 BFSS).",25,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,4,top,Nelson grounded out to 3b (0-2 KKF).,26,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,4,top,Strohmeyer flied out to cf (0-0).,27,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,4,top,Schulte popped up to ss (0-0).,28,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,4,bot,"Guerrero,A singled to right center (2-2 BBSK).",29,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,4,bot,"DeCarlo,S struck out looking (2-2 KKBBFK).",30,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,4,bot,"Hotchkiss,J grounded into double play ss to 1b (0-1 F)3a Guerrero,A out on the play.",31,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,5,top,"Wilmes homered to left center, RBI (1-1 KB).",32,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,5,top,Mitchell flied out to cf (0-1 K).,33,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,5,top,Moore flied out to lf (1-2 KBF).,34,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,5,top,Rogers grounded out to 2b (0-2 KK).,35,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,5,bot,"Knight,M walked (3-0 BBBB).",36,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,5,bot,"Bower,C struck out swinging (2-2 FFBBS).",37,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,5,bot,"Knight,M stole second.",38,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,5,bot,"Wilson,B walked (3-0 BBBB).",39,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,5,bot,"Kole,T reached on a fielder's choice (0-0)3a Wilson,B out at second 3b to 2b3a Knight,M advanced to third.",40,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,5,bot,"Kole,T stole second.",41,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,5,bot,"Whitton,C popped up to 2b (0-1 K).",42,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,6,top,"Emanuels,J to p for Tims,J.",43,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,6,top,"B. Guerin struck out swinging to first base, reached first on a passed ball (1-2 BFFS).",44,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,6,top,"Risley grounded out to 3b, SAC, bunt (1-0 B)3a B. Guerin advanced to second.",45,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,6,top,Nelson struck out swinging (1-2 FBKS).,46,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,6,top,Strohmeyer intentionally walked.,47,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,6,top,Wulf pinch hit for Schulte.,48,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,6,top,"Wulf singled to center field, RBI (1-1 BF)3a Strohmeyer advanced to second3a B. Guerin scored, unearned.",49,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,6,top,Frost pinch ran for Wulf.,50,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,6,top,Wilmes grounded out to 3b (3-2 BKFBFBF).,51,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,6,bot,Frost to 3b.,52,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,6,bot,"Taggart,C doubled to right field (1-2 KKB).",53,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,6,bot,"Guerrero,A struck out swinging (1-2 SBKS).",54,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,6,bot,"DeCarlo,S grounded out to 3b (1-2 FFB).",55,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,6,bot,"Hotchkiss,J popped up to 1b (0-1 S).",56,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,7,top,"McAdams,R to p for Emanuels,J.",57,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,7,top,Mitchell doubled to left field (3-1 KBBB).,58,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,7,top,Moore walked (3-0 BBBB).,59,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,7,top,Rogers struck out looking (1-2 BKKK).,60,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,7,top,"Moore stole second, advanced to third3a Mitchell stole third, scored on a throwing error by c, scored.",61,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,7,top,B. Guerin struck out swinging (1-2 BKSFK).,62,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,7,top,"Moore scored on a passed ball, unearned.",63,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,7,top,Risley singled to right field (0-0).,64,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,7,top,Nelson popped up to 3b (0-1 K).,65,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,7,bot,"Knight,M flied out to lf (2-2 FBKB).",66,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,7,bot,"Bower,C struck out looking (3-2 FSFFBBBK).",67,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,7,bot,"Wilson,B struck out looking (1-2 KFBK).",68,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,8,top,Strohmeyer singled to left field (1-0 B).,69,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,8,top,Strohmeyer stole second.,70,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,8,top,Frost walked (3-1 BBFBB).,71,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,8,top,"Wilmes grounded out to 1b unassisted, SAC, bunt (0-0)3a Frost advanced to second3a Strohmeyer advanced to third.",72,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,8,top,"Mitchell singled to left field, RBI (1-1 SB)3a Frost advanced to third3a Strohmeyer scored.",73,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,8,top,Mitchell stole second.,74,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,8,top,"Moore singled to right field, RBI (2-2 KBKBFF)3a Mitchell advanced to third3a Frost scored.",75,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,8,top,"Rogers grounded into double play 1b to ss to 1b (0-0)3a Moore interference, out on the play.",76,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,8,bot,Hogue to p for Beuter.,77,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,8,bot,"Kole,T walked (3-2 KKBBBFB).",78,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,8,bot,"Whitton,C fouled out to 1b (3-1 KBBB).",79,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,8,bot,"Taggart,C struck out looking (2-2 SKBFBK).",80,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,8,bot,"Guerrero,A walked (3-2 KBKBFFFBB)3a Kole,T advanced to second.",81,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,8,bot,"DeCarlo,S struck out swinging (2-2 KKBFFBS).",82,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,9,top,"Sweeney,P to p for McAdams,R.",83,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,9,top,"Henning,M to lf for Whitton,C.",84,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,9,top,B. Guerin singled through the right side (2-1 BBK).,85,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,9,top,Risley hit by pitch (0-2 FF)3a B. Guerin advanced to second.,86,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,9,top,Nelson struck out swinging (2-2 SFFBFBS).,87,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,9,top,Strohmeyer struck out swinging (3-2 BBBKSS).,88,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,9,top,Risley advanced to second on a wild pitch3a B. Guerin advanced to third on a wild pitch.,89,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,9,top,"Frost doubled, 2 RBI (1-2 FKB)3a Risley scored3a B. Guerin scored.",90,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,9,top,Wilmes walked (3-2 KFBBBB).,91,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596569,9,top,Mitchell struck out swinging (0-2 KFS).,92,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,9,bot,Hackett to p for Hogue.,93,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,9,bot,"Hotchkiss,J flied out to rf (2-1 KBB).",94,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,9,bot,"Knight,M struck out swinging (2-2 BBSSS).",95,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,9,bot,"Blanchard,C pinch hit for Bower,C.",96,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025
+6310384,596569,Iowa Hawkeyes,596443,Washington Huskies,596443,9,bot,"Blanchard,C lined out to 2b (1-0 B).",97,2025-05-04T00:00:00-04:00,"Husky Ballpark (Seattle, WA)",1589,MBA,2025

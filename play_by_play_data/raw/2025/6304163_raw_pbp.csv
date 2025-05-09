@@ -1,0 +1,90 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,1,top,No play.,1,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,1,top,"HARVEY,J. struck out swinging (1-2 BKKFS).",2,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,1,top,"BALL,M. hit by pitch (3-2 FBBBK).",3,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,1,top,"YAMAGUCHI,S. singled to left field (1-1 BK)3a BALL,M. advanced to second.",4,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,1,top,"DOYLE,J. struck out looking (3-2 KBBBSK).",5,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,1,top,"HOLDER,T. homered to right field, 3 RBI (2-2 KSBB)3a YAMAGUCHI,S. scored3a BALL,M. scored.",6,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,1,top,"**104 mph, 385 ft**.",7,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,1,top,"WALLER,J. grounded out to 3b (2-2 FBFB).",8,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,1,bot,White grounded out to 2b (2-2 KKBB).,9,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,1,bot,Christiansen struck out swinging (0-2 SFS).,10,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,1,bot,Pimentel-Gue out at first 1b to p (0-0).,11,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,2,top,"Stockton to p for Hunter, C.",12,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,2,top,SNAKENBORG grounded out to 3b (1-1 KB).,13,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,2,top,"RATFIELD,D. flied out to cf (0-1 F).",14,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,2,top,"HIRATA,M. struck out swinging (0-2 KKS).",15,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,2,bot,"Smith, JP popped up to ss (1-1 BF).",16,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,2,bot,Poturnak singled to pitcher (0-1 F).,17,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,2,bot,"Kligman, E struck out swinging (2-2 BFBKS).",18,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,2,bot,Walton flied out to lf (1-1 BS).,19,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,3,top,"HARVEY,J. doubled down the lf line (0-1 K).",20,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,3,top,"BALL,M. grounded out to ss (2-2 FFBFFB).",21,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,3,top,"YAMAGUCHI,S. singled to right center, RBI (3-2 BBKBF)3a HARVEY,J. scored.",22,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,3,top,"DOYLE,J. struck out swinging (1-2 BFKS).",23,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,3,top,"HOLDER,T. flied out to cf to right center (0-0).",24,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,3,bot,Beasley singled to left field (1-1 SB).,25,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,3,bot,Oyler lined out to cf to left center (2-2 FBBSF)3a Beasley no advance.,26,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,3,bot,White reached on a fielder's choice to shortstop (1-0 B)3a Beasley out at second ss to 2b.,27,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,3,bot,Christiansen struck out swinging (0-2 SSS).,28,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,4,top,Chavez to p for Stockton.,29,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,4,top,"WALLER,J. flied out to rf down the rf line (2-2 BKBF).",30,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,4,top,SNAKENBORG struck out swinging (3-2 BBFBFS).,31,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,4,top,"RATFIELD,D. grounded out to 3b (0-0).",32,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,4,bot,Pimentel-Gue singled up the middle (2-2 BKFFB).,33,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,4,bot,"Smith, JP popped up to rf (1-0 B)3a Pimentel-Gue no advance.",34,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,4,bot,Poturnak struck out swinging (2-2 SSBBS).,35,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,4,bot,"Kligman, E struck out swinging, reached first on a wild pitch (0-2 FKS)3a Pimentel-Gue advanced to second.",36,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,4,bot,Pimentel-Gue advanced to third on a wild pitch.,37,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,4,bot,"Walton walked (3-2 BFBBKB)3a Kligman, E advanced to second.",38,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,4,bot,Beasley struck out swinging (3-2 BBFSBS).,39,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,5,top,"HIRATA,M. popped up to 1b (0-1 S).",40,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,5,top,"HARVEY,J. lined out to lf (0-2 FK).",41,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,5,top,"BALL,M. grounded out to 3b (1-2 BKS).",42,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,5,bot,"GARBER,Z. to p for DOBIE,J..",43,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,5,bot,No play.,44,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,5,bot,"Oyler homered to center field, RBI (3-2 BBKBFF).",45,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,5,bot,"**100 mph, 408 ft**.",46,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,5,bot,White flied out to cf (2-0 BB).,47,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,5,bot,Christiansen popped up to 3b (1-1 BK).,48,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,5,bot,Pimentel-Gue tripled to right field (1-0 B).,49,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,5,bot,"OAKES,R. to p for GARBER,Z..",50,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,5,bot,"Smith, JP flied out to cf to right center (1-2 SSBF).",51,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,6,top,Sandberg to p for Chavez.,52,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,6,top,"YAMAGUCHI,S. lined out to lf (0-2 FF).",53,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,6,top,"DOYLE,J. struck out swinging (0-2 SSS).",54,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,6,top,"HOLDER,T. lined out to cf (0-0).",55,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,6,bot,"METCHO,J. to 3b for YAMAGUCHI,S..",56,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,6,bot,Poturnak flied out to cf (1-0 B).,57,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,6,bot,"Kligman, E flied out to lf (1-1 BK).",58,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,6,bot,"Walton grounded out to p, bunt (0-1 K).",59,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,7,top,"WALLER,J. hit by pitch (0-0).",60,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,7,top,"SNAKENBORG walked (3-1 BBBKB)3a WALLER,J. advanced to second.",61,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,7,top,"RATFIELD,D. reached on a fielder's choice to center field (2-2 FBKBF)3a SNAKENBORG out at second cf to ss3a WALLER,J. advanced to third.",62,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,7,top,"HIRATA,M. reached on a fielder's choice to second base, RBI (0-0)3a RATFIELD,D. advanced to second3a WALLER,J. scored.",63,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,7,top,"HARVEY,J. flied out to cf (1-0 B)3a HIRATA,M. no advance3a RATFIELD,D. advanced to third.",64,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,7,top,"HIRATA,M. advanced to second on a wild pitch3a RATFIELD,D. scored on a wild pitch.",65,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,7,top,"BALL,M. struck out swinging (2-2 BKBKS).",66,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,7,bot,Beasley flied out to rf (0-1 K).,67,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,7,bot,Oyler lined out to lf to left center (0-0).,68,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,7,bot,White doubled to right center (1-1 BF).,69,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,7,bot,Christiansen grounded out to p (0-0).,70,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,8,top,Stewart to p for Sandberg.,71,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,8,top,"METCHO,J. flied out to lf (1-0 B).",72,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,8,top,"AVILA,A. pinch hit for DOYLE,J..",73,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,8,top,"AVILA,A. flied out to lf (0-1 K).",74,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,8,top,"HOLDER,T. grounded out to 3b (2-1 BBS).",75,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,8,bot,"AVILA,A. to rf.",76,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,8,bot,Pimentel-Gue flied out to lf to left center (2-1 BKB).,77,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,8,bot,"Smith, JP reached on a fielding error by 1b (1-2 FFB).",78,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,8,bot,Poturnak flied out to cf (1-2 BKS).,79,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,8,bot,"Kligman, E singled down the rf line (2-2 BBKFF)3a Smith, JP advanced to third.",80,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,8,bot,"Walton homered to left field, 3 RBI, unearned (2-1 FBB)3a Kligman, E scored, unearned3a Smith, JP scored, unearned.",81,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,8,bot,"**96 mph, 345 ft**.",82,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,8,bot,Beasley struck out swinging (1-2 KSBS).,83,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,9,top,"WALLER,J. struck out swinging, out at first c to 1b (0-2 KKS).",84,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,9,top,SNAKENBORG struck out swinging (3-2 BKBSBS).,85,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596620,9,top,"RATFIELD,D. flied out to rf (1-0 B).",86,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,9,bot,Oyler lined out to p (1-0 B).,87,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,9,bot,White grounded out to 2b (0-1 K).,88,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025
+6304163,596620,Nevada Wolf Pack,596509,Sacramento St. Hornets,596509,9,bot,Christiansen lined out to lf (2-2 KFBFB).,89,2025-05-06T00:00:00-04:00,"John Smith Field (Sacramento, CA)",434,MBA,2025

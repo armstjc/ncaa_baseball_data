@@ -1,0 +1,78 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,1,top,Graeber struck out swinging (2-2 SSBFBS).,1,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,1,top,Cockrill flied out to cf (2-0 BB).,2,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,1,top,Stewart struck out swinging (3-2 BKBSFBFFS).,3,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,1,bot,Gerety singled to center field (0-1 K).,4,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,1,bot,Maldonado struck out swinging (2-2 FBFBS).,5,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,1,bot,Gerety stole second.,6,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,1,bot,Feinberg grounded out to 3b (3-2 BBKSB).,7,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,1,bot,J. Doyle struck out looking (3-2 BSBBFK).,8,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,2,top,Bouldin flied out to lf (0-1 K).,9,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,2,top,Amato struck out swinging (1-2 KBSS).,10,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,2,top,Lesher grounded out to 3b (1-1 BS).,11,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,2,bot,Musacchia flied out to lf (1-0 B).,12,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,2,bot,Brinker flied out to lf (0-1 K).,13,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,2,bot,A. Lane flied out to rf (1-0 B).,14,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,3,top,Tyer singled to left field (2-2 BKBFF).,15,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,3,top,Donati flied out to lf (1-2 BFS).,16,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,3,top,Minckler doubled down the lf line (1-1 KB)3a Tyer advanced to third.,17,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,3,top,"Graeber flied out to cf, SF, RBI (0-0)3a Tyer scored.",18,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,3,top,"Cockrill singled to left field, RBI (2-0 BB)3a Minckler scored.",19,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,3,top,Stewart flied out to lf (3-2 KFBFFFBB).,20,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,3,bot,Fosberg tripled to right center (1-1 BK).,21,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,3,bot,Chr. Walsh walked (3-2 BFSBBB).,22,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,3,bot,"Gerety doubled to right field, RBI (2-1 KBB)3a Chr. Walsh advanced to third3a Fosberg scored.",23,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,3,bot,Needles to p for Shaub.,24,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,3,bot,"Maldonado singled to right center, RBI (2-2 KSBB)3a Gerety advanced to third3a Chr. Walsh scored.",25,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,3,bot,Maldonado stole second.,26,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,3,bot,"Feinberg doubled to right center, 2 RBI (0-2 KS)3a Maldonado scored3a Gerety scored.",27,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,3,bot,J. Doyle struck out swinging (2-2 KBBSS).,28,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,3,bot,Musacchia struck out swinging (0-2 KKS).,29,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,3,bot,"Feinberg advanced to third on a throwing error by p, failed pickoff attempt.",30,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,3,bot,Brinker struck out looking (3-2 BBKSBK).,31,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,4,top,Bouldin flied out to cf (2-1 BBK).,32,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,4,top,Amato struck out looking (1-2 BFKK).,33,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,4,top,Lesher struck out swinging (1-2 BFFS).,34,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,4,bot,A. Lane struck out looking (3-2 BBKSBK).,35,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,4,bot,Fosberg flied out to cf to right center (2-1 BKB).,36,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,4,bot,Chr. Walsh grounded out to ss (2-2 KKBBF).,37,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,5,top,Tyer struck out swinging (3-2 BBKKFBS).,38,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,5,top,Donati flied out to cf (1-0 B).,39,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,5,top,Minckler struck out swinging (0-2 KSFS).,40,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,5,bot,Gerety struck out swinging (2-2 SBBKS).,41,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,5,bot,Maldonado singled to left field (1-2 BKF).,42,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,5,bot,Bryan to p for Needles.,43,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,5,bot,Maldonado stole second.,44,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,5,bot,Feinberg struck out swinging (2-2 BSSBS).,45,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,5,bot,J. Doyle grounded out to p (3-2 BKBFB).,46,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,6,top,Graeber singled through the right side (2-0 BB).,47,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,6,top,Cockrill singled to left field (1-1 SB)3a Graeber advanced to second.,48,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,6,top,"Stewart singled to right field, RBI (0-1 K)3a Cockrill advanced to second3a Graeber scored.",49,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,6,top,C. Walker to p for W. Jones.,50,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,6,top,"Bouldin popped up to p, bunt (0-0).",51,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,6,top,Amato struck out swinging (2-2 SBSBS).,52,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,6,top,Lesher struck out swinging (2-2 KSBBS).,53,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,6,bot,Musacchia walked (3-2 SBBSFBB).,54,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,6,bot,Velazquez to p for Bryan.,55,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,6,bot,"Brinker doubled to left field, RBI (1-0 B)3a Musacchia scored.",56,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,6,bot,A. Lane popped up to 2b (1-0 B).,57,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,6,bot,Fosberg struck out swinging (0-2 KKS).,58,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,6,bot,Chr. Walsh flied out to rf to left center (0-2 KS).,59,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,7,top,Tyer singled to shortstop (0-2 KS).,60,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,7,top,Donati flied out to lf (2-2 FBFBF).,61,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,7,top,Minckler fouled out to c (1-2 SBS).,62,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,7,top,Graeber reached on a fielder's choice (1-1 BF)3a Tyer out at second 2b to ss.,63,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,7,bot,Gerety flied out to lf (0-0).,64,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,7,bot,Maldonado struck out swinging (3-2 BKBBKS).,65,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,7,bot,Feinberg singled to shortstop (0-1 S).,66,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,7,bot,J. Doyle reached on a throwing error by 2b (0-0)3a Feinberg advanced to third.,67,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,7,bot,Musacchia fouled out to 1b (1-1 KB).,68,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,8,top,Cockrill grounded out to ss (1-2 FBS).,69,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,8,top,Stewart struck out swinging (0-2 KSFS).,70,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,8,top,Bouldin struck out swinging (1-2 KSBS).,71,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,8,bot,Brinker popped up to 2b (0-1 K).,72,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,8,bot,A. Lane popped up to ss (1-0 B).,73,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596631,8,bot,Fosberg popped up to 3b (0-0).,74,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,9,top,Amato singled to right field (1-2 BKS).,75,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,9,top,Lesher grounded into double play 2b to ss to 1b (1-1 SB)3a Amato out on the play.,76,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025
+6303952,596534,Delaware Blue Hens,596631,Northeastern Huskies,596534,9,top,Tyer popped up to 2b (0-0).,77,2025-05-02T00:00:00-04:00,"Friedman Diamond (Brookline, MA)",362,MBA,2025

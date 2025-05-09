@@ -1,0 +1,91 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,1,top,WRIGHT flied out to rf (3-1 BBBK).,1,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,1,top,LAIRD flied out to rf (1-1 BF).,2,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,1,top,GANUN struck out swinging (1-2 BKFS).,3,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,1,bot,HERBERT grounded out to 3b (3-1 KBBB).,4,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,1,bot,KONCZAK singled through the right side (1-1 BK).,5,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,1,bot,SUDBROOK grounded into double play 2b to ss to 1b (0-1 K)3a KONCZAK out on the play.,6,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,2,top,HORKY doubled down the rf line (2-1 BKB).,7,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,2,top,"CURLIS singled through the right side, RBI (0-0)3a HORKY scored.",8,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,2,top,MOTTICE grounded into double play 2b to ss to 1b (0-2 FF)3a CURLIS out on the play.,9,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,2,top,PARKER grounded out to ss (1-2 FFFB).,10,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,2,bot,SCHOLVIN hit by pitch (0-1 F).,11,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,2,bot,WALTON reached on a fielding error by 2b (1-2 KBK)3a SCHOLVIN advanced to second.,12,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,2,bot,"CAHILL reached on a fielder's choice, bunt (1-0 B)3a WALTON advanced to second3a SCHOLVIN out at third c to 3b.",13,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,2,bot,"WHITE singled to shortstop (1-0 B)3a CAHILL advanced to second3a WALTON advanced to third, scored on a fielding error by ss, unearned.",14,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,2,bot,LETO struck out looking (2-2 BSKBK).,15,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,2,bot,"GRAVELLE struck out swinging, out at first c to 1b (0-2 KKS).",16,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,3,top,SLOAN grounded out to 3b (0-2 KF).,17,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,3,top,BATES grounded out to 3b (1-1 BS).,18,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,3,top,WRIGHT doubled down the lf line (0-0).,19,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,3,top,LAIRD grounded out to 2b (1-1 BK).,20,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,3,bot,HERBERT walked (3-2 KBKBFBB).,21,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,3,bot,HERBERT advanced to second on a wild pitch.,22,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,3,bot,KONCZAK reached on a fielding error by lf (2-2 FBBKF)3a HERBERT advanced to third.,23,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,3,bot,SUDBROOK struck out swinging (1-2 BKFS)3a KONCZAK stole second.,24,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,3,bot,"SCHOLVIN grounded out to ss, RBI (0-1 K)3a HERBERT scored, unearned.",25,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,3,bot,WALTON walked (3-2 BBBKFB).,26,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,3,bot,CAHILL lined out to ss (0-0).,27,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,4,top,GANUN lined out to rf (0-1 K).,28,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,4,top,HORKY reached on a fielding error by p (1-1 BF).,29,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,4,top,CURLIS walked (3-1 BBKBB)3a HORKY advanced to second.,30,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,4,top,MOTTICE flied out to cf (2-1 BKB).,31,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,4,top,PARKER grounded out to 1b unassisted (1-0 B).,32,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,4,bot,WHITE grounded out to p (1-2 KKFFB).,33,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,4,bot,LETO grounded out to 2b (1-2 FKB).,34,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,4,bot,GRAVELLE lined out to rf (1-0 B).,35,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,5,top,SLOAN walked (3-2 KBSBBB).,36,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,5,top,"BATES grounded out to 1b unassisted, SAC, bunt (0-1 F)3a SLOAN advanced to second.",37,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,5,top,WRIGHT grounded out to 2b (0-0)3a SLOAN advanced to third.,38,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,5,top,"LAIRD singled through the left side, RBI (0-0)3a SLOAN scored.",39,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,5,top,LAIRD stole second.,40,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,5,top,GANUN grounded out to ss (2-1 SBB).,41,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,5,bot,HERBERT reached on a fielding error by 3b (0-0).,42,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,5,bot,KONCZAK singled to right field3a HERBERT advanced to third.,43,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,5,bot,"KONCZAK advanced to second3a HERBERT out at home c to ss to c, caught stealing.",44,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,5,bot,SUDBROOK walked (3-2 KKBBFFBB).,45,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,5,bot,RODER to p for SOVA.,46,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,5,bot,SCHOLVIN singled to left field (0-0)3a SUDBROOK advanced to second3a KONCZAK advanced to third.,47,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,5,bot,"WALTON flied out to rf, SAC, RBI (2-2 FBFFFB)3a SUDBROOK advanced to third3a KONCZAK scored.",48,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,5,bot,"CAHILL singled up the middle, RBI (1-1 FB)3a SCHOLVIN advanced to third3a SUDBROOK scored.",49,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,5,bot,WHITE struck out swinging (2-2 BKSBFS).,50,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,6,top,HORKY struck out looking (2-2 SKBBK).,51,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,6,top,CURLIS popped up to ss (0-2 FSF).,52,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,6,top,MOTTICE grounded out to 2b (1-2 KFB).,53,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,6,bot,LETO struck out looking (2-2 FSBFFFBFK).,54,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,6,bot,GRAVELLE grounded out to ss (1-1 BK).,55,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,6,bot,HERBERT reached on a throwing error by 3b (1-2 SKBF).,56,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,6,bot,KONCZAK singled to right field (1-1 BK)3a HERBERT advanced to third.,57,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,6,bot,KONCZAK stole second.,58,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,6,bot,"SUDBROOK singled to center field, 2 RBI (2-2 KBSFBF)3a KONCZAK scored, unearned3a HERBERT scored, unearned.",59,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,6,bot,SCHOLVIN reached on a fielder's choice (0-1 F)3a SUDBROOK out at second 3b to 2b.,60,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,7,top,PARKER grounded out to 3b (0-0).,61,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,7,top,SLOAN struck out swinging (2-2 KBBFFFS).,62,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,7,top,BATES walked (3-2 FBBFBB).,63,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,7,top,WRIGHT flied out to cf (1-1 BF).,64,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,7,bot,LOTZ to p for RODER.,65,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,7,bot,WALTON walked (3-1 BBBBK).,66,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,7,bot,CAHILL struck out looking (0-2 KSK).,67,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,7,bot,WHITE singled to right field (1-2 FBF)3a WALTON advanced to third.,68,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,7,bot,"LETO doubled down the rf line, RBI (1-2 FKB)3a WHITE advanced to third3a WALTON scored.",69,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,7,bot,"GRAVELLE reached on a fielder's choice to shortstop, RBI (1-0 B)3a LETO advanced to third3a WHITE scored.",70,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,7,bot,HERBERT popped into double play 2b unassisted (0-0)3a LETO out on the play.,71,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,8,top,CURRY to p for BERGMAN.,72,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,8,top,LAIRD grounded out to ss (0-0).,73,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,8,top,GANUN singled to right field (3-2 BBBKF).,74,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,8,top,GANUN advanced to second on a wild pitch.,75,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,8,top,HORKY walked (3-2 BKFFBFFBB).,76,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,8,top,HORKY advanced to second on a wild pitch3a GANUN advanced to third.,77,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,8,top,"CURLIS grounded out to ss, RBI (2-1 BBS)3a GANUN scored.",78,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,8,top,MOTTICE struck out swinging (1-2 KKBS).,79,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,8,bot,KONCZAK singled through the right side (1-0 B).,80,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,8,bot,SUDBROOK grounded out to 1b unassisted (0-2 KK)3a KONCZAK advanced to second.,81,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,8,bot,SCHOLVIN hit by pitch (0-0).,82,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,8,bot,WALTON struck out looking (2-2 BKFBK).,83,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,8,bot,SCHOLVIN advanced to second on a wild pitch3a KONCZAK advanced to third.,84,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596427,8,bot,CAHILL grounded out to 2b (3-2 SSFBBB).,85,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,9,top,AMELUNG to dh for PARKER.,86,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,9,top,AMELUNG pinch hit.,87,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,9,top,AMELUNG struck out swinging (1-2 FSBS).,88,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,9,top,SLOAN grounded out to 2b (3-2 BKFBB).,89,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025
+6382433,596497,Bowling Green Falcons,596427,Toledo Rockets,596497,9,top,BATES flied out to cf (2-1 KBB).,90,2025-05-03T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",255,MBA,2025

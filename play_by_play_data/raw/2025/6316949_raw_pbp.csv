@@ -1,0 +1,92 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,1,top,"Kernodle, J. singled through the left side (3-1 BBKB).",1,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,1,top,"Kernodle, J. advanced to second on a wild pitch.",2,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,1,top,"Shapiro, C. struck out swinging (2-2 KBBFS).",3,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,1,top,"Kernodle, J. advanced to third on a throwing error by p, failed pickoff attempt.",4,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,1,top,"Bold, J. walked (3-2 BSSBFBFB).",5,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,1,top,"Koonin, J. hit by pitch (0-0)3a Bold, J. advanced to second.",6,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,1,top,"Mound visit #1 for COR, initiated by coach with 1-0 count.",7,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,1,top,"Robbins, W. doubled to left field, 2 RBI (2-2 BKBF)3a Koonin, J. advanced to third3a Bold, J. scored3a Kernodle, J. scored.",8,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,1,top,"Lamson, I. struck out swinging (2-2 BBFFS).",9,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,1,top,"Blowers, K. grounded out to ss (3-1 BBSB).",10,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,1,bot,Carlson lined out to ss (2-2 FFBBF).,11,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,1,bot,Musser grounded out to 3b (3-2 BKFBFBFFF).,12,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,1,bot,Quatrani grounded out to ss (0-0).,13,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,2,top,"Googins, T. struck out looking (2-2 FBBKK).",14,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,2,top,Werdesheim walked (3-0 BBBB).,15,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,2,top,Magill to p for Keene.,16,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,2,top,Werdesheim stole second.,17,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,2,top,"Kernodle, J. struck out swinging (2-2 BKBKS).",18,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,2,top,"Shapiro, C. struck out swinging (2-2 KBBSS).",19,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,2,bot,Wildman grounded out to 3b (0-0).,20,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,2,bot,Porter struck out swinging (2-2 KFBBS).,21,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,2,bot,Hager singled to second base (2-2 KFBB).,22,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,2,bot,Quinlan singled to left center (2-2 KBKB)3a Hager advanced to second.,23,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,2,bot,Davis singled to second base (2-2 BBKF)3a Quinlan advanced to second3a Hager advanced to third.,24,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,2,bot,"Johnson, L. grounded out to p (0-1 K).",25,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,3,top,"Bold, J. struck out looking (3-2 BBBKKK).",26,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,3,top,"Koonin, J. grounded out to p (1-2 BKF).",27,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,3,top,"Robbins, W. out at first p to 2b to 1b (2-1 BKB).",28,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,3,bot,Carlson singled to right center (0-0).,29,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,3,bot,Musser struck out looking (2-2 KFBBFK).,30,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,3,bot,Quatrani flied out to lf (0-2 FFFF).,31,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,3,bot,Wildman reached on a fielder's choice to shortstop (0-0)3a Carlson out at second ss to 2b.,32,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,4,top,"Lamson, I. struck out swinging (1-2 BSKS).",33,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,4,top,"Blowers, K. hit by pitch (0-0).",34,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,4,top,"Googins, T. struck out swinging (1-2 KBFS).",35,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,4,top,Werdesheim struck out swinging (3-2 BBFKBS).,36,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,4,bot,Porter struck out swinging (1-2 BSSS).,37,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,4,bot,Hager grounded out to 3b (2-2 FBBK).,38,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,4,bot,Quinlan flied out to lf (0-2 FF).,39,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,5,top,"Kernodle, J. struck out swinging (1-2 KBKS).",40,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,5,top,"Shapiro, C. walked (3-0 BBBB).",41,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,5,top,"Bold, J. struck out swinging, hit into double play c to 2b (3-2 BKBSBSS)3a Shapiro, C. out on the play.",42,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,5,bot,Davis singled to second base (1-1 BF).,43,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,5,bot,"Johnson, L. grounded out to 3b, SAC, bunt (0-0)3a Davis advanced to second.",44,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,5,bot,Carlson flied out to lf (0-1 K).,45,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,5,bot,"Musser singled to right field, RBI (1-1 FB)3a Davis scored.",46,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,5,bot,"Mound visit #1 by PRI, initiated by coach with 1-0 count.",47,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,5,bot,Quatrani hit by pitch (1-0 B)3a Musser advanced to second.,48,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,5,bot,Wildman struck out swinging (0-2 FFFS).,49,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,6,top,"Koonin, J. walked (3-1 BBBKB).",50,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,6,top,"Robbins, W. popped up to 2b to right field (3-1 BBBK).",51,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,6,top,"Koonin, J. stole second.",52,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,6,top,"Lamson, I. walked (3-2 KBBBKB).",53,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,6,top,Van Sice to p for Magill.,54,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,6,top,"Blowers, K. lined out to rf (0-0).",55,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,6,top,"Lamson, I. stole second3a Koonin, J. stole third.",56,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,6,top,"Googins, T. walked (3-2 BSSBBB).",57,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,6,top,Werdesheim struck out swinging (0-2 KSS).,58,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,6,bot,Porter flied out to cf (0-1 K).,59,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,6,bot,Hager lined out to lf (0-0).,60,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,6,bot,Quinlan grounded out to 3b (0-2 KF).,61,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,7,top,"Kernodle, J. walked (3-1 BBBKB).",62,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,7,top,"Shapiro, C. flied out to lf to left center (0-1 F).",63,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,7,top,"Bold, J. singled to center field (0-0)3a Kernodle, J. advanced to second.",64,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,7,top,"Koonin, J. lined out to lf (1-2 BSS).",65,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,7,top,"Robbins, W. doubled to left field, RBI (0-2 KK)3a Bold, J. advanced to third3a Kernodle, J. scored.",66,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,7,top,"Mound visit #2 for COR, initiated by coach.",67,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,7,top,"Lamson, I. walked (3-1 BSBBB).",68,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,7,top,"Blowers, K. struck out swinging (1-2 KKBS).",69,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,7,bot,Davis struck out swinging (2-2 BSSBS).,70,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,7,bot,"Johnson, L. grounded out to 3b (0-0).",71,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,7,bot,Carlson struck out looking (1-2 KFBFK).,72,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,8,top,"Googins, T. singled to center field (2-1 FBB).",73,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,8,top,Jaun to p for Van Sice.,74,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,8,top,"Werdesheim grounded out to p, SAC, bunt (0-0)3a Googins, T. advanced to second.",75,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,8,top,"Kernodle, J. struck out swinging (1-2 BKSFS).",76,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,8,top,"Shapiro, C. homered to right field, 2 RBI (3-2 BKBKB)3a Googins, T. scored.",77,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,8,top,"Bold, J. grounded out to 3b (2-2 SBSB).",78,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,8,bot,Musser reached on a throwing error by 3b (0-0).,79,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,8,bot,Quatrani reached on a fielder's choice to shortstop (1-1 BF)3a Musser out at second ss to 2b.,80,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,8,bot,Wildman grounded into double play ss to 1b (1-0 B)3a Quatrani out on the play.,81,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,9,top,Swidorski to p for Jaun.,82,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,9,top,"Koonin, J. grounded out to ss (1-2 SBF).",83,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,9,top,"Robbins, W. grounded out to ss (1-2 KKB).",84,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,9,top,"Lamson, I. walked (3-2 KBBFBFBB).",85,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,9,top,"Lamson, I. stole second.",86,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596652,9,top,"Blowers, K. struck out swinging (3-2 KBBFBFS).",87,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,9,bot,Porter grounded out to ss (1-2 SSB).,88,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,9,bot,Hager struck out swinging (2-2 KBKBS).,89,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,9,bot,"Quinlan homered to center field, RBI (0-1 S).",90,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025
+6316949,596652,Princeton Tigers,596528,Cornell Big Red,596528,9,bot,Davis struck out swinging (3-2 BSKBBS).,91,2025-05-04T00:00:00-04:00,"Booth Field (Ithaca, NY)",184,MBA,2025

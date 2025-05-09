@@ -1,0 +1,87 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,1,top,"FOSSUM, K. singled up the middle (3-1 BBKB).",1,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,1,top,"ROVER, T. singled to left field (2-0 BB)3a FOSSUM, K. advanced to second, out at third lf to 3b.",2,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,1,top,"SMITH, C. doubled down the rf line (0-0)3a ROVER, T. advanced to third.",3,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,1,top,"KURIGER, B. reached on a fielder's choice (1-2 FSFBF)3a ROVER, T. out at home 3b to c.",4,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,1,top,"WRONA, J. struck out swinging (1-2 KFFBS).",5,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,1,bot,HERBERT hit by pitch (0-1 K).,6,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,1,bot,KONCZAK singled to left field (0-0)3a HERBERT advanced to second.,7,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,1,bot,"SUDBROOK grounded out to 3b, SAC, bunt (0-0)3a KONCZAK advanced to second3a HERBERT advanced to third.",8,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,1,bot,SCHOLVIN hit by pitch (0-0).,9,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,1,bot,"WALTON reached on a fielder's choice, RBI (0-1 K)3a SCHOLVIN out at second 2b to ss3a KONCZAK advanced to third3a HERBERT scored.",10,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,1,bot,CAHILL flied out to rf (0-0).,11,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,2,top,"HADLEY, C. hit by pitch (0-2 FSF).",12,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,2,top,"CUTTING, G. flied out to lf (0-0).",13,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,2,top,"SHANNON, B. walked (3-0 BBBB)3a HADLEY, C. advanced to second.",14,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,2,top,"BROWN, E. struck out looking (0-2 KSK).",15,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,2,top,"FOSSUM, K. singled up the middle, RBI (2-2 KSFBB)3a SHANNON, B. advanced to third3a HADLEY, C. scored.",16,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,2,top,"FOSSUM, K. stole second.",17,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,2,top,"ROVER, T. flied out to cf (1-2 KFB).",18,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,2,bot,"BRENNAMAN, P to p for HEFLIN, T..",19,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,2,bot,MARIANO walked (3-2 FKBFBBFB).,20,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,2,bot,LETO flied out to lf (2-2 SBFB).,21,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,2,bot,"MARIANO out at second c to 2b, caught stealing.",22,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,2,bot,COTE walked (3-2 SBFBFBFFB).,23,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,2,bot,HERBERT grounded out to ss (3-2 BKSBB).,24,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,3,top,"SMITH, C. flied out to lf (3-2 BBKFB).",25,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,3,top,"KURIGER, B. grounded out to p (0-0).",26,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,3,top,"WRONA, J. walked (3-2 BFBSBFFB).",27,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,3,top,"HADLEY, C. struck out looking (0-2 SSK).",28,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,3,bot,"KUBILUS, N. to p for BRENNAMAN, P.",29,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,3,bot,KONCZAK singled through the left side (3-1 BBBK).,30,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,3,bot,SUDBROOK grounded into double play 2b to ss to 1b (1-0 B)3a KONCZAK out on the play.,31,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,3,bot,SCHOLVIN grounded out to 3b (1-2 KBFF).,32,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,4,top,"CUTTING, G. flied out to cf (2-2 KBFB).",33,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,4,top,"SHANNON, B. struck out looking (0-2 SFK).",34,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,4,top,"BROWN, E. singled down the 3b line (2-1 BKB).",35,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,4,top,HUGHES to p for KENNEDY.,36,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,4,top,"BROWN, E. stole second.",37,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,4,top,"FOSSUM, K. walked (3-2 KBSBFBB).",38,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,4,top,"ROVER, T. walked (3-2 FBBFBFFFB)3a FOSSUM, K. advanced to second3a BROWN, E. advanced to third.",39,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,4,top,"SMITH, C. grounded out to 2b (0-0).",40,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,4,bot,"WILMS, G. to p for KUBILUS, N..",41,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,4,bot,WALTON walked (3-1 BBBKB).,42,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,4,bot,CAHILL grounded into double play 2b to ss to 1b (2-1 BSB)3a WALTON out on the play.,43,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,4,bot,MARIANO hit by pitch (0-1 K).,44,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,4,bot,MARIANO advanced to second on a wild pitch.,45,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,4,bot,LETO grounded out to 2b (2-0 BB).,46,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,5,top,"KURIGER, B. popped up to 1b (1-0 B).",47,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,5,top,"WRONA, J. flied out to cf (1-1 KB).",48,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,5,top,"HADLEY, C. singled down the 3b line (1-0 B).",49,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,5,top,"HADLEY, C. stole second.",50,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,5,top,"CUTTING, G. flied out to cf (1-0 B).",51,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,5,bot,"RHODES, L. to p for WILMS, G..",52,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,5,bot,"COTE homered to left field, RBI (0-0).",53,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,5,bot,HERBERT walked (3-1 BBBKB).,54,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,5,bot,KONCZAK walked (3-1 SBBBB)3a HERBERT advanced to second.,55,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,5,bot,"SUDBROOK singled to right field, RBI (0-1 K)3a KONCZAK advanced to third3a HERBERT scored.",56,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,5,bot,"SCHOLVIN singled through the left side, RBI (0-1 S)3a SUDBROOK advanced to second3a KONCZAK scored.",57,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,5,bot,"PEZZONE, O. to p for RHODES, L..",58,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,5,bot,WALTON hit by pitch (0-0)3a SCHOLVIN advanced to second3a SUDBROOK advanced to third.,59,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,5,bot,"CAHILL singled through the right side, 2 RBI (0-1 K)3a WALTON advanced to second3a SCHOLVIN scored3a SUDBROOK scored.",60,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,5,bot,MARIANO struck out swinging (1-2 KBFS).,61,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,5,bot,LETO fouled out to lf (3-1 BBBK).,62,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,5,bot,"COTE reached on a throwing error by 3b (2-2 FBBK)3a CAHILL advanced to third3a WALTON scored, unearned.",63,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,5,bot,"COTE advanced to second3a CAHILL scored on a wild pitch, unearned.",64,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,5,bot,HERBERT walked (3-2 FBBBSB).,65,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,5,bot,"ROSS, N. to p for PEZZONE, O..",66,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,5,bot,"KONCZAK singled to right field (2-1 BBF)3a HERBERT advanced to second3a COTE advanced to third, out at home rf to c.",67,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,6,top,McCUNE to p for HUGHES.,68,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,6,top,"SHANNON, B. struck out looking (2-2 KFBBK).",69,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,6,top,"BROWN, E. walked (3-0 BBBB).",70,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,6,top,"FOSSUM, K. grounded out to ss (1-0 B)3a BROWN, E. advanced to second.",71,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,6,top,"ROVER, T. grounded out to 2b (0-1 S).",72,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,6,bot,SUDBROOK grounded out to ss (2-1 KBB).,73,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,6,bot,SCHOLVIN flied out to rf (1-1 BF).,74,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,6,bot,WALTON flied out to lf (2-2 FBKB).,75,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,7,top,"SMITH, C. popped up to 1b (0-1 K).",76,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,7,top,"KURIGER, B. flied out to rf (0-1 F).",77,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596456,7,top,"WRONA, J. out at first 1b to p (2-2 BFFB).",78,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,7,bot,"GOODWIN, N. to c for HADLEY, C..",79,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,7,bot,CAHILL singled to shortstop (0-1 F).,80,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,7,bot,"MARIANO homered to left field, 2 RBI (1-2 KBF)3a CAHILL scored, unearned.",81,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,7,bot,LETO flied out to cf (1-2 KBS).,82,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,7,bot,COTE grounded out to ss (0-0).,83,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,7,bot,"ENGLISH, A. to p for ROSS, N..",84,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,7,bot,HERBERT reached on a throwing error by 3b (2-2 KBBK).,85,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
+6304150,596456,Youngstown St. Penguins,596427,Toledo Rockets,596427,7,bot,"KONCZAK homered to right field, 2 RBI, unearned3a HERBERT scored, unearned.",86,2025-05-07T00:00:00-04:00,"Fifth Third Field (Toledo, OH)",150,MBA,2025
