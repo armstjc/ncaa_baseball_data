@@ -1,0 +1,76 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,1,top,No play.,1,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,1,top,"HOWARD, T grounded out to 3b (0-2 KSF).",2,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,1,top,"SWYGART, T walked (3-0 BBBB).",3,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,1,top,"BEAN, B grounded out to 3b (1-1 BK): SWYGART, T advanced to second.",4,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,1,top,"SALK, J grounded out to 2b (0-1 K).",5,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,1,bot,WATANABE singled up the middle (3-2 FBBKB).,6,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,1,bot,"DECELLE doubled down the lf line, RBI (2-0 BB): WATANABE scored.",7,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,1,bot,ROGERS grounded out to p (1-0 B): DECELLE advanced to third.,8,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,1,bot,"DECELLE scored on a passed ball, unearned.",9,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,1,bot,ESQUIVEL struck out swinging (0-2 KSS).,10,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,1,bot,KEIGHRAN grounded out to 3b (2-1 KBB).,11,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,2,top,KATAYAMA-STA flied out to lf (2-2 BFBKFF).,12,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,2,top,"TOGLIA, Z singled to second base (1-0 B).",13,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,2,top,"MCCARTHY, R struck out looking (2-2 KSBBK).",14,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,2,top,"MUENCH, H flied out to rf (3-2 BBBKFF).",15,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,2,bot,WALSH lined out to rf (2-2 FKBB).,16,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,2,bot,RAMPPEN lined out to lf (2-2 BBFF).,17,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,2,bot,FUNG doubled to left center (3-2 BFBBK).,18,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,2,bot,LEWIS struck out looking (2-2 KFBFBK).,19,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,3,top,"NITOWITZ, C struck out swinging (1-2 BKKS).",20,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,3,top,"HOWARD, T struck out looking (3-2 BBKBKFFK).",21,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,3,top,"SWYGART, T walked (3-1 BKBBB).",22,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,3,top,"BEAN, B grounded out to 3b (0-1 K).",23,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,3,bot,WATANABE struck out looking (2-2 KFBFBK).,24,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,3,bot,DECELLE grounded out to p (2-1 BFB).,25,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,3,bot,ROGERS flied out to lf (1-2 KFB).,26,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,4,top,"SALK, J doubled down the rf line (1-2 FBF).",27,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,4,top,KATAYAMA-STA struck out looking (2-2 BKFBK).,28,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,4,top,SOBERON to p for SANTERRE.,29,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,4,top,"TOGLIA, Z walked (3-2 BBBKSFB).",30,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,4,top,"MCCARTHY, R reached on a fielder's choice to third base (2-1 KBB): TOGLIA, Z out at second 3b to 2b: SALK, J advanced to third.",31,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,4,top,"MUENCH, H popped up to 2b (2-2 SBFB).",32,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,4,bot,ESQUIVEL struck out looking (1-2 FKBK).,33,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,4,bot,KEIGHRAN hit by pitch (1-1 BF).,34,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,4,bot,WALSH singled down the lf line (1-2 BFF): KEIGHRAN advanced to second.,35,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,4,bot,RAMPPEN reached on a fielder's choice to shortstop (2-2 BSFB): WALSH advanced to second: KEIGHRAN out at third ss to 3b.,36,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,4,bot,FUNG walked (3-1 BBFBB): RAMPPEN advanced to second: WALSH advanced to third.,37,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,4,bot,"LEWIS doubled down the lf line, 2 RBI (2-2 FBKB): FUNG advanced to third: RAMPPEN scored: WALSH scored.",38,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,4,bot,WATANABE grounded out to 1b unassisted (0-0).,39,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,5,top,"NITOWITZ, C grounded out to 1b unassisted (2-2 BFBK).",40,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,5,top,"HOWARD, T grounded out to ss (1-1 BK).",41,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,5,top,"SWYGART, T grounded out to ss (2-2 SBKB).",42,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,5,bot,DECELLE singled through the left side (2-2 FKBBF).,43,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,5,bot,ROGERS hit by pitch (0-2 FF): DECELLE advanced to second.,44,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,5,bot,"LANDWEHR, J to p for GASTON, C.",45,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,5,bot,ESQUIVEL out at first 1b to p (0-1 F): ROGERS advanced to second: DECELLE advanced to third.,46,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,5,bot,KEIGHRAN struck out swinging (3-2 BBKBSS).,47,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,5,bot,WALSH grounded out to 2b (0-1 S).,48,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,6,top,"BEAN, B popped up to ss (2-2 KBSFB).",49,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,6,top,"SALK, J grounded out to 3b (1-2 FFBF).",50,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,6,top,KATAYAMA-STA lined out to cf (2-0 BB).,51,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,6,bot,RAMPPEN lined out to 3b (0-0).,52,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,6,bot,FUNG out at first 1b to p (2-1 BBK).,53,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,6,bot,LEWIS out at first 1b to p (3-1 BSBB).,54,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,7,top,"TOGLIA, Z popped up to 2b down the rf line (0-1 K).",55,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,7,top,"MCCARTHY, R hit by pitch (0-1 F).",56,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,7,top,"MUENCH, H walked (3-2 BBKSBFB): MCCARTHY, R advanced to second.",57,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,7,top,"NITOWITZ, C flied out to cf (0-0).",58,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,7,top,"HOWARD, T flied out to cf to left center (0-1 K).",59,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,7,bot,WATANABE grounded out to ss up the middle (0-1 K).,60,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,7,bot,"DECELLE homered to left field, RBI (1-2 KFB).",61,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,7,bot,ROGERS grounded out to 3b (0-0).,62,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,7,bot,ESQUIVEL grounded out to ss up the middle (1-0 B).,63,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,8,top,"SWYGART, T struck out swinging (1-2 FSBS).",64,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,8,top,"BEAN, B lined out to rf (1-0 B).",65,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,8,top,"SALK, J grounded out to p (2-1 SBB).",66,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,8,bot,"KEIGHRAN homered to right center, RBI (1-2 BFF).",67,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,8,bot,WALSH lined out to 1b (3-2 BFKBFBF).,68,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,8,bot,RAMPPEN grounded out to p (0-0).,69,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596671,8,bot,"FUNG struck out swinging, out at first c to 1b (3-2 KBFFBFBS).",70,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,9,top,KALLINGER to rf for FUNG.,71,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,9,top,KATAYAMA-STA walked (3-0 BBBB).,72,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,9,top,"TOGLIA, Z singled to left field (3-1 BBBK): KATAYAMA-STA advanced to second.",73,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,9,top,"MCCARTHY, R grounded into double play 3b to 1b (1-1 BK): TOGLIA, Z advanced to second: KATAYAMA-STA out on the play.",74,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025
+6317893,596650,Portland Pilots,596671,San Francisco Dons,596650,9,top,"MUENCH, H struck out swinging (1-2 KKBS).",75,2025-05-10T00:00:00-04:00,"Benedetti Diamond (San Francisco, CA)",193,MBA,2025

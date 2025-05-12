@@ -1,0 +1,105 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,1,top,D. Baugus struck out swinging (0-2 KFS).,1,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,1,top,B. Smith doubled to right center (2-1 KBB).,2,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,1,top,"N. Krodinger singled to right field, RBI (2-0 BB)3a B. Smith scored.",3,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,1,top,W. Beckham struck out looking (3-2 BSSBBK).,4,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,1,top,N. Krodinger advanced to second on a wild pitch.,5,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,1,top,G. Meyer walked (3-2 BBKBSB).,6,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,1,top,D. Damgaard singled to second base (1-1 BK)3a G. Meyer advanced to second3a N. Krodinger advanced to third.,7,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,1,top,N. Hooper grounded out to 3b (2-2 BBFF).,8,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,1,bot,"Fudge, I. walked (3-2 KBBFBB).",9,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,1,bot,"Broughton lined out to 3b (1-1 SB)3a Fudge, I. advanced to second on a throwing error by 3b, out at third rf to 3b.",10,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,1,bot,"Mateo, M. singled to right field (0-1 S).",11,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,1,bot,"Fandre, H. singled to left field (2-2 SFBB)3a Mateo, M. advanced to second.",12,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,1,bot,"Huffman, J. walked (3-1 BBSBB)3a Fandre, H. advanced to second3a Mateo, M. advanced to third.",13,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,1,bot,"Vitale, J. struck out swinging (1-2 BSKS).",14,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,2,top,T. Prince grounded out to ss (0-1 K).,15,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,2,top,"T. Bizzle grounded out to 3b, bunt (1-1 BK).",16,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,2,top,D. Baugus struck out swinging (1-2 KFBS).,17,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,2,bot,"Ortiz, J. popped up to ss (1-1 BS).",18,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,2,bot,"Blaise, B. struck out swinging (1-2 KFBS).",19,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,2,bot,"Haggard, J. grounded out to p (1-2 SFB).",20,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,3,top,B. Smith singled to third base (3-2 BSBBF).,21,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,3,top,B. Smith stole second.,22,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,3,top,N. Krodinger grounded out to 2b (2-1 KBB)3a B. Smith advanced to third.,23,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,3,top,"W. Beckham grounded out to ss, RBI (0-0)3a B. Smith scored.",24,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,3,top,G. Meyer grounded out to 2b (0-1 F).,25,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,3,bot,"Fudge, I. grounded out to 2b (0-2 KS).",26,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,3,bot,Broughton flied out to cf (0-1 F).,27,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,3,bot,"Mateo, M. grounded out to p (0-1 K).",28,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,4,top,D. Damgaard grounded out to p (0-1 F).,29,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,4,top,N. Hooper singled to center field (0-2 KK).,30,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,4,top,T. Prince grounded out to 3b (0-0)3a N. Hooper advanced to second.,31,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,4,top,T. Bizzle struck out swinging (1-2 SSBS).,32,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,4,bot,"Fandre, H. singled to right center (1-0 B).",33,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,4,bot,"Huffman, J. reached on a fielder's choice (1-2 BFF)3a Fandre, H. out at second ss to 2b.",34,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,4,bot,"Vitale, J. struck out swinging (3-2 BBBKKS).",35,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,4,bot,"Ortiz, J. singled down the rf line, RBI (0-1 K)3a Huffman, J. scored.",36,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,4,bot,"Blaise, B. singled through the left side (0-0)3a Ortiz, J. advanced to second.",37,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,4,bot,"Haggard, J. struck out looking (3-2 FBBBKFFK).",38,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,5,top,D. Baugus walked (3-1 BBBKB).,39,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,5,top,D. Baugus stole second.,40,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,5,top,B. Smith struck out swinging (2-2 SBFBS).,41,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,5,top,N. Krodinger struck out looking (0-2 SFFK).,42,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,5,top,W. Beckham fouled out to 3b (2-1 BSB).,43,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,5,bot,N. Currie to p for A Hedgecorth.,44,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,5,bot,"Fudge, I. lined out to 1b (0-0).",45,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,5,bot,Broughton struck out looking (0-2 KFFFK).,46,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,5,bot,"Mateo, M. flied out to cf (2-0 BB).",47,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,6,top,G. Meyer grounded out to ss (3-1 KBBB).,48,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,6,top,D. Damgaard hit by pitch (1-0 B).,49,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,6,top,N. Hooper reached on a fielder's choice (3-2 BFSFBFB)3a D. Damgaard out at second ss to 2b.,50,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,6,top,T. Prince singled to third base (0-1 K)3a N. Hooper advanced to second.,51,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,6,top,T. Bizzle struck out swinging (1-2 KFBS).,52,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,6,bot,"Fandre, H. flied out to lf down the lf line (0-1 K).",53,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,6,bot,"Huffman, J. struck out swinging (1-2 FSBFS).",54,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,6,bot,"Vitale, J. homered to right center, RBI (1-2 FBS).",55,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,6,bot,"Ortiz, J. struck out swinging (1-2 KBKS).",56,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,7,top,"Reinholz, T. to p for Ruffner, K..",57,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,7,top,D. Baugus walked (3-2 KBBBKB).,58,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,7,top,B. Smith hit by pitch (0-2 KF)3a D. Baugus advanced to second.,59,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,7,top,B. Smith stole second3a D. Baugus stole third.,60,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,7,top,N. Krodinger walked (3-2 FBFFBBFFB).,61,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,7,top,"Parmer, L. to p for Reinholz, T..",62,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,7,top,"W. Beckham reached on a fielder's choice, RBI (0-0)3a N. Krodinger out at second 2b to ss3a B. Smith advanced to third3a D. Baugus scored.",63,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,7,top,"G. Meyer grounded out to c, SAC, bunt, RBI (1-1 BS)3a W. Beckham advanced to second3a B. Smith scored.",64,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,7,top,D. Damgaard hit by pitch (3-2 BBKBK).,65,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,7,top,N. Hooper struck out swinging (2-2 KSBBS).,66,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,7,bot,"Blaise, B. popped up to 3b (0-0).",67,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,7,bot,B. Gebbink to p for N. Currie.,68,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,7,bot,"Haggard, J. singled to right field (1-1 KB).",69,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,7,bot,"Fudge, I. singled to shortstop (0-0)3a Haggard, J. advanced to second.",70,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,7,bot,"Fudge, I. stole second3a Haggard, J. stole third.",71,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,7,bot,"Broughton singled through the left side, RBI (2-2 KFFBFB)3a Fudge, I. advanced to third3a Haggard, J. scored.",72,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,7,bot,"Mateo, M. grounded out to ss, RBI (0-1 S)3a Broughton advanced to second3a Fudge, I. scored.",73,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,7,bot,"Fandre, H. doubled down the lf line, RBI (2-2 BSBS)3a Broughton scored.",74,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,7,bot,J. Cook to p for B. Gebbink.,75,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,7,bot,"Huffman, J. doubled to left center, RBI (1-0 B)3a Fandre, H. scored.",76,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,7,bot,D. Wipf to p for J. Cook.,77,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,7,bot,"Vitale, J. struck out swinging (2-2 KSBFBS).",78,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,8,top,T. Prince hit by pitch (2-1 BSB).,79,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,8,top,A. Cizek pinch hit for T. Bizzle.,80,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,8,top,T. Prince advanced to second on a wild pitch.,81,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,8,top,"A. Cizek singled to right field, advanced to second on the throw (1-1 BK)3a T. Prince advanced to third, out at home rf to c to 3b to c.",82,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,8,top,D. Baugus hit by pitch (0-2 KF).,83,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,8,top,"Conzemius to p for Parmer, L..",84,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,8,top,"B. Smith tripled down the lf line, 2 RBI (1-0 B)3a D. Baugus scored3a A. Cizek scored.",85,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,8,top,"N. Krodinger flied out to cf to right center, SF, RBI (1-1 KB)3a B. Smith scored.",86,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,8,top,W. Beckham flied out to cf (0-1 K).,87,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,8,bot,D. Baugus to lf.,88,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,8,bot,L. Roberts to c for W. Beckham.,89,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,8,bot,J. Bell to cf for A. Cizek.,90,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,8,bot,"Ortiz, J. walked (3-1 BKBBB).",91,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,8,bot,"Schultz, Q. pinch ran for Ortiz, J..",92,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,8,bot,"Blaise, B. struck out swinging (2-2 KBFBS).",93,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,8,bot,"Schultz, Q. advanced to second on a wild pitch.",94,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,8,bot,"Haggard, J. grounded out to 2b (3-2 SBBFB)3a Schultz, Q. advanced to third.",95,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,8,bot,"Fudge, I. walked (3-2 BKSBFBFB).",96,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,8,bot,"Fudge, I. stole second.",97,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,8,bot,Broughton struck out swinging (2-2 FSBBS).,98,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,9,top,G. Meyer grounded out to 3b (0-2 FK).,99,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,9,top,D. Damgaard flied out to rf (0-1 K).,100,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596912,9,top,N. Hooper grounded out to 3b (2-1 BBK).,101,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,9,bot,"Mateo, M. struck out swinging (3-2 BFSBBS).",102,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,9,bot,"Fandre, H. struck out swinging, out at first c to 1b (2-2 KSBFBFS).",103,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025
+6383795,596912,Missouri S&T Miners,596926,Quincy Hawks,596926,9,bot,"Huffman, J. singled through the left side (0-0).",104,2025-05-09T00:00:00-04:00,"Marian, IL",115,MBA,2025

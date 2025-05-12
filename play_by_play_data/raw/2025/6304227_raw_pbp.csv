@@ -1,0 +1,75 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,1,top,"Paskell, A. flied out to lf.",1,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,1,top,"Hartmann, E. grounded out to 1b unassisted.",2,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,1,top,"Tiroly, J. fouled out to c.",3,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,1,bot,"Silliman, O reached on an error by ss.",4,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,1,bot,"Spinosa, J fouled out to 3b, bunt.",5,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,1,bot,"Cisco, M struck out looking.",6,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,1,bot,"Silliman, O out at second p to 1b to 2b, picked off.",7,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,2,top,"Neri, K. struck out looking.",8,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,2,top,"Shuhet, N. struck out swinging.",9,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,2,top,"Gallagher, W struck out swinging.",10,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,2,bot,"Rumley, T grounded out to ss.",11,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,2,bot,"Zwirecki, T grounded out to 3b.",12,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,2,bot,"Glassford, R flied out to lf.",13,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,3,top,"Magoulic, C. popped up to 3b.",14,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,3,top,"Leahy, M. flied out to cf.",15,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,3,top,"Crespo, P. hit by pitch.",16,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,3,top,"Paskell, A. flied out to cf.",17,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,3,bot,"Weeks, E flied out to rf.",18,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,3,bot,"Niles, J struck out looking.",19,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,3,bot,"Marcello, A singled up the middle.",20,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,3,bot,"Silliman, O grounded out to ss.",21,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,4,top,"Hartmann, E. walked.",22,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,4,top,"Tiroly, J. walked3a Hartmann, E. advanced to second.",23,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,4,top,"Tiroly, J. advanced to second on a wild pitch3a Hartmann, E. advanced to third on a wild pitch.",24,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,4,top,"Neri, K. walked.",25,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,4,top,"Consigli, P to p for Staerker, S.",26,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,4,top,"Shuhet, N. singled to center field, 2 RBI3a Neri, K. advanced to second3a Tiroly, J. scored3a Hartmann, E. scored.",27,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,4,top,"Gallagher, W grounded out to 3b, SAC, bunt3a Shuhet, N. advanced to second3a Neri, K. advanced to third.",28,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,4,top,"Magoulic, C. struck out swinging.",29,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,4,top,"Leahy, M. singled, out at second 3b to 2b, 2 RBI3a Shuhet, N. scored3a Neri, K. scored.",30,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,4,bot,"Spinosa, J walked.",31,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,4,bot,"Cisco, M hit by pitch3a Spinosa, J advanced to second.",32,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,4,bot,"Rumley, T lined out to p3a Spinosa, J out at second p to 2b.",33,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,4,bot,"Zwirecki, T reached on a fielder's choice3a Cisco, M out at second 3b to 2b.",34,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,5,top,"Crespo, P. struck out swinging.",35,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,5,top,"Paskell, A. grounded out to 3b.",36,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,5,top,"Hartmann, E. grounded out to 3b.",37,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,5,bot,"Glassford, R struck out swinging.",38,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,5,bot,"Weeks, E grounded out to ss.",39,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,5,bot,"Niles, J walked.",40,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,5,bot,"Marcello, A reached on a fielder's choice3a Niles, J out at second ss to 2b.",41,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,6,top,"Tiroly, J. singled through the left side.",42,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,6,top,"Neri, K. grounded out to 2b3a Tiroly, J. advanced to second.",43,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,6,top,"Shuhet, N. struck out swinging.",44,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,6,top,"Gallagher, W walked.",45,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,6,top,"Magoulic, C. walked3a Gallagher, W advanced to second3a Tiroly, J. advanced to third.",46,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,6,top,"Leahy, M. reached on a fielder's choice3a Magoulic, C. advanced to second3a Gallagher, W out at third 3b unassisted.",47,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,6,bot,"Silliman, O singled to left field.",48,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,6,bot,"Spinosa, J struck out swinging.",49,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,6,bot,"Cisco, M flied out to rf.",50,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,6,bot,"Rumley, T flied out to rf.",51,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,7,top,"Crespo, P. out at first 1b to p.",52,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,7,top,"Paskell, A. struck out swinging.",53,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,7,top,"Hartmann, E. walked.",54,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,7,top,"Tiroly, J. homered to left field, 2 RBI3a Hartmann, E. scored.",55,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,7,top,"Neri, K. grounded out to 3b.",56,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,7,bot,"Zwirecki, T walked.",57,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,7,bot,"Glassford, R grounded into double play 1b to ss to 1b3a Zwirecki, T out on the play.",58,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,7,bot,"Weeks, E grounded out to 2b.",59,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,8,top,"Duffy, A to p for Consigli, P.",60,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,8,top,"Shuhet, N. flied out to cf.",61,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,8,top,"Gallagher, W walked.",62,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,8,top,"Magoulic, C. reached on a fielder's choice3a Gallagher, W out at second ss unassisted.",63,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,8,top,"Magoulic, C. out at second c to ss, caught stealing.",64,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,8,bot,"Niles, J grounded out to 2b.",65,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,8,bot,"Marcello, A struck out swinging.",66,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,8,bot,"Silliman, O grounded out to 3b.",67,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,9,top,"Leahy, M. flied out to cf.",68,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,9,top,"Crespo, P. flied out to lf.",69,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596659,9,top,"Paskell, A. flied out to cf.",70,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,9,bot,"Spinosa, J struck out swinging.",71,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,9,bot,"Cisco, M hit by pitch.",72,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,9,bot,"Rumley, T singled to center field3a Cisco, M advanced to second.",73,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025
+6304227,596659,Rider Broncs,596517,Canisius Golden Griffins,596517,9,bot,"Zwirecki, T grounded into double play 2b to ss to 1b3a Rumley, T out on the play.",74,2025-05-09T00:00:00-04:00,"Demske Sports Complex (Buffalo, NY)",356,MBA,2025

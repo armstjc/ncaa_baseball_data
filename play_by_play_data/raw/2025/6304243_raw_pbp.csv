@@ -1,0 +1,85 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,1,top,"Wakefield, J walked (3-2 FBKBFBB).",1,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,1,top,"Barreras, E. grounded into double play 2b to ss to 1b (0-1 K); Wakefield, J out on the play.",2,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,1,top,"Pelc, E. singled up the middle (0-1 K).",3,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,1,top,"Pelc, E. stole second.",4,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,1,top,"Yorke, Z. walked (3-1 BBSBB).",5,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,1,top,"Paton, E. grounded out to 2b (1-2 BSS).",6,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,1,bot,"Haskins,T grounded out to ss (0-0).",7,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,1,bot,"Bates,C hit by pitch (1-2 KKB).",8,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,1,bot,"Marsh,T singled through the right side (1-2 KKB); Bates,C advanced to third.",9,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,1,bot,"Nati,J singled through the left side, RBI (0-0); Marsh,T advanced to second; Bates,C scored.",10,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,1,bot,"Sasaki,R singled to right field, RBI (1-1 BF); Nati,J advanced to third; Marsh,T scored.",11,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,1,bot,"Becerra,T grounded into double play 2b to 1b (2-1 BBF); Sasaki,R out on the play.",12,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,2,top,"Peery, C. singled to left field (1-0 B).",13,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,2,top,"Diaz, M. reached on a fielder's choice to shortstop (0-0); Peery, C. advanced to second on a muffed throw by 2b, assist by ss.",14,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,2,top,"Sanders, T. grounded out to c, SAC, bunt (0-0); Diaz, M. advanced to second; Peery, C. advanced to third.",15,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,2,top,"Moeller, L. reached on a fielder's choice to third base (2-0 BB); Diaz, M. advanced to third; Peery, C. out at home 3b to c.",16,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,2,top,"Wakefield, J singled through the right side, RBI (0-2 SF); Moeller, L. advanced to third; Diaz, M. scored, unearned.",17,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,2,top,"Barreras, E. grounded out to p (1-2 BKFF).",18,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,2,bot,"Reynolds,B singled to center field (0-0).",19,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,2,bot,"Hott,E grounded into double play ss to 2b to 1b (1-1 BK); Reynolds,B out on the play.",20,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,2,bot,"Lavin,L homered to right field, RBI (0-0).",21,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,2,bot,"Haskins,T singled to right field (0-2 KS).",22,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,2,bot,"Bates,C struck out looking (1-2 KFBK).",23,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,3,top,"Pelc, E. singled through the left side (0-1 K).",24,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,3,top,"Pelc, E. advanced to second on a wild pitch.",25,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,3,top,"Yorke, Z. grounded out to 2b (2-1 FBB); Pelc, E. advanced to third.",26,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,3,top,"Paton, E. lined into double play p to 3b (1-1 BS); Pelc, E. out on the play.",27,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,3,bot,"Marsh,T grounded out to 3b (0-1 K).",28,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,3,bot,"Nati,J struck out swinging (2-2 BKSBS).",29,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,3,bot,"Sasaki,R struck out swinging (0-2 KSS).",30,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,4,top,"Peery, C. grounded out to 2b (2-2 FBFFB).",31,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,4,top,"Diaz, M. grounded out to 2b (1-2 BKSFF).",32,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,4,top,"Sanders, T. grounded out to 1b unassisted (1-2 SBK).",33,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,4,bot,"Becerra,T grounded out to 2b (0-0).",34,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,4,bot,"Reynolds,B flied out to cf (1-1 KB).",35,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,4,bot,"Hott,E doubled down the lf line (2-2 BBFF).",36,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,4,bot,"Lavin,L grounded out to 3b (0-0).",37,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,5,top,"Moeller, L. flied out to rf (2-1 BBK).",38,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,5,top,"Wakefield, J singled to center field (2-2 BSFFB).",39,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,5,top,"Barreras, E. singled up the middle (1-0 B); Wakefield, J advanced to third.",40,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,5,top,"Pelc, E. doubled to center field, RBI (0-0); Barreras, E. advanced to third, out at home rf to ss to c; Wakefield, J scored.",41,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,5,top,"Yorke, Z. flied out to rf (1-0 B).",42,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,5,bot,"Haskins,T struck out swinging (1-2 SFBS).",43,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,5,bot,"Bates,C singled through the left side (0-0).",44,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,5,bot,"Marsh,T struck out swinging, hit into double play c unassisted (0-2 KFFFS); Bates,C out on the play, interference.",45,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,6,top,"Paton, E. grounded out to 2b (0-1 K).",46,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,6,top,"Peery, C. grounded out to 3b (1-0 B).",47,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,6,top,"Diaz, M. grounded out to 1b unassisted (2-1 BKB).",48,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,6,bot,"Nati,J grounded out to ss (0-0).",49,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,6,bot,"Sasaki,R struck out looking (3-2 KBSFBBK).",50,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,6,bot,"Becerra,T lined out to cf (2-2 KBKB).",51,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,7,top,"Sanders, T. fouled out to 1b (1-0 B).",52,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,7,top,"Ohland, C. pinch hit for Moeller, L..",53,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,7,top,"Ohland, C. singled up the middle (0-1 F).",54,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,7,top,"Wakefield, J walked (3-1 BBSBB); Ohland, C. advanced to second.",55,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,7,top,"Barreras, E. flied out to lf (0-1 K).",56,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,7,top,"Pelc, E. flied out to rf to right center (2-2 KBBKF).",57,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,7,bot,"Sexton, B. to c for Ohland, C..",58,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,7,bot,"Bailey, G. to p for Lyon, I..",59,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,7,bot,"Reynolds,B flied out to rf (1-2 FKB).",60,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,7,bot,"Hott,E singled to right field (1-1 KB).",61,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,7,bot,"Lavin,L flied out to lf to left center (1-1 KB).",62,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,7,bot,"Haskins,T flied out to lf (0-0).",63,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,8,top,"Keenan,A to p for Volchko,J.",64,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,8,top,"Yorke, Z. struck out looking (0-2 SFK).",65,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,8,top,"Paton, E. fouled out to 3b (1-1 FB).",66,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,8,top,"Peery, C. flied out to cf (3-2 KBBFFBF).",67,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,8,bot,"Smith, J. to p for Bailey, G..",68,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,8,bot,"Bates,C grounded out to 2b (2-0 BB).",69,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,8,bot,"Marsh,T singled to right center (0-1 K).",70,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,8,bot,"Marsh,T out at second c to 2b, caught stealing.",71,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,8,bot,"Nati,J struck out swinging (2-2 BBFSS).",72,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,9,top,"Diaz, M. singled to center field (1-2 BFK).",73,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,9,top,"Scaldeferri pinch hit for Sanders, T..",74,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,9,top,"Scaldeferri singled to center field (0-1 K); Diaz, M. advanced to second.",75,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,9,top,"Sexton, B. out at first p to 2b, SAC, bunt (1-1 KB); Scaldeferri advanced to second; Diaz, M. advanced to third.",76,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,9,top,"Wakefield, J struck out looking (1-2 KBFK).",77,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,9,top,"Barreras, E. doubled to left field, 2 RBI (0-1 S); Scaldeferri scored; Diaz, M. scored.",78,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596462,9,top,"Pelc, E. grounded out to 3b (3-2 BBKFB).",79,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,9,bot,Scaldeferri to 2b.,80,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,9,bot,"Quinn, W. to p for Smith, J..",81,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,9,bot,"Sasaki,R grounded out to ss (1-2 BKK).",82,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,9,bot,"Becerra,T popped up to 2b (0-0).",83,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
+6304243,596462,Grand Canyon Lopes,596688,Stanford Cardinal,596688,9,bot,"Reynolds,B flied out to cf (2-2 BKSBFF).",84,2025-05-09T00:00:00-04:00,"Sunken Diamond (Stanford, CA)",1617,MBA,2025
