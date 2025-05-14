@@ -1,0 +1,87 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,1,top,Lipsey popped up to ss (1-1 FB).,1,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,1,top,Graveline flied out to cf (1-0 B).,2,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,1,top,Pettorini struck out swinging (1-2 BKFS).,3,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,1,bot,KNOTT grounded out to ss (1-1 BS).,4,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,1,bot,MCELFATRICK walked (3-0 BBBB).,5,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,1,bot,KUCHERAK grounded out to p (2-2 KBKB)3a MCELFATRICK advanced to second.,6,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,1,bot,FREEMAN walked (3-1 BBBKB).,7,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,1,bot,FREEMAN advanced to second3a MCELFATRICK advanced to third on a wild pitch.,8,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,1,bot,LAUSCH walked (3-0 BBBB).,9,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,1,bot,"MARKINSON tripled to center field, 3 RBI (2-2 KKBB)3a LAUSCH scored3a FREEMAN scored3a MCELFATRICK scored.",10,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,1,bot,HAND grounded out to 2b (1-2 KSB).,11,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,2,top,Eckelman struck out swinging (0-2 SSS).,12,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,2,top,Miller grounded out to 3b (3-2 FBBFB).,13,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,2,top,Simpson flied out to rf (0-0).,14,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,2,bot,GANUS grounded out to 2b (1-2 KFB).,15,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,2,bot,LIOLIOS walked (3-2 KBKBBFB).,16,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,2,bot,KNOTT walked (3-2 BKFFBFBB)3a LIOLIOS advanced to second.,17,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,2,bot,"MCELFATRICK singled to left center, RBI3a KNOTT advanced to second3a LIOLIOS scored.",18,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,2,bot,KUCHERAK hit by pitch (3-2 KBKBBF)3a MCELFATRICK advanced to second3a KNOTT advanced to third.,19,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,2,bot,"FREEMAN doubled down the rf line, 2 RBI (0-1 K)3a KUCHERAK advanced to third3a MCELFATRICK scored3a KNOTT scored.",20,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,2,bot,Copenhaver to p for Michalak.,21,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,2,bot,"LAUSCH struck out swinging, reached first on a wild pitch (0-2 KKS).",22,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,2,bot,"MARKINSON walked, RBI (3-0 BBBB)3a LAUSCH advanced to second3a FREEMAN advanced to third3a KUCHERAK scored.",23,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,2,bot,HAND struck out looking (0-2 KFK).,24,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,2,bot,"GANUS walked, RBI (3-1 BBSBB)3a MARKINSON advanced to second3a LAUSCH advanced to third3a FREEMAN scored.",25,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,2,bot,"LIOLIOS doubled down the lf line, 2 RBI (1-0 B)3a GANUS advanced to third3a MARKINSON scored3a LAUSCH scored.",26,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,2,bot,KNOTT grounded out to 1b unassisted (2-1 KBB).,27,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,3,top,Giamarusti flied out to cf (2-0 BB).,28,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,3,top,"Carpenter, W doubled to left center (1-0 B).",29,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,3,top,"Mineo singled to right field (0-0)3a Carpenter, W advanced to third.",30,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,3,top,"Lipsey doubled down the lf line, RBI3a Mineo advanced to third3a Carpenter, W scored.",31,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,3,top,"Graveline grounded out to ss, RBI (1-1 BK)3a Mineo scored.",32,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,3,top,Pettorini popped up to 3b (2-1 KBB).,33,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,3,bot,MCELFATRICK grounded out to p unassisted (0-0).,34,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,3,bot,"KUCHERAK homered to left field, RBI (2-1 BBK).",35,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,3,bot,FREEMAN walked (3-1 BKBBB).,36,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,3,bot,"LAUSCH homered to center field, 2 RBI (3-2 BSKFBB)3a FREEMAN scored.",37,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,3,bot,MARKINSON singled to second base (0-0).,38,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,3,bot,HAND walked (3-2 BBFBFB)3a MARKINSON advanced to second.,39,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,3,bot,GANUS struck out looking (0-2 KSK).,40,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,3,bot,RAO pinch hit for LIOLIOS.,41,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,3,bot,RAO struck out swinging (2-2 KBBSS).,42,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,4,top,Eckelman walked (3-1 BSBBB).,43,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,4,top,Miller flied out to lf (3-2 KBBKBF).,44,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,4,top,Simpson reached on a fielder's choice to pitcher (0-2 KK)3a Eckelman out at second p to 2b.,45,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,4,top,"Giamarusti grounded out to p, bunt (1-1 KB).",46,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,4,bot,KNOTT flied out to rf (1-1 BK).,47,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,4,bot,MCELFATRICK grounded out to p (0-0).,48,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,4,bot,KUCHERAK singled up the middle (3-1 BBKB).,49,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,4,bot,KUCHERAK advanced to second on a passed ball.,50,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,4,bot,FREEMAN flied out to rf (1-1 BF).,51,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,5,top,"Carpenter, W flied out to rf (0-1 F).",52,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,5,top,Mineo grounded out to 2b (1-2 KBK).,53,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,5,top,Lipsey flied out to cf (2-1 BKB).,54,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,5,bot,LAUSCH struck out looking (2-2 BFFFFBK).,55,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,5,bot,MARKINSON walked (3-1 BFBBB).,56,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,5,bot,HAND lined out to 2b (1-1 KB).,57,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,5,bot,GANUS walked (3-0 BBBB)3a MARKINSON advanced to second.,58,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,5,bot,BRECHBUHL pinch hit for RAO.,59,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,5,bot,LaFine to p for Copenhaver.,60,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,5,bot,"BRECHBUHL homered to left field, 3 RBI (3-2 BBBKK)3a GANUS scored3a MARKINSON scored.",61,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,5,bot,KNOTT walked (3-1 BBFBB).,62,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,5,bot,KNOTT advanced to second on a wild pitch.,63,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,5,bot,MCELFATRICK struck out swinging (2-2 BBKKS).,64,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,6,top,Graveline out at first 1b to 3b (1-1 BS).,65,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,6,top,Pettorini grounded out to 1b unassisted (2-0 BB).,66,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,6,top,Eckelman singled to right field (1-1 KB).,67,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,6,top,Miller struck out swinging (1-2 SSFFBS).,68,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,6,bot,"KUCHERAK homered, RBI (0-1 K).",69,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,6,bot,KUCHERAK to ss for KAPLAN.,70,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,6,bot,KAPLAN pinch hit for FREEMAN.,71,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,6,bot,KAPLAN pinch hit for KUCHERAK.,72,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,6,bot,KAPLAN walked (3-2 BKBBFFB).,73,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,6,bot,KUCHERAK to ss for KAPLAN.,74,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,6,bot,MILLS pinch hit for LAUSCH.,75,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,6,bot,MILLS flied out to cf (1-2 KKB).,76,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,6,bot,MARKINSON singled to left center (0-2 KF)3a KAPLAN advanced to second.,77,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596636,6,bot,HAND grounded into double play ss to 1b (0-0)3a MARKINSON out on the play.,78,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,7,top,KAPLAN to rf.,79,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,7,top,MILLS to cf.,80,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,7,top,Simpson walked (3-2 KBFBBB).,81,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,7,top,Giamarusti flied out to rf (0-2 KK).,82,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,7,top,READEY to p for MACMILLAN.,83,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,7,top,"Carpenter, W singled to left field (1-2 KFB)3a Simpson advanced to second.",84,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,7,top,Mineo struck out swinging (1-2 BKKS).,85,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025
+6311198,596639,Ohio St. Buckeyes,596636,Northwestern Wildcats,596639,7,top,Lipsey flied out to lf (0-0).,86,2025-05-11T00:00:00-04:00,"Rocky Miller Park (Evanston, IL)",340,MBA,2025

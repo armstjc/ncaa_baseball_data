@@ -1,0 +1,72 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,1,top,N. Anderson singled up the middle (0-0).,1,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,1,top,C. Cole struck out swinging (1-2 BFFFS).,2,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,1,top,D. Cash struck out looking (2-2 FBBKK).,3,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,1,top,N. Anderson stole second.,4,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,1,top,C. Suto struck out swinging (0-2 KSS).,5,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,1,bot,"GRADY, K. grounded out to 3b (1-1 BK).",6,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,1,bot,"JAY, G. hit by pitch (0-2 KF).",7,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,1,bot,"HUMPHREYS, N walked (3-1 BKBBB)3a JAY, G. advanced to second.",8,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,1,bot,"KRAUSS, C. flied out to lf (1-2 KBK).",9,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,1,bot,"JAY, G. out at second p to ss, picked off.",10,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,2,top,J. Chirello flied out to cf (1-2 BKSF).,11,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,2,top,"W. Alig reached on a fielding error by rf, out at second rf to ss (0-2 SS).",12,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,2,top,H. Mimbs struck out swinging (2-2 FKFFFBBS).,13,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,2,bot,"TRYON, B. grounded out to 2b (2-2 KSBFB).",14,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,2,bot,"DATTALO, M. hit by pitch (0-0).",15,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,2,bot,"NERAT, J. reached on a fielding error by 1b (1-1 KB)3a DATTALO, M. advanced to second.",16,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,2,bot,"BERGHULT, A. hit by pitch (0-0)3a NERAT, J. advanced to second3a DATTALO, M. advanced to third.",17,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,2,bot,"GREBECK, C. singled to right field, RBI (1-1 FB)3a BERGHULT, A. advanced to second3a NERAT, J. advanced to third3a DATTALO, M. scored, unearned.",18,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,2,bot,D. Powell to p for S. Pinson.,19,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,2,bot,"GRADY, K. popped up to 2b (1-2 FFB).",20,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,2,bot,"JAY, G. singled to center field, 2 RBI (1-0 B)3a GREBECK, C. advanced to third3a BERGHULT, A. scored, unearned3a NERAT, J. scored, unearned.",21,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,2,bot,"JAY, G. stole second.",22,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,2,bot,"HUMPHREYS, N walked (3-2 BSBSBB).",23,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,2,bot,"KRAUSS, C. doubled to left field, 3 RBI (0-2 FFF)3a HUMPHREYS, N scored, unearned3a JAY, G. scored, unearned3a GREBECK, C. scored, unearned.",24,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,2,bot,"TRYON, B. singled up the middle, RBI (1-1 KB)3a KRAUSS, C. scored, unearned.",25,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,2,bot,"TRYON, B. stole second, advanced to third on a throwing error by c.",26,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,2,bot,"DATTALO, M. singled to right field, RBI (3-1 KBBB)3a TRYON, B. scored, unearned.",27,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,2,bot,"NERAT, J. reached on a fielder's choice (1-2 KBK)3a DATTALO, M. advanced to second on a fielding error by 2b.",28,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,2,bot,"NERAT, J. advanced to second on a passed ball3a DATTALO, M. advanced to third.",29,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,2,bot,"BERGHULT, A. popped up to ss (1-1 BS).",30,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,3,top,A. Posey struck out looking (1-2 SKBK).,31,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,3,top,S. Mcduffie singled to second base (2-0 BB).,32,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,3,top,N. Anderson reached on a fielder's choice (1-1 BK)3a S. Mcduffie out at second 3b to ss.,33,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,3,top,C. Cole reached on a fielder's choice (1-0 B)3a N. Anderson out at second 2b unassisted.,34,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,3,bot,"GREBECK, C. popped up to 2b (1-2 KFB).",35,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,3,bot,"GRADY, K. popped up to 3b (1-2 BKS).",36,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,3,bot,"JAY, G. fouled out to 1b (0-0).",37,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,4,top,D. Cash walked (3-1 SBBBB).,38,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,4,top,C. Suto struck out swinging (0-2 KSS).,39,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,4,top,J. Chirello struck out looking (0-2 KSK).,40,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,4,top,W. Alig reached on a fielder's choice (2-2 FBBK)3a D. Cash out at second ss to 2b.,41,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,4,bot,"HUMPHREYS, N fouled out to 1b (1-1 KB).",42,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,4,bot,"KRAUSS, C. struck out swinging (2-2 SBFBS).",43,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,4,bot,"TRYON, B. grounded out to 2b (0-1 K).",44,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,5,top,"WATT, L. to p for PETERS, M..",45,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,5,top,H. Mimbs flied out to rf (1-1 KB).,46,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,5,top,A. Posey struck out swinging (1-2 KSBS).,47,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,5,top,S. Mcduffie struck out swinging (0-2 KKS).,48,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,5,bot,"DATTALO, M. flied out to cf (0-1 K).",49,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,5,bot,"NERAT, J. singled to right field (1-2 KSFB).",50,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,5,bot,"NERAT, J. stole second.",51,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,5,bot,"BERGHULT, A. flied out to cf (2-1 FBB)3a NERAT, J. advanced to third.",52,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,5,bot,"GREBECK, C. grounded out to ss (3-1 BBFB).",53,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,6,top,N. Anderson grounded out to ss (3-1 BBSB).,54,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,6,top,C. Cole lined out to lf (1-1 BK).,55,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,6,top,D. Cash walked (3-0 BBBB).,56,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,6,top,C. Suto flied out to cf (0-1 K).,57,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,6,bot,R. Renfroe to p for D. Powell.,58,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,6,bot,"GRADY, K. grounded out to ss (2-2 KKBBF).",59,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,6,bot,"JAY, G. walked (3-2 BBFBSB).",60,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,6,bot,"HUMPHREYS, N reached on a fielder's choice (0-0)3a JAY, G. advanced to second on a throwing error by p, advanced to third.",61,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,6,bot,"KRAUSS, C. flied out to rf, SF, RBI (0-0)3a JAY, G. scored, unearned.",62,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,6,bot,"HUMPHREYS, N stole second.",63,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,6,bot,"TRYON, B. walked (3-2 BBBKKB).",64,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,6,bot,"DATTALO, M. walked (3-0 BBBB)3a TRYON, B. advanced to second3a HUMPHREYS, N advanced to third.",65,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,6,bot,H. Hardy to p for R. Renfroe.,66,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,6,bot,"NERAT, J. singled through the right side, 2 RBI (0-0)3a DATTALO, M. advanced to third3a TRYON, B. scored, unearned3a HUMPHREYS, N scored, unearned.",67,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596703,6,bot,"BERGHULT, A. grounded out to 3b (1-2 FKB).",68,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,7,top,J. Chirello grounded out to ss (1-1 SB).,69,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,7,top,W. Alig grounded out to 2b (2-1 BBF).,70,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
+6304361,596463,Kennesaw St. Owls,596703,DBU Patriots,596463,7,top,H. Mimbs grounded out to 3b (3-2 BFBKB).,71,2025-05-11T00:00:00-04:00,"Horner Ballpark (Dallas, TX)",967,MBA,2025
