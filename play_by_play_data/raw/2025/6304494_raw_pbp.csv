@@ -1,0 +1,79 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,1,top,Davis out at first 1b to p (0-0).,1,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,1,top,Allen struck out swinging (3-2 BKBBKK).,2,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,1,top,Barton walked (3-2 KFBBBB).,3,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,1,top,Sprockett struck out swinging (2-2 FKBBS).,4,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,1,bot,NOWAK grounded out to 2b (2-2 KBSB).,5,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,1,bot,SMITH walked (3-1 BBBKB).,6,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,1,bot,CURRY struck out swinging (1-2 FBKFS).,7,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,1,bot,BESSETTE singled to center field (1-0 B)3a SMITH advanced to third.,8,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,1,bot,HUSKO grounded out to 2b (0-1 K).,9,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,2,top,Godsey flied out to rf (0-0).,10,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,2,top,Lareau struck out swinging (3-2 KBSBBS).,11,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,2,top,Daniel struck out swinging (1-2 KKBS).,12,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,2,bot,HARRIS walked (3-1 BBBKB).,13,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,2,bot,"THOMPSON-ALL singled, bunt (2-2 KFBB)3a HARRIS advanced to second.",14,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,2,bot,"TAYLOR singled through the left side, RBI (1-1 BK)3a THOMPSON-ALL advanced to second3a HARRIS scored.",15,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,2,bot,"COLON out at first 1b to 2b, SAC, bunt (2-2 BKBF)3a TAYLOR advanced to second3a THOMPSON-ALL advanced to third.",16,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,2,bot,"NOWAK lined out to rf, SAC, RBI (1-0 B)3a THOMPSON-ALL scored.",17,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,2,bot,TAYLOR stole third.,18,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,2,bot,SMITH grounded out to ss.,19,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,3,top,Maddox singled to right field (1-1 KB).,20,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,3,top,"Spoto grounded out to 3b, SAC, bunt3a Maddox advanced to second.",21,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,3,top,Davis grounded out to 2b (3-2 KBFBBFFFFF)3a Maddox advanced to third.,22,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,3,top,"Allen doubled to left center, RBI3a Maddox scored.",23,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,3,top,Barton grounded out to ss (1-1 FB).,24,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,3,bot,CURRY doubled to left center (1-0 B).,25,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,3,bot,"BESSETTE doubled to right center, RBI (2-1 BBK)3a CURRY scored.",26,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,3,bot,"HUSKO singled, bunt (0-0)3a BESSETTE advanced to third.",27,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,3,bot,"HUSKO out at second c to 2b, caught stealing.",28,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,3,bot,HARRIS reached on a fielder's choice (1-2 FFB)3a BESSETTE out at third 3b unassisted.,29,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,3,bot,THOMPSON-ALL flied out to cf (1-0 B).,30,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,4,top,Sprockett grounded out to 1b unassisted (1-2 BFS).,31,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,4,top,"Godsey homered to left field, RBI (2-1 FBB).",32,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,4,top,Lareau grounded out to 2b (2-2 KBSB).,33,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,4,top,Daniel grounded out to ss (0-0).,34,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,4,bot,Perry to p for Ruzicka.,35,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,4,bot,TAYLOR flied out to rf (3-2 BBFKFFB).,36,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,4,bot,COLON walked (3-2 BBKFFFBB).,37,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,4,bot,NOWAK singled through the right side (3-1 BKBB)3a COLON advanced to third.,38,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,4,bot,NOWAK stole second.,39,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,4,bot,"SMITH flied out to rf, SAC, RBI (2-2 BFSFFB)3a NOWAK advanced to third3a COLON scored.",40,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,4,bot,CURRY grounded out to ss (0-1 K).,41,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,5,top,Maddox struck out swinging (2-2 SSBFBS).,42,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,5,top,Spoto struck out swinging (1-2 FKBS).,43,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,5,top,Davis singled up the middle (1-1 BS).,44,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,5,top,Allen singled through the right side (2-0 BB)3a Davis advanced to third.,45,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,5,top,Barton flied out to cf.,46,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,5,bot,BESSETTE singled (1-2 FBS).,47,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,5,bot,HUSKO singled to center field (3-2 KBKFBFBFF)3a BESSETTE advanced to third.,48,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,5,bot,"HARRIS flied out to cf, SAC, RBI (1-1 BS)3a BESSETTE scored.",49,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,5,bot,THOMPSON-ALL struck out swinging (0-2 SFS).,50,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,5,bot,"TAYLOR homered to left field, 2 RBI (1-1 FB)3a HUSKO scored.",51,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,5,bot,COLON struck out looking (1-2 BFKFFK).,52,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,6,top,Sprockett popped up to 1b (1-2 KBF).,53,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,6,top,Godsey grounded out to 3b (0-1 K).,54,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,6,top,Lareau singled to left field.,55,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,6,top,Daniel singled up the middle (2-2 BKKFB)3a Lareau advanced to second.,56,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,6,top,"Maddox singled through the left side, RBI3a Daniel advanced to second, out at second lf to c to ss3a Lareau scored.",57,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,6,bot,Gandhi to p for Perry.,58,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,6,bot,NOWAK reached on a fielding error by p (0-2 KKF).,59,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,6,bot,"SMITH doubled down the lf line, RBI3a NOWAK scored, unearned.",60,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,6,bot,CURRY singled to center field (2-2 KBFB)3a SMITH advanced to third.,61,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,6,bot,CURRY stole second3a SMITH scored.,62,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,6,bot,BESSETTE struck out swinging (3-2 BKBFBS).,63,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,6,bot,HUSKO hit by pitch (1-1 KB).,64,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,6,bot,HARRIS singled to shortstop (1-2 BKF)3a HUSKO advanced to second3a CURRY advanced to third.,65,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,6,bot,"THOMPSON-ALL singled, out at first lf to 1b, RBI (3-1 BBBK)3a HARRIS advanced to second, out at second cf to ss3a HUSKO advanced to third3a CURRY scored.",66,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,7,top,Spoto grounded out to 2b (1-0 B).,67,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,7,top,VITELLARO to p for EGAN.,68,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,7,top,Davis hit by pitch (1-1 FB).,69,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596470,7,top,Allen hit into double play ss to 2b to 1b (2-2 BFBK)3a Davis out on the play.,70,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,7,bot,Van Ness to p for Gandhi.,71,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,7,bot,"TAYLOR doubled down the rf line, advanced to third on an error by rf (2-2 KBFB).",72,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,7,bot,COLON struck out swinging (1-2 FFBS).,73,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,7,bot,"NOWAK doubled down the rf line, RBI (3-1 BBBK)3a TAYLOR scored.",74,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,7,bot,SMITH out at first 1b to p (2-0 BB)3a NOWAK advanced to third.,75,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,7,bot,"CURRY singled to left center, RBI3a NOWAK scored.",76,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,7,bot,BESSETTE singled through the left side (2-2 SBBK)3a CURRY advanced to second.,77,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025
+6304494,596470,Belmont Bruins,596564,UIC Flames,596564,7,bot,"HUSKO singled down the rf line, RBI (1-0 B)3a BESSETTE advanced to third3a CURRY scored.",78,2025-05-15T00:00:00-04:00,"Curtis Granderson Stadium (Chicago, IL)",112,MBA,2025

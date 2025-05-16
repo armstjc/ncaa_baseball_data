@@ -1,0 +1,78 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,1,top,No play.,1,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,1,top,Bobo flied out to cf (0-0).,2,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,1,top,Scott flied out to rf (1-2).,3,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,1,top,Waldon grounded out to ss (0-0).,4,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,1,bot,"GUREVITCH, J popped up to ss (1-2).",5,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,1,bot,"LANE, I singled to second base (2-2).",6,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,1,bot,"SMITH, A singled to center field (2-1); LANE, I advanced to third.",7,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,1,bot,"LOBLINER, J doubled to right center, 2 RBI (1-0); SMITH, A scored; LANE, I scored.",8,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,1,bot,"WATSON, R singled to left center, advanced to third on a fielding error by lf (0-0); LOBLINER, J advanced to third, scored on the error.",9,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,1,bot,"BELTRE, AJ flied out to cf, SF, RBI (0-1); WATSON, R scored, unearned.",10,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,1,bot,"FITZ, J singled to second base (3-2).",11,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,1,bot,"HOWARD, A flied out to cf (1-1).",12,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,2,top,Bicknell lined out to lf (1-1).,13,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,2,top,Schnabel struck out swinging (1-2).,14,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,2,top,McClellin grounded out to 2b (2-2).,15,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,2,bot,Nino to p for Souza.,16,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,2,bot,"MEIDROTH, C flied out to cf to right center (1-2).",17,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,2,bot,"GUREVITCH, J singled up the middle (1-0).",18,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,2,bot,"GUREVITCH, J out at second c to 2b, caught stealing.",19,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,2,bot,"LANE, I walked (3-2).",20,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,2,bot,"SMITH, A singled to right field (1-1); LANE, I advanced to third.",21,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,2,bot,"LOBLINER, J singled to shortstop, RBI (1-1); SMITH, A advanced to second; LANE, I scored.",22,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,2,bot,"WATSON, R walked (3-2); LOBLINER, J advanced to second; SMITH, A advanced to third.",23,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,2,bot,"BELTRE, AJ singled to right field, 2 RBI (0-2); WATSON, R advanced to third; LOBLINER, J scored; SMITH, A scored.",24,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,2,bot,Pacific challenged play at the plate to score the run - Confirmed lost chal.,25,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,2,bot,"FITZ, J flied out to rf (0-1).",26,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,3,top,Tandy struck out looking (0-2).,27,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,3,top,Sloan struck out swinging (2-2).,28,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,3,top,Brown singled to center field (3-2).,29,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,3,top,Bobo flied out to cf to right center (1-2).,30,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,3,bot,Cruz to p for Nino.,31,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,3,bot,"HOWARD, A singled up the middle (3-2).",32,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,3,bot,"HOWARD, A stole second.",33,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,3,bot,"MEIDROTH, C popped up to 2b (2-0).",34,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,3,bot,"GUREVITCH, J walked (3-0).",35,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,3,bot,"LANE, I reached on a fielder's choice (0-1); GUREVITCH, J out at second 1b to ss; HOWARD, A advanced to third.",36,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,3,bot,"SMITH, A singled to right field, RBI (0-1); LANE, I advanced to second; HOWARD, A scored.",37,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,3,bot,"LOBLINER, J struck out swinging (1-2).",38,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,4,top,Scott lined out to 3b (1-0).,39,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,4,top,Waldon grounded out to ss (1-2).,40,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,4,top,Bicknell popped up to 1b (0-0).,41,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,4,bot,Iglesias to p for Cruz.,42,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,4,bot,"WATSON, R singled through the right side (0-0).",43,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,4,bot,"BELTRE, AJ walked (3-1); WATSON, R advanced to second.",44,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,4,bot,"FITZ, J flied out to rf (0-2).",45,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,4,bot,"HOWARD, A popped up to cf (0-0).",46,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,4,bot,"MEIDROTH, C walked (3-2); BELTRE, AJ advanced to second; WATSON, R advanced to third.",47,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,4,bot,"GUREVITCH, J popped up to lf (1-2).",48,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,5,top,Schnabel struck out swinging (3-2).,49,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,5,top,McClellin flied out to cf (0-2).,50,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,5,top,Tandy grounded out to ss (0-0).,51,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,5,bot,McKinney to p for Iglesias.,52,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,5,bot,"LANE, I homered to center field, RBI (1-0).",53,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,5,bot,"SMITH, A doubled to right center (1-1).",54,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,5,bot,"LOBLINER, J singled to left field, advanced to third on a fielding error by lf, RBI (2-1); SMITH, A scored.",55,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,5,bot,"WATSON, R popped up to ss (1-0).",56,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,5,bot,"BELTRE, AJ singled to third base, RBI (1-1); LOBLINER, J scored, unearned.",57,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,5,bot,"FITZ, J struck out swinging (3-2).",58,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,5,bot,"HOWARD, A flied out to lf.",59,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,6,top,Sloan popped up to lf (3-2).,60,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,6,top,Brown struck out swinging (2-2).,61,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,6,top,Bobo struck out swinging (3-2).,62,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,6,bot,Moll to p for McKinney.,63,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,6,bot,"MEIDROTH, C flied out to rf (3-2).",64,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,6,bot,"GUREVITCH, J hit by pitch (3-2).",65,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,6,bot,"LANE, I homered to left center, 2 RBI (0-0); GUREVITCH, J scored.",66,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,6,bot,"SMITH, A fouled out to 1b (1-1).",67,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,6,bot,"LOBLINER, J hit by pitch (2-1).",68,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596670,6,bot,"WATSON, R grounded out to p (0-1).",69,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,7,top,"GONZALEZ, A to p for SCOLARI, C.",70,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,7,top,Scott walked (3-2).,71,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,7,top,Waldon walked (3-1); Scott advanced to second.,72,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,7,top,Bicknell reached on a fielder's choice (1-2); Waldon out at second ss to 2b; Scott advanced to third.,73,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,7,top,Schnabel walked (3-0); Bicknell advanced to second.,74,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,7,top,McClellin struck out looking (0-2).,75,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,7,top,"Tandy walked, RBI (3-2); Schnabel advanced to second; Bicknell advanced to third; Scott scored.",76,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025
+6304489,596645,Pacific Tigers,596670,San Diego Toreros,596645,7,top,Sloan flied out to cf (1-2).,77,2025-05-15T00:00:00-04:00,"Fowler Park (San Diego, CA)",412,MBA,2025

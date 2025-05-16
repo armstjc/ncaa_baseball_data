@@ -1,0 +1,93 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,1,top,"CANON, C singled up the middle (0-0).",1,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,1,top,"CANON, C out at second c to 2b, caught stealing.",2,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,1,top,"PUTNAM, E homered to left center, RBI (1-2).",3,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,1,top,"TORRESO, A homered to left field, RBI (0-0).",4,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,1,top,O'SHAUGHNESS fouled out to ss (2-2).,5,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,1,top,"JOURAS, N walked (3-2).",6,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,1,top,"COTRONE, J singled to left field3a JOURAS, N advanced to second.",7,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,1,top,"SCHUCHART, C singled up the middle, RBI3a COTRONE, J advanced to third3a JOURAS, N scored.",8,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,1,top,"SCHUCHART, C stole second.",9,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,1,top,"RICE, A struck out looking (3-2).",10,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,1,bot,"Whitley, A hit by pitch (0-2).",11,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,1,bot,"Whitley, A stole second.",12,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,1,bot,"Jaffe, J doubled down the rf line, RBI (3-1)3a Whitley, A scored.",13,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,1,bot,"Bernstein, P grounded out to 2b3a Jaffe, J advanced to third.",14,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,1,bot,"Arcamone, J struck out swinging, out at first c to 1b (2-2).",15,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,1,bot,"O'Brien, B doubled to center field, RBI (2-2)3a Jaffe, J scored.",16,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,1,bot,"Elko, M singled through the right side, RBI (3-2)3a O'Brien, B scored.",17,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,1,bot,"Pacheco, DJ grounded out to 3b.",18,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,2,top,"WOODALL, JD singled up the middle (2-2).",19,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,2,top,"Gruber, C to p for Hinchliffe.",20,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,2,top,"CANON, C walked (3-1)3a WOODALL, JD advanced to second.",21,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,2,top,"PUTNAM, E struck out looking (1-2).",22,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,2,top,"TORRESO, A singled to left field, RBI (1-2)3a CANON, C advanced to second3a WOODALL, JD scored.",23,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,2,top,"O'SHAUGHNESS hit by pitch (0-2)3a TORRESO, A advanced to second3a CANON, C advanced to third.",24,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,2,top,"JOURAS, N struck out looking (0-2).",25,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,2,top,"COTRONE, J struck out looking (2-2).",26,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,2,bot,"Wilga, J singled to right field (1-2).",27,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,2,bot,"Larson, C singled to third base, out at second 1b to ss (1-0)3a Wilga, J advanced to third.",28,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,2,bot,"Whitley, A flied out to cf, SF, RBI (1-1)3a Wilga, J scored.",29,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,2,bot,"Jaffe, J struck out looking (3-2).",30,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,3,top,"SCHUCHART, C flied out to cf (0-1).",31,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,3,top,"RICE, A popped up to 3b (3-2).",32,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,3,top,"WOODALL, JD popped up to 2b (2-2).",33,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,3,bot,"Bernstein, P grounded out to 1b unassisted (0-1).",34,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,3,bot,"Arcamone, J homered to right field, RBI (2-0).",35,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,3,bot,"O'Brien, B lined out to cf (3-2).",36,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,3,bot,"Elko, M walked (3-2).",37,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,3,bot,"Pacheco, DJ homered to left center, 2 RBI (1-0)3a Elko, M scored.",38,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,3,bot,"Wilga, J fouled out to 1b (1-1).",39,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,4,top,"CANON, C doubled to left field (0-0).",40,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,4,top,"PUTNAM, E homered to left center, 2 RBI (0-1)3a CANON, C scored.",41,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,4,top,"TORRESO, A flied out to cf.",42,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,4,top,O'SHAUGHNESS doubled to right center (2-2).,43,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,4,top,"JOURAS, N doubled down the lf line, RBI (1-0)3a O'SHAUGHNESS scored.",44,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,4,top,"COTRONE, J homered to center field, 2 RBI (0-1)3a JOURAS, N scored.",45,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,4,top,"SCHUCHART, C fouled out to 1b (2-2).",46,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,4,top,"Shockley, J to p for Gruber, C.",47,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,4,top,"RICE, A grounded out to 3b (2-1).",48,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,4,bot,"WEBER, M to p for PERKINS, W.",49,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,4,bot,"Larson, C fouled out to 1b (0-1).",50,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,4,bot,"Whitley, A flied out to rf (3-2).",51,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,4,bot,"Jaffe, J flied out to rf (0-0).",52,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,5,top,"WOODALL, JD struck out swinging (0-2).",53,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,5,top,"CANON, C struck out swinging (3-2).",54,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,5,top,"PUTNAM, E doubled down the lf line (0-0).",55,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,5,top,"PUTNAM, E advanced to third on a wild pitch.",56,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,5,top,"TORRESO, A grounded out to 3b (2-2).",57,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,5,bot,"Bernstein, P flied out to cf (0-1).",58,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,5,bot,"Arcamone, J fouled out to 3b (3-2).",59,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,5,bot,"O'Brien, B struck out swinging (2-2).",60,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,6,top,O'SHAUGHNESS hit by pitch (1-1).,61,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,6,top,"JOURAS, N struck out looking (3-2).",62,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,6,top,"COTRONE, J grounded into double play 3b to 2b to 1b (0-1)3a O'SHAUGHNESS out on the play.",63,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,6,bot,"Elko, M flied out to lf (0-1).",64,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,6,bot,"Pacheco, DJ struck out swinging (0-2).",65,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,6,bot,"Wilga, J grounded out to p (0-2).",66,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,7,top,"Reinke, B to p for Shockley, J.",67,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,7,top,"SCHUCHART, C struck out swinging (0-2).",68,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,7,top,"RICE, A struck out swinging (0-2).",69,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,7,top,"WOODALL, JD grounded out to c (2-1).",70,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,7,bot,"Larson, C walked (3-2).",71,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,7,bot,"Whitley, A fouled out to c (0-0).",72,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,7,bot,"Jaffe, J lined into double play 2b to 1b (0-2)3a Larson, C out on the play.",73,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,8,top,"CANON, C doubled down the lf line (2-1).",74,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,8,top,"PUTNAM, E intentionally walked (0-0).",75,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,8,top,"TORRESO, A struck out swinging (2-2).",76,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,8,top,"O'SHAUGHNESS singled through the right side, RBI3a PUTNAM, E advanced to second3a CANON, C scored.",77,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,8,top,"JOURAS, N hit by pitch (0-2)3a O'SHAUGHNESS advanced to second3a PUTNAM, E advanced to third.",78,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,8,top,"COTRONE, J infield fly to 1b (3-2).",79,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,8,top,"Bilka, R to p for Reinke, B.",80,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,8,top,"SCHUCHART, C flied out to rf.",81,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,8,bot,"Bernstein, P flied out to lf (0-0).",82,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,8,bot,"Arcamone, J flied out to cf (3-2).",83,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,8,bot,"O'Brien, B grounded out to 1b unassisted (2-1).",84,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,9,top,"KATZ, A pinch hit for RICE, A.",85,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,9,top,"KATZ, A struck out swinging (3-2).",86,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,9,top,"WOODALL, JD struck out swinging (3-2).",87,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596531,9,top,"CANON, C grounded out to ss (3-2).",88,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,9,bot,"DALY, J to cf for KATZ, A.",89,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,9,bot,"Elko, M struck out swinging (0-2).",90,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,9,bot,"Pacheco, DJ popped up to 3b (0-1).",91,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
+6304463,596531,Davidson Wildcats,596658,Richmond Spiders,596658,9,bot,"Wilga, J popped up to ss (2-2).",92,2025-05-15T00:00:00-04:00,"Pitt Field (Richmond, VA)",335,MBA,2025
