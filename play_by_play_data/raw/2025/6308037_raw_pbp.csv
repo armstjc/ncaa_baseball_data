@@ -1,0 +1,87 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,1,top,"HARVEY,J. singled to third base (2-2 KBFB).",1,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,1,top,"YAMAGUCHI,S. struck out swinging (0-2 KSS).",2,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,1,top,"DOBIE,J. struck out swinging (3-2 KBBKFFBFS).",3,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,1,top,"BALL,M. struck out swinging (3-2 BBFBSFS).",4,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,1,bot,Fernandes walked (3-2 BKBBKFB).,5,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,1,bot,Caballero struck out swinging (0-2 FFS).,6,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,1,bot,Chamizo grounded into double play 2b to ss to 1b (0-2 FF); Fernandes out on the play.,7,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,2,top,"HAM,B. struck out swinging, out at first c to 1b (1-2 KBSFS).",8,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,2,top,"WALLER,J. flied out to cf (1-0 B).",9,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,2,top,"HOLDER,T. struck out swinging (2-2 BKBFS).",10,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,2,bot,McCoy singled to first base (0-2 FK).,11,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,2,bot,"Lewis, Je. popped up to ss (2-1 FBB).",12,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,2,bot,"Tallerman homered to left field, 2 RBI (0-0); McCoy scored.",13,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,2,bot,Jansen walked (3-0 BBBB).,14,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,2,bot,Nanez popped up to 2b (0-0).,15,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,2,bot,"Maroney singled to right field (0-0); Jansen advanced to second, out at third rf to 3b.",16,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,3,top,"DOYLE,J. singled to left field (1-1 BF).",17,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,3,top,"METCHO,J. singled to right center (0-0); DOYLE,J. advanced to third.",18,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,3,top,"HARVEY,J. flied out to cf, SF, RBI (1-2 KFBF); DOYLE,J. scored.",19,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,3,top,"YAMAGUCHI,S. reached on a fielder's choice (0-1 K); METCHO,J. advanced to second on a throwing error by 2b.",20,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,3,top,"DOBIE,J. popped up to 2b (1-1 KB).",21,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,3,top,"BALL,M. singled to center field, RBI (0-0); YAMAGUCHI,S. advanced to second; METCHO,J. scored, unearned.",22,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,3,top,"HAM,B. struck out looking (0-2 KFK).",23,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,3,bot,Fernandes flied out to cf (1-0 B).,24,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,3,bot,Caballero grounded out to ss (2-2 FBBF).,25,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,3,bot,Chamizo grounded out to 2b (1-0 B).,26,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,4,top,"WALLER,J. struck out swinging, out at first c to 1b (1-2 BKKS).",27,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,4,top,"HOLDER,T. grounded out to ss (0-0).",28,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,4,top,"DOYLE,J. grounded out to 1b unassisted, interference (0-0).",29,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,4,bot,"McCoy homered to left field, RBI (0-2 FF).",30,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,4,bot,"Lewis, Je. struck out swinging (2-2 KBFBFS).",31,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,4,bot,Tallerman flied out to cf (0-2 KF).,32,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,4,bot,Jansen fouled out to c (0-0).,33,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,5,top,"METCHO,J. popped up to 2b (3-2 SBKBB).",34,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,5,top,"HARVEY,J. singled through the left side (0-2 SK).",35,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,5,top,"YAMAGUCHI,S. grounded into double play 3b to 2b to 1b (0-1 K); HARVEY,J. out on the play.",36,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,5,bot,Nanez walked (3-0 BBBB).,37,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,5,bot,"Maroney out at first p to 2b, SAC, bunt (0-1 F); Nanez advanced to second.",38,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,5,bot,"Fernandes singled to center field, RBI (2-2 BKFB); Nanez scored.",39,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,5,bot,Caballero flied out to lf (0-0).,40,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,5,bot,"Chamizo tripled down the rf line, RBI (0-1 F); Fernandes scored.",41,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,5,bot,"McCoy doubled to left field, RBI (0-0); Chamizo scored.",42,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,5,bot,"VALDEZ,E. to p for BURFIELD,C..",43,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,5,bot,McCoy advanced to third on a wild pitch.,44,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,5,bot,"Lewis, Je. homered to right field, 2 RBI (1-1 KB); McCoy scored.",45,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,5,bot,Tallerman singled to left field (0-1 K).,46,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,5,bot,Jansen doubled to right field (2-2 BKBS); Tallerman advanced to third.,47,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,5,bot,Nanez walked (3-2 FBFFBBB).,48,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,5,bot,"Maroney walked, RBI (3-0 BBBB); Nanez advanced to second; Jansen advanced to third; Tallerman scored.",49,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,5,bot,Fernandes flied out to lf (0-2 KF).,50,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,6,top,"DOBIE,J. lined out to cf (1-0 B).",51,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,6,top,"BALL,M. flied out to cf (1-0 B).",52,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,6,top,"HAM,B. flied out to rf (2-2 BKBS).",53,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,6,bot,"KOTTINGER,C. to p for VALDEZ,E..",54,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,6,bot,Caballero grounded out to ss (0-0).,55,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,6,bot,Chamizo singled to center field (2-1 SBB).,56,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,6,bot,McCoy flied out to rf (0-2 FK).,57,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,6,bot,"Lewis, Je. singled through the left side (2-0 BB); Chamizo advanced to second.",58,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,6,bot,Tallerman struck out swinging (3-2 KFBBBS).,59,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,7,top,"WALLER,J. doubled to left field (0-0).",60,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,7,top,"HOLDER,T. fouled out to 1b (0-2 KK).",61,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,7,top,"DOYLE,J. flied out to cf (1-0 B).",62,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,7,top,"METCHO,J. flied out to rf (0-2 SS).",63,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,7,bot,"OAKES,R. to p for KOTTINGER,C..",64,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,7,bot,Jansen struck out looking (3-2 KBKBBK).,65,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,7,bot,Nanez reached on a fielding error by ss (1-0 B).,66,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,7,bot,Nanez stole second.,67,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,7,bot,Maroney fouled out to 1b (1-2 BSS).,68,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,7,bot,"Fernandes singled through the left side, RBI (2-2 KBBK); Nanez scored, unearned.",69,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,7,bot,Caballero grounded out to 2b (2-2 BBSFFF).,70,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,8,top,"HARVEY,J. popped up to ss (3-2 BBKBK).",71,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,8,top,"YAMAGUCHI,S. flied out to rf (0-0).",72,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,8,top,"DOBIE,J. doubled to left field (2-1 BKB).",73,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,8,top,"BALL,M. grounded out to 2b (0-2 KK).",74,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,8,bot,"O'NEAL,E. to p for OAKES,R..",75,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,8,bot,Chamizo grounded out to 2b (3-2 KBBSB).,76,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,8,bot,McCoy hit by pitch (2-0 BB).,77,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596672,8,bot,"Lewis, Je. grounded into double play 1b to ss (0-1 K); McCoy out on the play.",78,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,9,top,Albanese to p for Calzadiaz.,79,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,9,top,"RATFIELD,D. pinch hit for HAM,B..",80,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,9,top,"RATFIELD,D. grounded out to ss (1-2 KFB).",81,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,9,top,"AVILA,A. pinch hit for WALLER,J..",82,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,9,top,"AVILA,A. walked (3-2 BKBFBB).",83,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,9,top,"SNAKENBORG pinch hit for HOLDER,T..",84,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,9,top,SNAKENBORG struck out looking (2-2 SBFBK).,85,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025
+6308037,596620,Nevada Wolf Pack,596672,San Jose St. Spartans,596620,9,top,"DOYLE,J. struck out looking (3-2 BFBBSK).",86,2025-05-17T00:00:00-04:00,"Excite Ballpark (San Jose, CA)",573,MBA,2025

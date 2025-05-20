@@ -1,0 +1,97 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,1,top,"Burress, B. struck out looking (2-2 SBBFK).",1,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,1,top,"Williams, D. walked (3-2 BBSFBFB).",2,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,1,top,"Williams, D. stole second.",3,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,1,top,"Herring, J. flied out to cf (0-1 S).",4,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,1,top,"Irby, A. grounded out to ss (3-0 BBB).",5,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,1,bot,"JACOME, C. reached on a throwing error by ss, advanced to second (2-2 KSBB).",6,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,1,bot,"PRUITT, R. flied out to lf (1-1 BF).",7,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,1,bot,"ROSE, M. grounded out to ss (3-1 BBBK).",8,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,1,bot,"BRODIL, M. singled up the middle, RBI (1-0 B)3a JACOME, C. scored, unearned.",9,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,1,bot,"MURPHY, C. struck out swinging (0-2 FFS).",10,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,2,top,"Wallace, C. struck out swinging (2-2 BFBFS).",11,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,2,top,"Whitaker, D. grounded out to 1b unassisted (2-0 BB).",12,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,2,top,"Collins, J. flied out to cf (3-2 SBFBB).",13,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,2,bot,"BETANCOURT,R reached on a fielding error by 3b (0-1 F).",14,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,2,bot,"LOHRY, B. popped up to 1b (0-1 K).",15,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,2,bot,"MAYO, J. fouled out to 3b (1-1 BS).",16,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,2,bot,"BUFFINGTON,M singled to left field (2-2 BSBF)3a BETANCOURT,R advanced to second.",17,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,2,bot,"JACOME, C. reached on a fielder's choice (0-2 KK)3a BUFFINGTON,M out at second 2b unassisted.",18,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,3,top,"Kalinich, M. flied out to cf (0-0).",19,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,3,top,"Downs, D. pinch hit for Bouche, A..",20,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,3,top,"Downs, D. reached on a fielding error by 1b (1-1 BK).",21,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,3,top,"Burress, B. reached on a fielder's choice (1-1 BK)3a Downs, D. out at second ss to 2b.",22,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,3,top,"Williams, D. lined out to 2b (1-0 B).",23,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,3,bot,"Burress, B. to 2b.",24,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,3,bot,"Williams, D. to ss.",25,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,3,bot,"Downs, D. to cf.",26,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,3,bot,"PRUITT, R. grounded out to ss (2-1 BSB).",27,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,3,bot,"ROSE, M. grounded out to p (1-1 BK).",28,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,3,bot,"BRODIL, M. struck out looking (0-2 KSK).",29,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,4,top,"Herring, J. grounded out to 2b (2-1 BBK).",30,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,4,top,"Irby, A. grounded out to 2b (1-0 B).",31,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,4,top,"BROWN, M. to p for KLING, C..",32,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,4,top,"Wallace, C. flied out to cf (0-1 K).",33,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,4,bot,"MURPHY, C. walked (3-2 BFBBSB).",34,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,4,bot,"BETANCOURT,R grounded out to p, SAC, bunt (0-1 F)3a MURPHY, C. advanced to second.",35,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,4,bot,"LOHRY, B. doubled to left center, RBI (3-1 BBBK)3a MURPHY, C. scored.",36,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,4,bot,"Dilorenzo to p for Zayac, B..",37,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,4,bot,"LOHRY, B. stole third.",38,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,4,bot,"MAYO, J. singled to right field, RBI (1-1 BK)3a LOHRY, B. scored.",39,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,4,bot,"MAYO, J. stole second.",40,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,4,bot,"BUFFINGTON,M homered to left field, 2 RBI (2-2 BBKS)3a MAYO, J. scored.",41,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,4,bot,"JACOME, C. singled through the right side (2-2 BKBF).",42,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,4,bot,"PRUITT, R. reached on a fielder's choice (0-2 KK)3a JACOME, C. out at second 2b to ss.",43,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,4,bot,"PRUITT, R. stole second.",44,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,4,bot,"ROSE, M. walked (3-2 BKBBSB)3a PRUITT, R. stole third.",45,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,4,bot,"Moran, N. to p for Dilorenzo.",46,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,4,bot,"ROSE, M. stole second.",47,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,4,bot,"BRODIL, M. popped up to ss (3-2 KBBKB).",48,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,5,top,"Whitaker, D. walked (3-1 BSBBB).",49,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,5,top,"Collins, J. hit by pitch (1-0 B)3a Whitaker, D. advanced to second.",50,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,5,top,"KEYSTER, B. to p for BROWN, M..",51,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,5,top,"Kalinich, M. struck out swinging (1-2 BKSS).",52,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,5,top,"Downs, D. struck out swinging (0-2 KKS).",53,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,5,top,"Burress, B. hit by pitch (0-0)3a Collins, J. advanced to second3a Whitaker, D. advanced to third.",54,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,5,top,"Williams, D. walked, RBI (3-2 BKBSBB)3a Burress, B. advanced to second3a Collins, J. advanced to third3a Whitaker, D. scored.",55,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,5,top,"Herring, J. grounded out to p (1-0 B).",56,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,5,bot,"MURPHY, C. struck out swinging (1-2 KSBS).",57,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,5,bot,"BETANCOURT,R flied out to rf (0-0).",58,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,5,bot,"LOHRY, B. flied out to lf (1-0 B).",59,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,6,top,"Irby, A. grounded out to 2b (2-1 BBK).",60,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,6,top,"Wallace, C. singled through the right side (0-1 K).",61,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,6,top,"Peltier, A. pinch hit for Whitaker, D..",62,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,6,top,"Peltier, A. struck out looking (3-2 BKBKBFK).",63,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,6,top,"Collins, J. singled up the middle (1-0 B)3a Wallace, C..",64,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,6,top,"Kalinich, M. hit by pitch (0-1 S)3a Collins, J. advanced to second3a Wallace, C. advanced to third.",65,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,6,top,"Downs, D. flied out to cf (3-2 KBBFB).",66,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,6,bot,"Peltier, A. to cf.",67,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,6,bot,"Downs, D. to lf.",68,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,6,bot,"MAYO, J. singled, bunt (1-1 KB).",69,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,6,bot,"BUFFINGTON,M grounded out to p unassisted, bunt, SAC3a MAYO, J. advanced to second.",70,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,6,bot,"JACOME, C. hit by pitch (1-0 B).",71,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,6,bot,"JACOME, C. stole second3a MAYO, J. stole third, scored on a throwing error by c, unearned.",72,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,6,bot,"PRUITT, R. grounded out to p (0-1 K)3a JACOME, C. advanced to third.",73,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,6,bot,"ROSE, M. grounded out to 2b (0-2 KK).",74,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,7,top,"DeCARDENAS,J to p for KEYSTER, B..",75,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,7,top,"Burress, B. doubled to left center (0-1 K).",76,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,7,top,"Williams, D. homered to right center, 2 RBI (0-1 F)3a Burress, B. scored.",77,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,7,top,"Herring, J. grounded out to ss (0-1 F).",78,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,7,top,"Irby, A. homered to right field, RBI (1-1 KB).",79,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,7,top,"Wallace, C. flied out to rf (0-1 K).",80,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,7,top,"LONGORIA, A. to p for DeCARDENAS,J.",81,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,7,top,"Peltier, A. struck out swinging (2-2 SKBBFS).",82,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,7,bot,"BRODIL, M. struck out looking (0-2 SSK).",83,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,7,bot,"MURPHY, C. grounded out to 1b unassisted (1-0 B).",84,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,7,bot,"BETANCOURT,R grounded out to 3b (0-2 KF).",85,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,8,top,"Collins, J. flied out to cf (0-0).",86,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,8,top,"Kalinich, M. flied out to cf (1-0 B).",87,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,8,top,"Downs, D. flied out to lf (0-0).",88,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,8,bot,"Barron, W. to c for Kalinich, M..",89,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,8,bot,"LOHRY, B. flied out to cf (2-1 BBK).",90,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,8,bot,"MAYO, J. struck out looking (0-2 KFK).",91,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596679,8,bot,"BUFFINGTON,M popped up to ss (1-0 B).",92,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,9,top,"Burress, B. grounded out to ss (1-1 BK).",93,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,9,top,"Williams, D. flied out to rf (2-0 BB).",94,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,9,top,"Herring, J. homered to right field, RBI (3-2 BFKFBB).",95,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025
+6304645,596535,East Carolina Pirates,596679,South Fla. Bulls,596535,9,top,"Irby, A. flied out to cf (2-2 KBFB).",96,2025-05-17T00:00:00-04:00,"USF Baseball Stadium (Tampa, FL)",908,MBA,2025

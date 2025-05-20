@@ -1,0 +1,92 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,1,top,KENT flied out to cf (1-1 FB).,1,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,1,top,LaVIOLETTE struck out swinging (1-2 KBSS).,2,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,1,top,HENSELER singled to left field (1-1 BS).,3,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,1,top,"KASH doubled to left field, ground-rule (1-0 B): HENSELER advanced to third.",4,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,1,top,B. HARRISON struck out looking (1-2 SBFK).,5,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,1,bot,"Alford, S. struck out looking (0-2 FSK).",6,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,1,bot,"Phelps, Tre struck out looking (3-2 KBBBSK).",7,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,1,bot,"Adams, Chr. doubled to right center (2-1 BKB).",8,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,1,bot,"Branch, K. struck out swinging (1-2 BKFS).",9,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,2,top,SCHOTT out at first 1b to p (0-1 S).,10,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,2,top,ROYO struck out swinging (1-2 BSSFS).,11,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,2,top,KIEL popped up to 2b (0-1 F).,12,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,2,bot,"McCarthy, N. fouled out to rf (0-1 K).",13,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,2,bot,"Black, Ry. walked (3-0 BBBB).",14,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,2,bot,"Jackson, Dan grounded out to p (0-2 FF): Black, Ry. advanced to second.",15,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,2,bot,Zaborowski struck out swinging (1-2 FFBS).,16,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,3,top,FARR flied out to rf (0-2 KS).,17,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,3,top,KENT walked (3-1 FBBBB).,18,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,3,top,LaVIOLETTE struck out swinging (1-2 KSBS).,19,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,3,top,HENSELER struck out swinging (1-2 BKKFS).,20,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,3,bot,"Hunter, H. hit by pitch (0-2 SSF).",21,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,3,bot,"Alford, S. struck out swinging (0-2 FFS).",22,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,3,bot,"Phelps, Tre popped up to 2b (0-0).",23,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,3,bot,"Adams, Chr. struck out swinging (1-2 KBSS).",24,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,4,top,KASH grounded out to p (0-0).,25,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,4,top,B. HARRISON grounded out to 1b unassisted (2-2 KSBB).,26,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,4,top,SCHOTT out at first 1b to p (2-2 FBFFB).,27,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,4,bot,"Branch, K. flied out to cf (1-1 SB).",28,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,4,bot,"McCarthy, N. singled to center field (0-0).",29,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,4,bot,"Black, Ry. flied out to lf (2-1 BFB).",30,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,4,bot,"Jackson, Dan popped up to cf (1-0 B).",31,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,5,top,ROYO grounded out to ss (0-0).,32,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,5,top,KIEL popped up to 1b (0-2 KF).,33,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,5,top,FARR walked (3-1 BSBBB).,34,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,5,top,KENT grounded out to 2b (1-2 BKSFF).,35,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,5,bot,Zaborowski flied out to cf (0-0).,36,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,5,bot,"Hunter, H. hit by pitch (1-2 KFFFB).",37,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,5,bot,"Alford, S. homered to center field, 2 RBI (0-1 K): Hunter, H. scored.",38,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,5,bot,"Phelps, Tre singled to left field (0-1 K).",39,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,5,bot,"Adams, Chr. singled to center field (2-2 FBBFFF): Phelps, Tre advanced to third.",40,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,5,bot,W. MOSS to p for PATTON.,41,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,5,bot,"Branch, K. struck out swinging (0-2 KSS).",42,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,5,bot,"McCarthy, N. walked (3-2 BSBBSB): Adams, Chr. advanced to second.",43,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,5,bot,"Black, Ry. flied out to lf (1-2 FBK).",44,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,6,top,LaVIOLETTE fouled out to c (0-0).,45,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,6,top,HENSELER struck out swinging (1-2 KSFBS).,46,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,6,top,KASH walked (3-2 KBFBBB).,47,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,6,top,"B. HARRISON homered to center field, 2 RBI (1-0 B): KASH scored.",48,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,6,top,SCHOTT struck out swinging (3-2 BFFBBFS).,49,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,6,bot,"Jackson, Dan struck out swinging (0-2 KFS).",50,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,6,bot,Zaborowski singled to left field (3-2 SBBBK).,51,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,6,bot,"Hunter, H. homered to right field, 2 RBI (0-0): Zaborowski scored.",52,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,6,bot,"Alford, S. grounded out to 3b (1-1 FB).",53,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,6,bot,"Phelps, Tre struck out swinging (0-2 SKS).",54,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,7,top,Radtke to p for Finley.,55,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,7,top,"ROYO homered to left field, RBI (0-0).",56,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,7,top,"KIEL homered to left field, RBI (0-0).",57,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,7,top,"Smith, Kol. to p for Radtke.",58,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,7,top,FARR struck out looking (2-2 KBBSK).,59,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,7,top,KENT singled to center field (0-2 FF).,60,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,7,top,LaVIOLETTE struck out swinging (1-2 BSFS).,61,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,7,top,HENSELER singled to center field (0-2 SKF): KENT advanced to third.,62,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,7,top,KASH flied out to cf (2-2 BBSK).,63,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,7,bot,"Adams, Chr. struck out swinging (1-2 KFBS).",64,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,7,bot,"Branch, K. singled to right field (0-1 F).",65,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,7,bot,"McCarthy, N. walked (3-0 BBBB): Branch, K. advanced to second.",66,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,7,bot,MCCOY to p for W. MOSS.,67,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,7,bot,"Black, Ry. singled to center field, RBI (1-0 B): McCarthy, N. advanced to second: Branch, K. scored.",68,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,7,bot,"Black, Ry. advanced to second: McCarthy, N. advanced to third on a wild pitch.",69,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,7,bot,"Jackson, Dan reached on a fielder's choice (2-2 SBBK): Black, Ry. no advance: McCarthy, N. no advance.",70,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,7,bot,FRESHCORN to p for MCCOY.,71,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,7,bot,"Zaborowski singled to left field, 2 RBI (0-0): Jackson, Dan advanced to second: Black, Ry. scored: McCarthy, N. scored.",72,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,7,bot,"Hunter, H. struck out swinging (0-2 SFS).",73,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,7,bot,"Alford, S. grounded out to 3b (1-2 FFB).",74,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,8,top,B. HARRISON struck out swinging (3-2 BBKFFBS).,75,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,8,top,SCHOTT struck out looking (3-2 KBBSBK).,76,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,8,top,ROYO struck out swinging (2-2 KSBBS).,77,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,8,bot,"Phelps, Tre struck out swinging (0-2 KSFS).",78,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,8,bot,"Adams, Chr. struck out swinging (1-2 KBKFS).",79,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,8,bot,"Branch, K. walked (3-2 BBBKSB).",80,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,8,bot,"McCarthy, N. singled to shortstop (3-2 BKFBB): Branch, K. advanced to third.",81,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,8,bot,WILSON to p for FRESHCORN.,82,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596554,8,bot,"Black, Ry. grounded out to 2b (3-2 BBFBF).",83,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,9,top,"Phelps, Tre to rf.",84,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,9,top,"McCarthy, N. to lf.",85,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,9,top,"Obee to cf for Jackson, Dan.",86,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,9,top,"Harris, Zach to p for Smith, Kol..",87,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,9,top,KIEL struck out swinging (2-2 BBKKS).,88,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,9,top,FARR grounded out to 2b (2-2 BKBK).,89,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,9,top,"KENT homered to center field, RBI (1-1 KB).",90,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025
+6310917,596420,Texas A&M Aggies,596554,Georgia Bulldogs,596420,9,top,LaVIOLETTE struck out swinging (3-2 BBBKKS).,91,2025-05-17T00:00:00-04:00,"Foley Field (Athens, GA)",3633,MBA,2025

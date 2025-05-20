@@ -1,0 +1,98 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,1,top,Apodaca struck out swinging (3-2 FBBFBFS).,1,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,1,top,Sanders walked (3-1 SBBBB).,2,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,1,top,Kemp walked (3-1 KBBBB); Sanders advanced to second.,3,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,1,top,Jordan singled through the left side (0-0); Kemp advanced to second; Sanders advanced to third.,4,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,1,top,"Riebock flied out to rf, SF, RBI (1-1 BK); Kemp advanced to third; Sanders scored.",5,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,1,top,Simmons flied out to cf (0-2 KK).,6,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,1,bot,"Ross, D doubled to left field (2-1 BBK).",7,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,1,bot,"Williamson,A flied out to lf (1-1 KB).",8,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,1,bot,"Espinal, E walked (3-1 BFBBB).",9,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,1,bot,"Sundean, A flied out to lf (1-1 KB).",10,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,1,bot,"Jimenez, A singled to pitcher, bunt, advanced to second on a throwing error by p (0-0); Espinal, E advanced to second, scored on the error, unearned; Ross, D advanced to third, scored on the error, unearned.",11,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,1,bot,"King, D struck out looking (1-2 BKKK).",12,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,2,top,Pendergrass struck out swinging (2-2 BSSBFS).,13,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,2,top,"Johnson, T. singled to right field (0-1 K).",14,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,2,top,Castle popped up to 1b (1-0 B).,15,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,2,top,Apodaca struck out looking (2-2 BBFSK).,16,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,2,bot,"Boedicker, L lined out to rf (1-0 B).",17,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,2,bot,"Calise, B reached on an error by 1b (3-2 BKBFB).",18,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,2,bot,"Prevesk, M struck out swinging (1-2 KFBS).",19,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,2,bot,"Ross, D singled up the middle (0-0); Calise, B advanced to third.",20,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,2,bot,"Williamson,A singled up the middle, RBI (2-1 BBF); Ross, D advanced to third; Calise, B scored, unearned.",21,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,2,bot,"Espinal, E grounded out to ss (0-0).",22,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,3,top,"Sanders homered to center field, RBI (3-1 BBBK).",23,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,3,top,"Kemp homered to right field, RBI (2-1 KBB).",24,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,3,top,Jordan flied out to rf (0-2 KS).,25,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,3,top,"Riebock homered to right center, RBI (1-0 B).",26,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,3,top,"Hartley, W to p for Sauser, M.",27,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,3,top,Simmons singled to center field (2-2 KFBBFF).,28,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,3,top,Pendergrass struck out swinging (3-2 KBBFBS).,29,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,3,top,"Johnson, T. flied out to rf (1-0 B).",30,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,3,bot,"Sundean, A singled up the middle (3-2 FFBFBB).",31,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,3,bot,"Jimenez, A struck out swinging (2-2 BFBFS).",32,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,3,bot,"King, D grounded into double play ss to 1b (0-0); Sundean, A out on the play.",33,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,4,top,Castle walked (3-2 BBKKBB).,34,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,4,top,Apodaca flied out to lf (3-2 BBBKFF).,35,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,4,top,Sanders singled to center field (0-1 K); Castle advanced to second.,36,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,4,top,Kemp grounded into double play 2b to ss to 1b (2-2 SBBF); Sanders out on the play.,37,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,4,bot,"Boedicker, L lined out to lf (0-1 F).",38,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,4,bot,"Calise, B grounded out to 1b unassisted (2-1 KBB).",39,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,4,bot,"Prevesk, M singled up the middle (0-1 F).",40,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,4,bot,"Ross, D doubled to right field, RBI (2-2 BKSB); Prevesk, M scored.",41,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,4,bot,"Williamson,A singled through the right side, advanced to second on the throw, RBI (1-1 KB); Ross, D scored.",42,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,4,bot,"Espinal, E lined out to rf (0-0).",43,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,5,top,Jordan struck out swinging (3-2 BFFBBS).,44,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,5,top,Riebock struck out swinging (2-2 KBFBS).,45,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,5,top,Simmons grounded out to 2b (1-2 BSKF).,46,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,5,bot,Stasio to p for Jameson.,47,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,5,bot,"Sundean, A homered down the lf line, RBI (3-2 BFSBB).",48,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,5,bot,"Jimenez, A singled to right field (1-1 KB).",49,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,5,bot,"King, D singled through the right side (0-1 F); Jimenez, A advanced to third.",50,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,5,bot,"Boedicker, L singled up the middle, RBI (3-2 KBFBB); King, D advanced to second; Jimenez, A scored.",51,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,5,bot,"Calise, B grounded out to p, SAC, bunt (0-0); Boedicker, L advanced to second; King, D advanced to third.",52,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,5,bot,Stahl to p for Stasio.,53,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,5,bot,"Prevesk, M lined out to p (1-2 FFB).",54,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,5,bot,"Ross, D singled to right center, 2 RBI (2-0 BB); Boedicker, L scored; King, D scored.",55,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,5,bot,"Williamson,A grounded out to 2b (0-0).",56,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,6,top,Pendergrass struck out swinging (1-2 BKKS).,57,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,6,top,"Johnson, T. singled to third base, bunt (2-0 BB).",58,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,6,top,Castle struck out looking (0-2 KFK).,59,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,6,top,"Apodaca walked (3-0 BBBB); Johnson, T. advanced to second.",60,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,6,top,Sanders struck out swinging (3-2 BBSFBS).,61,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,6,bot,"Espinal, E struck out swinging (1-2 BSFS).",62,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,6,bot,"Sundean, A doubled to left center (1-1 KB).",63,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,6,bot,"Jimenez, A homered to left center, 2 RBI (1-1 BK); Sundean, A scored.",64,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,6,bot,"King, D struck out swinging (0-2 KKS).",65,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,6,bot,"Boedicker, L singled to left field (0-2 KFF).",66,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,6,bot,Hail to p for Stahl.,67,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,6,bot,"Calise, B reached on a fielder's choice to third base (1-0 B); Boedicker, L out at second 3b to 2b.",68,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,7,top,"Kemp homered down the rf line, RBI (2-1 KBB).",69,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,7,top,Jordan singled through the left side (0-0).,70,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,7,top,"Castellano,D to p for Hartley, W.",71,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,7,top,Riebock struck out swinging (1-2 FKBS).,72,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,7,top,Simmons struck out looking (2-2 BFBFFK).,73,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,7,top,Pendergrass struck out swinging (2-2 BKSBS).,74,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,7,bot,"Prevesk, M singled to right field (0-0).",75,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,7,bot,"Ross, D reached on a fielder's choice to third base (1-2 KBF); Prevesk, M out at second 3b to 2b.",76,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,7,bot,"Williamson,A struck out swinging (3-2 BBBKSS); Ross, D stole second.",77,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,7,bot,Bales to p for Hail.,78,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,7,bot,"Espinal, E walked (3-1 BBFBB).",79,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,7,bot,"Sundean, A reached on a fielder's choice to shortstop (1-2 BKFFF); Espinal, E out at second ss to 2b.",80,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,8,top,"Johnson, T. singled to left field (2-2 BBFSF).",81,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,8,top,Castle flied out to cf (0-0).,82,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,8,top,"Apodaca lined into double play p to 1b (2-2 KKBFFB); Johnson, T. out on the play.",83,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,8,bot,Kennett to c for Castle.,84,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,8,bot,Petrowski to p for Bales.,85,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,8,bot,"Jimenez, A walked (3-0 BBBB).",86,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,8,bot,"King, D walked (3-2 BBBKSB); Jimenez, A advanced to second.",87,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,8,bot,Ruais to p for Petrowski.,88,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,8,bot,"Boedicker, L struck out swinging (3-2 SSBBBS).",89,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,8,bot,"Calise, B fouled out to 1b (0-0).",90,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596519,8,bot,"Prevesk, M fouled out to c (0-2 KS).",91,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,9,top,Sanders walked (3-1 BKBBB).,92,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,9,top,Kemp flied out to lf (0-2 FF).,93,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,9,top,"Jordan homered to left center, 2 RBI (0-2 FF); Sanders scored.",94,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,9,top,Riebock singled to left field (0-1 K).,95,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,9,top,Simmons fouled out to rf (0-0).,96,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025
+6304609,596493,Baylor Bears,596519,UCF Knights,596493,9,top,Pendergrass fouled out to lf (0-0).,97,2025-05-17T00:00:00-04:00,"John Euliano Park (Orlando, FL)",1811,MBA,2025

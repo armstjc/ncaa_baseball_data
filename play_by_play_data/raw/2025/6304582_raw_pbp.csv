@@ -1,0 +1,104 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,1,top,No play.,1,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,1,top,Dooley doubled to left center (1-2 BFFF).,2,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,1,top,Peifer struck out looking (1-2 KBSK).,3,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,1,top,Calabrese flied out to rf (0-0)3a Dooley advanced to third.,4,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,1,top,Langley struck out swinging (1-2 KBKS).,5,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,1,bot,"Farber, R. walked (3-1 BFBBB).",6,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,1,bot,"Mora, C. grounded out to 3b (0-1 K)3a Farber, R. advanced to second.",7,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,1,bot,"Farber, R. stole third.",8,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,1,bot,"DeFury, C. struck out swinging (2-2 BBFSS).",9,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,1,bot,"Galloway, R. grounded out to 2b (1-0 B).",10,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,2,top,Moody flied out to rf down the rf line (1-1 BF).,11,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,2,top,Anderson walked (3-2 FBBKBB).,12,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,2,top,"Anderson out at second c to 1b to 2b, picked off, caught stealing.",13,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,2,top,Cannizzaro grounded out to 3b (0-1 K).,14,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,2,bot,"Park, D. grounded out to 3b (2-0 BB).",15,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,2,bot,"Collier, I. walked (3-2 BFBSFBB).",16,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,2,bot,Catcher mound visit (2-0 count).,17,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,2,bot,"Bragg, T. walked (3-0 BBBB)3a Collier, I. advanced to second.",18,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,2,bot,Mound visit (0-0 count).,19,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,2,bot,"Pugh, S. walked (3-0 BBBB)3a Bragg, T. advanced to second3a Collier, I. advanced to third.",20,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,2,bot,"Shibley, A. reached on a fielder's choice, RBI (1-2 BKK)3a Pugh, S. out at second 1b to ss3a Bragg, T. advanced to third3a Collier, I. scored.",21,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,2,bot,"Farber, R. doubled down the rf line, out at third rf to 2b to 3b, 2 RBI (0-1 K)3a Shibley, A. scored3a Bragg, T. scored.",22,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,3,top,Fleck flied out to cf (2-2 BBKK).,23,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,3,top,Schmidly singled up the middle (3-2 KKBBB).,24,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,3,top,Dooley singled through the right side (2-0 BB)3a Schmidly advanced to second.,25,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,3,top,Peifer grounded out to p (0-0)3a Dooley advanced to second3a Schmidly advanced to third.,26,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,3,top,"Calabrese singled up the middle, 2 RBI (1-2 KFBF)3a Dooley scored3a Schmidly scored.",27,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,3,top,Langley lined out to 2b (0-1 K).,28,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,3,bot,"Mora, C. walked (3-1 BFBBB).",29,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,3,bot,"Mora, C. stole second.",30,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,3,bot,"DeFury, C. walked (3-0 BBBB).",31,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,3,bot,"Galloway, R. reached on a fielder's choice (0-1 K)3a DeFury, C. out at second 2b to ss3a Mora, C. advanced to third.",32,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,3,bot,"Park, D. reached on a fielding error by p, RBI (0-2 FK)3a Galloway, R. advanced to second3a Mora, C. scored.",33,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,3,bot,"Collier, I. fouled out to 1b (2-2 BBSSF).",34,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,3,bot,"Bragg, T. walked (3-1 KBBBB)3a Park, D. advanced to second3a Galloway, R. advanced to third.",35,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,3,bot,McKinney to p for Kuhle.,36,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,3,bot,"Pugh, S. lined out to cf (1-1 BF).",37,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,4,top,Moody grounded out to 3b (0-0).,38,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,4,top,Anderson grounded out to 3b (0-0).,39,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,4,top,Cannizzaro walked (3-2 BBKBKFB).,40,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,4,top,Fleck singled through the right side (1-1 BK)3a Cannizzaro advanced to second.,41,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,4,top,"Schmidly doubled to left center, RBI (0-0)3a Fleck advanced to third, out at home cf to ss to c3a Cannizzaro scored.",42,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,4,bot,Replay (Call overturned3a JMU runner out at home to end top of 4th).,43,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,4,bot,"Shibley, A. struck out looking (0-2 SFK).",44,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,4,bot,"Farber, R. struck out looking (1-2 KBKK).",45,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,4,bot,"Mora, C. singled to right field (1-2 KBFF).",46,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,4,bot,"Mora, C. advanced to second on a balk.",47,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,4,bot,"DeFury, C. flied out to cf (1-0 B).",48,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,5,top,Dooley singled to left center (1-2 FBF).,49,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,5,top,"Peifer out at first 1b to 2b, SAC, bunt (1-1 KB)3a Dooley advanced to second.",50,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,5,top,Calabrese fouled out to 1b (2-2 BBKF).,51,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,5,top,"Langley doubled to right center, RBI (0-0)3a Dooley scored.",52,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,5,top,Infield mound visit (0-0 count).,53,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,5,top,Moody grounded out to p (3-2 KBSBB).,54,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,5,bot,"Galloway, R. struck out looking (2-2 BKFBK).",55,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,5,bot,"Park, D. grounded out to ss (0-1 K).",56,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,5,bot,"Collier, I. flied out to rf to right center (2-2 KBBF).",57,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,6,top,"Diaz, C. to p for Tovar, J..",58,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,6,top,Anderson struck out swinging (2-2 KBBFS).,59,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,6,top,Cannizzaro grounded out to 3b (2-1 KBB).,60,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,6,top,Fleck flied out to cf (2-2 KKBFBF).,61,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,6,bot,"Bragg, T. struck out swinging (3-2 KBBKBS).",62,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,6,bot,"Pugh, S. flied out to cf (0-1 K).",63,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,6,bot,"Shibley, A. walked (3-2 KBBSBB).",64,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,6,bot,"Shibley, A. stole second.",65,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,6,bot,"Farber, R. lined out to ss (1-2 KKBF).",66,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,7,top,Schmidly grounded out to p (2-2 BKSB).,67,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,7,top,Dooley walked (3-0 BBBB).,68,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,7,top,Mound visit (1-0 count).,69,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,7,top,Peifer lined out to ss (1-0 B)3a Dooley advanced to second on a throwing error by ss.,70,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,7,top,Calabrese struck out swinging (0-2 FSS).,71,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,7,bot,Madden to p for McKinney.,72,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,7,bot,"Mora, C. grounded out to 3b (1-1 FB).",73,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,7,bot,"DeFury, C. popped up to 2b (0-1 K).",74,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,7,bot,"Galloway, R. grounded out to 3b (1-0 B).",75,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,8,top,"Laws, C. to p for Diaz, C..",76,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,8,top,"Munguia, A. to c for Collier, I..",77,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,8,top,Langley tripled to right center (1-0 B).,78,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,8,top,Moody fouled into double play 1b to c (0-0)3a Langley out on the play.,79,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,8,top,Anderson struck out swinging (1-2 BFKS).,80,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,8,bot,"Park, D. out at first 1b to p (2-2 BBKS).",81,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,8,bot,"Munguia, A. struck out swinging (2-2 SBFFBS).",82,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,8,bot,"Bragg, T. singled down the rf line (1-0 B).",83,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,8,bot,"Rucker, T. pinch ran for Bragg, T..",84,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,8,bot,"Pugh, S. grounded out to 1b unassisted (2-1 BSB).",85,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,9,top,"Rucker, T. to lf.",86,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,9,top,Cannizzaro walked (3-0 BBBB).,87,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,9,top,Richter pinch ran for Cannizzaro.,88,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,9,top,Fleck walked (3-1 BFBBB)3a Richter advanced to second.,89,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,9,top,Mound visit (0-0 count).,90,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,9,top,Guerrero pinch hit for Schmidly.,91,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,9,top,"Guerrero reached on a fielder's choice, SAC, bunt (0-0)3a Fleck advanced to second3a Richter advanced to third.",92,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,9,top,Dooley popped up to ss (0-0).,93,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,9,top,Peifer struck out swinging (3-2 BFBBSS).,94,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596573,9,top,Calabrese flied out to rf down the rf line (0-0).,95,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,9,bot,Williams to c for Richter.,96,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,9,bot,"Shibley, A. flied out to rf to right center (3-1 BFBB).",97,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,9,bot,"Farber, R. walked (3-0 BBBB).",98,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,9,bot,Horvath to p for Madden.,99,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,9,bot,"Farber, R. stole second.",100,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,9,bot,"Mora, C. intentionally walked (3-1 BBFB).",101,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,9,bot,Mound visit (1-1 count).,102,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
+6304582,596573,James Madison Dukes,596686,Texas St. Bobcats,596686,9,bot,"DeFury, C. singled to right center, RBI (3-1 BFBB)3a Mora, C. advanced to second3a Farber, R. scored.",103,2025-05-16T00:00:00-04:00,"Bobcat Ballpark (San Marcos, TX)",1396,MBA,2025
