@@ -1,0 +1,71 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,1,top,"EDWARDS, K. struck out swinging (1-2 KFBS).",1,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,1,top,"ISOM-MCCALL, grounded out to 2b (1-1 KB).",2,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,1,top,"RADOSEVICH, grounded out to 3b (1-1 BS).",3,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,1,bot,"CASTRO, T out at first 1b to p (1-1 BK).",4,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,1,bot,"WILSON, P flied out to lf (1-1 BK).",5,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,1,bot,"O'CONOR, M flied out to cf (0-0).",6,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,2,top,"GRUNBERG, S. grounded out to 3b (0-2 KF).",7,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,2,top,"SAROTA, F. struck out swinging (2-2 SSBBS).",8,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,2,top,"ARNETTE, B. grounded out to 2b (0-0).",9,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,2,bot,"GOODWIN, Z flied out to cf (3-2 BBKFB).",10,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,2,bot,"STANLEY, B singled through the left side (0-0).",11,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,2,bot,"LOVE, J walked (3-0 BBBB)3a STANLEY, B advanced to second.",12,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,2,bot,"LOVE, J advanced to second on a wild pitch3a STANLEY, B advanced to third.",13,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,2,bot,"ROSSI, E flied out to rf, SF, RBI (3-2 KBBBF)3a LOVE, J advanced to third3a STANLEY, B scored.",14,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,2,bot,"WORCESTER, C lined out to rf (2-2 BKBK).",15,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,3,top,"CUMMINS, M. lined out to 2b (0-1 F).",16,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,3,top,"SHORT, B. struck out looking (0-2 KKK).",17,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,3,top,"FUNKHOUSER, struck out looking (3-2 KSBBBK).",18,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,3,bot,OTTENSMEIER grounded out to 3b (1-2 KSB).,19,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,3,bot,"CASTRO, T singled up the middle (0-2 KK).",20,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,3,bot,"WILSON, P walked (3-1 KBBBB)3a CASTRO, T advanced to second.",21,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,3,bot,"O'CONOR, M reached on a fielder's choice to third base (0-0)3a WILSON, P out at second 3b to 2b3a CASTRO, T advanced to third, scored on a throwing error by 2b, unearned.",22,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,3,bot,"GOODWIN, Z struck out looking (3-2 BBBKKK).",23,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,4,top,"EDWARDS, K. struck out looking (1-2 BSSFK).",24,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,4,top,"ISOM-MCCALL, struck out looking (1-2 KBSK).",25,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,4,top,"RADOSEVICH, walked (3-2 SBBBFB).",26,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,4,top,"GRUNBERG, S. flied out to cf (1-0 B).",27,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,4,bot,"STANLEY, B singled up the middle (1-2 KBK).",28,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,4,bot,"LOVE, J walked (3-1 BFBBB)3a STANLEY, B advanced to second.",29,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,4,bot,"ROSSI, E out at first p to 2b, SAC, bunt (0-0)3a LOVE, J advanced to second3a STANLEY, B advanced to third.",30,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,4,bot,"STICE, B. to p for BUSCHSCHULTE.",31,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,4,bot,"WORCESTER, C flied out to rf (1-2 FBFF).",32,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,4,bot,OTTENSMEIER struck out swinging (0-2 KFS).,33,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,5,top,"SAROTA, F. lined out to ss (0-0).",34,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,5,top,"ARNETTE, B. popped up to 2b (2-2 KSBBF).",35,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,5,top,"CUMMINS, M. struck out swinging (3-2 BKKBBFFFS).",36,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,5,bot,"CASTRO, T singled to center field (2-2 KKBB).",37,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,5,bot,"WILSON, P hit by pitch (0-0)3a CASTRO, T advanced to second.",38,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,5,bot,"O'CONOR, M flied out to rf (2-2 BFFFB)3a CASTRO, T advanced to third.",39,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,5,bot,"GOODWIN, Z out at first 1b to 2b, SAC, bunt, RBI (0-0)3a WILSON, P advanced to second3a CASTRO, T scored.",40,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,5,bot,"STANLEY, B flied out to cf (1-0 B).",41,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,6,top,"SHORT, B. flied out to cf (1-2 FSB).",42,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,6,top,"FUNKHOUSER, struck out swinging (0-2 FKS).",43,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,6,top,"EDWARDS, K. fouled out to c (3-2 KFFBBB).",44,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,6,bot,"HAGEN, J pinch hit for LOVE, J.",45,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,6,bot,"HAGEN, J lined out to 2b (1-2 KFB).",46,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,6,bot,"ROSSI, E grounded out to ss (2-1 BBS).",47,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,6,bot,"WORCESTER, C grounded out to 3b (3-2 FBBSFB).",48,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,7,top,"ISOM-MCCALL, flied out to cf (0-1 F).",49,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,7,top,"RADOSEVICH, struck out swinging (3-2 BKBBFFS).",50,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,7,top,"GRUNBERG, S. grounded out to ss (1-0 B).",51,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,7,bot,OTTENSMEIER singled through the right side (1-2 KFB).,52,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,7,bot,OTTENSMEIER advanced to second on a passed ball.,53,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,7,bot,"CASTRO, T grounded out to 2b (1-2 BKK)3a OTTENSMEIER advanced to third.",54,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,7,bot,"WILSON, P popped up to ss (0-1 K).",55,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,7,bot,"O'CONOR, M struck out swinging (2-2 KBSBS).",56,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,8,top,"SAROTA, F. singled to shortstop (1-2 KFB).",57,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,8,top,"ARNETTE, B. flied out to rf (2-0 BB).",58,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,8,top,"SAROTA, F. out at second c to 2b, caught stealing.",59,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,8,top,"CUMMINS, M. flied out to rf (2-2 KBSB).",60,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,8,bot,"GOODWIN, Z grounded out to p (1-1 BK).",61,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,8,bot,"STANLEY, B grounded out to ss (2-2 BSSB).",62,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,8,bot,"HAGEN, J to dh.",63,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596537,8,bot,"HAGEN, J grounded out to ss (2-1 BBF).",64,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,9,top,"SIMPSON, T. pinch hit for SHORT, B..",65,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,9,top,"SIMPSON, T. doubled to right center (1-2 KSFFFB).",66,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,9,top,"FUNKHOUSER, struck out swinging (3-2 SBBFFBS).",67,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,9,top,"SIMPSON, T. advanced to third on a wild pitch.",68,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,9,top,"EDWARDS, K. grounded out to 2b, RBI (2-0 BB)3a SIMPSON, T. scored.",69,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
+6385340,596695,Lindenwood Lions,596537,Eastern Ill. Panthers,596695,9,top,"ISOM-MCCALL, fouled out to 1b (2-2 BKSBF).",70,2025-05-23T00:00:00-04:00,"Mountain Dew Park (Marion, IL)",729,MBA,2025
