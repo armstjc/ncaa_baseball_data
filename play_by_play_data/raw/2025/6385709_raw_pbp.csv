@@ -1,0 +1,87 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,1,top,Moore singled to first base (0-1 S).,1,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,1,top,Klein doubled down the lf line (3-1 BKBB)3a Moore advanced to third.,2,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,1,top,Rose walked (3-0 BBBB).,3,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,1,top,"King Jr. doubled to left center, 2 RBI (2-2 KFFBFFB)3a Rose advanced to third3a Klein scored3a Moore scored.",4,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,1,top,Pike hit by pitch (0-1 K).,5,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,1,top,Munroe struck out swinging (2-2 BKBFS).,6,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,1,top,T. Davis grounded into double play p to c to 1b (0-0)3a Rose out on the play.,7,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,1,bot,"Warren, H struck out swinging (2-2 BBFFS).",8,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,1,bot,"Fultz, P grounded out to 2b (2-2 BKSFB).",9,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,1,bot,"Gregory, G grounded out to ss (1-0 B).",10,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,2,top,Neighbors flied out to rf (0-1 K).,11,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,2,top,Alicea singled to center field (1-2 KKB).,12,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,2,top,"Moore singled down the lf line, advanced to second on the throw (1-0 B)3a Alicea advanced to second, out at third lf to 3b.",13,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,2,top,Klein grounded out to 2b (2-0 BB).,14,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,2,bot,"Peltier, J flied out to cf (2-2 BKBSFF).",15,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,2,bot,"Smith, B struck out swinging (1-2 BKFFFS).",16,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,2,bot,"Arnold, L flied out to rf (0-0).",17,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,3,top,"Thomas, P to p for Lax, C.",18,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,3,top,Rose struck out looking (3-2 KBBFFBFK).,19,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,3,top,King Jr. struck out swinging (1-2 BSSS).,20,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,3,top,Pike grounded out to 1b unassisted (0-0).,21,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,3,bot,"Gilkerson, C struck out swinging, out at first c to 1b (0-2 KFS).",22,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,3,bot,"Daniel, C struck out swinging (2-2 BBSSS).",23,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,3,bot,"Cook, W singled to third base, bunt (0-0).",24,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,3,bot,"Warren, H struck out swinging (0-2 KFS).",25,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,4,top,Munroe flied out to cf (0-1 F).,26,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,4,top,T. Davis struck out swinging (3-2 BBKSBS).,27,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,4,top,Neighbors struck out swinging (3-2 BBBKKS).,28,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,4,bot,"Fultz, P singled to right field (1-2 BSFFF).",29,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,4,bot,"Gregory, G struck out looking (0-2 KFK).",30,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,4,bot,"Peltier, J reached on a fielder's choice (2-1 BBK)3a Fultz, P out at second 3b to 2b.",31,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,4,bot,"Smith, B lined out to 3b (1-1 KB).",32,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,5,top,"Alicea singled to third base, bunt (0-0).",33,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,5,top,Alicea advanced to second on a wild pitch.,34,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,5,top,Moore reached on a throwing error by ss (1-2 KBK)3a Alicea advanced to third.,35,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,5,top,Moore stole second.,36,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,5,top,"Klein singled to outfielder, RBI (0-1 K)3a Moore advanced to third3a Alicea scored.",37,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,5,top,Rose flied out to rf (1-0 B).,38,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,5,top,"Klein out at second c to 2b, caught stealing.",39,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,5,top,King Jr. walked (3-2 SBFBBB).,40,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,5,top,Pike lined out to lf (1-1 BK).,41,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,5,bot,"Arnold, L walked (3-1 BFBBB).",42,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,5,bot,"Gilkerson, C struck out swinging (1-2 FBFFS).",43,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,5,bot,"Daniel, C reached on a fielder's choice (3-1 BBKB)3a Arnold, L out at second ss to 2b.",44,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,5,bot,"Cook, W struck out swinging (2-2 KBFBS).",45,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,6,top,"Thompson, J to p for Thomas, P.",46,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,6,top,Munroe tripled to left field (0-2 KS).,47,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,6,top,T. Davis grounded out to p (1-2 KBS).,48,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,6,top,"Neighbors doubled down the rf line, RBI (0-1 F)3a Munroe scored.",49,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,6,top,Neighbors stole third.,50,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,6,top,"Neighbors out at third p to 3b, picked off.",51,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,6,top,Alicea walked (3-1 BBSBB).,52,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,6,top,Moore struck out swinging (2-2 BBKKS).,53,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,6,bot,"Warren, H struck out swinging (1-2 BKKS).",54,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,6,bot,"Fultz, P struck out swinging (3-2 BFSFBBS).",55,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,6,bot,"Manley, N to dh for Gregory, G.",56,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,6,bot,"Manley, N struck out swinging (1-2 BKKS).",57,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,7,top,Klein flied out to lf (1-1 KB).,58,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,7,top,Rose struck out swinging (1-2 BKFS).,59,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,7,top,King Jr. singled to right field (2-2 SFBBF).,60,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,7,top,Pike struck out looking (2-2 BFBFK).,61,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,7,bot,"Peltier, J flied out to rf (2-1 BKB).",62,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,7,bot,"Smith, B walked (3-0 BBBB).",63,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,7,bot,"Arnold, L walked (3-2 FBBSBB)3a Smith, B advanced to second.",64,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,7,bot,Danilowicz to p for Eberle.,65,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,7,bot,"Gilkerson, C struck out swinging (1-2 BKKS).",66,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,7,bot,"Arnold, L stole second3a Smith, B stole third.",67,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,7,bot,"Daniel, C grounded out to p (2-2 FFBB).",68,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,8,top,Munroe hit by pitch (0-1 K).,69,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,8,top,T. Davis singled down the rf line (0-0)3a Munroe advanced to second.,70,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,8,top,"Neighbors out at first 1b to 2b, SAC, bunt (1-1 FB)3a T. Davis advanced to second3a Munroe advanced to third.",71,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,8,top,"Alicea singled to left field, 2 RBI (3-2 BSKBB)3a T. Davis scored3a Munroe scored.",72,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,8,top,"Paplanus, M to p for Thompson, J.",73,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,8,top,Moore flied out to lf (2-1 BFB).,74,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,8,top,Klein walked (3-1 BBBKB)3a Alicea advanced to second.,75,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,8,top,Rose reached on a fielder's choice (0-2 KF)3a Klein out at second 3b to 2b.,76,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,8,bot,"Cook, W grounded out to 2b (2-2 FSBB).",77,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,8,bot,"Warren, H flied out to lf (2-2 BSBF).",78,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,8,bot,"Fultz, P struck out swinging, out at first c to 1b (0-2 KSS).",79,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,9,top,King Jr. struck out swinging (2-2 KBBKS).,80,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,9,top,Pike struck out swinging (0-2 FFS).,81,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,9,top,Munroe singled to center field (0-0).,82,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596585,9,top,T. Davis lined out to ss (1-1 BS).,83,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,9,bot,"Manley, N struck out swinging (3-2 BSBKBS).",84,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,9,bot,"Peltier, J struck out swinging (0-2 KSS).",85,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025
+6385709,596585,Louisville Cardinals,596453,Wright St. Raiders,596453,9,bot,"Smith, B flied out to cf (1-0 B).",86,2025-06-01T21:00:00-04:00,"Hawkins Field (Nashville, TN)",3210,MBA,2025

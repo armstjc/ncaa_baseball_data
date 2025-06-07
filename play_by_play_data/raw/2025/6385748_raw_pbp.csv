@@ -1,0 +1,96 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,1,top,No play.,1,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,1,top,"Rembert, C. flied out to cf (1-2 FFB).",2,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,1,top,"Guevara, E. struck out swinging (0-2 KSS).",3,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,1,top,"Irish, I. grounded out to 2b (2-2 KBBF).",4,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,1,bot,"Barkett, I grounded out to ss (0-2 KFFF).",5,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,1,bot,"De La Cruz,J grounded out to ss (1-2 KBS).",6,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,1,bot,"Meola ,L struck out looking (1-2 KBSFK).",7,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,2,top,"McMurray, C. doubled to right field (1-2 KKFB).",8,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,2,top,"Steele, L. lined out to ss (1-1 BK).",9,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,2,top,"Snow, E. doubled down the lf line, RBI (1-0 B)3a McMurray, C. scored.",10,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,2,top,"Terrell, B. doubled to right center, RBI (3-2 BKFBB)3a Snow, E. scored.",11,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,2,top,"Fralick, C. out at first 1b to p (1-0 B)3a Terrell, B. advanced to third.",12,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,2,top,"Carter, B. lined out to ss (2-1 BBK).",13,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,2,bot,"Moran, L grounded out to 2b (1-0 B).",14,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,2,bot,"Apple, F grounded out to 3b (0-0).",15,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,2,bot,"Taylor, J flied out to rf (3-2 BKBBFF).",16,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,3,top,"Rembert, C. flied out to lf (1-0 B).",17,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,3,top,"Guevara, E. singled to right field (3-1 BBFB).",18,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,3,top,"Irish, I. doubled down the rf line, RBI (3-2 BFBBK)3a Guevara, E. scored.",19,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,3,top,"McMurray, C. doubled to left field, RBI (0-1 S)3a Irish, I. scored.",20,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,3,top,"Steele, L. walked (3-0 BBBB).",21,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,3,top,"Snow, E. flied out to rf (0-1 K).",22,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,3,top,"Terrell, B. walked (3-1 BSBBB)3a Steele, L. advanced to second3a McMurray, C. advanced to third.",23,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,3,top,"Solimine, J to p for Hays, J.",24,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,3,top,"Fralick, C. flied out to cf (1-0 B).",25,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,3,bot,"Fabian, D. to ss for Guevara, E..",26,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,3,bot,"Snow, E. to 3b.",27,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,3,bot,"Griffis, E doubled to right center (1-1 KB).",28,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,3,bot,"Russell, L walked (3-2 BFSBBB).",29,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,3,bot,"Perez, D out at first p to 2b, SAC (1-0 B)3a Russell, L advanced to second3a Griffis, E advanced to third.",30,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,3,bot,"Barkett, I grounded out to 2b, RBI (0-1 K)3a Russell, L advanced to third3a Griffis, E scored.",31,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,3,bot,"De La Cruz,J grounded out to ss (3-2 SBSBB).",32,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,4,top,"Carter, B. grounded out to 3b (2-0 BB).",33,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,4,top,"Rembert, C. grounded out to 2b (0-1 F).",34,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,4,top,"Fabian, D. singled to pitcher, bunt (0-0).",35,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,4,top,"Irish, I. flied out to cf (0-1 F).",36,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,4,bot,"Meola ,L singled to left field (0-0).",37,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,4,bot,"Moran, L singled to left field (1-1 KB)3a Meola ,L advanced to third.",38,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,4,bot,"Apple, F walked (3-1 BBBKB)3a Moran, L advanced to second.",39,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,4,bot,"Taylor, J singled to right center, RBI (1-2 SFFB)3a Apple, F advanced to second3a Moran, L advanced to third, out at home rf to c3a Meola ,L scored.",40,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,4,bot,"Griffis, E struck out looking (2-2 BKBKK).",41,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,4,bot,"Russell, L singled to right field, RBI (0-1 K)3a Taylor, J advanced to third3a Apple, F scored.",42,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,4,bot,"Perez, D grounded out to ss (0-0).",43,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,5,top,"McMurray, C. doubled to left center (2-2 BKSB).",44,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,5,top,"Steele, L. flied out to rf (0-0).",45,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,5,top,"Snow, E. doubled to left center, RBI (3-1 BKBB)3a McMurray, C. scored.",46,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,5,top,"Terrell, B. flied out to rf (1-0 B)3a Snow, E. advanced to third.",47,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,5,top,"Fralick, C. flied out to cf (3-2 KBBBK).",48,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,5,bot,"Barkett, I singled up the middle (1-1 BK).",49,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,5,bot,"De La Cruz,J grounded into double play 3b to 2b to 1b (2-2 BBKK)3a Barkett, I out on the play.",50,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,5,bot,"Meola ,L grounded out to ss (0-0).",51,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,6,top,"Van Dyke, T to p for Solimine, J.",52,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,6,top,"Carter, B. struck out looking (0-2 FKK).",53,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,6,top,"Rembert, C. struck out swinging (0-2 KKS).",54,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,6,top,"Fabian, D. struck out looking (1-2 FKFBK).",55,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,6,bot,"Moran, L lined out to 2b (0-1 K).",56,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,6,bot,"Apple, F lined out to 1b (3-2 FBSBB).",57,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,6,bot,"Taylor, J struck out swinging (3-2 SFBBFFFBS).",58,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,7,top,"Irish, I. grounded out to 3b (1-1 BF).",59,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,7,top,"McMurray, C. walked (3-2 FFBBBFB).",60,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,7,top,"Steele, L. struck out swinging (1-2 FSBS).",61,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,7,top,"Snow, E. singled to right field, advanced to second on a throwing error by rf (0-0)3a McMurray, C. advanced to third.",62,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,7,top,"Terrell, B. doubled to left field, 2 RBI (3-2 BBSKFB)3a Snow, E. scored3a McMurray, C. scored.",63,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,7,top,"Fralick, C. struck out looking (3-2 BBBKKK).",64,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,7,bot,"Griffis, E grounded out to ss (2-2 BKSBF).",65,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,7,bot,"Russell, L flied out to rf (1-2 KBF).",66,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,7,bot,"Perez, D walked (3-2 KBBBKB).",67,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,7,bot,"Barkett, I doubled down the rf line, RBI (2-1 BBK)3a Perez, D scored.",68,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,7,bot,"Hetzler, R. to p for Dutton, S..",69,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,7,bot,"Hylton, J pinch hit for De La Cruz,J.",70,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,7,bot,"Hylton, J singled to right field, RBI (3-2 KKBBB)3a Barkett, I scored.",71,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,7,bot,"Meola ,L singled to third base (0-1 K)3a Hylton, J advanced to second.",72,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,7,bot,"Lopez, N pinch ran for Hylton, J.",73,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,7,bot,"Moran, L hit by pitch (1-0 B)3a Meola ,L advanced to second3a Lopez, N advanced to third.",74,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,7,bot,"Apple, F reached on a fielder's choice to third base (0-2 KSF)3a Moran, L advanced to second3a Meola ,L out at third 3b unassisted.",75,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,8,top,"Lopez, N to 2b.",76,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,8,top,"Carter, B. grounded out to 1b unassisted (2-1 SBB).",77,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,8,top,"Rembert, C. fouled out to rf (2-1 KBB).",78,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,8,top,"Fabian, D. struck out swinging (1-2 KSFBFS).",79,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,8,bot,"Taylor, J singled to right field (0-1 K).",80,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,8,bot,"Griffis, E flied out to cf (1-0 B).",81,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,8,bot,"Russell, L flied out to cf (2-2 BBKS).",82,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,8,bot,"Perez, D singled through the left side (1-1 KB)3a Taylor, J advanced to second.",83,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,8,bot,"Downey, S pinch ran for Perez, D.",84,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,8,bot,"Barkett, I lined out to p (1-1 KB).",85,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,9,top,"Alvarez, S to c for Downey, S.",86,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,9,top,"Irish, I. homered to left center, RBI (1-0 B).",87,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,9,top,"McMurray, C. out at first 1b to p (2-1 KBB).",88,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,9,top,"Steele, L. grounded out to ss (3-2 KBSBB).",89,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596489,9,top,"Snow, E. flied out to lf (1-0 B).",90,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,9,bot,"Lopez, N struck out swinging (1-2 BSSS).",91,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,9,bot,"Meola ,L singled through the right side (2-2 KBFFBF).",92,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,9,bot,"Moran, L flied out to lf (0-2 KF).",93,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,9,bot,"Meola ,L advanced to second.",94,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
+6385748,596489,Auburn Tigers,596720,Stetson Hatters,596720,9,bot,"Apple, F struck out swinging (0-2 KSS).",95,2025-05-31T21:00:00-04:00,"Plainsman Park (Auburn, AL)",7434,MBA,2025
