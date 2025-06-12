@@ -107,8 +107,8 @@ def main():
     # ) - timedelta(days=1)
     later_datetime = datetime(
         year=2025,
-        month=5,
-        day=31
+        month=6,
+        day=6
     ) - timedelta(days=1)
 
     date_list = pd.date_range(
