@@ -1,7 +1,7 @@
 import logging
 from os import mkdir
 from random import shuffle
-import time
+# import time
 
 import pandas as pd
 from ncaa_stats_py.baseball import (
@@ -50,7 +50,7 @@ def combine_rosters(year: int):
 
 def main():
     """ """
-    year = 2025
+    year = 2026
     df = load_baseball_teams()
     for i in range(year, year-1, -1):
         print(f"\nParsing {i} rosters")

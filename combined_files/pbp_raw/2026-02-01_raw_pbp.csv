@@ -1,0 +1,483 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,1,top,"Mayberry,Luca singled to shallow right field (1-1 FB).",1,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,1,top,"Banks,Charlie singled to right center (0-2 SF); Mayberry,Luca advanced from first base to third base.",2,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,1,top,"Howard,Brent popped up to ss (1-1 KB).",3,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,1,top,"Strachan,Ryan popped up to 2b (0-1 K).",4,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,1,top,"Hood,Easton hit by pitch (1-1 FB); Banks,Charlie advanced to second base.",5,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,1,top,"Pou,Isaiah struck out looking (3-2 BBKBSK).",6,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,1,bot,"Hatfield,Zavier walked (3-2 BBKKBB).",7,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,1,bot,"Hatfield,Zavier stole second base.",8,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,1,bot,"Blanks,Brady grounded out, 1b to p (2-2 BBKKFF); Hatfield,Zavier advanced to third base.",9,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,1,bot,"Hatfield,Zavier scored, unearned.",10,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,1,bot,"Smith,Jalen walked (3-0 BBBB).",11,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,1,bot,"Opie,Blake flied out to cf (1-2 KKB).",12,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,1,bot,"Mendez,Luca walked (3-1 BBBKB); Smith,Jalen advanced to second base.",13,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,1,bot,"Tralongo,Anthony grounded out, p to 1b (3-2 KBFBB).",14,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,2,top,"Webster,Jackson reached on an error by Blanks,Brady (E7) (1-1 BF); Webster,Jackson advanced to second base.",15,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,2,top,"Mack,Jason sacrifice bunt, p to 1b (2-1 BBK); Webster,Jackson advanced to third base.",16,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,2,top,"Keller,Matt grounded out, 2b to 1b (2-2 KBSB).",17,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,2,top,"Mayberry,Luca struck out swinging (3-2 KBFBBS).",18,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,2,bot,"Perez,Christian walked (3-1 KBBBB).",19,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,2,bot,"Santiago,LeeAnthony struck out (0-3 SFS).",20,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,2,bot,"Joseph,Dyson flied out to lf (0-0).",21,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,2,bot,"Hatfield,Zavier grounded out, 2b to 1b (1-1 KB).",22,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,3,top,"Banks,Charlie popped up to shallow left field putout by ss (1-2 KKB).",23,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,3,top,"Howard,Brent grounded out, 2b to 1b (0-0).",24,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,3,top,"Strachan,Ryan doubled to deep center field (1-1 KB).",25,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,3,top,"Hood,Easton struck out looking (2-2 BSBSK).",26,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"Blanks,Brady singled to shallow center field (1-1 SB).",27,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"Blanks,Brady stole second base.",28,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"Smith,Jalen walked (3-2 KSBBBB).",29,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"VSU pitching change: Jackson,Trey replaces Macera,Ty.",30,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"Opie,Blake singled through the left side of the infield, RBI (2-1 BBF); Blanks,Brady scored from second base; Smith,Jalen advanced to second base.",31,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"Mendez,Luca singled to shallow left field (0-1 K); Smith,Jalen advanced to third base; Opie,Blake advanced to second base.",32,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"Tralongo,Anthony infield singled to short, RBI (1-2 BKF); Smith,Jalen scored; Opie,Blake advanced to third base; Mendez,Luca advanced to second base.",33,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"Perez,Christian singled to left center, 2RBI (0-1 K); Opie,Blake scored; Mendez,Luca scored from second base; Tralongo,Anthony advanced to second base.",34,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"Tralongo,Anthony stole third base.",35,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"Santiago,LeeAnthony singled up the middle, RBI (1-2 KFB); Tralongo,Anthony scored; Perez,Christian advanced to second base.",36,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"Santiago,LeeAnthony advanced to second base; Perez,Christian advanced to third base.",37,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"Joseph,Dyson reached on a fielder's choice hit to third base (3-2 BBSKB); Perez,Christian out at home, 3b to c; Santiago,LeeAnthony advanced to third base.",38,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"Hatfield,Zavier sacrifice fly to lf, RBI (2-1 BFB); Santiago,LeeAnthony scored; Joseph,Dyson advanced from first base to third base.",39,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"Joseph,Dyson stole home, scored.",40,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"Blanks,Brady doubled to right center (1-2 KBK).",41,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"Smith,Jalen homered to deep right field, 2RBI (0-0); Blanks,Brady scored from second base.",42,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"VSU pitching change: Floyd,Ty replaces Jackson,Trey.",43,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,3,bot,"Opie,Blake struck out looking (3-2 BBBKKFK).",44,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,4,top,"Pou,Isaiah grounded out, 3b to 1b (0-2 FK).",45,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,4,top,"Webster,Jackson hit by pitch (3-2 FBBSFFB).",46,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,4,top,"Mack,Jason hit by pitch (1-1 KB); Webster,Jackson advanced to second base.",47,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,4,top,"Keller,Matt walked (3-1 BBBKB); Webster,Jackson advanced to third base; Mack,Jason advanced to second base.",48,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,4,top,"Mayberry,Luca struck out looking (0-2 KKK).",49,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,4,top,"Banks,Charlie singled through the left side of the infield, 2RBI (0-0); Webster,Jackson scored; Mack,Jason scored from second base; Keller,Matt advanced to second base.",50,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,4,top,"Howard,Brent out on batter's interference to c (3-2 BKSBB).",51,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,4,bot,"Mendez,Luca struck out looking (1-2 BFFK).",52,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,4,bot,"Tralongo,Anthony walked (3-0 BBBB).",53,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,4,bot,"Perez,Christian walked (3-1 BBBKB); Tralongo,Anthony advanced to second base.",54,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,4,bot,"Perez,Christian advanced to second base; Tralongo,Anthony advanced to third base.",55,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,4,bot,"Santiago,LeeAnthony sacrifice fly to cf, RBI (3-0 BBB); Tralongo,Anthony scored.",56,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,4,bot,"Joseph,Dyson walked (3-0 BBBB).",57,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,4,bot,"Hatfield,Zavier singled through the right side of the infield, 2RBI (2-0 BB); Perez,Christian scored from second base; Joseph,Dyson scored from first base; Hatfield,Zavier advanced to second base on the throw.",58,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,4,bot,"Blanks,Brady struck out looking (3-2 BBFKBK).",59,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,5,top,"barr pitching change: Campbell,Chase replaces Piperakis,Pavlos.",60,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,5,top,"Strachan,Ryan doubled (1-2 BKK).",61,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,5,top,"Hood,Easton infield singled to second base (0-0); Strachan,Ryan advanced to third base.",62,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,5,top,"Pou,Isaiah sacrifice fly to cf, RBI (1-0 B); Strachan,Ryan scored.",63,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,5,top,"Hood,Easton advanced to second base on a wild pitch.",64,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,5,top,"Webster,Jackson struck out looking (1-2 KSBFK).",65,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,5,top,"Hood,Easton advanced to third base on a passed ball.",66,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,5,top,"Hood,Easton scored on a passed ball, unearned.",67,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,5,top,"Mack,Jason struck out (2-3 SBBSS).",68,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,5,bot,"VSU pitching change: Wetherell,Preston replaces Floyd,Ty.",69,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,5,bot,"Smith,Jalen singled (1-1 BF).",70,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,5,bot,"Opie,Blake struck out looking (3-2 FBKFBBK).",71,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,5,bot,"Mendez,Luca flied out to rf (1-2 BKS).",72,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,5,bot,"Tralongo,Anthony hit by pitch (2-2 FFFBFB); Smith,Jalen advanced to second base.",73,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,5,bot,"Perez,Christian fouled out to 3b (1-0 B).",74,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,6,top,"Keller,Matt singled to left center (0-1 F).",75,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,6,top,"Mayberry,Luca popped up to shallow left field putout by ss (0-0).",76,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,6,top,"Banks,Charlie flied out to lf (0-1 K).",77,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,6,top,"Howard,Brent walked (3-0 BBBB); Keller,Matt advanced to second base.",78,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,6,top,"Strachan,Ryan reached on a fielder's choice hit to short (2-2 KBBKFF); Howard,Brent out at second base, ss to 2b.",79,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,6,bot,"VSU pitching change: DelNegro,Nick replaces Wetherell,Preston.",80,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,6,bot,"Santiago,LeeAnthony grounded out, ss to 1b (1-0 B).",81,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,6,bot,"Joseph,Dyson grounded out, 2b to 1b (0-1 K).",82,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,6,bot,"Hatfield,Zavier struck out looking (1-2 FBFK).",83,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,7,top,"Hood,Easton struck out swinging (2-2 BSFBS).",84,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,7,top,"Pou,Isaiah hit by pitch (1-0 B).",85,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,7,top,"VSU substitution: Flading,Luke pinch hitting for Webster,Jackson.",86,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,7,top,"Flading,Luke flied out to cf (1-0 B).",87,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,7,top,"Mack,Jason singled to left field (2-1 SBB); Pou,Isaiah advanced to second base.",88,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,7,top,"Keller,Matt flied out to lf (1-0 B).",89,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,7,bot,"VSU position change: Flading,Luke remains in the game at dh",90,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,7,bot,"VSU pitching change: Dunn,Boomer replaces Wetherell,Preston.",91,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,7,bot,"Blanks,Brady grounded out, ss to 1b (1-1 BF).",92,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,7,bot,"Smith,Jalen grounded out, ss to 1b (0-1 K).",93,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,7,bot,"Opie,Blake homered to deep left field, RBI (1-1 BK).",94,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,7,bot,"Mendez,Luca flied out to cf (0-1 K).",95,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,8,top,"barr pitching change: Blair,Erik replaces Campbell,Chase.",96,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,8,top,"Mayberry,Luca grounded out to 1b, unassisted (0-0).",97,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,8,top,"Banks,Charlie singled through the left side of the infield (1-1 BS).",98,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,8,top,"Howard,Brent hit by pitch (2-1 BFB); Banks,Charlie advanced to second base.",99,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,8,top,"Strachan,Ryan struck out looking (1-2 KBSK).",100,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,8,top,"Hood,Easton struck out (2-3 BFBKFS).",101,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,8,bot,"VSU pitching change: James,Preston replaces Dunn,Boomer.",102,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,8,bot,"Tralongo,Anthony singled to shallow right field (2-1 BBF).",103,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,8,bot,"Perez,Christian singled through the right side of the infield (2-0 BB); Tralongo,Anthony advanced to second base.",104,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,8,bot,"Santiago,LeeAnthony flied out to rf (1-0 B); Tralongo,Anthony advanced to third base.",105,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,8,bot,"Joseph,Dyson hit by pitch (2-0 BB); Perez,Christian advanced to second base.",106,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,8,bot,"Hatfield,Zavier popped up to ss (0-0).",107,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,8,bot,"Blanks,Brady singled to right center, 2RBI (2-1 BBF); Tralongo,Anthony scored; Perez,Christian scored from second base; Joseph,Dyson advanced from first base to third base.",108,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615008,8,bot,"Smith,Jalen grounded out, ss to 1b (3-2 BBFBF).",109,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,9,top,"barr pitching change: Medina,Jonathan replaces Blair,Erik.",110,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,9,top,"Pou,Isaiah grounded out, ss to 1b (2-0 BB).",111,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,9,top,"Flading,Luke walked (3-0 BBBB).",112,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548314,615091,Valdosta St. Blazers,615008,Barry Buccaneers,615091,9,top,"Mack,Jason grounded out, 2b to ss to 1b (2-2 KBBK); Flading,Luke out at 1B on the play, 1b, in a double play.",113,2026-02-01 00:00:00-05:00,"Feinbloom Field (Miami Shores, FL)",187,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,1,top,"NAJAR,Dominick doubled to deep center field (0-0).",1,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,1,top,"NAJAR,Dominick stole third base.",2,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,1,top,"MARTINI,Gio flied out to third base (3-2 KBBKB).",3,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,1,top,"STELLING,Logan singled to third base, RBI (0-0)3a NAJAR,Dominick scored.",4,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,1,top,"STELLING,Logan out caught stealing at second base, c to ss.",5,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,1,top,"UNANGST,Dylan walked (3-1 BBBKB).",6,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,1,top,"DICARLOJR,Marc reached on an error by Parent,Carter (E8), RBI (2-1 BBK)3a UNANGST,Dylan scored from first base, unearned3a DICARLOJR,Marc advanced to third base.",7,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,1,top,"RAMOS,Alijah singled through the left side of the infield, RBI (0-0)3a DICARLOJR,Marc scored, unearned.",8,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,1,top,"JOHNSTON,Ben flied out to cf (2-1 KBB).",9,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,1,bot,"McNamara,Jake flied out to rf (0-2 FFF).",10,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,1,bot,"Parent,Carter walked (3-1 BBSBB).",11,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,1,bot,"Holmes,Finley flied out to cf (0-0).",12,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,1,bot,"Pennington,Ian singled in the infield (1-0 B)3a Parent,Carter advanced from first base to third base.",13,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,1,bot,"Kelly,Kody flied out in third base side foul territory putout by 3b (0-1 K).",14,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,2,top,"Chance,Caleb grounded out to short, ss to 1b (0-2 FK).",15,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,2,top,"CERVANTES,Micah grounded out to the right side of the infield, 2b to 1b (0-2 KK).",16,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,2,top,"NAJAR,Dominick grounded out to short, ss to 1b (1-1 FB).",17,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,2,bot,"Rakes,Patrick struck out looking (0-2 KFK).",18,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,2,bot,"Schettino,Michael flied out to rf (0-0).",19,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,2,bot,"Chantres,Giancarlo grounded out up the middle, 2b to 1b (0-0).",20,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,3,top,"MARTINI,Gio walked (3-2 BBBKKB).",21,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,3,top,"STELLING,Logan doubled to deep center field (0-2 FK)3a MARTINI,Gio advanced from first base to third base.",22,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,3,top,"UNANGST,Dylan singled down the left field line, 2RBI (0-0)3a MARTINI,Gio scored3a STELLING,Logan scored from second base.",23,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,3,top,"DICARLOJR,Marc flied out to third base (0-0).",24,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,3,top,"RAMOS,Alijah reached on a fielder's choice hit to third base (0-1 K)3a UNANGST,Dylan out at second base, 3b to 2b.",25,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,3,top,"RAMOS,Alijah stole second base.",26,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,3,top,"JOHNSTON,Ben grounded out to short, ss to 1b (0-1 K).",27,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,3,bot,"Malek,Isaiah grounded out to the infield putout by 1b, unassisted, bunt (0-0).",28,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,3,bot,"McNamara,Jake flied out to deep left field putout by cf (1-0 B).",29,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,3,bot,"Parent,Carter walked (3-2 KBBBFB).",30,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,3,bot,"Holmes,Finley reached on a throwing error throwing by ss by CERVANTES,Micah (E6) (1-2 FSFB)3a Parent,Carter scored from first base, unearned3a Holmes,Finley advanced to second base.",31,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,3,bot,"Pennington,Ian struck out swinging, dropped third strike out at first c to 1b (0-2 FFS).",32,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,4,top,"Chance,Caleb singled to shallow right field (1-1 FB).",33,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,4,top,"CERVANTES,Micah singled in the infield, bunt (0-0)3a Chance,Caleb advanced to second base.",34,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,4,top,"NAJAR,Dominick grounded out to third base, 3b to 1b (1-2 FFB)3a Chance,Caleb advanced to third base3a CERVANTES,Micah advanced to second base.",35,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,4,top,"MARTINI,Gio homered to deep right field, 3RBI (3-1 BKBB)3a Chance,Caleb scored3a CERVANTES,Micah scored from second base.",36,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,4,top,"STELLING,Logan struck out swinging, dropped third strike out at first c (1-2 BFFS).",37,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,4,top,"UNANGST,Dylan flied out to short (0-0).",38,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,4,bot,"Kelly,Kody struck out swinging, dropped third strike out at first c to 1b (1-2 BSKS).",39,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,4,bot,"Rakes,Patrick struck out (3-3 BFBSBFFS).",40,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,4,bot,"Schettino,Michael flied out to lf (0-0).",41,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,5,top,"DICARLOJR,Marc doubled down the right field line (0-0).",42,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,5,top,"DICARLOJR,Marc advanced to third base.",43,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,5,top,"RAMOS,Alijah walked (3-1 BBKBB).",44,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,5,top,"palm pitching change: Orloff,Zachary replaces Budiac,Elijah.",45,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,5,top,"JOHNSTON,Ben grounded out to short, ss to 1b, RBI (0-2 KK)3a DICARLOJR,Marc scored3a RAMOS,Alijah advanced to second base.",46,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,5,top,"RAMOS,Alijah advanced to third base on a balk.",47,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,5,top,"Chance,Caleb walked (3-2 FKBBBB).",48,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,5,top,"CERVANTES,Micah walked (3-1 BBBKB)3a Chance,Caleb advanced to second base.",49,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,5,top,"NAJAR,Dominick singled through the left side of the infield, RBI (2-0 BB)3a RAMOS,Alijah scored3a Chance,Caleb advanced to third base3a CERVANTES,Micah advanced to second base.",50,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,5,top,"MARTINI,Gio hit by pitch, RBI (3-1 BBKB)3a Chance,Caleb scored3a CERVANTES,Micah advanced to third base3a NAJAR,Dominick advanced to second base.",51,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,5,top,"STELLING,Logan singled through the right side of the infield, RBI (0-0)3a CERVANTES,Micah scored3a NAJAR,Dominick advanced to third base3a MARTINI,Gio advanced to second base.",52,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,5,top,"UNANGST,Dylan sacrifice fly to deep center field putout by cf, RBI (1-0 B)3a NAJAR,Dominick scored3a MARTINI,Gio advanced to third base.",53,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,5,top,"DICARLOJR,Marc singled up the middle, RBI (2-1 KBB)3a MARTINI,Gio scored3a STELLING,Logan advanced to second base.",54,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,5,top,"RAMOS,Alijah singled through the left side of the infield (0-0)3a STELLING,Logan advanced to third base3a DICARLOJR,Marc advanced to second base.",55,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,5,top,"JOHNSTON,Ben hit by pitch, RBI (1-2 KKB)3a STELLING,Logan scored3a DICARLOJR,Marc advanced to third base3a RAMOS,Alijah advanced to second base.",56,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,5,top,"Chance,Caleb reached on a fielder's choice hit to short (2-2 FFBFFB)3a DICARLOJR,Marc scored, unearned3a RAMOS,Alijah advanced to third base3a JOHNSTON,Ben advanced to second base on a fielding error by Malek,Isaiah (E4).",57,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,5,top,"CERVANTES,Micah reached on a fielder's choice hit to short (0-0)3a Chance,Caleb out at second base, ss to 2b.",58,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,5,bot,"Chantres,Giancarlo singled to left field (0-0).",59,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,5,bot,"Chantres,Giancarlo advanced to second base.",60,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,5,bot,"Malek,Isaiah struck out (3-3 BBBKSFFS).",61,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,5,bot,"McNamara,Jake singled through the right side of the infield (0-1 F)3a Chantres,Giancarlo advanced to third base.",62,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,5,bot,"Parent,Carter singled up the middle, RBI (1-1 BK)3a Chantres,Giancarlo scored3a McNamara,Jake advanced to second base.",63,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,5,bot,"Holmes,Finley reached on a fielder's choice hit to third base (0-2 KS)3a McNamara,Jake advanced to third base3a Parent,Carter out at second base, 3b to 2b.",64,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,5,bot,"Pennington,Ian grounded out to first base, unassisted (1-1 BF).",65,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,6,top,"NAJAR,Dominick singled through the left side of the infield (0-1 F).",66,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,6,top,"MARTINI,Gio walked (3-2 BBBKSB)3a NAJAR,Dominick advanced to second base.",67,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,6,top,"CSEB substitution: DYER,Kyle pinch hitting for STELLING,Logan.",68,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,6,top,"DYER,Kyle struck out (0-3 KKS).",69,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,6,top,"palm pitching change: Chantres,Lucas replaces Orloff,Zachary.",70,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,6,top,"CSEB substitution: MERCHANT,Alex pinch hitting for UNANGST,Dylan.",71,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,6,top,"MERCHANT,Alex flied out to left center putout by cf (1-2 SBK).",72,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,6,top,"DICARLOJR,Marc doubled down the right field line, 2RBI (1-0 B)3a NAJAR,Dominick scored from second base3a MARTINI,Gio scored from first base.",73,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,6,top,"CSEB substitution: THOMSON,Nick pinch hitting for RAMOS,Alijah.",74,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,6,top,"THOMSON,Nick struck out, dropped third strike out at first c to 1b (1-3 SSBS).",75,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,6,bot,"CSEB defensive substitution: JAMES,William replaces NAJAR,Dominick at cf",76,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,6,bot,"CSEB position change: DYER,Kyle remains in the game at dh",77,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,6,bot,"CSEB position change: MERCHANT,Alex remains in the game at 1b",78,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,6,bot,"CSEB position change: THOMSON,Nick remains in the game at 3b",79,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,6,bot,"CSEB position change: Chance,Caleb now playing 2b from 3b",80,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,6,bot,"CSEB pitching change: HOCKING,Alexander replaces MCADARA,Jaxen.",81,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,6,bot,"Kelly,Kody homered to deep right field, RBI (0-0).",82,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,6,bot,"Rakes,Patrick walked (3-2 BKKBFBFFB).",83,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,6,bot,"Schettino,Michael struck out (0-3 KSS).",84,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,6,bot,"Chantres,Giancarlo reached on a throwing error throwing by ss by CERVANTES,Micah (E6) (0-0)3a Rakes,Patrick advanced to second base.",85,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,6,bot,"Malek,Isaiah struck out looking (3-2 SKBBFBK).",86,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,6,bot,"McNamara,Jake hit by pitch (2-0 BB)3a Rakes,Patrick advanced to third base3a Chantres,Giancarlo advanced to second base.",87,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,6,bot,"Parent,Carter flied out to first base (0-0).",88,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,7,top,"CSEB substitution: HERNANDEZ,Eli pinch hitting for JOHNSTON,Ben.",89,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,7,top,"HERNANDEZ,Eli flied out to cf (2-0 BB).",90,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,7,top,"Chance,Caleb struck out (0-3 KKS).",91,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,7,top,"CERVANTES,Micah grounded out to second base, 2b to 1b (2-2 BBFK).",92,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,7,bot,"CSEB position change: HERNANDEZ,Eli remains in the game at c",93,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,7,bot,"Holmes,Finley singled to shallow left field (1-0 B).",94,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,7,bot,"Pennington,Ian singled to shallow right field (0-0)3a Holmes,Finley advanced to second base.",95,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,7,bot,"Kelly,Kody struck out (0-3 KSS).",96,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,7,bot,"Rakes,Patrick homered to deep right field, 3RBI (1-2 KBK)3a Holmes,Finley scored from second base3a Pennington,Ian scored from first base.",97,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,7,bot,"Schettino,Michael reached on a fielding error fielding by ss by CERVANTES,Micah (E6) (0-0).",98,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,7,bot,"Chantres,Giancarlo singled to shallow left field (0-2 KF)3a Schettino,Michael advanced to second base.",99,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,7,bot,"Malek,Isaiah grounded into double play to short, ss to 2b to 1b (2-2 KBKB)3a Chantres,Giancarlo out at 2B on the play, ss to 2b, in a double play.",100,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,8,top,"palm pitching change: Murray,Jared replaces Chantres,Lucas.",101,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,8,top,"JAMES,William singled to right field (0-0).",102,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,8,top,"JAMES,William advanced to second base on a wild pitch.",103,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,8,top,"MARTINI,Gio struck out (2-3 BKKBFS).",104,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,8,top,"DYER,Kyle walked (3-2 BSBBKFFB).",105,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,8,top,"DYER,Kyle advanced to second base on a wild pitch3a JAMES,William advanced to third base on a wild pitch.",106,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,8,top,"MERCHANT,Alex struck out looking (3-2 KBBBFK).",107,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,8,top,"DICARLOJR,Marc flied out to lf (0-0).",108,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,8,bot,"CSEB pitching change: TIMOTHY,Hunter replaces HOCKING,Alexander.",109,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,8,bot,"McNamara,Jake doubled to right center (2-2 SBBS).",110,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,8,bot,"Parent,Carter grounded out to short, ss to 1b (1-0 B)3a McNamara,Jake advanced to third base.",111,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,8,bot,"Holmes,Finley doubled down the left field line, RBI (0-0)3a McNamara,Jake scored.",112,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,8,bot,"Pennington,Ian singled to second base (0-1 F)3a Holmes,Finley advanced to third base.",113,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,8,bot,"Kelly,Kody singled through the right side of the infield, RBI (3-1 BBBK)3a Holmes,Finley scored3a Pennington,Ian advanced from first base to third base.",114,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,8,bot,"Rakes,Patrick singled to shallow center field, RBI (0-1 F)3a Pennington,Ian scored3a Kelly,Kody advanced to second base.",115,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,8,bot,"Schettino,Michael struck out looking (2-2 SSBBK).",116,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,8,bot,"Chantres,Giancarlo singled to shallow left field (0-2 KS)3a Kelly,Kody advanced to third base3a Rakes,Patrick advanced to second base.",117,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,8,bot,"Malek,Isaiah struck out looking (1-2 BKFK).",118,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,9,top,"palm pitching change: Hoornstra,Chip replaces Murray,Jared.",119,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,9,top,"THOMSON,Nick grounded out to the infield, c to 1b (1-1 KB).",120,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,9,top,"HERNANDEZ,Eli flied out to lf (1-2 KSB).",121,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,9,top,"Chance,Caleb singled up the middle (1-1 BF).",122,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,615018,9,top,"CERVANTES,Micah flied out to shallow left field putout by lf (2-1 BSB).",123,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,9,bot,"McNamara,Jake grounded out to short, ss to 1b (0-1 K).",124,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,9,bot,"Parent,Carter grounded out to short, ss to 1b (0-0).",125,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548319,615018,Cal St. East Bay Pioneers,614951,Palm Beach Atl. Sailfish,614951,9,bot,"Holmes,Finley flied out to shallow left field putout by ss (0-0).",126,2026-02-01 00:00:00-05:00,"J.M. ""Jake"" Rubin Park (West Palm Beach, FL)",115,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,1,top,K. Richie walked.,1,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,1,top,A. Brown grounded out to p3a K. Richie advanced to second.,2,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,1,top,E. Cook struck out swinging.,3,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,1,top,K. Richie advanced to third on a wild pitch.,4,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,1,top,E. Sheppard walked.,5,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,1,top,E. Sheppard stole second3a K. Richie stole home.,6,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,1,top,"N. Lebron singled to center field, RBI3a E. Sheppard scored.",7,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,1,top,N. Siedens struck out swinging.,8,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,1,bot,D. Campbell struck out swinging.,9,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,1,bot,D. Tallingto struck out swinging.,10,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,1,bot,D. Whitehead hit by pitch.,11,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,1,bot,D. Whitehead advanced to second on a wild pitch.,12,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,1,bot,A. Hardy walked.,13,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,1,bot,C. Hill reached on a fielder's choice3a A. Hardy out at second ss to 2b.,14,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,2,top,B. Brown flied out to rf.,15,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,2,top,C. Morrow struck out swinging.,16,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,2,top,T. Brickhill struck out swinging.,17,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,2,bot,M. Morales walked.,18,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,2,bot,T. Gilbert reached on a fielder's choice3a M. Morales out at second p to 2b.,19,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,2,bot,A. Jimenez reached on a fielder's choice3a T. Gilbert out at second ss unassisted.,20,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,2,bot,X. Terrell singled through the left side3a A. Jimenez advanced to second.,21,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,2,bot,D. Campbell flied out to rf.,22,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,3,top,K. Richie singled to center field.,23,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,3,top,A. Brown struck out swinging.,24,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,3,top,K. Richie stole second.,25,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,3,top,E. Cook walked3a K. Richie advanced to third on a wild pitch.,26,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,3,top,E. Cook stole second.,27,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,3,top,E. Sheppard struck out looking.,28,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,3,top,N. Lebron grounded out to ss.,29,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,3,bot,D. Tallingto flied out to cf.,30,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,3,bot,D. Whitehead flied out to rf.,31,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,3,bot,A. Hardy grounded out to ss.,32,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,4,top,N. Siedens flied out to lf.,33,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,4,top,B. Brown singled to third base.,34,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,4,top,C. Morrow struck out swinging.,35,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,4,top,B. Brown stole second.,36,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,4,top,B. Brown stole third.,37,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,4,top,T. Brickhill struck out looking.,38,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,4,bot,C. Hill singled to center field.,39,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,4,bot,C. Hill stole second.,40,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,4,bot,M. Morales walked.,41,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,4,bot,"T. Gilbert grounded out to p, SAC, bunt3a M. Morales advanced to second3a C. Hill advanced to third.",42,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,4,bot,A. Jimenez struck out swinging.,43,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,4,bot,X. Terrell struck out swinging.,44,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,5,top,K. Richie grounded out to ss.,45,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,5,top,A. Brown struck out looking.,46,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,5,top,"E. Cook struck out swinging, out at first c to 1b.",47,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,5,bot,O. Branch to 1b for N. Siedens.,48,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,5,bot,D. Campbell flied out to lf.,49,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,5,bot,D. Tallingto walked.,50,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,5,bot,D. Whitehead grounded into double play ss to 1b3a D. Tallingto out on the play.,51,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,6,top,S. Durosier to p for X. Campbell.,52,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,6,top,E. Sheppard walked.,53,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,6,top,N. Lebron doubled to right field3a E. Sheppard advanced to third.,54,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,6,top,O. Branch walked.,55,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,6,top,N. Lebron advanced to third3a E. Sheppard scored on a wild pitch.,56,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,6,top,"B. Brown flied out to lf, sacrifice fly, RBI3a O. Branch advanced to second on a throwing error by lf3a N. Lebron scored.",57,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,6,top,T. Taylor to p for S. Durosier.,58,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,6,top,C. Morrow struck out swinging.,59,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,6,top,O. Branch advanced to third on a wild pitch.,60,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,6,top,T. Brickhill walked3a O. Branch scored on a wild pitch.,61,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,-1,6,top,K. Richie flied out to cf.,62,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,A. Hardy walked.,63,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,A. Hardy advanced to second on a wild pitch.,64,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,A. Hardy stole third.,65,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,"C. Hill singled to left field, RBI3a A. Hardy scored.",66,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,M. Morales singled to left field3a C. Hill advanced to second.,67,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,"T. Gilbert singled to pitcher, bunt3a M. Morales advanced to second3a C. Hill advanced to third.",68,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,/  for A. Sur.,69,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,T. McGrew to lf for E. Cook.,70,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,C. Morrow to cf.,71,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,A. Brown to p.,72,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,C. Hill scored on a wild pitch.,73,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,A. Jimenez walked3a T. Gilbert advanced to second3a M. Morales advanced to third.,74,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,"X. Terrell singled to right field, RBI3a A. Jimenez advanced to second3a T. Gilbert advanced to third3a M. Morales scored.",75,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,T. Brickhill to p.,76,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,A. Brown to rf.,77,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,X. Terrell advanced to second3a A. Jimenez advanced to third3a T. Gilbert scored on a balk.,78,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,D. Campbell struck out looking.,79,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,"D. Tallingto singled to left field, advanced to second on the throw, 2 RBI3a X. Terrell scored3a A. Jimenez scored.",80,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026
+6548356,-1,"
+     Philander Smith
+   ",614957,Claflin Panthers,614957,6,bot,D. Whitehead walked.,81,2026-02-01 00:00:00-05:00,"Birmingham, AL",30,MBA,2026

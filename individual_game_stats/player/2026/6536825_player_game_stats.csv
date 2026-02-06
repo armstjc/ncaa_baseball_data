@@ -1,0 +1,67 @@
+season,sport_id,game_datetime,game_id,team_id,player_id,player_jersey_number,player_full_name,player_positions,batting_G,batting_GS,batting_R,batting_AB,batting_H,batting_2B,batting_3B,batting_TB,batting_HR,batting_RBI,batting_BB,batting_HBP,batting_SF,batting_SH,batting_SO,batting_OPP_DP,batting_CS,batting_PK,batting_SB,batting_IBB,batting_KL,pitching_GP,pitching_GS,pitching_IP,pitching_IP_str,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_BF,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SF,pitching_KL,pitching_TUER,pitching_PK,pitching_order_appeared,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_CI,fielding_PB,fielding_SBA,fielding_CSB,fielding_IDP,fielding_TP,fielding_SBA%,stadium_name,attendance,away_team_id,home_team_id,away_team_name,home_team_name
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,615089,9685554,0,Jacobi Brooks,RF,1,1,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,8464887,11241135,1,G Carmichael,CF,1,1,2,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,3,0,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,615089,9678404,10,Jabari Johnson,LF,1,1,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,1,5,0,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,8464887,11241130,11,G. Shaffer,2B,1,1,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,2,0,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,615089,9677412,12,Chris Smith,3B,1,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,1,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,8464887,9978595,12,Gage Lewis,C,1,1,0,3,1,0,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,1,7,0,0,0,2,1,0,0,0.667,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,8464887,9978594,19,James Magee,LF,1,1,0,3,2,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,8464887,9978596,2,Robert Powe,3B,1,1,1,4,1,0,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,2,0,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,8464887,9978618,20,Javon Johnson,DH,1,1,1,4,3,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,615089,9686999,20,Ryan Morrow,SS,1,1,0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,4,5,1,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,615089,11226495,21,Jeremiah Francis,C,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,10,1,11,0,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,615089,9687421,23,Collin McLain,CF,1,1,0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,8464887,11241137,23,L. Sutton,RF,1,1,1,3,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,2,0,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,615089,11226601,29,Mario Craig,PH,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,615089,9678157,5,Austin Evans,1B,1,1,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0,5,1,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,8464887,9978604,5,NicholasBlake Bostic,1B,1,1,0,4,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,0,5,0,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,615089,11226502,50,Lorenzo Bailey,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2.668,2.2,1,0,0,1,2,13,0,0,0,0,0,0,0,3,3,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,8464887,11241133,6,C. Wade,SS,1,1,0,4,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,615089,9696336,6,Stephon Wright,DH,1,1,0,2,1,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,8464887,9978608,7,C. Carter,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7.0,7.0,3,1,1,2,6,25,0,1,0,1,0,1,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,615089,9677100,7,Terry Ware,2B,1,1,1,3,1,0,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,3,1,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers
+2026,MBA,2026-02-03T17:00:00-05:00,6536825,615089,9696477,8,Richard Powell IV,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4.332,4.1,7,5,2,0,7,22,0,0,0,1,1,1,0,0,0,0,1,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Washington Field (Tuskegee, AL)",30,-1,615089,"
+     Tougaloo
+   ",Tuskegee Golden Tigers

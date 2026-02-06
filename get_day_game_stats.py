@@ -61,14 +61,16 @@ def get_day_game_stats(date_obj: date):
             ):
                 continue
 
-            try:
-                player_stats_df = get_baseball_game_player_stats(game_id)
-            except Exception as e:
-                logging.warning(
-                    f"Unhandled exception: `{e}`, game ID: {game_id}"
-                )
-                time.sleep(5)
-                continue
+            player_stats_df = get_baseball_game_player_stats(game_id)
+
+            # try:
+            #     player_stats_df = get_baseball_game_player_stats(game_id)
+            # except Exception as e:
+            #     logging.warning(
+            #         f"Unhandled exception: `{e}`, game ID: {game_id}"
+            #     )
+            #     time.sleep(5)
+            #     continue
 
             if len(player_stats_df) > 0:
                 player_stats_df.to_csv(
@@ -77,14 +79,15 @@ def get_day_game_stats(date_obj: date):
                     index=False
                 )
 
-            try:
-                raw_pbp_df = get_raw_baseball_game_pbp(game_id)
-            except Exception as e:
-                logging.warning(
-                    f"Unhandled exception: `{e}`, game ID: {game_id}"
-                )
-                time.sleep(5)
-                continue
+            raw_pbp_df = get_raw_baseball_game_pbp(game_id)
+            # try:
+            #     raw_pbp_df = get_raw_baseball_game_pbp(game_id)
+            # except Exception as e:
+            #     logging.warning(
+            #         f"Unhandled exception: `{e}`, game ID: {game_id}"
+            #     )
+            #     time.sleep(5)
+            #     continue
 
             if len(raw_pbp_df) > 0:
                 raw_pbp_df.to_csv(
@@ -106,7 +109,7 @@ def main():
     #     day=1
     # ) - timedelta(days=1)
     # later_datetime = datetime(
-    #     year=2024,
+    #     year=2026,
     #     month=2,
     #     day=1
     # ) - timedelta(days=1)
