@@ -1,0 +1,325 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,1,top,Rogers tripled.,1,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,1,top,Garcia walked.,2,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,1,top,Davies struck out looking.,3,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,1,top,Purvis hit by pitch3a Garcia advanced to second.,4,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,1,top,"Reyes walked, RBI3a Purvis advanced to second3a Garcia advanced to third3a Rogers scored.",5,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,1,top,Martinez struck out swinging.,6,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,1,top,"Rodriguez walked, RBI3a Reyes advanced to second3a Purvis advanced to third3a Garcia scored.",7,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,1,top,Blunt flied out to 1b.,8,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,1,bot,K. Cole flied out to 1b.,9,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,1,bot,A. Owens walked.,10,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,1,bot,C. Brock singled3a A. Owens advanced to third.,11,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,1,bot,"M. Smith flied out to rf, sacrifice fly, RBI3a A. Owens scored.",12,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,1,bot,Richardson hit by pitch3a C. Brock advanced to second.,13,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,1,bot,K. Terry grounded out ss to 2b to 1b.,14,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,2,top,Chapa struck out swinging.,15,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,2,top,Rogers struck out swinging.,16,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,2,top,Garcia walked.,17,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,2,top,Davies struck out swinging.,18,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,2,bot,J. Fitzpatri struck out swinging.,19,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,2,bot,Au. Latting flied out to rf.,20,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,2,bot,P. Smith grounded out to 3b.,21,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,3,top,Purvis hit by pitch.,22,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,3,top,Reyes popped up to 1b.,23,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,3,top,"Martinez homered, 2 RBI3a Purvis scored.",24,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,3,top,Rodriguez popped up to 3b.,25,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,3,top,Blunt singled.,26,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,3,top,Blunt stole second.,27,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,3,top,Chapa struck out swinging.,28,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,3,bot,K. Cole hit by pitch.,29,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,3,bot,K. Cole stole second.,30,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,3,bot,A. Owens singled3a K. Cole advanced to third.,31,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,3,bot,"C. Brock grounded out to 1b unassisted, RBI3a A. Owens advanced to second3a K. Cole scored.",32,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,3,bot,M. Smith hit by pitch.,33,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,3,bot,Richardson grounded into double play ss to 2b to 1b3a M. Smith out on the play.,34,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,4,top,Rogers flied out to cf.,35,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,4,top,K. Moody to p for J. Ward.,36,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,4,top,Garcia walked.,37,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,4,top,"Davies homered, 2 RBI3a Garcia scored.",38,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,4,top,Purvis walked.,39,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,4,top,Castillo pinch hit for Reyes.,40,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,4,top,Castillo walked3a Purvis advanced to second.,41,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,4,top,Castillo stole second3a Purvis stole third.,42,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,4,top,Martinez walked.,43,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,4,top,Babbitt pinch hit for Rodriguez.,44,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,4,top,"Babbitt flied out to cf, sacrifice fly, RBI3a Martinez advanced to second3a Castillo advanced to third3a Purvis scored.",45,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,4,top,Blunt struck out swinging.,46,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,4,bot,Rodriguez to c for Babbitt.,47,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,4,bot,K. Terry grounded out to 1b unassisted.,48,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,4,bot,J. Fitzpatri struck out swinging.,49,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,4,bot,Au. Latting struck out swinging.,50,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,5,top,Chapa grounded out to 1b unassisted.,51,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,5,top,Rogers hit by pitch.,52,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,5,top,Rogers stole second.,53,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,5,top,Garcia hit by pitch.,54,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,5,top,"Davies doubled, 2 RBI3a Garcia scored3a Rogers scored.",55,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,5,top,A. Robinson to p for K. Moody.,56,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,5,top,J. Ward to p for A. Robinson.,57,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,5,top,Purvis hit by pitch.,58,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,5,top,A. Robinson to p for J. Ward.,59,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,5,top,Castillo flied out to cf.,60,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,5,top,Martinez struck out swinging.,61,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,5,bot,Jorge to p for Carrasco.,62,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,5,bot,P. Smith grounded out to 2b.,63,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,5,bot,K. Cole struck out swinging.,64,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,5,bot,A. Owens walked.,65,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,5,bot,"C. Brock doubled, RBI3a A. Owens scored.",66,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,5,bot,M. Smith singled3a C. Brock advanced to third.,67,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,5,bot,"Richardson doubled, 2 RBI3a M. Smith scored3a C. Brock scored.",68,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,5,bot,K. Terry struck out swinging.,69,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,6,top,Rodriguez flied out to lf.,70,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,6,top,Blunt walked.,71,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,6,top,Hall pinch hit for Chapa.,72,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,6,top,Hall flied out to lf.,73,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,6,top,Blunt stole second.,74,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,6,top,Blunt stole third.,75,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,6,top,"Blunt out at home c to 3b, caught stealing.",76,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,6,bot,Reyes to dh for Castillo.,77,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,6,bot,Chapa to cf for Hall.,78,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,6,bot,J. Fitzpatri struck out looking.,79,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,6,bot,Au. Latting grounded out to ss.,80,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,6,bot,P. Smith struck out swinging.,81,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,Rogers singled.,82,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,W. Perez pinch hit for Garcia.,83,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,Rogers stole second.,84,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,W. Perez struck out swinging.,85,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,Rogers stole third.,86,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,"Rogers scored, on a wild pitch.",87,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,Davies walked.,88,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,Davies stole second.,89,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,"Davies advanced to third, scored on a wild pitch.",90,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,Purvis walked.,91,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,T. Stephens to p for A. Robinson.,92,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,Castillo pinch hit for Reyes.,93,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,Babbitt to c for Rodriguez.,94,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,Castillo to dh.,95,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,Purvis stole second.,96,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,Castillo struck out looking.,97,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,Purvis stole third.,98,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,"Martinez doubled, RBI3a Purvis scored.",99,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,Babbitt walked.,100,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",615045,7,top,Blunt struck out swinging.,101,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,7,bot,Garcia to 2b for W. Perez.,102,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,7,bot,K. Cole flied out to rf.,103,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,7,bot,A. Owens reached first on an error by 3b.,104,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,7,bot,A. Owens stole second.,105,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,7,bot,C. Brock struck out swinging.,106,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,7,bot,A. Owens stole third.,107,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026
+6538963,615045,Lane Dragons,-1,"
+     Rust
+   ",-1,7,bot,M. Smith grounded out to 3b.,108,2026-02-06T10:00:00-05:00,"New Orleans, LA",120,MBA,2026

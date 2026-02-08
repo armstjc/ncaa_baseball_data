@@ -203,6 +203,10 @@ def get_baseball_teams(season: int, level: str | int) -> pd.DataFrame:
     soup = BeautifulSoup(response, features="lxml")
 
     ranking_periods = soup.find("select", {"name": "rp", "id": "rp"})
+
+    if ranking_periods is None:
+        return teams_df
+
     ranking_periods = ranking_periods.find_all("option")
 
     rp_value = 0
