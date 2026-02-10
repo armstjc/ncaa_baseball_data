@@ -1,376 +1,117 @@
 game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,1,top,"Garza,Albert walked (3-2 KBBFFBB).",1,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,1,top,"Wallace,Austin struck out swinging (2-2 BBKKS).",2,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,1,top,"Fernandez,Nico struck out swinging (1-2 BKSS).",3,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,1,top,"Benavidez,Chris struck out swinging (2-2 BKKBS).",4,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,1,bot,"Heiselbetz,Hank singled up the middle (0-1 K).",5,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,1,bot,"Migl,Trey reached on a fielder's choice hit to second base (2-0 BB)3a Heiselbetz,Hank out at second base, 2b to ss.",6,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,1,bot,"Castro,Ruben grounded into double play to short, ss to 2b to 1b (2-2 KFBB)3a Migl,Trey out at 2B on the play, ss to 2b, in a double play.",7,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"Amoroso,Jake grounded out, ss to 1b (1-0 B).",8,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"McCown,Trent struck out swinging (1-2 FBFS).",9,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"Hastings,Korson walked (3-1 BBBKB).",10,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"Barker,Gavin doubled down the right field line (1-1 BK)3a Hastings,Korson advanced from first base to third base.",11,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"Peoples,Peyton singled to right center, 2RBI (1-1 KB)3a Hastings,Korson scored3a Barker,Gavin scored from second base3a Peoples,Peyton advanced to second base on the throw.",12,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"Garza,Albert walked (3-0 BBBB).",13,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"Garza,Albert advanced to second base on a wild pitch3a Peoples,Peyton advanced to third base on a wild pitch.",14,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"Wallace,Austin grounded out to third base, 3b to 1b (1-1 BK).",15,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,2,bot,"Darnall,Dylan singled up the middle (0-0).",16,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,2,bot,"Spencer,Justin doubled to right center (2-1 BFB)3a Darnall,Dylan advanced from first base to third base.",17,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,2,bot,"Sandifer,Hunter singled to right center, RBI (0-2 SK)3a Darnall,Dylan scored3a Spencer,Justin advanced to third base.",18,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,2,bot,"Forbus,Tanner singled up the middle, RBI (1-0 B)3a Spencer,Justin scored3a Sandifer,Hunter advanced to second base.",19,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,2,bot,"Laus,Elijah fouled out in behind home plate foul territory putout by c (2-1 FBB).",20,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,2,bot,"Rager,Cole reached on a fielding error fielding by 3b by Barker,Gavin (E5) (1-2 KBK)3a Sandifer,Hunter scored from second base on play and error, unearned3a Forbus,Tanner scored from first base on play and error, unearned3a Rager,Cole advanced to second base on error.",21,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,2,bot,"Heiselbetz,Hank fouled out in third base side foul territory putout by c (0-0).",22,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,2,bot,"Migl,Trey singled up the middle, RBI (1-0 B)3a Rager,Cole scored from second base, unearned.",23,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,2,bot,"Migl,Trey out caught stealing at second base, c to 2b.",24,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,3,top,"Fernandez,Nico lined out to second base (1-2 FBS).",25,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,3,top,"Benavidez,Chris struck out looking (2-2 BFBKK).",26,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,3,top,"Amoroso,Jake doubled to right center (1-2 FBS).",27,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,3,top,"McCown,Trent flied out to lf (0-0).",28,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,3,bot,"Castro,Ruben grounded out to short, ss to 2b (0-0).",29,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,3,bot,"Darnall,Dylan struck out swinging (0-2 KKS).",30,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,3,bot,"Spencer,Justin singled to shallow right field (0-2 KS).",31,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,3,bot,"Sandifer,Hunter grounded out to third base, 3b to 1b (1-0 B).",32,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,4,top,"Hastings,Korson struck out looking (2-2 BBKSK).",33,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,4,top,"Barker,Gavin walked (3-0 BBBB).",34,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,4,top,"Barker,Gavin advanced to second base on a wild pitch.",35,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,4,top,"Peoples,Peyton flied out to shallow center field putout by 2b (2-2 BBSS).",36,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,4,top,"Garza,Albert grounded out to the infield, 2b to 1b (1-2 BKF).",37,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,4,bot,"Forbus,Tanner hit by pitch (3-1 BFBB).",38,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,4,bot,"Laus,Elijah reached on a fielder's choice hit to second base (0-0)3a Forbus,Tanner out at second base, 2b to ss.",39,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,4,bot,"Rager,Cole grounded out to third base, 3b to 1b (1-2 KSB)3a Laus,Elijah advanced to second base.",40,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,4,bot,"Heiselbetz,Hank grounded out to first base, unassisted (1-1 KB).",41,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,5,top,"Wallace,Austin struck out (0-3 FKS).",42,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,5,top,"Fernandez,Nico flied out to rf (0-2 KF).",43,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,5,top,"Benavidez,Chris tripled to deep center field (0-0).",44,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,5,top,"Benavidez,Chris scored on a wild pitch.",45,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,5,top,"Amoroso,Jake singled to right field (3-2 BBBKF).",46,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,5,top,"McCown,Trent walked (3-0 BBBB)3a Amoroso,Jake advanced to second base.",47,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,5,top,"OC pitching change: Golden,Trapper replaces McComas,Brett.",48,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,5,top,"Hastings,Korson singled to right field, RBI (1-0 B)3a Amoroso,Jake scored from second base3a McCown,Trent advanced from first base to third base.",49,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,5,top,"Barker,Gavin singled to shallow right field, RBI (2-1 BBF)3a McCown,Trent scored3a Hastings,Korson advanced to second base.",50,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,5,top,"Barker,Gavin advanced to second base on a passed ball3a Hastings,Korson advanced to third base on a passed ball.",51,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,5,top,"Peoples,Peyton grounded out to third base, 3b to 1b (1-1 KB).",52,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,5,bot,"Migl,Trey doubled to left center (2-1 SBB).",53,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,5,bot,"Castro,Ruben popped up to shallow center field putout by cf (0-0).",54,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,5,bot,"Darnall,Dylan grounded out to the infield, 1b to p (0-2 KFF)3a Migl,Trey advanced to third base.",55,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,5,bot,"Spencer,Justin grounded out to the right side of the infield, 1b to p (0-1 K).",56,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,6,top,"Garza,Albert hit by pitch (1-0 B).",57,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,6,top,"Wallace,Austin hit by pitch (1-0 B)3a Garza,Albert advanced to second base.",58,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,6,top,"OC pitching change: Phan,Noah replaces Golden,Trapper.",59,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,6,top,"Wallace,Austin advanced from first base to third base on error3a Garza,Albert stole third base, scored on a throwing error by Sandifer,Hunter (E2), unearned.",60,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,6,top,"Fernandez,Nico grounded out, 2b to 1b, RBI (1-0 B)3a Wallace,Austin scored, unearned.",61,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,6,top,"Benavidez,Chris lined out to ss (0-0).",62,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,6,top,"Amoroso,Jake flied out to lf (2-1 BSB).",63,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,6,bot,"UTD pitching change: Webster,Sam replaces Oler,Tobin.",64,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,6,bot,"Sandifer,Hunter singled to left field (0-1 K).",65,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,6,bot,"Forbus,Tanner hit by pitch (4-1 BBKBB)3a Sandifer,Hunter advanced to second base.",66,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,6,bot,"Laus,Elijah sacrifice bunt to the infield, p to 2b (0-0)3a Sandifer,Hunter advanced to third base3a Forbus,Tanner advanced to second base.",67,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,6,bot,"OC substitution: Thomas,Reed pinch hitting for Rager,Cole.",68,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,6,bot,"Thomas,Reed struck out looking (0-2 KKK).",69,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,6,bot,"Heiselbetz,Hank struck out looking (3-2 BKSFBBK).",70,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,7,top,"OC position change: Spencer,Justin now playing 3b from 1b",71,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,7,top,"OC position change: Thomas,Reed remains in the game at 1b",72,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,7,top,"McCown,Trent hit by pitch (3-2 BFBKB).",73,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,7,top,"Hastings,Korson popped up to the infield putout by 3b (3-2 BBKSB).",74,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,7,top,"Barker,Gavin struck out looking (1-2 KFBK).",75,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,7,top,"McCown,Trent advanced to second base on a wild pitch.",76,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,7,top,"Peoples,Peyton struck out swinging (2-2 KKBBFS).",77,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,7,bot,"Migl,Trey walked (3-2 KSBBBFB).",78,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,7,bot,"Castro,Ruben homered to left center, 2RBI (0-1 K)3a Migl,Trey scored from first base.",79,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,7,bot,"UTD pitching change: Robb,Christian replaces Webster,Sam.",80,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,7,bot,"Darnall,Dylan grounded out to third base, 3b to 1b (0-2 SK).",81,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,7,bot,"Spencer,Justin grounded out to first base, unassisted (3-2 KBSBBF).",82,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,7,bot,"Sandifer,Hunter singled through the left side of the infield (1-2 SFB).",83,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,7,bot,"Forbus,Tanner walked (3-1 BBBKB)3a Sandifer,Hunter advanced to second base.",84,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,7,bot,"Laus,Elijah hit by pitch (2-0 BB)3a Sandifer,Hunter advanced to third base3a Forbus,Tanner advanced to second base.",85,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,7,bot,"UTD pitching change: Ray,Baley replaces Robb,Christian.",86,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,7,bot,"Thomas,Reed grounded out to first base, 1b to p (0-0).",87,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"Garza,Albert walked (3-0 BBBB).",88,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"Wallace,Austin sacrifice bunt to the infield, 3b to 1b (0-0)3a Garza,Albert advanced to second base.",89,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"Fernandez,Nico grounded out to second base, 2b to 1b (0-0)3a Garza,Albert advanced to third base.",90,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"Benavidez,Chris doubled to left center, RBI (1-2 BKK)3a Garza,Albert scored.",91,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"OC pitching change: Privett,Dalin replaces Phan,Noah.",92,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"Amoroso,Jake grounded out to second base, 2b to 1b (1-1 BK).",93,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,8,bot,"Heiselbetz,Hank homered to deep right field, RBI (2-0 BB).",94,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,8,bot,"Migl,Trey grounded out to second base, 2b to 1b (3-1 BBBK).",95,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,8,bot,"UTD pitching change: Pacot,Tag replaces Ray,Baley.",96,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,8,bot,"Castro,Ruben reached on a throwing error throwing by 3b by Barker,Gavin (E5) (3-2 BSKBB)3a Castro,Ruben advanced to second base on error.",97,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,8,bot,"Darnall,Dylan doubled down the right field line, RBI (0-0)3a Castro,Ruben scored from second base, unearned.",98,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,8,bot,"OC substitution: Liebbe,Jarett pinch running for Darnall,Dylan.",99,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,8,bot,"Spencer,Justin walked (3-2 BKFBFBB).",100,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,8,bot,"Sandifer,Hunter popped up to 2b (2-0 BB).",101,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,8,bot,"Forbus,Tanner struck out swinging (1-2 SSBS).",102,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,9,top,"OC position change: Liebbe,Jarett remains in the game at dh",103,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,9,top,"McCown,Trent doubled down the left field line (0-2 KS).",104,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,9,top,"Hastings,Korson struck out (2-3 BBSFS).",105,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,9,top,"OC pitching change: Ballast,Evan replaces Privett,Dalin.",106,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,9,top,"Barker,Gavin grounded out, 1b to p (0-2 SK)3a McCown,Trent advanced to third base.",107,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6481680,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,9,top,"Peoples,Peyton flied out to deep center field putout by cf (1-2 BKK).",108,2026-02-02 14:00:00-05:00,"Dobson Field (Edmond, OK)",121,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,1,top,E. Butler struck out swinging.,1,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,1,top,M. Hicks grounded out to p.,2,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,1,top,M. Rivers struck out swinging.,3,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,1,bot,M. Wessels walked.,4,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,1,bot,A. Lyons singled to right field3a M. Wessels advanced to third.,5,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,1,bot,A. Lyons stole second.,6,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,1,bot,"G. Willis doubled to left field, 2 RBI3a A. Lyons scored3a M. Wessels scored.",7,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,1,bot,Z. Licastro walked.,8,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,1,bot,"M. Smith singled to pitcher, bunt, RBI3a Z. Licastro advanced to third3a G. Willis scored.",9,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,1,bot,M. Smith stole second.,10,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,1,bot,C. Warren walked.,11,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,1,bot,M. Mitchell popped up to 2b.,12,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,1,bot,A. Jackson reached on a fielder's choice3a C. Warren out at second rf to ss.,13,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,1,bot,M. Jeffries reached on a fielder's choice3a A. Jackson out at second 2b unassisted.,14,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,2,top,C. Sipp walked.,15,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,2,top,J. Rives walked3a C. Sipp advanced to second.,16,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,2,top,"D. Wilkins out at first 3b to p, SAC, bunt3a J. Rives advanced to second3a C. Sipp advanced to third.",17,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,2,top,"J. Roland flied out to rf, sacrifice fly, RBI3a J. Rives advanced to third3a C. Sipp scored.",18,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,2,top,J. Phillips struck out looking.,19,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,2,bot,M. Wessels struck out looking.,20,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,2,bot,A. Lyons hit by pitch.,21,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,2,bot,"A. Lyons out at second c to 2b, caught stealing.",22,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,2,bot,G. Willis walked.,23,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,2,bot,Z. Licastro walked3a G. Willis advanced to second.,24,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,2,bot,G. Willis advanced to third on a wild pitch.,25,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,2,bot,"M. Smith struck out looking, out at first c to 1b.",26,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,3,top,D. Salter grounded out to p.,27,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,3,top,E. Butler singled to catcher.,28,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,3,top,M. Hicks flied out to rf.,29,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,3,top,M. Rivers flied out to lf.,30,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,3,bot,C. Warren flied out to lf.,31,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,3,bot,M. Mitchell walked.,32,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,3,bot,A. Jackson singled to second base3a M. Mitchell advanced to second.,33,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,3,bot,M. Jeffries flied out to lf.,34,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,3,bot,M. Wessels reached on a fielder's choice3a A. Jackson out at second ss unassisted.,35,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,4,top,C. Sipp flied out to rf.,36,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,4,top,J. Rives popped up to 2b.,37,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,4,top,D. Wilkins walked.,38,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,4,top,J. Roland singled to left field3a D. Wilkins advanced to second.,39,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,4,top,"J. Phillips doubled to left field, RBI3a J. Roland advanced to third3a D. Wilkins scored.",40,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,4,top,D. Salter grounded out to 2b.,41,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,4,bot,A. Lyons grounded out to 3b.,42,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,4,bot,G. Willis grounded out to 3b.,43,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,4,bot,Z. Licastro walked.,44,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,4,bot,M. Smith grounded out to 3b.,45,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,5,top,E. Butler struck out swinging.,46,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,5,top,M. Hicks singled to center field.,47,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,5,top,M. Rivers flied out to lf.,48,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,5,top,C. Sipp singled to center field3a M. Hicks advanced to third.,49,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,5,top,C. Sipp stole second.,50,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,5,top,"J. Rives singled to left field, 2 RBI3a C. Sipp scored3a M. Hicks scored.",51,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,5,top,J. Bratcher to p for J. Rhynes.,52,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,5,top,J. Rives advanced to second on a wild pitch.,53,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,5,top,J. Rives stole third.,54,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,5,top,D. Wilkins flied out to cf.,55,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,5,bot,B. Woodard to p for T. Henry.,56,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,5,bot,C. Warren grounded out to 3b.,57,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,5,bot,K. Burch pinch hit for M. Mitchell.,58,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,5,bot,K. Burch lined out to ss.,59,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,5,bot,A. Jackson doubled to center field.,60,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,5,bot,M. Jeffries flied out to cf.,61,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,6,top,K. Burch to rf.,62,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,6,top,E. Anderson to 3b for M. Jeffries.,63,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,6,top,B. Wills to p for J. Bratcher.,64,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,6,top,J. Roland flied out to lf.,65,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,6,top,J. Phillips singled to shortstop.,66,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,6,top,"J. Phillips out at second c to 2b, caught stealing.",67,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,6,top,D. Salter hit by pitch.,68,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,6,top,E. Butler grounded out to c.,69,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,6,bot,M. Wessels walked.,70,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,6,bot,M. Wessels stole second.,71,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,6,bot,A. Lyons grounded out to 1b unassisted3a M. Wessels advanced to third.,72,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,6,bot,"G. Willis singled to third base, bunt, RBI3a M. Wessels scored.",73,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,6,bot,Z. Licastro singled to center field3a G. Willis advanced to second.,74,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,6,bot,B. Smith pinch hit for M. Smith.,75,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,6,bot,J. Hartley pinch ran for Z. Licastro.,76,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,6,bot,B. Smith struck out swinging.,77,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,6,bot,"C. Warren singled to center field, RBI3a J. Hartley advanced to second3a G. Willis scored.",78,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,6,bot,T. Walker pinch hit for K. Burch.,79,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,615056,6,bot,T. Walker flied out to rf.,80,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,7,top,J. Hartley to dh.,81,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,7,top,T. Spann to lf for B. Smith.,82,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,7,top,T. Walker to rf.,83,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,7,top,A. Barton to p for B. Wills.,84,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,7,top,M. Hicks singled to center field.,85,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,7,top,M. Rivers flied out to cf.,86,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,7,top,C. Sipp walked3a M. Hicks advanced to second.,87,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,7,top,J. Rives hit by pitch3a C. Sipp advanced to second3a M. Hicks advanced to third.,88,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
-6548160,-1,"
-     Stillman
-   ",615056,Miles Golden Bears,-1,7,top,D. Wilkins grounded into double play c to 1b3a J. Rives advanced to second3a C. Sipp advanced to third3a M. Hicks out on the play.,89,2026-02-02 14:00:00-05:00,"Rickwood Field (Birmingham, AL)",100,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,1,top,"Garza,Albert walked (3-2 BBKFBB).",1,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,1,top,"Garza,Albert advanced to second base on a throwing error by Child,Cooper (E1).",2,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,1,top,"Garza,Albert advanced to third base on a throwing error by Child,Cooper (E1).",3,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,1,top,"Amoroso,Jake singled to right field, RBI (1-1 BF)3a Garza,Albert scored.",4,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,1,top,"Benavidez,Chris doubled to deep center field, RBI (0-0)3a Amoroso,Jake scored from first base.",5,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,1,top,"Benavidez,Chris stole third base.",6,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,1,top,"McCown,Trent walked (3-0 BBBB).",7,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,1,top,"Fernandez,Nico struck out swinging (0-2 KKS).",8,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,1,top,"Wallace,Austin sacrifice bunt to first base, unassisted, RBI (0-0)3a Benavidez,Chris scored3a McCown,Trent advanced to second base.",9,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,1,top,"Hastings,Korson struck out (0-3 KKS).",10,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,1,bot,"Heiselbetz,Hank singled up the middle (0-0).",11,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,1,bot,"Heiselbetz,Hank stole second base.",12,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,1,bot,"Migl,Trey grounded out, 2b to 1b (2-2 BKFB)3a Heiselbetz,Hank advanced to third base.",13,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,1,bot,"Castro,Ruben sacrifice fly to rf, RBI (1-2 KKB)3a Heiselbetz,Hank scored.",14,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,1,bot,"Darnall,Dylan popped up to 3b (0-0).",15,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"Barker,Gavin hit by pitch (3-2 BFBFB).",16,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"Barker,Gavin stole second base.",17,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"Peoples,Peyton struck out swinging (3-2 SBBBKS).",18,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"UTD substitution: GuerreroJr,Adrian pinch hitting for Garza,Albert.",19,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"GuerreroJr,Adrian walked (3-1 SBBBB).",20,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"Amoroso,Jake struck out swinging (1-2 SBSS).",21,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"Benavidez,Chris walked (3-0 BBBB)3a Barker,Gavin advanced to third base3a GuerreroJr,Adrian advanced to second base.",22,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"Benavidez,Chris advanced to second base on a wild pitch3a GuerreroJr,Adrian advanced to third base on a wild pitch3a Barker,Gavin scored on a wild pitch.",23,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"McCown,Trent walked (5-2 KBSBBBB)3a GuerreroJr,Adrian scored on a wild pitch3a Benavidez,Chris advanced to third base on a wild pitch.",24,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"OC pitching change: Privett,Dalin replaces Child,Cooper.",25,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,2,top,"Fernandez,Nico flied out to right center putout by cf (0-2 KF).",26,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,2,bot,"UTD position change: GuerreroJr,Adrian remains in the game at 2b",27,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,2,bot,"Spencer,Justin struck out swinging (3-2 BKBBFFS).",28,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,2,bot,"Sanderson,Connor grounded out to short, ss to 1b (0-2 KS).",29,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,2,bot,"Forbus,Tanner walked (3-2 BBKBFB).",30,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,2,bot,"Jackson,John walked (3-2 KBBBKB)3a Forbus,Tanner advanced to second base.",31,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,2,bot,"Laus,Elijah singled to shallow center field, RBI (1-0 B)3a Forbus,Tanner scored from second base3a Jackson,John advanced from first base to third base.",32,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,2,bot,"Heiselbetz,Hank struck out swinging (1-2 KSBFS).",33,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,3,top,"Wallace,Austin lined out to second base (0-1 K).",34,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,3,top,"Hastings,Korson flied out to lf (2-2 BKFBF).",35,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,3,top,"Barker,Gavin grounded out to the right side of the infield, 2b to 1b (1-0 B).",36,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,3,bot,"Migl,Trey grounded out, 1b to p (3-2 BKFFBB).",37,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,3,bot,"Castro,Ruben struck out looking (1-2 BKFK).",38,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,3,bot,"Darnall,Dylan grounded out up the middle, ss to 1b (1-2 BFF).",39,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,4,top,"Peoples,Peyton hit by pitch (1-1 FB).",40,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,4,top,"GuerreroJr,Adrian lined into double play to the pitcher (1-0 B)3a Peoples,Peyton out at 1B on the play, p to 1b, in a double play.",41,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,4,top,"Amoroso,Jake flied out to lf (3-2 BKBBK).",42,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,4,bot,"Spencer,Justin struck out swinging (3-2 BBBKFS).",43,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,4,bot,"Sanderson,Connor struck out swinging (1-2 KFBS).",44,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,4,bot,"Forbus,Tanner lined out to rf (3-2 BFBBF).",45,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,5,top,"Benavidez,Chris popped up to short (2-1 BBS).",46,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,5,top,"McCown,Trent struck out (2-3 KFBBS).",47,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,5,top,"Fernandez,Nico singled through the right side of the infield (3-2 KBBKB).",48,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,5,top,"Wallace,Austin struck out looking (3-2 BBBKSK).",49,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,5,bot,"Jackson,John reached on a fielding error fielding by 3b by Barker,Gavin (E5) (2-1 BKB).",50,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,5,bot,"Laus,Elijah doubled to left center (1-2 BFS)3a Jackson,John advanced from first base to third base.",51,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,5,bot,"UTD pitching change: Hickman,Gavin replaces Taylor,Seth.",52,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,5,bot,"Heiselbetz,Hank popped up to the infield putout by 3b (0-0).",53,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,5,bot,"OC substitution: Voss,Grant pinch running for Jackson,John.",54,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,5,bot,"Migl,Trey singled through the right side of the infield, RBI (1-1 KB)3a Voss,Grant scored, unearned3a Laus,Elijah advanced to third base.",55,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,5,bot,"Castro,Ruben singled up the middle, RBI (1-2 KBF)3a Laus,Elijah scored3a Migl,Trey advanced to second base.",56,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,5,bot,"Darnall,Dylan popped up to shallow right field putout by rf (0-0).",57,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,5,bot,"Spencer,Justin singled to shallow right field, RBI (0-0)3a Migl,Trey scored from second base, unearned3a Castro,Ruben advanced from first base to third base.",58,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,5,bot,"OC substitution: Hennesy,Jontae pinch hitting for Sanderson,Connor.",59,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,5,bot,"Spencer,Justin advanced to second base on a wild pitch.",60,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,5,bot,"Hennesy,Jontae grounded out to short, ss to 1b (3-1 BBKB).",61,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,6,top,"OC substitution: Betancis,Mekhi replaces Hennesy,Jontae at c, batting 6th.",62,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,6,top,"OC position change: Voss,Grant remains in the game at dh",63,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,6,top,"OC pitching change: Malone,Tim replaces Privett,Dalin.",64,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,6,top,"Hastings,Korson doubled to left center (2-0 BB).",65,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,6,top,"Hastings,Korson advanced to third base on a throwing error by Malone,Tim (E1).",66,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,6,top,"Barker,Gavin lined out to short (2-1 BBK).",67,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,6,top,"Peoples,Peyton struck out swinging (0-2 SSS).",68,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,6,top,"GuerreroJr,Adrian flied out to left center putout by cf (0-2 SK).",69,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,6,bot,"UTD pitching change: Nielsen,Luke replaces Hickman,Gavin.",70,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,6,bot,"Forbus,Tanner lined out to third base (1-0 B).",71,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,6,bot,"Voss,Grant struck out swinging (2-2 KBBKS).",72,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,6,bot,"Laus,Elijah struck out swinging, dropped third strike out at first c (0-2 KKS).",73,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,7,top,"Amoroso,Jake doubled down the left field line (0-1 F).",74,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,7,top,"Amoroso,Jake advanced to third base.",75,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,7,top,"Amoroso,Jake scored on a wild pitch.",76,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,7,top,"Benavidez,Chris walked (3-0 BBBB).",77,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,7,top,"McCown,Trent struck out looking (3-2 BBKFBK)3a Benavidez,Chris is out caught stealing, in a double play.",78,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,7,top,"Fernandez,Nico singled in the infield (3-2 KFBBBF).",79,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,7,top,"OC pitching change: Cardenas,Brandon replaces Malone,Tim.",80,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,7,top,"Wallace,Austin flied out to lf (0-2 KK).",81,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,7,bot,"Heiselbetz,Hank walked (3-1 BBBKB).",82,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,7,bot,"Migl,Trey struck out swinging (2-2 BSKBS).",83,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,7,bot,"Castro,Ruben flew into double play to rf (2-2 BSBS)3a Heiselbetz,Hank out at 1B on the play, rf to 1b, in a double play.",84,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"OC pitching change: Castilla,Christian replaces Cardenas,Brandon.",85,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"Hastings,Korson singled to shallow left field (0-2 KS).",86,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"Hastings,Korson advanced to second base on a wild pitch.",87,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"Barker,Gavin walked (3-1 BBBKB).",88,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"OC pitching change: Mitchell,Kaden replaces Castilla,Christian.",89,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"Peoples,Peyton singled to shallow left field (0-0)3a Hastings,Korson advanced to third base3a Barker,Gavin advanced to second base.",90,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"GuerreroJr,Adrian struck out swinging (1-2 BFFS).",91,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"Amoroso,Jake walked, RBI (3-2 BBFBKFB)3a Hastings,Korson scored3a Barker,Gavin advanced to third base3a Peoples,Peyton advanced to second base.",92,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"Benavidez,Chris struck out swinging (3-2 SBKBBS).",93,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"McCown,Trent walked, RBI (3-2 BKBBKB)3a Barker,Gavin scored3a Peoples,Peyton advanced to third base3a Amoroso,Jake advanced to second base.",94,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"Fernandez,Nico walked, RBI (3-0 BBBB)3a Peoples,Peyton scored3a Amoroso,Jake advanced to third base3a McCown,Trent advanced to second base.",95,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"OC pitching change: Rodman,Will replaces Mitchell,Kaden.",96,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"Wallace,Austin reached on a fielding error fielding by 3b by Spencer,Justin (E5) (0-0)3a Amoroso,Jake scored, unearned3a McCown,Trent scored from second base, unearned3a Fernandez,Nico advanced to second base.",97,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,8,top,"Hastings,Korson grounded out up the middle, ss to 1b (3-2 BBFBF).",98,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,8,bot,"Darnall,Dylan grounded out, ss to 1b (1-0 B).",99,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,8,bot,"Spencer,Justin flied out to left center putout by cf (2-2 SBBK).",100,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,8,bot,"OC substitution: Venter,Ruben pinch hitting for Betancis,Mekhi.",101,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,8,bot,"Venter,Ruben reached on a throwing error throwing by ss by Amoroso,Jake (E6) (1-0 B).",102,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,8,bot,"Forbus,Tanner singled up the middle (0-0)3a Venter,Ruben advanced to second base.",103,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,8,bot,"OC substitution: Liebbe,Jarett pinch hitting for Voss,Grant.",104,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,8,bot,"Liebbe,Jarett hit by pitch (3-2 KFFBBB)3a Venter,Ruben advanced to third base3a Forbus,Tanner advanced to second base.",105,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,8,bot,"Laus,Elijah flied out to deep left field putout by lf (0-2 FF).",106,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,9,top,"OC substitution: Sandifer,Hunter replaces Venter,Ruben at c, batting 6th.",107,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,9,top,"OC position change: Liebbe,Jarett remains in the game at dh",108,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,9,top,"Barker,Gavin grounded out to second base, 2b to 1b (2-1 KBB).",109,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,9,top,"Peoples,Peyton struck out swinging (1-2 KBKFS).",110,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,615124,9,top,"GuerreroJr,Adrian grounded out to short, ss to 1b (2-1 KBB).",111,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,9,bot,"UTD pitching change: Klyng,Kasey replaces Nielsen,Luke.",112,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,9,bot,"Heiselbetz,Hank walked (3-1 BBKBB).",113,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,9,bot,"Migl,Trey reached on a fielder's choice hit to third base (0-1 K)3a Heiselbetz,Hank out at second base, 3b to 2b.",114,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,9,bot,"Castro,Ruben struck out swinging (2-2 BKKBS).",115,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026
+6481679,615124,Texas-Dallas Comets,614982,Okla. Christian Eagles,614982,9,bot,"Darnall,Dylan flied out to rf (2-2 BFKBF).",116,2026-02-02 16:00:00-05:00,"Dobson Field (Edmond, OK)",111,MBA,2026

@@ -1891,7 +1891,6 @@ def get_baseball_player_season_batting_stats(
     response = _get_webpage(url=url)
     soup = BeautifulSoup(response, features="lxml")
 
-
     season_name = (
         soup.find("select", {"id": "year_list"})
         .find("option", {"selected": "selected"})
@@ -2931,7 +2930,6 @@ def get_baseball_player_game_batting_stats(
     response = _get_webpage(url=url)
     soup = BeautifulSoup(response, features="lxml")
 
-
     table_data = soup.find_all(
         "table", {"class": "small_font dataTable table-bordered"}
     )[1]
@@ -3351,7 +3349,6 @@ def get_baseball_player_game_pitching_stats(
     response = _get_webpage(url=url)
     soup = BeautifulSoup(response, features="lxml")
 
-
     table_data = soup.find_all(
         "table", {"class": "small_font dataTable table-bordered"}
     )[1]
@@ -3767,7 +3764,6 @@ def get_baseball_player_game_fielding_stats(
     response = _get_webpage(url=url)
     soup = BeautifulSoup(response, features="lxml")
 
-
     table_data = soup.find_all(
         "table", {"class": "small_font dataTable table-bordered"}
     )[1]
@@ -3888,7 +3884,8 @@ def get_baseball_player_game_fielding_stats(
         if (
             result_str.lower() == "ppd" or
             result_str.lower() == "" or
-            result_str.lower() == "canceed"
+            result_str.lower() == "canceed" or
+            result_str.lower() == "canceled"
         ):
             continue
         tm_score, opp_score = result_str.split("-")
@@ -4301,6 +4298,8 @@ def get_baseball_game_player_stats(game_id: int) -> pd.DataFrame:
         home_team_name = team_cards[1].text
         home_team_id = -1
 
+    home_team_name = home_team_name.strip()
+    away_team_name = away_team_name.strip()
 
     table_boxes = soup.find_all("div", {"class": "card p-0 table-responsive"})
 
@@ -5040,7 +5039,8 @@ def get_raw_baseball_game_pbp(game_id: int):
         home_team_name = team_cards[1].text
         home_team_id = -1
 
-
+    home_team_name = home_team_name.strip()
+    away_team_name = away_team_name.strip()
     section_cards = soup.find_all(
         "div",
         {"class": "row justify-content-md-center w-100"}
