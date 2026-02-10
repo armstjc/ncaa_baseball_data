@@ -1,0 +1,101 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,1,top,"Aldridge,Sh doubled to right field (1-0).",1,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,1,top,"Hogan,Olive reached on a fielding error by 3b, advanced to second (2-1)3a Aldridge,Sh advanced to third, scored on the error, unearned.",2,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,1,top,"Morrison,Ma walked (3-1).",3,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,1,top,"Aguilera,Da struck out looking (0-2).",4,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,1,top,"Cardinal,DJ walked (3-1)3a Morrison,Ma advanced to second3a Hogan,Olive advanced to third.",5,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,1,top,"Pang, Noah struck out swinging (1-2).",6,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,1,top,"Kimmenae,van singled up the middle, 2 RBI (3-1)3a Cardinal,DJ advanced to second3a Morrison,Ma scored, unearned3a Hogan,Olive scored, unearned.",7,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,1,top,"Kimmenae,van stole second3a Cardinal,DJ stole third.",8,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,1,top,"Matthew,Dav struck out swinging (2-2).",9,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,1,bot,RAMOS hit by pitch (1-1).,10,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,1,bot,DALEN grounded into double play ss to 1b (1-1)3a RAMOS out on the play.,11,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,1,bot,STELLING struck out swinging (1-2).,12,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,2,top,HOWARD to p for OROZCO.,13,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,2,top,"McClenon,Ma flied out to cf (0-1).",14,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,2,top,"Aldridge,Sh walked (3-2).",15,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,2,top,"Hogan,Olive grounded out to ss (0-2)3a Aldridge,Sh advanced to second.",16,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,2,top,"Morrison,Ma doubled to right field, ground-rule, RBI (1-2)3a Aldridge,Sh scored.",17,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,2,top,"Aguilera,Da walked (3-2)3a Morrison,Ma out at third c to 3b, caught stealing.",18,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,2,bot,UNANGST singled through the right side (1-1).,19,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,2,bot,MARTINI singled through the right side (1-1)3a UNANGST advanced to second.,20,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,2,bot,CRIPE flied out to cf (2-1).,21,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,2,bot,JAMES singled to center field (2-1)3a MARTINI advanced to second3a UNANGST advanced to third.,22,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,2,bot,"THOMSON flied out to cf, SF, RBI (0-0)3a MARTINI advanced to third3a UNANGST scored.",23,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,2,bot,"CERVANTES singled to right field, RBI (0-1)3a JAMES advanced to second3a MARTINI scored.",24,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,2,bot,RAMOS walked (3-1)3a CERVANTES advanced to second3a JAMES advanced to third.,25,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,2,bot,DALEN reached on a fielder's choice (1-2)3a RAMOS advanced to second3a CERVANTES out at third 3b unassisted.,26,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,3,top,"Cardinal,DJ out at first ss to 2b to 1b (1-1).",27,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,3,top,"Pang, Noah fouled out to rf (0-0).",28,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,3,top,"Kimmenae,van struck out looking (0-2).",29,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,3,bot,STELLING struck out swinging (0-2).,30,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,3,bot,UNANGST grounded out to p (1-0).,31,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,3,bot,MARTINI hit by pitch (0-2).,32,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,3,bot,CRIPE reached on a fielder's choice (1-0)3a MARTINI out at second 2b to ss.,33,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,4,top,"Matthew,Dav struck out swinging (2-2).",34,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,4,top,"McClenon,Ma struck out swinging (0-2).",35,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,4,top,"Aldridge,Sh singled to right field (0-1).",36,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,4,top,"Hogan,Olive singled to left field (1-0)3a Aldridge,Sh advanced to second.",37,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,4,top,"Morrison,Ma singled to left field, advanced to second on the error, RBI3a Hogan,Olive advanced to third, scored on a throwing error by p, unearned3a Aldridge,Sh scored.",38,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,4,top,"Aguilera,Da singled to left field (1-2)3a Morrison,Ma advanced to third.",39,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,4,top,"Cardinal,DJ struck out looking (2-2).",40,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,4,bot,JAMES grounded out to 3b (1-2).,41,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,4,bot,THOMSON flied out to lf (3-2).,42,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,4,bot,CERVANTES out at first 1b to p (2-1).,43,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,5,top,ZIRKLE to p for HOWARD.,44,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,5,top,"Pang, Noah grounded out to 2b (1-0).",45,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,5,top,"Kimmenae,van struck out swinging (1-2).",46,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,5,top,"Matthew,Dav walked (3-2).",47,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,5,top,"McClenon,Ma doubled to right center (1-1)3a Matthew,Dav advanced to third, out at home rf to c.",48,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,5,bot,RAMOS walked (3-0).,49,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,5,bot,DALEN struck out swinging (2-2).,50,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,5,bot,STELLING grounded out to 3b (0-1)3a RAMOS advanced to second.,51,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,5,bot,UNANGST flied out to lf (0-2).,52,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,6,top,"Aldridge,Sh grounded out to 2b (0-0).",53,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,6,top,"Hogan,Olive flied out to cf (1-1).",54,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,6,top,"Morrison,Ma grounded out to ss (2-0).",55,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,6,bot,MARTINI struck out swinging (1-2).,56,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,6,bot,CRIPE grounded out to 2b (1-2).,57,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,6,bot,JAMES flied out to lf (1-0).,58,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,7,top,"Aguilera,Da doubled to right field (1-0).",59,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,7,top,"Cardinal,DJ struck out swinging (1-2).",60,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,7,top,"Pang, Noah grounded out to ss (0-1)3a Aguilera,Da advanced to third.",61,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,7,top,"Kimmenae,van struck out swinging (3-2).",62,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,7,bot,"Purgason to p for Rodriguez, N.",63,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,7,bot,THOMSON singled to shortstop (2-1).,64,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,7,bot,CERVANTES grounded out to 3b (1-1)3a THOMSON advanced to second.,65,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,7,bot,THOMSON stole third.,66,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,7,bot,"RAMOS grounded out to ss, RBI (1-1)3a THOMSON scored.",67,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,7,bot,DALEN grounded out to ss (1-1).,68,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,8,top,"Matthew,Dav struck out looking (2-2).",69,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,8,top,"McClenon,Ma grounded out to 3b (1-2).",70,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,8,top,"Aldridge,Sh singled through the left side (2-0).",71,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,8,top,"Aldridge,Sh stole second.",72,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,8,top,"Hogan,Olive hit by pitch (2-1).",73,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,8,top,GNIBUS to p for ZIRKLE.,74,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,8,top,"Morrison,Ma grounded out to 2b.",75,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,8,bot,STELLING singled to third base (1-1).,76,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,8,bot,UNANGST flied out to cf (1-2).,77,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,8,bot,MARTINI flied out to lf.,78,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,8,bot,DICARLO JR pinch hit for CRIPE.,79,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,8,bot,DICARLO JR grounded out to 1b unassisted (1-2).,80,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,9,top,HERNANDEZ to c for DICARLO JR.,81,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,9,top,"Aguilera,Da grounded out to 2b (1-1).",82,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,9,top,"Cardinal,DJ struck out looking (0-2).",83,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,9,top,"Brown,Tyson pinch hit for Pang, Noah.",84,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,9,top,"Brown,Tyson singled to left field.",85,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,9,top,"Brown,Tyson advanced to second on a wild pitch.",86,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,9,top,"Kimmenae,van walked (3-1)3a Brown,Tyson stole third.",87,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,9,top,JUAREZ to p for GNIBUS.,88,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,9,top,"Morton,Noah pinch hit for Matthew,Dav.",89,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,9,top,"Kimmenae,van advanced to second on a passed ball.",90,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,9,top,"Morton,Noah walked (3-2).",91,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,9,top,"McClenon,Ma hit by pitch, RBI (0-0)3a Morton,Noah advanced to second3a Kimmenae,van advanced to third3a Brown,Tyson scored.",92,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615118,9,top,"Aldridge,Sh struck out looking (2-2).",93,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,9,bot,"Deluca,Anth to 2b for Brown,Tyson.",94,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,9,bot,"Hanshaw,Mas to c for Morton,Noah.",95,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,9,bot,JAMES doubled to right field (1-1).,96,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,9,bot,THOMSON grounded out to 2b (1-1)3a JAMES advanced to third.,97,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,9,bot,"CERVANTES grounded out to ss, RBI (1-1)3a JAMES scored.",98,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,9,bot,RAMOS walked (3-1).,99,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
+6506127,615118,Menlo Oaks,615018,Cal St. East Bay Pioneers,615018,9,bot,DALEN struck out swinging (1-2).,100,2026-02-08T15:00:00-05:00,"Hayward, CA",47,MBA,2026
