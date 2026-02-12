@@ -1,100 +1,34 @@
 season,sport_id,game_datetime,game_id,team_id,player_id,player_jersey_number,player_full_name,player_positions,batting_G,batting_GS,batting_R,batting_AB,batting_H,batting_2B,batting_3B,batting_TB,batting_HR,batting_RBI,batting_BB,batting_HBP,batting_SF,batting_SH,batting_SO,batting_OPP_DP,batting_CS,batting_PK,batting_SB,batting_IBB,batting_KL,pitching_GP,pitching_GS,pitching_IP,pitching_IP_str,pitching_H,pitching_R,pitching_ER,pitching_BB,pitching_SO,pitching_BF,pitching_2B,pitching_3B,pitching_BK,pitching_HR,pitching_WP,pitching_HBP,pitching_IBB,pitching_IR,pitching_IRS,pitching_SH,pitching_SF,pitching_KL,pitching_TUER,pitching_PK,pitching_order_appeared,fielding_G,fielding_GS,fielding_PO,fielding_A,fielding_TC,fielding_E,fielding_CI,fielding_PB,fielding_SBA,fielding_CSB,fielding_IDP,fielding_TP,fielding_SBA%,stadium_name,attendance,away_team_id,home_team_id,away_team_name,home_team_name
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,9975321,0,I. Yearwood,LF,1,1,0,3,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,9975323,1,A. Dupre,3B,1,1,1,3,1,1,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9695534,10,Aiden Shea,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3.0,3.0,7,2,2,3,6,20,2,0,0,0,0,1,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,11244103,12,E. Lawson,PH,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,11244181,14,J. McClellan,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1.0,1.0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,11244108,14,P. Hamilton,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2.0,2.0,0,0,0,1,4,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9701940,16,Darren Crane,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1.0,1.0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9690581,17,Collin May,1B,1,1,1,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,3,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9677812,18,Philip Pasthing,2B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,11244105,18,R. Hamilton,C,1,1,1,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,1,10,1,0,0,8,1,0,0,0.889,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,9975341,19,W. Smith,DH,1,1,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9687683,2,Taber Childs,RF,1,1,1,3,2,1,0,3,0,3,1,0,0,0,1,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,11244104,20,M. Sullivan,SS,1,1,0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,9975329,23,J. Earl,RF,1,1,0,4,1,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,2,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9687877,23,Maxon Beasha,CF,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,11244180,24,B. Majors,PH,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,9975319,27,J. Clark,2B,1,1,0,3,2,0,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9682059,27,Rene Garcia,SS,1,1,1,3,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,11244109,30,J. Moore,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1.0,1.0,1,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,11244185,30,T. Michlitsc,3B,1,1,2,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,1,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,11244184,33,M. McDonald,DH,1,1,1,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,11244102,34,C. Shryock,1B,1,1,0,3,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0,4,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,11244179,39,J. Lopez,RF,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9677384,4,Michael White,PR,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9703180,42,Langdon Townsend,LF,1,1,2,4,3,0,0,6,1,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,11244177,43,L. Tucker,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1.0,1.0,0,0,0,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,11244178,46,B. Peck,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1.0,1.0,0,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9678592,5,Joseph Coon,2B,1,1,1,3,1,1,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,2,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9703937,6,Britton Smith,C,1,1,1,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,13,0,13,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,9975338,66,T. Phillips,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1.0,1.0,6,7,1,0,0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,11244106,7,J. Bowersox,CF,1,1,0,2,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,3,1,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9680264,9,Conner Reed,CF,1,1,1,4,1,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
-2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,11244107,9,E. Abbott,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2.0,2.0,2,4,4,2,2,11,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"
-     Champion Chris.
-   ",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,9975321,0,I. Yearwood,LF,1,1,0,3,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,9975323,1,A. Dupre,3B,1,1,1,3,1,1,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9695534,10,Aiden Shea,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3.0,3.0,7,2,2,3,6,20,2,0,0,0,0,1,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,11244103,12,E. Lawson,PH,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,11244181,14,J. McClellan,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1.0,1.0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,11244108,14,P. Hamilton,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2.0,2.0,0,0,0,1,4,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9701940,16,Darren Crane,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1.0,1.0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9690581,17,Collin May,1B,1,1,1,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,3,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9677812,18,Philip Pasthing,2B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,11244105,18,R. Hamilton,C,1,1,1,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,1,10,1,0,0,8,1,0,0,0.889,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,9975341,19,W. Smith,DH,1,1,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9687683,2,Taber Childs,RF,1,1,1,3,2,1,0,3,0,3,1,0,0,0,1,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,11244104,20,M. Sullivan,SS,1,1,0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,9975329,23,J. Earl,RF,1,1,0,4,1,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,2,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9687877,23,Maxon Beasha,CF,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,11244180,24,B. Majors,PH,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,9975319,27,J. Clark,2B,1,1,0,3,2,0,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9682059,27,Rene Garcia,SS,1,1,1,3,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,11244109,30,J. Moore,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1.0,1.0,1,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,11244185,30,T. Michlitsc,3B,1,1,2,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,1,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,11244184,33,M. McDonald,DH,1,1,1,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,11244102,34,C. Shryock,1B,1,1,0,3,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0,4,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,11244179,39,J. Lopez,RF,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9677384,4,Michael White,PR,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9703180,42,Langdon Townsend,LF,1,1,2,4,3,0,0,6,1,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,11244177,43,L. Tucker,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1.0,1.0,0,0,0,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,11244178,46,B. Peck,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1.0,1.0,0,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9678592,5,Joseph Coon,2B,1,1,1,3,1,1,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,2,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9703937,6,Britton Smith,C,1,1,1,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,13,0,13,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,9975338,66,T. Phillips,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1.0,1.0,6,7,1,0,0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,11244106,7,J. Bowersox,CF,1,1,0,2,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,3,1,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,615484,9680264,9,Conner Reed,CF,1,1,1,4,1,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles
+2026,MBA,2026-02-07T14:00:00-05:00,6499113,8389723,11244107,9,E. Abbott,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2.0,2.0,2,4,4,2,2,11,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"Lonnie R. Qualls Field at Thomas and Frances Wilson Complex (Clarksville, AR)",215,-1,615484,"Champion Chris.",Ozarks (AR) Eagles

@@ -1,310 +1,104 @@
 game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,1,top,A. Jorge walked.,1,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,1,top,"G. Garza grounded out to p, SAC3a A. Jorge advanced to second.",2,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,1,top,A. Jorge stole third.,3,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,1,top,"D. Castillo singled up the middle, RBI3a A. Jorge scored.",4,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,1,top,T. Davies flied out to lf.,5,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,1,top,J. Purvis struck out looking.,6,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,1,bot,K. Larry grounded out to 3b.,7,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,1,bot,M. Adams singled up the middle.,8,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,1,bot,C. Boyd grounded into double play ss to 2b3a M. Adams out on the play.,9,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,2,top,C. Martinez grounded out to 2b.,10,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,2,top,E. Mendez struck out looking.,11,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,2,top,"C. Blunt struck out swinging, reached first on a wild pitch.",12,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,2,top,C. Blunt stole second.,13,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,2,top,C. Blunt stole third.,14,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,2,top,B. Chapa struck out swinging.,15,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,2,bot,F. Thorne walked.,16,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,2,bot,P. Ramseur struck out swinging.,17,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,2,bot,K. Higginson flied out to cf.,18,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,2,bot,C. Ceccini grounded out to 1b unassisted.,19,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,3,top,A. Jorge singled through the right side.,20,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,3,top,A. Jorge advanced to second on a wild pitch.,21,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,3,top,G. Garza struck out swinging.,22,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,3,top,D. Castillo grounded out to ss3a A. Jorge advanced to third.,23,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,3,top,T. Davies walked.,24,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,3,top,T. Davies stole second.,25,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,3,top,J. Purvis walked.,26,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,3,top,"C. Martinez struck out swinging, grounded out to c unassisted.",27,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,3,bot,A. Velez walked.,28,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,3,bot,A. Velez advanced to second on a passed ball.,29,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,3,bot,A. Coronado walked.,30,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,3,bot,A. Coronado advanced to second on the error3a A. Velez advanced to third on an error by c.,31,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,3,bot,K. Larry reached first on an error by 1b.,32,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,3,bot,M. Adams reached on a fielder's choice3a K. Larry advanced to second3a A. Coronado advanced to third3a A. Velez out at home ss to c.,33,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,3,bot,"C. Boyd hit by pitch, RBI3a M. Adams advanced to second3a K. Larry advanced to third3a A. Coronado scored, unearned.",34,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,3,bot,"C. Boyd advanced to second3a M. Adams advanced to third3a K. Larry scored on an error by 3b, unearned.",35,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,3,bot,"F. Thorne grounded out to 1b unassisted, RBI3a C. Boyd advanced to third3a M. Adams scored, unearned.",36,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,3,bot,P. Ramseur hit by pitch.,37,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,3,bot,N. Babin to p for C. Nelson.,38,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,3,bot,K. Higginson struck out swinging.,39,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,4,top,E. Mendez flied out to rf.,40,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,4,top,"C. Blunt struck out swinging, reached first on a wild pitch.",41,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,4,top,B. Chapa struck out swinging.,42,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,4,top,A. Jorge grounded out to 2b.,43,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,4,bot,L. Salas to p for R. Perez.,44,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,4,bot,C. Ceccini grounded out to 3b.,45,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,4,bot,A. Velez grounded out to 3b.,46,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,4,bot,A. Coronado hit by pitch.,47,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,4,bot,"A. Coronado advanced to second on an error by p, failed pickoff attempt, advanced to third.",48,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,4,bot,K. Larry walked.,49,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,4,bot,K. Larry advanced to second.,50,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,4,bot,M. Adams struck out looking.,51,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,5,top,G. Garza struck out swinging.,52,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,5,top,D. Castillo doubled to left field.,53,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,5,top,"T. Davies doubled, RBI3a D. Castillo scored.",54,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,5,top,J. Purvis hit by pitch.,55,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,5,top,C. Martinez struck out swinging.,56,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,5,top,K. Hall pinch hit for E. Mendez.,57,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,5,top,K. Hall grounded out to ss.,58,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,5,bot,K. Hall to rf.,59,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,5,bot,C. Boyd singled to third base.,60,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,5,bot,C. Boyd stole second.,61,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,5,bot,F. Thorne struck out looking.,62,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,5,bot,P. Ramseur grounded out to 2b3a C. Boyd advanced to third.,63,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,5,bot,K. Higginson flied out to cf.,64,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,L. Steed to c for C. Ceccini.,65,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,C. Blunt grounded out to 2b.,66,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,D. Rogers pinch hit for B. Chapa.,67,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,D. Rogers struck out looking.,68,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,A. Jorge doubled to left center.,69,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,G. Garza walked3a A. Jorge advanced to third on a wild pitch.,70,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,"D. Castillo singled to shortstop, RBI3a G. Garza advanced to second3a A. Jorge scored.",71,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,"T. Davies homered down the lf line, 3 RBI3a D. Castillo scored3a G. Garza scored.",72,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,J. Purvis hit by pitch.,73,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,Kam. Briggs to p for N. Babin.,74,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,C. Martinez singled to left field3a J. Purvis advanced to second.,75,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,K. Hall hit by pitch3a C. Martinez advanced to second3a J. Purvis advanced to third.,76,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,"C. Blunt hit by pitch, RBI3a K. Hall advanced to second3a C. Martinez advanced to third3a J. Purvis scored.",77,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,"D. Rogers hit by pitch, RBI3a C. Blunt advanced to second3a K. Hall advanced to third3a C. Martinez scored.",78,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,D. Reimonenq to p for Kam. Briggs.,79,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,"A. Jorge singled to left field, 2 RBI3a D. Rogers advanced to second3a C. Blunt scored3a K. Hall scored.",80,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,G. Garza pinch hit for T. Babbitt.,81,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,6,top,G. Garza popped up to ss.,82,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,6,bot,G. Garza to 2b.,83,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,6,bot,D. Rogers to cf.,84,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,6,bot,L. Steed grounded out to ss.,85,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,6,bot,A. Velez grounded out to ss.,86,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,6,bot,C. DeLoach pinch hit for A. Coronado.,87,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,6,bot,C. DeLoach grounded out to 3b.,88,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,7,top,C. DeLoach to 3b.,89,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,7,top,D. Castillo struck out swinging.,90,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,7,top,T. Davies singled to left field.,91,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,7,top,J. Purvis struck out swinging.,92,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",615045,7,top,C. Martinez struck out swinging.,93,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,7,bot,B. Smith to p for L. Salas.,94,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,7,bot,K. Larry grounded out to 3b.,95,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,7,bot,M. Adams hit by pitch.,96,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,7,bot,M. Adams stole second.,97,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,7,bot,"C. Boyd doubled to center field, RBI3a M. Adams scored.",98,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,7,bot,C. Boyd advanced to third on a wild pitch.,99,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,7,bot,"F. Thorne walked, RBI3a C. Boyd scored on a wild pitch.",100,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,7,bot,B. Perkins to p for B. Smith.,101,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,7,bot,P. Ramseur struck out swinging3a F. Thorne advanced to second on a wild pitch.,102,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
-6538958,615045,Lane Dragons,-1,"
-     Xavier (LA)
-   ",-1,7,bot,K. Higginson struck out swinging.,103,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,1,top,A. Jorge walked.,1,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,1,top,"G. Garza grounded out to p, SAC3a A. Jorge advanced to second.",2,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,1,top,A. Jorge stole third.,3,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,1,top,"D. Castillo singled up the middle, RBI3a A. Jorge scored.",4,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,1,top,T. Davies flied out to lf.,5,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,1,top,J. Purvis struck out looking.,6,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,1,bot,K. Larry grounded out to 3b.,7,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,1,bot,M. Adams singled up the middle.,8,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,1,bot,C. Boyd grounded into double play ss to 2b3a M. Adams out on the play.,9,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,2,top,C. Martinez grounded out to 2b.,10,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,2,top,E. Mendez struck out looking.,11,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,2,top,"C. Blunt struck out swinging, reached first on a wild pitch.",12,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,2,top,C. Blunt stole second.,13,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,2,top,C. Blunt stole third.,14,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,2,top,B. Chapa struck out swinging.,15,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,2,bot,F. Thorne walked.,16,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,2,bot,P. Ramseur struck out swinging.,17,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,2,bot,K. Higginson flied out to cf.,18,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,2,bot,C. Ceccini grounded out to 1b unassisted.,19,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,3,top,A. Jorge singled through the right side.,20,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,3,top,A. Jorge advanced to second on a wild pitch.,21,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,3,top,G. Garza struck out swinging.,22,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,3,top,D. Castillo grounded out to ss3a A. Jorge advanced to third.,23,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,3,top,T. Davies walked.,24,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,3,top,T. Davies stole second.,25,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,3,top,J. Purvis walked.,26,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,3,top,"C. Martinez struck out swinging, grounded out to c unassisted.",27,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,3,bot,A. Velez walked.,28,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,3,bot,A. Velez advanced to second on a passed ball.,29,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,3,bot,A. Coronado walked.,30,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,3,bot,A. Coronado advanced to second on the error3a A. Velez advanced to third on an error by c.,31,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,3,bot,K. Larry reached first on an error by 1b.,32,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,3,bot,M. Adams reached on a fielder's choice3a K. Larry advanced to second3a A. Coronado advanced to third3a A. Velez out at home ss to c.,33,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,3,bot,"C. Boyd hit by pitch, RBI3a M. Adams advanced to second3a K. Larry advanced to third3a A. Coronado scored, unearned.",34,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,3,bot,"C. Boyd advanced to second3a M. Adams advanced to third3a K. Larry scored on an error by 3b, unearned.",35,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,3,bot,"F. Thorne grounded out to 1b unassisted, RBI3a C. Boyd advanced to third3a M. Adams scored, unearned.",36,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,3,bot,P. Ramseur hit by pitch.,37,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,3,bot,N. Babin to p for C. Nelson.,38,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,3,bot,K. Higginson struck out swinging.,39,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,4,top,E. Mendez flied out to rf.,40,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,4,top,"C. Blunt struck out swinging, reached first on a wild pitch.",41,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,4,top,B. Chapa struck out swinging.,42,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,4,top,A. Jorge grounded out to 2b.,43,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,4,bot,L. Salas to p for R. Perez.,44,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,4,bot,C. Ceccini grounded out to 3b.,45,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,4,bot,A. Velez grounded out to 3b.,46,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,4,bot,A. Coronado hit by pitch.,47,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,4,bot,"A. Coronado advanced to second on an error by p, failed pickoff attempt, advanced to third.",48,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,4,bot,K. Larry walked.,49,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,4,bot,K. Larry advanced to second.,50,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,4,bot,M. Adams struck out looking.,51,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,5,top,G. Garza struck out swinging.,52,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,5,top,D. Castillo doubled to left field.,53,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,5,top,"T. Davies doubled, RBI3a D. Castillo scored.",54,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,5,top,J. Purvis hit by pitch.,55,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,5,top,C. Martinez struck out swinging.,56,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,5,top,K. Hall pinch hit for E. Mendez.,57,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,5,top,K. Hall grounded out to ss.,58,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,5,bot,K. Hall to rf.,59,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,5,bot,C. Boyd singled to third base.,60,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,5,bot,C. Boyd stole second.,61,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,5,bot,F. Thorne struck out looking.,62,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,5,bot,P. Ramseur grounded out to 2b3a C. Boyd advanced to third.,63,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,5,bot,K. Higginson flied out to cf.,64,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,L. Steed to c for C. Ceccini.,65,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,C. Blunt grounded out to 2b.,66,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,D. Rogers pinch hit for B. Chapa.,67,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,D. Rogers struck out looking.,68,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,A. Jorge doubled to left center.,69,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,G. Garza walked3a A. Jorge advanced to third on a wild pitch.,70,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,"D. Castillo singled to shortstop, RBI3a G. Garza advanced to second3a A. Jorge scored.",71,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,"T. Davies homered down the lf line, 3 RBI3a D. Castillo scored3a G. Garza scored.",72,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,J. Purvis hit by pitch.,73,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,Kam. Briggs to p for N. Babin.,74,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,C. Martinez singled to left field3a J. Purvis advanced to second.,75,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,K. Hall hit by pitch3a C. Martinez advanced to second3a J. Purvis advanced to third.,76,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,"C. Blunt hit by pitch, RBI3a K. Hall advanced to second3a C. Martinez advanced to third3a J. Purvis scored.",77,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,"D. Rogers hit by pitch, RBI3a C. Blunt advanced to second3a K. Hall advanced to third3a C. Martinez scored.",78,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,D. Reimonenq to p for Kam. Briggs.,79,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,"A. Jorge singled to left field, 2 RBI3a D. Rogers advanced to second3a C. Blunt scored3a K. Hall scored.",80,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,G. Garza pinch hit for T. Babbitt.,81,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,6,top,G. Garza popped up to ss.,82,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,6,bot,G. Garza to 2b.,83,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,6,bot,D. Rogers to cf.,84,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,6,bot,L. Steed grounded out to ss.,85,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,6,bot,A. Velez grounded out to ss.,86,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,6,bot,C. DeLoach pinch hit for A. Coronado.,87,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,6,bot,C. DeLoach grounded out to 3b.,88,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,7,top,C. DeLoach to 3b.,89,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,7,top,D. Castillo struck out swinging.,90,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,7,top,T. Davies singled to left field.,91,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,7,top,J. Purvis struck out swinging.,92,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",615045,7,top,C. Martinez struck out swinging.,93,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,7,bot,B. Smith to p for L. Salas.,94,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,7,bot,K. Larry grounded out to 3b.,95,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,7,bot,M. Adams hit by pitch.,96,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,7,bot,M. Adams stole second.,97,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,7,bot,"C. Boyd doubled to center field, RBI3a M. Adams scored.",98,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,7,bot,C. Boyd advanced to third on a wild pitch.,99,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,7,bot,"F. Thorne walked, RBI3a C. Boyd scored on a wild pitch.",100,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,7,bot,B. Perkins to p for B. Smith.,101,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,7,bot,P. Ramseur struck out swinging3a F. Thorne advanced to second on a wild pitch.,102,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
+6538958,615045,Lane Dragons,-1,"Xavier (LA)",-1,7,bot,K. Higginson struck out swinging.,103,2026-02-07T17:00:00-05:00,"New Orleans, LA",0,MBA,2026
