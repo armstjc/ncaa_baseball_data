@@ -2,7 +2,7 @@ import logging
 from datetime import date, datetime, timedelta
 from os import mkdir
 from os.path import exists
-import time
+# import time
 
 import pandas as pd
 from ncaa_stats_py.baseball import (
