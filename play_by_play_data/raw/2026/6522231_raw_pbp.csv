@@ -1,0 +1,89 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,1,top,No play.,1,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,1,top,Owen Clyne struck out swinging (1-2 BKFS).,2,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,1,top,Lucas Albert struck out swinging (0-2 SFS).,3,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,1,top,Jake Butler struck out looking (1-2 KFFBK).,4,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,1,bot,"Cooney, R struck out swinging (2-2 FBKFBS).",5,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,1,bot,"Gimenez, J doubled to right center (2-2 KBFB).",6,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,1,bot,"Hellman, D singled to left center (1-1 SB)3a Gimenez, J advanced to third.",7,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,1,bot,"Miranda, G hit by pitch (2-2 BBFK)3a Hellman, D advanced to second.",8,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,1,bot,"Molony, M struck out looking (0-2 KKK).",9,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,1,bot,"Smith, D walked, RBI (3-1 BKBBB)3a Miranda, G advanced to second3a Hellman, D advanced to third3a Gimenez, J scored.",10,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,1,bot,"Mabeus, B flied out to rf (3-1 BBKB).",11,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,2,top,Luciano Teri singled up the middle (0-0).,12,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,2,top,Matthew West flied out to rf (1-0 B).,13,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,2,top,Julius Bogne popped up to 3b (3-2 BBBKSF).,14,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,2,top,"Luciano Teri out at first p to 1b, picked off.",15,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,2,bot,"Laya, A singled up the middle (0-2 KFF).",16,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,2,bot,"Brooks, J singled to catcher, bunt (0-0)3a Laya, A advanced to second.",17,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,2,bot,"Cooney, R singled down the 3b line, bunt (1-0 B)3a Brooks, J advanced to second3a Laya, A advanced to third.",18,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,2,bot,"Gimenez, J grounded out to 2b, RBI (0-0)3a Cooney, R advanced to second3a Brooks, J advanced to third3a Laya, A scored.",19,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,2,bot,"Hellman, D homered to left field, 3 RBI (2-1 SBB)3a Cooney, R scored3a Brooks, J scored.",20,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,2,bot,"Miranda, G struck out swinging (2-2 BBKSS).",21,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,2,bot,"Molony, M hit by pitch (2-1 BBF).",22,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,2,bot,"Smith, D singled to right field (0-0)3a Molony, M advanced to third.",23,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,2,bot,"Mabeus, B flied out to lf (0-0).",24,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,3,top,Evan Blancha grounded out to p (0-2 KF).,25,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,3,top,Logan Vaugha flied out to cf to left center (1-1 KB).,26,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,3,top,Drew Canody popped up to ss (2-1 BBF).,27,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,3,bot,"Laya, A singled up the middle (0-2 FS).",28,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,3,bot,"Brooks, J fouled out to 3b (2-2 KFBB).",29,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,3,bot,"Cooney, R reached on a fielder's choice (2-0 BB)3a Laya, A out at second 3b to 2b.",30,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,3,bot,"Gimenez, J flied out to rf (0-1 K).",31,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,4,top,Owen Clyne struck out looking (2-2 BKBSK).,32,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,4,top,Lucas Albert flied out to lf (1-1 BS).,33,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,4,top,Jake Butler walked (3-2 KBKBBFB).,34,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,4,top,Luciano Teri struck out looking (3-2 BFFFBFBFFK).,35,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,4,bot,Brant Ertel to p for Owen Stewart.,36,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,4,bot,"Hellman, D grounded out to 2b up the middle (1-1 KB).",37,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,4,bot,"Miranda, G hit by pitch (0-1 K).",38,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,4,bot,"Molony, M lined out to ss (2-2 KFBFFB).",39,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,4,bot,"Smith, D walked (3-2 BBKKBFB)3a Miranda, G advanced to second.",40,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,4,bot,"Mabeus, B grounded out to 2b (0-1 F).",41,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,5,top,Matthew West grounded out to 3b (0-1 K).,42,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,5,top,Julius Bogne grounded out to 2b (1-1 KB).,43,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,5,top,Evan Blancha grounded out to 2b (2-2 FBBF).,44,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,5,bot,"Laya, A doubled to center field (2-2 FBBK).",45,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,5,bot,"Brooks, J reached on a throwing error by p, SAC, bunt (0-1 K)3a Laya, A scored.",46,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,5,bot,"Cooney, R flied out to lf (0-1 K).",47,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,5,bot,"Brooks, J stole second.",48,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,5,bot,"Gimenez, J out at first 1b to p (1-2 BSK)3a Brooks, J advanced to third.",49,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,5,bot,"Hellman, D grounded out to 3b (1-0 B).",50,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,6,top,"Gosztola, M to p for Sanford, W.",51,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,6,top,Logan Vaugha grounded out to ss (2-1 BKB).,52,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,6,top,Drew Canody grounded out to 2b (1-1 KB).,53,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,6,top,Owen Clyne doubled down the lf line (0-0).,54,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,6,top,Lucas Albert fouled out to 1b (1-1 BS).,55,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,6,bot,"Miranda, G flied out to rf (3-2 KBBFB).",56,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,6,bot,"Molony, M grounded out to 2b up the middle (2-2 FBKB).",57,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,6,bot,"Smith, D struck out swinging (0-2 KSS).",58,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,7,top,Jake Butler walked (3-1 BKBBB).,59,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,7,top,Luciano Teri singled to left field (2-1 BBK)3a Jake Butler advanced to second.,60,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,7,top,Matthew West struck out swinging (1-2 BFFS).,61,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,7,top,Luciano Teri advanced to second on a balk3a Jake Butler advanced to third on a balk.,62,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,7,top,Julius Bogne struck out swinging (2-2 BKFBS).,63,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,7,top,Laken Tignor pinch hit for Evan Blancha.,64,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,7,top,"Laken Tignor singled to left field, 2 RBI, advanced to second on a fielding error by lf (0-2 KSF)3a Luciano Teri scored3a Jake Butler scored.",65,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,7,top,Logan Vaugha popped up to 1b (2-1 BBK).,66,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,7,bot,Toby Hueber to 3b for Laken Tignor.,67,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,7,bot,"Mabeus, B lined out to ss (2-0 BB).",68,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,7,bot,"Laya, A grounded out to p (3-2 BFSFFBB).",69,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,7,bot,"Brooks, J hit by pitch.",70,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,7,bot,"Brooks, J stole second.",71,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,7,bot,"Cooney, R hit by pitch (2-0 BB).",72,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,7,bot,Shaun Okeeff to p for Brant Ertel.,73,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,7,bot,"Cooney, R out at second c to 2b, caught stealing.",74,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,8,top,"Bradley, T to p for Gosztola, M.",75,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,8,top,Drew Canody struck out swinging (0-2 KKS).,76,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,8,top,Owen Clyne flied out to lf (2-2 BKFFBF).,77,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,8,top,Lucas Albert hit by pitch (1-1 BS).,78,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,8,top,Jake Butler grounded out to ss (1-1 KB).,79,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,8,bot,"Gimenez, J doubled to left field (3-2 BBBKF).",80,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,8,bot,"Cook, E pinch ran for Gimenez, J.",81,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,8,bot,"Hellman, D struck out swinging (0-2 KFS).",82,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,8,bot,"Miranda, G flied out to lf to left center (3-2 BSBBFF).",83,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614705,8,bot,"Molony, M grounded out to 3b (0-0).",84,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,9,top,"Cook, E to lf.",85,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,9,top,Luciano Teri lined out to 3b (1-1 BK).,86,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,9,top,Matthew West grounded out to 3b (2-0 BB).,87,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026
+6522231,614609,George Mason Patriots,614705,Oregon Ducks,614609,9,top,Julius Bogne out at first 1b to p (0-1 F).,88,2026-02-13T18:00:00-05:00,"PK Park (Eugene, OR)",2241,MBA,2026

@@ -1,0 +1,105 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,1,top,No play.,1,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,1,top,No play.,2,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,1,top,"GARRISH, T. grounded out to 2b (0-1 K).",3,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,1,top,"HANOIAN, W. struck out swinging (0-2 FKS).",4,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,1,top,"ZAPP, W. walked (3-2 BKFFBBB).",5,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,1,top,"TAYLOR, C. grounded out to p (0-0).",6,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,1,bot,Mercado struck out swinging (0-2 KKS).,7,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,1,bot,Davis grounded out to 2b (0-0).,8,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,1,bot,Porter flied out to cf (2-1 BFB).,9,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,2,top,"BURDINE, B. singled to shortstop (1-2 BKSF).",10,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,2,top,"ELMORE, L. grounded out to 2b (0-0); BURDINE, B. advanced to second.",11,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,2,top,"BRADSHAW, K. struck out looking (3-2 BBFSBFFK).",12,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,2,top,"NIEDNAGEL, B grounded out to 1b unassisted (3-2 KBBFB).",13,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,2,bot,Molinaro grounded out to ss (0-0).,14,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,2,bot,Barnett struck out swinging (1-2 KBKS).,15,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,2,bot,Jaconski flied out to rf (1-0 B).,16,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,3,top,"OSTER,TJ grounded out to 2b (0-0).",17,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,3,top,"GARRISH, T. walked (3-2 KBSBFBFB).",18,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,3,top,"HANOIAN, W. walked (3-1 KBBBB); GARRISH, T. advanced to second.",19,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,3,top,"ZAPP, W. struck out swinging (1-2 FBFS).",20,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,3,top,"TAYLOR, C. reached on a fielder's choice (0-1 K); HANOIAN, W. out at second 2b to ss.",21,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,3,bot,Karstetter grounded out to 3b (2-1 KBB).,22,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,3,bot,Voss singled to first base (1-2 BKF).,23,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,3,bot,Turcovski popped up to ss (2-1 BBS).,24,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,3,bot,Voss stole second.,25,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,3,bot,Voss advanced to third on a balk.,26,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,3,bot,Mercado walked (3-2 BKFBFBB).,27,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,3,bot,Davis reached on a fielder's choice (1-1 BF); Mercado out at second 2b to ss.,28,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,4,top,"BURDINE, B. walked (3-2 FBBFBB).",29,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,4,top,"BURDINE, B. stole second.",30,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,4,top,"ELMORE, L. singled to third base, bunt (2-1 BBF); BURDINE, B. advanced to third.",31,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,4,top,"BRADSHAW, K. singled to left field, RBI (1-1 FB); ELMORE, L. advanced to second; BURDINE, B. scored.",32,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,4,top,"NIEDNAGEL, B singled to pitcher, bunt (1-1 BF); BRADSHAW, K. advanced to second; ELMORE, L. advanced to third.",33,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,4,top,"OSTER,TJ reached on a fielder's choice (3-1 BSBB); NIEDNAGEL, B advanced to second, advanced to third on a throwing error by c; BRADSHAW, K. scored; ELMORE, L. out at home 3b to c.",34,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,4,top,Emmons to p for Fitzgerald.,35,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,4,top,No play.,36,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,4,top,"OSTER,TJ advanced to second on a throwing error by p; NIEDNAGEL, B scored, unearned.",37,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,4,top,"GARRISH, T. walked (3-2 BBBKKFB).",38,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,4,top,"HANOIAN, W. reached on a fielder's choice (3-2 KBFBFB); GARRISH, T. out at second 1b to ss; OSTER,TJ advanced to third.",39,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,4,top,"HANOIAN, W. stole second.",40,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,4,top,"ZAPP, W. struck out looking (2-2 FKBBK).",41,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,4,bot,Porter grounded out to 3b (1-1 KB).,42,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,4,bot,Molinaro struck out looking (2-2 BKBFK).,43,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,4,bot,Barnett struck out swinging (2-2 BKKBFS).,44,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,5,top,Horwat to p for Emmons.,45,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,5,top,"TAYLOR, C. grounded out to ss (3-1 BBBK).",46,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,5,top,"BURDINE, B. singled up the middle (2-2 BKKB).",47,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,5,top,"ELMORE, L. singled up the middle (0-1 K); BURDINE, B. advanced to second.",48,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,5,top,"ELMORE, L. advanced to second on a wild pitch; BURDINE, B. advanced to third.",49,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,5,top,"BRADSHAW, K. singled to right field, RBI (2-2 KKFBB); ELMORE, L. advanced to third; BURDINE, B. scored.",50,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,5,top,"BRADSHAW, K. stole second; ELMORE, L. stole home.",51,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,5,top,"NIEDNAGEL, B reached on a throwing error by 2b, advanced to second (0-1 K); BRADSHAW, K. scored, unearned.",52,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,5,top,"OSTER,TJ grounded out to 2b (0-1 F); NIEDNAGEL, B advanced to third.",53,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,5,top,"GARRISH, T. grounded out to ss (0-2 KSF).",54,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,5,bot,Jaconski flied out to lf (0-2 KK).,55,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,5,bot,Karstetter singled to center field (0-1 F).,56,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,5,bot,Voss popped up to 3b (0-0).,57,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,5,bot,Turcovski walked (3-0 BBBB); Karstetter advanced to second.,58,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,5,bot,Mercado flied out to cf (2-2 KFFBB).,59,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,6,top,"HANOIAN, W. hit by pitch (0-1 K).",60,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,6,top,"ZAPP, W. grounded out to 3b (1-2 KFB); HANOIAN, W. advanced to second.",61,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,6,top,"TAYLOR, C. reached on a fielding error by cf (0-0).",62,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,6,top,"BURDINE, B. flied out to lf (0-0).",63,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,6,top,"ELMORE, L. doubled to left field, 2 RBI (0-1 F); TAYLOR, C. scored, unearned; HANOIAN, W. scored, unearned.",64,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,6,top,"BRADSHAW, K. hit by pitch (0-0).",65,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,6,top,"NIEDNAGEL, B flied out to lf (0-2 KK).",66,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,6,bot,Davis grounded out to 2b (2-2 KFBFB).,67,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,6,bot,Porter popped up to 3b (1-1 BS).,68,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,6,bot,Molinaro walked (3-1 BBKBB).,69,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,6,bot,Barnett flied out to lf (0-1 S).,70,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,7,top,Bauerschmidt to p for Horwat.,71,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,7,top,"OSTER,TJ popped up to p, bunt (0-1 S).",72,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,7,top,"GARRISH, T. singled to left field (1-2 BSFFF).",73,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,7,top,"HANOIAN, W. singled to right field (0-1 S); GARRISH, T. advanced to third.",74,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,7,top,"ZAPP, W. struck out swinging (0-2 KKS).",75,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,7,top,"TAYLOR, C. reached on a throwing error by ss (1-0 B); HANOIAN, W. advanced to third; GARRISH, T. scored, unearned.",76,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,7,top,"TAYLOR, C. stole second.",77,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,7,top,"BURDINE, B. walked (3-2 BSKFBBB).",78,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,7,top,"ELMORE, L. singled to right field, 2 RBI (1-1 BK); BURDINE, B. advanced to third; TAYLOR, C. scored, unearned; HANOIAN, W. scored, unearned.",79,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,7,top,"BRADSHAW, K. popped up to 1b (0-0).",80,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,7,bot,"POE, A. to p for ESTRIDGE, G..",81,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,7,bot,Jaconski flied out to rf (2-2 KBBF).,82,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,7,bot,Karstetter walked (3-1 KBBBB).,83,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,7,bot,Voss hit by pitch (2-0 BB); Karstetter advanced to second.,84,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,7,bot,"Turcovski singled to center field, RBI (0-1 K); Voss advanced to second; Karstetter scored.",85,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,7,bot,Turcovski advanced to second on a wild pitch; Voss advanced to third.,86,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,7,bot,"Mercado grounded out to 2b, RBI (2-2 KBBF); Turcovski advanced to third; Voss scored.",87,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,7,bot,"Davis singled up the middle, RBI (0-0); Turcovski scored.",88,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,7,bot,Porter reached on a fielder's choice (1-2 FKB); Davis out at second ss to 2b.,89,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,8,top,Brown III to p for Bauerschmidt.,90,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,8,top,"NIEDNAGEL, B singled to left field (3-2 FBBKFB).",91,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,8,top,"OSTER,TJ walked (3-0 BBBB); NIEDNAGEL, B advanced to second.",92,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,8,top,"GARRISH, T. walked (3-1 KBBBB); OSTER,TJ advanced to second; NIEDNAGEL, B advanced to third.",93,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,8,top,"HANOIAN, W. doubled to right field, 2 RBI (0-0); GARRISH, T. advanced to third; OSTER,TJ scored; NIEDNAGEL, B scored.",94,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,8,top,"ZAPP, W. popped up to 2b (1-0 B).",95,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,8,top,"TAYLOR, C. lined out to rf, SF, RBI (2-0 BB); HANOIAN, W. advanced to third; GARRISH, T. scored.",96,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,8,top,"BURDINE, B. singled to center field, RBI (0-2 KF); HANOIAN, W. scored.",97,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614798,8,top,"ELMORE, L. popped up to 1b (1-0 B).",98,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,8,bot,"DOWNING, M. to p for POE, A..",99,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,8,bot,Molinaro flied out to rf (1-1 BK).,100,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,8,bot,Yaucher pinch hit for Barnett.,101,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,8,bot,Yaucher struck out looking (0-2 KKK).,102,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,8,bot,Smith pinch hit for Jaconski.,103,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
+6509587,614798,Air Force Falcons,614708,Penn St. Nittany Lions,614708,8,bot,Smith grounded out to 3b (2-1 BBK).,104,2026-02-13T00:00:00-05:00,"Scottsdale, AZ",200,MBA,2026
