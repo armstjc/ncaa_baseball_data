@@ -1,0 +1,87 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,1,top,"KATAYAMA, C grounded out to 2b (0-0).",1,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,1,top,"BEAN, B lined out to lf (2-2 BKBFFF).",2,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,1,top,"SWYGART, T struck out swinging (1-2 BKKS).",3,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,1,bot,ANDERSON struck out swinging (1-2 FFBS).,4,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,1,bot,BOYLE grounded out to ss (1-1 FB).,5,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,1,bot,FLORES hit by pitch (0-0).,6,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,1,bot,MOORE reached on a fielder's choice to third base (2-2 KBKBF)3a FLORES out at second 3b to 2b.,7,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,2,top,"SALK, J flied out to cf (2-2 BFBFFFF).",8,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,2,top,"COTE, L grounded out to p (0-1 K).",9,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,2,top,"PFEIFER, I struck out swinging (2-2 FKBFBS).",10,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,2,bot,RICHMOND struck out swinging (1-2 KBFFFS).,11,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,2,bot,SWIDERSKI flied out to cf to left center (2-1 BKB).,12,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,2,bot,DECELLO walked (3-2 BSBFBB).,13,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,2,bot,"LABONTE, W to p for CODRON, M.",14,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,2,bot,DRAKE grounded out to 2b (3-1 BKBB).,15,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,3,top,"CHUN, D popped up to lf (1-2 KBF).",16,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,3,top,"LANDWEHR, J struck out swinging (1-2 KFBS).",17,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,3,top,"BRUCE, G grounded out to 3b (1-1 KB).",18,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,3,bot,HIGHFILL singled to shortstop (2-2 KBBKFF).,19,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,3,bot,ANDERSON grounded into double play ss to 2b to 1b (2-2 FBBFF)3a HIGHFILL out on the play.,20,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,3,bot,BOYLE popped up to cf (0-1 K).,21,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,4,top,"KATAYAMA, C grounded out to 2b (0-0).",22,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,4,top,"BEAN, B doubled to left field (0-1 F).",23,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,4,top,"SWYGART, T flied out to cf to left center (0-2 FS)3a BEAN, B advanced to third.",24,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,4,top,"SALK, J grounded out to ss (0-0).",25,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,4,bot,FLORES grounded out to ss up the middle (0-1 K).,26,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,4,bot,MOORE grounded out to ss (0-0).,27,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,4,bot,RICHMOND singled to right field (0-0).,28,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,4,bot,SWIDERSKI grounded out to 2b up the middle (0-0).,29,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,5,top,"COTE, L struck out swinging (0-2 KKS).",30,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,5,top,"PFEIFER, I grounded out to 2b (2-1 BBK).",31,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,5,top,"CHUN, D singled through the left side (1-1 BK).",32,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,5,top,"LANDWEHR, J lined out to 2b (2-2 BBSK).",33,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,5,bot,DECELLO grounded out to 2b (0-1 F).,34,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,5,bot,DRAKE singled to right field (2-1 KBB).,35,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,5,bot,"DRAKE out at second c to 2b, caught stealing.",36,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,5,bot,HIGHFILL struck out swinging (1-2 KBSS).,37,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,6,top,"BRUCE, G singled up the middle (0-1 K).",38,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,6,top,"BRUCE, G out at second p to 1b to ss, picked off.",39,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,6,top,"KATAYAMA, C struck out looking (1-2 KKBFFK).",40,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,6,top,"BEAN, B out at first 1b to p (0-1 K).",41,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,6,bot,ANDERSON singled up the middle (0-1 S).,42,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,6,bot,BOYLE grounded into double play ss to 2b to 1b (1-1 BF)3a ANDERSON out on the play.,43,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,6,bot,FLORES flied out to cf to left center (1-1 BK).,44,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,7,top,"SWYGART, T struck out swinging (0-2 KSS).",45,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,7,top,"SALK, J struck out swinging (1-2 BSKS).",46,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,7,top,"COTE, L lined out to ss (0-0).",47,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,7,bot,MOORE flied out to lf (1-2 BKS).,48,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,7,bot,RICHMOND struck out swinging (2-2 KBSBS).,49,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,7,bot,SWIDERSKI flied out to cf to left center (1-2 KFB).,50,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,8,top,"PFEIFER, I grounded out to ss (1-1 FB).",51,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,8,top,"CHUN, D grounded out to 2b up the middle (1-0 B).",52,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,8,top,"LANDWEHR, J grounded out to 2b (0-2 KF).",53,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,8,bot,"GASTON, C to p for LABONTE, W.",54,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,8,bot,DECELLO hit by pitch (1-2 KBF).,55,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,8,bot,"DRAKE reached on a throwing error by p, SAC, bunt (1-0 B)3a DECELLO advanced to second.",56,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,8,bot,"VIA, A to p for GASTON, C.",57,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,8,bot,HIGHFILL struck out swinging (0-2 FFS).,58,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,8,bot,ANDERSON walked (3-1 BBBKB)3a DRAKE advanced to second3a DECELLO advanced to third.,59,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,8,bot,BOYLE struck out looking (0-2 FFFK).,60,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,8,bot,FLORES popped up to 2b to right field (0-0).,61,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,9,top,KLUG to p for ERDMAN.,62,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,9,top,"NITOWITZ, C pinch hit for BRUCE, G.",63,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,9,top,"NITOWITZ, C doubled down the lf line (2-2 FBFB).",64,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,9,top,"KATAYAMA, C struck out swinging (3-2 BBFSBS).",65,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,9,top,"BEAN, B singled through the left side (1-2 BSS)3a NITOWITZ, C advanced to third.",66,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,9,top,"BEAN, B stole second.",67,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,9,top,"SWYGART, T intentionally walked.",68,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,9,top,"SALK, J lined out to cf to right center, SF, RBI (2-2 FBBFF)3a NITOWITZ, C scored.",69,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,9,top,"MILLER, N pinch hit for COTE, L.",70,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,9,top,"MILLER, N hit by pitch (0-2 FFF)3a SWYGART, T advanced to second3a BEAN, B advanced to third.",71,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614711,9,top,"PFEIFER, I flied out to lf (0-1 F).",72,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,9,bot,"MILLER, N to 1b.",73,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,9,bot,"RICE, A to rf for PFEIFER, I.",74,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,9,bot,"NITOWITZ, C to lf.",75,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,9,bot,MOORE fouled out to 2b (3-2 BBKKFFB).,76,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,9,bot,RICHMOND singled to right field (2-2 KSBB).,77,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,9,bot,ROGERS pinch ran for RICHMOND.,78,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,9,bot,DIONNE pinch hit for SWIDERSKI.,79,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,9,bot,DIONNE walked (3-0 BBBB)3a ROGERS advanced to second.,80,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,9,bot,ZYCHOWSKI pinch ran for DIONNE.,81,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,9,bot,ZYCHOWSKI advanced to second on a wild pitch3a ROGERS advanced to third on a wild pitch.,82,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,9,bot,DECELLO walked (3-1 KBBBB).,83,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,9,bot,DRAKE struck out swinging (3-2 BBBKKFS).,84,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,9,bot,MANIAS pinch hit for HIGHFILL.,85,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026
+6496597,614711,Portland Pilots,614714,Purdue Boilermakers,614714,9,bot,"MANIAS singled to right field, 2 RBI (1-0 B)3a DECELLO advanced to second3a ZYCHOWSKI scored3a ROGERS scored.",86,2026-02-14T13:00:00-05:00,"Sugar Land, TX",290,MBA,2026

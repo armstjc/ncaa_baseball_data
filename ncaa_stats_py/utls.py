@@ -662,13 +662,13 @@ def _web_headers() -> dict:
     return headers
 
 
-def _get_webpage(url:str) -> str:
+def _get_webpage(url: str) -> str:
     """ """
     rng = SystemRandom()
     timeout = 10 + rng.randint(a=5, b=8)
     driver = webdriver.Chrome()
     driver.get(url)
-    wait = WebDriverWait(driver, timeout)  # noqa: F841
+    wait = WebDriverWait(driver, 30)  # noqa: F841
     time.sleep(timeout)
     html_page = driver.page_source
     # driver.close()
@@ -681,7 +681,7 @@ def _get_webpage_deprecated(url: str) -> requests.Response:
     headers = _web_headers()
     response = requests.get(headers=headers, url=url, timeout=30)
     timeout = 5 + rng.randint(a=0, b=5)
-    # time.sleep(timeout)
+    time.sleep(timeout)
 
     if response.status_code == 200:
         return response
