@@ -1,0 +1,92 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,1,top,"Drees,Parker struck out swinging (2-2 SBSBS).",1,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,1,top,"Grad,Frank grounded out, ss to 1b (0-2 KK).",2,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,1,top,"Morrison,Christian struck out swinging (1-2 BKSS).",3,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,1,bot,"Fox,Brycen grounded out, ss to 1b (0-2 KK).",4,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,1,bot,"Ickes,Luke struck out swinging (1-2 SSBS).",5,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,1,bot,"Tsouras,Chris walked (3-2 KBSBFBB).",6,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,1,bot,"Tsouras,Chris advanced to second base on a wild pitch.",7,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,1,bot,"TomeIII,Daniel grounded out, 2b to 1b (2-1 BBK).",8,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,2,top,"Hughes,Jordan walked (3-2 KBBBKFB).",9,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,2,top,"Sanna,Joey flied out to cf (2-0 BB).",10,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,2,top,"Connor,Sean struck out swinging (1-2 BFSS).",11,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,2,top,"Angora,Justin popped up to 2b (1-1 BK).",12,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,2,bot,"Denham,Drew hit by pitch (3-2 BKKBB).",13,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,2,bot,"Szekely,Trevor singled to second base (3-2 BBFSB)3a Denham,Drew advanced to second base.",14,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,2,bot,"Jung,Jake hit by pitch (4-2 BKKBBB)3a Denham,Drew advanced to third base3a Szekely,Trevor advanced to second base.",15,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,2,bot,"Stevens,Gavin grounded out, 2b to 1b, RBI (1-1 BS)3a Denham,Drew scored3a Szekely,Trevor advanced to third base3a Jung,Jake advanced to second base.",16,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,2,bot,"Tucker,Aaron struck out looking (0-2 SFK).",17,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,2,bot,"Fox,Brycen grounded out, 2b to 1b (2-2 BSBK).",18,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,3,top,"Snyder,Anthony struck out looking (1-2 BSKFK).",19,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,3,top,"Eygabroad,Matty flied out to lf (1-2 KSB).",20,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,3,top,"Drees,Parker struck out looking (2-2 SBSBFK).",21,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,3,bot,"Ickes,Luke struck out swinging (2-2 KKBBS).",22,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,3,bot,"Tsouras,Chris singled to second base (3-2 BFBKBF).",23,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,3,bot,"TomeIII,Daniel singled to center field (2-2 BFFB)3a Tsouras,Chris advanced to second base.",24,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,3,bot,"Denham,Drew walked (3-2 BKBBKB)3a Tsouras,Chris advanced to third base3a TomeIII,Daniel advanced to second base.",25,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,3,bot,"Szekely,Trevor struck out swinging (0-2 SFS).",26,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,3,bot,"Denham,Drew advanced to second base on a passed ball3a TomeIII,Daniel advanced to third base on a passed ball3a Tsouras,Chris scored on a passed ball, unearned.",27,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,3,bot,"Jung,Jake flied out to lf (2-2 KFBB).",28,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,4,top,"Grad,Frank walked (3-2 BBBKFB).",29,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,4,top,"Grad,Frank out caught stealing at second base, c to ss.",30,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,4,top,"Morrison,Christian singled to right field (2-2 BBKS).",31,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,4,top,"Morrison,Christian out caught stealing at second base, c to ss.",32,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,4,top,"Hughes,Jordan struck out swinging (2-2 BSBSS).",33,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,4,bot,"AS pitching change: Stoddard,Landen replaces Hughes,Jordan.",34,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,4,bot,"AS position change: Hughes,Jordan now playing dh from p",35,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,4,bot,"Stevens,Gavin grounded out to 1b, unassisted (1-1 BF).",36,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,4,bot,"Tucker,Aaron struck out swinging (2-2 BKBSS).",37,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,4,bot,"Fox,Brycen hit by pitch (3-1 KBBB).",38,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,4,bot,"Fox,Brycen stole second base.",39,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,4,bot,"Ickes,Luke walked (3-2 BBFFBB).",40,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,4,bot,"Tsouras,Chris lined out to 2b (1-2 KBF).",41,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,5,top,"Sanna,Joey flied out to lf (1-2 BSS).",42,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,5,top,"Connor,Sean struck out swinging (1-2 SSBS).",43,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,5,top,"Angora,Justin reached on an error by Stevens,Gavin (E6) (2-2 BKSBF).",44,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,5,top,"Snyder,Anthony struck out swinging (2-2 BKSBS).",45,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,5,bot,"TomeIII,Daniel grounded out to 1b, unassisted (0-0).",46,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,5,bot,"Denham,Drew singled to short (1-1 KB).",47,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,5,bot,"Szekely,Trevor tripled to right center, RBI (1-0 B)3a Denham,Drew scored from first base.",48,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,5,bot,"Jung,Jake hit by pitch (3-1 BKBB).",49,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,5,bot,"Stevens,Gavin sacrifice bunt to 1b, unassisted (0-1 F)3a Jung,Jake advanced to second base.",50,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,5,bot,"Tucker,Aaron singled to right field, 2RBI (1-2 KBK)3a Szekely,Trevor scored3a Jung,Jake scored from second base.",51,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,5,bot,"Fox,Brycen grounded out, 2b to 1b (1-1 FB).",52,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,6,top,"Eygabroad,Matty walked (3-1 SBBBB).",53,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,6,top,"Drees,Parker struck out swinging (0-2 KSS).",54,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,6,top,"Grad,Frank struck out looking (1-2 BFKK).",55,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,6,top,"Morrison,Christian flied out to lf (0-1 K).",56,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,6,bot,"AS pitching change: Lewis,Daniel replaces Stoddard,Landen.",57,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,6,bot,"Ickes,Luke singled to center field (0-0).",58,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,6,bot,"Tsouras,Chris struck out swinging (1-2 KBSS).",59,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,6,bot,"TomeIII,Daniel tripled to center field, RBI (3-0 BBB)3a Ickes,Luke scored from first base.",60,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,6,bot,"Denham,Drew doubled to left field, RBI (0-1 S)3a TomeIII,Daniel scored.",61,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,6,bot,"Szekely,Trevor grounded out, ss to 1b (0-0).",62,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,6,bot,"Jung,Jake lined out to ss (2-1 BBK).",63,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,7,top,"UMU pitching change: Maurer,Christopher replaces Dennison,Ty.",64,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,7,top,"AS substitution: Hughes,Jordan replaces Lewis,Daniel at dh, batting 4th.",65,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,7,top,"AS substitution: Lewis,Daniel replaces Hughes,Jordan at p.",66,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,7,top,"Hughes,Jordan flied out to lf (0-1 K).",67,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,7,top,"Sanna,Joey walked (3-2 KBBBKB).",68,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,7,top,"Connor,Sean flied out to cf (3-2 BBSFB).",69,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,7,top,"Angora,Justin popped up to ss (1-2 KFB).",70,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,7,bot,"AS pitching change: Nelson,Zachary replaces Lewis,Daniel.",71,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,7,bot,"Stevens,Gavin lined out to 1b (1-1 FB).",72,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,7,bot,"Tucker,Aaron flied out to cf (0-0).",73,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,7,bot,"Fox,Brycen struck out looking (1-2 BFFK).",74,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,8,top,"Snyder,Anthony popped up in third base side foul territory putout by 3b (1-1 KB).",75,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,8,top,"Eygabroad,Matty struck out looking (2-2 BKBFK).",76,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,8,top,"AS substitution: Camacho,James pinch hitting for Drees,Parker.",77,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,8,top,"Camacho,James grounded out to ss, unassisted (1-2 SKB).",78,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,8,bot,"AS position change: Camacho,James remains in the game at cf",79,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,8,bot,"Ickes,Luke flied out to lf (0-2 KK).",80,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,8,bot,"Tsouras,Chris struck out swinging (3-2 BBBKKS).",81,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,8,bot,"TomeIII,Daniel tripled to center field (1-2 BSK).",82,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,8,bot,"Denham,Drew singled to right field, RBI (2-2 BBKF)3a TomeIII,Daniel scored.",83,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615284,8,bot,"Szekely,Trevor struck out looking (1-2 BKSK).",84,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,9,top,"Grad,Frank walked (3-0 BBBB).",85,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,9,top,"Morrison,Christian hit by pitch (1-0 B)3a Grad,Frank advanced to second base.",86,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,9,top,"Hughes,Jordan flied out to cf (2-1 BKB).",87,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,9,top,"Sanna,Joey tripled to center field, 2RBI (0-0)3a Grad,Frank scored from second base3a Morrison,Christian scored from first base.",88,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,9,top,"Connor,Sean homered, 2RBI (1-1 SB)3a Sanna,Joey scored.",89,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,9,top,"Angora,Justin grounded out, 2b to 1b (0-1 F).",90,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
+6554093,615135,Alfred St. Pioneers,615284,Mount Union Purple Raiders,615135,9,top,"Snyder,Anthony flied out to lf (1-2 BSS).",91,2026-02-14T00:00:00-05:00,"Indianapolis, IN",33,MBA,2026
