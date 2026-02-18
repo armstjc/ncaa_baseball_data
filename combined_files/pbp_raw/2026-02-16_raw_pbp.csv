@@ -1,0 +1,657 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,1,top,"Jefferis,Brayden struck out swinging (0-2 KSS).",1,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,1,top,"Ladehoff,Cade popped up to 2b (1-2 BKK).",2,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,1,top,"Turner,Colby struck out swinging (2-2 BFBFFS).",3,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,1,bot,"Singer,AJ struck out looking (1-2 SBSK).",4,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,1,bot,"Talt,Easton struck out swinging (3-2 BKBKFBS).",5,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,1,bot,"Hayes,Nyan flied out to cf (0-2 FK).",6,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,2,top,"Miller,Noah struck out swinging (0-2 FKFFS).",7,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,2,top,"Luna,Carson flied out to deep center field putout by cf (1-0 B).",8,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,2,top,"Haeger,Evan struck out swinging (1-2 KBSS).",9,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,2,bot,"Hubbard,Bryce hit by pitch (2-0 BB).",10,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,2,bot,"Glassco,Bryson reached on a fielder's choice hit through the left side of the infield (1-1 KB); Hubbard,Bryce out at second base, ss to 2b.",11,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,2,bot,"Galloway,Jacob flied out to lf (3-1 BBBK).",12,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,2,bot,"Glassco,Bryson out caught stealing at second base, c to 2b.",13,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,3,top,"PaceJr,Greg grounded out, ss to 1b (0-2 FKFF).",14,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,3,top,"Campbell,Josh flied out to shallow right field putout by rf (1-1 BS).",15,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,3,top,"Culbertson,Drew flied out to cf (0-0).",16,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,3,bot,"Krieg,Jacob flied out to cf (2-1 FBB).",17,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,3,bot,"Proctor,Josh flied out to lf (0-0).",18,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,3,bot,"Inge,Tyler struck out looking (0-2 KFK).",19,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,4,top,"Jefferis,Brayden grounded out, 2b to 1b (0-2 FS).",20,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,4,top,"Ladehoff,Cade doubled down the left field line (0-0).",21,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,4,top,"Turner,Colby grounded out, ss to 1b (1-2 BSS).",22,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,4,top,"Miller,Noah struck out looking (3-2 FBBBFK).",23,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,4,bot,"Singer,AJ reached on a throwing error throwing by ss by Culbertson,Drew (E6) (2-2 BKBF).",24,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,4,bot,"Talt,Easton doubled to deep center field, RBI (1-0 B); Singer,AJ scored from first base, unearned.",25,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,4,bot,The previous play was reviewed and the call was upheld..,26,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,4,bot,"Hayes,Nyan singled through the left side of the infield (2-0 BB); Talt,Easton advanced to third base.",27,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,4,bot,"MICH pitching change: Novara,Wyatt replaces LallyJr,David.",28,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,4,bot,"Hubbard,Bryce sacrifice fly to rf, RBI (0-1 K); Talt,Easton scored.",29,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,4,bot,"Glassco,Bryson flied out to cf (0-0).",30,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,4,bot,"Hayes,Nyan out caught stealing at second base, p to 1b to ss, picked off.",31,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,5,top,"Luna,Carson struck out swinging (1-2 BKFS).",32,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,5,top,"Haeger,Evan walked (3-2 BSBBFB).",33,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,5,top,"OSU pitching change: Hutcheson,AJ replaces Morris,Trey.",34,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,5,top,"MICH substitution: Kim,Jonathan pinch hitting for PaceJr,Greg.",35,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,5,top,"Haeger,Evan advanced to second base on a throwing error by Hutcheson,AJ (E1), on a failed pickoff attempt.",36,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,5,top,"Kim,Jonathan walked (3-2 KBKBBB).",37,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,5,top,"MICH substitution: Stressler,Brenden pinch hitting for Campbell,Josh.",38,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,5,top,"Stressler,Brenden singled up the middle, RBI (0-2 FK); Haeger,Evan scored from second base; Kim,Jonathan advanced to second base.",39,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,5,top,"Culbertson,Drew reached on a fielder's choice hit to third base (0-2 KF); Kim,Jonathan out at third base, 3b unassisted; Stressler,Brenden advanced to second base.",40,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,5,top,"Jefferis,Brayden hit by pitch (1-1 FB); Stressler,Brenden advanced to third base; Culbertson,Drew advanced to second base.",41,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,5,top,"Ladehoff,Cade grounded out, 2b to 1b (0-2 KS).",42,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,5,bot,"MICH position change: Haeger,Evan now playing cf from rf",43,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,5,bot,"MICH position change: Kim,Jonathan remains in the game at lf",44,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,5,bot,"MICH position change: Stressler,Brenden remains in the game at rf",45,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,5,bot,"Galloway,Jacob singled through the right side of the infield (0-0).",46,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,5,bot,"MICH pitching change: Finkbeiner,Tyler replaces Novara,Wyatt.",47,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,5,bot,"Krieg,Jacob singled to right center (1-0 B); Galloway,Jacob advanced from first base to third base.",48,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,5,bot,"Krieg,Jacob advanced to second base on a balk; Galloway,Jacob scored on a balk.",49,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,5,bot,"Proctor,Josh lined out to 2b (1-0 B).",50,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,5,bot,"Inge,Tyler sacrifice bunt, c to 1b (0-0); Krieg,Jacob advanced to third base.",51,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,5,bot,"Singer,AJ flied out to lf (0-1 K).",52,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,6,top,"Turner,Colby singled to shallow center field (1-0 B).",53,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,6,top,"Miller,Noah singled down the right field line (0-2 FSF); Turner,Colby advanced to second base.",54,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,6,top,"MICH substitution: Ossenfort,Matthew pinch hitting for Luna,Carson.",55,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,6,top,"OSU pitching change: Douglas,Tanner replaces Hutcheson,AJ.",56,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,6,top,"Ossenfort,Matthew struck out swinging (0-2 FFS).",57,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,6,top,"Haeger,Evan walked (3-2 KKBBBB); Turner,Colby advanced to third base; Miller,Noah advanced to second base.",58,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,6,top,"Kim,Jonathan struck out looking (1-2 BKFK).",59,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,6,top,"Stressler,Brenden struck out swinging (1-2 KBSFS).",60,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,6,bot,"MICH position change: Ossenfort,Matthew remains in the game at 1b",61,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,6,bot,"Talt,Easton singled through the right side of the infield (2-2 BBKF).",62,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,6,bot,"Hayes,Nyan walked (3-1 BBSBB); Talt,Easton advanced to second base.",63,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,6,bot,"MICH pitching change: Debiec,Max replaces Finkbeiner,Tyler.",64,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,6,bot,"Hubbard,Bryce grounded into double play, 2b to ss to 1b (2-1 KBB); Talt,Easton advanced to third base; Hayes,Nyan out at 2B on the play, 2b to ss, in a double play.",65,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,6,bot,"Glassco,Bryson struck out looking (1-2 KKBK).",66,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,7,top,"OSU pitching change: Kmatz,Zach replaces Douglas,Tanner.",67,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,7,top,"OSU defensive substitution: Vance,Cooper replaces Glassco,Bryson at 3b",68,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,7,top,"Culbertson,Drew struck out looking (3-2 BBKFBK).",69,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,7,top,"Jefferis,Brayden walked (3-1 BFBBB).",70,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,7,top,"Ladehoff,Cade flied out to lf (1-0 B).",71,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,7,top,"Jefferis,Brayden advanced to second base on a wild pitch.",72,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,7,top,"Turner,Colby singled through the left side of the infield, RBI (3-2 BBFFFB); Jefferis,Brayden scored from second base.",73,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,7,top,"OSU pitching change: Edwards,Zach replaces Kmatz,Zach.",74,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,7,top,"Miller,Noah singled through the right side of the infield (1-0 B); Turner,Colby advanced from first base to third base.",75,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,7,top,"Ossenfort,Matthew singled through the left side of the infield, RBI (1-0 B); Turner,Colby scored; Miller,Noah advanced to second base.",76,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,7,top,"OSU pitching change: Roblez,Albert replaces Edwards,Zach.",77,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,7,top,"MICH substitution: Leitgeb,Brock pinch running for Miller,Noah.",78,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,7,top,"Haeger,Evan struck out swinging (2-2 KBSBS).",79,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,7,bot,"MICH substitution: Kligman,Elie replaces Leitgeb,Brock at c, batting 4th.",80,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,7,bot,"MICH defensive substitution: Morrow,Dane replaces Kim,Jonathan at lf",81,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,7,bot,"Galloway,Jacob doubled down the right field line (1-1 KB).",82,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,7,bot,"MICH pitching change: DeVooght,Gavin replaces Debiec,Max.",83,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,7,bot,"Krieg,Jacob struck out swinging (0-2 KFS).",84,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,7,bot,"Proctor,Josh grounded out, ss to 1b (0-1 K); Galloway,Jacob advanced to third base.",85,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,7,bot,"Inge,Tyler singled to shallow right field, RBI (1-2 KBF); Galloway,Jacob scored.",86,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,7,bot,"Singer,AJ lined out to rf (1-1 BK).",87,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,8,top,"Morrow,Dane singled to right field (2-0 BB).",88,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,8,top,"Stressler,Brenden singled through the right side of the infield (1-0 B); Morrow,Dane advanced to second base.",89,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,8,top,"Culbertson,Drew sacrifice bunt, p to 1b (1-0 B); Morrow,Dane advanced to third base; Stressler,Brenden advanced to second base.",90,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,8,top,"Jefferis,Brayden grounded out, ss to 1b, RBI (0-1 K); Morrow,Dane scored; Stressler,Brenden advanced to third base.",91,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,8,top,"Ladehoff,Cade struck out swinging (3-2 FBKBBS).",92,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,8,bot,"Talt,Easton flied out to lf (1-2 KBK).",93,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,8,bot,"Hayes,Nyan hit by pitch (1-0 B).",94,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,8,bot,The previous play was reviewed the HBP was upheld.,95,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,8,bot,"Hubbard,Bryce grounded out, 3b to 1b (2-1 FBB); Hayes,Nyan advanced to second base.",96,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,8,bot,"Vance,Cooper hit by pitch (2-1 KBB).",97,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,8,bot,"Galloway,Jacob walked (3-0 BBBB); Hayes,Nyan advanced to third base; Vance,Cooper advanced to second base.",98,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,8,bot,"Krieg,Jacob reached on a fielder's choice hit to short (0-2 FK); Galloway,Jacob out at second base, ss to 2b.",99,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,9,top,"Turner,Colby grounded out up the middle, 2b to 1b (1-2 BSF).",100,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,9,top,"Kligman,Elie singled to center field (2-2 BBFK).",101,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,9,top,"Ossenfort,Matthew struck out swinging (1-2 KBSS).",102,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,9,top,"Haeger,Evan singled through the right side of the infield (0-2 KF); Kligman,Elie advanced from first base to third base.",103,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,9,top,"Morrow,Dane struck out (2-3 BBFFS).",104,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,9,bot,"MICH position change: Morrow,Dane now playing rf from lf",105,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,9,bot,"MICH position change: Stressler,Brenden now playing lf from rf",106,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,9,bot,"Proctor,Josh struck out swinging (1-2 FBFS).",107,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,9,bot,"Inge,Tyler lined out to p (1-0 B).",108,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,9,bot,"Singer,AJ singled through the right side of the infield (0-1 K).",109,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,9,bot,"Talt,Easton walked (3-0 BBBB); Singer,AJ advanced to second base.",110,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,9,bot,"Hayes,Nyan struck out swinging (0-2 KKS).",111,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,10,top,"OSU pitching change: Giordano,Jack replaces Roblez,Albert.",112,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,10,top,"Stressler,Brenden struck out swinging (1-2 KSBS).",113,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,10,top,"Culbertson,Drew struck out swinging (3-2 KFBBBFS).",114,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,10,top,"Jefferis,Brayden walked (3-1 BBBKB).",115,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,10,top,"Jefferis,Brayden advanced to second base on a wild pitch.",116,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614663,10,top,"Ladehoff,Cade grounded out, ss to 1b (1-1 KB).",117,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,10,bot,"MICH pitching change: Barr,Preston replaces DeVooght,Gavin.",118,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6504134,614663,Michigan Wolverines,614704,Oregon St. Beavers,614704,10,bot,"Hubbard,Bryce homered to deep right field, walk off (396 ft), 1st of season, RBI (1-0 B).",119,2026-02-16 12:00:00-05:00,"Surprise , AZ",3273,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,1,top,J. Endo grounded out to ss.,1,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,1,top,"B. Duff singled to pitcher, bunt.",2,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,1,top,"B. Duff out at first p to 1b to ss, picked off.",3,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,1,top,L. Salinas flied out to rf.,4,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,1,bot,G. Bernal reached first on an error by ss.,5,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,1,bot,"C. Garcia grounded out to p, SAC, bunt; G. Bernal advanced to second.",6,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,1,bot,G. Bernal advanced to third on a wild pitch.,7,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,1,bot,"C. Chavez flied out to cf, sacrifice fly, RBI; G. Bernal scored, unearned.",8,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,1,bot,D. Deramus grounded out to p.,9,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,2,top,I. Aguilar hit by pitch.,10,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,2,top,N. Reyes singled through the right side; I. Aguilar advanced to third.,11,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,2,top,"E. Hewitt fouled out to 1b, bunt.",12,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,2,top,"E. West singled to right field, RBI; N. Reyes advanced to second; I. Aguilar scored.",13,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,2,top,T. Vlasek grounded into double play ss to 2b to 1b; E. West out on the play.,14,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,2,bot,K. Costa struck out looking.,15,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,2,bot,B. Dyck grounded out to 2b.,16,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,2,bot,C. Potestio grounded out to ss.,17,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,3,top,"De. Martinez struck out swinging, out at first c to 1b.",18,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,3,top,J. Endo grounded out to ss.,19,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,3,top,B. Duff singled to second base.,20,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,3,top,"B. Duff out at second c to 2b, caught stealing.",21,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,3,bot,T. Hedrick singled through the left side.,22,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,3,bot,D. Jefcoats reached on a fielder's choice to third base; T. Hedrick out at second 3b to 2b.,23,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,3,bot,D. Jefcoats stole second.,24,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,3,bot,G. Bernal walked.,25,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,3,bot,G. Bernal advanced to second; D. Jefcoats advanced to third on a wild pitch.,26,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,3,bot,C. Garcia hit by pitch.,27,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,3,bot,"C. Chavez doubled to left field, 2 RBI; C. Garcia advanced to third; G. Bernal scored; D. Jefcoats scored.",28,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,3,bot,D. Deramus grounded out to ss.,29,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,3,bot,K. Costa grounded out to ss.,30,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,4,top,L. Salinas grounded out to 2b.,31,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,4,top,I. Aguilar doubled down the rf line.,32,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,4,top,N. Reyes walked.,33,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,4,top,E. Hewitt fouled out to rf; I. Aguilar advanced to third.,34,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,4,top,"I. Aguilar out at home p to ss to c, caught stealing.",35,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,4,bot,B. Dyck hit by pitch.,36,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,4,bot,"C. Potestio grounded out to c, SAC, bunt; B. Dyck advanced to third.",37,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,4,bot,"T. Hedrick singled up the middle, RBI; B. Dyck scored.",38,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,4,bot,D. Jefcoats singled to shortstop; T. Hedrick advanced to second.,39,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,4,bot,D. Jefcoats advanced to second; T. Hedrick advanced to third on an error by p.,40,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,4,bot,"D. Jefcoats advanced to third; T. Hedrick scored on a passed ball, unearned.",41,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,4,bot,R. Rendon to p for J. Placke.,42,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,4,bot,"G. Bernal flied out to cf, sacrifice fly, RBI; D. Jefcoats scored, unearned.",43,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,4,bot,C. Garcia walked.,44,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,4,bot,C. Chavez reached first on an error by cf; C. Garcia advanced to third.,45,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,4,bot,C. Chavez out at second c to ss.,46,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,5,top,E. West grounded out to 2b.,47,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,5,top,T. Vlasek struck out swinging.,48,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,5,top,De. Martinez walked.,49,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,5,top,De. Martinez stole second.,50,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,5,top,"J. Endo singled through the right side, advanced to second on the throw, RBI; De. Martinez scored.",51,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,5,top,"B. Duff singled through the right side, RBI; J. Endo scored.",52,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,5,top,L. Salinas grounded out to 3b.,53,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,5,bot,D. Deramus grounded out to ss.,54,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,5,bot,K. Costa flied out to rf.,55,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,5,bot,B. Dyck singled to right center.,56,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,5,bot,C. Potestio flied out to cf.,57,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,6,top,"I. Aguilar struck out swinging, out at first c to 1b.",58,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,6,top,N. Reyes singled to shortstop.,59,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,6,top,E. Hewitt singled through the left side; N. Reyes advanced to second.,60,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,6,top,E. West reached on a fielder's choice to second base; E. Hewitt out at second 2b unassisted; N. Reyes advanced to third.,61,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,6,top,N. Gamez pinch hit for T. Vlasek.,62,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,6,top,N. Gamez grounded out to ss.,63,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,6,bot,I. Aguilar to 3b.,64,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,6,bot,S. Galvan to ss for N. Gamez.,65,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,6,bot,Z. Wright to p for R. Rendon.,66,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,6,bot,T. Hedrick singled to center field.,67,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,6,bot,"D. Jefcoats reached on a fielder's choice, bunt; T. Hedrick out at second c to ss.",68,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,6,bot,G. Bernal flied out to rf.,69,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,6,bot,C. Garcia struck out swinging.,70,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,7,top,A. Becker to p for S. Hernandez.,71,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,7,top,J. Prado pinch hit for De. Martinez.,72,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,7,top,J. Prado singled to shortstop.,73,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,7,top,J. Endo singled down the lf line; J. Prado advanced to second.,74,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,7,top,"B. Duff reached on a fielder's choice to second base, advanced to second; J. Endo advanced to second on an error by 2b, advanced to third; J. Prado scored.",75,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,7,top,"L. Salinas doubled to right center, out at third rf to ss to 3b, 2 RBI; B. Duff scored, unearned; J. Endo scored, unearned.",76,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,7,top,I. Aguilar grounded out to ss.,77,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,7,top,N. Reyes singled to left field.,78,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,7,top,E. Hewitt walked; N. Reyes advanced to second.,79,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,7,top,A. Thrasher to p for A. Becker.,80,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,7,top,E. West flied out to cf.,81,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,7,bot,F. Davis to c for J. Prado.,82,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,7,bot,C. Chavez singled through the left side.,83,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,7,bot,"D. Deramus homered to right field, 2 RBI; C. Chavez scored.",84,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,7,bot,K. Costa grounded out to 3b.,85,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,7,bot,B. Dyck struck out swinging.,86,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,7,bot,C. Potestio grounded out to 2b.,87,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,8,top,C. Minus pinch hit for S. Galvan.,88,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,8,top,C. Minus walked.,89,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,8,top,C. Garza pinch ran for C. Minus.,90,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,8,top,F. Davis struck out looking.,91,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,8,top,J. Endo struck out looking.,92,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,8,top,C. Garza advanced to second on a wild pitch.,93,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,8,top,B. Duff walked.,94,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,8,top,L. Salinas reached on a fielder's choice to shortstop; B. Duff out at second ss to 2b.,95,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,8,bot,I. Aguilar to ss.,96,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,8,bot,C. Benavides to 3b for C. Garza.,97,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,8,bot,T. Hedrick grounded out to ss.,98,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,8,bot,D. Jefcoats flied out to lf.,99,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,8,bot,G. Bernal grounded out to 2b.,100,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,I. Aguilar singled up the middle.,101,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,N. Reyes hit by pitch; I. Aguilar advanced to second.,102,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,E. Hewitt walked; N. Reyes advanced to second; I. Aguilar advanced to third.,103,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,"E. West singled to right center, 2 RBI; E. Hewitt advanced to third; N. Reyes scored; I. Aguilar scored.",104,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,E. Martinez pinch hit for C. Benavides.,105,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,E. Martinez hit by pitch; E. West advanced to second.,106,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,D. Carreon pinch ran for E. Martinez.,107,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,Z. Dobson to p for A. Thrasher.,108,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,Ja. Cavazos pinch hit for F. Davis.,109,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,D. Carreon advanced to second; E. West advanced to third; E. Hewitt scored on a wild pitch.,110,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,Ja. Cavazos walked.,111,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,"J. Endo singled to center field, RBI; Ja. Cavazos advanced to second; D. Carreon advanced to third; E. West scored.",112,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,B. Duff struck out swinging.,113,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,"L. Salinas singled to right center, 2 RBI; J. Endo advanced to second; Ja. Cavazos scored; D. Carreon scored.",114,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,I. Aguilar walked; L. Salinas advanced to second; J. Endo advanced to third.,115,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,K. Adams to p for Z. Dobson.,116,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,"N. Reyes singled through the right side, 2 RBI; I. Aguilar out at second rf to 3b; L. Salinas scored; J. Endo scored.",117,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,N. Reyes stole second.,118,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,"E. Hewitt singled to right field, RBI; N. Reyes advanced to third, scored on the throw.",119,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,E. Hewitt stole second.,120,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,"E. Hewitt advanced to third on a wild pitch, scored on an error by c, unearned.",121,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,615088,9,top,E. West struck out looking.,122,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,9,bot,J. Benavides to c for D. Carreon.,123,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,9,bot,D. Carreon pinch hit for Ja. Cavazos.,124,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,9,bot,D. Carreon to 3b.,125,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,9,bot,C. Garcia singled to third base.,126,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,9,bot,C. Chavez flied out to lf.,127,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,9,bot,D. Deramus struck out swinging.,128,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,9,bot,K. Costa singled up the middle; C. Garcia advanced to second.,129,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,9,bot,B. Dyck walked; K. Costa advanced to second; C. Garcia advanced to third.,130,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6508175,615088,Tex. A&M-Kingsville Javelinas,614960,UT Permian Basin Falcons,614960,9,bot,C. Potestio grounded out to p.,131,2026-02-16 12:00:00-05:00,"Roden Field (Odessa, TX)",60,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,1,top,B. Chaney grounded out to 3b.,1,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,1,top,P. Schuyler flied out to cf.,2,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,1,top,M. Heard flied out to rf.,3,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,1,bot,D. Baugus reached first on an error by 2b.,4,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,1,bot,B. Smith hit by pitch3a D. Baugus advanced to second.,5,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,1,bot,"W. Beckham grounded out to 3b, SAC, bunt3a B. Smith advanced to second3a D. Baugus advanced to third.",6,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,1,bot,"G. Meyer doubled to right field, 2 RBI3a B. Smith scored3a D. Baugus scored, unearned.",7,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,1,bot,W. Muench walked.,8,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,1,bot,J. Evans hit by pitch3a W. Muench advanced to second3a G. Meyer advanced to third.,9,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,1,bot,N. Hooper struck out swinging.,10,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,1,bot,T. Bizzle fouled out to 1b.,11,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,2,top,G. Monosmith singled up the middle.,12,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,2,top,B. Kneifl walked3a G. Monosmith advanced to second.,13,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,2,top,N. Cunningha struck out swinging.,14,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,2,top,B. Cannon hit by pitch3a B. Kneifl advanced to second3a G. Monosmith advanced to third.,15,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,2,top,C. Prychak grounded into double play 2b to ss to 1b3a B. Cannon out on the play.,16,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,2,bot,A. DiGiacint grounded out to ss.,17,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,2,bot,D. Baugus walked.,18,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,2,bot,B. Smith hit by pitch3a D. Baugus advanced to second.,19,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,2,bot,"W. Beckham singled through the left side, RBI3a B. Smith advanced to second3a D. Baugus scored.",20,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,2,bot,G. Meyer struck out swinging.,21,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,2,bot,W. Muench hit by pitch3a W. Beckham advanced to second3a B. Smith advanced to third.,22,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,2,bot,J. Evans flied out to lf.,23,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,3,top,E. Mains flied out to lf.,24,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,3,top,B. Chaney grounded out to p.,25,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,3,top,P. Schuyler hit by pitch.,26,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,3,top,M. Heard flied out to lf.,27,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,3,bot,K. Hanson to p for B. Sweet.,28,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,3,bot,N. Hooper struck out swinging.,29,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,3,bot,T. Bizzle hit by pitch.,30,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,3,bot,A. DiGiacint singled3a T. Bizzle advanced to third.,31,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,3,bot,D. Baugus grounded into double play ss to 1b3a A. DiGiacint out on the play.,32,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,4,top,G. Monosmith doubled down the lf line.,33,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,4,top,B. Kneifl popped up to ss.,34,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,4,top,N. Cunningha struck out swinging.,35,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,4,top,B. Cannon grounded out to p.,36,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,4,bot,B. Smith singled to left field.,37,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,4,bot,B. Smith advanced to second on a wild pitch.,38,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,4,bot,W. Beckham struck out swinging.,39,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,4,bot,G. Meyer flied out to cf.,40,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,4,bot,W. Muench struck out swinging.,41,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,5,top,C. Prychak grounded out to 1b unassisted.,42,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,5,top,E. Mains out at first 1b to p.,43,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,5,top,B. Chaney flied out to cf.,44,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,5,bot,J. Evans walked.,45,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,5,bot,"N. Hooper grounded out to p, SAC, bunt3a J. Evans advanced to second.",46,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,5,bot,C. Horsey pinch hit for T. Bizzle.,47,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,5,bot,C. Horsey walked.,48,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,5,bot,A. DiGiacint hit by pitch3a C. Horsey advanced to second3a J. Evans advanced to third.,49,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,5,bot,"D. Baugus singled through the left side, 2 RBI3a A. DiGiacint advanced to second3a C. Horsey scored3a J. Evans scored.",50,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,5,bot,"B. Smith singled up the middle, RBI3a D. Baugus advanced to second3a A. DiGiacint scored.",51,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,5,bot,D. Lieser to p for K. Hanson.,52,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,5,bot,B. Smith stole second3a D. Baugus stole third.,53,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,5,bot,W. Beckham struck out swinging.,54,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,5,bot,G. Meyer grounded out to ss.,55,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,6,top,K. Scott to c for C. Horsey.,56,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,6,top,P. Schuyler fouled out to ss.,57,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,6,top,M. Heard singled to pitcher.,58,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,6,top,G. Monosmith singled through the left side3a M. Heard advanced to second.,59,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,6,top,B. Kneifl walked3a G. Monosmith advanced to second3a M. Heard advanced to third.,60,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,6,top,"N. Cunningha flied out to cf, sacrifice fly, RBI3a M. Heard scored.",61,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,6,top,"B. Cannon singled to center field, RBI3a B. Kneifl advanced to second3a G. Monosmith scored.",62,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,6,top,D. Wipf to p for A. Hedgecort.,63,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,6,top,C. Prychak walked3a B. Cannon advanced to second3a B. Kneifl advanced to third.,64,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,6,top,E. Mains struck out looking.,65,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,6,bot,W. Muench flied out to lf.,66,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,6,bot,J. Evans struck out swinging.,67,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,6,bot,N. Hooper hit by pitch.,68,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,615060,6,bot,K. Scott fouled out to 3b.,69,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,7,top,B. Chaney struck out swinging.,70,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,7,top,P. Schuyler singled to right field.,71,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,7,top,M. Heard hit by pitch3a P. Schuyler advanced to second.,72,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,7,top,G. Monosmith walked3a M. Heard advanced to second3a P. Schuyler advanced to third.,73,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,7,top,B. Kneifl struck out looking.,74,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,7,top,"N. Cunningha singled, 2 RBI3a G. Monosmith advanced to third3a M. Heard scored3a P. Schuyler scored.",75,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,7,top,B. Cannon hit by pitch3a N. Cunningha advanced to second.,76,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6512418,614904,Wayne St. (NE) Wildcats,615060,Missouri S&T Miners,614904,7,top,C. Prychak out at first 1b to p.,77,2026-02-16 12:00:00-05:00,"Ballpark at S&T (Rolla, MO)",78,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,1,top,"Cox,Tyler grounded out to the pitcher, p to 1b (2-2 KSBB).",1,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,1,top,"Broussard,Tre popped up to the left side of the infield putout by 3b (2-2 BKBS).",2,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,1,top,"Perez,Xavier struck out swinging (0-2 FKS).",3,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,1,bot,"Wilson,Blake struck out looking (2-2 BKKFBK).",4,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,1,bot,"Cowan,Ty grounded out to first base, unassisted (1-2 BSK).",5,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,1,bot,"Bower,Colton grounded out to the left side of the infield, 3b to 1b (0-2 KS).",6,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,2,top,"Savattere,Antonelli struck out swinging (1-2 KBFS).",7,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,2,top,"Fields,Blake popped up to second base (1-0 B).",8,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,2,top,"Maxcey,Dylan hit by pitch (4-2 BBSFFBB).",9,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,2,top,"Helton,McClane walked (3-0 BBBB)3a Maxcey,Dylan advanced to second base.",10,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,2,top,"Jackson,Riley reached on a throwing error throwing by 3b by Wilson,Blake (E5) (1-2 BSK)3a Maxcey,Dylan scored from second base, unearned3a Helton,McClane scored from first base, unearned3a Jackson,Riley advanced to second base.",11,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,2,top,"LaLima,Jackson grounded out to the left side of the infield, 3b to 1b (1-1 KB).",12,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,2,bot,"Porras,Daniel singled through the right side of the infield (0-0).",13,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,2,bot,"Porras,Daniel out caught stealing at second base, c to 2b.",14,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,2,bot,"Swidler,Ethan struck out looking (2-2 BBKSFK).",15,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,2,bot,"Taggart,Casen flied out down the left field line putout by lf (1-1 BK).",16,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,3,top,"Cox,Tyler grounded out to third base, 3b to 1b (2-1 BFB).",17,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,3,top,"Broussard,Tre struck out swinging (1-2 FBFS).",18,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,3,top,"Perez,Xavier grounded out to short, 2b to 1b (0-0).",19,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,3,bot,"DeCarlo,Sam struck out looking (2-2 FBKBK).",20,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,3,bot,"Terry,Braeden grounded out, 2b to 1b (1-0 B).",21,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,3,bot,"Paul,Mic homered to deep left field (407 ft), 1st of season, RBI (3-0 BBB).",22,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,3,bot,"Wilson,Blake infield singled through the left side of the infield (0-2 FS).",23,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,3,bot,"Cowan,Ty struck out swinging (3-2 BBFBKFFS).",24,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,4,top,"Savattere,Antonelli grounded out, 2b to 1b (2-2 BFFB).",25,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,4,top,"Fields,Blake walked (3-2 BFKBBFB).",26,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,4,top,"Maxcey,Dylan infield singled to second base (0-0)3a Fields,Blake out at second base, 2b unassisted.",27,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,4,top,"Helton,McClane walked (3-2 FBBKBB)3a Maxcey,Dylan advanced to second base.",28,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,4,top,"Jackson,Riley reached on a fielding error fielding by rf by Porras,Daniel (E9) (0-0)3a Maxcey,Dylan scored from second base, unearned3a Helton,McClane out at home, 2b to c, runner out trying to reach.",29,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,4,bot,"Bower,Colton walked (3-2 BSKBBB).",30,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,4,bot,"Porras,Daniel sacrifice bunt to the pitcher, p to 1b (0-0)3a Bower,Colton advanced to second base.",31,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,4,bot,"Swidler,Ethan homered to deep left field (382 ft), 1st of season, 2RBI (2-0 BB)3a Bower,Colton scored from second base.",32,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,4,bot,"Taggart,Casen flied out to shallow left field putout by lf (0-1 F).",33,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,4,bot,"DeCarlo,Sam struck out swinging (1-2 BSKS).",34,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,5,top,"LaLima,Jackson doubled to shallow left field (0-1 F).",35,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,5,top,"Cox,Tyler sacrifice bunt, error by p by Johnson,Bryce (E1) hit to the pitcher's mound (0-0)3a LaLima,Jackson advanced to third base.",36,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,5,top,"Broussard,Tre sacrifice fly to cf, RBI (0-2 FK)3a LaLima,Jackson scored.",37,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,5,top,"Perez,Xavier homered to deep center field (395 ft), 1st of season, 2RBI (0-0)3a Cox,Tyler scored from first base.",38,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,5,top,"Savattere,Antonelli flied out to cf (2-1 BFB).",39,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,5,top,"Fields,Blake singled to shallow center field (0-0).",40,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,5,top,"Maxcey,Dylan popped up to second base (1-1 BK).",41,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,5,bot,"HOU pitching change: Edmonds,Cameron replaces Udland,Connor.",42,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,5,bot,"Terry,Braeden singled to right field (1-0 B).",43,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,5,bot,"Paul,Mic walked (3-1 BBBFB)3a Terry,Braeden advanced to second base.",44,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,5,bot,"HOU pitching change: Boushele,Harrison replaces Edmonds,Cameron.",45,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,5,bot,"Wilson,Blake struck out swinging (0-2 SSS).",46,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,5,bot,"Cowan,Ty singled through the right side of the infield (1-1 BK)3a Terry,Braeden advanced to third base3a Paul,Mic advanced to second base.",47,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,5,bot,"Bower,Colton doubled to deep center field, 2RBI (1-1 KB)3a Terry,Braeden scored3a Paul,Mic scored from second base3a Cowan,Ty advanced from first base to third base.",48,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,5,bot,"Porras,Daniel sacrifice fly to left center putout by lf, RBI (0-0)3a Cowan,Ty scored.",49,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,5,bot,"Bower,Colton stole third base.",50,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,5,bot,"Swidler,Ethan doubled down the left field line, RBI (1-2 KFB)3a Bower,Colton scored.",51,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,5,bot,"HOU pitching change: McCraray,Max replaces Boushele,Harrison.",52,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,5,bot,"Taggart,Casen flied out down the left field line putout by 3b (1-2 SSB).",53,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,6,top,"WASH pitching change: Walker,Tyler replaces Johnson,Bryce.",54,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,6,top,"Helton,McClane hit by pitch (4-2 KKBBBB).",55,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,6,top,"HOU substitution: Climie,Cade pinch hitting for Jackson,Riley.",56,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,6,top,"WASH pitching change: Boesel,Carson replaces Walker,Tyler.",57,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,6,top,"Climie,Cade doubled to right field (1-1 BK)3a Helton,McClane advanced from first base to third base.",58,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,6,top,"LaLima,Jackson doubled to left center, RBI (0-0)3a Helton,McClane scored3a Climie,Cade out at home, cf to ss to c, runner out trying to reach3a LaLima,Jackson advanced to third base.",59,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,6,top,"Cox,Tyler popped up to first base, bunt (0-1 K)3a LaLima,Jackson out at 3B on the play, 3b, in a double play.",60,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,6,bot,"HOU position change: Climie,Cade remains in the game at 1b",61,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,6,bot,"HOU pitching change: Cooper,Caden replaces McCraray,Max.",62,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,6,bot,"DeCarlo,Sam struck out swinging (2-2 BBKFS).",63,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,6,bot,"Terry,Braeden grounded out to the right side of the infield, 2b to 1b (1-1 SB).",64,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,6,bot,"Paul,Mic singled to third base, bunt (0-0).",65,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,6,bot,"Wilson,Blake singled to the pitcher's mound, bunt (0-0)3a Paul,Mic advanced to second base.",66,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,6,bot,"Cowan,Ty grounded out to second base, ss to 1b (3-2 BFBBK).",67,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,7,top,"Broussard,Tre singled up the middle (0-0).",68,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,7,top,"Broussard,Tre advanced to second base on a wild pitch.",69,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,7,top,"Perez,Xavier walked (3-2 BBKBSFB).",70,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,7,top,"Savattere,Antonelli sacrifice bunt to the pitcher, p to 1b (1-1 BK)3a Broussard,Tre advanced to third base3a Perez,Xavier advanced to second base.",71,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,7,top,"Fields,Blake grounded out to the infield, p to 1b (1-1 BK).",72,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,7,top,"Maxcey,Dylan flied out to left center putout by lf (1-1 BK).",73,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,7,bot,"Bower,Colton hit by pitch (2-1 BSB).",74,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,7,bot,"Porras,Daniel singled to center field (3-1 BBBF)3a Bower,Colton advanced to second base.",75,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,7,bot,"Swidler,Ethan struck out swinging (2-2 KSBFBS).",76,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,7,bot,"HOU pitching change: Scinta,Chris replaces Cooper,Caden.",77,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,7,bot,"Taggart,Casen walked (3-0 BBBB)3a Bower,Colton advanced to third base3a Porras,Daniel advanced to second base.",78,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,7,bot,"DeCarlo,Sam struck out swinging (0-2 SFFS).",79,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,7,bot,"Terry,Braeden flied out to cf (2-2 BFBF).",80,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,8,top,"Helton,McClane doubled through the left side of the infield (1-2 BKK).",81,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,8,top,"Climie,Cade reached on a fielder's choice hit to third base (0-1 K)3a Helton,McClane out at second base, 3b to 2b.",82,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,8,top,"LaLima,Jackson grounded out to third base, 3b to 1b (0-1 K)3a Climie,Cade advanced to second base.",83,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,8,top,"Cox,Tyler grounded out to short, ss to 1b (1-2 BKK).",84,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,8,bot,"Paul,Mic flied out to right center putout by rf (1-0 B).",85,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,8,bot,"Wilson,Blake struck out swinging (0-2 KSS).",86,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,8,bot,"Cowan,Ty lined out to cf (1-2 BKKF).",87,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,9,top,"WASH pitching change: Wade,Jack replaces Boesel,Carson.",88,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,9,top,"Broussard,Tre flied out down the left field line putout by lf (0-0).",89,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,9,top,"Perez,Xavier walked (3-2 BKBBFB).",90,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,9,top,"HOU substitution: Sintek,Carter pinch hitting for Savattere,Antonelli.",91,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,9,top,"Sintek,Carter walked (3-0 BBBB)3a Perez,Xavier advanced to second base.",92,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,9,top,"WASH pitching change: Brandenburg,Tommy replaces Wade,Jack.",93,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,9,top,"Fields,Blake reached on a fielder's choice hit in the infield (1-2 KBF)3a Perez,Xavier advanced to third base3a Sintek,Carter out at second base, 3b to 2b.",94,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,9,top,"Fields,Blake advanced to second base on defensive indifference.",95,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,9,top,"Maxcey,Dylan walked (3-0 BBBB).",96,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,9,top,"Helton,McClane walked, RBI (3-0 BBBB)3a Perez,Xavier scored3a Fields,Blake advanced to third base3a Maxcey,Dylan advanced to second base.",97,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614622,9,top,"Climie,Cade flied out to shallow right field putout by rf (1-1 KB).",98,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,9,bot,"HOU substitution: Weems,Irvin replaces Sintek,Carter at lf, batting 4th.",99,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,9,bot,"HOU position change: Helton,McClane now playing 1b from lf",100,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,9,bot,"HOU position change: Climie,Cade now playing 2b from 1b",101,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,9,bot,"HOU pitching change: Bryan,Tyler replaces Scinta,Chris.",102,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,9,bot,"Bower,Colton flied out to rf (0-0).",103,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,9,bot,"HOU defensive substitution: Sintek,Carter replaces Climie,Cade at 2b",104,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,9,bot,"Porras,Daniel walked (3-1 BFBBB).",105,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,9,bot,"WASH substitution: Young,Landon pinch running for Porras,Daniel.",106,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6526885,614622,Houston Cougars,614811,Washington Huskies,614811,9,bot,"Swidler,Ethan struck out looking (2-2 BBKFFK)3a Young,Landon is out caught stealing, in a double play.",107,2026-02-16 12:00:00-05:00,"Ponce, PR",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,1,top,B. Osterma walked.,1,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,1,top,B. Osterma out at second c to 2b.,2,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,1,top,L. Marrujo doubled down the rf line.,3,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,1,top,"T. Ross singled to right field, RBI3a L. Marrujo scored.",4,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,1,top,T. Ross advanced to second on a wild pitch.,5,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,1,top,"J. D'Arezzo singled to left field3a T. Ross advanced to third, out at home lf to 3b to c.",6,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,1,top,J. D'Arezzo stole second.,7,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,1,top,N. Hilger reached on a fielder's choice3a J. D'Arezzo out at third ss to 3b.,8,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,1,bot,S. Garcia reached first on a fielding error by 3b.,9,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,1,bot,"A. Montiel grounded out to p, SAC, bunt3a S. Garcia advanced to second.",10,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,1,bot,D. Shin flied out to rf3a S. Garcia advanced to third.,11,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,1,bot,M. Gonzales grounded out to ss.,12,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,2,top,T. Webb-Tate grounded out p to 2b to 1b.,13,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,2,top,R. Rodriguez walked.,14,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,2,top,R. Rodriguez advanced to second on a wild pitch.,15,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,2,top,A. Galvan grounded out to 2b3a R. Rodriguez advanced to third.,16,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,2,top,R. Swanson grounded out to 2b.,17,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,2,bot,A. Morrison hit by pitch.,18,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,2,bot,V. Chavez flied out to rf.,19,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,2,bot,J. Rosales grounded into double play ss to 1b3a A. Morrison out on the play.,20,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,3,top,"B. Osterma struck out swinging, reached first on an error by c.",21,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,3,top,B. Osterma advanced to second on a passed ball.,22,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,3,top,L. Marrujo grounded out to 2b3a B. Osterma advanced to third.,23,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,3,top,T. Ross walked.,24,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,3,top,J. D'Arezzo grounded into double play ss to 1b3a T. Ross out on the play.,25,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,3,bot,C. Jaquez flied out to lf.,26,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,3,bot,T. Sedillo walked.,27,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,3,bot,S. Garcia flied out to rf3a T. Sedillo out at second rf to 1b.,28,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,4,top,"N. Hilger singled to shortstop, advanced to second on a throwing error by ss.",29,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,4,top,"T. Webb-Tate doubled to left center, RBI3a N. Hilger scored.",30,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,4,top,R. Rodriguez out at first p to 2b3a T. Webb-Tate advanced to third.,31,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,4,top,A. Galvan walked.,32,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,4,top,R. Swanson reached first on a fielding error by 2b3a A. Galvan advanced to second.,33,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,4,top,"B. Osterma walked, RBI3a R. Swanson advanced to second3a A. Galvan advanced to third3a T. Webb-Tate scored.",34,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,4,top,L. Marrujo struck out swinging.,35,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,4,top,T. Ross flied out to rf.,36,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,4,bot,A. Montiel lined out to ss.,37,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,4,bot,D. Shin flied out to rf.,38,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,4,bot,M. Gonzales reached first on a fielding error by p.,39,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,4,bot,A. Morrison grounded out to 2b.,40,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,5,top,K. Carpio to p for I. Horstman.,41,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,5,top,J. D'Arezzo grounded out to 3b.,42,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,5,top,"N. Hilger singled through the left side, out at second lf to 2b.",43,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,5,top,T. Webb-Tate grounded out to 2b.,44,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,5,bot,V. Chavez flied out to rf.,45,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,5,bot,J. Rosales flied out to cf to right center.,46,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,5,bot,C. Jaquez hit by pitch.,47,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,5,bot,T. Sedillo flied out to cf.,48,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,6,top,R. Rodriguez struck out swinging.,49,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,6,top,A. Galvan singled to pitcher.,50,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,6,top,"A. Galvan advanced to second on a throwing error by p, advanced to third.",51,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,6,top,R. Swanson struck out looking.,52,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,6,top,B. Osterma struck out looking.,53,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,6,bot,S. Garcia struck out swinging.,54,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,6,bot,A. Montiel walked.,55,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,6,bot,D. Shin struck out swinging.,56,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,6,bot,M. Gonzales reached on a fielder's choice3a A. Montiel out at second ss unassisted.,57,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,7,top,L. Marrujo singled through the left side.,58,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,7,top,T. Ross singled to left center3a L. Marrujo advanced to third.,59,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,7,top,J. D'Arezzo struck out swinging.,60,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,7,top,N. Hilger struck out swinging.,61,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,7,top,T. Webb-Tate struck out looking.,62,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,7,bot,J. D'Arezzo to p for A. Joyce.,63,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,7,bot,A. Morrison singled to pitcher.,64,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,7,bot,V. Chavez singled through the left side3a A. Morrison advanced to second.,65,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,7,bot,R. Rodriguez to 3b.,66,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,7,bot,R. Rodriguez to p.,67,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,7,bot,A. Morrison out at third c to ss.,68,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,7,bot,J. Rosales struck out swinging.,69,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,7,bot,J. D'Arezzo to 3b.,70,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,7,bot,R. Rodriguez to p.,71,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,7,bot,C. Jaquez flied out to lf.,72,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,8,top,R. Rodriguez to 3b for J. D'Arezzo.,73,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,8,top,J. D'Arezzo to c.,74,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,8,top,J. D'Arezzo to 3b.,75,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,8,top,R. Rodriguez singled to right center.,76,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,8,top,A. Galvan grounded out to p3a R. Rodriguez advanced to second.,77,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,8,top,R. Swanson struck out swinging.,78,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,8,top,B. Osterma singled to shortstop.,79,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,8,top,L. Marrujo struck out swinging.,80,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,8,bot,R. Rodriguez to 3b for J. D'Arezzo.,81,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,8,bot,J. D'Arezzo to c for R. Rodriguez.,82,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,8,bot,R. Rodriguez to rf.,83,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,8,bot,R. Rodriguez to 3b for J. D'Arezzo.,84,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,8,bot,T. Webb-Tate to c for R. Rodriguez.,85,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,8,bot,J. D'Arezzo to rf for A. Baltazar.,86,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,8,bot,A. Baltazar to p for J. D'Arezzo.,87,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,8,bot,T. Sedillo struck out swinging.,88,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,8,bot,J. D'Arezzo to rf.,89,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,8,bot,S. Garcia singled to left field.,90,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,8,bot,J. Anderson pinch hit for A. Montiel.,91,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,8,bot,J. Anderson singled to center field3a S. Garcia advanced to second.,92,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,8,bot,D. Shin lined out to lf.,93,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,8,bot,M. Gonzales grounded out to ss.,94,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,9,top,A. Montiel to 3b for J. Anderson.,95,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,9,top,M. Sanchez to p for K. Carpio.,96,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,9,top,T. Ross walked.,97,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,9,top,A. Castenada pinch hit for J. D'Arezzo.,98,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,9,top,"A. Castenada grounded out to c, SAC, bunt3a T. Ross advanced to second.",99,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,9,top,N. Hilger hit by pitch.,100,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,9,top,"T. Webb-Tate homered to left field, 3 RBI3a N. Hilger scored3a T. Ross scored.",101,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,9,top,J. D'Arezzo to rf for R. Rodriguez.,102,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,9,top,J. D'Arezzo to rf for R. Rodriguez.,103,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,9,top,J. D'Arezzo walked.,104,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,9,top,R. Pittman to p for M. Sanchez.,105,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,9,top,J. D'Arezzo advanced to second on a wild pitch.,106,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,9,top,A. Galvan flied out to lf.,107,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),614919,9,top,R. Swanson grounded out to 3b.,108,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,9,bot,A. Castenada to 2b.,109,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,9,bot,R. Swanson to 3b.,110,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,9,bot,A. Morrison walked.,111,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,9,bot,D. McRee to p for A. Baltazar.,112,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,9,bot,V. Chavez singled through the left side3a A. Morrison advanced to second.,113,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,9,bot,C. Pighetti pinch hit for J. Rosales.,114,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,9,bot,V. Chavez advanced to second on a wild pitch3a A. Morrison advanced to third on a wild pitch.,115,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,9,bot,C. Pighetti struck out looking.,116,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,9,bot,C. Jaquez fouled out to 1b.,117,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,9,bot,X. Alvarado pinch hit for T. Sedillo.,118,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,9,bot,J. Welsher to p for D. McRee.,119,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6534437,614919,N.M. Highlands Cowboys,-1,Southwest (NM),-1,9,bot,X. Alvarado struck out swinging.,120,2026-02-16 12:00:00-05:00,", ",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,1,top,"Parc,Charlie grounded out, p to 1b, bunt (0-1 F).",1,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,1,top,"Smith,Cole singled through the left side of the infield (0-1 K).",2,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,1,top,"Dahlber,Ivan singled to right field (1-1 BF)3a Smith,Cole advanced from first base to third base.",3,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,1,top,"Baldwi,Gavin walked (3-2 BBFFBFFB)3a Dahlber,Ivan advanced to second base.",4,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,1,top,"Couchma,Will doubled through the right side of the infield, 2RBI (0-0)3a Smith,Cole scored3a Dahlber,Ivan scored from second base3a Baldwi,Gavin advanced from first base to third base.",5,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,1,top,"Robert,Caden struck out swinging (0-2 SKS).",6,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,1,top,"Wiega,Austin flied out to cf (1-1 BF).",7,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,1,bot,"Bradshaw,Marcus hit by pitch (2-2 BFBSB).",8,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,1,bot,"Taylor,JT flew into double play to shallow center field putout by cf (2-2 KFBB)3a Bradshaw,Marcus out at 1B on the play, cf to 1b, in a double play.",9,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,1,bot,"Smith,Tyler struck out swinging (2-2 BKBSS).",10,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,2,top,"Spotof,Vinny grounded out, 2b to 1b (0-1 K).",11,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,2,top,"Sandee,Nolan ground-rule doubled down the right field line (1-0 B).",12,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,2,top,"Parc,Charlie fouled out to 3b (0-1 K).",13,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,2,top,"Smith,Cole grounded out, 3b to 1b (0-1 K).",14,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,2,bot,"Wyche,Bruce struck out looking (2-2 BBSFK).",15,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,2,bot,"Tinsley,Andrew popped up to ss (1-2 FSBF).",16,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,2,bot,"Harper,Boaz singled to right center (0-0).",17,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,2,bot,"Gomez,Luis singled to center field (1-1 BK)3a Harper,Boaz advanced from first base to third base.",18,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,2,bot,"Campo,Jason grounded out, p to 1b (0-1 K).",19,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,3,top,"NCAT pitching change: Hauser,Joshua replaces Ortiz,Angel.",20,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,3,top,"Dahlber,Ivan singled to shallow right field (1-1 BK).",21,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,3,top,"Baldwi,Gavin reached on a fielding error fielding by ss by Taylor,JT (E6) (0-0)3a Dahlber,Ivan advanced to second base.",22,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,3,top,"Couchma,Will walked (3-2 BBBKSB)3a Dahlber,Ivan advanced to third base3a Baldwi,Gavin advanced to second base.",23,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,3,top,"Robert,Caden sacrifice fly to cf, RBI (1-1 BF)3a Dahlber,Ivan scored.",24,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,3,top,"Wiega,Austin struck out looking (1-2 BFKK).",25,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,3,top,"Spotof,Vinny flied out to lf (0-0).",26,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,3,bot,"Tuggle,Reginald grounded out, ss to 1b (1-1 KB).",27,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,3,bot,"Bradshaw,Marcus struck out swinging (3-2 BBFBKS).",28,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,3,bot,"Taylor,JT singled to shallow left field (0-2 KS).",29,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,3,bot,"Taylor,JT advanced to second base on a wild pitch.",30,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,3,bot,"Smith,Tyler homered to deep center field, 2RBI (3-2 BFBFB)3a Taylor,JT scored from second base.",31,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,3,bot,"Wyche,Bruce grounded out, ss to 1b (0-1 K).",32,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,4,top,"Sandee,Nolan flied out to lf (0-1 K).",33,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,4,top,"Parc,Charlie walked (3-2 KFBBFFBB).",34,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,4,top,"Smith,Cole flied out to rf (2-0 BB).",35,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,4,top,"Parc,Charlie stole second base, on a failed pickoff attempt.",36,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,4,top,"Parc,Charlie advanced to third base on a passed ball.",37,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,4,top,"Dahlber,Ivan walked (3-2 BKBFBB).",38,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,4,top,"Baldwi,Gavin flied out to rf (0-0).",39,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,4,bot,"Tinsley,Andrew struck out swinging (3-2 BKFBBS).",40,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,4,bot,"Harper,Boaz reached on a fielding error fielding by ss by Sandee,Nolan (E6) (1-2 KFB).",41,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,4,bot,"Gomez,Luis struck out swinging (2-2 BBSSS).",42,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,4,bot,"Campo,Jason flied out to rf (0-0).",43,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,5,top,"NCAT pitching change: VanMeter,James replaces Hauser,Joshua.",44,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,5,top,"Couchma,Will struck out swinging (3-2 BKFBBFS).",45,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,5,top,"Robert,Caden struck out swinging (0-2 KSS).",46,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,5,top,"Wiega,Austin grounded out to 1b, unassisted (3-2 BBBKF).",47,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,5,bot,"NIU defensive substitution: Romer,Marcus replaces Robert,Caden at rf",48,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,5,bot,"Tuggle,Reginald lined out to 1b (2-1 BBF).",49,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,5,bot,"Bradshaw,Marcus walked (3-1 FBBBB).",50,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,5,bot,"Taylor,JT singled (1-1 BS)3a Bradshaw,Marcus advanced to second base.",51,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,5,bot,"Smith,Tyler doubled to left field, RBI (1-2 FBK)3a Bradshaw,Marcus scored from second base3a Taylor,JT advanced from first base to third base.",52,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,5,bot,"NIU pitching change: Gaskey,Blake replaces Vaisvila,Max.",53,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,5,bot,"Wyche,Bruce flew into double play to rf (3-2 BSBBS)3a Taylor,JT out at HP on the play, rf to c, in a double play.",54,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,6,top,"Spotof,Vinny reached on a fielding error fielding by 1b by Campo,Jason (E3) (1-0 B).",55,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,6,top,"Sandee,Nolan struck out looking (2-2 BBKKK).",56,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,6,top,"Parc,Charlie flied out to cf (0-2 KF).",57,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,6,top,"Smith,Cole homered, 2RBI (3-2 BBBKF)3a Spotof,Vinny scored from first base.",58,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,6,top,"Dahlber,Ivan flied out to cf (1-0 B).",59,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,6,bot,"NCAT substitution: Edwards,Savori pinch hitting for Tinsley,Andrew.",60,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,6,bot,"Edwards,Savori struck out looking (1-2 FBFK).",61,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,6,bot,"Harper,Boaz struck out swinging (1-2 KKBS).",62,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,6,bot,"Gomez,Luis grounded out, 3b to 1b (3-2 BBBKF).",63,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,7,top,"NCAT position change: Bradshaw,Marcus now playing lf from cf",64,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,7,top,"NCAT substitution: DiCarlo,Nick replaces Edwards,Savori at cf, batting 5th.",65,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,7,top,"NCAT pitching change: Quinichett,Agyei replaces VanMeter,James.",66,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,7,top,"NCAT substitution: Edwards,Savori replaces DiCarlo,Nick at 1b, batting 5th.",67,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,7,top,"NCAT position change: Campo,Jason now playing cf from 1b",68,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,7,top,"NCAT defensive substitution: DiCarlo,Nick replaces Campo,Jason at cf",69,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,7,top,"Baldwi,Gavin struck out swinging (2-2 FBBSS).",70,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,7,top,"Couchma,Will struck out looking (3-2 BBFBFK).",71,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,7,top,"Romer,Marcus hit by pitch (0-1 KB).",72,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,7,top,"Wiega,Austin lined out to 1b (1-0 B).",73,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,7,bot,"DiCarlo,Nick flied out to lf (1-1 BK).",74,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,7,bot,"Tuggle,Reginald flied out to cf (0-1 F).",75,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,7,bot,"Bradshaw,Marcus flied out to cf (0-2 KS).",76,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,8,top,"Spotof,Vinny flied out to lf (1-2 FBF).",77,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,8,top,"Sandee,Nolan singled to left center (3-1 BFBB).",78,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,8,top,"Parc,Charlie popped up to 3b (1-1 KB).",79,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,8,top,"Sandee,Nolan stole second base, advanced to third base on a throwing error by Gomez,Luis (E2).",80,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,8,top,"Smith,Cole doubled to left field, RBI (1-0 B)3a Sandee,Nolan scored.",81,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,8,top,"Dahlber,Ivan grounded out, 3b to 1b (2-1 BKB).",82,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,8,bot,"Taylor,JT hit by pitch (3-2 KBBSBFB).",83,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,8,bot,"Smith,Tyler grounded out, 3b to 1b (0-0)3a Taylor,JT advanced to second base.",84,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,8,bot,"Taylor,JT out caught stealing at third base, c to 3b.",85,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,8,bot,"Wyche,Bruce struck out swinging (3-2 KFBBBFS).",86,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,9,top,"NCAT pitching change: Fields,Jacob replaces Quinichett,Agyei.",87,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,9,top,"Baldwi,Gavin singled to left field (0-0).",88,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,9,top,"Couchma,Will flied out to cf (3-1 BBFB).",89,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,9,top,"Romer,Marcus singled through the right side of the infield (2-2 KBBK)3a Baldwi,Gavin advanced to second base.",90,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,9,top,"Wiega,Austin popped up to ss (2-1 BBK).",91,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614694,9,top,"Spotof,Vinny lined out to lf (1-1 BF).",92,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,9,bot,"NIU pitching change: Mickli,Gavin replaces Gaskey,Blake.",93,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,9,bot,"Edwards,Savori singled to shallow left field (1-2 BKS).",94,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,9,bot,"Harper,Boaz walked (3-0 BBBB)3a Edwards,Savori advanced to second base.",95,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,9,bot,"Gomez,Luis struck out swinging (1-2 KFBS).",96,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,9,bot,"DiCarlo,Nick singled to shallow right field, RBI (2-1 BBK)3a Edwards,Savori scored from second base3a Harper,Boaz advanced from first base to third base.",97,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,9,bot,"Tuggle,Reginald singled to left field, RBI (0-1 K)3a Harper,Boaz scored3a DiCarlo,Nick advanced to second base.",98,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,9,bot,"NIU pitching change: Bassi,Nick replaces Mickli,Gavin.",99,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,9,bot,"Bradshaw,Marcus hit by pitch (0-0 B)3a DiCarlo,Nick advanced to third base3a Tuggle,Reginald advanced to second base.",100,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,9,bot,"Taylor,JT lined out to lf (2-1 BBK).",101,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
+6541478,614694,NIU Huskies,614688,N.C. A&T Aggies,614688,9,bot,"Smith,Tyler grounded out, p to 1b (1-2 BKS).",102,2026-02-16 12:00:00-05:00,"War Memorial Stadium (Greensboro, NC)",0,MBA,2026
