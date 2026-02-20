@@ -172,3 +172,6 @@ cython_debug/
 
 # test files
 test*
+
+# Macintosh stuff
+.DS_Store
