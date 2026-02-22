@@ -1,0 +1,97 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,1,top,"Sander, Emil singled through the left side.",1,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,1,top,"Sander, Emil out at second c to 2b, caught stealing.",2,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,1,top,"Rosenberg, Dylan flied out to cf.",3,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,1,top,"Winchester, Daniel struck out swinging.",4,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,1,bot,"O'Connor, James grounded out to ss.",5,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,1,bot,"Westrick, Eli hit by pitch.",6,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,1,bot,"Stillson, Tyler singled to shortstop; Westrick, Eli advanced to third.",7,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,1,bot,"Trout, Matt struck out looking.",8,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,1,bot,"Donahue, Sean struck out looking.",9,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,2,top,"Dempsey, Andrew walked.",10,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,2,top,"Carner, Matt struck out swinging.",11,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,2,top,"Dempsey, Andrew advanced to second on a wild pitch.",12,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,2,top,"Uvena, Harry flied out to cf.",13,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,2,top,"Lukasiewicz, Jake struck out swinging.",14,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,2,bot,"Harris, Jasiah walked.",15,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,2,bot,"Gelle, Calvin singled to right center, advanced to second; Harris, Jasiah advanced to third, scored on a fielding error by cf.",16,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,2,bot,"Downs, Thomas struck out looking.",17,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,2,bot,"Arterburn, Nate singled to first base, bunt; Gelle, Calvin advanced to third.",18,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,2,bot,"O'Connor, James reached first on a fielding error by 1b, RBI; Arterburn, Nate advanced to second; Gelle, Calvin scored, unearned.",19,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,2,bot,"Westrick, Eli reached first on a fielding error by ss; O'Connor, James advanced to second; Arterburn, Nate advanced to third.",20,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,2,bot,"Westrick, Eli advanced to second on a wild pitch; O'Connor, James advanced to third on a wild pitch; Arterburn, Nate scored on a wild pitch.",21,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,2,bot,"Stillson, Tyler was intentionally walked.",22,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,2,bot,"Trout, Matt flied out to cf, sacrifice fly, RBI; Stillson, Tyler advanced to second; Westrick, Eli advanced to third; O'Connor, James scored, unearned.",23,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,2,bot,"Stillson, Tyler out at third c to 2b to 3b, caught stealing; Westrick, Eli scored, unearned.",24,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,3,top,"Giddings, Grayson struck out swinging.",25,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,3,top,"Ynoa, Jordan struck out swinging.",26,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,3,top,"Sander, Emil fouled out to c.",27,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,3,bot,"Donahue, Sean flied out to rf.",28,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,3,bot,"Harris, Jasiah singled to left field.",29,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,3,bot,"Gelle, Calvin reached on a fielder's choice to third base; Harris, Jasiah out at second 3b to 2b.",30,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,3,bot,"Downs, Thomas struck out looking.",31,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,4,top,"Rosenberg, Dylan struck out swinging.",32,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,4,top,"Winchester, Daniel singled to left field.",33,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,4,top,"Dempsey, Andrew struck out swinging.",34,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,4,top,"Winchester, Daniel out at second c to 2b, caught stealing.",35,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,4,bot,"Sands, Mason to p for Mayer, Ryan.",36,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,4,bot,"Arterburn, Nate grounded out to 3b.",37,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,4,bot,"O'Connor, James struck out swinging.",38,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,4,bot,"Westrick, Eli walked.",39,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,4,bot,"Westrick, Eli out at second c to 2b, caught stealing.",40,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,5,top,"Carner, Matt struck out looking.",41,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,5,top,"Uvena, Harry struck out swinging.",42,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,5,top,"Lukasiewicz, Jake struck out swinging.",43,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,5,bot,"Stillson, Tyler singled through the left side.",44,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,5,bot,"Trout, Matt flied out to cf.",45,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,5,bot,"Donahue, Sean grounded out to p unassisted; Stillson, Tyler advanced to second.",46,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,5,bot,"Harris, Jasiah grounded out to ss.",47,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,6,top,"Stillson, Tyler to dh.",48,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,6,top,"Barnes, Zach to p.",49,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,6,top,"Giddings, Grayson grounded out to ss.",50,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,6,top,"Ynoa, Jordan struck out looking.",51,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,6,top,"Sander, Emil walked.",52,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,6,top,"Rosenberg, Dylan singled to shortstop; Sander, Emil advanced to second.",53,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,6,top,"Winchester, Daniel struck out swinging.",54,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,6,bot,"Olson, Brogan to 1b for Lukasiewicz, Jake.",55,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,6,bot,"Gelle, Calvin grounded out to 3b.",56,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,6,bot,"Garbincus, Evan pinch hit for Downs, Thomas.",57,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,6,bot,"Garbincus, Evan struck out swinging.",58,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,6,bot,"Arterburn, Nate out at first 1b to p.",59,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,7,top,"Sledge, Elijah to lf for Garbincus, Evan.",60,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,7,top,"Dempsey, Andrew struck out swinging.",61,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,7,top,"Carner, Matt walked.",62,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,7,top,"Uvena, Harry grounded out to p unassisted; Carner, Matt advanced to second.",63,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,7,top,"Olson, Brogan singled to third base; Carner, Matt advanced to third.",64,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,7,top,"Giddings, Grayson grounded out to 3b.",65,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,7,bot,"O'Connor, James singled to left field.",66,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,7,bot,"Westrick, Eli doubled to right center; O'Connor, James advanced to third.",67,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,7,bot,"Stillson, Tyler doubled to right field, 2 RBI; Westrick, Eli scored; O'Connor, James scored.",68,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,7,bot,"Trout, Matt struck out looking.",69,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,7,bot,"Donahue, Sean struck out swinging.",70,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,7,bot,"Harris, Jasiah struck out looking.",71,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,8,top,"Harrington, Thomas pinch hit for Ynoa, Jordan.",72,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,8,top,"Harrington, Thomas singled to shortstop.",73,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,8,top,"Sander, Emil singled through the left side; Harrington, Thomas advanced to second.",74,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,8,top,"Meyer, Hudson pinch hit for Rosenberg, Dylan.",75,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,8,top,"Meyer, Hudson struck out looking.",76,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,8,top,"Winchester, Daniel flied out to rf; Harrington, Thomas advanced to third.",77,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,8,top,"Dempsey, Andrew flied out to lf.",78,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,8,bot,"Meyer, Hudson to 2b.",79,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,8,bot,"Winchester, Daniel to ss.",80,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,8,bot,"Rowe, Ronan to 3b for Giddings, Grayson.",81,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,8,bot,"Harrington, Thomas to lf.",82,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,8,bot,"Coleman, Will to p for Sands, Mason.",83,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,8,bot,"Gelle, Calvin flied out to rf.",84,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,8,bot,"Sledge, Elijah flied out to lf.",85,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615172,8,bot,"Arterburn, Nate flied out to lf.",86,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,9,top,"Hughes, Cody to p for Barnes, Zach.",87,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,9,top,"Mayo, Jaxson pinch hit for Carner, Matt.",88,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,9,top,"Mayo, Jaxson grounded out to ss.",89,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,9,top,"Uvena, Harry walked.",90,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,9,top,"Olson, Brogan singled to right field; Uvena, Harry advanced to third.",91,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,9,top,"Olson, Brogan advanced to second on a wild pitch.",92,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,9,top,"Rowe, Ronan walked.",93,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,9,top,"Harrington, Thomas fouled out to 1b.",94,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,9,top,"Sander, Emil reached first on a fielding error by ss; Rowe, Ronan advanced to second; Olson, Brogan advanced to third; Uvena, Harry scored, unearned.",95,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026
+6546998,615313,Oswego St. Lakers,615172,CWRU Spartans,615313,9,top,"Meyer, Hudson flied out to lf.",96,2026-02-20T14:00:00-05:00,"Nobby's Ballpark (Cleveland, OH)",75,MBA,2026

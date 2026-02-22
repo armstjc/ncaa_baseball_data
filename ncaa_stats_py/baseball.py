@@ -1067,6 +1067,8 @@ def get_baseball_day_schedule(
             attendance_num = None
         elif "final" in attendance_str.lower():
             attendance_num = None
+        elif attendance_str == '                               ':
+            attendance_num = None
         elif len(attendance_str) > 0:
             attendance_num = int(attendance_str)
         else:
