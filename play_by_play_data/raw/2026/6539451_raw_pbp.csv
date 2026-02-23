@@ -1,0 +1,87 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,1,top,"Bocachica, H fouled out to 3b (1-1 BK).",1,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,1,top,"Webb, K. struck out swinging (2-2 SKBBS).",2,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,1,top,"Davis, J. popped up to 1b (1-2 FKB).",3,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,1,bot,Covarrubias walked (3-2 KBBBFB).,4,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,1,bot,"Cadena, I. grounded out to p (0-1 K); Covarrubias advanced to second.",5,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,1,bot,"Lopez, Ad. reached on a fielder's choice (0-0); Covarrubias out at third ss to 3b.",6,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,1,bot,"Takeuchi, K. singled to third base (2-2 KBKB); Lopez, Ad. advanced to third.",7,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,1,bot,"Lopez, Au. grounded out to 2b (1-0 B).",8,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,2,top,"Green, C. struck out swinging (0-2 KKFS).",9,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,2,top,"Rios, L. struck out looking (3-2 BBFSBK).",10,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,2,top,"Ashlock, M. popped up to 2b (1-1 BK).",11,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,2,bot,Carpentier hit by pitch (3-1 BBKB).,12,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,2,bot,"Stickney, W. singled up the middle (2-1 BKB); Carpentier advanced to second.",13,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,2,bot,"Riske, M. grounded out to p, SAC, bunt (1-0 B); Stickney, W. advanced to second; Carpentier advanced to third.",14,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,2,bot,"Ibarra, I. lined out to 2b (2-2 KBKB).",15,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,2,bot,Covarrubias struck out swinging (2-2 KFBBS).,16,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,3,top,"Devenny, J. struck out swinging (1-2 FFBS).",17,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,3,top,"Duffield, T. struck out swinging (2-2 BKBSS).",18,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,3,top,"Anderson, A. struck out swinging (1-2 SSBS).",19,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,3,bot,"Cadena, I. struck out swinging (1-2 SFBS).",20,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,3,bot,"Lopez, Ad. singled through the left side (2-2 KKFBFB).",21,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,3,bot,"Takeuchi, K. singled to right center (1-1 SB); Lopez, Ad. advanced to third.",22,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,3,bot,"Lopez, Au. walked (3-2 SBKFBBB); Takeuchi, K. advanced to second.",23,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,3,bot,"Diaz, A. to p for Urbanczyk, R.",24,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,3,bot,"Carpentier fouled out to 1b, SF, RBI (0-0); Takeuchi, K. advanced to third; Lopez, Ad. scored.",25,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,3,bot,"Stickney, W. flied out to rf (1-2 KFB).",26,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,4,top,"Bocachica, H struck out looking (3-2 BKFFBBK).",27,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,4,top,"Webb, K. struck out looking (1-2 KBFK).",28,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,4,top,"Davis, J. singled through the left side (1-0 B).",29,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,4,top,"Green, C. flied out to lf (1-2 KSB).",30,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,4,bot,"Riske, M. walked (3-2 BBBKSB).",31,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,4,bot,"Riske, M. advanced to second on a balk.",32,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,4,bot,"Riske, M. advanced to third on a wild pitch.",33,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,4,bot,"Ibarra, I. singled to right field, RBI (2-2 KFFBB); Riske, M. scored.",34,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,4,bot,Covarrubias flied out to cf (1-0 B).,35,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,4,bot,"Cadena, I. flied out to lf (1-0 B).",36,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,4,bot,"Lopez, Ad. flied out to lf (3-2 BFBFBFF).",37,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,5,top,"Rios, L. struck out swinging (1-2 BKKFS).",38,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,5,top,"Ashlock, M. struck out looking (2-2 BKKBFFK).",39,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,5,top,"Devenny, J. grounded out to 2b (1-1 BS).",40,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,5,bot,"Takeuchi, K. walked (3-1 BBBKB).",41,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,5,bot,"Lopez, Au. doubled to left center, RBI (0-0); Takeuchi, K. scored.",42,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,5,bot,Carpentier hit by pitch (1-1 BK).,43,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,5,bot,"Atchley, E. to p for Diaz, A..",44,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,5,bot,"Stickney, W. reached on a fielder's choice (0-0); Carpentier advanced to second on a throwing error by p; Lopez, Au. advanced to third.",45,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,5,bot,"Riske, M. flied out to cf, SF, RBI (1-1 BK); Lopez, Au. scored.",46,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,5,bot,"Stickney, W. advanced to second; Carpentier out at third c to 3b, caught stealing.",47,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,5,bot,"Ibarra, I. struck out swinging (2-2 KBSBS).",48,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,6,top,"Duffield, T. grounded out to p, bunt (0-1 S).",49,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,6,top,"Anderson, A. walked (3-2 BSFBBB).",50,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,6,top,"Bocachica, H struck out looking (2-2 KBFBK).",51,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,6,top,"Webb, K. popped up to 1b (0-1 F).",52,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,6,bot,Covarrubias struck out swinging (0-2 SKS).,53,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,6,bot,"Cadena, I. grounded out to 2b (0-0).",54,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,6,bot,"Lopez, Ad. grounded out to ss (2-2 KSBFFB).",55,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,7,top,"Chabot, H. to p for Govel, G..",56,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,7,top,"Davis, J. walked (3-0 BBBB).",57,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,7,top,"Green, C. grounded out to p, SAC, bunt (2-1 BBK); Davis, J. advanced to second.",58,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,7,top,"Zito, M. pinch hit for Rios, L..",59,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,7,top,"Zito, M. walked (3-1 BBBKB).",60,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,7,top,"Matson, S. to p for Chabot, H..",61,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,7,top,"Ashlock, M. singled through the left side, RBI (2-0 BB); Zito, M. advanced to second; Davis, J. scored.",62,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,7,top,"Boehm, G. pinch hit for Devenny, J..",63,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,7,top,"Boehm, G. walked (3-1 BFBBB); Ashlock, M. advanced to second; Zito, M. advanced to third.",64,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,7,top,"Duffield, T. struck out swinging (0-2 SSS).",65,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,7,top,"Anderson, A. struck out swinging (1-2 KFBS).",66,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,7,bot,"Davila, L. to cf for Boehm, G..",67,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,7,bot,"Duffield, T. to lf.",68,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,7,bot,"Takeuchi, K. popped up to 2b (2-1 BBS).",69,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,7,bot,"Lopez, Au. struck out swinging (3-2 FSBBFFBS).",70,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,7,bot,"Carpentier struck out swinging, out at first c to 1b (3-2 KBBFBS).",71,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,8,top,"Bocachica, H grounded out to p (2-2 KBSFB).",72,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,8,top,"Webb, K. struck out looking (3-2 BBKKBK).",73,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,8,top,"Troy, A. to p for Matson, S..",74,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,8,top,"Davis, J. singled up the middle (2-2 BBKKF).",75,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,8,top,"Green, C. struck out looking (3-2 BBBKKK).",76,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,8,bot,"Stickney, W. flied out to rf (0-0).",77,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,8,bot,"Riske, M. struck out looking (1-2 KBKK).",78,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614742,8,bot,"Ibarra, I. out at first 1b to p (0-1 K).",79,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,9,top,"Zito, M. to dh.",80,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,9,top,"Zito, M. struck out looking (3-2 BBBKKFK).",81,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,9,top,"Ashlock, M. walked (3-0 BBBB).",82,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,9,top,"Daigre, Z. pinch ran for Ashlock, M..",83,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,9,top,"Daigre, Z. advanced to second on a wild pitch.",84,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,9,top,"Davila, L. flied out to rf (0-0); Daigre, Z. advanced to third.",85,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
+6539451,614718,Rice Owls,614742,Southern California Trojans,614718,9,top,"Duffield, T. struck out looking (0-2 KFK).",86,2026-02-21T20:00:00-05:00,"Dedeaux Field (Los Angeles, CA)",1097,MBA,2026
