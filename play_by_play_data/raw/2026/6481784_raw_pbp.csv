@@ -1,0 +1,90 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,1,top,B. Jirovec tripled to right field.,1,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,1,top,"E. Rindner reached first on an error by c3a B. Jirovec scored, unearned.",2,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,1,top,N. Bae flied out to cf.,3,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,1,top,H. Belden struck out looking.,4,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,1,top,M. Wiesner out at first ss to 2b.,5,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,1,bot,B. Daniel singled to pitcher.,6,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,1,bot,C. Angilly singled to pitcher3a B. Daniel advanced to second.,7,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,1,bot,C. Angilly stole second3a B. Daniel stole third.,8,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,1,bot,"M. Nunez singled to left field, RBI3a C. Angilly advanced to third3a B. Daniel scored.",9,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,1,bot,M. Kruger popped up to 1b.,10,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,1,bot,C. Martens hit by pitch3a M. Nunez advanced to second.,11,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,1,bot,B. Trichell struck out swinging.,12,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,1,bot,B. Larson struck out swinging.,13,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,2,top,M. Gladden grounded out to 2b.,14,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,2,top,J. Sharp walked.,15,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,2,top,L. Reed grounded into double play ss to 2b to 1b3a J. Sharp out on the play.,16,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,2,bot,C. Kuriger flied out to ss.,17,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,2,bot,J. Trozzo singled to center field.,18,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,2,bot,B. Daniel flied out to cf.,19,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,2,bot,"C. Angilly doubled to left field, RBI3a J. Trozzo scored.",20,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,2,bot,M. Nunez struck out swinging.,21,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,3,top,L. Weston flied out to lf.,22,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,3,top,B. Jirovec reached first on an error by 1b.,23,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,3,top,E. Rindner reached on catcher's interference3a B. Jirovec advanced to second.,24,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,3,top,N. Bae walked3a E. Rindner advanced to second3a B. Jirovec advanced to third.,25,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,3,top,H. Belden struck out looking.,26,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,3,top,M. Wiesner reached on a fielder's choice3a N. Bae out at second p to ss.,27,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,3,bot,M. Kruger struck out swinging.,28,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,3,bot,C. Martens lined out to ss.,29,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,3,bot,B. Trichell walked.,30,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,3,bot,B. Larson struck out swinging.,31,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,4,top,M. Gladden singled to left field.,32,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,4,top,"M. Gladden out at second c to 2b, caught stealing.",33,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,4,top,J. Sharp singled to left field.,34,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,4,top,L. Reed struck out swinging.,35,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,4,top,"L. Weston tripled to right field, RBI3a J. Sharp scored.",36,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,4,top,D. Albert to p for B. Daniel.,37,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,4,top,B. Jirovec grounded out to 2b.,38,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,4,bot,C. Kuriger grounded out to 2b.,39,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,4,bot,J. Trozzo walked.,40,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,4,bot,B. Daniel pinch hit for D. Albert.,41,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,4,bot,B. Daniel singled to left field3a J. Trozzo advanced to second.,42,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,4,bot,M. Richert to p for P. Benner.,43,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,4,bot,C. Angilly walked3a B. Daniel advanced to second3a J. Trozzo advanced to third.,44,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,4,bot,G. Tenuta to p for M. Richert.,45,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,4,bot,"M. Nunez singled to left field, RBI3a C. Angilly advanced to second3a B. Daniel advanced to third3a J. Trozzo scored.",46,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,4,bot,M. Nunez advanced to second on a balk3a C. Angilly advanced to third3a B. Daniel scored.,47,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,4,bot,M. Kruger struck out swinging.,48,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,4,bot,"C. Martens doubled to left field, 2 RBI3a M. Nunez scored3a C. Angilly scored.",49,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,4,bot,"B. Trichell homered, 2 RBI3a C. Martens scored.",50,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,4,bot,N. Deakin to p for G. Tenuta.,51,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,4,bot,B. Larson doubled to right field.,52,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,4,bot,C. Kuriger grounded out to 2b.,53,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,5,top,B. Daniel to dh.,54,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,5,top,D. Albert to p.,55,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,5,top,E. Rindner singled to third base.,56,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,5,top,N. Bae struck out swinging.,57,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,5,top,H. Belden flied out to lf.,58,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,5,top,M. Wiesner reached on a fielder's choice3a E. Rindner out at second ss unassisted.,59,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,5,bot,J. Trozzo hit by pitch.,60,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,5,bot,"B. Daniel tripled to center field, RBI3a J. Trozzo scored.",61,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,5,bot,C. Angilly popped up to ss.,62,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,5,bot,"M. Nunez grounded out to 2b, RBI3a B. Daniel scored.",63,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,5,bot,M. Kruger hit by pitch.,64,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,5,bot,C. Martens reached first on an error by lf3a M. Kruger scored.,65,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,5,bot,C. Martens advanced to second.,66,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,5,bot,C. Martens advanced to third on a wild pitch.,67,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,5,bot,B. Trichell struck out looking.,68,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,6,top,M. Gladden flied out to cf.,69,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,6,top,J. Sharp struck out swinging.,70,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,6,top,L. Reed reached first on an error by 3b.,71,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,6,top,L. Weston lined out to 2b.,72,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,6,bot,J. Lazar to p for N. Deakin.,73,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,6,bot,B. Larson singled to left field.,74,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,6,bot,C. Kuriger hit by pitch3a B. Larson advanced to second.,75,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,6,bot,J. Trozzo struck out swinging.,76,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,6,bot,B. Daniel walked3a C. Kuriger advanced to second3a B. Larson advanced to third.,77,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,6,bot,"C. Angilly singled to third base, RBI3a B. Daniel advanced to second3a C. Kuriger advanced to third3a B. Larson scored.",78,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,6,bot,"M. Nunez singled to right field, RBI3a C. Angilly advanced to second3a B. Daniel advanced to third3a C. Kuriger scored.",79,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,6,bot,C. Meyer pinch ran for M. Nunez.,80,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,6,bot,M. Kruger struck out looking.,81,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615327,6,bot,C. Martens flied out to rf.,82,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,7,top,C. Meyer to rf.,83,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,7,top,G. Thompson to c for C. Angilly.,84,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,7,top,B. Jirovec singled to right field.,85,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,7,top,E. Rindner popped out to 1b.,86,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,7,top,N. Bae out on batter's interference.,87,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,7,top,B. Jirovec stole second.,88,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
+6481784,615179,UChicago Maroons,615327,Rhodes Lynx,615179,7,top,H. Belden struck out swinging.,89,2026-02-22T15:00:00-05:00,"Stauffer Field (Memphis, TN)",133,MBA,2026
