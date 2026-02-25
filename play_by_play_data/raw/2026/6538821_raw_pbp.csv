@@ -1,0 +1,89 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,1,top,W. Soto singled to right center.,1,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,1,top,W. Soto advanced to second on a passed ball.,2,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,1,top,T. Babbitt fouled out to lf.,3,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,1,top,D. Castillo walked.,4,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,1,top,T. Davies hit by pitch3a D. Castillo advanced to second3a W. Soto advanced to third.,5,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,1,top,"E. Tanimowo- singled through the left side, RBI3a T. Davies advanced to second3a D. Castillo advanced to third3a W. Soto scored.",6,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,1,top,"E. Mendez reached first on a fielding error by 1b, RBI3a E. Tanimowo- advanced to second3a T. Davies out at third 3b unassisted3a D. Castillo scored.",7,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,1,top,M. Henryhand struck out swinging.,8,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,1,bot,C. Jones grounded out to 1b unassisted.,9,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,1,bot,K. Johnson flied out to lf.,10,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,1,bot,J. Medina flied out to cf.,11,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,2,top,C. Blunt reached first on a fielding error by 2b.,12,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,2,top,"B. Chapa reached first on a fielding error by 2b, advanced to second3a C. Blunt advanced to third.",13,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,2,top,"W. Soto flied out to lf, RBI3a C. Blunt scored, unearned.",14,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,2,top,T. Babbitt flied out to lf3a B. Chapa advanced to third.,15,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,2,top,D. Castillo walked.,16,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,2,top,D. Castillo stole second.,17,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,2,top,T. Davies flied out to cf.,18,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,2,bot,C. Haley walked.,19,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,2,bot,"Conner, Jr homered down the rf line, 2 RBI3a C. Haley scored.",20,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,2,bot,J. Olmedo struck out looking.,21,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,2,bot,M. Herring singled to right center.,22,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,2,bot,E. Banks hit by pitch3a M. Herring advanced to second.,23,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,2,bot,"C. Lindsey singled to left center, RBI3a E. Banks advanced to second3a M. Herring scored.",24,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,2,bot,"C. Jones singled to left center, RBI3a C. Lindsey advanced to second3a E. Banks scored.",25,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,2,bot,"K. Johnson doubled through the right side, RBI3a C. Jones advanced to third3a C. Lindsey scored.",26,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,2,bot,"J. Medina flied out to cf, RBI3a K. Johnson advanced to third3a C. Jones scored.",27,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,2,bot,"C. Haley homered to left center, 2 RBI3a K. Johnson scored.",28,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,2,bot,"Conner, Jr popped up to 1b, bunt.",29,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,3,top,E. Tanimowo- popped up to p.,30,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,3,top,"E. Mendez singled, bunt.",31,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,3,top,E. Mendez stole second.,32,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,3,top,M. Henryhand walked.,33,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,3,top,"E. Mendez out at third p to 2b, caught stealing.",34,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,3,top,C. Blunt singled up the middle3a M. Henryhand advanced to second.,35,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,3,top,B. Chapa grounded out to c.,36,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,3,bot,J. Olmedo flied out to cf.,37,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,3,bot,M. Herring hit by pitch.,38,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,3,bot,E. Banks struck out looking.,39,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,3,bot,C. Lindsey struck out swinging.,40,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,4,top,W. Soto walked.,41,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,4,top,T. Babbitt singled to shortstop3a W. Soto advanced to second.,42,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,4,top,"D. Castillo singled, bunt3a T. Babbitt advanced to second3a W. Soto advanced to third.",43,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,4,top,D. Castillo advanced to second on a wild pitch3a T. Babbitt advanced to third on a wild pitch3a W. Soto scored on a wild pitch.,44,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,4,top,"T. Davies doubled to center field, 2 RBI3a D. Castillo scored3a T. Babbitt scored.",45,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,4,top,E. Tanimowo- struck out looking.,46,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,4,top,E. Mendez struck out swinging.,47,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,4,top,M. Henryhand struck out looking.,48,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,4,bot,C. Jones grounded out to 2b.,49,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,4,bot,K. Johnson walked.,50,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,4,bot,"K. Johnson out at first c to 1b, picked off.",51,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,4,bot,J. Medina singled to right field.,52,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,4,bot,"C. Haley tripled to right center, RBI3a J. Medina scored.",53,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,4,bot,C. Martinez to p for D. Rogers.,54,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,4,bot,"Conner, Jr flied out to cf.",55,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,5,top,C. Blunt lined out to cf.,56,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,5,top,B. Chapa grounded out to 2b.,57,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,5,top,W. Soto walked.,58,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,5,top,T. Babbitt grounded out to 3b unassisted.,59,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,5,bot,J. Olmedo struck out swinging.,60,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,5,bot,M. Herring walked.,61,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,5,bot,E. Banks reached first on a fielding error by 3b3a M. Herring advanced to second.,62,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,5,bot,C. Lindsey hit by pitch3a E. Banks advanced to second3a M. Herring advanced to third.,63,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,5,bot,"C. Jones walked, RBI3a C. Lindsey advanced to second3a E. Banks advanced to third3a M. Herring scored.",64,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,5,bot,K. Johnson flied out to ss.,65,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,5,bot,"J. Medina singled through the right side, 2 RBI3a C. Jones advanced to third3a C. Lindsey scored, unearned3a E. Banks scored, unearned.",66,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,5,bot,C. Haley walked3a J. Medina advanced to second.,67,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,5,bot,"Conner, Jr struck out swinging.",68,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,6,top,D. Castillo flied out to lf.,69,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,6,top,"T. Davies homered to left center, RBI.",70,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,6,top,J. Purvis pinch hit for E. Tanimowo-.,71,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,6,top,J. Purvis doubled down the lf line.,72,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,6,top,"E. Mendez doubled to left field, RBI3a J. Purvis scored.",73,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,6,top,A. Ramos to p for C. Ruiz.,74,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,6,top,G. Garza pinch hit for M. Henryhand.,75,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,6,top,G. Garza grounded out to 3b.,76,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,6,top,C. Blunt hit by pitch.,77,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,6,top,C. Blunt advanced to second on a wild pitch3a E. Mendez advanced to third on a wild pitch.,78,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,6,top,B. Chapa lined out to rf.,79,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,6,bot,J. Purvis to 3b.,80,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,6,bot,G. Garza to 2b.,81,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,6,bot,J. Olmedo flied out to lf.,82,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,6,bot,M. Herring flied out to lf.,83,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,6,bot,"E. Banks homered to left field, RBI.",84,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615010,6,bot,C. Lindsey struck out swinging.,85,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,7,top,W. Soto struck out swinging.,86,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,7,top,T. Babbitt flied out to lf.,87,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
+6538821,615045,Lane Dragons,615010,Benedict Tigers,615045,7,top,D. Castillo flied out to lf.,88,2026-02-23T15:00:00-05:00,"Columbia, SC",10,MBA,2026
