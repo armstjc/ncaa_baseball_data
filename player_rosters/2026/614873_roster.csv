@@ -1,10 +1,10 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9693103,16,Caden Beloian,Caden,Beloian,Jr.,P,5-10,,RIGHT,RIGHT,"El Dorado Hills, CA",Rio Americano H.S.,1,1,https://stats.ncaa.org/players/9693103
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9693103,16,Caden Beloian,Caden,Beloian,Jr.,P,5-10,,RIGHT,RIGHT,"El Dorado Hills, CA",Rio Americano H.S.,2,2,https://stats.ncaa.org/players/9693103
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9678256,11,Tanner Beltowski,Tanner,Beltowski,Jr.,INF,6-1,,RIGHT,RIGHT,"Ventura, CA",Buena H.S.,4,4,https://stats.ncaa.org/players/9678256
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9698436,33,Luka Bladow,Luka,Bladow,Jr.,P,6-3,,LEFT,RIGHT,"Oak Park, CA",Agoura H.S.,0,0,https://stats.ncaa.org/players/9698436
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9677350,6,Brady Boyd,Brady,Boyd,Jr.,C,6-0,,RIGHT,RIGHT,"Yuba City, CA",Cardinal Newman H.S.,0,0,https://stats.ncaa.org/players/9677350
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9696936,25,Griffin Brown,Griffin,Brown,Sr.,C,5-11,,RIGHT,RIGHT,"Elk Grove, CA",Pleasant Grove H.S.,6,5,https://stats.ncaa.org/players/9696936
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9699163,23,Colin Callahan,Colin,Callahan,Jr.,INF,5-11,,RIGHT,RIGHT,"Orangevale, CA",Folsom H.S.,6,6,https://stats.ncaa.org/players/9699163
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9696936,25,Griffin Brown,Griffin,Brown,Sr.,C,5-11,,RIGHT,RIGHT,"Elk Grove, CA",Pleasant Grove H.S.,10,8,https://stats.ncaa.org/players/9696936
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9699163,23,Colin Callahan,Colin,Callahan,Jr.,INF,5-11,,RIGHT,RIGHT,"Orangevale, CA",Folsom H.S.,9,8,https://stats.ncaa.org/players/9699163
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11237661,61,Daylen Carey,Daylen,Carey,Fr.,P,6-2,,RIGHT,RIGHT,"Long Beach, CA",Long Beach Polytechnic HS,0,0,https://stats.ncaa.org/players/11237661
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9703243,39,Joseph Castillo,Joseph,Castillo,Jr.,1B,6-0,,LEFT,LEFT,"Murrieta, CA",Vista Murrieta H.S.,7,6,https://stats.ncaa.org/players/9703243
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11232577,10,Deep Chohan,Deep,Chohan,Fr.,OF,5-10,,LEFT,LEFT,"Clovis, CA",Clovis High School,0,0,https://stats.ncaa.org/players/11232577
@@ -17,41 +17,41 @@ season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conferenc
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9681852,46,Reagan Gayle,Reagan,Gayle,Jr.,P,6-1,,LEFT,RIGHT,"Cypress, TX",Cypress Woods H.S.,2,0,https://stats.ncaa.org/players/9681852
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11236352,36,Jaydon Geraci,Jaydon,Geraci,Fr.,P,6-4,,RIGHT,RIGHT,"Hilo, HI",Hilo High School,0,0,https://stats.ncaa.org/players/11236352
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11232535,3,Braydon Griffin,Braydon,Griffin,Fr.,SS,5-8,,RIGHT,RIGHT,"Harbor City, CA",San Pedro High School,0,0,https://stats.ncaa.org/players/11232535
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9697035,34,Hunter Hammond,Hunter,Hammond,So.,P,6-5,,RIGHT,RIGHT,"Atascadero, CA",Saint Joseph H.S.,2,2,https://stats.ncaa.org/players/9697035
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9683262,40,Josh Hickey,Josh,Hickey,Jr.,P,6-1,,RIGHT,RIGHT,"Yucaipa, CA",Yucaipa H.S.,2,0,https://stats.ncaa.org/players/9683262
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11236347,28,Aaron Jacobsen,Aaron,Jacobsen,Fr.,1B,6-3,,RIGHT,RIGHT,"Glendora, CA",Glendora High School,2,1,https://stats.ncaa.org/players/11236347
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9697035,34,Hunter Hammond,Hunter,Hammond,So.,P,6-5,,RIGHT,RIGHT,"Atascadero, CA",Saint Joseph H.S.,3,3,https://stats.ncaa.org/players/9697035
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9683262,40,Josh Hickey,Josh,Hickey,Jr.,P,6-1,,RIGHT,RIGHT,"Yucaipa, CA",Yucaipa H.S.,3,0,https://stats.ncaa.org/players/9683262
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11236347,28,Aaron Jacobsen,Aaron,Jacobsen,Fr.,1B,6-3,,RIGHT,RIGHT,"Glendora, CA",Glendora High School,4,3,https://stats.ncaa.org/players/11236347
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11237651,52,Ben Keller,Ben,Keller,Fr.,P,6-1,,RIGHT,LEFT,"Mission Viejo, CA",Crean Lutheran High School,0,0,https://stats.ncaa.org/players/11237651
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11237648,43,Jarrett Kozma,Jarrett,Kozma,Fr.,OF,6-3,,RIGHT,RIGHT,"Upland, CA",Bonita High School,0,0,https://stats.ncaa.org/players/11237648
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9682938,12,Willis Lacy,Willis,Lacy,Jr.,P,6-1,,RIGHT,RIGHT,"Murrieta, CA",Vista Murrieta H.S.,1,0,https://stats.ncaa.org/players/9682938
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11236329,18,Lukas Le Gras,Lukas,Le Gras,Fr.,C,6-0,,RIGHT,RIGHT,"Victoria, Canada",Lambrick Park Secondary School,4,3,https://stats.ncaa.org/players/11236329
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11236329,18,Lukas Le Gras,Lukas,Le Gras,Fr.,C,6-0,,RIGHT,RIGHT,"Victoria, Canada",Lambrick Park Secondary School,5,4,https://stats.ncaa.org/players/11236329
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11237656,60,Gabriel Leung,Gabriel,Leung,Sr.,2B,5-8,,RIGHT,RIGHT,"San Franciso, CA",Lowell High School,0,0,https://stats.ncaa.org/players/11237656
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11237637,42,Bobby Logue,Bobby,Logue,Fr.,OF,6-3,,RIGHT,RIGHT,"Ontario, CA",Damien High School,0,0,https://stats.ncaa.org/players/11237637
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9703917,17,Troy Lopez,Troy,Lopez,So.,P,6-1,,RIGHT,RIGHT,"Chino Hills, CA",Damien H.S.,0,0,https://stats.ncaa.org/players/9703917
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11244167,13,J. Maggio,J.,Maggio,---,dh,-,,,,,,6,6,https://stats.ncaa.org/players/11244167
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9689652,22,Orion Medeiros,Orion,Medeiros,Sr.,OF,6-0,,RIGHT,RIGHT,"Kailua, HI",Kailua H.S.,2,0,https://stats.ncaa.org/players/9689652
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9696797,21,Jaden Mingus,Jaden,Mingus,Jr.,2B,6-0,,RIGHT,RIGHT,"Hollister, CA",Hollister H.S.,6,4,https://stats.ncaa.org/players/9696797
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11244167,13,J. Maggio,J.,Maggio,---,dh,-,,,,,,10,10,https://stats.ncaa.org/players/11244167
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9689652,22,Orion Medeiros,Orion,Medeiros,Sr.,OF,6-0,,RIGHT,RIGHT,"Kailua, HI",Kailua H.S.,3,0,https://stats.ncaa.org/players/9689652
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9696797,21,Jaden Mingus,Jaden,Mingus,Jr.,2B,6-0,,RIGHT,RIGHT,"Hollister, CA",Hollister H.S.,8,6,https://stats.ncaa.org/players/9696797
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11238684,44,Jake Molinar,Jake,Molinar,So.,P,6-2,,RIGHT,RIGHT,"La Mesa, CA",The Bishop's H.S.,0,0,https://stats.ncaa.org/players/11238684
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9703044,29,Zach Mora,Zach,Mora,Jr.,SS,5-11,,RIGHT,RIGHT,"Moorpark, CA",Grace Brethren H.S.,7,7,https://stats.ncaa.org/players/9703044
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9703044,29,Zach Mora,Zach,Mora,Jr.,SS,5-11,,RIGHT,RIGHT,"Moorpark, CA",Grace Brethren H.S.,11,11,https://stats.ncaa.org/players/9703044
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9685397,45,AJ Newell,AJ,Newell,So.,P,6-3,,RIGHT,RIGHT,"Excelsior, MN",Southwest Christian H.S.,0,0,https://stats.ncaa.org/players/9685397
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11232520,15,Kaden Petersen,Kaden,Petersen,Sr.,OF,6-0,,RIGHT,RIGHT,"Turlock, CA",Turlock,3,0,https://stats.ncaa.org/players/11232520
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11232520,15,Kaden Petersen,Kaden,Petersen,Sr.,OF,6-0,,RIGHT,RIGHT,"Turlock, CA",Turlock,4,1,https://stats.ncaa.org/players/11232520
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11237650,51,Haaken Quade,Haaken,Quade,Fr.,P,6-5,,RIGHT,RIGHT,"San Clemente, CA",San Clemente High School,0,0,https://stats.ncaa.org/players/11237650
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9702473,62,Gavin Reeve,Gavin,Reeve,So.,P,5-11,,RIGHT,LEFT,"Upland, CA",Bonita H.S.,0,0,https://stats.ncaa.org/players/9702473
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9703440,9,Rolen Reyes,Rolen,Reyes,So.,2B,5-8,,LEFT,RIGHT,"Stockton, CA",St. Mary's H.S.,0,0,https://stats.ncaa.org/players/9703440
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9703316,24,Joey Rico,Joey,Rico,Jr.,P,6-0,,LEFT,RIGHT,"Visalia, CA",Redwood H.S.,7,7,https://stats.ncaa.org/players/9703316
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9703440,9,Rolen Reyes,Rolen,Reyes,So.,2B,5-8,,LEFT,RIGHT,"Stockton, CA",St. Mary's H.S.,4,4,https://stats.ncaa.org/players/9703440
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9703316,24,Joey Rico,Joey,Rico,Jr.,P,6-0,,LEFT,RIGHT,"Visalia, CA",Redwood H.S.,10,10,https://stats.ncaa.org/players/9703316
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11236345,19,KJ Rieden,KJ,Rieden,Fr.,P,5-11,,RIGHT,RIGHT,"San Jose, CA",Prospect High School,1,0,https://stats.ncaa.org/players/11236345
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11237654,54,Angelo Rivera,Angelo,Rivera,Fr.,2B,5-9,,RIGHT,RIGHT,"San Jose, CA",Branham High School,0,0,https://stats.ncaa.org/players/11237654
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11236346,27,Nick Romero,Nick,Romero,Fr.,P,6-3,,RIGHT,LEFT,"Chula Vista, CA",Eastlake High School,2,0,https://stats.ncaa.org/players/11236346
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11236346,27,Nick Romero,Nick,Romero,Fr.,P,6-3,,RIGHT,LEFT,"Chula Vista, CA",Eastlake High School,3,0,https://stats.ncaa.org/players/11236346
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9696625,55,Chris Rudell,Chris,Rudell,Jr.,P,5-10,,RIGHT,RIGHT,"San Jose, CA",Bellarmine College Pres,1,0,https://stats.ncaa.org/players/9696625
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9701516,26,Gary Scannavion,Gary,Scannavion,Jr.,OF,5-9,,RIGHT,RIGHT,"Stockton, CA",St. Mary's H.S.,0,0,https://stats.ncaa.org/players/9701516
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9685069,48,Manny Soto,Manny,Soto,Jr.,P,6-0,,RIGHT,RIGHT,"Fontana, CA",Aquinas H.S.,3,0,https://stats.ncaa.org/players/9685069
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9688629,35,Brady Spencer,Brady,Spencer,Jr.,P,6-0,,LEFT,RIGHT,"Santa Cruz, CA",Soquet H.S.,1,0,https://stats.ncaa.org/players/9688629
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9699375,41,Graham Styles,Graham,Styles,So.,P,6-1,,RIGHT,RIGHT,"Lakeville, MN",Cretin-Derham Hall,0,0,https://stats.ncaa.org/players/9699375
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9684557,37,Brandon Tatch,Brandon,Tatch,So.,P,5-9,,RIGHT,RIGHT,"Aliso Viejo, CA",Aliso Niguel H.S.,1,0,https://stats.ncaa.org/players/9684557
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9684557,37,Brandon Tatch,Brandon,Tatch,So.,P,5-9,,RIGHT,RIGHT,"Aliso Viejo, CA",Aliso Niguel H.S.,2,0,https://stats.ncaa.org/players/9684557
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9697346,20,Gavin Vanderpool,Gavin,Vanderpool,So.,OF,6-0,,LEFT,LEFT,"San Marcos, CA",San Marcos H.S.,1,0,https://stats.ncaa.org/players/9697346
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11232538,4,Matt Vazquez,Matt,Vazquez,Fr.,P,6-1,,RIGHT,RIGHT,"Pico Rivera, CA",Maranatha High School,2,2,https://stats.ncaa.org/players/11232538
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9694609,2,Isaac Veal,Isaac,Veal,Jr.,OF,6-1,,RIGHT,RIGHT,"Goleta, CA",Bishop Diego Garcia H.S.,7,7,https://stats.ncaa.org/players/9694609
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11232538,4,Matt Vazquez,Matt,Vazquez,Fr.,P,6-1,,RIGHT,RIGHT,"Pico Rivera, CA",Maranatha High School,3,3,https://stats.ncaa.org/players/11232538
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9694609,2,Isaac Veal,Isaac,Veal,Jr.,OF,6-1,,RIGHT,RIGHT,"Goleta, CA",Bishop Diego Garcia H.S.,11,11,https://stats.ncaa.org/players/9694609
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9680208,8,Aiden Voyles,Aiden,Voyles,So.,C,5-8,,RIGHT,RIGHT,"Valencia, CA",Valencia H.S.,0,0,https://stats.ncaa.org/players/9680208
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11232526,14,Noah Williams,Noah,Williams,Jr.,OF,6-2,,BOTH,RIGHT,"Carson, CA",Redondo Union,0,0,https://stats.ncaa.org/players/11232526
 2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11237652,53,Carter Wright,Carter,Wright,Fr.,P,5-10,,RIGHT,RIGHT,"Hollister, CA",Monte Vista Christian HS,0,0,https://stats.ncaa.org/players/11237652
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9679466,1,Grant Yzermans,Grant,Yzermans,Jr.,OF,5-9,,RIGHT,RIGHT,"Murrieta, CA",Temecula Valley H.S.,7,7,https://stats.ncaa.org/players/9679466
-2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11232541,5,Jack Zerkel,Jack,Zerkel,Fr.,OF,5-9,,RIGHT,RIGHT,"Tustin, CA",Foothill High School,5,0,https://stats.ncaa.org/players/11232541
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,9679466,1,Grant Yzermans,Grant,Yzermans,Jr.,OF,5-9,,RIGHT,RIGHT,"Murrieta, CA",Temecula Valley H.S.,11,11,https://stats.ncaa.org/players/9679466
+2026,2025-26,MBA,2,II,PacWest,30260,Westmont,11232541,5,Jack Zerkel,Jack,Zerkel,Fr.,OF,5-9,,RIGHT,RIGHT,"Tustin, CA",Foothill High School,8,2,https://stats.ncaa.org/players/11232541

@@ -1,47 +1,49 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9702984,40,Jonathan Ashe,Jonathan,Ashe,So.,INF,5-7,,RIGHT,RIGHT,,,0,0,https://stats.ncaa.org/players/9702984
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9699617,24,Andrew Baugher,Andrew,Baugher,Sr.,P,5-11,,RIGHT,RIGHT,,,1,0,https://stats.ncaa.org/players/9699617
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9700066,4,Evan Bert,Evan,Bert,Sr.,P,6-0,,RIGHT,RIGHT,"Harrisonburg, VA",Harrisonburg,1,1,https://stats.ncaa.org/players/9700066
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9689427,28,Matthew Bishop,Matthew,Bishop,So.,P,6-3,,LEFT,LEFT,,,1,0,https://stats.ncaa.org/players/9689427
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9683322,13,Lucas Cash,Lucas,Cash,Sr.,P,6-0,,RIGHT,RIGHT,,,1,1,https://stats.ncaa.org/players/9683322
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9700632,16,Zack Chadwell,Zack,Chadwell,Sr.,1B,6-5,,LEFT,RIGHT,,,4,4,https://stats.ncaa.org/players/9700632
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9699617,24,Andrew Baugher,Andrew,Baugher,Sr.,P,5-11,,RIGHT,RIGHT,,,3,0,https://stats.ncaa.org/players/9699617
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9700066,4,Evan Bert,Evan,Bert,Sr.,P,6-0,,RIGHT,RIGHT,"Harrisonburg, VA",Harrisonburg,2,2,https://stats.ncaa.org/players/9700066
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9689427,28,Matthew Bishop,Matthew,Bishop,So.,P,6-3,,LEFT,LEFT,,,3,0,https://stats.ncaa.org/players/9689427
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9683322,13,Lucas Cash,Lucas,Cash,Sr.,P,6-0,,RIGHT,RIGHT,,,2,2,https://stats.ncaa.org/players/9683322
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9700632,16,Zack Chadwell,Zack,Chadwell,Sr.,1B,6-5,,LEFT,RIGHT,,,7,7,https://stats.ncaa.org/players/9700632
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9695067,38,Andrew Cheatham,Andrew,Cheatham,Sr.,OF,5-9,,LEFT,RIGHT,"Powhatan, VA",Powhatan,0,0,https://stats.ncaa.org/players/9695067
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9691578,29,Carter Childs,Carter,Childs,Jr.,INF,6-3,,RIGHT,RIGHT,"Spotsylvania, VA",Chancellor,0,0,https://stats.ncaa.org/players/9691578
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9695336,42,Hunter Covill,Hunter,Covill,Jr.,P,5-9,,RIGHT,RIGHT,"Spotsylvania, VA",Chancellor,0,0,https://stats.ncaa.org/players/9695336
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9685113,99,Nick Dawson,Nick,Dawson,Jr.,INF,6-2,,RIGHT,RIGHT,"Amherst, VA",Amherst,0,0,https://stats.ncaa.org/players/9685113
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9692258,19,T. Dyson,T.,Dyson,Fr.,p,-,,,,,,0,0,https://stats.ncaa.org/players/9692258
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),11251861,32,Henley Dunlap,Henley,Dunlap,Fr.,1B,-,,,,,,1,0,https://stats.ncaa.org/players/11251861
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9692258,19,Tyler Dyson,Tyler,Dyson,Jr.,1B,-,,,,,,0,0,https://stats.ncaa.org/players/9692258
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9695867,43,Andre Ellis,Andre,Ellis,So.,,-,,RIGHT,RIGHT,,,0,0,https://stats.ncaa.org/players/9695867
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),11249405,33,Tanner Evans,Tanner,Evans,So.,P,-,,,,"Christiansbrg, VA",,1,0,https://stats.ncaa.org/players/11249405
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),11249405,33,Tanner Evans,Tanner,Evans,So.,P,-,,,,"Christiansbrg, VA",,3,0,https://stats.ncaa.org/players/11249405
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9702376,25,Chase Ford,Chase,Ford,So.,OF,6-0,,RIGHT,RIGHT,,,0,0,https://stats.ncaa.org/players/9702376
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9678063,35,Garrett Gargano,Garrett,Gargano,Sr.,OF,6-0,,RIGHT,RIGHT,,,0,0,https://stats.ncaa.org/players/9678063
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),11249404,10,Caleb Grizzard,Caleb,Grizzard,Jr.,P,6-0,,LEFT,RIGHT,"Chesterfield, VA",Cosby,1,0,https://stats.ncaa.org/players/11249404
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),11249404,10,Caleb Grizzard,Caleb,Grizzard,Jr.,P,6-0,,LEFT,RIGHT,"Chesterfield, VA",Cosby,3,0,https://stats.ncaa.org/players/11249404
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9702425,34,Christian Harris,Christian,Harris,Jr.,OF,5-10,,RIGHT,RIGHT,"Amherst, VA",Amherst,0,0,https://stats.ncaa.org/players/9702425
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9697168,31,Jake Harris,Jake,Harris,Jr.,C,6-0,,RIGHT,RIGHT,"Richmond, VA",Mills Godwin,2,2,https://stats.ncaa.org/players/9697168
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9697168,31,Jake Harris,Jake,Harris,Jr.,C,6-0,,RIGHT,RIGHT,"Richmond, VA",Mills Godwin,5,4,https://stats.ncaa.org/players/9697168
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9696204,33,Nick Harris,Nick,Harris,Sr.,P,5-9,,RIGHT,RIGHT,,,0,0,https://stats.ncaa.org/players/9696204
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9677161,17,Jack Hayes,Jack,Hayes,Jr.,INF,6-3,,LEFT,LEFT,"Ashburn, VA",Stone Bridge,1,0,https://stats.ncaa.org/players/9677161
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9685677,6,Bransen Hensley,Bransen,Hensley,So.,INF,5-11,,BOTH,RIGHT,,,4,4,https://stats.ncaa.org/players/9685677
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9701429,11,Trent Holland,Trent,Holland,Sr.,INF,6-0,,RIGHT,RIGHT,"Smithfield, VA",Isle of Wight Academy,4,4,https://stats.ncaa.org/players/9701429
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9677161,17,Jack Hayes,Jack,Hayes,Jr.,INF,6-3,,LEFT,LEFT,"Ashburn, VA",Stone Bridge,3,0,https://stats.ncaa.org/players/9677161
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9685677,6,Bransen Hensley,Bransen,Hensley,So.,INF,5-11,,BOTH,RIGHT,,,7,7,https://stats.ncaa.org/players/9685677
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9701429,11,Trent Holland,Trent,Holland,Sr.,INF,6-0,,RIGHT,RIGHT,"Smithfield, VA",Isle of Wight Academy,7,7,https://stats.ncaa.org/players/9701429
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9681084,46,Kevin Hugenberg,Kevin,Hugenberg,Jr.,P,5-10,,RIGHT,RIGHT,"Chesterfield, VA",Monacan,0,0,https://stats.ncaa.org/players/9681084
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9694926,3,Jaden Isidro,Jaden,Isidro,Sr.,P,6-0,,RIGHT,LEFT,,,1,1,https://stats.ncaa.org/players/9694926
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9690289,2,TJ Johnson,TJ,Johnson,Sr.,C,5-8,,RIGHT,RIGHT,,,1,1,https://stats.ncaa.org/players/9690289
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9684324,39,Cole Keel,Cole,Keel,Jr.,P,6-0,,RIGHT,RIGHT,"Leesburg, VA",Tuscarora,1,0,https://stats.ncaa.org/players/9684324
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9694168,47,Daniel Leale,Daniel,Leale,Jr.,OF,5-10,,LEFT,RIGHT,"Louisa, VA",Louisa,0,0,https://stats.ncaa.org/players/9694168
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9692363,99,Spencer Lloyd,Spencer,Lloyd,Jr.,P,6-0,,RIGHT,RIGHT,"Richmond, VA",Midlothian,1,0,https://stats.ncaa.org/players/9692363
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9692363,99,Spencer Lloyd,Spencer,Lloyd,Jr.,P,6-0,,RIGHT,RIGHT,"Richmond, VA",Midlothian,3,0,https://stats.ncaa.org/players/9692363
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9686310,36,Ethan Loucks,Ethan,Loucks,Jr.,INF,6-0,,LEFT,RIGHT,"Richmond, VA",Benedictine,0,0,https://stats.ncaa.org/players/9686310
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9698537,48,Chad Martin,Chad,Martin,So.,P,6-2,,LEFT,LEFT,,,1,0,https://stats.ncaa.org/players/9698537
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9691682,37,Liam Moriarty,Liam,Moriarty,Jr.,P,6-1,,RIGHT,RIGHT,"Aldie, VA",Lightridge,0,0,https://stats.ncaa.org/players/9691682
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9689320,15,Cam Nuckols,Cam,Nuckols,Sr.,P,6-4,,RIGHT,RIGHT,"Chesterfield, VA",St. Christopher's School,1,1,https://stats.ncaa.org/players/9689320
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9689320,15,Cam Nuckols,Cam,Nuckols,Sr.,P,6-4,,RIGHT,RIGHT,"Chesterfield, VA",St. Christopher's School,2,2,https://stats.ncaa.org/players/9689320
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),11251862,37,Chase Obstgarten,Chase,Obstgarten,Fr.,1B,-,,,,,,2,0,https://stats.ncaa.org/players/11251862
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9677636,21,Bailey Peek,Bailey,Peek,So.,P,-,,,,,,0,0,https://stats.ncaa.org/players/9677636
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9698807,45,Eli Pratt,Eli,Pratt,Jr.,C,6-1,,RIGHT,RIGHT,"Mechanicsburg, PA",Mechanicsburg,0,0,https://stats.ncaa.org/players/9698807
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9698807,45,Eli Pratt,Eli,Pratt,Jr.,C,6-1,,RIGHT,RIGHT,"Mechanicsburg, PA",Mechanicsburg,1,0,https://stats.ncaa.org/players/9698807
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9693787,99,Dawson Russell,Dawson,Russell,Sr.,C,6-0,,LEFT,RIGHT,,,0,0,https://stats.ncaa.org/players/9693787
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9685278,23,Spencer Sigmon,Spencer,Sigmon,Sr.,C,5-11,,RIGHT,RIGHT,,,2,1,https://stats.ncaa.org/players/9685278
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9687927,7,Ashton Smith,Ashton,Smith,Jr.,1B,5-11,,RIGHT,RIGHT,"Chesapeake, VA",Hickory,4,4,https://stats.ncaa.org/players/9687927
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9690656,8,Nick Stavros,Nick,Stavros,Sr.,INF,5-8,,LEFT,RIGHT,"Stony Point, NY",Bergen Catholic,4,4,https://stats.ncaa.org/players/9690656
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9697908,9,Isaac Sumpter,Isaac,Sumpter,Sr.,INF,5-11,,RIGHT,RIGHT,"Charlottesville, VA",Western Albemarle,1,0,https://stats.ncaa.org/players/9697908
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9677227,20,Bryce Suters,Bryce,Suters,Sr.,OF,6-2,,RIGHT,RIGHT,,,4,4,https://stats.ncaa.org/players/9677227
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9685278,23,Spencer Sigmon,Spencer,Sigmon,Sr.,C,5-11,,RIGHT,RIGHT,,,4,2,https://stats.ncaa.org/players/9685278
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9687927,7,Ashton Smith,Ashton,Smith,Jr.,1B,5-11,,RIGHT,RIGHT,"Chesapeake, VA",Hickory,7,7,https://stats.ncaa.org/players/9687927
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9690656,8,Nick Stavros,Nick,Stavros,Sr.,INF,5-8,,LEFT,RIGHT,"Stony Point, NY",Bergen Catholic,7,7,https://stats.ncaa.org/players/9690656
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9697908,9,Isaac Sumpter,Isaac,Sumpter,Sr.,INF,5-11,,RIGHT,RIGHT,"Charlottesville, VA",Western Albemarle,2,0,https://stats.ncaa.org/players/9697908
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9677227,20,Bryce Suters,Bryce,Suters,Sr.,OF,6-2,,RIGHT,RIGHT,,,7,7,https://stats.ncaa.org/players/9677227
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9697343,30,Luke Tomajczyk,Luke,Tomajczyk,Sr.,OF,6-2,,RIGHT,RIGHT,,,1,0,https://stats.ncaa.org/players/9697343
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9699212,21,Gary Tompkins,Gary,Tompkins,So.,P,6-3,,RIGHT,RIGHT,,,1,0,https://stats.ncaa.org/players/9699212
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9699212,21,Gary Tompkins,Gary,Tompkins,So.,P,6-3,,RIGHT,RIGHT,,,3,0,https://stats.ncaa.org/players/9699212
 2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9682357,44,Tyler Truslow,Tyler,Truslow,So.,P,6-6,,,RIGHT,,,0,0,https://stats.ncaa.org/players/9682357
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9684169,12,Chandler Valbak,Chandler,Valbak,Jr.,,6-3,,RIGHT,RIGHT,"Ashburn, VA",Stone Bridge,4,4,https://stats.ncaa.org/players/9684169
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),11249093,1,J. Walter,J.,Walter,---,cf,-,,,,,,4,4,https://stats.ncaa.org/players/11249093
-2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9676892,27,Eli Weese,Eli,Weese,So.,INF,5-9,,RIGHT,RIGHT,,,0,0,https://stats.ncaa.org/players/9676892
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9684169,12,Chandler Valbak,Chandler,Valbak,Jr.,,6-3,,RIGHT,RIGHT,"Ashburn, VA",Stone Bridge,7,7,https://stats.ncaa.org/players/9684169
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),11249093,1,Jakson Walter,Jakson,Walter,Fr.,1B,-,,,,,,7,7,https://stats.ncaa.org/players/11249093
+2026,2025-26,MBA,3,III,ODAC,75,Bridgewater (VA),9676892,27,Eli Weese,Eli,Weese,So.,INF,5-9,,RIGHT,RIGHT,,,1,0,https://stats.ncaa.org/players/9676892

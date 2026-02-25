@@ -1,0 +1,90 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,1,top,J. Ponce struck out looking.,1,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,1,top,B. Woodburn singled to left field.,2,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,1,top,J. Evans popped up to 2b.,3,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,1,top,J. Books popped up to lf.,4,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,1,bot,J. Clark singled to right field.,5,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,1,bot,S. Stargell popped up to 2b.,6,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,1,bot,J. Clark advanced to second on a wild pitch.,7,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,1,bot,J. Sandoval struck out swinging.,8,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,1,bot,C. Hicks grounded out to p.,9,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,2,top,J. Irigoyen singled to center field.,10,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,2,top,W. Vanecek flied into double play cf; J. Irigoyen out on the play.,11,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,2,top,G. Carlson walked.,12,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,2,top,J. Soto reached on a fielder's choice; G. Carlson out at second ss to 2b.,13,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,2,bot,T. Tucker singled to right field.,14,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,2,bot,H. Smith grounded into double play ss to 1b; T. Tucker out on the play.,15,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,2,bot,J. Ramos out at first 2b to p.,16,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,3,top,A. Graham singled to center field.,17,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,3,top,J. Ponce popped up to 3b.,18,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,3,top,B. Woodburn grounded out to ss; A. Graham advanced to second.,19,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,3,top,J. Evans fouled out to 1b.,20,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,3,bot,G. Jusino singled to left center.,21,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,3,bot,K. Claringto struck out swinging.,22,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,3,bot,J. Clark singled to left field; G. Jusino advanced to second.,23,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,3,bot,S. Stargell walked; J. Clark advanced to second; G. Jusino advanced to third.,24,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,3,bot,"J. Sandoval singled to left field, 2 RBI; S. Stargell advanced to second; J. Clark scored; G. Jusino scored.",25,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,3,bot,C. Hicks grounded into double play ss to 2b to 1b; J. Sandoval out on the play.,26,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,4,top,N. Brown to p for S. Urso.,27,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,4,top,J. Books grounded out to ss.,28,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,4,top,J. Irigoyen flied out to cf.,29,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,4,top,W. Vanecek struck out looking.,30,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,4,bot,K. Robinson to p for T. Moran.,31,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,4,bot,T. Tucker singled to right field.,32,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,4,bot,H. Smith struck out swinging.,33,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,4,bot,J. Ramos singled to shortstop; T. Tucker advanced to second.,34,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,4,bot,G. Jusino walked; J. Ramos advanced to second; T. Tucker advanced to third.,35,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,4,bot,"K. Claringto singled to left center, 2 RBI; G. Jusino advanced to second; J. Ramos scored; T. Tucker scored.",36,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,4,bot,J. Clark grounded out to ss; K. Claringto advanced to second; G. Jusino advanced to third.,37,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,4,bot,S. Stargell struck out looking.,38,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,5,top,J. Krutchik to p for N. Brown.,39,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,5,top,G. Carlson singled to right field.,40,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,5,top,J. Soto singled to left field; G. Carlson advanced to second.,41,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,5,top,A. Graham struck out swinging.,42,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,5,top,J. Ponce grounded out to 1b unassisted; J. Soto advanced to second; G. Carlson advanced to third.,43,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,5,top,B. Woodburn popped up to ss.,44,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,5,bot,J. Velazquez to p for K. Robinson.,45,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,5,bot,J. Sandoval grounded out to p.,46,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,5,bot,C. Hicks struck out swinging.,47,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,5,bot,T. Tucker flied out to cf.,48,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,6,top,G. Tomlins to p for J. Krutchik.,49,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,6,top,J. Evans flied out to rf.,50,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,6,top,J. Books flied out to cf.,51,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,6,top,J. Irigoyen singled to left field.,52,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,6,top,W. Vanecek singled to left field; J. Irigoyen advanced to second.,53,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,6,top,W. Vanecek advanced to second on a balk; J. Irigoyen advanced to third on a balk.,54,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,6,top,G. Carlson struck out looking.,55,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,6,bot,H. Smith grounded out to 3b.,56,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,6,bot,J. Ramos struck out swinging.,57,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,6,bot,G. Jusino grounded out to 3b.,58,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,7,top,A. Turner to p for G. Tomlins.,59,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,7,top,J. Soto popped up to ss.,60,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,7,top,A. Graham flied out to lf.,61,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,7,top,J. Ponce walked.,62,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,7,top,B. Woodburn flied out to lf.,63,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,7,bot,C. Drohan to p for J. Velazquez.,64,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,7,bot,K. Claringto grounded out to 3b.,65,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,7,bot,J. Clark flied out to lf.,66,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,7,bot,S. Stargell singled to right field.,67,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,7,bot,S. Stargell stole second.,68,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,7,bot,S. Stargell stole third.,69,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,7,bot,J. Sandoval walked.,70,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,7,bot,C. Hicks reached on a fielder's choice; J. Sandoval out at second ss to 2b.,71,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,8,top,A. McCormack to p for A. Turner.,72,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,8,top,J. Evans popped up to ss.,73,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,8,top,J. Books fouled out to 3b.,74,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,8,top,J. Irigoyen flied out to lf.,75,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,8,bot,T. Tucker grounded out to 2b.,76,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,8,bot,J. Grier pinch hit for H. Smith.,77,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,8,bot,J. Grier singled to right field.,78,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,8,bot,J. Ramos reached first on an error by ss; J. Grier advanced to third.,79,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,8,bot,G. Jusino hit by pitch; J. Ramos advanced to second.,80,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,8,bot,"K. Claringto reached on a fielder's choice, RBI; G. Jusino advanced to third; J. Ramos advanced to third, out at home c to p; J. Grier scored.",81,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,8,bot,"J. Clark doubled, 2 RBI; K. Claringto scored; G. Jusino scored.",82,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,614997,8,bot,S. Stargell fouled out to 1b.,83,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,9,top,J. Grier to rf.,84,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,9,top,W. Vanecek singled to left field.,85,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,9,top,G. Carlson singled to center field; W. Vanecek advanced to second.,86,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,9,top,J. Soto struck out swinging.,87,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,9,top,A. Graham struck out looking.,88,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026
+6486183,615087,Tampa Spartans,614997,Savannah St. Tigers,615087,9,top,J. Ponce popped up to ss.,89,2026-02-24T14:00:00-05:00,"Tiger Field (Savannah, GA)",77,MBA,2026

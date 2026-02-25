@@ -1,31 +1,32 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9695822,5,Chad Atchley,Chad,Atchley,So.,C,6-0,,RIGHT,RIGHT,,,1,1,https://stats.ncaa.org/players/9695822
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212939,32,Keeton Bach,Keeton,Bach,Fr.,P,-,,RIGHT,RIGHT,"Augusta, KY",Augusta High School,0,0,https://stats.ncaa.org/players/11212939
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9688290,7,Drew Barth,Drew,Barth,So.,C,6-2,,RIGHT,RIGHT,"Fort Thomas, KY",Highlands,0,0,https://stats.ncaa.org/players/9688290
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9684740,17,Ian Bierbaum,Ian,Bierbaum,Sr.,P,5-11,,LEFT,LEFT,"Cincinnati, OH",LaSalle,0,0,https://stats.ncaa.org/players/9684740
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212930,9,Theodore Bosio,Theodore,Bosio,Fr.,INF,-,,RIGHT,RIGHT,"Grand Rapids, MI",Forest Hills Northern HS,1,1,https://stats.ncaa.org/players/11212930
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9698812,10,Logan Cones,Logan,Cones,So.,P,6-1,,RIGHT,RIGHT,"Independence, KY",Simon Kenton,0,0,https://stats.ncaa.org/players/9698812
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9690175,6,Ty Cunningham,Ty,Cunningham,Jr.,OF,6-2,,LEFT,RIGHT,"Fairfield, OH",Fairfield,1,1,https://stats.ncaa.org/players/9690175
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9680199,28,Drew Edrich,Drew,Edrich,So.,UT,5-11,,RIGHT,RIGHT,"Cleves, OH",Elder,0,0,https://stats.ncaa.org/players/9680199
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212928,8,Adam Forton,Adam,Forton,Fr.,INF,-,,RIGHT,RIGHT,"Fort Thomas, KY",Highlands High School,0,0,https://stats.ncaa.org/players/11212928
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212935,23,Jack Geers,Jack,Geers,Fr.,INF,-,,RIGHT,RIGHT,"Harrison, OH",William Henry Harrison HS,1,1,https://stats.ncaa.org/players/11212935
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212938,31,Will Harrison,Will,Harrison,Fr.,P,-,,RIGHT,RIGHT,"Nicholasville, KY",East Jessamine High School,0,0,https://stats.ncaa.org/players/11212938
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212933,18,Ayden Holden,Ayden,Holden,Fr.,INF,-,,RIGHT,RIGHT,"Williamsburg, OH",Williamsburg High School,0,0,https://stats.ncaa.org/players/11212933
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9683430,16,Gunner Kalkhoff,Gunner,Kalkhoff,Sr.,1B,6-2,,RIGHT,RIGHT,"Cincinnati, OH",LaSalle,1,1,https://stats.ncaa.org/players/9683430
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9703753,34,Nolan Krekeler,Nolan,Krekeler,Jr.,UT,6-1,,LEFT,RIGHT,"Loveland, OH",Moeller,1,1,https://stats.ncaa.org/players/9703753
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212940,33,Chase Maggard,Chase,Maggard,Fr.,P,-,,LEFT,LEFT,"Hamilton, OH",Stephen T Badin High School,0,0,https://stats.ncaa.org/players/11212940
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9695822,5,Chad Atchley,Chad,Atchley,So.,C,6-0,,RIGHT,RIGHT,,,2,2,https://stats.ncaa.org/players/9695822
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212939,32,Keeton Bach,Keeton,Bach,Fr.,P,-,,RIGHT,RIGHT,"Augusta, KY",Augusta High School,1,0,https://stats.ncaa.org/players/11212939
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9688290,7,Drew Barth,Drew,Barth,So.,C,6-2,,RIGHT,RIGHT,"Fort Thomas, KY",Highlands,3,2,https://stats.ncaa.org/players/9688290
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9684740,17,Ian Bierbaum,Ian,Bierbaum,Sr.,P,5-11,,LEFT,LEFT,"Cincinnati, OH",LaSalle,1,0,https://stats.ncaa.org/players/9684740
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212930,9,Theodore Bosio,Theodore,Bosio,Fr.,INF,-,,RIGHT,RIGHT,"Grand Rapids, MI",Forest Hills Northern HS,4,4,https://stats.ncaa.org/players/11212930
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9698812,10,Logan Cones,Logan,Cones,So.,P,6-1,,RIGHT,RIGHT,"Independence, KY",Simon Kenton,1,1,https://stats.ncaa.org/players/9698812
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9690175,6,Ty Cunningham,Ty,Cunningham,Jr.,OF,6-2,,LEFT,RIGHT,"Fairfield, OH",Fairfield,4,4,https://stats.ncaa.org/players/9690175
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9680199,28,Drew Edrich,Drew,Edrich,So.,UT,5-11,,RIGHT,RIGHT,"Cleves, OH",Elder,1,0,https://stats.ncaa.org/players/9680199
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212928,8,Adam Forton,Adam,Forton,Fr.,INF,-,,RIGHT,RIGHT,"Fort Thomas, KY",Highlands High School,1,0,https://stats.ncaa.org/players/11212928
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212935,23,Jack Geers,Jack,Geers,Fr.,INF,-,,RIGHT,RIGHT,"Harrison, OH",William Henry Harrison HS,4,4,https://stats.ncaa.org/players/11212935
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212938,31,Will Harrison,Will,Harrison,Fr.,P,-,,RIGHT,RIGHT,"Nicholasville, KY",East Jessamine High School,1,0,https://stats.ncaa.org/players/11212938
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212933,18,Ayden Holden,Ayden,Holden,Fr.,INF,-,,RIGHT,RIGHT,"Williamsburg, OH",Williamsburg High School,2,1,https://stats.ncaa.org/players/11212933
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9683430,16,Gunner Kalkhoff,Gunner,Kalkhoff,Sr.,1B,6-2,,RIGHT,RIGHT,"Cincinnati, OH",LaSalle,4,4,https://stats.ncaa.org/players/9683430
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9703753,34,Nolan Krekeler,Nolan,Krekeler,Jr.,UT,6-1,,LEFT,RIGHT,"Loveland, OH",Moeller,3,3,https://stats.ncaa.org/players/9703753
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212940,33,Chase Maggard,Chase,Maggard,Fr.,P,-,,LEFT,LEFT,"Hamilton, OH",Stephen T Badin High School,1,0,https://stats.ncaa.org/players/11212940
 2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212932,15,Ian Mann,Ian,Mann,Fr.,OF,-,,LEFT,RIGHT,"Newport, KY",Newport Central Catholic HS,0,0,https://stats.ncaa.org/players/11212932
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9690855,22,Noah McCarty,Noah,McCarty,Jr.,UT,5-11,,LEFT,RIGHT,"Louisville, KY",Christian Academy of Louisville,0,0,https://stats.ncaa.org/players/9690855
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11220875,36,Sean O'Donnell,Sean,O'Donnell,Fr.,OF,5-7,,RIGHT,RIGHT,"Pittsburgh, PA",North Allegheny,1,1,https://stats.ncaa.org/players/11220875
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9690855,22,Noah McCarty,Noah,McCarty,Jr.,UT,5-11,,LEFT,RIGHT,"Louisville, KY",Christian Academy of Louisville,1,0,https://stats.ncaa.org/players/9690855
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11220875,36,Sean O'Donnell,Sean,O'Donnell,Fr.,OF,5-7,,RIGHT,RIGHT,"Pittsburgh, PA",North Allegheny,4,4,https://stats.ncaa.org/players/11220875
 2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212941,42,Finn OKeefe,Finn,OKeefe,Fr.,P,-,,RIGHT,RIGHT,"Loveland, OH",Moeller High School,0,0,https://stats.ncaa.org/players/11212941
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212936,25,Jack Perdue,Jack,Perdue,Sr.,P,5-11,,RIGHT,RIGHT,"Louisville, KY",Christian Academy,0,0,https://stats.ncaa.org/players/11212936
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9683716,11,Riley Poston,Riley,Poston,Sr.,OF,5-10,,LEFT,LEFT,"Lancaster, OH",Lancaster,1,1,https://stats.ncaa.org/players/9683716
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9690339,12,Matt Resing,Matt,Resing,Jr.,OF,6-4,,RIGHT,RIGHT,"Independence, KY",St. Henry,1,1,https://stats.ncaa.org/players/9690339
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9694669,26,Kellen Sandhas,Kellen,Sandhas,Sr.,P,5-11,,LEFT,LEFT,"Cincinnati, OH",Elder,1,1,https://stats.ncaa.org/players/9694669
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9677266,2,Cameron Snider,Cameron,Snider,So.,P,6-1,,RIGHT,RIGHT,"Amelia, OH",Bethel-Tate,0,0,https://stats.ncaa.org/players/9677266
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11212936,25,Jack Perdue,Jack,Perdue,Sr.,P,5-11,,RIGHT,RIGHT,"Louisville, KY",Christian Academy,1,1,https://stats.ncaa.org/players/11212936
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9683716,11,Riley Poston,Riley,Poston,Sr.,OF,5-10,,LEFT,LEFT,"Lancaster, OH",Lancaster,4,4,https://stats.ncaa.org/players/9683716
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9690339,12,Matt Resing,Matt,Resing,Jr.,OF,6-4,,RIGHT,RIGHT,"Independence, KY",St. Henry,4,4,https://stats.ncaa.org/players/9690339
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,11253965,38,Ryan Reynolds,Ryan,Reynolds,Jr.,C,-,,,,"Cincinnati, OH",LaSalle,0,0,https://stats.ncaa.org/players/11253965
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9694669,26,Kellen Sandhas,Kellen,Sandhas,Sr.,P,5-11,,LEFT,LEFT,"Cincinnati, OH",Elder,2,1,https://stats.ncaa.org/players/9694669
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9677266,2,Cameron Snider,Cameron,Snider,So.,P,6-1,,RIGHT,RIGHT,"Amelia, OH",Bethel-Tate,2,0,https://stats.ncaa.org/players/9677266
 2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9677802,14,Tony Spangler,Tony,Spangler,Sr.,P,6-6,,LEFT,LEFT,"Springboro, OH",Springboro,0,0,https://stats.ncaa.org/players/9677802
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9680531,21,Joe Stone,Joe,Stone,So.,P,6-1,,RIGHT,RIGHT,"Waynesville, OH",Waynesville,0,0,https://stats.ncaa.org/players/9680531
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9702866,30,Garrett Taulbee,Garrett,Taulbee,Sr.,P,6-2,,RIGHT,RIGHT,,Felicity Franklin,1,0,https://stats.ncaa.org/players/9702866
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9676872,3,Dylan Thompson,Dylan,Thompson,So.,P,5-2,,RIGHT,RIGHT,"Cincinnati, OH",St. Xavier,0,0,https://stats.ncaa.org/players/9676872
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9680531,21,Joe Stone,Joe,Stone,So.,P,6-1,,RIGHT,RIGHT,"Waynesville, OH",Waynesville,1,1,https://stats.ncaa.org/players/9680531
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9702866,30,Garrett Taulbee,Garrett,Taulbee,Sr.,P,6-2,,RIGHT,RIGHT,,Felicity Franklin,2,0,https://stats.ncaa.org/players/9702866
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9676872,3,Dylan Thompson,Dylan,Thompson,So.,P,5-2,,RIGHT,RIGHT,"Cincinnati, OH",St. Xavier,1,0,https://stats.ncaa.org/players/9676872
 2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9703953,13,Cody Watkins,Cody,Watkins,Sr.,P,6-0,,LEFT,LEFT,"Cincinnati, OH",Lakota East,0,0,https://stats.ncaa.org/players/9703953
-2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9682034,3,Aaron Wichmann,Aaron,Wichmann,So.,P,-,,LEFT,LEFT,,,1,0,https://stats.ncaa.org/players/9682034
+2026,2025-26,MBA,2,II,G-MAC,1402,Thomas More,9682034,3,Aaron Wichmann,Aaron,Wichmann,So.,P,-,,LEFT,LEFT,,,2,0,https://stats.ncaa.org/players/9682034
