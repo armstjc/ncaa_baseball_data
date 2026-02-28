@@ -1,0 +1,87 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,1,top,L. Irving grounded out to p.,1,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,1,top,Z. Miner struck out looking.,2,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,1,top,R. Cochran grounded out to ss.,3,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,1,bot,M. Buck lined out to lf.,4,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,1,bot,J. Pettit flied out to cf.,5,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,1,bot,C. Pleimann singled to first base.,6,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,1,bot,"C. Pleimann advanced to second on a wild pitch, advanced to third.",7,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,1,bot,"B. Hadley singled to shortstop, RBI3a C. Pleimann scored.",8,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,1,bot,F. Lavin flied out to rf.,9,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,2,top,N. Banez walked.,10,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,2,top,"W. Burchill grounded out to p, SAC, bunt3a N. Banez advanced to second.",11,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,2,top,"N. Banez advanced to third on a throwing error by p, failed pickoff attempt.",12,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,2,top,N. Philson struck out swinging.,13,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,2,top,"N. Banez scored on a wild pitch, unearned.",14,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,2,top,T. Skaggs walked.,15,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,2,top,T. Eberhardt reached on a fielder's choice to shortstop3a T. Skaggs out at second ss to 2b.,16,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,2,bot,K. Kreafle walked.,17,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,2,bot,C. Woodside struck out looking.,18,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,2,bot,B. Goldman popped up to 1b.,19,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,2,bot,C. Keesler walked3a K. Kreafle advanced to second.,20,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,2,bot,M. Buck walked3a C. Keesler advanced to second3a K. Kreafle advanced to third.,21,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,2,bot,"J. Pettit walked, RBI3a M. Buck advanced to second3a C. Keesler advanced to third3a K. Kreafle scored.",22,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,2,bot,"C. Pleimann reached on a fielding error by 3b3a J. Pettit advanced to second3a M. Buck advanced to third3a C. Keesler scored, unearned.",23,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,2,bot,B. Hadley flied out to rf.,24,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,3,top,C. Kunkle walked.,25,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,3,top,L. Irving grounded into double play ss to 2b to 1b3a C. Kunkle out on the play.,26,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,3,top,Z. Miner doubled to center field.,27,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,3,top,R. Cochran struck out swinging.,28,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,3,bot,F. Lavin grounded out to 3b.,29,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,3,bot,K. Kreafle grounded out to ss.,30,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,3,bot,C. Woodside grounded out to 3b.,31,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,4,top,N. Banez singled to left field.,32,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,4,top,J. Utsch to p for K. Steel.,33,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,4,top,W. Burchill doubled to left field3a N. Banez advanced to third.,34,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,4,top,N. Philson flied out to lf.,35,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,4,top,"T. Skaggs doubled to right field, advanced to third on the throw, 2 RBI3a W. Burchill scored3a N. Banez scored.",36,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,4,top,T. Eberhardt struck out looking.,37,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,4,top,C. Kunkle fouled out to rf.,38,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,4,bot,B. Goldman grounded out to 2b.,39,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,4,bot,C. Keesler walked.,40,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,4,bot,"M. Buck doubled to center field, RBI3a C. Keesler scored.",41,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,4,bot,C. Litman to p for P. McRay.,42,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,4,bot,"J. Pettit struck out swinging, reached first on a wild pitch3a M. Buck advanced to third.",43,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,4,bot,"C. Pleimann reached on a fielding error by ss, RBI3a J. Pettit advanced to second3a M. Buck scored.",44,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,4,bot,"B. Hadley doubled to center field, RBI3a C. Pleimann advanced to third3a J. Pettit scored.",45,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,4,bot,"F. Lavin singled to center field, 2 RBI3a B. Hadley scored3a C. Pleimann scored, unearned.",46,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,4,bot,K. Kreafle walked3a F. Lavin advanced to second.,47,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,4,bot,E. Belkin to p for C. Litman.,48,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,4,bot,K. Kreafle advanced to second3a F. Lavin advanced to third on a wild pitch.,49,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,4,bot,"C. Woodside doubled to center field, 2 RBI3a K. Kreafle scored3a F. Lavin scored.",50,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,4,bot,C. Woodside advanced to third on a wild pitch.,51,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,4,bot,B. Goldman hit by pitch.,52,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,4,bot,"C. Keesler grounded out to p, SAC, bunt3a B. Goldman advanced to second.",53,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,4,bot,M. Buck grounded out to ss.,54,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,5,top,B. Stutz to p for J. Utsch.,55,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,5,top,L. Irving walked.,56,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,5,top,Z. Miner lined out to lf.,57,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,5,top,R. Cochran flied out to lf.,58,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,5,top,"L. Irving stole second, advanced to third on an error by ss.",59,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,5,top,N. Banez struck out swinging.,60,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,5,bot,J. Leboeuf to c for T. Skaggs.,61,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,5,bot,R. Finamore to p for E. Belkin.,62,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,5,bot,J. Pettit walked.,63,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,5,bot,C. Pleimann walked3a J. Pettit advanced to second.,64,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,5,bot,B. Hadley grounded into double play ss to 2b to 1b3a C. Pleimann out on the play3a J. Pettit advanced to third.,65,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,5,bot,"J. Pettit scored on a passed ball, unearned.",66,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,5,bot,F. Lavin grounded out to ss.,67,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,6,top,W. Burchill walked.,68,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,6,top,N. Philson grounded into double play ss to 2b to 1b3a W. Burchill out on the play.,69,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,6,top,J. Leboeuf struck out swinging.,70,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,6,bot,K. Kreafle singled to center field.,71,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,6,bot,C. Woodside singled to center field3a K. Kreafle advanced to second.,72,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,6,bot,B. Goldman struck out swinging.,73,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,6,bot,C. Keesler flied out to cf.,74,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,6,bot,C. Woodside advanced to second3a K. Kreafle advanced to third on a wild pitch.,75,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,6,bot,M. Buck lined out to cf.,76,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,7,top,T. Eberhardt flied out to cf.,77,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,7,top,C. Kunkle singled to center field.,78,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,7,top,L. Irving flied out to lf.,79,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615142,7,top,Z. Miner struck out swinging.,80,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,7,bot,I. Schuster to 3b for Z. Miner.,81,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,7,bot,T. Hopkins to p for R. Finamore.,82,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,7,bot,J. Pettit singled to left field.,83,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,7,bot,"C. Pleimann doubled to center field, advanced to third on the throw, RBI3a J. Pettit scored.",84,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,7,bot,B. Hadley flied out to cf.,85,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
+6513245,615142,Allegheny Gators,615344,St. Olaf Oles,615344,7,bot,"F. Lavin homered to right field, 2 RBI3a C. Pleimann scored.",86,2026-02-27T00:00:00-05:00,"Davenport, FL",28,MBA,2026
