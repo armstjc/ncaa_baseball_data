@@ -1,0 +1,107 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,1,top,"Thorsen,Matt singled to center field (0-1 S).",1,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,1,top,"Bergamotto,Nick grounded out to short, ss to 1b (3-1 BBBK)3a Thorsen,Matt advanced to second base.",2,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,1,top,"Paradine,Aidan grounded out to short, ss to 1b (2-1 BBS)3a Thorsen,Matt advanced to third base.",3,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,1,top,"Lynch,Scott walked (3-1 BBBKB).",4,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,1,top,"Lynch,Scott advanced to second base on a wild pitch3a Thorsen,Matt scored on a wild pitch.",5,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,1,top,"Thorburn,Gavin walked (3-1 BKBBB).",6,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,1,top,"Hambly,Cole doubled to center field, 2RBI (3-2 BKBFB)3a Lynch,Scott scored from second base3a Thorburn,Gavin scored from first base.",7,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,1,top,"Percival,Louis walked (3-2 BKBBKB).",8,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,1,top,"Vandever,Cannon flied out to lf (1-1 KB).",9,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,1,bot,"Tirado,Anthony singled to right field (0-0).",10,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,1,bot,"Tirado,Anthony advanced to second base on a throwing error by Siciliano,David (E1), on a failed pickoff attempt.",11,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,1,bot,"Tirado,Anthony out at third base, 1b to 3b.",12,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,1,bot,"Travisano,Matt struck out looking (0-2 SSK).",13,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,1,bot,"OBrien,Gavin struck out swinging (1-2 BKSS).",14,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,2,top,"UMA pitching change: Sitarz,Gavin replaces Lee,Lorcan.",15,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,2,top,"DElia,Joe lined out to lf (3-2 BBBKK).",16,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,2,top,"Thorsen,Matt struck out swinging (1-2 KBSS).",17,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,2,top,"Bergamotto,Nick walked (3-1 BKBBB).",18,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,2,top,"Paradine,Aidan fouled out to the catcher (0-0).",19,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,2,bot,"McCarthy,Reece struck out swinging (0-2 FSS).",20,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,2,bot,"Beverly,Jack grounded out to third base, 3b to 1b (3-2 BSKBB).",21,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,2,bot,"Fox,Ty grounded out to second base, 2b to 1b (0-1 S).",22,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,3,top,"Lynch,Scott struck out looking (3-2 KBFBBFK).",23,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,3,top,"Thorburn,Gavin grounded out to short, ss to 1b (2-1 BKB).",24,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,3,top,"Hambly,Cole grounded out to first base, unassisted (0-1 K).",25,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,3,bot,"Sullivan,Braden walked (3-2 BBBKSB).",26,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,3,bot,"Sullivan,Braden stole second base.",27,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,3,bot,"Kolben,Ryan struck out looking (0-2 KKK).",28,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,3,bot,"Sullivan,Braden advanced to third base on a throwing error by Paradine,Aidan (E2).",29,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,3,bot,"Bonior,Vance grounded out to the left side of the infield, 3b to ss to 1b, RBI (3-2 BFBBSF)3a Sullivan,Braden scored, unearned.",30,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,3,bot,"Tirado,Anthony grounded out to first base, 1b to p (3-1 BBBK).",31,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,4,top,"UMA pitching change: Goodman,Michael replaces Sitarz,Gavin.",32,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,4,top,"Percival,Louis hit by pitch (1-1 KBB).",33,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,4,top,"Vandever,Cannon popped up to first base (0-2 FF).",34,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,4,top,"DElia,Joe grounded out to the pitcher, p to 1b (1-2 BFF)3a Percival,Louis advanced to second base.",35,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,4,top,"Thorsen,Matt walked (3-0 BBBB).",36,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,4,top,"Bergamotto,Nick singled to center field (0-1 K)3a Thorsen,Matt out at third base, cf to 3b.",37,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,4,bot,"Travisano,Matt grounded out to third base, 3b to 1b (1-1 KB).",38,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,4,bot,"OBrien,Gavin walked (3-2 BKFBBB).",39,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,4,bot,"McCarthy,Reece hit by pitch (2-0 BBB)3a OBrien,Gavin advanced to second base.",40,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,4,bot,Mound visit (SIE),41,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,4,bot,"Beverly,Jack singled (1-2 KFB)3a OBrien,Gavin advanced to third base3a McCarthy,Reece advanced to second base.",42,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,4,bot,"Fox,Ty walked, RBI (3-2 FBBBFB)3a OBrien,Gavin scored3a McCarthy,Reece advanced to third base3a Beverly,Jack advanced to second base.",43,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,4,bot,"Sullivan,Braden struck out swinging (1-2 BKFS).",44,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,4,bot,"Kolben,Ryan tripled, 3RBI (0-2 KS)3a McCarthy,Reece scored3a Beverly,Jack scored from second base3a Fox,Ty scored from first base.",45,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,4,bot,"Bonior,Vance popped up to left center putout by ss (0-1 F).",46,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,5,top,"Paradine,Aidan singled to right field (1-0 B).",47,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,5,top,"Lynch,Scott walked (3-1 BBBKB)3a Paradine,Aidan advanced to second base.",48,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,5,top,"Thorburn,Gavin sacrifice bunt to the infield, p to 1b (0-0)3a Paradine,Aidan advanced to third base3a Lynch,Scott advanced to second base.",49,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,5,top,"Hambly,Cole singled to left field, RBI (0-0)3a Paradine,Aidan scored3a Lynch,Scott advanced to third base.",50,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,5,top,"Percival,Louis singled to right field, RBI (0-1 K)3a Lynch,Scott scored3a Hambly,Cole advanced to second base.",51,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,5,top,"Vandever,Cannon flied out to cf (0-2 FS)3a Hambly,Cole advanced to third base.",52,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,5,top,"DElia,Joe doubled to left field, RBI (0-0)3a Hambly,Cole scored3a Percival,Louis advanced from first base to third base.",53,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,5,top,"UMA pitching change: Thomason,Ben replaces Goodman,Michael.",54,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,5,top,Mound visit (UMA),55,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,5,top,"Thorsen,Matt popped up to second base (1-1 KB).",56,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,5,bot,"SIE pitching change: Lundari,Ryan replaces Siciliano,David.",57,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,5,bot,"Tirado,Anthony singled to right field (0-1 K).",58,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,5,bot,"Tirado,Anthony stole second base.",59,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,5,bot,"Travisano,Matt lined out to lf (0-2 SK).",60,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,5,bot,"OBrien,Gavin walked (3-2 SBBSBFB).",61,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,5,bot,"McCarthy,Reece grounded into double play to second base, unassisted (0-0)3a OBrien,Gavin out at 2B on the play, 2b to 1b.",62,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,6,top,"Bergamotto,Nick flied out to rf (2-2 BBKKF).",63,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,6,top,"Paradine,Aidan flied out to rf (0-0).",64,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,6,top,"Lynch,Scott flied out to rf (0-2 KKF).",65,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,6,bot,"Beverly,Jack grounded out to third base, 3b to 1b (3-2 KBBFFB).",66,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,6,bot,"Fox,Ty flied out to rf (0-0).",67,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,6,bot,"Sullivan,Braden struck out swinging (2-2 BKBFFFFS).",68,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,7,top,"Thorburn,Gavin walked (3-1 BBKBB).",69,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,7,top,"Hambly,Cole lined into double play to the pitcher (1-2 SKBF)3a Thorburn,Gavin out at 1B on the play, p to 1b.",70,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,7,top,"Percival,Louis struck out swinging (1-2 KBSS).",71,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,7,bot,"Kolben,Ryan struck out (0-3 KKK).",72,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,7,bot,"Bonior,Vance flied out to cf (2-2 BBKS).",73,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,7,bot,"Tirado,Anthony hit by pitch (1-0 BB).",74,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,7,bot,"Travisano,Matt singled (0-1 K)3a Tirado,Anthony advanced from first base to third base3a Travisano,Matt advanced to second base.",75,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,7,bot,"OBrien,Gavin doubled, 2RBI (2-2 BBKS)3a Tirado,Anthony scored3a Travisano,Matt scored from second base.",76,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,7,bot,"McCarthy,Reece singled (1-2 KBS)3a OBrien,Gavin out at home, lf to c.",77,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,8,top,"UMA pitching change: Merritt,Adam replaces Thomason,Ben.",78,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,8,top,"SIE substitution: Sparks,Jake pinch hitting for Vandever,Cannon.",79,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,8,top,"Sparks,Jake doubled (1-2 KBS).",80,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,8,top,"DElia,Joe walked (3-0 BBBB).",81,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,8,top,"DElia,Joe advanced to second base on a balk3a Sparks,Jake advanced to third base on a balk.",82,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,8,top,"Thorsen,Matt singled, RBI (0-1 F)3a Sparks,Jake scored3a DElia,Joe advanced to third base.",83,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,8,top,"Thorsen,Matt stole second base.",84,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,8,top,"Bergamotto,Nick singled (1-2 BKS).",85,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,8,top,"Paradine,Aidan struck out looking (2-2 KFBBK).",86,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,8,top,"Lynch,Scott struck out swinging (3-2 BFFBBS).",87,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,8,top,"Thorburn,Gavin singled to right field, 2RBI (1-2 FKBF)3a DElia,Joe scored3a Thorsen,Matt scored from second base3a Bergamotto,Nick advanced to second base.",88,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,8,top,"Hambly,Cole struck out swinging (1-2 FBSFS).",89,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,8,bot,"SIE position change: Sparks,Jake remains in the game at ss",90,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,8,bot,"Beverly,Jack struck out swinging (1-2 FBKS).",91,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,8,bot,"Fox,Ty walked (3-2 BBFBFB).",92,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,8,bot,"Sullivan,Braden singled to center field (0-2 KF)3a Fox,Ty advanced to second base.",93,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,8,bot,"Kolben,Ryan lined into double play to short (0-2 SK)3a Fox,Ty out at 2B on the play, ss to 2b.",94,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,9,top,"UMA pitching change: Niedringhaus,Jack replaces Merritt,Adam.",95,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,9,top,"Percival,Louis struck out swinging (2-2 SBKBS).",96,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,9,top,"Sparks,Jake lined out to lf (1-1 BK).",97,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614736,9,top,"DElia,Joe grounded out to the pitcher, unassisted (3-2 BBSKB).",98,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,9,bot,"SIE pitching change: Murtagh,Matt replaces Lundari,Ryan.",99,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,9,bot,"Bonior,Vance struck out swinging (1-2 FBKS).",100,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,9,bot,"Tirado,Anthony singled to left field (0-2 KF).",101,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,9,bot,"Travisano,Matt walked (3-0 BBBB)3a Tirado,Anthony advanced to second base.",102,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,9,bot,"UMA substitution: May,Randen pinch running for Travisano,Matt.",103,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,9,bot,"OBrien,Gavin flied out to right center putout by rf (0-1 K).",104,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,9,bot,"Tirado,Anthony advanced to third base on defensive indifference.",105,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026
+6534622,614736,Siena Saints,614656,Massachusetts Minutemen,614656,9,bot,"McCarthy,Reece struck out looking (1-2 KKBFFK).",106,2026-02-28T13:00:00-05:00,"Aberdeen, MD",0,MBA,2026

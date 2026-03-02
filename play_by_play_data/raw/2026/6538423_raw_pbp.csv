@@ -1,0 +1,105 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,1,top,"Swidorski,TJ struck out swinging (1-2 FFBFS).",1,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,1,top,"Carlson,Owen flied out to lf (0-0).",2,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,1,top,"Barela,Mason homered to left field, RBI (1-2 KSB).",3,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,1,top,"Wildman,Caden struck out swinging (1-2 SBSS).",4,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,1,bot,"Dosenbach,Trevor singled to center field (0-0).",5,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,1,bot,"Dosenbach,Trevor out at first base, p to 1b, picked off.",6,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,1,bot,"Winebrenner,Dylan popped up to 3b (0-1 K).",7,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,1,bot,"Elko,Michael struck out swinging (2-2 BSBSS).",8,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,2,top,"Hower,Jake reached on a fielding error fielding by 3b by Morris,Khris (E5) (1-2 SFBF).",9,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,2,top,"Hager,Kevin singled to shallow right field (1-0 B)3a Hower,Jake advanced to second base.",10,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,2,top,"Johnson,Luke lined out to the left side of the infield putout by ss (2-2 KBBKFFFF).",11,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,2,top,"Hower,Jake out caught stealing at third base, c to 3b.",12,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,2,top,"Barclay,Aiden struck out looking (1-2 BKSK).",13,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,2,bot,"Morris,Khris struck out swinging (1-2 SBFS).",14,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,2,bot,"Recio,Ryan singled through the left side of the infield (1-2 BSK).",15,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,2,bot,"Kennedy,Grant singled to center field (0-0)3a Recio,Ryan advanced to second base.",16,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,2,bot,"Schaller,Chris flied out to cf (1-0 B)3a Recio,Ryan advanced to third base.",17,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,2,bot,"Crenshaw,Joe singled to shallow left field, RBI (0-0)3a Recio,Ryan scored3a Kennedy,Grant advanced to second base.",18,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,2,bot,"Haught,Noah struck out swinging (0-2 SFS).",19,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,3,top,"Dillon,Ryan struck out swinging (2-2 BBSSS).",20,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,3,top,"Swidorski,TJ flied out to lf (0-0).",21,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,3,top,"Carlson,Owen lined out in first base side foul territory putout by 1b (0-1 K).",22,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,3,bot,"Dosenbach,Trevor flied out to rf (1-0 B).",23,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,3,bot,"Winebrenner,Dylan singled to shallow right field (0-0).",24,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,3,bot,"Winebrenner,Dylan advanced to second base on a wild pitch.",25,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,3,bot,"Elko,Michael lined out to second base (1-0 B).",26,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,3,bot,"Winebrenner,Dylan stole third base.",27,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,3,bot,"Morris,Khris walked (3-0 BBBB).",28,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,3,bot,"Recio,Ryan homered to deep center field, 3RBI (3-0 BBB)3a Winebrenner,Dylan scored3a Morris,Khris scored from first base.",29,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,3,bot,"Kennedy,Grant singled to right field (3-2 SKBFBFB).",30,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,3,bot,"Kennedy,Grant stole second base.",31,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,3,bot,"Schaller,Chris struck out looking (1-2 FBFFK).",32,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,4,top,"Barela,Mason flied out to rf (1-2 KFBFF).",33,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,4,top,"Wildman,Caden singled down the left field line (1-1 BS).",34,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,4,top,"Wildman,Caden stole second base.",35,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,4,top,"Hower,Jake grounded out to short, ss to 1b (2-2 BFFFB).",36,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,4,top,"Hager,Kevin lined out to third base (0-1 S).",37,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,4,bot,"Crenshaw,Joe grounded out to short, ss to 1b (2-2 BKSB).",38,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,4,bot,"Haught,Noah struck out swinging (2-2 BBSFS).",39,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,4,bot,"Dosenbach,Trevor grounded out to third base, 3b to 1b (1-0 B).",40,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,5,top,"Johnson,Luke grounded out, p to 1b (0-0).",41,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,5,top,"Barclay,Aiden doubled down the left field line (0-2 FF).",42,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,5,top,"Dillon,Ryan struck out swinging (1-2 BKSS).",43,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,5,top,"Swidorski,TJ grounded out to third base, 3b to 1b (0-0).",44,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,5,bot,"Winebrenner,Dylan walked (3-2 KBBSBB).",45,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,5,bot,"Elko,Michael sacrifice bunt to the infield, 3b to 1b (1-0 B)3a Winebrenner,Dylan advanced to second base.",46,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,5,bot,"COR pitching change: VanSice,Ethan replaces Holcombe,Huxley.",47,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,5,bot,"Morris,Khris struck out swinging (3-2 BFFBFBS).",48,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,5,bot,"Recio,Ryan flied out to left center putout by cf (2-2 BBKKF).",49,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,6,top,"RICH defensive substitution: Harvey,Noah replaces Haught,Noah at ss",50,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,6,top,"Carlson,Owen singled to center field (2-1 BFB).",51,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,6,top,"Barela,Mason singled to left field (1-2 KFB)3a Carlson,Owen advanced to second base.",52,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,6,top,"Wildman,Caden struck out swinging (3-2 BFSFBBS).",53,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,6,top,"Hower,Jake struck out swinging (0-2 KSS).",54,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,6,top,"Hager,Kevin singled to center field, RBI (0-0)3a Carlson,Owen scored from second base3a Barela,Mason advanced to second base.",55,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,6,top,"Johnson,Luke singled to left field (1-1 KB)3a Barela,Mason out at home, lf to 3b to c.",56,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,6,bot,"Kennedy,Grant singled in the infield, bunt (0-0)3a Kennedy,Grant advanced from to second base on a throwing error by Johnson,Luke (E5).",57,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,6,bot,"Schaller,Chris flied out to cf (1-0 B).",58,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,6,bot,"Kennedy,Grant advanced to third base on a wild pitch.",59,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,6,bot,"Crenshaw,Joe walked (3-2 SBBFBFB).",60,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,6,bot,"Crenshaw,Joe stole second base.",61,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,6,bot,"Harvey,Noah struck out swinging (2-2 SBFBS).",62,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,6,bot,"Dosenbach,Trevor walked (3-2 BBKBFB).",63,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,6,bot,"Winebrenner,Dylan struck out looking (1-2 BSSK).",64,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,7,top,"RICH pitching change: Topolski,Chase replaces Giordano,Joey.",65,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,7,top,"Barclay,Aiden singled to center field (2-2 FKBBF).",66,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,7,top,"Dillon,Ryan reached on a throwing error throwing by 3b by Morris,Khris (E5) (0-0)3a Barclay,Aiden advanced from first base to third base3a Dillon,Ryan advanced to second base.",67,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,7,top,"Swidorski,TJ struck out looking (1-2 KFBK).",68,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,7,top,"Carlson,Owen grounded out to first base, unassisted, RBI (0-1 S)3a Barclay,Aiden scored, unearned3a Dillon,Ryan advanced to third base.",69,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,7,top,"Barela,Mason struck out swinging (2-2 BKBSS).",70,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"Elko,Michael homered to deep left field, RBI (1-0 B).",71,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"Morris,Khris walked (3-1 BFBBB).",72,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"RICH substitution: Downs,Reid pinch running for Morris,Khris.",73,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"Downs,Reid advanced to second base on a throwing error by VanSice,Ethan (E1), on a failed pickoff attempt.",74,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"Recio,Ryan singled to left field (2-0 BB)3a Downs,Reid advanced to third base.",75,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"Recio,Ryan stole second base.",76,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"Kennedy,Grant singled down the right field line, RBI (1-0 B)3a Downs,Reid scored3a Recio,Ryan advanced to third base.",77,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"COR pitching change: Foster,Max replaces VanSice,Ethan.",78,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"Schaller,Chris popped up to the infield putout by 3b (2-1 BFB).",79,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"Kennedy,Grant stole second base.",80,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"Crenshaw,Joe hit by pitch (2-2 SBBFB).",81,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"RICH substitution: Scanlon,Sean pinch hitting for Harvey,Noah.",82,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"Scanlon,Sean in play fielding by lf by Barclay,Aiden (E7), RBI (0-0)3a Recio,Ryan scored3a Kennedy,Grant advanced to third base.",83,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"Scanlon,Sean advanced to second base on a wild pitch3a Crenshaw,Joe advanced to third base on a wild pitch3a Kennedy,Grant scored on a wild pitch.",84,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"Dosenbach,Trevor singled to left field, RBI (1-2 SKB)3a Crenshaw,Joe scored3a Scanlon,Sean advanced to third base.",85,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"Dosenbach,Trevor stole second base.",86,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"Winebrenner,Dylan struck out swinging (0-2 KFS).",87,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"Elko,Michael doubled, 2RBI (0-0)3a Scanlon,Sean scored, unearned3a Dosenbach,Trevor scored from second base, unearned.",88,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"RICH substitution: Wilson,Evan pinch hitting for Downs,Reid.",89,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,7,bot,"Wilson,Evan flied out to lf (2-1 BBK).",90,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,8,top,"RICH substitution: Hughes,PJ replaces Wilson,Evan at ss, batting 4th.",91,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,8,top,"RICH substitution: OKeefe,Aidan replaces Scanlon,Sean at 3b, batting 9th.",92,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,8,top,"Wildman,Caden popped up to ss (0-2 FK).",93,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,8,top,"Hower,Jake grounded out, 2b to 1b (0-0).",94,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,8,top,"Hager,Kevin grounded out to short, ss to 1b (0-1 K).",95,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,8,bot,"Recio,Ryan struck out looking (0-2 KSK).",96,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,8,bot,"Kennedy,Grant struck out swinging (2-2 BBKFS).",97,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614719,8,bot,"Schaller,Chris struck out looking (1-2 KKBK).",98,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,9,top,"COR substitution: Shin,Jayden pinch hitting for Johnson,Luke.",99,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,9,top,"Shin,Jayden flied out to lf (0-2 SS).",100,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,9,top,"COR substitution: Lopez,Trent pinch hitting for Barclay,Aiden.",101,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,9,top,"Lopez,Trent struck out looking (0-2 FSK).",102,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,9,top,"Dillon,Ryan doubled to left center (2-0 BB).",103,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
+6538423,614589,Cornell Big Red,614719,Richmond Spiders,614589,9,top,"Swidorski,TJ struck out swinging (1-2 FBSS).",104,2026-02-28T13:00:00-05:00,"Pitt Field (Richmond, VA)",282,MBA,2026
