@@ -1,0 +1,107 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,1,top,"Marsh, T. struck out swinging (0-2 KFS).",1,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,1,top,"Drumm, R. grounded out to 3b (1-2 KFB).",2,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,1,top,"DeCandido, R popped up to 2b (1-0 B).",3,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,1,bot,PONCE fouled out to c (0-1 F).,4,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,1,bot,ALLEN struck out swinging (1-2 BKKS).,5,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,1,bot,JOHNSON flied out to cf (3-1 BFBB).,6,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,2,top,"Grabowski, D doubled to left field (2-2 BFFFFBFFFFFFF).",7,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,2,top,"Sorenson, J. reached on an error by 3b (3-2 FBBBF).",8,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,2,top,"Barone, N. reached on a fielder's choice (3-2 FBBBF)3a Sorenson, J. advanced to second3a Grabowski, D out at third ss to 3b, out on the play.",9,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,2,top,"Swofford, E. hit by pitch (0-0)3a Barone, N. advanced to second3a Sorenson, J. advanced to third.",10,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,2,top,"Hvidsten, K. walked, RBI (3-2 BKBBKB)3a Swofford, E. advanced to second3a Barone, N. advanced to third3a Sorenson, J. scored, unearned.",11,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,2,top,"Campos, J. struck out looking (2-2 BBFFK).",12,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,2,top,"Marsh, T. grounded out to ss (2-2 BKFFBF).",13,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,2,bot,SMITH struck out swinging (1-2 KSBS).,14,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,2,bot,McCARTER fouled out to rf (0-2 FK).,15,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,2,bot,OH walked (3-2 BFBBKB).,16,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,2,bot,KOHLER grounded out to ss (0-0).,17,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,3,top,"Drumm, R. struck out swinging (2-2 BKKFBS).",18,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,3,top,"DeCandido, R flied out to rf (0-1 K).",19,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,3,top,"Grabowski, D struck out looking (3-2 KBFFFBBK).",20,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,3,bot,RUIZ singled to right field (1-1 KB).,21,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,3,bot,MARTIN struck out swinging (2-2 KKFBBFS).,22,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,3,bot,PONCE hit into double play 1b to ss to 1b (0-0)3a RUIZ out on the play.,23,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,4,top,"Sorenson, J. grounded out to 2b (0-1 F).",24,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,4,top,"Barone, N. grounded out to ss (0-1 F).",25,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,4,top,"Swofford, E. grounded out to 2b (1-2 BKF).",26,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,4,bot,ALLEN struck out swinging (0-2 KKS).,27,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,4,bot,JOHNSON lined out to cf (2-2 BKFB).,28,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,4,bot,SMITH struck out swinging (1-2 KBKS).,29,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,5,top,"Hvidsten, K. struck out swinging (0-2 KFS).",30,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,5,top,"Campos, J. doubled to left field (1-1 KB).",31,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,5,top,"Marsh, T. singled to right field (1-0 B)3a Campos, J. advanced to third.",32,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,5,top,"Drumm, R. hit by pitch (0-0)3a Marsh, T. advanced to second.",33,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,5,top,HITT to p for WELLS.,34,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,5,top,"DeCandido, R hit into double play ss to 1b (0-0)3a Drumm, R. out on the play.",35,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,5,bot,McCARTER struck out swinging (0-2 KKS).,36,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,5,bot,OH doubled to right field (0-1 K).,37,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,5,bot,KOHLER fouled out to rf (0-1 K).,38,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,5,bot,RUIZ struck out looking (0-2 KFK).,39,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,6,top,"Grabowski, D singled through the right side (0-1 K).",40,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,6,top,"Sorenson, J. struck out swinging (2-2 KBFFFBS).",41,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,6,top,"Grabowski, D advanced to second on a wild pitch.",42,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,6,top,"Barone, N. grounded out to 2b (2-2 KFBB).",43,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,6,top,"Scilley, L. pinch hit for Swofford, E..",44,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,6,top,"Scilley, L. lined out to 1b (1-2 KBK).",45,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,6,bot,"Scilley, L. to 3b.",46,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,6,bot,FLEMING pinch hit for MARTIN.,47,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,6,bot,FLEMING grounded out to 3b (1-2 KKB).,48,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,6,bot,PONCE struck out swinging (2-2 KBBKS).,49,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,6,bot,ALLEN flied out to lf (1-0 B).,50,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,7,top,KELLY to 2b for FLEMING.,51,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,7,top,"Hvidsten, K. grounded out to ss (1-1 KB).",52,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,7,top,"Campos, J. singled through the left side (0-2 KK).",53,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,7,top,"Marsh, T. grounded out to 3b (2-2 KBFB)3a Campos, J. advanced to second.",54,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,7,top,"Drumm, R. singled to right field, RBI (2-1 BFB)3a Campos, J. scored.",55,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,7,top,"Drumm, R. stole second.",56,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,7,top,"DeCandido, R struck out swinging (0-2 KKS).",57,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,7,bot,"Dietrich, T. to p for Harrington.",58,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,7,bot,JOHNSON grounded out to 3b (0-1 K).,59,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,7,bot,SMITH struck out swinging (1-2 KBFS).,60,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,7,bot,McCARTER walked (3-1 BBKBB).,61,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,7,bot,OH flied out to cf (1-0 B).,62,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,8,top,SALICCO to p for HITT.,63,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,8,top,"Grabowski, D walked (3-2 BFBFBB).",64,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,8,top,"Sorenson, J. doubled to left center (0-1 K)3a Grabowski, D advanced to third.",65,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,8,top,"Barone, N. singled to center field, RBI (0-0)3a Sorenson, J. advanced to third3a Grabowski, D scored.",66,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,8,top,"Barone, N. stole second.",67,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,8,top,"Scilley, L. singled to left field, RBI (3-2 BKBBFF)3a Barone, N. advanced to third3a Sorenson, J. scored.",68,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,8,top,LaDUKE to p for SALICCO.,69,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,8,top,"Hvidsten, K. hit by pitch (0-0)3a Scilley, L. advanced to second.",70,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,8,top,"Campos, J. homered, 4 RBI (0-1 K)3a Hvidsten, K. scored3a Scilley, L. scored3a Barone, N. scored.",71,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,8,top,"Marsh, T. hit by pitch (0-0).",72,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,8,top,"Drumm, R. struck out swinging (1-2 BKKS).",73,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,8,top,"Simmons, J. pinch ran for Marsh, T..",74,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,8,top,"DeCandido, R struck out swinging (0-2 KKS).",75,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,8,top,"Grabowski, D singled to second base (1-1 BK)3a Simmons, J. advanced to second.",76,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,8,top,"Sorenson, J. grounded out to 2b (3-0 BBB).",77,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,8,bot,"McCusker, J. to p for Dietrich, T..",78,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,8,bot,"Simmons, J. to 3b.",79,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,8,bot,"Scilley, L. to ss.",80,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,8,bot,KOHLER grounded out to 3b (2-1 FBB).,81,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,8,bot,CLARK pinch hit for RUIZ.,82,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,8,bot,CLARK singled to right field (1-2 KBF).,83,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,8,bot,KELLY singled to right field (1-1 BK)3a CLARK advanced to second.,84,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,8,bot,PONCE walked (3-1 BBBKB)3a KELLY advanced to second3a CLARK advanced to third.,85,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,8,bot,ALLEN struck out swinging (2-2 KBFBFFS).,86,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,8,bot,JOHNSON struck out looking (3-2 KBBKBFFFK).,87,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,9,top,MARTINEZ to c for CLARK.,88,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,9,top,CAREY to p for LaDUKE.,89,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,9,top,"Fulk, A. pinch hit for Barone, N..",90,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,9,top,"Fulk, A. walked (3-2 BBBKKB).",91,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,9,top,"Scilley, L. lined out to lf (0-0).",92,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,9,top,"Jaffe, J. pinch hit for Hvidsten, K..",93,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,9,top,"Jaffe, J. walked (3-0 BBBB)3a Fulk, A. advanced to second.",94,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,9,top,"Moore, T. pinch ran for Jaffe, J..",95,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,9,top,"Campos, J. struck out swinging (0-2 KFS).",96,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614642,9,top,"Simmons, J. flied out to lf (0-0).",97,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,9,bot,"Fulk, A. to lf.",98,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,9,bot,"Moore, T. to c.",99,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,9,bot,"Decker-Petty to p for McCusker, J..",100,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,9,bot,LEMBO pinch hit for SMITH.,101,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,9,bot,LEMBO struck out looking (1-2 KKBK).,102,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,9,bot,CUSH pinch hit for McCARTER.,103,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,9,bot,CUSH struck out swinging (3-2 KBKBBS).,104,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,9,bot,EWANOWSKI pinch hit for OH.,105,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
+6490197,614642,Liberty Flames,614766,High Point Panthers,614766,9,bot,EWANOWSKI struck out swinging (1-2 BKKS).,106,2026-03-03T16:00:00-05:00,"Williard Stadium (High Point, NC)",201,MBA,2026
