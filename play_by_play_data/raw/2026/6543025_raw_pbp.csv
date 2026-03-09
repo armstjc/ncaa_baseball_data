@@ -1,0 +1,77 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6543025,-1,Nobel,615165,Caltech Beavers,-1,1,top,"GOMEZ,R walked.",1,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,1,top,"POLAND,B grounded into double play p to ss to 1b3a GOMEZ,R out on the play.",2,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,1,top,"TONEY,N singled to shortstop.",3,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,1,top,"LUNA,L struck out looking.",4,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,1,bot,"Hu, Mark walked.",5,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,1,bot,"Hu, Mark out at second c to ss, caught stealing.",6,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,1,bot,"Foard, Riley flied out to cf.",7,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,1,bot,"Hartman, Qui flied out to cf.",8,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,2,top,"GINGRAS,T struck out looking.",9,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,2,top,"GFOERER,A struck out looking.",10,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,2,top,"HOLTHAUS,B struck out swinging.",11,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,2,bot,"Hargenrader, walked.",12,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,2,bot,"Bernhardt, J grounded into double play ss to 2b to 1b3a Hargenrader, out on the play.",13,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,2,bot,"Alderete, Le flied out to cf.",14,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,3,top,"THOMPSON,J struck out looking.",15,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,3,top,"BOBADILLA,V singled down the rf line.",16,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,3,top,"BOBADILLA,V stole second.",17,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,3,top,"GOMEZ,R walked.",18,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,3,top,"POLAND,B flied out to cf3a BOBADILLA,V advanced to third.",19,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,3,top,"TONEY,N grounded out to 2b.",20,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,3,bot,"Flaherty, Br walked.",21,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,3,bot,"Flaherty, Br advanced to second on a wild pitch.",22,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,3,bot,"Choudhari, S walked.",23,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,3,bot,"Minatel, Wil out at first p to 2b, SAC, bunt3a Choudhari, S advanced to second3a Flaherty, Br advanced to third.",24,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,3,bot,"Hu, Mark doubled to left field, 2 RBI3a Choudhari, S scored3a Flaherty, Br scored.",25,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,3,bot,"Foard, Riley singled to left field, RBI3a Hu, Mark scored.",26,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,3,bot,"Hartman, Qui grounded into double play ss to 1b3a Foard, Riley out on the play.",27,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,4,top,"LUNA,L flied out to cf.",28,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,4,top,"GINGRAS,T grounded out to 1b unassisted.",29,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,4,top,"GFOERER,A struck out looking.",30,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,4,bot,"Hargenrader, grounded out to 2b.",31,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,4,bot,"Bernhardt, J flied out to cf.",32,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,4,bot,"Alderete, Le grounded out to 3b.",33,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,5,top,"HOLTHAUS,B grounded out to 2b.",34,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,5,top,"THOMPSON,J struck out swinging.",35,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,5,top,"BOBADILLA,V grounded out to p.",36,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,5,bot,"Flaherty, Br walked.",37,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,5,bot,"Choudhari, S flied out to rf.",38,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,5,bot,"Minatel, Wil walked3a Flaherty, Br advanced to second.",39,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,5,bot,"Hu, Mark flied out to rf.",40,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,5,bot,"Foard, Riley walked3a Minatel, Wil advanced to second3a Flaherty, Br advanced to third.",41,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,5,bot,"Hartman, Qui reached on a fielder's choice to second base3a Foard, Riley out at second 2b to ss.",42,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,6,top,"GOMEZ,R struck out swinging.",43,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,6,top,"POLAND,B struck out swinging.",44,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,6,top,"TONEY,N flied out to rf.",45,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,6,bot,"POLAND,B to p.",46,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,6,bot,"MOORE,P to rf for GFOERER,A.",47,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,6,bot,"/  for MARKER,S.",48,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,6,bot,"Hargenrader, flied out to rf.",49,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,6,bot,"Bernhardt, J walked.",50,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,6,bot,"Alderete, Le walked3a Bernhardt, J advanced to second.",51,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,6,bot,"Flaherty, Br struck out looking.",52,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,6,bot,"Choudhari, S popped up to p.",53,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,7,top,"LUNA,L grounded out to ss.",54,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,7,top,"GINGRAS,T grounded out to p.",55,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,7,top,"MOORE,P struck out looking.",56,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,7,bot,"Minatel, Wil struck out swinging, out at first c to 1b.",57,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,7,bot,"Hu, Mark grounded out to 3b.",58,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,7,bot,"Foard, Riley singled to first base.",59,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,7,bot,"Foard, Riley out at second p to 1b to ss, picked off, caught stealing.",60,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,8,top,"DE LA TORRE pinch hit for HOLTHAUS,B.",61,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,8,top,DE LA TORRE grounded out to 3b.,62,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,8,top,"THOMPSON,J grounded out to p.",63,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,8,top,"BOBADILLA,V struck out swinging.",64,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,8,bot,DE LA TORRE to 1b.,65,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,8,bot,"Hartman, Qui grounded out to 3b.",66,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,8,bot,"Hargenrader, struck out swinging, out at first c to 1b.",67,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,8,bot,"Bernhardt, J homered to left field, RBI.",68,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,8,bot,"Alderete, Le walked.",69,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,8,bot,"Flaherty, Br singled to right field3a Alderete, Le advanced to third.",70,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,8,bot,"Flaherty, Br advanced to second on a throwing error by p, advanced to third on the error, failed pickoff attempt3a Alderete, Le scored, unearned.",71,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,8,bot,"Choudhari, S walked.",72,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,615165,8,bot,"Minatel, Wil flied out to lf.",73,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,9,top,"GOMEZ,R struck out swinging.",74,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,9,top,"POLAND,B grounded out to 3b.",75,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
+6543025,-1,Nobel,615165,Caltech Beavers,-1,9,top,"TONEY,N grounded out to 2b.",76,2026-03-07T14:00:00-05:00,"North Field (Pasadena, CA)",33,MBA,2026
