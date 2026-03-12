@@ -1,0 +1,96 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,1,top,No play.,1,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,1,top,Valdes walked (3-2 BBKFBFB).,2,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,1,top,"Valdes out at second c to 2b, caught stealing.",3,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,1,top,Fitz reached on a dropped fly by rf (2-0 BB).,4,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,1,top,Burdette singled through the right side (2-2 BBKKF)3a Fitz advanced to second.,5,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,1,top,Mensik fouled out to 1b (3-2 KBBBF).,6,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,1,top,Stonehouse hit by pitch (0-0)3a Burdette advanced to second3a Fitz advanced to third.,7,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,1,top,Hammond fouled out to c (1-1 BK).,8,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,1,bot,"Cooney, R flied out to rf (3-1 BKBB).",9,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,1,bot,"Gimenez, J struck out swinging (3-2 BKBBKS).",10,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,1,bot,"Hellman, D walked (3-2 BSBKBB).",11,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,1,bot,"Miranda, G doubled to right field (2-0 BB)3a Hellman, D advanced to third.",12,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,1,bot,"Molony, M struck out swinging (2-2 BBKFFS).",13,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,2,top,Canterberry struck out swinging (2-2 BKBKS).,14,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,2,top,Thomas flied out to cf (2-0 BB).,15,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,2,top,Crisp struck out swinging (1-2 BKKS).,16,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,2,bot,"Smith, D walked (3-0 BBBB).",17,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,2,bot,"Laya, A singled to right center (2-1 BBK)3a Smith, D advanced to third.",18,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,2,bot,"Mabeus, B singled to second base, RBI (2-2 BBFS)3a Laya, A advanced to second3a Smith, D scored.",19,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,2,bot,"Jaksa, B flied out to cf (0-0)3a Laya, A advanced to third.",20,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,2,bot,"Cooney, R singled to pitcher, bunt (1-1 BF)3a Mabeus, B advanced to second.",21,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,2,bot,"Gimenez, J homered to right center, 4 RBI (0-0)3a Cooney, R scored3a Mabeus, B scored3a Laya, A scored.",22,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,2,bot,99 mph3a 398 feet3a 32 degrees.,23,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,2,bot,"Hellman, D struck out swinging, out at first c to 1b (1-2 BSSS).",24,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,2,bot,"Miranda, G singled down the 3b line, bunt (0-1 K).",25,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,2,bot,"Molony, M fouled out to 3b (1-1 FB).",26,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,3,top,Valdes grounded out to 3b (2-1 BKB).,27,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,3,top,Fitz struck out swinging (1-2 BKSS).,28,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,3,top,Burdette hit by pitch (0-1 S).,29,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,3,top,Mensik struck out swinging (1-2 SSBS).,30,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,3,bot,"Smith, D homered to left field, RBI (0-0).",31,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,3,bot,107 mph3a 420 feet3a 31.9 degrees.,32,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,3,bot,"Laya, A grounded out to 2b (3-2 FFFBFFBB).",33,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,3,bot,"Mabeus, B grounded out to 1b unassisted (1-0 B).",34,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,3,bot,"Jaksa, B struck out swinging (1-2 FSBS).",35,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,4,top,Stonehouse flied out to rf (0-0).,36,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,4,top,Hammond flied out to rf to right center (0-1 F).,37,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,4,top,Canterberry struck out swinging (1-2 BKFS).,38,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,4,bot,Murphy to p for Young.,39,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,4,bot,"Cooney, R walked (3-1 BBKBB).",40,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,4,bot,"Gimenez, J hit by pitch (0-0)3a Cooney, R advanced to second.",41,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,4,bot,"Hellman, D reached on a fielder's choice (1-1 FB)3a Gimenez, J advanced to second on a throwing error by ss3a Cooney, R advanced to third.",42,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,4,bot,Play challenged by Xavier.,43,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,4,bot,"Call stands, runner is safe.",44,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,4,bot,"Miranda, G out at first 1b to p, RBI (1-1 BS)3a Hellman, D advanced to second3a Gimenez, J advanced to third3a Cooney, R scored.",45,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,4,bot,"Molony, M flied out to rf, SF, RBI (2-1 BBK)3a Hellman, D advanced to third3a Gimenez, J scored, unearned.",46,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,4,bot,"Smith, D struck out swinging (1-2 KBFS).",47,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,5,top,Thomas struck out swinging (2-2 SBKBS).,48,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,5,top,Crisp flied out to rf (0-0).,49,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,5,top,Valdes grounded out to ss (3-2 BKBBK).,50,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,5,bot,Christenson to 2b for Thomas.,51,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,5,bot,"Laya, A struck out swinging (0-2 KKS).",52,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,5,bot,"Mabeus, B doubled to right field (0-0).",53,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,5,bot,"Jaksa, B hit by pitch (0-0).",54,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,5,bot,"Cooney, R flied out to rf (0-0)3a Mabeus, B advanced to third.",55,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,5,bot,"Jaksa, B out at second c to ss to 1b to 2b, caught stealing3a Mabeus, B scored.",56,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,6,top,"Gimenez, J to lf.",57,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,6,top,"Cook, E to cf for Laya, A.",58,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,6,top,"Bradley, T to p for Twist, T.",59,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,6,top,Fitz grounded out to 2b (3-2 KBKBFB).,60,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,6,top,Burdette hit by pitch (2-2 KBBSF).,61,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,6,top,Mensik struck out swinging (2-2 KBBKS).,62,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,6,top,Stonehouse popped up to 3b (1-1 KB).,63,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,6,bot,Hooker to p for Murphy.,64,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,6,bot,Morton to c for Fitz.,65,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,6,bot,"Gimenez, J walked (3-1 KBBBB).",66,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,6,bot,"Gimenez, J advanced to second on a wild pitch.",67,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,6,bot,"Hellman, D grounded out to ss (2-2 BKBF).",68,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,6,bot,"Miranda, G lined out to 1b (0-1 S).",69,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,6,bot,"Molony, M grounded out to ss (0-0).",70,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,7,top,Hammond walked (3-0 BBBB).,71,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,7,top,Canterberry struck out swinging (1-2 KFBS).,72,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,7,top,Christenson struck out swinging (3-2 BBKFBS).,73,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,7,top,Arend pinch hit for Crisp.,74,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,7,top,Arend popped up to ss (1-1 SB).,75,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,7,bot,Valdes to cf.,76,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,7,bot,Arend to lf.,77,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,7,bot,Geddes to p for Hooker.,78,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,7,bot,"Smith, D flied out to lf (0-2 KK).",79,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,7,bot,"Cook, E struck out looking (3-2 BBBKFK).",80,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,7,bot,"Mabeus, B reached on a fielding error by ss (0-0).",81,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,7,bot,"Jaksa, B struck out looking (1-2 KBSK).",82,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,8,top,"Crawford, B to p for Bradley, T.",83,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,8,top,Valdes struck out looking (2-2 BBKKK).,84,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,8,top,Morton struck out looking (3-2 BKSBBK).,85,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,8,top,Townsend pinch hit for Burdette.,86,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,8,top,Townsend walked (3-1 KBBBB).,87,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,8,top,Johnson pinch hit for Mensik.,88,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614822,8,top,Johnson struck out swinging (2-2 BBKFS).,89,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,8,bot,Townsend to 1b.,90,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,8,bot,Stonehouse to rf.,91,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,8,bot,"Cooney, R singled to third base (0-2 KS).",92,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,8,bot,"Gimenez, J singled to right field (0-0)3a Cooney, R advanced to second.",93,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,8,bot,"Lauaki, N pinch hit for Hellman, D.",94,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
+6522298,614822,Xavier Musketeers,614705,Oregon Ducks,614705,8,bot,"Lauaki, N singled up the middle, RBI, advanced to second on the throw (0-0)3a Gimenez, J advanced to third3a Cooney, R scored.",95,2026-03-10T18:00:00-04:00,"PK Park (Eugene, OR)",1770,MBA,2026
