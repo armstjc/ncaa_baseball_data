@@ -1,0 +1,118 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,1,top,Evan McCoach struck out swinging (0-2 SKS).,1,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,1,top,Damon Suriani walked (3-0 BBBB).,2,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,1,top,"Damon Suriani out at second c to ss, caught stealing.",3,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,1,top,Nick Struble flied out to cf (2-1 BBF).,4,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,1,bot,Colson Bennett flied out to cf (0-1 F).,5,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,1,bot,Dante Ruby struck out swinging (1-2 KBSS).,6,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,1,bot,Carlos Pascual struck out swinging (0-2 KKS).,7,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,2,top,Brayden Davis struck out swinging (1-2 KSBS).,8,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,2,top,Jason Schooley hit by pitch (1-0 H).,9,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,2,top,Jason Schooley advanced to second on a wild pitch.,10,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,2,top,Ian Murphy struck out swinging (3-2 BSBBFS).,11,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,2,top,Joey Bogart struck out looking (3-2 BBFBFK).,12,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,2,bot,Cooper Fesh grounded out to 2b (0-2 FF).,13,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,2,bot,Emilio Portes flied out to rf (1-2 SBS).,14,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,2,bot,Benny Hess flied out to lf (1-0 B).,15,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,3,top,Mason Dorsey singled to center field (2-1 BBK).,16,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,3,top,Kyle Lamanteer walked (3-0 BBBB): Mason Dorsey advanced to second.,17,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,3,top,Evan McCoach walked (3-1 BBFBB): Kyle Lamanteer advanced to second: Mason Dorsey advanced to third.,18,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,3,top,"Damon Suriani hit by pitch, RBI (1-0 H): Evan McCoach advanced to second: Kyle Lamanteer advanced to third: Mason Dorsey scored.",19,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,3,top,"Nick Struble singled, RBI (0-2 KF): Damon Suriani out at second ss to 2b: Evan McCoach advanced to third: Kyle Lamanteer scored.",20,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,3,top,Brayden Davis walked (3-0 BBBB): Nick Struble advanced to second.,21,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,3,top,"Jason Schooley flied out to cf, sacrifice fly, RBI (2-1 BBF): Evan McCoach scored.",22,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,3,top,Ian Murphy singled to left field (0-1 K): Brayden Davis advanced to second: Nick Struble advanced to third.,23,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,3,top,Noah Parks to p for Ethan Pollack.,24,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,3,top,Joey Bogart struck out swinging (2-2 FBBKS).,25,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,3,bot,Dillion Bird struck out swinging (0-2 SKS).,26,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,3,bot,Ethan Schimony grounded out to 2b (2-1 FBB).,27,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,3,bot,Dee Rice singled to pitcher (2-2 FBBK).,28,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,3,bot,"Dee Rice stole second, advanced to third on an error by ss.",29,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,3,bot,Colson Bennett lined out to 1b (1-2 FBF).,30,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,4,top,Mason Dorsey struck out swinging (3-2 BBKFBS).,31,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,4,top,Kyle Lamanteer hit by pitch (1-0 H).,32,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,4,top,Kyle Lamanteer stole second.,33,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,4,top,Evan McCoach struck out swinging (3-2 KBBSFBS).,34,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,4,top,Damon Suriani grounded out to ss (1-2 BKK).,35,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,4,bot,Dante Ruby popped up to ss (0-0).,36,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,4,bot,Carlos Pascual grounded out to 3b (2-2 BBKK).,37,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,4,bot,Cooper Fesh singled to right field (1-2 SFB).,38,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,4,bot,Emilio Portes struck out swinging (2-2 BKFBFS).,39,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,5,top,Nick Struble doubled down the lf line (2-0 BB).,40,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,5,top,Brayden Davis struck out swinging (1-2 FFBS).,41,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,5,top,Jason Schooley hit by pitch (2-2 KFBH).,42,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,5,top,Ian Murphy hit by pitch (3-2 FBBSH): Jason Schooley advanced to second: Nick Struble advanced to third.,43,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,5,top,Joey Bogart reached on a fielder's choice (1-1 BS): Ian Murphy advanced to second: Jason Schooley advanced to third: Nick Struble out at home p to c.,44,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,5,top,"Mason Dorsey walked, RBI (3-2 FBSBFBFB): Joey Bogart advanced to second: Ian Murphy advanced to third: Jason Schooley scored.",45,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,5,top,Brett Chiesa pinch ran for Ian Murphy.,46,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,5,top,"Kyle Lamanteer singled to right field, 2 RBI (0-0): Mason Dorsey advanced to third: Joey Bogart scored: Brett Chiesa scored.",47,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,5,top,Brandon Valles to p for Noah Parks.,48,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,5,top,"Kyle Lamanteer out at second c to ss, caught stealing.",49,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,5,bot,Benny Hess struck out swinging (0-2 KSS).,50,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,5,bot,Dillion Bird singled to center field (1-1 BK).,51,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,5,bot,Ethan Schimony grounded into double play 2b to ss to 1b (0-0): Dillion Bird out on the play.,52,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,6,top,Evan McCoach walked (3-1 FBBBB).,53,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,6,top,"Damon Suriani doubled to center field, RBI (2-0 BB): Evan McCoach scored.",54,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,6,top,Nick Struble flied out to cf (2-1 KBB): Damon Suriani advanced to third.,55,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,6,top,"Brayden Davis doubled, RBI (0-0): Damon Suriani scored.",56,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,6,top,Jason Schooley walked (3-0 BBBB).,57,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,6,top,Brett Chiesa to dh.,58,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,6,top,Brett Chiesa popped up to 2b (1-1 KB).,59,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,6,top,Joey Bogart struck out swinging (1-2 KBKS).,60,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,6,bot,Dee Rice struck out swinging (2-2 BFBKS).,61,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,6,bot,Colson Bennett singled to center field (1-0 B).,62,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,6,bot,Dante Ruby struck out swinging (0-2 FFS).,63,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,6,bot,Carlos Pascual struck out looking (2-2 SFBBK).,64,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,7,top,Chris McGee to p for Brandon Valles.,65,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,7,top,Mason Dorsey doubled to left center (1-0 B).,66,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,7,top,Kyle Lamanteer flied out to rf (1-1 FB): Mason Dorsey advanced to third.,67,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,7,top,Evan McCoach walked (3-0 BBBB).,68,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,7,top,"Damon Suriani out at first ss to 2b, RBI (3-2 BBBKF): Evan McCoach advanced to second: Mason Dorsey scored.",69,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,7,top,Nick Struble grounded out to p (0-0).,70,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,7,bot,Cooper Fesh grounded out to 2b (1-0 B).,71,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,7,bot,Emilio Portes struck out swinging (2-2 BKKBS).,72,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,7,bot,"Benny Hess homered to left center, RBI (0-0).",73,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,7,bot,Dillion Bird struck out swinging (1-2 KSBS).,74,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,8,top,Anthony Mierez to p for Chris McGee.,75,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,8,top,Brayden Davis walked (3-2 BBBKSB).,76,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,8,top,Jason Schooley struck out swinging (2-2 BKKBFFS).,77,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,8,top,Brett Chiesa struck out swinging (2-2 KBSBS).,78,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,8,top,Jake Bartletta pinch hit for Joey Bogart.,79,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,8,top,Jake Bartletta struck out swinging (0-2 KSS).,80,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,8,bot,Kevin Cole to 2b for Jake Bartletta.,81,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,8,bot,Ethan Schimony struck out looking (2-2 BBKKK).,82,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,8,bot,Dee Rice walked (3-1 FBBBB).,83,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,8,bot,Dane Samartino to p for Zach Coluccio.,84,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,8,bot,Dee Rice stole second.,85,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,8,bot,Colson Bennett grounded out to ss (0-0): Dee Rice advanced to third.,86,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,8,bot,Dante Ruby struck out swinging (3-2 BKBFBS).,87,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,Michael Lynch to p for Anthony Mierez.,88,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,Mason Dorsey walked (3-0 BBBB).,89,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,Kyle Lamanteer singled to center field (1-2 KFBFF): Mason Dorsey advanced to second.,90,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,Evan McCoach hit by pitch (2-1 BKH): Kyle Lamanteer advanced to second: Mason Dorsey advanced to third.,91,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,"Damon Suriani singled, RBI (0-0): Evan McCoach advanced to second: Kyle Lamanteer advanced to third: Mason Dorsey scored.",92,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,Nick Struble struck out swinging (0-2 KKFS).,93,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,"Brayden Davis walked, RBI (3-1 BBKBB): Damon Suriani advanced to second: Evan McCoach advanced to third: Kyle Lamanteer scored.",94,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,Nico George to p for Michael Lynch.,95,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,Anthony Pallone pinch ran for Damon Suriani.,96,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,"Jason Schooley singled to right field, RBI (0-1 K): Brayden Davis advanced to second: Anthony Pallone advanced to third: Evan McCoach scored.",97,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,"Brett Chiesa hit by pitch, RBI (2-1 FBH): Jason Schooley advanced to second: Brayden Davis advanced to third: Anthony Pallone scored.",98,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,"Kevin Cole walked, RBI (3-2 BKBBKFB): Brett Chiesa advanced to second: Jason Schooley advanced to third: Brayden Davis scored.",99,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,"Mason Dorsey singled, 2 RBI (0-2 KF): Kevin Cole advanced to second: Brett Chiesa scored: Jason Schooley scored.",100,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,Kyle Lamanteer singled to left field (1-2 KSB): Mason Dorsey advanced to second: Kevin Cole advanced to third.,101,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,"Evan McCoach walked, RBI (3-1 BBBKB): Kyle Lamanteer advanced to second: Mason Dorsey advanced to third: Kevin Cole scored.",102,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,Kevin Adamson to p for Nico George.,103,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,"Anthony Pallone flied out to rf, sacrifice fly, RBI (1-1 FB): Kyle Lamanteer advanced to third: Mason Dorsey scored.",104,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615214,9,top,Nick Struble struck out swinging (2-2 BBKFS).,105,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,9,bot,Anthony Pallone to lf.,106,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,9,bot,Matt Kane to c for Jason Schooley.,107,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,9,bot,Anthony Clements pinch hit for Carlos Pascual.,108,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,9,bot,Anthony Clements grounded out to ss (2-1 KBB).,109,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,9,bot,Jonathan Santiago pinch hit for Cooper Fesh.,110,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,9,bot,Jonathan Santiago walked (3-2 BBKFBB).,111,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,9,bot,Erick Castro pinch hit for Emilio Portes.,112,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,9,bot,Erick Castro walked (3-1 BBKBB): Jonathan Santiago advanced to second.,113,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,9,bot,Ian Scalabrini pinch hit for Benny Hess.,114,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,9,bot,Ian Scalabrini struck out swinging (3-2 KKBBBS).,115,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,9,bot,Kyle Trzaskawka pinch hit for Dillion Bird.,116,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
+6543236,615214,Rowan Profs,615501,Keystone Giants,615501,9,bot,Kyle Trzaskawka struck out swinging (2-2 BKBKFS).,117,2026-03-12T17:00:00-04:00,"Winter Haven, FL",0,MBA,2026
