@@ -1,0 +1,89 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,1,top,Jacob Roberts singled to second base (0-0).,1,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,1,top,Jacob Roberts stole second.,2,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,1,top,Dalton Ferrin grounded out to ss (3-1 FBBB); Jacob Roberts advanced to third.,3,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,1,top,"Drew Carlson grounded out to 2b, RBI (0-1 K); Jacob Roberts scored.",4,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,1,top,Nate Cagley singled up the middle (2-2 BBKK).,5,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,1,top,Trenten Kingrey grounded out to p (1-0 B).,6,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,1,bot,Jack Alport singled to left field (0-1 K).,7,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,1,bot,Jack Alport stole second.,8,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,1,bot,Jacopo Tamburini fouled out to 3b (1-1 BK).,9,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,1,bot,Seth Brankey grounded out to 2b (0-1 K); Jack Alport advanced to third.,10,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,1,bot,Blake Nelson lined out to ss (2-2 BBKS).,11,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,2,top,Preston Glatt reached first on a throwing error by ss (1-2 FFB).,12,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,2,top,Matthew Florence singled through the right side (0-0); Preston Glatt advanced to third.,13,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,2,top,"Kasey Carter doubled to left field, RBI (1-0 B); Matthew Florence advanced to third; Preston Glatt scored, unearned.",14,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,2,top,"Sam Campin doubled to left field, 2 RBI (0-1 K); Kasey Carter scored; Matthew Florence scored.",15,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,2,top,"Jacob Roberts doubled down the lf line, RBI (0-2 KSF); Sam Campin scored.",16,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,2,top,Dalton Ferrin singled up the middle (0-0); Jacob Roberts advanced to third.,17,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,2,top,"Drew Carlson tripled to right field, 2 RBI (3-0 BBB); Dalton Ferrin scored; Jacob Roberts scored.",18,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,2,top,"Nate Cagley grounded out to ss, RBI (0-0); Drew Carlson scored.",19,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,2,top,Trenten Kingrey struck out swinging (1-2 FBSFS).,20,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,2,top,Preston Glatt struck out looking (2-2 SBSBK).,21,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,2,bot,Nolan Tomsyck doubled to left center (0-0).,22,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,2,bot,Aiden Wood flied out to lf (2-1 BBK); Nolan Tomsyck advanced to third.,23,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,2,bot,"Jordan Rosenberg flied out to lf, sacrifice fly, RBI (0-2 KFFF); Nolan Tomsyck scored.",24,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,2,bot,Drew Hanson grounded out to 2b (0-0).,25,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,3,top,Josh Beserra to p for Sutton Bassett.,26,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,3,top,Matthew Florence singled to left field (3-2 KBKBFFB).,27,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,3,top,Kasey Carter singled through the left side (0-1 K); Matthew Florence advanced to second.,28,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,3,top,Sam Campin reached on a fielder's choice (1-0 B); Kasey Carter out at second ss to 2b; Matthew Florence advanced to third.,29,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,3,top,"Jacob Roberts flied out to cf to left center, sacrifice fly, RBI (0-1 K); Matthew Florence scored.",30,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,3,top,Dalton Ferrin singled through the right side (0-2 SFF); Sam Campin advanced to third.,31,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,3,top,Drew Carlson grounded out to ss (1-2 BSK).,32,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,3,bot,Elliott Simpson struck out swinging (0-2 KSS).,33,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,3,bot,"Jack Alport grounded out to 3b, bunt (2-1 BKB).",34,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,3,bot,Jacopo Tamburini struck out swinging (2-2 BBFKS).,35,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,4,top,Nate Cagley singled to right center (1-2 KBK).,36,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,4,top,Trenten Kingrey walked (3-2 BKBKBFB); Nate Cagley advanced to second.,37,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,4,top,Preston Glatt grounded into double play ss to 2b to 1b (0-2 FK); Trenten Kingrey out on the play; Nate Cagley advanced to third.,38,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,4,top,"Matthew Florence singled to center field, RBI (0-1 K); Nate Cagley scored.",39,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,4,top,Kasey Carter reached on a fielder's choice (1-1 KB); Matthew Florence out at second ss to 2b.,40,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,4,bot,Seth Brankey struck out swinging (0-2 KFS).,41,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,4,bot,Blake Nelson struck out swinging (1-2 KBKS).,42,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,4,bot,Nolan Tomsyck flied out to cf (3-2 FBBKFFB).,43,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,5,top,Tyler Weigand to p for Josh Beserra.,44,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,5,top,Sam Campin popped up to 3b (1-2 KSFB).,45,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,5,top,"Jacob Roberts struck out swinging, out at first c to 1b (2-2 BBFFFS).",46,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,5,top,"Dalton Ferrin grounded out to p, bunt (0-1 K).",47,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,5,bot,Roan Schmidt to 1b for Drew Hanson.,48,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,5,bot,Aiden Wood walked (3-2 KSBBBB).,49,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,5,bot,Jordan Rosenberg struck out swinging (0-2 FKS).,50,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,5,bot,Roan Schmidt struck out looking (3-2 SSBBFBK).,51,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,5,bot,Elliott Simpson struck out looking (1-2 KSBK).,52,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,6,top,Jackson O'Brien to cf for Jack Alport.,53,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,6,top,Brian Messing to 3b for Jacopo Tamburini.,54,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,6,top,Vinnie Lutz to rf for Seth Brankey.,55,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,6,top,Peyton Nisy to ss for Nolan Tomsyck.,56,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,6,top,Adam Clark to lf for Aiden Wood.,57,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,6,top,Drew Carlson walked (3-2 KBKBBB).,58,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,6,top,Luke Mayer pinch hit for Nate Cagley.,59,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,6,top,"Drew Carlson out at first p to 1b, picked off.",60,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,6,top,Luke Mayer doubled to left field (2-1 BSB).,61,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,6,top,Trenten Kingrey flied out to rf (2-2 FSBB); Luke Mayer advanced to third.,62,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,6,top,Preston Glatt struck out looking (0-2 SSK).,63,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,6,bot,Tyson McAlexander to cf for Dalton Ferrin.,64,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,6,bot,Luke Mayer to 1b.,65,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,6,bot,Tanner Schark to rf for Trenten Kingrey.,66,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,6,bot,Sam Rich to lf for Matthew Florence.,67,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,6,bot,Jackson O'Brien struck out looking (0-2 KFK).,68,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,6,bot,Brian Messing grounded out to ss (2-2 BKBKFF).,69,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,6,bot,Vinnie Lutz flied out to cf (1-0 B).,70,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,7,top,Sam Rich to lf for Tanner Schark.,71,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,7,top,Tanner Schark to rf for Sam Rich.,72,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,7,top,Tanner Schark grounded out to ss (0-2 KKF).,73,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,7,top,Ty Lowry pinch hit for Kasey Carter.,74,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,7,top,Ty Lowry hit by pitch (3-2 FBBFH).,75,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,7,top,Jaxon Dent pinch hit for Sam Campin.,76,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,7,top,Jaxon Dent singled through the left side (1-1 KB); Ty Lowry advanced to second.,77,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,7,top,Jacob Roberts struck out looking (3-2 KSFBFFBFBK).,78,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615351,7,top,Tyson McAlexander flied out to lf (1-2 KSBF).,79,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,7,bot,Luke Beenblossom to ss for Ty Lowry.,80,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,7,bot,Jaxon Dent to 3b.,81,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,7,bot,Sam Connors pinch hit for Blake Nelson.,82,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,7,bot,Sam Connors struck out swinging (0-2 SKS).,83,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,7,bot,Peyton Nisy struck out looking (0-2 SFK).,84,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,7,bot,Adam Clark doubled to left center (0-0).,85,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,7,bot,Jordan Rosenberg walked (3-1 BBKBB).,86,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,7,bot,Adam Clark advanced to third on a wild pitch.,87,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
+6564499,615351,Simpson Storm,615154,Beloit Buccaneers,615154,7,bot,Roan Schmidt flied out to rf (0-1 S).,88,2026-03-13T00:00:00-04:00,"Auburndale, Fla.",74,MBA,2026
