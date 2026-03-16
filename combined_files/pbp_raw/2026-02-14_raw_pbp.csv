@@ -1,578 +1,360 @@
 game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,1,top,A. Leonard hit by pitch.,1,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,1,top,A. Salaazar singled to right field; A. Leonard advanced to second.,2,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,1,top,A. Salaazar stole second; A. Leonard stole third.,3,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,1,top,Z. Dawson grounded out to 3b.,4,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,1,top,"J. Johnson grounded out to 3b, RBI; A. Salaazar advanced to third; A. Leonard scored.",5,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,1,top,M. Hawkins flied out to rf.,6,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,1,bot,J. Clark struck out swinging.,7,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,1,bot,J. Sandoval walked.,8,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,1,bot,Y. Cartaya singled to center field; J. Sandoval advanced to third.,9,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,1,bot,"K. Stephens flied out to cf, sacrifice fly, RBI; J. Sandoval scored.",10,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,1,bot,Y. Cartaya stole second.,11,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,1,bot,C. Hicks walked.,12,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,1,bot,"J. Ramos doubled to center field, RBI; C. Hicks advanced to third; Y. Cartaya scored.",13,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,1,bot,K. Claringto struck out looking.,14,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,2,top,C. Allen grounded out to c.,15,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,2,top,A. Robinson struck out swinging.,16,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,2,top,T. Dunn struck out swinging.,17,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,2,bot,G. Jusino singled to center field.,18,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,2,bot,J. Grier singled to left field; G. Jusino advanced to third.,19,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,2,bot,"J. Clark grounded out to 2b, RBI; J. Grier advanced to second; G. Jusino scored.",20,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,2,bot,J. Sandoval grounded out to 2b; J. Grier advanced to third.,21,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,2,bot,Y. Cartaya flied out to cf.,22,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,3,top,W. Noel grounded out to 3b.,23,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,3,top,A. Leonard flied out to rf.,24,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,3,top,A. Salaazar struck out swinging.,25,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,3,bot,K. Stephens walked.,26,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,3,bot,K. Stephens stole second.,27,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,3,bot,C. Hicks singled to shortstop; K. Stephens advanced to third.,28,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,3,bot,"J. Ramos singled, bunt, RBI; C. Hicks advanced to second; K. Stephens scored.",29,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,3,bot,K. Claringto popped into double play p; C. Hicks out on the play.,30,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,3,bot,J. Ramos stole second.,31,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,3,bot,G. Jusino walked.,32,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,3,bot,G. Jusino advanced to second on a wild pitch; J. Ramos advanced to third on a wild pitch.,33,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,3,bot,G. Jusino advanced to third on a wild pitch; J. Ramos scored on a wild pitch.,34,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,3,bot,J. Grier walked.,35,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,3,bot,"J. Clark singled to left field, RBI; J. Grier advanced to second; G. Jusino scored.",36,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,3,bot,J. Sandoval grounded out to p.,37,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,4,top,Z. Dawson popped up to 3b.,38,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,4,top,J. Johnson struck out swinging.,39,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,4,top,M. Hawkins flied out to rf.,40,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,4,bot,Y. Cartaya fouled out to 2b.,41,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,4,bot,K. Stephens grounded out to p.,42,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,4,bot,C. Hicks singled to right field.,43,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,4,bot,J. Ramos flied out to rf.,44,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,5,top,C. Allen popped up to 2b.,45,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,5,top,A. Robinson grounded out to p.,46,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,5,top,T. Dunn struck out swinging.,47,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,5,bot,K. Claringto singled to center field.,48,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,5,bot,G. Jusino fouled out to rf.,49,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,5,bot,"K. Claringto advanced to second on an error by p, advanced to third.",50,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,5,bot,"J. Grier grounded out to ss, RBI; K. Claringto scored.",51,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,5,bot,J. Clark flied out to cf.,52,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,6,top,W. Noel grounded out to 3b.,53,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,6,top,A. Leonard grounded out to c.,54,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,6,top,A. Salaazar grounded out to ss.,55,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,6,bot,J. Lewis to p for J. Allen.,56,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,6,bot,J. Sandoval popped up to ss.,57,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,6,bot,Y. Cartaya lined out to ss.,58,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,6,bot,K. Stephens grounded out to p.,59,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,7,top,Z. Dawson walked.,60,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,7,top,J. Johnson singled to left field; Z. Dawson advanced to second.,61,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,7,top,M. Hawkins flied out to lf; Z. Dawson advanced to third.,62,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,7,top,"C. Allen grounded out to 3b, RBI; J. Johnson advanced to second; Z. Dawson scored.",63,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,615024,7,top,A. Robinson fouled out to 3b.,64,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,7,bot,C. Hicks singled.,65,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,7,bot,N. Rodriguez pinch ran for C. Hicks.,66,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,7,bot,N. Rodriguez advanced to second on a wild pitch.,67,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,7,bot,J. Ramos walked.,68,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,7,bot,K. Claringto walked; J. Ramos advanced to second; N. Rodriguez advanced to third.,69,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,7,bot,"G. Jusino walked, RBI; K. Claringto advanced to second; J. Ramos advanced to third; N. Rodriguez scored.",70,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,7,bot,J. Grier flied out to rf.,71,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,7,bot,"J. Clark walked, RBI; G. Jusino advanced to second; K. Claringto advanced to third; J. Ramos scored.",72,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,7,bot,"J. Sandoval walked, RBI; J. Clark advanced to second; G. Jusino advanced to third; K. Claringto scored.",73,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,7,bot,Y. Cartaya fouled out to 1b.,74,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,7,bot,"K. Stephens singled to third base, RBI; J. Sandoval advanced to second; J. Clark advanced to third; G. Jusino scored.",75,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6486178,615024,Clark Atlanta Panthers,614997,Savannah St. Tigers,614997,7,bot,K. Stephens advanced to second; J. Sandoval advanced to third; J. Clark scored on a wild pitch.,76,2026-02-14 10:00:00-05:00,"Tiger Field (Savannah, GA)",62,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,1,top,B. Garcia walked.,1,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,1,top,B. Jones hit by pitch3a B. Garcia advanced to second.,2,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,1,top,J. Pokorak flied out to cf3a B. Garcia advanced to third.,3,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,1,top,"Q. Madden popped up to 2b, sacrifice fly, RBI3a B. Garcia scored.",4,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,1,top,"B. Jones out at first p to 1b, picked off.",5,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,1,bot,B. Daniel grounded out to p.,6,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,1,bot,C. Angilly popped up to 2b.,7,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,1,bot,M. Nunez popped up to c.,8,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,2,top,J. Munitz out at first 1b to p.,9,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,2,top,K. Flora flied out to lf.,10,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,2,top,K. Moshier doubled.,11,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,2,top,G. Angelillo struck out looking.,12,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,2,bot,M. Kruger struck out looking.,13,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,2,bot,C. Martens struck out looking.,14,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,2,bot,B. Trichell walked.,15,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,2,bot,B. Larson grounded out to 1b unassisted.,16,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,3,top,G. Pegues struck out swinging.,17,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,3,top,B. Garcia popped up to 2b.,18,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,3,top,B. Jones flied out to lf.,19,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,3,bot,C. Kuriger out at first 1b to p.,20,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,3,bot,J. Trozzo struck out swinging.,21,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,3,bot,B. Daniel struck out swinging.,22,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,4,top,D. Albert to p for B. Daniel.,23,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,4,top,J. Pokorak singled.,24,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,4,top,J. Pokorak advanced to second on an error by p.,25,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,4,top,Q. Madden struck out swinging.,26,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,4,top,J. Munitz walked.,27,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,4,top,K. Flora lined into double play ss to 2b3a J. Pokorak out on the play.,28,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,4,bot,C. Angilly popped up to 2b.,29,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,4,bot,M. Nunez hit by pitch.,30,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,4,bot,M. Nunez advanced to second on a passed ball.,31,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,4,bot,M. Kruger popped up to cf.,32,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,4,bot,C. Martens walked.,33,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,4,bot,B. Trichell walked3a C. Martens advanced to second3a M. Nunez advanced to third.,34,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,4,bot,"B. Larson walked, RBI3a B. Trichell advanced to second3a C. Martens advanced to third3a M. Nunez scored.",35,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,4,bot,"C. Kuriger reached first on an error by ss, RBI3a B. Larson advanced to second3a B. Trichell advanced to third3a C. Martens scored, unearned.",36,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,4,bot,D. Watson to p for N. Mattfield.,37,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,4,bot,"B. Larson out at second p to ss, picked off.",38,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,5,top,"K. Moshier struck out swinging, out at first c to 1b.",39,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,5,top,G. Angelillo singled.,40,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,5,top,G. Pegues struck out swinging.,41,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,5,top,B. Garcia singled3a G. Angelillo advanced to second.,42,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,5,top,"B. Jones doubled, RBI3a B. Garcia advanced to third3a G. Angelillo scored.",43,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,5,top,J. Pokorak grounded out to 3b.,44,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,5,bot,"J. Trozzo homered, RBI.",45,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,5,bot,D. Albert grounded out to 3b.,46,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,5,bot,C. Angilly struck out swinging.,47,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,5,bot,M. Nunez singled.,48,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,5,bot,M. Kruger flied out to cf.,49,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,6,top,Q. Madden grounded out to 3b.,50,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,6,top,J. Munitz walked.,51,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,6,top,K. Flora singled3a J. Munitz advanced to second.,52,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,6,top,"J. Munitz out at second p to 2b, picked off.",53,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,6,top,K. Flora advanced to second on an error by p.,54,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,6,top,K. Moshier walked.,55,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,6,top,G. Angelillo flied out to lf.,56,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,6,bot,J. Davis to p for D. Watson.,57,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,6,bot,C. Martens singled.,58,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,6,bot,B. Trichell hit by pitch3a C. Martens advanced to second.,59,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,6,bot,"B. Larson grounded out to p, SAC3a B. Trichell advanced to second3a C. Martens advanced to third.",60,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,6,bot,C. Kuriger walked.,61,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,6,bot,M. McDowell to p for J. Davis.,62,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,6,bot,J. Trozzo struck out swinging.,63,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,6,bot,C. Martens scored on a passed ball.,64,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,6,bot,D. Albert grounded out to ss.,65,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,7,top,A. Carron to p for D. Albert.,66,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,7,top,G. Pegues grounded out to ss.,67,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,7,top,B. Garcia struck out looking.,68,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,7,top,B. Jones lined out to 1b.,69,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,7,bot,C. Angilly grounded out to p.,70,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,7,bot,M. Nunez flied out to rf.,71,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,7,bot,M. Kruger walked.,72,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,7,bot,C. Martens flied out to cf.,73,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,8,top,C. Meyer to rf for M. Nunez.,74,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,8,top,J. Pokorak flied out to cf.,75,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,8,top,"Q. Madden homered, RBI.",76,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,8,top,J. Munitz struck out swinging.,77,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,8,top,K. Flora tripled.,78,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,8,top,K. Moshier grounded out to ss.,79,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,8,bot,B. Trichell struck out looking.,80,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,8,bot,B. Larson grounded out to 2b.,81,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615327,8,bot,C. Kuriger grounded out to ss.,82,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,9,top,M. Bull pinch hit for G. Angelillo.,83,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,9,top,M. Bull walked.,84,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,9,top,C. Moore pinch hit for G. Pegues.,85,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,9,top,C. Moore popped up to 2b.,86,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,9,top,B. Garcia reached on a fielder's choice3a M. Bull out at second 2b to ss.,87,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6505881,615249,Lynchburg Hornets,615327,Rhodes Lynx,615249,9,top,B. Jones struck out swinging.,88,2026-02-14 10:00:00-05:00,"Loudermilk Field (Demorest, GA)",213,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,1,top,J. Acker struck out.,1,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,1,top,I. Arias singled.,2,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,1,top,C. Boyd walked; I. Arias advanced to second.,3,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,1,top,A. Boglis reached on a fielder's choice; C. Boyd out at second 2b to ss; I. Arias advanced to third.,4,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,1,top,C. Hoffman reached on a fielder's choice; A. Boglis out at second ss to 2b.,5,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,1,bot,D. Koch struck out.,6,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,1,bot,G. Savoca flied out to p.,7,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,1,bot,J. Nisco grounded out to 1b unassisted.,8,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,2,top,A. Dadinos grounded out to 2b.,9,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,2,top,B. Tetler struck out.,10,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,2,top,E. Blake struck out.,11,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,2,bot,Z. Ashline grounded out to ss.,12,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,2,bot,"Bernard, Jr struck out.",13,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,2,bot,S. McAdams grounded out to ss.,14,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,3,top,J. Roque flied out to cf.,15,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,3,top,J. Acker grounded out to p.,16,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,3,top,I. Arias singled.,17,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,3,top,C. Boyd struck out looking.,18,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,3,bot,K. Engmann popped up to 3b.,19,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,3,bot,C. Ruland struck out looking.,20,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,3,bot,K. Goins singled.,21,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,3,bot,D. Koch singled; K. Goins advanced to third.,22,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,3,bot,G. Savoca struck out.,23,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,4,top,A. Boglis reached first on an error by lf.,24,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,4,top,C. Hoffman struck out.,25,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,4,top,A. Dadinos popped up to 3b.,26,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,4,top,B. Tetler walked; A. Boglis advanced to second.,27,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,4,top,E. Blake struck out.,28,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,4,bot,J. Nisco struck out.,29,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,4,bot,Z. Ashline popped up to ss.,30,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,4,bot,"Bernard, Jr grounded out to ss.",31,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,5,top,J. Roque singled.,32,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,5,top,J. Acker grounded into double play ss to 2b to 1b; J. Roque out on the play.,33,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,5,top,I. Arias grounded out to ss.,34,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,5,bot,S. McAdams singled.,35,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,5,bot,K. Engmann popped up to 3b.,36,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,5,bot,C. Ruland grounded out to ss; S. McAdams advanced to second.,37,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,5,bot,K. Goins walked.,38,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,5,bot,D. Koch reached on a fielder's choice; K. Goins out at second ss to 2b; S. McAdams advanced to third.,39,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,6,top,C. Boyd struck out.,40,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,6,top,A. Boglis doubled.,41,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,6,top,C. Hoffman flied out to rf.,42,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,6,top,A. Dadinos flied out to cf.,43,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,6,bot,G. Savoca singled.,44,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,6,bot,J. Nisco flied out to rf.,45,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,6,bot,Z. Ashline flied out to cf.,46,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,6,bot,G. Savoca advanced to second on a wild pitch.,47,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,6,bot,"Bernard, Jr walked.",48,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,6,bot,S. McAdams grounded out to 3b.,49,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,7,top,B. Tetler singled.,50,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,7,top,E. Blake struck out.,51,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,7,top,J. Roque flied out to rf.,52,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,7,top,J. Acker singled; B. Tetler advanced to second.,53,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,7,top,I. Arias flied out to cf.,54,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,7,bot,K. Engmann grounded out to p.,55,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,7,bot,C. Ruland flied out to lf.,56,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,7,bot,K. Goins flied out to cf.,57,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,8,top,R. DiNapoli to p for N. Scaperott.,58,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,8,top,C. Boyd grounded out to 2b.,59,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,8,top,A. Boglis walked.,60,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,8,top,C. Hoffman popped up to 1b.,61,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,8,top,O. King pinch hit for A. Dadinos.,62,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,8,top,O. King popped up to 1b.,63,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,8,bot,O. King to lf.,64,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,8,bot,D. Koch grounded out to ss.,65,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,8,bot,G. Savoca grounded out to 2b.,66,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,8,bot,J. Nisco walked.,67,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,8,bot,J. Nisco stole second.,68,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,8,bot,Z. Ashline walked.,69,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,8,bot,"Bernard, Jr walked; Z. Ashline advanced to second; J. Nisco advanced to third.",70,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,8,bot,L. LeClair to p for A. Paolicell.,71,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,8,bot,S. McAdams flied out to cf.,72,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,9,top,B. Tetler grounded out to ss.,73,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,9,top,J. Villanuev pinch hit for E. Blake.,74,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,9,top,J. Villanuev struck out looking.,75,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,9,top,J. Roque singled.,76,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,9,top,J. Acker walked; J. Roque advanced to second.,77,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,9,top,I. Arias grounded out to p.,78,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,9,bot,J. Villanuev to 3b.,79,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,9,bot,K. Engmann grounded out to 2b.,80,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,9,bot,C. Ruland struck out.,81,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,9,bot,K. Goins grounded out to 2b.,82,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,10,top,C. Boyd struck out.,83,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,10,top,A. Boglis popped up to ss.,84,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,10,top,C. Hoffman grounded out to ss.,85,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,10,bot,D. Koch flied out to cf.,86,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,10,bot,G. Savoca singled.,87,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,10,bot,J. Nisco struck out looking.,88,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,10,bot,Z. Ashline flied out to ss.,89,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,11,top,Sanders II pinch hit for O. King.,90,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,11,top,Sanders II struck out.,91,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,11,top,B. Tetler flied out to cf.,92,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,11,top,J. Villanuev flied out to cf.,93,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,11,bot,Sanders II to lf.,94,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,11,bot,"Bernard, Jr struck out.",95,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,11,bot,S. McAdams flied out to lf.,96,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,11,bot,K. Engmann struck out.,97,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,12,top,J. Roque flied out to lf.,98,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,12,top,J. Acker singled.,99,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,12,top,I. Arias popped up to 2b.,100,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,12,top,C. Boyd singled; J. Acker advanced to second.,101,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,12,top,C. Boyd advanced to second on an error by 2b; J. Acker advanced to third on the error.,102,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,12,top,A. Boglis flied out to lf.,103,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,12,bot,A. Hoti pinch hit for C. Ruland.,104,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,12,bot,A. Hoti doubled.,105,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,12,bot,"K. Goins out at first 1b to 2b, SAC, bunt; A. Hoti advanced to third.",106,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,12,bot,D. Koch struck out looking.,107,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,12,bot,G. Savoca flied out to cf.,108,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,13,top,A. Hoti to c.,109,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,13,top,C. Hoffman flied out to cf.,110,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,13,top,Sanders II flied out to lf.,111,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,13,top,B. Tetler flied out to rf.,112,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,13,bot,J. Nisco struck out looking.,113,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,13,bot,Z. Ashline grounded out to ss.,114,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,13,bot,"Bernard, Jr walked.",115,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,13,bot,S. McAdams grounded out to 3b.,116,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,14,top,T. Dillon pinch hit for J. Villanuev.,117,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,14,top,T. Dillon flied out to rf.,118,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,14,top,J. Roque walked.,119,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,14,top,J. Acker flied out to lf.,120,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615036,14,top,I. Arias reached on a fielder's choice; J. Roque out at second ss to 2b.,121,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,14,bot,T. Dillon to 3b.,122,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,14,bot,M. Hesselbir pinch hit for K. Engmann.,123,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,14,bot,M. Hesselbir singled.,124,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,14,bot,A. Wayne pinch ran for M. Hesselbir.,125,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,14,bot,S. Bangs to p for L. LeClair.,126,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,14,bot,A. Wayne stole second.,127,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,14,bot,A. Hoti walked.,128,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,14,bot,"K. Goins out at first 1b to 2b, SAC, bunt; A. Hoti advanced to second; A. Wayne advanced to third.",129,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,14,bot,D. Koch walked.,130,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6510602,615036,Franklin Pierce Ravens,615054,Mercy Mavericks,615054,14,bot,"G. Savoca flied out to lf, sacrifice fly, RBI; A. Wayne scored.",131,2026-02-14 10:00:00-05:00,"Cary, NC",25,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,1,top,A. Carson hit by pitch.,1,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,1,top,"D. Brown struck out swinging, caused a double play c unassisted3a A. Carson out on the play, interference.",2,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,1,top,H. Clausell lined out to ss.,3,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,1,top,H. Clausell lined out to ss.,4,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,1,bot,R. Albin struck out looking.,5,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,1,bot,C. Swain grounded out to p.,6,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,1,bot,C. Groen singled to center field.,7,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,1,bot,R. Livingsto flied out to rf.,8,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,2,top,J. Perez popped up to 3b.,9,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,2,top,D. Aponte singled to second base.,10,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,2,top,J. Jimenez doubled to left field3a D. Aponte advanced to third.,11,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,2,top,J. Rodriguez flied out to rf.,12,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,2,top,A. Hackett struck out looking.,13,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,2,bot,J. Szestowic struck out looking.,14,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,2,bot,J. Novak walked.,15,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,2,bot,R. Perez lined out to cf.,16,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,2,bot,A. Welshans reached first on a fielding error by 3b3a J. Novak advanced to second.,17,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,2,bot,D. Perez hit by pitch3a A. Welshans advanced to second3a J. Novak advanced to third.,18,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,2,bot,R. Albin reached on a fielder's choice3a D. Perez out at second 2b to ss.,19,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,3,top,K. Alicea grounded out to 2b.,20,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,3,top,A. Carson singled to left field.,21,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,3,top,D. Brown struck out swinging.,22,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,3,top,A. Carson stole second.,23,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,3,top,H. Clausell struck out swinging.,24,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,3,bot,"C. Swain singled to third base, advanced to second on a throwing error by 3b.",25,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,3,bot,C. Groen hit by pitch.,26,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,3,bot,R. Livingsto struck out swinging.,27,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,3,bot,J. Szestowic grounded out to ss3a C. Groen advanced to second3a C. Swain advanced to third.,28,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,3,bot,J. Novak flied out to 2b.,29,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,4,top,"J. Perez homered to left field, RBI.",30,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,4,top,D. Aponte grounded out to ss.,31,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,4,top,J. Jimenez walked.,32,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,4,top,J. Jimenez stole second.,33,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,4,top,J. Rodriguez grounded out to ss3a J. Jimenez advanced to third.,34,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,4,top,"A. Hackett singled to left field, RBI3a J. Jimenez scored.",35,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,4,top,K. Alicea out at first 1b to p3a A. Hackett advanced to second.,36,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,4,bot,M. Davila to 3b for H. Clausell.,37,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,4,bot,"R. Perez doubled to left field, advanced to third on a throwing error by lf.",38,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,4,bot,"A. Welshans homered to left field, 2 RBI3a R. Perez scored.",39,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,4,bot,D. Perez struck out looking.,40,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,4,bot,R. Albin singled to left field.,41,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,4,bot,C. Swain doubled to right field3a R. Albin advanced to third.,42,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,4,bot,E. Torres to p for R. jesus.,43,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,4,bot,"C. Groen flied out to cf, SAC, RBI3a R. Albin scored.",44,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,4,bot,R. Livingsto hit by pitch.,45,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,4,bot,J. Szestowic walked3a R. Livingsto advanced to second3a C. Swain advanced to third.,46,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,4,bot,J. Novak flied out to cf.,47,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,5,top,A. Carson grounded out to 3b.,48,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,5,top,D. Brown grounded out to 2b.,49,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,5,top,M. Davila walked.,50,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,5,top,H. Narke to p for O. MacDonnel.,51,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,5,top,J. Perez flied out to rf.,52,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,5,bot,R. Perez walked.,53,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,5,bot,A. Welshans singled to center field3a R. Perez advanced to second.,54,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,5,bot,"D. Perez singled, bunt3a A. Welshans advanced to second3a R. Perez advanced to third.",55,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,5,bot,R. Albin struck out swinging.,56,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,5,bot,"C. Swain walked, RBI3a D. Perez advanced to second3a A. Welshans advanced to third3a R. Perez scored.",57,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,5,bot,"C. Groen doubled to center field, 3 RBI3a C. Swain scored3a D. Perez scored3a A. Welshans scored.",58,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,5,bot,R. Livingsto lined out to rf.,59,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,5,bot,C. Groen stole third.,60,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,5,bot,J. Szestowic struck out swinging.,61,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,6,top,D. Aponte grounded out to ss.,62,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,6,top,J. Jimenez struck out swinging.,63,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,6,top,J. Rodriguez reached first on a fielding error by 1b.,64,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,6,top,A. Hackett grounded out to 3b3a J. Rodriguez advanced to second.,65,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,6,bot,J. Novak hit by pitch.,66,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,6,bot,J. Novak stole second.,67,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,6,bot,R. Perez struck out swinging.,68,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,6,bot,"J. Novak advanced to third on a wild pitch, J. Novak.",69,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,6,bot,A. Welshans walked.,70,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,6,bot,A. Welshans stole second.,71,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,6,bot,A. Welshans stole third.,72,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,6,bot,D. Perez struck out swinging.,73,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,6,bot,A. Welshans scored on a wild pitch.,74,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,6,bot,R. Albin lined out to ss.,75,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,7,top,B. Wadiak to p for H. Narke.,76,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,7,top,K. Alicea struck out looking.,77,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,7,top,A. Carson walked.,78,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,614655,7,top,D. Brown grounded into double play p to ss to 1b3a A. Carson out on the play.,79,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,7,bot,S. Stanley to p for E. Torres.,80,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,7,bot,C. Swain walked.,81,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,7,bot,C. Groen grounded out to ss3a C. Swain advanced to second.,82,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,7,bot,"R. Livingsto doubled to left center, RBI3a C. Swain scored.",83,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,7,bot,J. Szestowic hit by pitch.,84,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,7,bot,"J. Novak doubled down the lf line, RBI3a J. Szestowic advanced to third3a R. Livingsto scored.",85,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6513145,614655,UMES Hawks,621265,La Salle Explorers,621265,7,bot,"R. Perez homered to right center, 3 RBI3a J. Novak scored3a J. Szestowic scored.",86,2026-02-14 10:00:00-05:00,"Hank DeVincent Field (Philadelphia, PA)",122,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,1,top,A. Rivera singled to right field.,1,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,1,top,J. Torres struck out swinging.,2,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,1,top,J. Black singled to left field3a A. Rivera advanced to second.,3,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,1,top,"J. Webb singled to left field, RBI3a J. Black advanced to second3a A. Rivera scored.",4,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,1,top,A. Juez struck out swinging.,5,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,1,top,G. Moran reached first on an error by 3b3a J. Webb advanced to second3a J. Black advanced to third.,6,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,1,top,"E. Davis singled up the middle, 2 RBI3a G. Moran advanced to second3a J. Webb scored, unearned3a J. Black scored.",7,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,1,top,R. Lopez popped up to ss.,8,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,1,bot,J. Akins struck out looking.,9,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,1,bot,C. Jones fouled out to 3b.,10,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,1,bot,K. Johnson struck out swinging.,11,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,2,top,R. Cooper walked.,12,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,2,top,"A. Rivera grounded out to p, SAC, bunt3a R. Cooper advanced to second.",13,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,2,top,J. Torres walked.,14,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,2,top,R. Cooper advanced to third on a passed ball.,15,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,2,top,J. Black struck out swinging.,16,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,2,top,"J. Webb homered to left field, 3 RBI3a J. Torres scored3a R. Cooper scored.",17,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,2,top,A. Juez singled through the left side.,18,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,2,top,G. Moran struck out swinging.,19,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,2,bot,J. Medina walked.,20,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,2,bot,J. Olmedo reached on a fielder's choice to second base3a J. Medina out at second 2b unassisted.,21,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,2,bot,C. Lindsey struck out swinging.,22,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,2,bot,C. Ruiz grounded out to ss.,23,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,3,top,E. Davis grounded out to 2b.,24,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,3,top,"R. Lopez singled to third base, bunt.",25,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,3,top,R. Cooper flied out to cf.,26,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,3,top,"R. Lopez out at second c to p, caught stealing.",27,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,3,bot,"Conner, Jr grounded out to ss.",28,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,3,bot,M. Herring singled to shortstop.,29,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,3,bot,J. Akins singled up the middle3a M. Herring advanced to second.,30,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,3,bot,C. Jones singled to left field3a J. Akins advanced to second3a M. Herring advanced to third.,31,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,3,bot,"K. Johnson doubled through the right side, 2 RBI3a C. Jones advanced to third3a J. Akins scored3a M. Herring scored.",32,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,3,bot,"J. Medina flied out to rf, sacrifice fly, RBI3a K. Johnson advanced to third3a C. Jones scored.",33,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,3,bot,J. Olmedo grounded out to ss.,34,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,4,top,A. Rivera grounded out to ss.,35,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,4,top,J. Torres singled through the left side.,36,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,4,top,"J. Torres out at first p to 1b, picked off.",37,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,4,top,J. Black walked.,38,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,4,top,J. Black advanced to second on a passed ball.,39,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,4,top,J. Webb walked.,40,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,4,top,A. Juez grounded out to 1b unassisted.,41,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,4,bot,C. Lindsey struck out swinging.,42,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,4,bot,C. Haley pinch hit for C. Ruiz.,43,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,4,bot,C. Haley grounded out to 1b unassisted.,44,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,4,bot,"Conner, Jr struck out looking.",45,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,5,top,C. Ruiz to p for C. Haley.,46,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,5,top,G. Moran grounded out to 2b.,47,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,5,top,E. Davis singled up the middle.,48,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,5,top,R. Lopez struck out swinging.,49,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,5,top,R. Cooper fouled out to rf.,50,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,5,bot,M. Herring flied out to cf.,51,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,5,bot,J. Akins singled to center field.,52,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,5,bot,C. Jones singled to left field3a J. Akins advanced to second.,53,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,5,bot,"C. Jones advanced to second3a J. Akins out at third c to 3b, caught stealing.",54,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,5,bot,C. Jones advanced to third.,55,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,5,bot,K. Johnson grounded out to 1b unassisted.,56,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,6,top,A. Rivera struck out swinging.,57,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,6,top,J. Torres doubled to center field.,58,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,6,top,J. Black popped up to 2b.,59,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,6,top,J. Webb walked.,60,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,6,top,J. Webb advanced to second3a J. Torres advanced to third on a passed ball.,61,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,6,top,"A. Juez singled up the middle, 2 RBI3a J. Webb scored3a J. Torres scored.",62,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,6,bot,J. Medina struck out swinging.,63,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,6,bot,J. Olmedo struck out swinging.,64,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,6,bot,M. Bates pinch hit for C. Lindsey.,65,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,6,bot,M. Bates walked.,66,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,6,bot,L. Brown pinch hit for C. Ruiz.,67,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,6,bot,L. Brown struck out swinging.,68,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,7,top,C. Jones to rf.,69,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,7,top,M. Bates to 3b.,70,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,7,top,D. Ortiz to 2b for L. Brown.,71,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,7,top,"A. Zendejas to p for Conner, Jr.",72,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,7,top,G. Moran grounded out to 1b unassisted.,73,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,7,top,E. Davis was intentionally walked.,74,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,7,top,E. Davis advanced to second on a wild pitch.,75,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,7,top,"R. Lopez singled to right field3a E. Davis out at third p to 3b, caught stealing.",76,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,7,top,R. Cooper reached on a fielder's choice to shortstop3a R. Lopez out at second ss to 2b.,77,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,7,top,"A. Rivera singled to left field3a R. Cooper advanced to second, out at third lf to 3b.",78,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,7,bot,A. Zendejas to p for D. Ortiz.,79,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,7,bot,D. Ortiz to 2b for A. Zendejas.,80,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,7,bot,D. Ortiz hit by pitch.,81,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,7,bot,M. Herring flied out to cf.,82,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,7,bot,"J. Akins doubled to center field, RBI3a D. Ortiz scored.",83,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,7,bot,J. Akins advanced to third on a wild pitch.,84,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,7,bot,C. Jones walked.,85,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,7,bot,K. Johnson lined out to 2b.,86,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,7,bot,"C. Jones out at second c to 2b, caught stealing.",87,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,8,top,J. Torres flied out to cf.,88,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,8,top,J. Black walked.,89,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,8,top,J. Webb hit by pitch3a J. Black advanced to second.,90,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,8,top,"J. Webb advanced to second3a J. Black out at third c to 3b, caught stealing.",91,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,8,top,A. Juez struck out swinging.,92,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,8,bot,J. Medina reached first on an error by 2b.,93,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,8,bot,J. Olmedo struck out swinging.,94,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,8,bot,M. Bates struck out swinging.,95,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,8,bot,B. Caballero pinch ran for J. Medina.,96,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,8,bot,"B. Caballero out at first p to 1b, picked off.",97,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,9,top,B. Caballero to 1b.,98,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,9,top,G. Moran walked.,99,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,9,top,E. Davis struck out looking.,100,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,9,top,R. Lopez struck out looking.,101,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,614985,9,top,R. Cooper struck out swinging.,102,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,9,bot,L. Brown pinch hit for A. Zendejas.,103,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,9,bot,L. Brown grounded out to 2b.,104,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,9,bot,D. Ortiz struck out looking.,105,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,9,bot,M. Herring walked.,106,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,9,bot,"J. Akins doubled to right field, RBI3a M. Herring scored.",107,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,9,bot,C. Jones walked.,108,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,9,bot,"K. Johnson singled through the right side, RBI3a C. Jones advanced to second3a J. Akins scored.",109,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,9,bot,L. Wooten pinch hit for B. Caballero.,110,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,9,bot,"L. Wooten singled through the left side, RBI3a K. Johnson advanced to second3a C. Jones scored.",111,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,9,bot,L. Wooten advanced to second3a K. Johnson advanced to third on a wild pitch.,112,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,9,bot,J. Olmedo was intentionally walked.,113,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6538339,614985,Spring Hill Badgers,615010,Benedict Tigers,615010,9,bot,M. Bates struck out swinging.,114,2026-02-14 10:00:00-05:00,"Columbia, SC",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,1,top,C. Egrie flied out to cf to left center.,1,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,1,top,B. Connors struck out swinging.,2,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,1,top,G. Royer struck out swinging.,3,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,1,bot,M. Petite doubled down the lf line.,4,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,1,bot,M. Petite advanced to third on a wild pitch.,5,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,1,bot,N. Flores flied out to rf.,6,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,1,bot,J. Lee hit by pitch.,7,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,1,bot,J. Lee stole second.,8,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,1,bot,Q. Maher walked.,9,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,1,bot,"D. DeFranco flied out to rf, sacrifice fly, RBI; M. Petite scored.",10,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,1,bot,Kirkpatrick hit by pitch; Q. Maher advanced to second; J. Lee advanced to third.,11,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,1,bot,"T. Adelman singled to shortstop, 2 RBI; Kirkpatrick advanced to third; Q. Maher scored; J. Lee scored.",12,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,1,bot,"T. Adelman out at second c to 2b to 1b to ss, caught stealing; Kirkpatrick scored.",13,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,2,top,J. LaFleur lined out to 2b.,14,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,2,top,A. Sandell lined out to lf.,15,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,2,top,C. Dolah walked.,16,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,2,top,N. Spaner out at first ss to 2b.,17,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,2,bot,"B. Horne homered to left field, RBI.",18,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,2,bot,A. Warden walked.,19,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,2,bot,M. Petite hit by pitch; A. Warden advanced to second.,20,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,2,bot,"N. Flores grounded out to p, SAC, bunt; M. Petite advanced to second; A. Warden advanced to third.",21,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,2,bot,"J. Lee homered to center field, 3 RBI; M. Petite scored; A. Warden scored.",22,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,2,bot,Q. Maher walked.,23,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,2,bot,B. Mulligan to p for D. Volz.,24,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,2,bot,D. DeFranco flied out to cf to left center.,25,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,2,bot,"Kirkpatrick homered to left field, 2 RBI; Q. Maher scored.",26,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,2,bot,T. Adelman struck out swinging.,27,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,3,top,V. Coughlin hit by pitch.,28,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,3,top,S. Landry lined out to rf.,29,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,3,top,C. Egrie struck out swinging.,30,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,3,top,B. Connors grounded out to 3b.,31,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,3,bot,B. Horne singled up the middle.,32,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,3,bot,B. Horne stole second.,33,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,3,bot,A. Warden singled to right field; B. Horne advanced to third.,34,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,3,bot,A. Warden stole second.,35,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,3,bot,"M. Petite struck out swinging, out at first c unassisted.",36,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,3,bot,"N. Flores singled to shortstop, RBI, out at second 1b to 2b; A. Warden advanced to third on an error by ss, scored on the throw; B. Horne scored.",37,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,3,bot,J. Lee walked.,38,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,3,bot,Q. Maher singled to left field; J. Lee advanced to second.,39,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,3,bot,Q. Maher stole second; J. Lee stole third.,40,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,3,bot,D. DeFranco walked.,41,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,3,bot,Kirkpatrick flied out to cf.,42,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,4,top,N. Frers to p for H. Gotschall.,43,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,4,top,G. Royer struck out looking.,44,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,4,top,J. LaFleur struck out swinging.,45,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,4,top,A. Sandell struck out looking.,46,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,4,bot,J. Reyes to p for B. Mulligan.,47,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,4,bot,T. Adelman walked.,48,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,4,bot,B. Horne struck out looking.,49,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,4,bot,A. Warden singled to third base; T. Adelman advanced to second.,50,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,4,bot,M. Petite reached on a fielder's choice; A. Warden out at second ss to 2b; T. Adelman advanced to third.,51,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,4,bot,N. Flores flied out to rf.,52,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,5,top,C. Dolah grounded out to 2b.,53,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,5,top,N. Spaner struck out looking.,54,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,5,top,V. Coughlin flied out to cf.,55,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,5,bot,J. Lee lined out to lf.,56,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,5,bot,Q. Maher singled to shortstop.,57,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,5,bot,"D. DeFranco doubled down the lf line, RBI; Q. Maher scored.",58,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,5,bot,"Kirkpatrick doubled to left field, RBI; D. DeFranco scored.",59,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,5,bot,T. Adelman grounded out to ss; Kirkpatrick advanced to third.,60,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,5,bot,B. Horne lined out to ss.,61,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,6,top,D. Newman to p for N. Frers.,62,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,6,top,S. Landry flied out to rf.,63,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,6,top,C. Egrie walked.,64,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,6,top,C. Egrie stole second.,65,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,6,top,B. Connors singled to right field; C. Egrie advanced to third.,66,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,6,top,G. Royer lined out to rf.,67,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,6,top,J. LaFleur grounded out to 1b unassisted.,68,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,6,bot,A. Gilbert to p for J. Reyes.,69,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,6,bot,A. Warden flied out to cf.,70,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,6,bot,B. Leyboldt pinch hit for M. Petite.,71,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,6,bot,B. Leyboldt struck out swinging.,72,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,6,bot,C. Tousa pinch hit for N. Flores.,73,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614804,6,bot,C. Tousa flied out to cf.,74,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,7,top,B. Leyboldt to cf.,75,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,7,top,C. Tousa to 2b.,76,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,7,top,E. Acevedo to lf for B. Horne.,77,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,7,top,A. Sandell struck out swinging.,78,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,7,top,C. Dolah struck out looking.,79,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,7,top,N. Spaner singled up the middle.,80,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,7,top,"V. Coughlin doubled to left field, RBI; N. Spaner scored.",81,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
-6542138,614620,Holy Cross Crusaders,614804,VCU Rams,614620,7,top,S. Landry struck out swinging.,82,2026-02-14 10:00:00-05:00,"The Diamond (Richmond, VA)",0,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,1,top,C. Kemmerer singled through the right side.,1,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,1,top,C. Kemmerer stole second.,2,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,1,top,T. Mason walked.,3,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,1,top,"G. Pancione flied out to rf, SAC3a T. Mason advanced to second3a C. Kemmerer advanced to third.",4,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,1,top,"N. Papathana singled to center field, RBI3a T. Mason advanced to third3a C. Kemmerer scored.",5,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,1,top,"H. Carlson tripled to left field, out at home lf to c, 2 RBI3a N. Papathana scored3a T. Mason scored.",6,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,1,top,C. Kim popped up to p.,7,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,1,bot,D. Potts reached first on an error by ss.,8,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,1,bot,J. Platt doubled to left field3a D. Potts advanced to third.,9,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,1,bot,"P. Radke reached first on an error by 2b, RBI3a J. Platt advanced to third3a D. Potts scored, unearned.",10,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,1,bot,"R. Dober flied out to lf, SAC, RBI3a J. Platt scored, unearned.",11,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,1,bot,"P. Radke out at second c to ss, caught stealing.",12,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,1,bot,M. McManus struck out looking.,13,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,2,top,G. Miller flied out to cf.,14,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,2,top,J. Mulhern grounded out to 3b.,15,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,2,top,S. Dickinson struck out swinging.,16,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,2,bot,Q. Allen struck out looking.,17,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,2,bot,J. Lott struck out looking.,18,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,2,bot,E. Sanders singled up the middle.,19,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,2,bot,E. Sanders advanced to second on a wild pitch.,20,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,2,bot,G. Lopez struck out swinging.,21,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,3,top,C. Kemmerer singled to right center.,22,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,3,top,T. Mason reached on a fielder's choice3a C. Kemmerer out at second ss to 2b.,23,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,3,top,T. Mason stole second.,24,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,3,top,G. Pancione singled through the left side3a T. Mason advanced to third.,25,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,3,top,"N. Papathana singled to shortstop, RBI3a G. Pancione advanced to second3a T. Mason scored.",26,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,3,top,H. Carlson grounded into double play 2b to ss to 1b3a N. Papathana out on the play.,27,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,3,bot,D. Potts singled through the left side.,28,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,3,bot,J. Platt flied out to lf.,29,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,3,bot,P. Radke grounded out to 1b unassisted3a D. Potts advanced to second.,30,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,3,bot,"R. Dober struck out swinging, out at first c to 1b.",31,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,4,top,C. Kim singled up the middle.,32,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,4,top,G. Miller flied out to lf.,33,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,4,top,J. Mulhern lined out to lf.,34,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,4,top,S. Dickinson singled to pitcher3a C. Kim advanced to second.,35,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,4,top,C. Kemmerer grounded out to 1b unassisted.,36,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,4,bot,H. Carlson to dh.,37,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,4,bot,B. Weeks to p.,38,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,4,bot,M. McManus flied out to cf.,39,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,4,bot,Q. Allen walked.,40,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,4,bot,Q. Allen advanced to second on a wild pitch.,41,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,4,bot,J. Lott grounded out to 2b3a Q. Allen advanced to third.,42,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,4,bot,E. Sanders flied out to rf.,43,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,5,top,T. Mason hit by pitch.,44,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,5,top,G. Pancione singled through the left side3a T. Mason advanced to second.,45,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,5,top,N. Fraginals to p for H. Pankey.,46,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,5,top,N. Papathana flied out to cf3a T. Mason advanced to third.,47,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,5,top,H. Carlson grounded out to p3a G. Pancione advanced to second.,48,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,5,top,C. Kim walked.,49,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,5,top,G. Miller popped up to 3b.,50,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,5,bot,G. Lopez singled to right field.,51,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,5,bot,D. Potts hit by pitch3a G. Lopez advanced to second.,52,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,5,bot,J. Platt singled to pitcher3a D. Potts advanced to second3a G. Lopez advanced to third.,53,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,5,bot,B. Smith to p for B. Weeks.,54,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,5,bot,"P. Radke singled to center field, 2 RBI3a J. Platt advanced to second3a D. Potts scored3a G. Lopez scored.",55,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,5,bot,R. Dober singled to third base3a P. Radke advanced to second3a J. Platt advanced to third.,56,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,5,bot,"M. McManus singled through the right side, RBI3a R. Dober advanced to second3a P. Radke advanced to third3a J. Platt scored.",57,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,5,bot,Q. Allen grounded into double play p to c to 2b3a M. McManus advanced to second3a R. Dober advanced to third3a P. Radke out on the play.,58,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,5,bot,J. Lott walked.,59,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,5,bot,E. Sanders flied out to cf.,60,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,6,top,K. Knoll to p for N. Fraginals.,61,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,6,top,J. Mulhern singled to center field.,62,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,6,top,"S. Dickinson grounded out to c, SAC3a J. Mulhern advanced to second.",63,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,6,top,C. Kemmerer lined out to 1b.,64,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,6,top,T. Mason flied out to lf.,65,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,6,bot,G. Sawyer to p for B. Smith.,66,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,6,bot,G. Lopez doubled down the rf line.,67,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,6,bot,D. Potts struck out swinging.,68,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,6,bot,"J. Platt doubled to left field, RBI3a G. Lopez scored.",69,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,6,bot,P. Radke flied out to cf3a J. Platt advanced to third.,70,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,6,bot,R. Dober grounded out to 2b.,71,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,7,top,G. Pancione struck out swinging.,72,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,7,top,N. Papathana doubled down the lf line.,73,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,7,top,"H. Carlson singled up the middle, RBI3a N. Papathana scored.",74,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,7,top,H. Carlson advanced to second on a balk.,75,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,7,top,C. Kim reached on a fielder's choice3a H. Carlson out at third ss to 3b.,76,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,7,top,C. Kim stole second.,77,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,7,top,G. Miller grounded out to 2b.,78,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,7,bot,S. Ritchie to p for G. Sawyer.,79,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,7,bot,M. McManus grounded out to ss.,80,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,7,bot,Q. Allen doubled to right field.,81,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,7,bot,J. Lott struck out swinging.,82,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,7,bot,E. Sanders flied out to cf.,83,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,8,top,J. Mulhern struck out looking.,84,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,8,top,S. Dickinson grounded out to 3b.,85,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,8,top,C. Kemmerer grounded out to p.,86,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,8,bot,G. Lopez hit by pitch.,87,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,8,bot,M. Dumas pinch ran for G. Lopez.,88,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,8,bot,D. Potts reached on a fielder's choice3a M. Dumas out at second ss to 2b.,89,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,8,bot,J. Platt singled through the right side3a D. Potts advanced to second.,90,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,8,bot,P. Radke reached first on an error by 3b3a J. Platt advanced to second3a D. Potts advanced to third.,91,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,8,bot,"R. Dober doubled to left field, 2 RBI3a P. Radke advanced to third3a J. Platt scored3a D. Potts scored.",92,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,8,bot,"M. McManus flied out to lf, SAC, RBI3a P. Radke scored, unearned.",93,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615114,8,bot,Q. Allen grounded out to 3b.,94,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,9,top,N. Hill to c for M. Dumas.,95,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,9,top,T. Mason singled to third base.,96,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,9,top,E. Wilford to p for K. Knoll.,97,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,9,top,G. Pancione struck out swinging.,98,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,9,top,J. Guell to p for E. Wilford.,99,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,9,top,N. Papathana walked3a T. Mason advanced to second.,100,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,9,top,H. Carlson flied out to cf3a T. Mason advanced to third.,101,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,9,top,N. Papathana advanced to second.,102,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6495426,615208,Ferrum Panthers,615114,Erskine The Flying Fleet,615208,9,top,C. Kim grounded out to 2b.,103,2026-02-14 13:30:00-05:00,"Grier Field (Due West, SC)",93,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,1,top,J. Cappo struck out looking.,1,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,1,top,L. Keitsock walked.,2,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,1,top,T. Rabosky struck out swinging.,3,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,1,top,S. Superka struck out swinging.,4,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,1,bot,C. Swift grounded out to 3b.,5,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,1,bot,N. Tondreaul grounded out to 3b.,6,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,1,bot,J. Inman grounded out to 1b unassisted.,7,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,2,top,D. Vozzo grounded out to 3b.,8,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,2,top,E. Budick struck out swinging.,9,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,2,top,D. Rodriguez out at first 1b to p.,10,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,2,bot,M. Ehrhardt struck out swinging.,11,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,2,bot,C. Seeley struck out swinging.,12,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,2,bot,J. Newton hit by pitch.,13,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,2,bot,J. Newton advanced to second on a wild pitch.,14,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,2,bot,"T. Waire singled down the lf line, out at second lf to 2b, RBI3a J. Newton scored.",15,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,3,top,R. Werkheise struck out looking.,16,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,3,top,O. Ness struck out looking.,17,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,3,top,J. Cappo grounded out to 3b.,18,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,3,bot,L. Stillerma struck out swinging.,19,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,3,bot,E. Ruiz singled to second base.,20,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,3,bot,"E. Ruiz out at second c to ss, caught stealing.",21,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,3,bot,C. Swift flied out to rf.,22,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,4,top,L. Keitsock walked.,23,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,4,top,T. Rabosky lined out to cf.,24,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,4,top,S. Superka grounded out to 3b3a L. Keitsock advanced to second.,25,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,4,top,D. Vozzo flied out to cf.,26,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,4,bot,N. Tondreaul walked.,27,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,4,bot,N. Tondreaul advanced to second on a wild pitch.,28,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,4,bot,N. Tondreaul advanced to third on a wild pitch.,29,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,4,bot,"J. Inman lined out to cf, sacrifice fly, RBI3a N. Tondreaul scored.",30,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,4,bot,M. Ehrhardt doubled to left center.,31,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,4,bot,C. Seeley singled to left field.,32,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,4,bot,C. Seeley stole second3a M. Ehrhardt stole third.,33,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,4,bot,"J. Newton grounded out to ss, RBI3a C. Seeley advanced to third3a M. Ehrhardt scored.",34,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,4,bot,C. Seeley scored on a wild pitch.,35,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,4,bot,T. Waire grounded out to 3b.,36,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,5,top,E. Budick struck out swinging.,37,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,5,top,D. Rodriguez grounded out to 2b.,38,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,5,top,R. Werkheise lined out to rf.,39,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,5,bot,L. Stillerma walked.,40,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,5,bot,"E. Ruiz grounded out to p, SAC, bunt3a L. Stillerma advanced to second.",41,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,5,bot,L. Stillerma stole third.,42,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,5,bot,C. Swift walked.,43,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,5,bot,"N. Tondreaul reached on a fielder's choice to shortstop, RBI3a C. Swift out at second ss unassisted3a L. Stillerma scored.",44,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,5,bot,N. Tondreaul stole second.,45,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,5,bot,"J. Inman doubled down the rf line, RBI3a N. Tondreaul scored.",46,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,5,bot,C. Ward to p for R. Huffman.,47,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,5,bot,"M. Ehrhardt singled to center field, RBI3a J. Inman scored.",48,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,5,bot,C. Seeley fouled out to 1b.,49,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,6,top,G. Shirk to 1b for C. Seeley.,50,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,6,top,O. Ness grounded out to ss.,51,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,6,top,J. Cappo grounded out to 3b.,52,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,6,top,L. Keitsock flied out to lf.,53,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,E. Youngling to p for C. Ward.,54,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,J. Newton walked.,55,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,T. Waire walked3a J. Newton advanced to second.,56,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,T. Waire stole second3a J. Newton stole third.,57,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,L. Stillerma walked.,58,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,"E. Ruiz walked, RBI3a L. Stillerma advanced to second3a T. Waire advanced to third3a J. Newton scored.",59,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,C. Elicier to p for E. Youngling.,60,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,M. Delgaudio pinch hit for C. Swift.,61,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,"M. Delgaudio doubled down the lf line, 2 RBI3a E. Ruiz advanced to third, scored on a throwing error by lf3a L. Stillerma scored3a T. Waire scored.",62,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,M. Haynes pinch ran for M. Delgaudio.,63,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,N. Tondreaul grounded out to ss3a M. Haynes advanced to third.,64,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,M. Haynes scored on a wild pitch.,65,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,J. Inman walked.,66,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,C. Ruley pinch ran for J. Inman.,67,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,M. Ehrhardt grounded out to 1b unassisted3a C. Ruley advanced to second.,68,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,"G. Shirk singled to left field, RBI3a C. Ruley scored.",69,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,J. Witter pinch hit for J. Newton.,70,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615347,6,bot,J. Witter reached on a fielder's choice to second base3a G. Shirk out at second 2b to ss.,71,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,7,top,C. Ruley to 3b.,72,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,7,top,T. Morris to rf for J. Witter.,73,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,7,top,C. Williams to p for A. Brinsfiel.,74,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,7,top,T. Rabosky walked.,75,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,7,top,S. Superka struck out swinging.,76,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,7,top,D. Vozzo struck out swinging.,77,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6498822,615282,Moravian Greyhounds,615347,Salisbury Sea Gulls,615282,7,top,E. Budick struck out looking.,78,2026-02-14 13:30:00-05:00,"Donnie Williams Sea Gull Baseball Stadium (Salisbury, MD)",199,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,1,top,"Connolly,Joe struck out swinging (3-2 FBBKBFS).",1,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,1,top,"Perez,Kenneth grounded out to short, ss to 1b (0-0).",2,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,1,top,"Bushey,Liam grounded out to first base, unassisted (0-1 K).",3,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,1,bot,"Garrison,Jayden grounded out to third base, 3b to 1b (3-2 BFSBB).",4,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,1,bot,"Esquivel,Eddison struck out swinging (1-2 FKBS).",5,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,1,bot,"Rogers,TJ popped up to second base (0-0).",6,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,2,top,"Turgeon,Dante singled through the right side of the infield (0-2 KK).",7,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,2,top,"Osting,Paul grounded into double play to first base, unassisted (2-2 FBSB)3a Turgeon,Dante out at 2B on the play, 1b to ss, in a double play.",8,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,2,top,"Hoover,Gage lined out to short (1-2 KKB).",9,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,2,bot,"Burke,Brendan doubled to right center (2-2 KBKB).",10,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,2,bot,"Harmon,Trevor grounded out to first base, unassisted (0-2 SS)3a Burke,Brendan advanced to third base.",11,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,2,bot,"Harries,Tyler doubled to right field, RBI (1-2 BKS)3a Burke,Brendan scored.",12,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,2,bot,"Lewis,Jordan struck out looking (3-2 KBSBBFK).",13,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,2,bot,"Lewis,Jared singled to left center, RBI (2-2 KBSB)3a Harries,Tyler scored from second base.",14,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,2,bot,"Landry,Isaiah flied out to right center putout by rf (1-0 B).",15,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,3,top,"Campana,Wandel singled to left center (1-0 B).",16,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,3,top,"Morse,Krayton singled to right center (0-2 KK)3a Campana,Wandel advanced from first base to third base.",17,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,3,top,"Monge,Isaiah singled to shallow left field, RBI (0-0)3a Campana,Wandel scored3a Morse,Krayton advanced to second base.",18,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,3,top,"Connolly,Joe struck out swinging (1-2 SFFBS).",19,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,3,top,"Perez,Kenneth struck out swinging (0-2 SKS).",20,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,3,top,"Monge,Isaiah out at first base, p to 1b, picked off.",21,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,3,bot,"Garrison,Jayden doubled to right field (1-1 KB).",22,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,3,bot,"Esquivel,Eddison flied out to right center putout by rf (2-1 KBB).",23,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,3,bot,"Rogers,TJ singled to left field, RBI (1-2 BFS)3a Garrison,Jayden scored from second base3a Rogers,TJ advanced from to second base on a fielding error by Hoover,Gage (E7).",24,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,3,bot,"Burke,Brendan struck out swinging (1-2 BKFS).",25,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,3,bot,"Harmon,Trevor struck out swinging (0-2 FKS).",26,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,4,top,"Bushey,Liam singled through the right side of the infield (1-1 BF).",27,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,4,top,"Turgeon,Dante lined out to second base (1-2 KKBF).",28,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,4,top,"Osting,Paul struck out swinging (2-2 KBFBS).",29,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,4,top,"Hoover,Gage singled to center field (0-1 S)3a Bushey,Liam advanced to second base.",30,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,4,top,"Campana,Wandel grounded out to the right side of the infield, 2b to 1b (1-2 KFB).",31,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,4,bot,"WIU pitching change: Kaminski,Dylan replaces Buhl,Jason.",32,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,4,bot,"Harries,Tyler flied out to rf (3-2 BKBKB).",33,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,4,bot,"Lewis,Jordan infield singled to second base (1-2 BSK).",34,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,4,bot,"Lewis,Jared singled to shallow left field (0-0)3a Lewis,Jordan advanced from first base to third base.",35,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,4,bot,"Landry,Isaiah grounded out to third base, 3b to 1b, RBI (1-2 BKSF)3a Lewis,Jordan scored3a Lewis,Jared advanced to second base.",36,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,4,bot,"Garrison,Jayden popped up to second base (1-1 KB).",37,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,5,top,"USF pitching change: Andreas,Jake replaces Valdez,Adrian.",38,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,5,top,"Morse,Krayton struck out swinging (2-2 SBSBS).",39,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,5,top,"Monge,Isaiah flied out to rf (1-2 BSSFF).",40,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,5,top,"Connolly,Joe walked (3-0 BBBB).",41,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,5,top,"Perez,Kenneth reached on a fielder's choice hit to short (3-1 FBBB)3a Connolly,Joe out at second base, ss to 2b.",42,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,5,bot,"WIU pitching change: Sonoqui,Cade replaces Kaminski,Dylan.",43,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,5,bot,"Esquivel,Eddison grounded out to third base, 3b to 1b (2-0 BB).",44,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,5,bot,"Rogers,TJ walked (3-2 KBBBKB).",45,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,5,bot,"Rogers,TJ stole second base.",46,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,5,bot,"Burke,Brendan walked (3-2 KSBFBFBB).",47,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,5,bot,"USF substitution: Davis,Wyatt pinch hitting for Harmon,Trevor.",48,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,5,bot,"Rogers,TJ stole third base.",49,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,5,bot,"Davis,Wyatt sacrifice fly to rf, RBI (3-2 BBFBFF)3a Rogers,TJ scored.",50,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,5,bot,"Harries,Tyler walked (3-2 BBKKBB)3a Burke,Brendan advanced to second base.",51,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,5,bot,"Harries,Tyler advanced to second base on a balk3a Burke,Brendan advanced to third base on a balk.",52,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,5,bot,"Lewis,Jordan walked (3-0 BBBB).",53,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,5,bot,"Lewis,Jared struck out swinging (1-2 KSBFS).",54,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,6,top,"USF position change: Burke,Brendan now playing 1b from c",55,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,6,top,"USF substitution: Ramppen,Zack replaces Davis,Wyatt at c, batting 5th.",56,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,6,top,"Bushey,Liam singled to shallow right field (0-0).",57,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,6,top,"Turgeon,Dante struck out looking (2-2 BFBFK).",58,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,6,top,"Osting,Paul flied out to shallow center field putout by cf (0-1 K).",59,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,6,top,"Hoover,Gage struck out swinging (2-2 BSKBS).",60,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,6,bot,"WIU pitching change: Esker,Alex replaces Sonoqui,Cade.",61,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,6,bot,"Landry,Isaiah walked (3-2 BBBKKFFB).",62,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,6,bot,"Garrison,Jayden reached on a fielder's choice hit to first base (0-1 K)3a Landry,Isaiah out at second base, 1b to ss.",63,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,6,bot,"Esquivel,Eddison grounded out to second base, 2b to 1b (0-1 K)3a Garrison,Jayden advanced to second base.",64,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,6,bot,"Rogers,TJ struck out looking (2-2 SBSBK).",65,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,7,top,"Campana,Wandel hit by pitch (3-2 FSBFBB).",66,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,7,top,"Morse,Krayton flied out to right center putout by rf (2-2 SBBF).",67,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,7,top,"Monge,Isaiah homered to deep left field, 2RBI (2-2 BFKFB)3a Campana,Wandel scored from first base.",68,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,7,top,"Connolly,Joe doubled down the left field line (0-1 F).",69,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,7,top,"USF pitching change: Yovanovich,Kai replaces Andreas,Jake.",70,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,7,top,"Perez,Kenneth singled through the right side of the infield, RBI (0-1 S)3a Connolly,Joe scored from second base.",71,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,7,top,"Bushey,Liam walked (3-1 KBBBB)3a Perez,Kenneth advanced to second base.",72,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,7,top,"Turgeon,Dante struck out swinging (0-2 KFFS).",73,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,7,top,"Bushey,Liam advanced to second base on a passed ball3a Perez,Kenneth advanced to third base on a passed ball.",74,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,7,top,"Osting,Paul grounded out to first base, 1b to p (2-1 BBK).",75,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,7,bot,"Burke,Brendan grounded out to first base, unassisted (0-0).",76,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,7,bot,"Ramppen,Zack struck out swinging on dropped third strike, out at first c to 1b (1-2 KBKS).",77,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,7,bot,"Harries,Tyler popped up to shallow left field putout by ss (2-1 BBK).",78,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,8,top,"Hoover,Gage popped up down the right field line putout by 2b (0-2 SSF).",79,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,8,top,"Campana,Wandel infield singled to the pitcher's mound (0-1 K).",80,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,8,top,"Morse,Krayton flied out to rf (1-0 B).",81,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,8,top,"Monge,Isaiah flied out to rf (1-2 BKK).",82,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,8,bot,"WIU pitching change: Humphrey,Billy replaces Esker,Alex.",83,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,8,bot,"Lewis,Jordan infield singled to short (2-2 BSBFF).",84,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,8,bot,"Lewis,Jared popped up to the left side of the infield putout by 3b (1-1 BF).",85,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,8,bot,"Lewis,Jordan out at first base, p to 1b, picked off.",86,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,8,bot,"Landry,Isaiah singled through the left side of the infield (1-2 KBFF).",87,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,8,bot,"Garrison,Jayden walked (3-1 KBBBB)3a Landry,Isaiah advanced to second base.",88,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,8,bot,"Esquivel,Eddison infield singled in the infield (2-1 BKB)3a Landry,Isaiah advanced to third base3a Garrison,Jayden advanced to second base.",89,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614732,8,bot,"Rogers,TJ struck out swinging (3-2 BBKFBS).",90,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,9,top,"USF pitching change: Bacura,Nick replaces Yovanovich,Kai.",91,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,9,top,"Connolly,Joe struck out swinging (1-2 SFBS).",92,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,9,top,"Perez,Kenneth walked (3-2 BSBSBFB).",93,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,9,top,"WIU substitution: Large,Tyler pinch running for Perez,Kenneth.",94,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,9,top,"Bushey,Liam popped up to shallow left field putout by ss (1-0 B).",95,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6509141,614814,Western Ill. Leathernecks,614732,San Francisco Dons,614814,9,top,"Turgeon,Dante flied out to rf (1-2 KKB).",96,2026-02-14 13:30:00-05:00,"Benedetti Diamond (San Francisco, CA)",164,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,1,top,M. Mauney fouled out to 1b.,1,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,1,top,S. Roman flied out to lf.,2,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,1,top,G. Ortiz doubled to right field.,3,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,1,top,T. Palmgren grounded out to 2b.,4,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,1,bot,G. Grant singled through the left side.,5,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,1,bot,G. Grant stole second.,6,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,1,bot,L. Woodard flied out to lf.,7,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,1,bot,G. Grant stole third.,8,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,1,bot,D. Anders walked.,9,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,1,bot,D. Anders stole second.,10,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,1,bot,"G. McCoy doubled to left field, 2 RBI3a D. Anders scored3a G. Grant scored.",11,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,1,bot,T. Hinkle flied out to lf.,12,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,1,bot,G. McCoy advanced to third on a passed ball.,13,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,1,bot,"B. Genwright reached first on a fielding error by 1b3a G. McCoy scored, unearned.",14,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,1,bot,A. Newcomb flied out to cf.,15,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,2,top,M. Serra struck out looking.,16,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,2,top,Lan. Griffey grounded out to ss.,17,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,2,top,C. Thacker grounded out to 1b unassisted.,18,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,2,bot,D. Duffy doubled down the lf line.,19,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,2,bot,M. Love flied out to lf.,20,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,2,bot,G. Grant grounded out to 3b.,21,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,2,bot,L. Woodard flied out to lf.,22,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,3,top,S. Blackwell grounded out to ss.,23,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,3,top,A. Blaszkows popped up to ss.,24,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,3,top,M. Mauney flied out to rf.,25,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,3,bot,"D. Anders grounded out to p, bunt.",26,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,3,bot,"G. McCoy Dropped foul ball, E2.",27,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,3,bot,G. McCoy flied out to lf.,28,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,3,bot,T. Hinkle singled to third base.,29,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,3,bot,B. Genwright flied out to lf.,30,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,4,top,A. Fahringer to p for M. Evans.,31,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,4,top,S. Roman out at first 2b to p.,32,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,4,top,G. Ortiz grounded out to 2b.,33,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,4,top,T. Palmgren grounded out to 2b.,34,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,4,bot,A. Newcomb grounded out to ss.,35,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,4,bot,D. Duffy struck out looking.,36,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,4,bot,M. Love out at first 1b to p.,37,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,5,top,M. Serra doubled down the rf line.,38,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,5,top,"Lan. Griffey grounded out to p, SAC, bunt3a M. Serra advanced to third.",39,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,5,top,C. Thacker lined out to 2b.,40,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,5,top,S. Blackwell grounded out to 1b unassisted.,41,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,5,bot,W. Moran to p for E. Rivera.,42,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,5,bot,G. Grant hit by pitch.,43,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,5,bot,"G. Grant out at second c to 2b, caught stealing.",44,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,5,bot,L. Woodard flied out to cf.,45,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,5,bot,D. Anders walked.,46,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,5,bot,G. McCoy singled through the left side3a D. Anders advanced to second.,47,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,5,bot,T. Hinkle flied out to rf.,48,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,6,top,K. Milstead to p for A. Fahringer.,49,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,6,top,"A. Blaszkows grounded out to p, bunt.",50,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,6,top,M. Mauney grounded out to ss.,51,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,6,top,S. Roman grounded out to 2b.,52,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,B. Genwright grounded out to 1b unassisted.,53,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,A. Newcomb walked.,54,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,"A. Newcomb advanced to second on a muffed throw by 1b, failed pickoff attempt, advanced to third.",55,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,D. Duffy walked.,56,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,D. Duffy advanced to second3a A. Newcomb scored on a wild pitch.,57,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,M. Love walked.,58,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,M. Love advanced to second3a D. Duffy advanced to third on a wild pitch.,59,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,G. Grant hit by pitch.,60,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,"L. Woodard hit by pitch, RBI3a G. Grant advanced to second3a M. Love advanced to third3a D. Duffy scored.",61,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,"D. Anders homered down the lf line, 4 RBI3a L. Woodard scored3a G. Grant scored3a M. Love scored.",62,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,G. McCoy walked.,63,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,J. Padey to p for W. Moran.,64,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,K. Andrew pinch ran for G. McCoy.,65,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,K. Andrew stole second.,66,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,T. Hinkle singled through the left side3a K. Andrew advanced to third.,67,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,T. Hinkle advanced to second3a K. Andrew scored on a wild pitch.,68,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,T. Hinkle advanced to third on a wild pitch.,69,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,"B. Genwright reached first on a fielding error by 2b, RBI3a T. Hinkle scored.",70,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,B. Genwright advanced to second on a wild pitch.,71,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,A. Newcomb singled up the middle3a B. Genwright advanced to third.,72,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,"D. Duffy flied out to cf, sacrifice fly, RBI3a B. Genwright scored, unearned.",73,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,M. Love hit by pitch3a A. Newcomb advanced to second.,74,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,A. Ogles pinch hit for G. Grant.,75,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615281,6,bot,A. Ogles flied out to lf.,76,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,7,top,T. Kelson to lf for A. Ogles.,77,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,7,top,A. Bernard to ss for L. Woodard.,78,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,7,top,T. Hinkle to 3b.,79,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,7,top,G. Ortiz singled down the 3b line.,80,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,7,top,T. Palmgren grounded into double play 2b to ss to 1b3a G. Ortiz out on the play.,81,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026
+6529195,615136,Berea Mountaineers,615281,Brevard Tornados,615136,7,top,M. Serra grounded out to 2b.,82,2026-02-14 13:30:00-05:00,"Gil Coan Field (Brevard, NC)",187,MBA,2026

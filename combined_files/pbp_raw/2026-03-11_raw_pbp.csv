@@ -1,108 +1,801 @@
 game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,1,top,"Ayala, T. grounded out to 2b (0-0).",1,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,1,top,"Hamada, A. grounded out to ss (0-1 F).",2,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,1,top,"Fujii, C. flied out to cf (2-1 KBB).",3,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,1,bot,"Nahaku, K. grounded out to ss (0-0).",4,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,1,bot,"Zeigler, B. singled to left center (1-0 B).",5,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,1,bot,"Ickes, E. singled to third base (2-0 BB)3a Zeigler, B. advanced to second.",6,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,1,bot,"Nushida, D. singled to left field (2-2 BBFF)3a Ickes, E. advanced to second3a Zeigler, B. advanced to third.",7,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,1,bot,"Watanabe, K. doubled down the lf line, 3 RBI (2-1 BKB)3a Nushida, D. scored3a Ickes, E. scored3a Zeigler, B. scored.",8,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,1,bot,"Watanabe, K. stole third.",9,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,1,bot,"Redding, J. grounded out to 3b, RBI (2-0 BB)3a Watanabe, K. scored.",10,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,1,bot,"Shimao, T. flied out to lf (1-0 B).",11,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,2,top,"Poler, B. walked (3-1 FBBBB).",12,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,2,top,"Breeze, C. reached on a fielding error by ss, advanced to second on the throw (0-0)3a Poler, B. advanced to third.",13,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,2,top,"Greb, A. struck out swinging (2-2 SSBBS).",14,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,2,top,"Waite, D. to p for Soto, S..",15,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,2,top,"Mooney, T. hit by pitch (0-2 FF).",16,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,2,top,"Wagner, C. flied into double play lf to c (0-0)3a Poler, B. out on the play.",17,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,2,bot,"Wright, G. walked (3-1 FBBBB).",18,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,2,bot,"Cody, C. to p for Till, N..",19,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,2,bot,"Lau Kong, M. singled through the left side (1-1 KB)3a Wright, G. advanced to third.",20,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,2,bot,"Lau Kong, M. advanced to second on a wild pitch3a Wright, G. scored on a wild pitch.",21,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,2,bot,"Nahaku, K. hit by pitch (2-0 BB).",22,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,2,bot,"Zeigler, B. grounded out to 2b (2-1 KBB)3a Nahaku, K. advanced to second3a Lau Kong, M. advanced to third.",23,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,2,bot,"Ickes, E. popped up to ss (0-2 KF).",24,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,2,bot,"Nushida, D. walked (3-1 FBBBB).",25,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,2,bot,"Watanabe, K. walked, RBI (3-1 SBBBB)3a Nushida, D. advanced to second3a Nahaku, K. advanced to third3a Lau Kong, M. scored.",26,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,2,bot,"Redding, J. grounded out to ss (2-2 BFBF).",27,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,3,top,"Braga, B. popped up to 1b (0-0).",28,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,3,top,"Ayala, T. flied out to rf (0-1 S).",29,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,3,top,"Hamada, A. walked (3-0 BBBB).",30,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,3,top,"Fujii, C. lined out to 3b (0-1 K).",31,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,3,bot,"Shimao, T. flied out to rf (0-0).",32,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,3,bot,"Wright, G. doubled up the middle (2-2 BSKB).",33,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,3,bot,"Wright, G. stole third, scored on a throwing error by c, unearned.",34,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,3,bot,"Lau Kong, M. struck out looking (1-2 KBSK).",35,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,3,bot,"Nahaku, K. walked (3-2 KBBBFFB).",36,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,3,bot,"Nahaku, K. out at second c to ss, caught stealing.",37,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,4,top,"Poler, B. struck out swinging (0-2 FKS).",38,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,4,top,"Breeze, C. flied out to cf (0-2 FS).",39,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,4,top,"Greb, A. flied out to cf (3-1 BBFB).",40,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,4,bot,"Panis, B. to p for Cody, C..",41,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,4,bot,"Zeigler, B. reached on a fielding error by 2b (0-2 KF).",42,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,4,bot,"Ickes, E. reached on a fielding error by 3b (0-0)3a Zeigler, B. advanced to second.",43,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,4,bot,"Nushida, D. grounded out to 2b (3-2 KBSBB)3a Ickes, E. advanced to second3a Zeigler, B. advanced to third.",44,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,4,bot,"Watanabe, K. flied out to rf, SF, RBI (0-0)3a Ickes, E. advanced to third3a Zeigler, B. scored, unearned.",45,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,4,bot,"Redding, J. grounded out to p (1-0 B).",46,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,5,top,"Tenn, Z. to p for Waite, D..",47,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,5,top,"Hoinowski, D pinch hit for Mooney, T..",48,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,5,top,"Hoinowski, D grounded out to 2b (0-0).",49,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,5,top,"Wagner, C. popped up to ss (1-0 B).",50,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,5,top,"Clark, H. pinch hit for Braga, B..",51,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,5,top,"Clark, H. struck out swinging (0-2 FKS).",52,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Toyama, R. to 2b for Williams, E..",53,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Williams, E. to 3b for Hamada, A..",54,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Poler, B. to rf.",55,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Perry, A. to cf for Greb, A..",56,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"DuCoeur, J. to c for Hoinowski, D.",57,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Kawai, K. to lf for Wagner, C..",58,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Clark, H. to 1b.",59,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Shimao, T. singled through the left side (0-1 F).",60,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Wright, G. grounded out to 2b (2-1 BSB)3a Shimao, T. advanced to second.",61,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Lau Kong, M. singled up the middle, RBI (2-2 BFKB)3a Shimao, T. scored.",62,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Nahaku, K. hit by pitch (3-1 KBBB)3a Lau Kong, M. advanced to second.",63,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"ShimabukuroR to p for Panis, B..",64,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Zeigler, B. walked (3-1 BSBBB)3a Nahaku, K. advanced to second3a Lau Kong, M. advanced to third.",65,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Uszacki, J. to p for ShimabukuroR.",66,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Ickes, E. hit by pitch, RBI (2-1 BFB)3a Zeigler, B. advanced to second3a Nahaku, K. advanced to third3a Lau Kong, M. scored.",67,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Belmodis, H. to p for Uszacki, J..",68,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Greco, G. pinch ran for Nahaku, K..",69,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Takata, T. pinch ran for Zeigler, B..",70,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Martin, J. pinch ran for Ickes, E..",71,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Martin, J. advanced to second3a Takata, T. advanced to third3a Greco, G. scored on a passed ball.",72,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Nushida, D. hit by pitch (1-0 B).",73,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Watanabe, K. reached on a fielder's choice to second base, RBI (2-0 BB)3a Nushida, D. out at second 2b to ss3a Martin, J. advanced to third3a Takata, T. scored.",74,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Redding, J. singled to shortstop, RBI (1-1 KB)3a Watanabe, K. advanced to second3a Martin, J. scored.",75,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Sanchez, K. pinch ran for Redding, J..",76,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Shimao, T. walked (3-1 BBFBB)3a Sanchez, K. advanced to second3a Watanabe, K. advanced to third.",77,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Petersen, J. to p for Belmodis, H..",78,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Bethancourt pinch ran for Watanabe, K..",79,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Rodriguez, N pinch ran for Shimao, T..",80,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Wright, G. reached on a throwing error by ss, advanced to second (1-1 KB)3a Rodriguez, N advanced to third3a Sanchez, K. scored, unearned3a Bethancourt scored, unearned.",81,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,5,bot,"Lau Kong, M. struck out swinging (3-2 BFFFBBS).",82,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,6,top,"Greco, G. to rf.",83,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,6,top,"Takata, T. to ss.",84,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,6,top,"Martin, J. to 1b.",85,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,6,top,Bethancourt to 3b.,86,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,6,top,"Sanchez, K. to c.",87,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,6,top,"Rodriguez, N to 2b.",88,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,6,top,"Wright, G. to cf.",89,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,6,top,"Okada, C. to p for Tenn, Z..",90,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,6,top,"Toyama, R. singled to second base (1-1 BK).",91,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,6,top,"Williams, E. singled to first base (1-2 BKKFFF)3a Toyama, R. advanced to second.",92,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,6,top,"Fujii, C. out at first 1b to p (0-1 K)3a Williams, E. advanced to second3a Toyama, R. advanced to third.",93,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,6,top,"Poler, B. struck out swinging (1-2 SFFBS).",94,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,6,top,"Kim. C. pinch hit for Breeze, C..",95,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,6,top,Kim. C. grounded out to ss (0-0).,96,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,6,bot,"Greco, G. reached on a throwing error by p (1-1 KB).",97,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,6,bot,"Takata, T. singled to right center (0-1 F)3a Greco, G. advanced to second.",98,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,6,bot,"Martin, J. out at first 1b to p (1-2 BSFFF)3a Takata, T. advanced to second3a Greco, G. advanced to third.",99,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,6,bot,"Won, K. pinch hit for Nushida, D..",100,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,6,bot,"Won, K. popped up to 2b (1-2 SBF).",101,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,614618,6,bot,Bethancourt struck out swinging (1-2 SSBFS).,102,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,7,top,"Barton, K. to p for Okada, C..",103,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,7,top,"Won, K. to lf.",104,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,7,top,"Perry, A. fouled out to 1b (3-1 BFBB).",105,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,7,top,"DuCoeur, J. struck out swinging (3-2 KBBKBS).",106,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
-6519486,615123,Chaminade Silverswords,614618,Hawaii Rainbow Warriors,615123,7,top,"Kawai, K. struck out swinging (0-2 FSS).",107,2026-03-11 00:35:00-04:00,"Les Murakami Stadium (Honolulu, HI)",3388,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,1,top,"F Master singled to third base, bunt (0-0).",1,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,1,top,"N Bisaccia grounded out to 1b unassisted, SAC, bunt (0-0); F Master advanced to second.",2,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,1,top,Z Maxwell walked (3-2 FBSFBBB).,3,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,1,top,N Donofrio struck out swinging (3-2 FBFBBFS).,4,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,1,top,"A Vallaro reached first on an error by 2b (0-2 KFF); Z Maxwell advanced to third; F Master scored, unearned.",5,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,1,top,A Vallaro stole second.,6,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,1,top,T Giordano struck out looking (0-2 SSFK).,7,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,1,bot,Ethan Steinmetz struck out swinging (1-2 SKBS).,8,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,1,bot,William Somers struck out swinging (3-2 BKKBBS).,9,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,1,bot,Tommy Smith flied out to lf (0-0).,10,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,2,top,Tommy Butts to p for Conner Burkey.,11,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,2,top,A Tetto doubled down the rf line (0-1 S).,12,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,2,top,A Tetto advanced to third on a wild pitch.,13,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,2,top,D Gallagher hit by pitch (1-0 B).,14,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,2,top,G Shenman fouled out to 3b (0-0).,15,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,2,top,"A Tetto out at third c to 3b, picked off.",16,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,2,top,F Master walked (3-0 BBBB); D Gallagher advanced to second.,17,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,2,top,N Bisaccia struck out looking (2-2 KBBKK).,18,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,2,bot,"Adrian Pagan Cruz struck out swinging, out at first c to 1b (0-2 KKS).",19,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,2,bot,Josh Preston grounded out to 3b (2-1 BBK).,20,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,2,bot,Kaden Faychak grounded out to ss (3-2 KBKFBB).,21,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,3,top,Z Maxwell struck out swinging (3-2 FBSBBS).,22,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,3,top,N Donofrio struck out looking (3-2 BBBKFFK).,23,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,3,top,A Vallaro flied out to rf (0-0).,24,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,3,bot,Nicholas Laubach struck out looking (2-2 BBKKK).,25,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,3,bot,Shawn Gisler walked (3-2 BSBSFBB).,26,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,3,bot,Zach Tyson struck out looking (1-2 SBKK).,27,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,3,bot,Shawn Gisler stole second.,28,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,3,bot,Ethan Steinmetz walked (3-1 SBBBB).,29,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,3,bot,William Somers reached on a fielder's choice (1-0 B); Ethan Steinmetz out at second ss unassisted.,30,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,4,top,T Giordano struck out looking (1-2 BFSK).,31,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,4,top,A Tetto grounded out to p (1-0 B).,32,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,4,top,D Gallagher fouled out to 1b (0-0).,33,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,4,bot,Tommy Smith singled to right field (0-1 K).,34,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,4,bot,Adrian Pagan Cruz struck out swinging (1-2 KSBS).,35,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,4,bot,Josh Preston doubled to left field (1-1 KB); Tommy Smith advanced to third.,36,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,4,bot,Kaden Faychak grounded out to 3b (3-1 BSBB).,37,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,4,bot,Nicholas Laubach walked (3-2 BBFKBB).,38,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,4,bot,Shawn Gisler flied out to rf (0-0).,39,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,5,top,G Shenman struck out swinging (1-2 BKSS).,40,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,5,top,F Master walked (3-1 BKBBB).,41,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,5,top,N Bisaccia reached on a fielder's choice (3-2 BBBKS); F Master out at second ss to 2b.,42,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,5,top,Z Maxwell flied out to rf (0-1 K).,43,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,5,bot,G Ross to p for B Kobryn.,44,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,5,bot,Zach Tyson struck out looking (3-2 KBBKBK).,45,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,5,bot,Ethan Steinmetz struck out swinging (0-2 SKS).,46,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,5,bot,William Somers lined out to rf (0-2 KF).,47,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,N Donofrio singled to right field (3-2 SBFBB).,48,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,A Vallaro hit by pitch (0-0); N Donofrio advanced to second.,49,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,"T Giordano singled to third base, bunt (0-0); A Vallaro advanced to second; N Donofrio advanced to third.",50,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,J Mocik pinch ran for T Giordano.,51,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,A Tetto reached on a fielder's choice (1-2 KBF); J Mocik advanced to second; A Vallaro advanced to third; N Donofrio out at home p to c.,52,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,"D Gallagher hit by pitch, RBI (2-2 BKKH); A Tetto advanced to second; J Mocik advanced to third; A Vallaro scored.",53,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,T Kirkby pinch hit for G Shenman.,54,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,"T Kirkby singled up the middle, advanced to second on an error by 2b, 2 RBI (0-0); D Gallagher scored; A Tetto scored; J Mocik scored.",55,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,E Frix pinch ran for T Kirkby.,56,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,"F Master singled through the right side, scored on an error by rf, unearned, RBI (3-2 BBBKK); E Frix scored.",57,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,Josh Hudak to p for Tommy Butts.,58,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,N Bisaccia hit by pitch (2-2 SKBB).,59,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,Z Maxwell walked (3-1 KBBBB); N Bisaccia advanced to second.,60,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,B Cacoilo pinch hit for N Donofrio.,61,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,B Cacoilo fouled out to 1b (0-0).,62,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,D Wayne pinch hit for A Vallaro.,63,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,Z Maxwell advanced to second on a balk; N Bisaccia advanced to third on a balk.,64,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,Z Maxwell advanced to third on a wild pitch; N Bisaccia scored on a wild pitch.,65,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,6,top,D Wayne grounded out to 3b (3-2 KBKBB).,66,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,6,bot,B Cacoilo to c.,67,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,6,bot,D Wayne to 2b.,68,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,6,bot,Z Chhabria to 1b for J Mocik.,69,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,6,bot,E Frix to ss.,70,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,6,bot,Tommy Smith hit by pitch (0-0).,71,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,6,bot,P Horning to p for G Ross.,72,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,6,bot,Adrian Pagan Cruz struck out looking (1-2 SBSK).,73,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,6,bot,Josh Preston reached on a fielder's choice (0-0); Tommy Smith out at second 3b to 2b.,74,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,6,bot,Josh Preston advanced to second on a wild pitch.,75,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,6,bot,Kaden Faychak popped up to 1b (3-2 KKBBBFF).,76,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,7,top,Zachary Knabenshue to p for Josh Hudak.,77,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,7,top,Z Chhabria struck out swinging (2-2 BBSKS).,78,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,7,top,A Mitchell pinch hit for A Tetto.,79,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,7,top,A Mitchell singled to left field (1-1 BK).,80,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,7,top,K Johnson pinch hit for D Gallagher.,81,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,7,top,K Johnson singled through the left side (1-1 FB); A Mitchell advanced to second.,82,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,7,top,E Frix singled to right field (0-2 KF); K Johnson advanced to second; A Mitchell advanced to third.,83,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,7,top,M Mackey pinch hit for F Master.,84,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,7,top,"M Mackey flied out to lf, SAC, RBI (1-0 B); A Mitchell scored.",85,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,7,top,N Garbooshian pinch hit for N Bisaccia.,86,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,7,top,Landon Snider to 3b for Tommy Smith.,87,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615196,7,top,N Garbooshian struck out swinging (0-2 KFS).,88,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,7,bot,R Klein to c for B Cacoilo.,89,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,7,bot,A Mitchell to cf.,90,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,7,bot,K Burgess to rf for K Johnson.,91,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,7,bot,P Horning to 3b.,92,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,7,bot,C Tobia to p for M Mackey.,93,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,7,bot,Nicholas Laubach struck out swinging (3-2 BBKBKS).,94,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,7,bot,Shawn Gisler walked (3-1 BSBBB).,95,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,7,bot,Shane Gisler pinch hit for Zach Tyson.,96,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,7,bot,Shane Gisler grounded out to ss (0-2 KF); Shawn Gisler advanced to second.,97,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513625,615196,Drew Rangers,615473,Pitt.-Greensburg Bobcats,615473,7,bot,Ethan Steinmetz flied out to rf (0-1 F).,98,2026-03-11 10:00:00-04:00,"Auburndale, FL",0,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,1,top,Roy Longarzo grounded out to 3b (1-2 BKS).,1,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,1,top,Kenneth Pastrana struck out swinging (2-2 BFSBS).,2,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,1,top,Frank Scerra singled through the left side (3-1 BKBB).,3,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,1,top,Zachary Niedzwiecki flied out to lf (1-0 B).,4,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,1,bot,Michael Twigg struck out looking (0-2 SKK).,5,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,1,bot,Bradley McGuire struck out swinging (3-2 BBKBKS).,6,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,1,bot,Marco Chenet flied out to lf (0-1 F).,7,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,2,top,Joseph Bello singled to left field (1-0 B).,8,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,2,top,Peter Marino struck out swinging (2-2 KBBFS).,9,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,2,top,Matthew Rappa walked (3-2 BBBKFFB); Joseph Bello advanced to second.,10,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,2,top,Cameron Soto fouled out to 3b (2-1 SBB).,11,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,2,top,Nicholas Benedetto grounded out to 3b (2-2 KKBBF).,12,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,2,bot,Kirk Bearjar flied out to rf (3-1 KBBB).,13,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,2,bot,Logan Middendorf struck out looking (3-2 BKBBSK).,14,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,2,bot,CJ Jackson popped up to 2b (2-1 BKB).,15,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,3,top,Roy Longarzo singled to left center (2-1 KBB).,16,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,3,top,Kenneth Pastrana struck out swinging (2-2 BFBFS).,17,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,3,top,Frank Scerra flied out to lf (0-0).,18,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,3,top,Roy Longarzo stole second.,19,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,3,top,Zachary Niedzwiecki struck out looking (0-2 FKK).,20,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,3,bot,Simon Wehr doubled to left field (0-0).,21,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,3,bot,Hank Fedullo walked (3-0 BBBB).,22,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,3,bot,"Jonathan Dysinger reached first on an error by p, SAC, bunt (0-0); Hank Fedullo advanced to second; Simon Wehr advanced to third.",23,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,3,bot,"Michael Twigg hit by pitch, RBI (1-1 SH); Jonathan Dysinger advanced to second; Hank Fedullo advanced to third; Simon Wehr scored.",24,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,3,bot,"Bradley McGuire singled to left field, RBI (0-0); Michael Twigg advanced to second; Jonathan Dysinger advanced to third; Hank Fedullo scored.",25,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,3,bot,"Marco Chenet doubled to right center, 2 RBI (1-1 KB); Bradley McGuire advanced to third; Michael Twigg scored; Jonathan Dysinger scored, unearned.",26,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,3,bot,Kirk Bearjar reached on a fielder's choice to pitcher (1-0 B); Marco Chenet advanced to third; Bradley McGuire out at home p to c.,27,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,3,bot,"Logan Middendorf singled through the right side, RBI (2-0 BB); Kirk Bearjar advanced to second; Marco Chenet scored.",28,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,3,bot,Matthew Rao to p for Ryan Foerst.,29,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,3,bot,"CJ Jackson singled to left center, RBI (2-2 KBKFBF); Logan Middendorf advanced to second; Kirk Bearjar scored.",30,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,3,bot,"Simon Wehr reached first on an error by p, advanced to second (2-1 BBK); CJ Jackson advanced to third; Logan Middendorf scored, unearned.",31,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,3,bot,"Hank Fedullo singled up the middle, advanced to second on the throw, 2 RBI (0-0); Simon Wehr scored, unearned; CJ Jackson scored, unearned.",32,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,3,bot,Jonathan Dysinger grounded out to ss (0-1 K); Hank Fedullo advanced to third.,33,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,3,bot,"Michael Twigg singled up the middle, RBI (0-0); Hank Fedullo scored, unearned.",34,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,3,bot,Bradley McGuire lined out to cf (0-0).,35,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,4,top,Joseph Bello singled to left field (3-1 BBKB).,36,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,4,top,Peter Marino flied out to cf (0-1 F).,37,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,4,top,Matthew Rappa flied out to cf (0-0).,38,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,4,top,Joseph Bello stole second.,39,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,4,top,Andrew Page pinch ran for Joseph Bello.,40,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,4,top,Cameron Soto struck out swinging (3-2 BBKSBFS).,41,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,4,bot,Michael Rossi to rf for Kenneth Pastrana.,42,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,4,bot,Andrew Page to c.,43,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,4,bot,Lorenzo Rodriguez to lf for Cameron Soto.,44,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,4,bot,Marco Chenet singled to third base (0-0).,45,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,4,bot,Kirk Bearjar grounded into double play ss to 2b to 1b (2-1 BBS); Marco Chenet out on the play.,46,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,4,bot,Logan Middendorf hit by pitch (2-0 BH).,47,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,4,bot,CJ Jackson hit by pitch (2-1 KBH); Logan Middendorf advanced to second.,48,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,4,bot,"Simon Wehr singled, advanced to second on an error by rf, RBI (1-0 B); CJ Jackson advanced to third; Logan Middendorf scored.",49,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,4,bot,Hank Fedullo struck out swinging (2-2 KBKBS).,50,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,5,top,Caleb Cox to p for Eric Keaton.,51,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,5,top,Nicholas Benedetto walked (3-2 FBBFBB).,52,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,5,top,Roy Longarzo flied out to rf (1-0 B).,53,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,5,top,Michael Rossi reached first on an error by ss (0-0); Nicholas Benedetto advanced to second.,54,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,5,top,Frank Scerra flied out to cf (1-1 KB); Nicholas Benedetto advanced to third.,55,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,5,top,Giuseppe Buffolino pinch hit for Zachary Niedzwiecki.,56,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,5,top,Giuseppe Buffolino grounded out to p (1-0 B).,57,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,5,bot,Sam Steinman to cf for Peter Marino.,58,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,5,bot,Luke Troxell pinch hit for Jonathan Dysinger.,59,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,5,bot,Luke Troxell struck out looking (1-2 KBSK).,60,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,5,bot,Matthew Kee pinch hit for Michael Twigg.,61,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,5,bot,Matthew Kee flied out to rf (1-0 B).,62,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,5,bot,Bradley McGuire singled to right field (0-1 F).,63,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,5,bot,Mikey Crandall pinch hit for Marco Chenet.,64,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,5,bot,Mikey Crandall singled through the left side (0-1 K); Bradley McGuire advanced to second.,65,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,5,bot,Mason Smith pinch hit for Kirk Bearjar.,66,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,5,bot,Mikey Crandall stole second; Bradley McGuire stole third.,67,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,5,bot,Mason Smith grounded out to ss (1-1 BF).,68,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,6,top,Matthew Kee to cf.,69,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,6,top,Mikey Crandall to lf.,70,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,6,top,Jacob Sexton to rf for Simon Wehr.,71,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,6,top,Luke Troxell to 2b.,72,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,6,top,Cayden Cribbs to p for Caleb Cox.,73,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,6,top,Mason Smith to 1b.,74,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,6,top,Andrew Page walked (3-2 BKBSBB).,75,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,6,top,Sam Steinman hit by pitch (1-0 H); Andrew Page advanced to second.,76,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,6,top,Matthew Rappa struck out swinging (3-2 BSBSFBS).,77,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,6,top,Lorenzo Rodriguez walked (3-2 SBBBSB); Sam Steinman advanced to second; Andrew Page advanced to third.,78,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,6,top,Nicholas Benedetto grounded into double play p to c to 1b (1-1 BS); Andrew Page out on the play.,79,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,6,bot,Josh Anderson pinch hit for Logan Middendorf.,80,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,6,bot,Josh Anderson walked (3-2 BBSBKB).,81,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,6,bot,Austin Kura pinch hit for CJ Jackson.,82,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,6,bot,Austin Kura popped up to ss (0-0).,83,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,6,bot,Jacob Sexton walked (3-2 BFBBFFB); Josh Anderson advanced to second.,84,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,6,bot,Hank Fedullo reached on a fielder's choice to first base (1-0 B); Jacob Sexton out at second 1b to ss; Josh Anderson advanced to third.,85,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615127,6,bot,Luke Troxell flied out to rf (0-0).,86,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,7,top,Riley O'Brien to 2b for Bradley McGuire.,87,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,7,top,Noah Michal to 3b for Austin Kura.,88,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,7,top,Luke Troxell to ss.,89,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,7,top,Tyler Lemansky to p for Cayden Cribbs.,90,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,7,top,Roy Longarzo singled to center field (2-1 KBB).,91,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,7,top,Michael Rossi singled up the middle (1-1 KB); Roy Longarzo advanced to second.,92,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,7,top,Michael Rossi advanced to second; Roy Longarzo advanced to third on a wild pitch.,93,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,7,top,Frank Scerra grounded out to p (1-2 KFB).,94,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,7,top,"Giuseppe Buffolino singled to left field, RBI (0-1 S); Michael Rossi advanced to third; Roy Longarzo scored.",95,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,7,top,Andrew Page struck out swinging (3-2 BKBSBS).,96,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,7,top,Giuseppe Buffolino advanced to second; Michael Rossi scored on a wild pitch.,97,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,7,top,"Sam Steinman singled through the right side, advanced to second on an error by cf, RBI (1-1 SB); Giuseppe Buffolino scored.",98,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,7,top,"Matthew Rappa singled up the middle, RBI (0-1 F); Sam Steinman scored, unearned.",99,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6513740,615155,Baruch Bearcats,615127,Geneva Golden Tornadoes,615155,7,top,Lorenzo Rodriguez struck out looking (1-2 FFBK).,100,2026-03-11 10:00:00-04:00,"Fort Myers, FL",120,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,1,top,"Arendt, E. struck out swinging (3-2 BBBKKS).",1,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,1,top,"Hatano, J. hit by pitch (1-1 BF).",2,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,1,top,"Hatano, J. out at first p to 1b, picked off.",3,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,1,top,"Harer, D. struck out looking (2-2 FBKBK).",4,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,1,bot,Garza flied out to cf (0-1 S).,5,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,1,bot,Hitzelberger popped up to rf (1-2 FKFBFF).,6,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,1,bot,Roeser flied out to lf (2-1 SBB).,7,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,2,top,"Wall, A. popped up to 2b (2-2 KKBB).",8,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,2,top,"Kirst, B. struck out swinging (1-2 FBSS).",9,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,2,top,"Hietpas, G. struck out looking (2-2 SKBBK).",10,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,2,bot,"Schwantz, J. to p for Skelley, B..",11,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,2,bot,Tuccinardi struck out swinging (0-2 FFS).,12,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,2,bot,D. Hill struck out swinging (3-2 BBKBFS).,13,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,2,bot,Ide lined out to cf (1-2 KKB).,14,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,3,top,"Weed, C. flied out to rf (3-2 FBKBB).",15,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,3,top,"Casper, C. grounded out to 2b (1-2 KBK).",16,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,3,top,"Borecky, D. struck out swinging (0-2 SFS).",17,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,3,bot,Zeldes doubled to left field (0-0).,18,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,3,bot,C. Clark hit by pitch (1-2 SFB).,19,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,3,bot,"Sandiha, Jr. singled to right field (0-2 FK)3a C. Clark out at second 2b unassisted, interference.",20,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,3,bot,"Garza walked (3-1 BBKBB)3a Sandiha, Jr. advanced to second3a Zeldes advanced to third.",21,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,3,bot,"Garza advanced to second3a Sandiha, Jr. advanced to third3a Zeldes scored on a balk.",22,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,3,bot,"Garza advanced to third3a Sandiha, Jr. scored on a passed ball.",23,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,3,bot,Hitzelberger struck out swinging (1-2 KFBS).,24,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,3,bot,Roeser walked (3-1 BBBKB).,25,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,3,bot,"Tuccinardi singled to center field, RBI (2-1 BBF)3a Roeser advanced to third3a Garza scored.",26,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,3,bot,"D. Hill singled to second base, RBI (1-2 KSB)3a Tuccinardi advanced to second3a Roeser scored.",27,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,3,bot,Ide popped up to cf (0-2 SK).,28,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,4,top,"Arendt, E. homered to right field, RBI (1-0 B).",29,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,4,top,"Hatano, J. lined out to rf (0-0).",30,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,4,top,"Harer, D. popped up to ss (1-2 KFB).",31,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,4,top,"Wall, A. struck out swinging (1-2 KBKS).",32,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,4,bot,"Roher, D. to p for Schwantz, J..",33,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,4,bot,Zeldes struck out swinging (0-2 FFS).,34,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,4,bot,C. Clark walked (3-2 BFBBSB).,35,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,4,bot,"Sandiha, Jr. singled to left field (0-2 KF)3a C. Clark advanced to second.",36,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,4,bot,"Garza grounded out to 3b, SAC, bunt (0-0)3a Sandiha, Jr. advanced to second3a C. Clark advanced to third.",37,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,4,bot,Hitzelberger grounded out to 1b unassisted (1-0 B).,38,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,5,top,"Kirst, B. popped up to rf (0-0).",39,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,5,top,"Hietpas, G. struck out swinging (1-2 BFSFS).",40,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,5,top,"Weed, C. struck out swinging, out at first c to 1b (1-2 FBFS).",41,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,5,bot,Roeser walked (3-2 BBFFBB).,42,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,5,bot,Tuccinardi struck out swinging (3-2 BBSBKS).,43,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,5,bot,Roeser stole second.,44,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,5,bot,D. Hill walked (3-1 BBBKB).,45,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,5,bot,Ide struck out swinging (0-2 KSS).,46,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,5,bot,"Zeldes singled to left field, RBI (1-1 BS)3a D. Hill advanced to second3a Roeser scored.",47,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,5,bot,C. Clark walked (3-0 BBBB)3a Zeldes advanced to second3a D. Hill advanced to third.,48,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,5,bot,"Strecker, M. to p for Roher, D..",49,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,5,bot,"Sandiha, Jr. fouled out to rf (3-2 KBBFBF).",50,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,6,top,"Casper, C. lined out to 2b (1-0 B).",51,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,6,top,"Borecky, D. flied out to rf (0-1 F).",52,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,6,top,"Arendt, E. singled to center field (0-1 K).",53,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,6,top,"Hatano, J. struck out swinging (2-2 BBKFS).",54,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,6,bot,Garza singled to shortstop (2-2 KBBF).,55,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,6,bot,Hitzelberger struck out swinging (2-2 SFFBBS).,56,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,6,bot,Roeser struck out looking (0-2 SKFK).,57,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,6,bot,Tuccinardi flied out to cf (0-2 KFF).,58,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,7,top,"Harer, D. walked (3-2 BBKFFBFB).",59,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,7,top,"Wall, A. fouled out to c (3-2 SKBBB).",60,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,7,top,"Kirst, B. struck out looking (1-2 KBFK).",61,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,7,top,"Hietpas, G. singled to right field (0-1 S)3a Harer, D. advanced to second.",62,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,7,top,"Weed, C. singled to center field, RBI (0-0)3a Hietpas, G. advanced to third3a Harer, D. scored.",63,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,7,top,"Casper, C. struck out swinging (0-2 FKS).",64,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,7,bot,D. Hill fouled out to 1b (1-0 B).,65,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,7,bot,Ide struck out looking (2-2 BSBFK).,66,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,7,bot,Zeldes struck out swinging (1-2 FSBS).,67,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,8,top,Hitzelberger to 1b.,68,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,8,top,Sanders to cf for Ide.,69,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,8,top,Zeldes to lf.,70,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,8,top,DeMasse to p for Nash.,71,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,8,top,"Borecky, D. lined out to 1b (1-1 BS).",72,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,8,top,"Arendt, E. flied out to cf (2-2 BBSF).",73,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,8,top,"Hatano, J. lined out to ss (2-1 BKB).",74,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,8,bot,C. Clark walked (3-2 BBKBKB).,75,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,8,bot,"Sandiha, Jr. singled to left field (0-0)3a C. Clark advanced to second.",76,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,8,bot,"Garza singled to left field, RBI (1-0 B)3a Sandiha, Jr. advanced to second3a C. Clark scored.",77,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,8,bot,Hitzelberger struck out looking (2-2 FFFBBK).,78,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,8,bot,"Mueller, C. to p for Strecker, M..",79,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,8,bot,"Sandiha, Jr. advanced to third on a passed ball.",80,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,8,bot,"Roeser reached on a fielder's choice to third base (2-1 BFB)3a Garza advanced to second3a Sandiha, Jr. out at home 3b to c.",81,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,8,bot,Hatzigeorgio pinch hit for Tuccinardi.,82,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615093,8,bot,Hatzigeorgio reached on a fielder's choice to third base (0-1 K)3a Roeser advanced to second3a Garza out at third 3b unassisted.,83,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,9,top,"Harer, D. grounded out to 3b (2-2 KSFBB).",84,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,9,top,"Wall, A. struck out swinging (1-2 BKKS).",85,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6519794,615096,Winona St. Warriors,615093,Wayne St. (MI) Warriors,615096,9,top,"Kirst, B. grounded out to ss (2-2 BKBF).",86,2026-03-11 10:00:00-04:00,"Davenport, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,1,top,Tyler Nee grounded out to ss (1-1 SB).,1,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,1,top,Aaron Moss struck out looking (0-0).,2,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,1,top,Niko Price popped up to cf (0-0).,3,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,1,bot,Sean Jeffries popped up to cf (0-0).,4,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,1,bot,Austin Dick grounded out to ss (0-0).,5,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,1,bot,Noah Wagster walked (0-0).,6,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,1,bot,Mitchell Roether flied out to cf (0-0).,7,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,2,top,Otto McDill singled to shortstop (0-0).,8,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,2,top,Ben Resnick singled to left field (0-0)3a Otto McDill advanced to third.,9,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,2,top,Matt Ardell walked (0-0)3a Ben Resnick advanced to second.,10,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,2,top,"Colbie Corpuz singled to left field, RBI (0-0)3a Matt Ardell advanced to second3a Ben Resnick advanced to third3a Otto McDill scored.",11,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,2,top,"Trey Kent-Landrum flied out to cf, sacrifice fly, RBI (0-0)3a Matt Ardell advanced to third3a Ben Resnick scored.",12,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,2,top,Ben Zimmerman popped up to 1b (0-0).,13,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,2,top,Tyler Nee flied out to lf (0-0).,14,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,2,bot,Noah Rosato popped up to cf (0-0).,15,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,2,bot,Jackson McFarland struck out swinging (0-0).,16,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,2,bot,Dylan Rieck struck out looking (0-0).,17,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,3,top,Aaron Moss lined out to 3b (0-0).,18,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,3,top,Niko Price grounded out to ss (0-0).,19,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,3,top,"Otto McDill homered, RBI (0-0).",20,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,3,top,Ben Resnick grounded out to 3b (0-0).,21,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,3,bot,Evan Duncan singled to center field (0-0).,22,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,3,bot,Evan Duncan stole second.,23,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,3,bot,Chris Barnett grounded out to ss (0-0).,24,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,3,bot,"Evan Duncan out at third c to 3b, caught stealing.",25,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,3,bot,Sean Jeffries flied out to rf (0-0).,26,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,4,top,Matt Ardell walked (0-0).,27,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,4,top,"Colbie Corpuz singled, bunt (0-0)3a Matt Ardell advanced to second.",28,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,4,top,"Trey Kent-Landrum reached on a fielder's choice, bunt (0-0)3a Colbie Corpuz advanced to second3a Matt Ardell out at third p to 3b.",29,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,4,top,Ben Zimmerman popped up to 3b (0-0).,30,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,4,top,Tyler Nee reached on a fielder's choice (0-0)3a Trey Kent-Landrum out at second 2b to ss.,31,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,4,bot,"Austin Dick singled, bunt (0-0).",32,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,4,bot,Austin Dick stole second.,33,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,4,bot,Noah Wagster flied out to lf (0-0).,34,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,4,bot,Austin Dick advanced to third on an error by p.,35,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,4,bot,"Mitchell Roether singled to left field, RBI (0-0)3a Austin Dick scored.",36,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,4,bot,Noah Rosato flied out to rf (0-0).,37,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,4,bot,Jackson McFarland struck out swinging (0-0).,38,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,5,top,Aaron Moss struck out swinging (0-0).,39,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,5,top,Niko Price singled to third base (0-0).,40,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,5,top,Braeden Lewis to p for Lane Willoughby.,41,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,5,top,Otto McDill struck out swinging (0-0).,42,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,5,top,Ben Resnick popped up to rf (0-0).,43,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,5,bot,Dylan Rieck singled to left field (0-0).,44,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,5,bot,Evan Duncan struck out swinging (0-0).,45,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,5,bot,"Chris Barnett grounded out to 3b, SAC, bunt (0-0)3a Dylan Rieck advanced to second.",46,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,5,bot,Sean Jeffries reached first on an error by 2b (0-0)3a Dylan Rieck advanced to third.,47,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,5,bot,Sean Jeffries stole second.,48,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,5,bot,Austin Dick grounded out to p (0-0).,49,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,6,top,Axel Kappes to p for Braeden Lewis.,50,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,6,top,Matt Ardell singled to left field (0-0).,51,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,6,top,Colbie Corpuz popped up to lf (0-0).,52,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,6,top,Trey Kent-Landrum flied out to cf (0-0).,53,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,6,top,Ben Zimmerman singled to center field (0-0)3a Matt Ardell advanced to second.,54,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,6,top,"Tyler Nee singled to center field, RBI (0-0)3a Ben Zimmerman advanced to second3a Matt Ardell scored.",55,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,6,top,"Aaron Moss singled to center field, RBI (0-0)3a Tyler Nee advanced to third3a Ben Zimmerman scored.",56,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,6,top,Aaron Moss stole second.,57,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,6,top,"Niko Price doubled to center field, 2 RBI (0-0)3a Aaron Moss scored3a Tyler Nee scored.",58,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,6,top,Otto McDill hit by pitch (0-0).,59,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,6,top,Hans Carter to p for Axel Kappes.,60,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,6,top,Otto McDill advanced to second on a wild pitch3a Niko Price advanced to third on a wild pitch.,61,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,6,top,Ben Resnick struck out looking (0-0).,62,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,6,bot,Dylan Ritzenthaler to p for Griffin Jackson.,63,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,6,bot,Noah Wagster popped up to lf (0-0).,64,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,6,bot,Mitchell Roether doubled to left field (0-0).,65,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,6,bot,Noah Rosato flied out to cf (0-0).,66,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,6,bot,Jonathan Jimenez to lf for Jackson McFarland.,67,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,6,bot,Jonathan Jimenez hit by pitch (0-0).,68,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,6,bot,Dylan Rieck struck out swinging (0-0).,69,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,7,top,Matt Ardell singled to left field (0-0).,70,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,7,top,Colbie Corpuz walked (0-0)3a Matt Ardell advanced to second.,71,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,7,top,Trey Kent-Landrum singled to right field (0-0)3a Colbie Corpuz advanced to second3a Matt Ardell advanced to third.,72,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,7,top,Evan Duncan to lf for Jonathan Jimenez.,73,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,7,top,Jonathan Jimenez to cf for Evan Duncan.,74,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,7,top,Jacob Stenger to p for Hans Carter.,75,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,7,top,"Ben Zimmerman doubled to left field, 2 RBI (0-0)3a Trey Kent-Landrum advanced to third3a Colbie Corpuz scored3a Matt Ardell scored.",76,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,7,top,Tyler Nee hit by pitch (0-0).,77,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,7,top,Aaron Moss reached on a fielder's choice (0-0)3a Tyler Nee advanced to second3a Ben Zimmerman advanced to third3a Trey Kent-Landrum out at home ss to c.,78,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,7,top,"Niko Price popped up to cf, sacrifice fly, RBI (0-0)3a Tyler Nee advanced to third3a Ben Zimmerman scored.",79,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,7,top,Otto McDill grounded out to ss (0-0).,80,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,7,bot,Robbie Coates to lf for Trey Kent-Landrum.,81,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,7,bot,Jonathan Jimenez to lf for Evan Duncan.,82,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,7,bot,Evan Duncan to cf for Jonathan Jimenez.,83,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,7,bot,Evan Duncan hit by pitch (0-0).,84,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,7,bot,Tucker Williams pinch ran for Evan Duncan.,85,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,7,bot,Chris Barnett struck out looking (0-0).,86,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,7,bot,Jackson Niedel to p for Dylan Ritzenthaler.,87,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,7,bot,Sean Jeffries struck out looking (0-0).,88,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,7,bot,Austin Dick grounded out to 3b (0-0).,89,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,8,top,Jake Cane to lf for Jonathan Jimenez.,90,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,8,top,Jonathan Jimenez to cf for Tucker Williams.,91,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,8,top,Kj Hillhouse to p for Jacob Stenger.,92,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,8,top,Ben Resnick singled to second base (0-0).,93,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,8,top,Max Firestine to c for Dylan Rieck.,94,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,8,top,Matt Ardell lined out to lf (0-0).,95,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,8,top,Colbie Corpuz walked (0-0)3a Ben Resnick advanced to second.,96,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,8,top,Robbie Coates walked (0-0)3a Colbie Corpuz advanced to second3a Ben Resnick advanced to third.,97,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,8,top,Nick Sullivan to p for Kj Hillhouse.,98,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,8,top,"Ben Zimmerman walked, RBI (0-0)3a Robbie Coates advanced to second3a Colbie Corpuz advanced to third3a Ben Resnick scored.",99,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,8,top,"Tyler Nee flied out to lf, sacrifice fly, RBI (0-0)3a Colbie Corpuz scored.",100,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615241,8,top,Aaron Moss grounded out to 2b (0-0).,101,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,8,bot,Mac Moore to rf for Noah Wagster.,102,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,8,bot,Mac Moore struck out looking (0-0).,103,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,8,bot,Cooper Steckel to 1b for Mitchell Roether.,104,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,8,bot,Cooper Steckel struck out looking (0-0).,105,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,8,bot,Colm Maceachern to dh for Noah Rosato.,106,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6521425,615241,Kenyon Owls,615198,Earlham Quakers,615198,8,bot,Colm Maceachern grounded out to 3b (0-0).,107,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",0,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,1,top,Sam Schneide struck out swinging (2-2 SKFBBS).,1,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,1,top,Grant Bomer flied out to lf (0-0).,2,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,1,top,Braedy Limke grounded out to 1b unassisted (1-2 KBKF).,3,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,1,bot,W. Bercaw walked (3-2 FBBBKB).,4,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,1,bot,W. Bercaw stole second.,5,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,1,bot,R. Murphy struck out looking (2-2 KKBBK).,6,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,1,bot,W. Stellato struck out swinging (1-2 BSKS).,7,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,1,bot,"J. Amirata struck out swinging, out at first c to 1b (2-2 BKBKS).",8,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,2,top,Logan Winste fouled out to c (0-0).,9,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,2,top,Garrett Labe flied out to cf (0-2 FS).,10,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,2,top,Thomas McGui reached on a throwing error by 3b (3-2 KBBBS).,11,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,2,top,Logan Walpol flied out to cf (0-1 S).,12,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,2,bot,D. Balsamo walked (3-1 SBBBB).,13,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,2,bot,"D. Balsamo advanced to second on a throwing error by p, failed pickoff attempt.",14,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,2,bot,M. Fischetti walked (3-2 BBBKKB).,15,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,2,bot,W. Roche struck out looking (0-2 FFK).,16,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,2,bot,"B. Laqui tripled to right center, 2 RBI (2-1 KBB)3a M. Fischetti scored3a D. Balsamo scored.",17,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,2,bot,A. Hicks reached on a fielder's choice to third base (1-2 BKF)3a B. Laqui out at home 3b to c.,18,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,2,bot,A. Hicks advanced to second on a wild pitch.,19,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,2,bot,W. Bercaw walked (3-0 BBBB).,20,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,2,bot,R. Murphy walked (3-2 KBBBSB)3a W. Bercaw advanced to second3a A. Hicks advanced to third.,21,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,2,bot,W. Stellato flied out to lf (1-0 B).,22,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,3,top,Brayden Tuck popped up to ss (0-2 KS).,23,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,3,top,Simeon Betts singled to center field (0-2 KF).,24,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,3,top,Sam Schneide grounded into double play 2b to ss to 1b (2-1 FBB)3a Simeon Betts out on the play.,25,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,3,bot,Chris Mathis to p for Zac Weaver.,26,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,3,bot,J. Amirata singled down the lf line (2-2 BKKB).,27,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,3,bot,D. Balsamo struck out swinging (1-2 BSFS).,28,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,3,bot,"M. Fischetti reached on a fielder's choice to second base (2-1 FBB)3a J. Amirata advanced to second on a muffed throw by ss, assist by 2b.",29,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,3,bot,W. Roche struck out swinging (2-2 SBBKS).,30,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,3,bot,"B. Laqui doubled to left field, 2 RBI (0-0)3a M. Fischetti scored, unearned3a J. Amirata scored, unearned.",31,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,3,bot,A. Hicks flied out to cf (0-0).,32,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,4,top,Grant Bomer lined out to rf (2-2 FBKFB).,33,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,4,top,Braedy Limke flied out to lf (0-0).,34,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,4,top,Logan Winste singled through the left side (1-2 KBS).,35,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,4,top,Garrett Labe hit by pitch (1-2 KBFF)3a Logan Winste advanced to second.,36,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,4,top,Thomas McGui walked (3-1 BBKBB)3a Garrett Labe advanced to second3a Logan Winste advanced to third.,37,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,4,top,Logan Walpol struck out swinging (2-2 KBBSS).,38,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,4,bot,W. Bercaw singled up the middle (2-1 BBK).,39,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,4,bot,R. Murphy singled to left center (3-2 BBBKFF)3a W. Bercaw advanced to third.,40,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,4,bot,R. Murphy advanced to second on a wild pitch3a W. Bercaw scored on a wild pitch.,41,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,4,bot,R. Murphy advanced to third on a passed ball.,42,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,4,bot,"W. Stellato flied out to cf, SF, RBI (3-0 BBB)3a R. Murphy scored, unearned.",43,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,4,bot,J. Amirata struck out looking (0-2 KSK).,44,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,4,bot,D. Balsamo walked (3-1 BBKBB).,45,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,4,bot,M. Fischetti struck out swinging (0-2 FSFS).,46,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,5,top,Brayden Tuck struck out looking (1-2 KKBK).,47,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,5,top,Simeon Betts tripled to left field (1-2 SFB).,48,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,5,top,"Sam Schneide singled to left field, RBI (0-2 FKF)3a Simeon Betts scored.",49,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,5,top,Grant Bomer doubled to left field (0-2 SK)3a Sam Schneide advanced to third.,50,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,5,top,"Braedy Limke singled to left field, 2 RBI (0-0)3a Grant Bomer scored3a Sam Schneide scored.",51,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,5,top,Braedy Limke stole second.,52,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,5,top,"Logan Winste singled to right field, RBI (2-1 KBB)3a Braedy Limke scored.",53,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,5,top,Z. Kucerka to p for B. Trotta.,54,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,5,top,Garrett Labe struck out looking (1-2 BKKK).,55,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,5,top,Logan Winste advanced to second on a wild pitch.,56,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,5,top,Thomas McGui grounded out to 3b (3-2 BFBFB).,57,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,5,bot,Lance Briola to p for Chris Mathis.,58,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,5,bot,Connor Rober to c for Grant Bomer.,59,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,5,bot,Jack McKelle to 3b for Brayden Tuck.,60,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,5,bot,W. Roche singled up the middle (1-2 KFFFB).,61,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,5,bot,B. Laqui grounded into double play ss to 2b to 1b (3-2 KBSBFB)3a W. Roche out on the play.,62,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,5,bot,A. Hicks flied out to rf (1-1 BK).,63,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,6,top,E. Mitnick to p for Z. Kucerka.,64,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,6,top,Logan Walpol struck out swinging (2-2 BKKBS).,65,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,6,top,Jack McKelle singled up the middle (2-2 KBBF).,66,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,6,top,Simeon Betts struck out swinging (1-2 KSBS).,67,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,6,top,Jack McKelle stole second.,68,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,6,top,Sam Schneide struck out swinging (2-2 BKFFBS).,69,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,6,bot,W. Bercaw tripled to left center (0-1 K).,70,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,6,bot,R. Murphy grounded out to p (0-2 KS).,71,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,6,bot,"W. Stellato singled to left field, RBI (0-2 FF)3a W. Bercaw scored.",72,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,6,bot,"J. Amirata doubled to left center, RBI (0-1 F)3a W. Stellato scored.",73,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,6,bot,D. Balsamo struck out swinging (1-2 FBKFS).,74,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,6,bot,G. Caucci pinch hit for M. Fischetti.,75,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,6,bot,G. Caucci singled to shortstop (0-0)3a J. Amirata advanced to third.,76,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,6,bot,W. Roche flied out to cf to right center (2-2 BKBK).,77,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,7,top,D. Ruckman to rf for G. Caucci.,78,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,7,top,Connor Rober walked (3-1 BBKBB).,79,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,7,top,Braedy Limke singled through the right side (1-1 KB)3a Connor Rober advanced to second.,80,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,7,top,Braedy Limke advanced to second on a wild pitch3a Connor Rober advanced to third on a wild pitch.,81,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,7,top,Logan Winste popped up to p (2-2 KSBFB).,82,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,7,top,"Garrett Labe doubled to left center, 2 RBI (0-1 K)3a Braedy Limke scored3a Connor Rober scored.",83,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,7,top,Garrett Labe advanced to third on a wild pitch.,84,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,7,top,Thomas McGui hit by pitch (1-2 SKBF).,85,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,7,top,Logan Walpol struck out swinging (2-2 BSFBS).,86,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,7,top,Jack McKelle popped up to 2b (0-0).,87,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,7,bot,Cody Capling to p for Lance Briola.,88,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,7,bot,B. Laqui walked (3-1 BBBKB).,89,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,7,bot,"A. Hicks grounded out to p, SAC (0-0)3a B. Laqui advanced to second.",90,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,7,bot,"W. Bercaw reached on a fielder's choice, SAC, advanced to second on the throw (0-0)3a B. Laqui advanced to third, scored on a throwing error by p.",91,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,7,bot,W. Bercaw stole third.,92,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,7,bot,R. Murphy walked (3-2 KBBSFFBFB).,93,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,7,bot,"R. Murphy advanced to second on a wild pitch3a W. Bercaw scored on a wild pitch, unearned.",94,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,7,bot,W. Stellato flied out to rf (1-0 B).,95,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,7,bot,J. Amirata flied out to cf (2-2 KBFB).,96,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,8,top,Z. Klein to p for E. Mitnick.,97,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,8,top,Simeon Betts flied out to rf (1-0 B).,98,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,8,top,Sam Schneide grounded out to 2b (0-2 KF).,99,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,8,top,Connor Rober walked (3-1 BBBKB).,100,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,8,top,Braedy Limke grounded out to 2b (2-0 BB).,101,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,8,bot,Max Gutmann to p for Cody Capling.,102,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,8,bot,D. Balsamo singled through the right side (3-2 BFFBB).,103,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,8,bot,H. Smith pinch ran for D. Balsamo.,104,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,8,bot,D. Ruckman struck out looking (3-2 BKBFBK)3a H. Smith stole second.,105,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,8,bot,"W. Roche singled through the left side, RBI (1-0 B)3a H. Smith scored.",106,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,8,bot,B. Laqui struck out swinging (0-2 SSS).,107,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615213,8,bot,A. Hicks struck out looking (1-2 BKKK).,108,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,9,top,Logan Winste grounded out to 3b (0-1 K).,109,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,9,top,Garrett Labe grounded out to 1b unassisted (0-0).,110,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,9,top,Cohen Sendel pinch hit for Thomas McGui.,111,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6527618,615224,Heidelberg The Student Prince,615213,Gettysburg Bullets,615224,9,top,Cohen Sendel struck out looking (0-2 KFK).,112,2026-03-11 10:00:00-04:00,"Fort Pierce, FL",122,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,1,top,Michaelis flied out to 2b.,1,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,1,top,Pierquet singled to left field.,2,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,1,top,"Pierquet out at second c to 2b, caught stealing.",3,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,1,top,Rintelman doubled down the rf line.,4,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,1,top,"Ratliff singled to center field, RBI; Rintelman scored.",5,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,1,top,"Alburg doubled down the lf line, out at second 3b to 2b, RBI; Ratliff scored.",6,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,1,bot,Zack Haines lined out to ss.,7,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,1,bot,Juan Lopez singled to shortstop.,8,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,1,bot,Juan Lopez stole second.,9,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,1,bot,"Joey Demirji singled up the middle, RBI; Juan Lopez scored.",10,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,1,bot,Joey Demirji stole second.,11,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,1,bot,Chase Timmon flied out to cf.,12,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,1,bot,Joey Demirji advanced to third on a passed ball.,13,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,1,bot,Carson Lengl flied out to cf.,14,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,2,top,Montgomery walked.,15,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,2,top,Montgomery stole second.,16,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,2,top,Knutson flied out to cf; Montgomery advanced to third.,17,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,2,top,Burington flied out to 2b.,18,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,2,top,Lopeztello flied out to rf.,19,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,2,bot,Braedon Tunn singled up the middle.,20,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,2,bot,"Liam Nesemei grounded out to p, bunt, SAC; Braedon Tunn advanced to second.",21,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,2,bot,Mike Parzymi struck out swinging.,22,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,2,bot,Joaquin Vele struck out looking.,23,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,3,top,Michaelis singled to third base.,24,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,3,top,Michaelis stole second.,25,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,3,top,Pierquet struck out swinging.,26,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,3,top,"Rintelman singled to left field, RBI; Michaelis scored.",27,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,3,top,Ratliff flied out to cf.,28,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,3,top,Rintelman stole second.,29,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,3,top,Rintelman advanced to third on a wild pitch.,30,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,3,top,Alburg struck out swinging.,31,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,3,bot,Zack Haines singled up the middle.,32,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,3,bot,Juan Lopez singled through the right side; Zack Haines advanced to second.,33,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,3,bot,Joey Demirji singled to shortstop; Juan Lopez advanced to second; Zack Haines advanced to third.,34,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,3,bot,"Chase Timmon homered to left field, 4 RBI; Joey Demirji scored; Juan Lopez scored; Zack Haines scored.",35,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,3,bot,Carson Lengl flied out to cf.,36,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,3,bot,Braedon Tunn singled to center field.,37,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,3,bot,Liam Nesemei flied out to cf.,38,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,3,bot,Mike Parzymi struck out swinging.,39,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,4,top,Montgomery flied out to lf.,40,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,4,top,Knutson singled to center field.,41,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,4,top,Burington reached on a fielder's choice to shortstop; Knutson out at second ss to 2b.,42,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,4,top,Lopeztello flied out to cf.,43,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,4,bot,McGee to p for Kramer.,44,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,4,bot,Joaquin Vele flied out to rf.,45,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,4,bot,Zack Haines hit by pitch.,46,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,4,bot,Juan Lopez singled through the left side; Zack Haines advanced to second.,47,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,4,bot,Joey Demirji reached on a throwing error by 2b; Juan Lopez advanced to second; Zack Haines advanced to third.,48,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,4,bot,"Chase Timmon walked, RBI; Joey Demirji advanced to second; Juan Lopez advanced to third; Zack Haines scored.",49,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,4,bot,Carson Lengl flied out to lf.,50,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,4,bot,Braedon Tunn fouled out to c.,51,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,5,top,Michaelis doubled to left center.,52,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,5,top,Pierquet grounded out to ss; Michaelis advanced to third.,53,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,5,top,Jake Bannon to p for Aaron Zapata.,54,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,5,top,"Rintelman doubled to left field, RBI; Michaelis scored.",55,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,5,top,Ratliff hit by pitch.,56,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,5,top,Alburg flied out to cf.,57,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,5,top,"Montgomery doubled down the lf line, RBI; Ratliff advanced to third, out at home 3b to c; Rintelman scored.",58,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,5,bot,Lewis to p for McGee.,59,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,5,bot,Liam Nesemei flied out to rf.,60,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,5,bot,Mike Parzymi walked.,61,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,5,bot,Joaquin Vele struck out looking.,62,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,5,bot,Gatch to p for Lewis.,63,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,5,bot,Zack Haines fouled out to 3b.,64,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,6,top,Knutson grounded out to 3b.,65,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,6,top,Burington flied out to rf.,66,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,6,top,Lopeztello struck out swinging.,67,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,6,bot,Thede to c for Knutson.,68,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,6,bot,Juan Lopez doubled to left center.,69,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,6,bot,Joey Demirji hit by pitch.,70,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,6,bot,"Juan Lopez out at second p to 2b, picked off.",71,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,6,bot,Joey Demirji stole second.,72,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,6,bot,Chase Timmon hit by pitch.,73,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,6,bot,Carson Lengl struck out swinging.,74,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,6,bot,Joey Demirji stole third.,75,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,6,bot,Chase Timmon stole second.,76,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615134,6,bot,Braedon Tunn grounded out to ss.,77,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,7,top,Brandon Dalm to p for Jake Bannon.,78,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,7,top,Michaelis doubled down the lf line.,79,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,7,top,Pierquet grounded out to 2b; Michaelis advanced to third.,80,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,7,top,Rintelman flied out to ss.,81,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6535307,615467,Wis. Lutheran Warriors,615134,Valley Forge The Patriots,615467,7,top,Ratliff flied out to cf.,82,2026-03-11 10:00:00-04:00,"Fort Myers, FL",73,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,1,top,"Kliber, S. grounded out to 3b (2-2 KBKB).",1,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,1,top,"Myers, L. walked (3-2 BBKFBB).",2,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,1,top,"Lynch, T. singled to left field (2-1 BBK); Myers, L. advanced to second.",3,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,1,top,Richardson fouled out to 1b (3-2 BBFFB).,4,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,1,top,"Stauffacher singled to left field, RBI (2-2 BSKB); Lynch, T. advanced to second; Myers, L. scored.",5,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,1,top,"Anthony, H. doubled to right field, RBI (1-0 B); Stauffacher advanced to third; Lynch, T. scored.",6,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,1,top,"Bushey, H. struck out swinging (2-2 BSBKS).",7,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,1,bot,"Konkol, H singled to second base (0-1 F).",8,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,1,bot,"Konkol, H failed pickoff attempt, advanced to second on an error by p, advanced to third.",9,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,1,bot,"Moreno, L struck out swinging, reached first on a passed ball (0-2 KFS); Konkol, H out at home c to p.",10,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,1,bot,"Moreno, L stole second.",11,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,1,bot,"Moreno, L failed pickoff attempt, advanced to third on an error by p.",12,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,1,bot,"Tweet, W reached on an error by ss, advanced to second, RBI (2-2 BFBK); Moreno, L scored, unearned.",13,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,1,bot,"Castro, W singled to right field (2-1 BBK); Tweet, W advanced to third.",14,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,1,bot,"Bello, E flied out to cf, SAC, RBI (2-2 FBFB); Tweet, W scored, unearned.",15,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,1,bot,"Cahoon, R grounded out to 2b (1-2 BFF).",16,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,2,top,"Reem, M. struck out swinging (2-2 KBFBFFS).",17,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,2,top,"Chittum, C. singled to center field (0-0).",18,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,2,top,"Chittum, C. advanced to second on a wild pitch.",19,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,2,top,"Kliber, S. struck out looking (2-2 SBBKFK).",20,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,2,top,"Myers, L. flied out to cf (0-0).",21,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,2,bot,"Robinson, M singled to center field (0-1 K).",22,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,2,bot,"Clark, J walked (3-1 FBBBB); Robinson, M advanced to second.",23,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,2,bot,"Ibrahim, N grounded out to p, SAC, bunt (0-0); Clark, J advanced to second; Robinson, M advanced to third.",24,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,2,bot,"Konkol, H flied out to lf, SF, RBI (3-2 KBFBBFF); Robinson, M scored.",25,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,2,bot,"Moreno, L doubled to right field, RBI (0-0); Clark, J scored.",26,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,2,bot,"Tweet, W singled to left field, RBI (0-0); Moreno, L scored.",27,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,2,bot,"Castro, W hit by pitch (2-0 BB); Tweet, W advanced to second.",28,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,2,bot,"Bello, E flied out to rf (2-2 BFBF).",29,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,3,top,"Lynch, T. struck out swinging (3-2 BKSBFBS).",30,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,3,top,Richardson walked (3-0 BBBB).,31,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,3,top,Stauffacher flied out to cf (2-2 SFBBF).,32,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,3,top,"Anthony, H. grounded out to 2b (1-0 B).",33,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,3,bot,"Cahoon, R grounded out to 3b (1-1 SB).",34,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,3,bot,"Robinson, M walked (3-0 BBBB).",35,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,3,bot,"Clark, J hit by pitch (2-0 BB); Robinson, M advanced to second.",36,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,3,bot,"Ibrahim, N reached on an error by 3b (1-1 KB); Clark, J advanced to second; Robinson, M scored, unearned.",37,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,3,bot,"Konkol, H walked (3-0 BBBB); Ibrahim, N advanced to second; Clark, J advanced to third.",38,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,3,bot,"Moreno, L lined out to ss (0-1 F).",39,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,3,bot,"Tweet, W struck out looking (0-2 SSK).",40,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,4,top,"Bushey, H. struck out swinging (0-2 KFS).",41,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,4,top,"Reem, M. walked (3-2 BKBBFFB).",42,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,4,top,"Chittum, C. walked (3-2 BBKSFFFBB); Reem, M. advanced to second.",43,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,4,top,"Kliber, S. doubled to center field, 2 RBI (1-1 KB); Chittum, C. scored; Reem, M. scored.",44,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,4,top,"Myers, L. grounded out to 3b (2-2 FBBK).",45,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,4,top,"Lynch, T. grounded out to 2b (1-2 BKK).",46,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,4,bot,"Castro, W singled to left field (0-0).",47,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,4,bot,"Bello, E walked (3-1 BBBKB); Castro, W advanced to second.",48,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,4,bot,"Cahoon, R grounded out to p, SAC, bunt (0-1 S); Bello, E advanced to second; Castro, W advanced to third.",49,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,4,bot,"Robinson, M singled to left field, 2 RBI (3-2 SSBBB); Bello, E scored; Castro, W scored.",50,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,4,bot,"Clark, J singled to third base (2-1 KBB); Robinson, M advanced to second.",51,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,4,bot,"Eiden, C. to p for Brown, Z..",52,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,4,bot,"Ibrahim, N grounded out to p (1-2 FFB); Clark, J advanced to second; Robinson, M advanced to third.",53,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,4,bot,"Konkol, H singled to right field, 2 RBI (1-2 KFB); Clark, J scored; Robinson, M scored.",54,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,4,bot,"Moreno, L homered to left field, 2 RBI (0-1 S); Konkol, H scored.",55,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,4,bot,"Tweet, W struck out swinging (1-2 KBFS).",56,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,5,top,Richardson singled to center field (1-2 KBK).,57,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,5,top,Stauffacher reached on a fielder's choice (0-0); Richardson out at second 2b to ss.,58,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,5,top,"Anthony, H. homered to left field, 2 RBI (3-2 BKBFB); Stauffacher scored.",59,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,5,top,"Bushey, H. grounded out to 3b (0-0).",60,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,5,top,"Reem, M. flied out to lf (2-1 SBB).",61,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,5,bot,"Castro, W tripled to center field (0-0).",62,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,5,bot,"Bello, E grounded out to 2b, RBI (0-0); Castro, W scored.",63,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,5,bot,"Cahoon, R singled to left field (1-1 BK).",64,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,5,bot,"Robinson, M struck out swinging (2-2 FSBFBS).",65,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,5,bot,"Clark, J grounded out to 3b (2-1 KBB).",66,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,6,top,"Hess, W to p for Frank, H.",67,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,6,top,"Chittum, C. walked (3-2 SFBBBB).",68,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,6,top,"Kliber, S. singled to center field (1-2 BKF); Chittum, C. advanced to second.",69,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,6,top,"Myers, L. grounded out to 3b, SAC, bunt (1-1 BF); Kliber, S. advanced to second; Chittum, C. advanced to third.",70,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,6,top,"Lynch, T. grounded out to p, RBI (3-2 KBBBSFF); Chittum, C. scored.",71,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,6,top,"Richardson singled to left field (3-2 BBBKF); Kliber, S. advanced to third.",72,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,6,top,Stauffacher grounded out to 2b (1-2 BKF).,73,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,6,bot,"Boston, A. to p for Eiden, C..",74,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,6,bot,"Ibrahim, N walked (3-1 BBBKB).",75,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,6,bot,"Konkol, H struck out swinging (2-2 BKBSS).",76,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,6,bot,"Moreno, L singled to second base (2-2 BBKK); Ibrahim, N advanced to second.",77,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,6,bot,"Tweet, W hit by pitch (1-1 KB); Moreno, L advanced to second; Ibrahim, N advanced to third.",78,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,6,bot,"Castro, W struck out swinging (1-2 FBFS).",79,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,6,bot,"Bello, E grounded out to 3b (1-1 BF).",80,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,7,top,"Bakkum, C to p for Hess, W.",81,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,7,top,"Anthony, H. struck out swinging (0-2 KFS).",82,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,7,top,"Bushey, H. flied out to rf (1-2 SFB).",83,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,7,top,"Reem, M. walked (3-0 BBBB).",84,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,7,top,"Chittum, C. flied out to cf (1-0 B).",85,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,7,bot,"Cahoon, R walked (3-0 BBBB).",86,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,7,bot,"Robinson, M grounded into double play ss to 2b to 1b (2-1 BBK); Cahoon, R out on the play.",87,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,7,bot,"Clark, J struck out swinging (2-2 KKBBS).",88,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,8,top,"Emmerich, T to p for Bakkum, C.",89,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,8,top,"Kliber, S. grounded out to 1b unassisted (0-0).",90,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,8,top,"Myers, L. doubled to right field (1-2 KBKF).",91,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,8,top,"Lynch, T. walked (3-2 BSBKBFB).",92,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,8,top,"Steinbecker, to p for Emmerich, T.",93,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,8,top,"Richardson flied out to rf (0-0); Myers, L. advanced to third.",94,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,8,top,"Stauffacher walked (3-2 BBSBSB); Lynch, T. advanced to second.",95,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,8,top,"Anthony, H. struck out swinging (0-2 SSS).",96,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,8,bot,"Ibrahim, N doubled to center field (2-1 BBS).",97,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,8,bot,"Ibrahim, N advanced to third on a wild pitch.",98,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,8,bot,"Konkol, H singled to center field, RBI (2-1 BBF); Ibrahim, N scored.",99,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,8,bot,"Moreno, L reached on a fielder's choice, advanced to second (1-1 KB); Konkol, H advanced to second on an error by 2b, advanced to third.",100,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,8,bot,"Moreno, L advanced to third; Konkol, H scored on a wild pitch, unearned.",101,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,8,bot,"Tweet, W grounded out to 2b, RBI (2-1 BSB); Moreno, L scored.",102,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,8,bot,"Castro, W singled to center field (2-0 BB).",103,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,8,bot,"Bello, E flied out to cf (1-2 FFBF).",104,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,8,bot,"Cahoon, R walked (3-1 BSBBB); Castro, W advanced to second.",105,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,8,bot,"Schmidt, D pinch hit for Robinson, M.",106,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615079,8,bot,"Schmidt, D grounded out to ss (2-1 BKB).",107,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,9,top,"Schmidt, D to 2b.",108,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,9,top,"Majano, J to p for Steinbecker,.",109,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,9,top,"Bushey, H. flied out to rf (3-2 BBKBF).",110,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,9,top,"Reem, M. struck out looking (2-2 KBBKK).",111,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6539636,615058,Minn. Duluth Bulldogs,615079,St. Cloud St. Huskies,615058,9,top,"Chittum, C. grounded out to 1b unassisted (1-1 BF).",112,2026-03-11 10:00:00-04:00,"Winter Haven, FL",87,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,1,top,Matthew O'Neill struck out swinging (0-0).,1,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,1,top,Landon Schwartzman flied out to lf (0-0).,2,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,1,top,"Eddie Galvao doubled to center field, advanced to third on a throwing error by ss, scored on the error, unearned (0-0).",3,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,1,top,Quinn McDonald walked (0-0).,4,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,1,top,Quinn McDonald advanced to second on a wild pitch.,5,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,1,top,Mac Cady hit by pitch (0-0).,6,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,1,top,Jack Collins grounded out to p (0-0).,7,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,1,bot,Blaise Mace walked (0-0).,8,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,1,bot,Kadin Bergstrom struck out looking (0-0).,9,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,1,bot,Zach Fabis popped up to ss (0-0).,10,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,1,bot,Blaise Mace stole second.,11,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,1,bot,Marcus Taylor struck out looking (0-0).,12,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,2,top,Nate Vandersea struck out looking (0-0).,13,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,2,top,Holden Caney tripled to right center (0-0).,14,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,2,top,"Nick Duryea doubled down the rf line, RBI (0-0)3a Holden Caney scored.",15,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,2,top,Matthew O'Neill walked (0-0).,16,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,2,top,Landon Schwartzman flied out to lf (0-0).,17,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,2,top,Eddie Galvao flied out to lf (0-0).,18,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,2,bot,Trent Lawrence singled down the lf line (0-0).,19,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,2,bot,"Nate Burdin grounded out to 1b unassisted, SAC, bunt (0-0)3a Trent Lawrence advanced to second.",20,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,2,bot,Bryce Stanton struck out swinging (0-0).,21,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,2,bot,"Zach Duke reached first on a fielding error by ss (0-0)3a Trent Lawrence scored on the error, unearned.",22,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,2,bot,Colin Courier struck out looking (0-0).,23,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,3,top,Quinn McDonald singled to left field (0-0).,24,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,3,top,"Mac Cady singled down the lf line, advanced to second on the throw (0-0)3a Quinn McDonald advanced to third.",25,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,3,top,"Jack Collins doubled down the rf line, 2 RBI (0-0)3a Mac Cady scored3a Quinn McDonald scored.",26,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,3,top,Nate Vandersea grounded out to ss (0-0)3a Jack Collins advanced to third.,27,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,3,top,"Holden Caney singled to left field, RBI (0-0)3a Jack Collins scored.",28,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,3,top,Hunter Pavia to p for Frank Koopmann.,29,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,3,top,Nick Duryea walked (0-0)3a Holden Caney advanced to second.,30,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,3,top,Matthew O'Neill reached on a fielder's choice to third base (0-0)3a Nick Duryea advanced to second3a Holden Caney advanced to third on a throwing error by 3b.,31,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,3,top,Landon Schwartzman grounded into double play ss to 2b to 1b (0-0)3a Matthew O'Neill out on the play.,32,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,3,bot,Blaise Mace grounded out to p (0-0).,33,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,3,bot,Kadin Bergstrom flied out to cf (0-0).,34,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,3,bot,Zach Fabis grounded out to ss (0-0).,35,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,4,top,"Eddie Galvao homered to right field, RBI (0-0).",36,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,4,top,Quinn McDonald struck out swinging (0-0).,37,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,4,top,Mac Cady walked (0-0).,38,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,4,top,Jack Collins grounded out to 1b unassisted (0-0)3a Mac Cady advanced to second.,39,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,4,top,"Mac Cady out at third p to 3b, caught stealing.",40,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,4,bot,Marcus Taylor struck out looking (0-0).,41,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,4,bot,Trent Lawrence struck out swinging (0-0).,42,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,4,bot,Nate Burdin grounded out to 2b (0-0).,43,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,5,top,Nate Vandersea flied out to rf (0-0).,44,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,5,top,Holden Caney popped up to 2b (0-0).,45,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,5,top,Nick Duryea struck out looking (0-0).,46,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,5,bot,Bryce Stanton singled up the middle (0-0).,47,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,5,bot,Zach Duke walked (0-0)3a Bryce Stanton advanced to second.,48,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,5,bot,"Colin Courier grounded out to p, SAC, bunt (0-0)3a Zach Duke advanced to second3a Bryce Stanton advanced to third.",49,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,5,bot,Blaise Mace struck out looking (0-0).,50,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,5,bot,"Kadin Bergstrom singled to right field, 2 RBI (0-0)3a Zach Duke scored3a Bryce Stanton scored.",51,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,5,bot,Zach Fabis singled to right field (0-0)3a Kadin Bergstrom advanced to second.,52,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,5,bot,"Zach Fabis out at first p to 1b, picked off.",53,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,6,top,"Matthew O'Neill grounded out to p, bunt (0-0).",54,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,6,top,Landon Schwartzman singled through the left side (0-0).,55,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,6,top,Eddie Galvao flied out to cf (0-0).,56,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,6,top,"Landon Schwartzman out at first p to 1b, picked off.",57,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,6,bot,Charles Modlin to p for Nick Palovich.,58,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,6,bot,Marcus Taylor doubled to right center (0-0).,59,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,6,bot,"Marcus Taylor out at third p to 3b, caught stealing.",60,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,6,bot,Trent Lawrence doubled down the lf line (0-0).,61,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,6,bot,Nate Burdin singled to shortstop (0-0)3a Trent Lawrence advanced to third.,62,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,6,bot,"Bryce Stanton singled through the left side, RBI (0-0)3a Nate Burdin advanced to second3a Trent Lawrence scored.",63,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,6,bot,Zach Duke struck out looking (0-0).,64,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,6,bot,Austin Massat pinch hit for Colin Courier.,65,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,6,bot,Austin Massat fouled out to 1b (0-0).,66,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,7,top,Myles Foy to 3b for Austin Massat.,67,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,7,top,Quinn McDonald struck out looking (0-0).,68,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,7,top,Mac Cady flied out to cf (0-0).,69,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,7,top,Jack Collins doubled to left center (0-0).,70,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,7,top,"Nate Vandersea doubled to right center, RBI (0-0)3a Jack Collins scored.",71,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,7,top,Holden Caney flied out to rf (0-0).,72,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,7,bot,Blaise Mace singled down the lf line (0-0).,73,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,7,bot,Kadin Bergstrom flied out to lf (0-0).,74,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,7,bot,Zach Fabis reached on a fielder's choice to first base (0-0)3a Blaise Mace out at second 1b to ss.,75,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,7,bot,Zach Fabis stole second.,76,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,7,bot,Marcus Taylor singled to shortstop (0-0)3a Zach Fabis advanced to third on a throwing error by ss.,77,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,7,bot,Marcus Taylor stole second.,78,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,7,bot,Trent Lawrence grounded out to p (0-0).,79,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,8,top,Kyle Koerner to p for Hunter Pavia.,80,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,8,top,Nick Duryea walked (0-0).,81,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,8,top,Matthew O'Neill grounded into double play 2b to ss to 1b (0-0)3a Nick Duryea out on the play.,82,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,8,top,Landon Schwartzman flied out to lf (0-0).,83,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,8,bot,Nate Burdin flied out to cf (0-0).,84,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,8,bot,Bryce Stanton singled to left field (0-0).,85,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,8,bot,Zach Duke singled down the lf line (0-0)3a Bryce Stanton advanced to second.,86,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,8,bot,Sam Dalsimer to p for Charles Modlin.,87,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,8,bot,Qj Mangelsen pinch ran for Bryce Stanton.,88,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,8,bot,Myles Foy struck out looking (0-0).,89,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,8,bot,"Blaise Mace walked (0-0)3a Zach Duke advanced to second, advanced to third on the error3a Qj Mangelsen advanced to third, scored on a throwing error by c.",90,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,8,bot,Kadin Bergstrom hit by pitch (0-0)3a Blaise Mace advanced to second.,91,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,8,bot,"Zach Fabis hit by pitch, RBI (0-0)3a Kadin Bergstrom advanced to second3a Blaise Mace advanced to third3a Zach Duke scored.",92,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,8,bot,Marcus Taylor reached on a fielder's choice (0-0)3a Zach Fabis out at second ss to 2b.,93,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,9,top,Ryan Stary to c for Qj Mangelsen.,94,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,9,top,Eddie Galvao singled up the middle (0-0).,95,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,9,top,"Quinn McDonald grounded out to 3b, SAC, bunt (0-0)3a Eddie Galvao advanced to second.",96,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,9,top,Mac Cady struck out swinging (0-0).,97,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,9,top,"Jack Collins singled to left field, RBI (0-0)3a Eddie Galvao scored.",98,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615352,9,top,Nate Vandersea struck out swinging (0-0).,99,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,9,bot,Trent Lawrence struck out swinging (0-0).,100,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,9,bot,Nate Burdin singled to left field (0-0).,101,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,9,bot,Ryan Stary flied out to rf (0-0).,102,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026
+6543810,615352,Skidmore Thoroughbreds,615332,Rockford Regents,615332,9,bot,Zach Duke struck out looking (0-0).,103,2026-03-11 10:00:00-04:00,"Fort Myers, FL",67,MBA,2026

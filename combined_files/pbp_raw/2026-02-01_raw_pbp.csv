@@ -1,371 +1,111 @@
 game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,1,top,F. Gall reached first on a fielding error by 2b.,1,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,1,top,J. Ventura grounded into double play ss to 1b; F. Gall out on the play.,2,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,1,top,J. Connors grounded out to 3b.,3,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,1,bot,J. Spoto walked.,4,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,1,bot,"L. Meyer struck out swinging, caused a double play c unassisted; J. Spoto out on the play, interference.",5,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,1,bot,K. Wakui doubled to right field.,6,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,1,bot,"Z. Makarewic tripled to right center, RBI; K. Wakui scored.",7,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,1,bot,K. Fisher grounded out to ss.,8,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,2,top,"W. Jimenez struck out swinging, out at first c to 1b.",9,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,2,top,J. Cabuyaban grounded out to ss.,10,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,2,top,C. Brooks walked.,11,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,2,top,C. Carrasque walked; C. Brooks advanced to second.,12,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,2,top,S. Wornson walked; C. Carrasque advanced to second; C. Brooks advanced to third.,13,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,2,top,"L. May hit by pitch, RBI; S. Wornson advanced to second; C. Carrasque advanced to third; C. Brooks scored.",14,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,2,top,"F. Gall singled through the right side, 2 RBI; L. May advanced to third; S. Wornson scored; C. Carrasque scored.",15,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,2,top,J. Ventura struck out swinging.,16,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,2,bot,N. McCrossin grounded out to 2b.,17,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,2,bot,I. Gomez struck out swinging.,18,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,2,bot,E. Long flied out to rf.,19,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,3,top,J. Connors lined out to rf.,20,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,3,top,"W. Jimenez struck out swinging, out at first c to 1b.",21,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,3,top,J. Cabuyaban doubled down the lf line.,22,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,3,top,C. Brooks walked.,23,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,3,top,C. Carrasque struck out swinging.,24,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,3,bot,E. Foufoulas grounded out to 2b.,25,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,3,bot,J. Spoto singled up the middle.,26,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,3,bot,J. Spoto stole second.,27,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,3,bot,L. Meyer flied out to cf; J. Spoto advanced to third.,28,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,3,bot,K. Wakui grounded out to 2b.,29,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,4,top,S. Wornson singled to left field.,30,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,4,top,L. May struck out swinging.,31,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,4,top,G. Folmar to p for D. Fifer.,32,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,4,top,F. Gall hit by pitch; S. Wornson advanced to second.,33,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,4,top,J. Ventura singled through the left side; F. Gall advanced to second; S. Wornson advanced to third.,34,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,4,top,J. Connors struck out swinging.,35,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,4,top,W. Jimenez flied out to rf.,36,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,4,bot,Z. Makarewic flied out to cf.,37,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,4,bot,K. Fisher singled up the middle.,38,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,4,bot,N. McCrossin popped up to p.,39,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,4,bot,I. Gomez walked; K. Fisher advanced to second.,40,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,4,bot,E. Long reached on a fielder's choice; I. Gomez out at second ss to 2b.,41,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,5,top,J. Cabuyaban singled to center field.,42,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,5,top,C. Brooks struck out swinging.,43,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,5,top,C. Carrasque popped up to ss.,44,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,5,top,S. Wornson grounded out to 3b.,45,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,5,bot,E. Foufoulas walked.,46,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,5,bot,E. Foufoulas stole second.,47,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,5,bot,J. Spoto flied out to lf; E. Foufoulas advanced to third.,48,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,5,bot,B. Steggall to p for L. Wells.,49,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,5,bot,"L. Meyer grounded out to ss, RBI; E. Foufoulas scored.",50,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,5,bot,K. Wakui singled to third base.,51,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,5,bot,Z. Makarewic doubled down the lf line; K. Wakui advanced to third.,52,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,5,bot,K. Fisher flied out to cf.,53,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,6,top,L. May lined out to ss.,54,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,6,top,F. Gall fouled out to 1b.,55,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,6,top,J. Ventura flied out to cf.,56,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,6,bot,N. McCrossin out at first 1b to p.,57,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,6,bot,I. Gomez flied out to cf.,58,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,6,bot,E. Long struck out swinging.,59,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,7,top,J. Connors singled to first base.,60,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,7,top,C. Watson to p for G. Folmar.,61,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,7,top,W. Jimenez hit by pitch; J. Connors advanced to second.,62,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,7,top,J. Cabuyaban grounded into double play ss to 2b to 1b; W. Jimenez out on the play; J. Connors advanced to third.,63,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,615067,7,top,C. Brooks flied out to lf.,64,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,7,bot,E. Foufoulas flied out to lf.,65,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,7,bot,J. Spoto struck out swinging.,66,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,7,bot,L. Meyer singled to pitcher.,67,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,7,bot,C. Clark pinch ran for L. Meyer.,68,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6494141,615067,Northwest Mo. St. Bearcats,614921,Southwestern Okla. Bulldogs,614921,7,bot,K. Wakui struck out swinging.,69,2026-02-01 12:00:00-05:00,"Bulldog Baseball Field (Weatherford, OK)",71,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,1,top,C. Thomas grounded out to ss.,1,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,1,top,A. Bode struck out swinging.,2,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,1,top,A. Pokley lined out to rf.,3,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,1,bot,T. Murphy grounded out to 2b.,4,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,1,bot,C. Robertson grounded out to ss.,5,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,1,bot,W. Langston grounded out to 3b.,6,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,2,top,C. Mason hit by pitch.,7,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,2,top,"G. Duran grounded out to 3b, SAC, bunt; C. Mason advanced to second.",8,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,2,top,J. Kerno walked; C. Mason stole third.,9,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,2,top,J. Kerno stole second; C. Mason stole home.,10,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,2,top,"G. Rusch grounded out to p, SAC, bunt; J. Kerno advanced to third.",11,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,2,top,S. Munson walked.,12,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,2,top,S. Munson stole second.,13,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,2,top,L. Smock struck out looking.,14,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,2,bot,A. Johnson flied out to cf.,15,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,2,bot,T. Carmichae walked.,16,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,2,bot,"J. LaRocca reached first on an error by rf, advanced to second; T. Carmichae advanced to third.",17,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,2,bot,"C. Gadman singled through the right side, RBI; J. LaRocca advanced to third; T. Carmichae scored, unearned.",18,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,2,bot,K. Jordan hit by pitch; C. Gadman advanced to second.,19,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,2,bot,D. Crown struck out looking.,20,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,2,bot,T. Murphy flied out to cf.,21,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,3,top,C. Thomas struck out looking.,22,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,3,top,A. Bode doubled.,23,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,3,top,A. Pokley grounded out to ss; A. Bode advanced to third.,24,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,3,top,C. Mason grounded out to ss.,25,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,3,bot,C. Robertson singled through the left side.,26,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,3,bot,W. Langston grounded out to 3b; C. Robertson advanced to second.,27,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,3,bot,A. Johnson flied out to cf; C. Robertson advanced to third.,28,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,3,bot,T. Carmichae grounded out to p.,29,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,4,top,G. Duran flied out to cf.,30,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,4,top,J. Kerno flied out to rf.,31,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,4,top,G. Rusch flied out to rf.,32,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,4,bot,J. LaRocca grounded out to 3b.,33,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,4,bot,"C. Gadman grounded out to p, bunt.",34,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,4,bot,K. Jordan grounded out to 3b.,35,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,5,top,K. Carlisle to p for T. Ballard.,36,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,5,top,S. Munson grounded out to 3b.,37,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,5,top,L. Smock tripled down the rf line.,38,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,5,top,"C. Thomas singled, out at second lf to 2b, RBI; L. Smock scored.",39,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,5,top,A. Bode grounded out to 3b.,40,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,5,bot,D. Crown walked.,41,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,5,bot,D. Downing to p for A. Tran.,42,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,5,bot,T. Murphy fouled out to c.,43,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,5,bot,C. Robertson singled down the lf line; D. Crown advanced to second.,44,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,5,bot,"D. Crown out at third c to 3b, caught stealing.",45,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,5,bot,C. Robertson advanced to second.,46,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,5,bot,W. Langston struck out swinging.,47,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,6,top,A. Pokley grounded out to 1b unassisted.,48,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,6,top,C. Mason flied out to rf.,49,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,6,top,G. Duran reached first on a throwing error by 3b.,50,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,6,top,G. Duran stole second.,51,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,6,top,J. Kerno grounded out to 2b.,52,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,6,bot,A. Johnson singled.,53,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,6,bot,B. Speakman pinch hit for T. Carmichae.,54,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,6,bot,N. Slonaker pinch ran for A. Johnson.,55,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,6,bot,"B. Speakman grounded out to 3b, SAC, bunt; N. Slonaker advanced to second.",56,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,6,bot,T. Sanderson pinch hit for J. LaRocca.,57,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,6,bot,A. Pearson to p for D. Downing.,58,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,6,bot,T. Sanderson grounded out to 2b; N. Slonaker advanced to third.,59,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,6,bot,"C. Gadman singled to second base, RBI; N. Slonaker scored.",60,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,6,bot,K. Jordan popped up to 2b.,61,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,7,top,C. Wells to 1b for N. Slonaker.,62,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,7,top,B. Speakman to rf.,63,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,7,top,T. Sanderson to c.,64,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,7,top,G. Rusch grounded out to p.,65,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,7,top,S. Munson grounded out to ss.,66,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615041,7,top,L. Smock flied out to ss.,67,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,7,bot,D. Crown singled through the right side.,68,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,7,bot,T. Murphy doubled to left field; D. Crown advanced to third.,69,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,7,bot,C. Robertson was intentionally walked.,70,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6518431,615041,UIndy Greyhounds,615059,Mississippi Col. Choctaws,615059,7,bot,"W. Langston walked, RBI; C. Robertson advanced to second; T. Murphy advanced to third; D. Crown scored.",71,2026-02-01 12:00:00-05:00,"Frierson Field (Clinton, MS)",109,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,1,top,"S. Hunter grounded out to p, bunt.",1,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,1,top,B. Crabtree reached first on a fielding error by 2b.,2,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,1,top,"H. Atkins struck out looking3a B. Crabtree out at second c to 2b, caught stealing.",3,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,1,bot,J. Tyer struck out swinging.,4,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,1,bot,B. Zayas struck out swinging.,5,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,1,bot,J. Lashley singled up the middle.,6,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,1,bot,A. Matos struck out swinging.,7,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,2,top,N. Chrismon grounded out to ss.,8,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,2,top,"M. Connolly homered, RBI.",9,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,2,top,S. Shelly lined out to ss.,10,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,2,top,M. Cloud struck out looking.,11,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,2,bot,J. Tapia-Mel struck out swinging.,12,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,2,bot,B. Thornton walked.,13,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,2,bot,B. Thornton advanced to second on a wild pitch.,14,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,2,bot,C. Beck flied out to rf.,15,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,2,bot,C. Devito struck out swinging.,16,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,3,top,P. Styborski grounded out to 3b.,17,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,3,top,T. Hubbard popped up to 2b.,18,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,3,top,S. Hunter grounded out to 2b.,19,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,3,bot,W. Kimbler walked.,20,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,3,bot,"J. Tyer singled, bunt3a W. Kimbler advanced to second.",21,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,3,bot,B. Zayas reached on a fielder's choice3a J. Tyer advanced to second3a W. Kimbler out at third 1b to 3b.,22,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,3,bot,B. Zayas advanced to second on a wild pitch3a J. Tyer advanced to third.,23,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,3,bot,J. Lashley fouled out to 3b.,24,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,3,bot,B. Zayas advanced to third3a J. Tyer scored on a wild pitch.,25,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,3,bot,A. Matos struck out swinging.,26,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,4,top,Y. Reyes to p for N. Lucia.,27,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,4,top,B. Crabtree flied out to cf.,28,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,4,top,H. Atkins singled to shortstop.,29,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,4,top,"H. Atkins out at second c to ss, caught stealing.",30,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,4,top,N. Chrismon struck out swinging.,31,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,4,bot,J. Tapia-Mel lined out to lf.,32,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,4,bot,"B. Thornton struck out swinging, reached first on a wild pitch.",33,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,4,bot,C. Beck struck out looking.,34,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,4,bot,C. Devito walked3a B. Thornton advanced to second.,35,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,4,bot,W. Kimbler popped up to 2b.,36,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,5,top,M. Connolly walked.,37,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,5,top,S. Shelly singled to left field3a M. Connolly advanced to second.,38,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,5,top,M. Cloud popped up to rf3a M. Connolly advanced to third.,39,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,5,top,"P. Styborski reached on a fielder's choice, RBI3a S. Shelly out at second ss to 2b3a M. Connolly scored.",40,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,5,top,T. Hubbard doubled to right field3a P. Styborski advanced to third.,41,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,5,top,A. Jorge to p for Y. Reyes.,42,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,5,top,S. Hunter hit by pitch.,43,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,5,top,"B. Crabtree reached first on a fielding error by 2b3a S. Hunter advanced to third3a T. Hubbard scored, unearned3a P. Styborski scored, unearned.",44,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,5,top,H. Atkins flied out to lf.,45,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,5,bot,J. Tyer grounded out to p.,46,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,5,bot,B. Zayas flied out to rf.,47,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,5,bot,J. Lashley singled to left field.,48,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,5,bot,A. Matos grounded out to 2b.,49,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,6,top,N. Chrismon struck out swinging.,50,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,6,top,M. Connolly struck out swinging.,51,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,6,top,S. Shelly singled up the middle.,52,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,6,top,S. Shelly advanced to second.,53,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,6,top,M. Cloud struck out swinging.,54,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,6,bot,B. Major to p for C. Gouge.,55,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,6,bot,J. Tapia-Mel struck out swinging.,56,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,6,bot,B. Thornton struck out swinging.,57,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,6,bot,C. Beck flied out to rf.,58,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,7,top,P. Styborski struck out swinging.,59,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,7,top,T. Hubbard flied out to lf.,60,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,7,top,"S. Hunter homered, RBI.",61,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,7,top,B. Crabtree struck out looking.,62,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,7,bot,C. Devito singled to shortstop.,63,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,7,bot,W. Kimbler singled to left field3a C. Devito advanced to second.,64,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,7,bot,J. Tyer singled to left field3a W. Kimbler advanced to second3a C. Devito advanced to third.,65,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,7,bot,"B. Zayas tripled to center field, 3 RBI3a J. Tyer scored3a W. Kimbler scored3a C. Devito scored.",66,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,7,bot,C. Douglas to p for B. Major.,67,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,7,bot,"J. Lashley flied out to rf, sacrifice fly, RBI3a B. Zayas scored.",68,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,7,bot,A. Matos grounded out to ss.,69,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,7,bot,J. Romero pinch hit for J. Tapia-Mel.,70,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,7,bot,J. Romero walked.,71,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,7,bot,N. Petrelli pinch ran for J. Romero.,72,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,7,bot,B. Thornton struck out swinging.,73,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,8,top,H. Atkins walked.,74,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,8,top,N. Chrismon struck out swinging.,75,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,8,top,M. Connolly reached on a fielder's choice3a H. Atkins out at second ss to 2b.,76,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,8,top,S. Shelly doubled to left field3a M. Connolly advanced to third.,77,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,8,top,"M. Cloud doubled to right field, 2 RBI3a S. Shelly scored3a M. Connolly scored.",78,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,8,top,Z. Gonzalez to p for A. Jorge.,79,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,8,top,P. Styborski out at first 1b to p.,80,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,8,bot,J. Burleyson to p for C. Douglas.,81,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,8,bot,J. Lopez pinch hit for C. Beck.,82,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,8,bot,J. Lopez grounded out to 3b.,83,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,8,bot,C. Devito struck out swinging.,84,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,8,bot,W. Kimbler doubled up the middle.,85,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,8,bot,J. Tyer grounded out to ss.,86,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,9,top,L. Arenado pinch hit for J. Lopez.,87,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,9,top,L. Arenado to rf.,88,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,9,top,T. Hubbard singled to center field.,89,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,9,top,S. Hunter reached on a fielder's choice3a T. Hubbard out at second 1b to ss.,90,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,615105,9,top,B. Crabtree grounded into double play ss to 2b to 1b3a S. Hunter out on the play.,91,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,9,bot,B. Zayas struck out swinging.,92,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,9,bot,J. Lashley walked.,93,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,9,bot,A. Matos reached on a fielder's choice3a J. Lashley out at second 2b to ss.,94,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,9,bot,I. Herrera pinch ran for N. Petrelli.,95,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,9,bot,I. Herrera singled to pitcher3a A. Matos advanced to second.,96,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,9,bot,K. Scheurer pinch ran for I. Herrera.,97,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,9,bot,B. Thornton hit by pitch3a K. Scheurer advanced to second3a A. Matos advanced to third.,98,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,9,bot,C. Padilla pinch ran for B. Thornton.,99,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6525296,615105,Catawba Catawba Indians,614944,Lynn Fighting Knights,614944,9,bot,L. Arenado struck out swinging.,100,2026-02-01 12:00:00-05:00,"Lynn Baseball Field (Boca Raton, FL)",101,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,1,top,G. Groppuso walked.,1,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,1,top,B. Powell walked3a G. Groppuso advanced to second.,2,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,1,top,S. Sullivan grounded out to p3a B. Powell advanced to second3a G. Groppuso advanced to third.,3,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,1,top,T. McCammon struck out swinging.,4,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,1,top,B. Powell advanced to third3a G. Groppuso scored on a wild pitch.,5,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,1,top,B. Karpowicz walked.,6,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,1,top,B. Karpowicz stole second3a B. Powell scored.,7,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,1,top,J. Courville grounded out to 3b.,8,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,1,bot,J. Cue grounded out to ss.,9,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,1,bot,J. Cabrera flied out to cf.,10,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,1,bot,M. Ramirez struck out swinging.,11,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,2,top,B. Hart grounded out to 2b.,12,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,2,top,N. Griffin reached first on an error by ss.,13,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,2,top,R. Benamati grounded out to 3b3a N. Griffin advanced to second.,14,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,2,top,G. Groppuso popped up to 3b.,15,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,2,bot,J. DeGoti flied out to 2b.,16,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,2,bot,T. Torti singled to right field.,17,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,2,bot,Y. Marrero singled to left field3a T. Torti advanced to second.,18,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,2,bot,M. Arnold flied out to lf.,19,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,2,bot,S. Garavito flied out to cf.,20,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,3,top,B. Powell walked.,21,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,3,top,S. Sullivan grounded out to p3a B. Powell advanced to second.,22,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,3,top,T. McCammon grounded out to 3b3a B. Powell advanced to third.,23,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,3,top,B. Karpowicz popped up to ss.,24,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,3,bot,M. Sanchez popped up to 2b.,25,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,3,bot,"J. Cue homered to left field, RBI.",26,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,3,bot,J. Cabrera struck out swinging.,27,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,3,bot,M. Ramirez lined out to 3b.,28,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,4,top,J. Courville flied out to cf.,29,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,4,top,B. Hart grounded out to 3b.,30,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,4,top,N. Griffin singled up the middle.,31,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,4,top,N. Griffin advanced to second on a wild pitch.,32,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,4,top,R. Benamati singled to shortstop3a N. Griffin advanced to third.,33,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,4,top,R. Benamati stole second.,34,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,4,top,J. Fernandez to p for C. Colunga.,35,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,4,top,G. Groppuso hit by pitch.,36,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,4,top,G. Groppuso advanced to second3a R. Benamati advanced to third3a N. Griffin scored on a wild pitch.,37,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,4,top,"B. Powell doubled to left field, 2 RBI3a G. Groppuso scored3a R. Benamati scored.",38,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,4,top,A. Turco-Riv to p for J. Fernandez.,39,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,4,top,"B. Powell picked off, out at second 2b to 3b.",40,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,4,bot,J. DeGoti singled to center field.,41,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,4,bot,T. Torti flied out to cf.,42,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,4,bot,Y. Marrero grounded into double play cf to 1b3a J. DeGoti out on the play.,43,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,5,top,S. Sullivan flied out to cf.,44,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,5,top,T. McCammon singled to left field.,45,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,5,top,B. Karpowicz flied out to lf.,46,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,5,top,A. Turco-Riv to p for C. Colunga.,47,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,5,top,J. Courville grounded out to ss.,48,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,5,bot,M. Arnold fouled out to 3b.,49,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,5,bot,S. Garavito singled to left field.,50,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,5,bot,M. Sanchez grounded into double play ss to 2b to 1b3a S. Garavito out on the play.,51,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,6,top,B. Hart singled up the middle.,52,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,6,top,N. Griffin doubled to left field3a B. Hart advanced to third.,53,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,6,top,"R. Benamati doubled to left field, RBI3a N. Griffin advanced to third3a B. Hart scored.",54,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,6,top,N. Banks to p for A. Turco-Riv.,55,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,6,top,G. Groppuso hit by pitch.,56,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,6,top,"B. Powell flied out to cf, sacrifice fly, RBI3a R. Benamati out at third cf to ss3a N. Griffin scored.",57,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,6,top,G. Groppuso stole second.,58,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,6,top,S. Sullivan walked.,59,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,6,top,T. McCammon walked3a S. Sullivan advanced to second3a G. Groppuso advanced to third.,60,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,6,top,C. Garro to p for N. Banks.,61,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,6,top,"B. Karpowicz singled to left field, 2 RBI3a T. McCammon advanced to second3a S. Sullivan scored3a G. Groppuso scored.",62,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,6,top,"J. Courville reached first on an error by ss, RBI3a B. Karpowicz advanced to second3a T. McCammon scored.",63,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,6,top,B. Hart walked3a J. Courville advanced to second3a B. Karpowicz advanced to third.,64,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,6,top,"N. Griffin singled to center field, 2 RBI3a B. Hart advanced to third3a J. Courville scored, unearned3a B. Karpowicz scored.",65,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,6,top,R. Benamati flied out to cf.,66,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,6,bot,K. Nelson to p for C. Longley.,67,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,6,bot,J. Cue popped up to 3b.,68,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,6,bot,D. Jones pinch hit for J. Cabrera.,69,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,6,bot,D. Jones walked.,70,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,6,bot,M. Ramirez struck out swinging.,71,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,6,bot,J. DeGoti lined out to lf.,72,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,7,top,D. Jones to lf.,73,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,7,top,E. Echevarri to p for C. Garro.,74,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,7,top,G. Groppuso doubled to right field.,75,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,7,top,B. Powell walked.,76,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,7,top,S. Sullivan walked3a B. Powell advanced to second3a G. Groppuso advanced to third.,77,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,7,top,"T. McCammon flied out to lf, RBI3a G. Groppuso scored.",78,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,7,top,B. Karpowicz popped up to 1b.,79,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,7,top,J. Courville reached on a fielder's choice3a S. Sullivan out at second ss to 2b.,80,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,7,bot,A. Stinson pinch hit for T. Torti.,81,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,7,bot,A. Stinson struck out looking.,82,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,7,bot,B. Mon pinch hit for Y. Marrero.,83,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,7,bot,B. Mon walked.,84,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,7,bot,M. Arnold hit by pitch3a B. Mon advanced to second.,85,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,7,bot,"S. Garavito singled to left field, RBI3a M. Arnold advanced to second3a B. Mon scored.",86,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,7,bot,M. Sanchez grounded into double play ss to 2b3a M. Arnold out on the play.,87,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,8,top,E. Gonzalez to 1b for J. DeGoti.,88,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,8,top,A. Stinson to ss.,89,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,8,top,B. Mon to rf.,90,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,8,top,M. Sanchez to 2b.,91,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,8,top,E. Tovar to p for E. Echevarri.,92,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,8,top,Ju. Barham pinch hit for B. Hart.,93,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,8,top,Ju. Barham popped up to 2b.,94,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,8,top,J. Evans pinch hit for N. Griffin.,95,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,8,top,J. Evans walked.,96,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,8,top,J. Evans stole second.,97,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,8,top,R. Benamati struck out looking3a J. Evans advanced to third.,98,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,8,top,G. Groppuso hit by pitch.,99,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,8,top,B. Powell grounded out to 1b unassisted.,100,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,8,bot,W. Farrell to rf for G. Groppuso.,101,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,8,bot,J. Courville to ss.,102,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,8,bot,J. Evans to 2b.,103,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,8,bot,B. Walker to p for K. Nelson.,104,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,8,bot,J. Cue grounded out to 3b.,105,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,8,bot,D. Jones struck out swinging.,106,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,8,bot,N. Rodriguez pinch hit for M. Ramirez.,107,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,8,bot,N. Rodriguez singled to center field.,108,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,8,bot,E. Gonzalez grounded out to 3b.,109,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,9,top,L. john to c for Ju. Barham.,110,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,9,top,O. Martinez to p for E. Tovar.,111,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,9,top,D. Sessoms pinch hit for S. Sullivan.,112,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,9,top,D. Sessoms flied out to lf.,113,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,9,top,W. Goff pinch hit for T. McCammon.,114,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,9,top,W. Goff singled to second base.,115,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,9,top,W. Goff advanced to second on a wild pitch.,116,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,9,top,B. Karpowicz singled to first base.,117,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,9,top,J. Courville walked3a B. Karpowicz advanced to second3a W. Goff advanced to third.,118,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,9,top,"L. john walked, RBI3a J. Courville advanced to second3a B. Karpowicz advanced to third3a W. Goff scored.",119,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614909,9,top,J. Evans grounded into double play ss to 2b to 1b3a L. john out on the play.,120,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,9,bot,D. Sessoms to dh.,121,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,9,bot,W. Goff to 3b.,122,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,9,bot,N. Papciak to p for B. Walker.,123,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,9,bot,A. Stinson grounded out to 1b unassisted.,124,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,9,bot,B. Mon singled to third base.,125,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,9,bot,J. Hernandez pinch hit for M. Arnold.,126,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,9,bot,J. Hernandez walked3a B. Mon advanced to second.,127,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,9,bot,"S. Garavito doubled down the lf line, 2 RBI3a J. Hernandez scored3a B. Mon scored.",128,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,9,bot,M. Sanchez grounded out to 1b unassisted3a S. Garavito advanced to third.,129,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
-6526429,614909,Wingate Bulldogs,614947,Nova Southeastern Sharks,614947,9,bot,J. Cue flied out to lf.,130,2026-02-01 12:00:00-05:00,"NSU Baseball Complex (Davie, FL)",217,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,1,top,C. Carson walked.,1,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,1,top,C. Carson advanced to second on a wild pitch.,2,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,1,top,"S. Lapinskes singled to third base, bunt3a C. Carson advanced to third.",3,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,1,top,"S. Lapinskes stole second, advanced to third on a throwing error by c3a C. Carson scored, unearned.",4,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,1,top,G. Waldrop struck out swinging.,5,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,1,top,T. Bush fouled out to 1b.,6,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,1,top,L. Songy grounded out to ss.,7,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,1,bot,G. Waldrop to c.,8,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,1,bot,N. Mayfield to lf for L. Songy.,9,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,1,bot,T. Sardelli singled through the right side.,10,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,1,bot,"C. Dawson grounded out to 3b, SAC, bunt3a T. Sardelli advanced to second.",11,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,1,bot,"K. Jenkins singled through the right side, RBI3a T. Sardelli scored.",12,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,1,bot,B. Bard grounded into double play ss to 2b to 1b3a K. Jenkins out on the play.,13,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,2,top,"C. Mahan singled to pitcher, bunt.",14,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,2,top,B. Bartlett grounded out to 2b3a C. Mahan advanced to second.,15,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,2,top,"C. Mahan out at third c to 3b, caught stealing.",16,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,2,top,B. Griffin lined out to 1b.,17,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,2,bot,L. Martin lined out to 2b.,18,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,2,bot,B. Watkins grounded out to 1b unassisted.,19,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,2,bot,"W. Johnston struck out swinging, out at first c to 1b.",20,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,3,top,H. Windle lined out to 2b.,21,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,3,top,C. Carson walked.,22,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,3,top,C. Carson stole second.,23,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,3,top,S. Lapinskes struck out swinging.,24,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,3,top,G. Waldrop struck out swinging.,25,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,3,bot,L. Caussey lined out to 2b.,26,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,3,bot,D. Vega grounded out to ss.,27,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,3,bot,T. Sardelli struck out swinging.,28,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,4,top,T. Bush singled to left center.,29,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,4,top,N. Mayfield grounded out to 3b3a T. Bush advanced to second.,30,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,4,top,"C. Mahan singled to left field, RBI3a T. Bush scored.",31,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,4,top,B. Bartlett flied out to rf.,32,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,4,top,B. Griffin flied out to lf down the lf line.,33,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,4,bot,C. Dawson grounded out to 2b.,34,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,4,bot,K. Jenkins singled through the left side.,35,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,4,bot,K. Jenkins stole second.,36,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,4,bot,B. Bard popped up to ss.,37,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,4,bot,L. Martin walked.,38,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,4,bot,B. Watkins reached on a fielder's choice3a L. Martin out at second 2b to ss.,39,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,5,top,"H. Windle out at first 1b to p, bunt.",40,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,5,top,C. Carson popped up to ss.,41,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,5,top,S. Lapinskes grounded out to 3b.,42,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,5,bot,W. Johnston flied out to rf.,43,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,5,bot,L. Caussey grounded out to 2b.,44,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,5,bot,D. Vega grounded out to ss.,45,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,6,top,Z. Moss to p for C. Dickson.,46,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,6,top,G. Waldrop walked.,47,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,6,top,T. Bush grounded into double play 3b to 2b to 1b3a G. Waldrop out on the play.,48,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,6,top,N. Mayfield singled to right field.,49,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,6,top,C. Mahan popped up to 1b.,50,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,6,bot,B. Lawrence to p for T. Smith.,51,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,6,bot,T. Sardelli popped up to 3b.,52,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,6,bot,C. Dawson singled to right field.,53,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,6,bot,K. Jenkins walked3a C. Dawson advanced to second.,54,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,6,bot,B. Bard struck out swinging.,55,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,6,bot,K. Jenkins stole second3a C. Dawson stole third.,56,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,6,bot,L. Martin walked.,57,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,6,bot,D. Ossanna pinch hit for B. Watkins.,58,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,6,bot,"D. Ossanna walked, RBI3a L. Martin advanced to second3a K. Jenkins advanced to third3a C. Dawson scored.",59,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,6,bot,C. Gann to p for B. Lawrence.,60,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,6,bot,"W. Johnston singled to left field, 2 RBI3a D. Ossanna advanced to second3a L. Martin scored3a K. Jenkins scored.",61,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,6,bot,L. Caussey grounded out to 2b.,62,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,7,top,K. Jenkins to cf.,63,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,7,top,D. Ossanna to lf.,64,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,7,top,J. Witt to p for Z. Moss.,65,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,7,top,B. Bartlett struck out swinging.,66,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,7,top,B. Griffin doubled to left field.,67,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,7,top,H. Windle walked.,68,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,7,top,"C. Carson singled to left center, advanced to second on the throw, RBI3a H. Windle advanced to third3a B. Griffin scored.",69,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,7,top,S. Lapinskes reached on a fielder's choice3a C. Carson advanced to third3a H. Windle out at home p to c.,70,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,7,top,"C. Carson out at home c unassisted, caught stealing.",71,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,7,bot,D. Vega lined out to ss.,72,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,7,bot,T. Sardelli walked.,73,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,7,bot,C. Barnett to p for C. Gann.,74,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,7,bot,C. Dawson walked3a T. Sardelli advanced to second.,75,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,7,bot,K. Jenkins fouled out to 1b.,76,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,7,bot,"C. Dawson advanced to second3a T. Sardelli out at third p to 3b, caught stealing.",77,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,8,top,D. Hutchison to p for J. Witt.,78,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,8,top,G. Waldrop walked.,79,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,8,top,G. Galenza pinch hit for T. Bush.,80,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,8,top,"G. Galenza grounded out to p, SAC, bunt3a G. Waldrop advanced to second.",81,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,8,top,N. Mayfield reached on a fielder's choice3a G. Waldrop out at third ss to 3b.,82,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,8,top,C. Mahan lined out to lf.,83,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,8,bot,B. Bard struck out swinging.,84,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,8,bot,L. Martin singled to right center.,85,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,8,bot,D. Ossanna singled to left field3a L. Martin advanced to second.,86,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,8,bot,W. Johnston struck out swinging.,87,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,8,bot,L. Caussey struck out swinging.,88,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,9,top,N. Youngbloo pinch hit for B. Bartlett.,89,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,9,top,N. Youngbloo grounded out to 2b.,90,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,9,top,B. Griffin flied out to cf to left center.,91,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,9,top,S. Staggs pinch hit for H. Windle.,92,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,9,top,S. Staggs singled to right center.,93,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,9,top,C. Carson walked3a S. Staggs advanced to second.,94,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,9,top,"S. Lapinskes tripled to right center, 2 RBI3a C. Carson scored3a S. Staggs scored.",95,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,9,top,S. Lapinskes scored on a wild pitch.,96,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615000,9,top,G. Waldrop struck out looking.,97,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,9,bot,G. Galenza to 1b.,98,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,9,bot,C. Mahan to 2b.,99,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,9,bot,S. Staggs to ss.,100,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,9,bot,J. Hay to p for C. Barnett.,101,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,9,bot,D. Vega singled to center field.,102,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,9,bot,T. Sardelli flied out to cf.,103,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,9,bot,C. Dawson singled to right center3a D. Vega advanced to third.,104,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,9,bot,"K. Jenkins reached first on an error by ss, RBI3a C. Dawson advanced to second3a D. Vega scored.",105,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,9,bot,"B. Bard reached on a fielder's choice, advanced to second3a K. Jenkins advanced to second on a throwing error by ss, advanced to third3a C. Dawson scored, unearned.",106,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,9,bot,J. Thornton to p for J. Hay.,107,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,9,bot,L. Martin was intentionally walked.,108,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,9,bot,D. Ossanna struck out swinging.,109,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026
+6518596,615000,UAH Chargers,615099,Arkansas Tech Wonder Boys,615099,9,bot,"L. Martin advanced to second on a balk3a B. Bard advanced to third on a balk3a K. Jenkins scored on a balk, unearned.",110,2026-02-01 18:00:00-05:00,"Daikin Park (Houston, TX)",27,MBA,2026

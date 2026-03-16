@@ -1,85 +1,886 @@
 game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,1,top,Noah Townsend popped up to 2b (0-1 K).,1,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,1,top,"Jensen Bergman doubled to right field, out at third rf to ss to 3b (2-1 KBB).",2,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,1,top,Jack Johnson struck out swinging (3-2 BKBSFBS).,3,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,1,bot,Marcus Rodrigues singled up the middle (3-1 KBBB).,4,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,1,bot,Robbie Lamond hit by pitch (1-1 FH)3a Marcus Rodrigues advanced to second.,5,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,1,bot,Collin Reilly hit by pitch (1-1 KH)3a Robbie Lamond advanced to second3a Marcus Rodrigues advanced to third.,6,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,1,bot,"Declan Lush walked, RBI (3-1 BKBBB)3a Collin Reilly advanced to second3a Robbie Lamond advanced to third3a Marcus Rodrigues scored.",7,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,1,bot,"Brayden Lewis homered to left field, 4 RBI (2-0 BB)3a Declan Lush scored3a Collin Reilly scored3a Robbie Lamond scored.",8,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,1,bot,Logan Downey singled to right field (3-2 BKBBK).,9,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,1,bot,Logan Downey stole second.,10,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,1,bot,"Ray Toth doubled down the rf line, RBI (2-2 BKFB)3a Logan Downey scored.",11,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,1,bot,Cade Terada-Herzer to p for Jack Sadowski.,12,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,1,bot,Derek Babineau Jr. struck out swinging (2-2 FBBKS).,13,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,1,bot,"Nick Giangregorio tripled to left center, RBI (1-1 BF)3a Ray Toth scored.",14,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,1,bot,"Marcus Rodrigues grounded out to ss, RBI (2-0 BB)3a Nick Giangregorio scored.",15,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,1,bot,Robbie Lamond singled up the middle (2-2 KBFB).,16,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,1,bot,Collin Reilly grounded out to 1b unassisted (0-1 K).,17,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,2,top,Jack Biskupiak walked (3-2 BBKKBB).,18,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,2,top,Ethan Fox-Fernandez struck out looking (0-2 KFK).,19,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,2,top,"Jack Biskupiak out at second c to 2b, caught stealing.",20,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,2,top,Aidan Annello grounded out to ss (3-2 BBKSB).,21,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,2,bot,Zach Berner to p for Cade Terada-Herzer.,22,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,2,bot,Declan Lush walked (3-2 BKBBKB).,23,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,2,bot,Brayden Lewis grounded into double play 3b to 2b to 1b (3-2 BBBKS)3a Declan Lush out on the play.,24,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,2,bot,Logan Downey singled to center field (2-1 FBB).,25,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,2,bot,Ray Toth flied out to cf (1-1 FB).,26,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,3,top,"Noah Stockman reached first on a throwing error by ss, advanced to second (3-2 FKBBFB).",27,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,3,top,Nick Kreatsoulas struck out looking (0-2 KSK).,28,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,3,top,Miller Young struck out looking (2-2 BFKBK).,29,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,3,top,Noah Townsend flied out to lf (0-0).,30,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,3,bot,Derek Babineau Jr. walked (3-0 BBBB).,31,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,3,bot,"Derek Babineau Jr. Failed pickoff attempt, advanced to second on a throwing error by p.",32,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,3,bot,Nick Giangregorio struck out looking (1-2 KFBK).,33,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,3,bot,Marcus Rodrigues singled to center field (1-1 BK)3a Derek Babineau Jr. did not advance.,34,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,3,bot,Robbie Lamond flied out to lf (1-2 KSB).,35,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,3,bot,Collin Reilly struck out looking (0-2 SFFK).,36,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,4,top,Jensen Bergman walked (3-2 BKKBFBB).,37,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,4,top,Jack Johnson grounded into double play ss to 2b to 1b (2-1 SBB)3a Jensen Bergman out on the play.,38,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,4,top,Jack Biskupiak grounded out to 3b (3-2 BKKBB).,39,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,4,bot,Declan Lush singled through the left side (1-1 BF).,40,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,4,bot,Brayden Lewis reached first on an error by ss (0-0)3a Declan Lush advanced to third.,41,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,4,bot,"Logan Downey flied out to cf, sacrifice fly, RBI (2-0 BB)3a Brayden Lewis did not advance3a Declan Lush scored.",42,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,4,bot,Ray Toth singled to center field (0-0)3a Brayden Lewis advanced to second.,43,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,4,bot,Derek Babineau Jr. flied out to rf (1-1 BK).,44,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,4,bot,"Nick Giangregorio singled through the left side, RBI (0-0)3a Ray Toth advanced to third3a Brayden Lewis scored, unearned.",45,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,4,bot,Evan Jones pinch hit for Marcus Rodrigues.,46,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,4,bot,Evan Jones grounded out to ss (1-1 KB).,47,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,5,top,Evan Jones to ss.,48,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,5,top,Ethan Drouin to lf for Robbie Lamond.,49,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,5,top,Levi Hessel to rf for Declan Lush.,50,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,5,top,Logan Downey to 2b.,51,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,5,top,Wyatt Soucie to 3b for Ray Toth.,52,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,5,top,Derek Babineau Jr. to cf.,53,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,5,top,Ethan Fox-Fernandez singled to center field (1-2 KBF).,54,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,5,top,Aidan Annello walked (3-2 FBKBBFB)3a Ethan Fox-Fernandez advanced to second.,55,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,5,top,Noah Stockman struck out swinging (1-2 KKBS).,56,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,5,top,Dylan Matis to p for Greg Strite.,57,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,5,top,Nick Kreatsoulas struck out swinging (1-2 KBKS).,58,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,5,top,Miller Young struck out swinging (0-2 FFS).,59,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,5,bot,Patrick Mill to p for Zach Berner.,60,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,5,bot,Ethan Drouin grounded out to 2b (1-1 BK).,61,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,5,bot,Collin Reilly tripled down the rf line (0-0).,62,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,5,bot,"Levi Hessel singled to right field, RBI (3-2 BBSFFB)3a Collin Reilly scored.",63,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,5,bot,Luca Finton pinch hit for Brayden Lewis.,64,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,5,bot,Luca Finton reached on a fielder's choice to second base (1-2 SKB)3a Levi Hessel out at second 2b to ss.,65,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,5,bot,Logan Downey singled up the middle (0-1 K)3a Luca Finton advanced to second.,66,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,5,bot,Wyatt Soucie struck out swinging (1-2 KKBFFFFS).,67,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,6,top,Jack Kelleher-Mochak to p for Dylan Matis.,68,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,6,top,Alex Vosburgh to c for Nick Giangregorio.,69,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,6,top,Noah Townsend struck out looking (1-2 KBSFK).,70,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,6,top,Jensen Bergman singled up the middle (1-1 KB).,71,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,6,top,Jack Johnson flied out to cf (3-2 BBKFB).,72,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,6,top,Jack Biskupiak flied out to cf (0-1 K).,73,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,6,bot,Matt Calamari to p for Patrick Mill.,74,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,6,bot,Derek Babineau Jr. walked (3-2 BBBKKB).,75,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,6,bot,Alex Vosburgh struck out swinging (1-2 KBSS).,76,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,6,bot,Evan Jones struck out swinging (2-2 BSFBFFS).,77,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615388,6,bot,Ethan Drouin struck out swinging (2-2 BFBSS).,78,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,7,top,Justin Colpack to 1b for Collin Reilly.,79,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,7,top,Cole Kelleher to p for Jack Kelleher-Mochak.,80,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,7,top,Herbert Toler III pinch hit for Ethan Fox-Fernandez.,81,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,7,top,Herbert Toler III fouled out to 1b (0-1 K).,82,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,7,top,Aidan Annello struck out looking (3-2 BBKFFBFK).,83,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
-6508831,615372,Vassar Brewers,615388,Wheaton (MA) Lyons,615372,7,top,Noah Stockman struck out swinging (1-2 BKSS).,84,2026-03-12 17:15:00-04:00,"Orlando, FL",141,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,1,top,Sam Clay singled through the right side.,1,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,1,top,"Wyatt Epple reached on a fielder's choice, out at first 2b to 1b3a Sam Clay advanced to second.",2,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,1,top,Sam Clay advanced to third on a wild pitch.,3,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,1,top,"Justin Johns doubled to right center, RBI3a Sam Clay scored.",4,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,1,top,Aiden Warn struck out looking.,5,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,1,top,Justin Johns stole third.,6,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,1,top,Dylan Pawens grounded out to ss.,7,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,1,bot,"Kesti, D. singled through the right side.",8,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,1,bot,"Castella, D. walked3a Kesti, D. advanced to second.",9,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,1,bot,"Vining, C. flied out to rf.",10,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,1,bot,"Castella, D. advanced to second on a wild pitch3a Kesti, D. advanced to third on a wild pitch.",11,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,1,bot,"Benson, D. hit by pitch.",12,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,1,bot,"Niaves, A. struck out swinging.",13,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,1,bot,"Lott, C. flied out to cf to right center.",14,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,2,top,"Sommer, C. to p for Zimmel, C..",15,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,2,top,Travis Lifor struck out swinging.,16,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,2,top,Carson Linda walked.,17,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,2,top,Garrett Swan struck out swinging.,18,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,2,top,"Michael Greg doubled, RBI3a Carson Linda scored.",19,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,2,top,Michael Greg advanced to third on a wild pitch.,20,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,2,top,Sam Clay walked.,21,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,2,top,"Wyatt Epple singled to center field, RBI3a Sam Clay advanced to second3a Michael Greg scored.",22,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,2,top,Justin Johns walked3a Wyatt Epple advanced to second3a Sam Clay advanced to third.,23,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,2,top,Aiden Warn grounded out to 3b.,24,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,2,bot,"Weidner, J. walked.",25,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,2,bot,"Weidner, J. advanced to second on a wild pitch.",26,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,2,bot,"Hull, J. walked.",27,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,2,bot,Brayden Flan to p for Braden LaRus.,28,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,2,bot,"Soulek, D. reached on an error by 3b3a Hull, J. advanced to second3a Weidner, J. advanced to third.",29,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,2,bot,"Soulek, D. advanced to second on a wild pitch3a Hull, J. advanced to third on a wild pitch3a Weidner, J. scored on a wild pitch, unearned.",30,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,2,bot,"Kesti, D. walked.",31,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,2,bot,"Castella, D. lined out to ss.",32,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,2,bot,"Vining, C. singled, RBI3a Kesti, D. advanced to second3a Soulek, D. out at third ss to 3b, advanced to third on a fielder's choice3a Hull, J. scored.",33,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,2,bot,"Benson, D. out at first ss to 2b.",34,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,3,top,Dylan Pawens grounded out to 3b.,35,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,3,top,Travis Lifor flied out to cf to center field.,36,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,3,top,Carson Linda singled to left center.,37,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,3,top,Garrett Swan struck out looking.,38,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,3,bot,Ty Kraut to p for Brayden Flan.,39,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,3,bot,"Niaves, A. popped up to 1b.",40,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,3,bot,"Lott, C. flied out to cf.",41,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,3,bot,"Weidner, J. doubled to right center.",42,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,3,bot,"Hull, J. struck out swinging.",43,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,4,top,Michael Greg struck out swinging.,44,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,4,top,Sam Clay singled through the right side.,45,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,4,top,"Wyatt Epple singled, bunt3a Sam Clay advanced to second.",46,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,4,top,"Justin Johns singled through the right side, RBI3a Wyatt Epple advanced to second, advanced to third on the throw3a Sam Clay scored.",47,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,4,top,Aiden Warn walked3a Justin Johns advanced to second.,48,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,4,top,"Lamb, C. to p for Sommer, C..",49,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,4,top,"Dylan Pawens doubled, 3 RBI3a Aiden Warn scored on the throw3a Justin Johns scored3a Wyatt Epple scored.",50,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,4,top,Travis Lifor hit by pitch.,51,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,4,top,Travis Lifor advanced to second on a wild pitch3a Dylan Pawens advanced to third on a wild pitch.,52,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,4,top,Carson Linda singled3a Travis Lifor advanced to third3a Dylan Pawens out at home 2b to c.,53,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,4,top,Carson Linda stole second.,54,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,4,top,Garrett Swan struck out swinging.,55,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,4,bot,"Soulek, D. flied out to rf.",56,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,4,bot,"Kesti, D. tripled down the rf line.",57,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,4,bot,"Kesti, D. scored on a balk.",58,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,4,bot,"Castella, D. walked.",59,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,4,bot,"Vining, C. singled through the left side3a Castella, D. advanced to second.",60,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,4,bot,"Castella, D. stole third.",61,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,4,bot,"Benson, D. walked3a Vining, C. advanced to second.",62,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,4,bot,"Niaves, A. singled, RBI3a Benson, D. advanced to second on an error by 2b3a Vining, C. advanced to third on an error by 2b, scored3a Castella, D. scored on an error by 2b.",63,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,4,bot,"Lott, C. walked3a Niaves, A. advanced to second3a Benson, D. advanced to third.",64,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,4,bot,"Weidner, J. doubled, ground-rule, 2 RBI3a Lott, C. advanced to third3a Niaves, A. scored3a Benson, D. scored.",65,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,4,bot,Gage Vota to p for Ty Kraut.,66,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,4,bot,"Hull, J. struck out looking3a Lott, C. out on the play, out at home rf to c.",67,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,5,top,Michael Greg singled up the middle.,68,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,5,top,Michael Greg advanced to second on a wild pitch.,69,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,5,top,Sam Clay flied out to cf.,70,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,5,top,"Wyatt Epple singled to left field, RBI3a Michael Greg scored.",71,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,5,top,Justin Johns grounded out to 3b3a Wyatt Epple advanced to second.,72,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,5,top,Wyatt Epple advanced to third on a wild pitch.,73,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,5,top,Aiden Warn grounded out to p.,74,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,5,bot,"Soulek, D. hit by pitch.",75,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,5,bot,"Kesti, D. struck out swinging.",76,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,5,bot,"Castella, D. doubled, RBI3a Soulek, D. scored.",77,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,5,bot,"Vining, C. doubled to left center, ground-rule, RBI3a Castella, D. scored.",78,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,5,bot,"Benson, D. singled, RBI3a Vining, C. advanced to third, scored on the throw.",79,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,5,bot,"Niaves, A. struck out swinging.",80,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,5,bot,"Benson, D. advanced to second on a wild pitch.",81,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,5,bot,"Lott, C. walked.",82,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,5,bot,"Weidner, J. struck out looking.",83,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,6,top,"Quade, G. to p for Lamb, C..",84,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,6,top,Dylan Pawens hit by pitch.,85,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,6,top,Travis Lifor walked3a Dylan Pawens advanced to second.,86,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,6,top,Carson Linda struck out swinging.,87,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,6,top,Aidan Arbaug to rf for Garrett Swan.,88,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,6,top,Travis Lifor stole second3a Dylan Pawens stole third.,89,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,6,top,"Aidan Arbaug doubled, 2 RBI3a Travis Lifor advanced to third, scored on the throw3a Dylan Pawens scored.",90,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,6,top,Aidan Arbaug advanced to third on a wild pitch.,91,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,6,top,Michael Greg walked.,92,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,6,top,"Boyum, T. to p for Quade, G..",93,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,6,top,Michael Greg stole second.,94,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,6,top,Sam Clay walked.,95,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,6,top,"Wyatt Epple singled through the left side, RBI3a Sam Clay advanced to second3a Michael Greg scored3a Aidan Arbaug scored.",96,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,6,top,Wyatt Epple advanced to second on a wild pitch3a Sam Clay advanced to third on a wild pitch.,97,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,6,top,Justin Johns intentionally walked.,98,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,6,top,Justin Johns advanced to second on a wild pitch3a Wyatt Epple advanced to third on a wild pitch3a Sam Clay scored on a wild pitch.,99,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,6,top,Aiden Warn lined into double play 3b unassisted3a Wyatt Epple out on the play.,100,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,6,bot,A.J. Park to p for Gage Vota.,101,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,6,bot,"Hull, J. flied out to lf.",102,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,6,bot,"Soulek, D. popped up to 1b.",103,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,6,bot,"Kesti, D. walked.",104,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,6,bot,"Castella, D. grounded out to ss.",105,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,7,top,Dylan Pawens doubled.,106,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,7,top,Travis Lifor popped up to 2b.,107,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,7,top,Carson Linda singled to left center3a Dylan Pawens advanced to third.,108,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,7,top,Carson Linda stole second.,109,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,7,top,"Aidan Arbaug singled, advanced to second on the throw3a Carson Linda advanced to third3a Dylan Pawens out at home p to c to 3b to 1b.",110,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,7,top,"Michael Greg singled, advanced to second on an error by ss, RBI3a Aidan Arbaug advanced to third, scored on an error by ss3a Carson Linda scored on an error by ss.",111,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,7,top,Sam Clay hit by pitch.,112,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,7,top,Sam Clay advanced to second on a wild pitch3a Michael Greg advanced to third on a wild pitch.,113,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,7,top,Wyatt Epple struck out swinging.,114,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,7,bot,"Vining, C. struck out looking.",115,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,7,bot,"Benson, D. struck out swinging.",116,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,7,bot,"Niaves, A. walked.",117,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,7,bot,"Lott, C. homered to right field, 2 RBI3a Niaves, A. scored.",118,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,7,bot,"Weidner, J. struck out looking.",119,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,8,top,"Kim, H. to p for Boyum, T..",120,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,8,top,Justin Johns struck out swinging.,121,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,8,top,Aiden Warn flied out to rf.,122,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,8,top,Dylan Pawens singled up the middle.,123,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,8,top,Dylan Pawens advanced to second on a wild pitch.,124,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,8,top,Travis Lifor grounded out to 3b.,125,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,8,bot,Brandon Skor to p for A.J. Park.,126,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,8,bot,"Hull, J. singled to left field.",127,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,8,bot,"Soulek, D. walked3a Hull, J. advanced to second.",128,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,8,bot,"Soulek, D. advanced to second on a balk3a Hull, J. advanced to third on a balk.",129,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,8,bot,"Kesti, D. singled, 2 RBI3a Soulek, D. scored3a Hull, J. scored.",130,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,8,bot,Jaden Albers to p for Brandon Skor.,131,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,8,bot,"Rerick, E. to lf for Castella, D..",132,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,8,bot,"Rerick, E. walked3a Kesti, D. advanced to second.",133,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,8,bot,"Vining, C. singled to right center, RBI3a Rerick, E. advanced to second3a Kesti, D. scored.",134,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,8,bot,Gabe Helder to p for Jaden Albers.,135,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,8,bot,"Benson, D. walked3a Vining, C. advanced to second3a Rerick, E. advanced to third.",136,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,8,bot,"Niaves, A. struck out swinging.",137,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,8,bot,"Benson, D. advanced to second on a passed ball3a Vining, C. advanced to third on a passed ball3a Rerick, E. scored on a passed ball.",138,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,8,bot,"Lott, C. walked.",139,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,8,bot,"Weidner, J. struck out swinging.",140,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614891,8,bot,"Hull, J. struck out swinging.",141,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,9,top,Carson Linda walked.,142,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,9,top,Aidan Arbaug struck out swinging.,143,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,9,top,Carson Linda advanced to second on a passed ball.,144,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,9,top,Michael Greg struck out swinging.,145,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6512266,614992,Davenport Panthers,614891,Northern St. Wolves,614992,9,top,Sam Clay grounded out to 2b.,146,2026-03-12 00:00:00-04:00,"Aberdeen, SD",153,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,1,top,Joe Perona walked (3-2 BFBFBB).,1,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,1,top,"Joe Perona out at first 1b to ss, picked off.",2,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,1,top,Taylor Joseph walked (3-1 BBBKB).,3,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,1,top,"John Greenwood doubled, RBI (1-0 B)3a Taylor Joseph scored.",4,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,1,top,Reyn Matsuzaki flied out to lf (1-1 KB).,5,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,1,top,Rylan Kawakami singled to left field (1-1 BK)3a John Greenwood advanced to third.,6,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,1,top,"Vinnie Marvucic doubled, 2 RBI (2-1 BBK)3a Rylan Kawakami scored3a John Greenwood scored.",7,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,1,top,Noa Fujitani flied out to rf (0-0).,8,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,1,bot,Christian Parisa tripled (0-0).,9,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,1,bot,"Noah Anderson reached first on an error by p, advanced to second, RBI (0-1 F)3a Christian Parisa scored.",10,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,1,bot,Aidan Marshall struck out looking (2-2 KSBBFK).,11,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,1,bot,Kaleb Morgan struck out swinging (0-2 SSS).,12,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,1,bot,Stephen Volk flied out to lf (0-1 K).,13,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,2,top,Eli Johnson hit by pitch (2-0 BH).,14,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,2,top,Kupono Akaka reached on a fielder's choice (1-0 B)3a Eli Johnson out at second ss to 2b.,15,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,2,top,Joe Perona singled to center field (1-2 KKB)3a Kupono Akaka advanced to second.,16,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,2,top,Taylor Joseph singled to center field (0-1 F)3a Joe Perona advanced to second3a Kupono Akaka advanced to third.,17,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,2,top,"John Greenwood singled, 2 RBI (1-0 B)3a Taylor Joseph advanced to second3a Joe Perona scored3a Kupono Akaka scored.",18,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,2,top,"Reyn Matsuzaki homered, 3 RBI (1-1 KB)3a John Greenwood scored3a Taylor Joseph scored.",19,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,2,top,Rylan Kawakami grounded out to p (0-0).,20,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,2,top,Vinnie Marvucic grounded out to 2b (0-1 K).,21,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,2,bot,Richard Lamping singled to left field (2-1 BBS).,22,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,2,bot,Reese Kelly grounded into double play 2b to 1b (0-0)3a Richard Lamping out on the play.,23,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,2,bot,Gregory Harrison flied out to lf (0-0).,24,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,3,top,Noa Fujitani walked (3-1 KBBBB).,25,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,3,top,Noa Fujitani advanced to second on a passed ball.,26,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,3,top,Eli Johnson walked (3-2 BBKFBB).,27,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,3,top,Nick Parco to p for Kyle Fives.,28,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,3,top,"Kupono Akaka doubled to right center, RBI (0-1 K)3a Eli Johnson advanced to third3a Noa Fujitani scored.",29,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,3,top,"Joe Perona singled to center field, 2 RBI (3-2 BKBFB)3a Kupono Akaka scored3a Eli Johnson scored.",30,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,3,top,Taylor Joseph struck out swinging (1-2 SBFS)3a Joe Perona stole second.,31,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,3,top,Joe Perona advanced to third on a passed ball.,32,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,3,top,John Greenwood walked (3-2 BBSSBB).,33,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,3,top,"Reyn Matsuzaki flied out to cf, SAC, RBI (1-1 BF)3a Joe Perona scored.",34,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,3,top,Rylan Kawakami reached on a fielder's choice (1-1 BF)3a John Greenwood out at second ss unassisted.,35,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,3,bot,Nico Simou singled to shortstop (1-1 BS).,36,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,3,bot,Christian Parisa flied out to cf (2-1 KBB).,37,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,3,bot,"Nico Simou out at first p to 1b, picked off.",38,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,3,bot,Noah Anderson grounded out to p (0-1 K).,39,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,4,top,Vinnie Marvucic hit by pitch (1-1 KH).,40,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,4,top,Noa Fujitani grounded out to p (0-1 K)3a Vinnie Marvucic advanced to second.,41,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,4,top,Eli Johnson hit by pitch (2-1 BKH).,42,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,4,top,Kupono Akaka flied out to rf (3-2 BBSKB)3a Vinnie Marvucic advanced to third.,43,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,4,top,"Joe Perona doubled to right field, RBI (0-0)3a Eli Johnson advanced to third3a Vinnie Marvucic scored.",44,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,4,top,Lucas Stackpole to p for Nick Parco.,45,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,4,top,"Taylor Joseph singled to center field, 2 RBI (0-0)3a Joe Perona scored3a Eli Johnson scored.",46,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,4,top,Taylor Joseph advanced to second on a wild pitch.,47,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,4,top,John Greenwood walked (3-2 FBBFBFFFB)3a Taylor Joseph advanced to third on a passed ball.,48,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,4,top,John Greenwood advanced to second3a Taylor Joseph scored on a balk.,49,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,4,top,Reyn Matsuzaki struck out looking (3-2 BFBBFK).,50,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,4,bot,Aidan Marshall struck out looking (3-2 BBKSBFK).,51,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,4,bot,Kaleb Morgan struck out swinging (2-2 BKFBS).,52,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,4,bot,Stephen Volk grounded out to p (1-2 BSS).,53,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,5,top,Rylan Kawakami hit by pitch (3-2 BFBBKFH).,54,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,5,top,Vinnie Marvucic flied out to cf (1-1 BK).,55,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,5,top,"Rylan Kawakami out at first p to 1b, picked off.",56,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,5,top,Noa Fujitani struck out swinging (1-2 FFBS).,57,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,5,bot,Kyle O'Sullivan pinch hit for Richard Lamping.,58,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,5,bot,Kyle O'Sullivan flied out to cf (0-1 K).,59,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,5,bot,Reese Kelly grounded out to 1b unassisted (2-2 BBKK).,60,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,5,bot,Enzo Vertucci to 1b for John Greenwood.,61,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,5,bot,Conor Shortway pinch hit for Gregory Harrison.,62,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,5,bot,Conor Shortway lined out to 2b (3-1 BFBB).,63,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,6,top,Kyle O'Sullivan to c.,64,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,6,top,Conor Shortway to 2b.,65,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,6,top,Anthony Voss to p for Lucas Stackpole.,66,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,6,top,Jack Gilbert to 3b for Stephen Volk.,67,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,6,top,Axel Martinez to ss for Christian Parisa.,68,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,6,top,Eli Johnson popped up to ss (1-2 BFK).,69,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,6,top,Rylan Li pinch hit for Kupono Akaka.,70,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,6,top,Rylan Li doubled to right center (0-0).,71,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,6,top,Griffin Acevedo pinch hit for Joe Perona.,72,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,6,top,Rylan Li advanced to third on a balk.,73,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,6,top,"Griffin Acevedo singled to right field, RBI (0-1 K)3a Rylan Li scored.",74,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,6,top,Braden Enomoto pinch hit for Taylor Joseph.,75,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,6,top,Braden Enomoto struck out looking (1-2 BKSK).,76,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,6,top,Enzo Vertucci doubled to center field (0-0)3a Griffin Acevedo advanced to third.,77,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,6,top,Enzo Vertucci advanced to third3a Griffin Acevedo scored on a wild pitch.,78,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,6,top,Reyn Matsuzaki struck out looking (3-2 BKBBFFFK).,79,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,6,bot,Griffin Acevedo to cf.,80,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,6,bot,Braden Enomoto to ss.,81,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,6,bot,Rylan Li to 2b.,82,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,6,bot,Nico Simou singled to shortstop (0-0).,83,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,6,bot,Axel Martinez struck out swinging (0-2 FKS).,84,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,6,bot,Tyler Rosebeck pinch hit for Noah Anderson.,85,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,6,bot,Tyler Rosebeck struck out looking (2-2 SBKBK).,86,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,6,bot,Chris Kiamos pinch hit for Aidan Marshall.,87,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,6,bot,Chris Kiamos singled to left field (0-1 K)3a Nico Simou advanced to second.,88,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,6,bot,Bruce Mistler pinch hit for Kaleb Morgan.,89,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,6,bot,Chris Kiamos advanced to second3a Nico Simou advanced to third on a wild pitch.,90,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,6,bot,Chris Kiamos advanced to third3a Nico Simou scored on a wild pitch.,91,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,6,bot,Bruce Mistler struck out swinging (3-2 KSBBBS).,92,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,7,top,Tyler Rosebeck to rf.,93,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,7,top,Chris Kiamos to lf.,94,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,7,top,Bruce Mistler to 1b.,95,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,7,top,Gregory Malerba to p for Anthony Voss.,96,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,7,top,Fabian Cruz pinch hit for Rylan Kawakami.,97,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,7,top,Fabian Cruz walked (3-2 BKKBBB).,98,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,7,top,Peyton Robinson pinch hit for Vinnie Marvucic.,99,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,7,top,Fabian Cruz advanced to second on a wild pitch.,100,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,7,top,Peyton Robinson struck out looking (2-2 KFBBK).,101,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,7,top,James Wtulich pinch hit for Noa Fujitani.,102,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,7,top,Fabian Cruz advanced to third on a wild pitch.,103,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,7,top,"Fabian Cruz scored on a passed ball, unearned.",104,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,7,top,James Wtulich struck out swinging (3-2 KBBFBS).,105,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,7,top,Eli Johnson tripled to right center (2-2 KSBBF).,106,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,7,top,Luke Bellini pinch hit for Rylan Li.,107,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615304,7,top,Luke Bellini popped up to cf (0-2 FK).,108,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,Jake Nawrocki to 1b for Enzo Vertucci.,109,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,Fabian Cruz to dh.,110,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,Peyton Robinson to rf.,111,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,James Wtulich to lf.,112,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,Luke Bellini to 2b.,113,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,Jack Gilbert grounded out to 2b (1-1 SB).,114,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,Kyle O'Sullivan singled to center field (1-1 BF).,115,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,Leo Giancaspro pinch hit for Reese Kelly.,116,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,Leo Giancaspro doubled to left center (0-1 K)3a Kyle O'Sullivan advanced to third.,117,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,"Conor Shortway reached first on an error by 3b, RBI (3-2 SSBBBFFF)3a Leo Giancaspro advanced to third3a Kyle O'Sullivan scored, unearned.",118,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,"Nico Simou singled to left field, RBI (0-0)3a Conor Shortway advanced to second3a Leo Giancaspro scored.",119,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,Nico Simou advanced to second3a Conor Shortway advanced to third on a passed ball.,120,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,Axel Martinez walked (3-2 BBSBFB).,121,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,Matthew Mendez to p for Jason Schmierer.,122,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,Tyler Rosebeck struck out swinging (1-2 BFKS).,123,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,"Chris Kiamos doubled to left field, 2 RBI (1-2 BSK)3a Axel Martinez advanced to third3a Nico Simou scored3a Conor Shortway scored, unearned.",124,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,"Chris Kiamos advanced to third3a Axel Martinez scored on a wild pitch, unearned.",125,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6524666,615304,North Park Vikings,615452,Mt. St. Mary (NY) Knights,615452,7,bot,Bruce Mistler grounded out to 3b (0-0).,126,2026-03-12 00:00:00-04:00,"Davenport, FL",129,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,1,top,"Smith,Jackson lined out to cf (3-2 KFBBFB).",1,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,1,top,"Pitts,Derrick hit by pitch (3-2 KBBBKB).",2,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,1,top,"Coats,Quinton flied out to rf (3-2 SBBBS).",3,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,1,top,"Pitts,Derrick out caught stealing at second base, c to ss.",4,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,1,bot,"Anderson,Luke flied out to cf (2-2 KBBK).",5,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,1,bot,"McNaughton,Ezra flied out to cf (1-2 KSBF).",6,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,1,bot,"Robinson,Ryder struck out swinging (0-2 KFS).",7,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,2,top,"Natili,Jack struck out swinging (2-2 SSBBS).",8,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,2,top,"Infelise,Enzo struck out looking (0-2 KKK).",9,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,2,top,"Sefcik,Cal flied out to cf (0-0).",10,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,2,bot,"McChesney,Crew grounded out, p to ss to 1b (3-2 BBKFBF).",11,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,2,bot,"Hansen,Matt grounded out to first base, 1b to p (0-1 F).",12,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,2,bot,"Hurdsman,Bryker struck out swinging (1-2 BKSS).",13,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,3,top,"Mitchelle,Christian grounded out to second base, 2b to 1b (0-1 K).",14,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,3,top,"Daniel,Conlan struck out swinging (3-2 FSBBBS).",15,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,3,top,"Niehaus,Charlie flied out to rf (2-2 BKBF).",16,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,3,bot,"Jones,Easton singled through the left side of the infield (2-0 BB).",17,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,3,bot,"Erickson,Ridge walked (3-1 BBBKB); Jones,Easton advanced to second base.",18,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,3,bot,"Schow,Ryker sacrifice bunt in the infield, unassisted (1-0 B); Jones,Easton advanced to third base; Erickson,Ridge advanced to second base; Schow,Ryker out at first base, p to 1b.",19,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,3,bot,"Anderson,Luke struck out looking (2-2 SSFBBFK).",20,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,3,bot,"McNaughton,Ezra struck out swinging (3-2 BFBBSS).",21,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,4,top,"Smith,Jackson struck out swinging (3-2 BKBKBS).",22,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,4,top,"Pitts,Derrick grounded out to second base, 2b to 1b (0-2 SK).",23,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,4,top,"Coats,Quinton struck out swinging (2-2 FSBBS).",24,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,4,bot,"Robinson,Ryder singled to shallow left field (3-1 KBBB).",25,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,4,bot,"McChesney,Crew homered to deep center field, 2RBI (3-2 SFFBBB); Robinson,Ryder scored from first base.",26,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,4,bot,Mound visit (CINN),27,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,4,bot,"Hansen,Matt flied out to cf (1-2 BSF).",28,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,4,bot,"Hurdsman,Bryker struck out swinging (2-2 KFBBFS).",29,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,4,bot,"Jones,Easton struck out swinging (2-2 BFSBS).",30,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,5,top,"Natili,Jack grounded out to short, ss to 1b (1-0 B).",31,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,5,top,"Infelise,Enzo singled to shallow left field (1-1 BF).",32,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,5,top,"Infelise,Enzo advanced to second base on a wild pitch.",33,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,5,top,"Sefcik,Cal flied out to rf (3-2 KBBBK).",34,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,5,top,"Mitchelle,Christian singled to second base (0-2 KF); Infelise,Enzo advanced to third base.",35,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,5,top,"Daniel,Conlan struck out swinging (3-2 KBKFBFBS).",36,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,5,bot,"Erickson,Ridge grounded out to second base, 2b to 1b (2-2 BKBF).",37,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,5,bot,"Schow,Ryker singled to shallow center field (0-1 K).",38,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,5,bot,"Anderson,Luke struck out swinging (2-2 FBFBFFS).",39,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,5,bot,"McNaughton,Ezra singled to right center (3-2 SBBBF); Schow,Ryker advanced from first base to third base.",40,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,5,bot,"McNaughton,Ezra stole second base.",41,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,5,bot,"Robinson,Ryder walked (3-2 BBSBSFFB).",42,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,5,bot,"CINN pitching change: Marsh,Carson replaces Taylor,Nathan.",43,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,5,bot,"McChesney,Crew struck out swinging (3-2 SKBBBS).",44,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,6,top,"Niehaus,Charlie flied out to cf (2-1 KBB).",45,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,6,top,"Smith,Jackson singled to shallow right field (1-1 SB).",46,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,6,top,"Pitts,Derrick doubled to right center (1-2 SBF); Smith,Jackson advanced from first base to third base.",47,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,6,top,"BYU pitching change: Reiser,Justis replaces Sumner,Garrison.",48,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,6,top,"Coats,Quinton sacrifice fly to rf, RBI (3-0 BBB); Smith,Jackson scored; Pitts,Derrick advanced to third base.",49,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,6,top,"Natili,Jack flied out to shallow right field putout by rf (2-0 BB).",50,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,6,bot,"Hansen,Matt struck out swinging (2-2 FBSFBFS).",51,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,6,bot,"Hurdsman,Bryker flied out to rf (1-0 B).",52,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,6,bot,"Jones,Easton popped up up the middle putout by ss (1-1 BF).",53,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,7,top,"Infelise,Enzo grounded out to third base, 3b to 1b (3-2 BSBBFF).",54,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,7,top,"Sefcik,Cal struck out looking (1-2 KKBK).",55,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,7,top,"Mitchelle,Christian grounded out to short, ss to 1b (3-2 KBBKB).",56,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,7,bot,"Erickson,Ridge hit by pitch (3-2 BBKSBB).",57,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,7,bot,"Schow,Ryker walked (3-0 BBBB); Erickson,Ridge advanced to second base.",58,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,7,bot,"Anderson,Luke sacrifice bunt in the infield, unassisted (0-0); Erickson,Ridge advanced to third base; Schow,Ryker advanced to second base; Anderson,Luke out at first base, 3b to 1b.",59,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,7,bot,"McNaughton,Ezra homered to deep right field, 3RBI (0-0); Erickson,Ridge scored; Schow,Ryker scored from second base.",60,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,7,bot,"CINN pitching change: Buczkowski,Adam replaces Marsh,Carson.",61,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,7,bot,"Robinson,Ryder walked (3-1 BBSBB).",62,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,7,bot,"McChesney,Crew flied out to rf (0-1 K).",63,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,7,bot,"CINN pitching change: Johnson,Hudson replaces Buczkowski,Adam.",64,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,7,bot,"Robinson,Ryder out caught stealing at second base, c to ss.",65,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,8,top,"BYU pitching change: Johnson,Ashton replaces Reiser,Justis.",66,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,8,top,"CINN substitution: Reardon,Jackson pinch hitting for Daniel,Conlan.",67,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,8,top,"Reardon,Jackson singled to shallow right field (1-2 KBF).",68,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,8,top,"Niehaus,Charlie singled to shallow right field (0-0); Reardon,Jackson advanced to second base.",69,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,8,top,"Smith,Jackson struck out looking (3-2 KBBBKK).",70,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,8,top,"Pitts,Derrick grounded into double play to short, ss to 2b to 1b (0-0); Niehaus,Charlie out at 2B on the play, ss to 2b.",71,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,8,bot,"CINN position change: Pitts,Derrick now playing cf from rf",72,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,8,bot,"CINN position change: Mitchelle,Christian now playing rf from 3b",73,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,8,bot,"CINN position change: Reardon,Jackson remains in the game at 3b",74,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,8,bot,"Hansen,Matt struck out looking (3-2 SBBFFFBFFK).",75,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,8,bot,"CINN pitching change: Schueler,Dillon replaces Johnson,Hudson.",76,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,8,bot,"Hurdsman,Bryker walked (3-1 BBSBB).",77,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,8,bot,Mound visit (CINN),78,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,8,bot,"Jones,Easton walked (3-1 FBBBB); Hurdsman,Bryker advanced to second base.",79,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,8,bot,"Erickson,Ridge struck out looking (1-2 BSSK).",80,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,8,bot,"CINN pitching change: Dieruf,Charlie replaces Schueler,Dillon.",81,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,8,bot,"Schow,Ryker walked (3-2 BKSBBFB); Hurdsman,Bryker advanced to third base; Jones,Easton advanced to second base.",82,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614867,8,bot,"Anderson,Luke lined out to short (0-1 F).",83,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,9,top,"Coats,Quinton doubled to center field (0-1 F).",84,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,9,top,"Natili,Jack popped up to shallow right field putout by 2b (1-0 B).",85,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,9,top,"Infelise,Enzo singled to right center, RBI (2-2 KBBSF); Coats,Quinton scored from second base.",86,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,9,top,"Sefcik,Cal reached on a fielding error fielding by lf by Schow,Ryker (E7) (2-2 KKBB); Infelise,Enzo advanced to second base.",87,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,9,top,Mound visit (BYU),88,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,9,top,"Mitchelle,Christian struck out swinging (2-2 KBFBS).",89,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6526955,614582,Cincinnati Bearcats,614867,BYU Cougars,614582,9,top,"Reardon,Jackson struck out looking (1-2 KBFK).",90,2026-03-12 00:00:00-04:00,"Larry H. Miller Field (Provo, UT)",1439,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,1,top,Ryan Keating doubled to right field (3-2 BBKKFB).,1,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,1,top,Ryan Keating advanced to third on a passed ball.,2,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,1,top,"Anthony Hackert grounded out to ss, RBI (3-1 BFBB)3a Ryan Keating scored.",3,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,1,top,Charles Macelhiney singled to left field (0-1 S).,4,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,1,top,"Tyler Ladouceur homered to left center, 2 RBI (0-1 K)3a Charles Macelhiney scored.",5,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,1,top,Collin Harty struck out swinging (3-2 SBKBBS).,6,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,1,top,"Liam Flynn homered to right center, RBI (1-2 BSS).",7,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,1,top,Julian Galvan grounded out to 3b (1-0 B).,8,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,1,bot,Matt Passerini walked (3-2 KBBBKB).,9,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,1,bot,"Matt Passerini out at first p to 1b, picked off.",10,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,1,bot,Josh Goulburn grounded out to 3b (2-2 BKFBF).,11,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,1,bot,Luke Hardnock grounded out to p (1-1 BK).,12,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,2,top,Michael Ucci grounded out to 3b (1-0 B).,13,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,2,top,Andrew Rocca doubled to left field (1-1 KB).,14,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,2,top,Andrew Rocca stole third.,15,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,2,top,"Ryan Keating doubled to right field, RBI (2-1 FBB)3a Andrew Rocca scored.",16,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,2,top,Anthony Hackert flied out to cf (1-1 BK).,17,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,2,top,Charles Macelhiney popped up to ss (2-0 BB).,18,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,2,bot,Danny Nocito grounded out to p (0-1 K).,19,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,2,bot,Ryan Nace hit by pitch (2-0 BH).,20,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,2,bot,Joey Ditta flied out to cf (0-1 K).,21,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,2,bot,Nick Turnage flied out to rf (1-2 BKF).,22,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,3,top,Tyler Ladouceur grounded out to p (2-1 BKB).,23,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,3,top,"Collin Harty homered to left field, RBI (1-0 B).",24,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,3,top,"Liam Flynn reached first on a dropped fly by ss, advanced to second (0-1 F).",25,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,3,top,"Julian Galvan homered to left field, 2 RBI (2-1 BKB)3a Liam Flynn scored, unearned.",26,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,3,top,Aidan Jackson to p for Trevor Robbins.,27,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,3,top,Michael Ucci walked (3-1 BKBBB).,28,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,3,top,Andrew Rocca singled to shortstop (0-2 KK)3a Michael Ucci advanced to second.,29,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,3,top,Andrew Rocca advanced to second on a wild pitch3a Michael Ucci advanced to third on a wild pitch.,30,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,3,top,Ryan Keating struck out swinging (3-2 KBFBBS).,31,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,3,top,Anthony Hackert grounded out to 3b (0-1 F).,32,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,3,bot,Justin Hoffmann hit by pitch (2-2 KBSH).,33,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,3,bot,"Nate Veasey grounded out to 1b unassisted, SAC (0-0)3a Justin Hoffmann advanced to second.",34,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,3,bot,Matt Passerini singled to center field (0-1 K)3a Justin Hoffmann advanced to third.,35,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,3,bot,Matt Passerini stole second.,36,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,3,bot,"Josh Goulburn singled down the lf line, RBI (3-2 BKBKB)3a Matt Passerini advanced to third3a Justin Hoffmann scored.",37,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,3,bot,Luke Hardnock grounded into double play ss to 2b to 1b (0-0)3a Josh Goulburn out on the play.,38,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,4,top,Charles Macelhiney walked (3-1 KBBBB).,39,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,4,top,Tyler Ladouceur struck out swinging (3-2 BBKFBS)3a Charles Macelhiney stole second.,40,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,4,top,"Collin Harty singled to center field, RBI (1-0 B)3a Charles Macelhiney scored.",41,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,4,top,Liam Flynn popped up to 3b (1-2 BFF).,42,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,4,top,Julian Galvan grounded out to 2b (0-0).,43,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,4,bot,Danny Nocito flied out to lf (0-0).,44,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,4,bot,Ryan Nace grounded out to p (1-2 BKK).,45,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,4,bot,Joey Ditta singled to right field (2-2 SBSB).,46,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,4,bot,"Nick Turnage doubled to left center, RBI (0-1 K)3a Joey Ditta scored.",47,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,4,bot,Matthew DeStefanis to p for Tony Abed.,48,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,4,bot,Justin Hoffmann walked (3-0 BBBB).,49,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,4,bot,Nate Veasey singled to right field (2-2 KKBB)3a Justin Hoffmann advanced to second3a Nick Turnage advanced to third.,50,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,4,bot,Lincoln Waterman to p for Matthew DeStefanis.,51,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,4,bot,Matt Passerini flied out to lf (0-0).,52,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,5,top,Michael Ucci hit by pitch (3-1 BBBKH).,53,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,5,top,Max Swart to p for Aidan Jackson.,54,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,5,top,Michael Ucci advanced to second on a wild pitch.,55,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,5,top,"Andrew Rocca singled to center field, RBI (3-1 BBBK)3a Michael Ucci scored.",56,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,5,top,Andrew Rocca advanced to second on a passed ball.,57,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,5,top,Ryan Keating walked (3-2 BBBKKB).,58,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,5,top,Anthony Hackert popped up to 1b (0-1 K)3a Andrew Rocca advanced to third.,59,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,5,top,"Charles Macelhiney flied out to lf, sacrifice fly, RBI (1-0 B)3a Andrew Rocca scored.",60,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,5,top,"Ryan Keating stole second, advanced to third on an error by c.",61,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,5,top,Tyler Ladouceur grounded out to 2b (0-0).,62,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,5,bot,Josh Goulburn grounded out to 3b (3-2 KKBFBBFF).,63,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,5,bot,Luke Hardnock walked (3-0 BBBB).,64,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,5,bot,"Luke Hardnock out at first c to 1b, picked off.",65,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,5,bot,Danny Nocito flied out to lf (2-1 BKB).,66,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,6,top,Collin Harty popped up to 2b (3-2 BBKBK).,67,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,6,top,Liam Flynn struck out swinging (2-2 KFBBFS).,68,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,6,top,Julian Galvan grounded out to ss (0-1 K).,69,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,6,bot,Jack Raymond to p for Lincoln Waterman.,70,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,6,bot,Ryan Nace flied out to cf (3-2 BKFFBFB).,71,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,6,bot,Joey Ditta flied out to cf (3-2 BBKKBF).,72,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,6,bot,Nick Turnage singled to right field (3-1 KBBB).,73,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,6,bot,Justin Hoffmann reached first on an error by 3b (1-1 KB)3a Nick Turnage advanced to second.,74,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,6,bot,Alex Tronosky pinch hit for Nate Veasey.,75,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,6,bot,Alex Tronosky hit by pitch (3-2 KSBBH)3a Justin Hoffmann advanced to second3a Nick Turnage advanced to third.,76,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,6,bot,Matt Passerini walked (3-2 KBKFBFBB)3a Alex Tronosky advanced to second3a Justin Hoffmann advanced to third3a Nick Turnage scored.,77,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,6,bot,Andrew Steinhubel to p for Jack Raymond.,78,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,6,bot,"Josh Goulburn walked (3-2 BBKSBB)3a Matt Passerini advanced to second3a Alex Tronosky advanced to third3a Justin Hoffmann scored, unearned.",79,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,6,bot,Matt Passerini out at third 3b unassisted.,80,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,7,top,Alex Tronosky to c.,81,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,7,top,Michael Ucci doubled to right center (0-0).,82,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,7,top,Sean McGee pinch ran for Michael Ucci.,83,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,7,top,"Andrew Rocca homered to left field, 2 RBI (3-1 KBBB)3a Sean McGee scored.",84,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,7,top,Ryan Keating walked (3-1 BBBKB).,85,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,7,top,Ryan Keating stole second.,86,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,7,top,"Anthony Hackert doubled down the lf line, RBI (2-0 BB)3a Ryan Keating scored.",87,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,7,top,John Fitzpatrick to p for Max Swart.,88,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,7,top,"Charles Macelhiney flied out to cf, RBI (0-0)3a Anthony Hackert advanced to third, scored on an error by ss, unearned.",89,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,7,top,Tyler Ladouceur flied out to cf (0-0).,90,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,7,top,Collin Harty walked (3-1 BKBBB).,91,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,7,top,"Collin Harty out at second c to 2b, caught stealing.",92,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,7,bot,Luke Hardnock walked (3-1 BBBKB).,93,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,7,bot,"Luke Hardnock out at first p to 1b, picked off.",94,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,7,bot,Danny Nocito popped up to 3b (1-2 KBF).,95,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,7,bot,Ryan Nace grounded out to ss (1-1 KB).,96,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,8,top,Liam Flynn doubled to left field (0-1 K).,97,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,8,top,Julian Galvan singled to center field (1-2 KFB)3a Liam Flynn advanced to third.,98,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,8,top,Brady Wendell pinch hit for Sean McGee.,99,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,8,top,Brady Wendell singled down the lf line (0-2 KF)3a Julian Galvan advanced to second.,100,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,8,top,Andrew Rocca walked (3-0 BBBB)3a Brady Wendell advanced to second3a Julian Galvan advanced to third3a Liam Flynn scored.,101,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,8,top,Ben White pinch hit for Ryan Keating.,102,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,8,top,Vaughn McVeigh to p for John Fitzpatrick.,103,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,8,top,Ben White hit by pitch (3-0 BBH)3a Andrew Rocca advanced to second3a Brady Wendell advanced to third3a Julian Galvan scored.,104,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,8,top,Anthony Hackert reached on a fielder's choice (0-2 SKF)3a Ben White advanced to second3a Andrew Rocca out at third 3b unassisted3a Brady Wendell out at home 3b to c.,105,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,8,top,Charles Macelhiney flied out to cf (0-0).,106,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,8,bot,Ben White to lf.,107,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,8,bot,Nicholas Prince to 1b for Collin Harty.,108,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,8,bot,Kyle Birks to c for Liam Flynn.,109,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,8,bot,Bryce Morrisette to 3b for Julian Galvan.,110,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,8,bot,Jack Ilaria to p for Andrew Steinhubel.,111,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,8,bot,Joey Ditta walked (3-0 BBBB).,112,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,8,bot,Nick Turnage reached first on an error by 2b (2-2 BBKS)3a Joey Ditta advanced to second.,113,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,8,bot,Nick Turnage advanced to second on an error by p3a Joey Ditta advanced to third.,114,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,8,bot,Justin Hoffmann flied out to cf (3-2 BBBKS).,115,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,8,bot,Alex Tronosky struck out swinging (2-2 KKBFBS).,116,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,8,bot,"Matt Passerini doubled to right field, RBI (3-2 BBKBK)3a Nick Turnage advanced to third3a Joey Ditta scored.",117,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,8,bot,Logan Barndt pinch ran for Matt Passerini.,118,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,8,bot,Josh Goulburn flied out to cf (0-2 KS).,119,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,9,top,Logan Barndt to 2b.,120,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,9,top,Adam Pivacek pinch hit for Tyler Ladouceur.,121,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,9,top,Adam Pivacek flied out to cf (0-0).,122,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,9,top,Nicholas Prince singled to center field (0-1 K).,123,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,9,top,Kyle Birks singled to left center (1-2 FFB)3a Nicholas Prince advanced to second.,124,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615300,9,top,Bryce Morrisette grounded into double play ss to 2b to 1b (1-1 SB)3a Kyle Birks out on the play.,125,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,9,bot,Adam Pivacek to rf.,126,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,9,bot,Calvin Borio to p for Jack Ilaria.,127,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,9,bot,Luke Hardnock doubled to left center (3-2 BBKSB).,128,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,9,bot,Danny Nocito walked (3-2 KBKBBB).,129,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,9,bot,Ryan Nace singled to second base (0-2 KK)3a Danny Nocito advanced to second3a Luke Hardnock advanced to third.,130,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,9,bot,Joey Ditta grounded into double play ss to 2b to 1b (0-2 SK)3a Ryan Nace out on the play3a Danny Nocito advanced to third3a Luke Hardnock scored.,131,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6534151,615300,Nichols Bison,615231,Immaculata Mighty Macs,615231,9,bot,Nick Turnage grounded out to 2b (3-1 BKBB).,132,2026-03-12 00:00:00-04:00,"Myrtle Beach , SC",0,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,1,top,Josh Markley flied out to rf (1-1 BF).,1,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,1,top,Will Ferris grounded out to 1b unassisted (1-1 KB).,2,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,1,top,Kevin Schmidt walked (3-2 BSBKFFBB).,3,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,1,top,Johnny Bruno flied out to cf (0-0).,4,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,1,bot,Carlos Barajas struck out looking (3-2 KBBBFK).,5,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,1,bot,"Will Webster struck out swinging, out at first c to 1b (1-2 KBKS).",6,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,1,bot,Sammy Besztery doubled down the lf line (0-2 KK).,7,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,1,bot,Jake Bentivenga grounded out to ss (0-0).,8,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,2,top,Luke Gartland grounded out to ss (1-1 BK).,9,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,2,top,Ethan Sodl singled up the middle (1-1 BF).,10,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,2,top,Freeman Hunt reached on a fielder's choice to third base (0-0); Ethan Sodl out at second 3b to 2b.,11,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,2,top,Matt Conforti grounded out to 1b unassisted (0-1 K).,12,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,2,bot,Teddy Monahan popped up to 2b (0-0).,13,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,2,bot,Ryan Huckabone flied out to cf (0-1 K).,14,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,2,bot,Tristan Datta struck out swinging (0-2 KFS).,15,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,3,top,Shawn Arneja singled to center field (0-0).,16,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,3,top,"Josh Markley grounded out to p, SAC, bunt (0-1 K); Shawn Arneja advanced to second.",17,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,3,top,Will Ferris walked (3-2 KBKBFBFFB).,18,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,3,top,Will Ferris advanced to second on a wild pitch; Shawn Arneja advanced to third.,19,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,3,top,Kevin Schmidt walked (3-2 FBSFBBFB).,20,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,3,top,"Johnny Bruno doubled to right center, 3 RBI (0-0); Kevin Schmidt scored; Will Ferris scored; Shawn Arneja scored.",21,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,3,top,Luke Gartland struck out swinging (1-2 KBKS).,22,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,3,top,Ethan Sodl struck out looking (1-2 KBFK).,23,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,3,bot,Logan Mathias popped up to 1b (0-1 K).,24,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,3,bot,Owen Andreatta doubled to left field (0-2 FK).,25,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,3,bot,Carlos Barajas walked (3-1 BKBBB).,26,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,3,bot,"Will Webster singled to second base, bunt (0-0); Carlos Barajas advanced to second; Owen Andreatta advanced to third.",27,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,3,bot,"Sammy Besztery singled to right field, 2 RBI, advanced to second on the throw (0-1 S); Will Webster advanced to second, advanced to third on the throw; Carlos Barajas scored; Owen Andreatta scored.",28,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,3,bot,"Jake Bentivenga grounded out to 2b, RBI (0-1 K); Sammy Besztery advanced to third; Will Webster scored.",29,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,3,bot,"Teddy Monahan doubled down the lf line, RBI (0-1 K); Sammy Besztery scored.",30,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,3,bot,Ryan Huckabone struck out swinging (0-2 KFS).,31,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,4,top,Freeman Hunt grounded out to ss (2-1 BFB).,32,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,4,top,Matt Conforti doubled to right center (1-1 BK).,33,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,4,top,Shawn Arneja popped up to ss (0-0).,34,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,4,top,Josh Markley walked (3-0 BBBB).,35,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,4,top,Will Ferris struck out swinging (2-2 BBFKFS).,36,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,4,bot,"Tristan Datta doubled down the lf line, ground-rule (1-2 BKK).",37,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,4,bot,"Logan Mathias singled to pitcher, bunt (1-0 B); Tristan Datta advanced to third.",38,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,4,bot,Owen Andreatta struck out looking (3-2 KBSBBK).,39,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,4,bot,"Carlos Barajas flied out to lf, sacrifice fly, RBI (2-1 BBS); Tristan Datta scored.",40,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,4,bot,Will Webster flied out to lf (1-1 BS).,41,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,5,top,Kevin Schmidt popped up to 2b (1-2 BKFF).,42,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,5,top,Johnny Bruno popped up to p (0-1 K).,43,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,5,top,Luke Gartland tripled to left center (3-2 KFBBB).,44,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,5,top,Ethan Sodl flied out to rf (0-0).,45,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,5,bot,Sammy Besztery singled up the middle (0-1 K).,46,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,5,bot,Jake Bentivenga struck out swinging (0-2 KKS).,47,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,5,bot,"Sammy Besztery out at second c to 2b, caught stealing.",48,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,5,bot,Teddy Monahan singled to shortstop (2-2 FBSB).,49,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,5,bot,Ryan Huckabone singled to left field (2-1 BSB); Teddy Monahan advanced to second.,50,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,5,bot,Tristan Datta hit by pitch (3-2 KBBKBFH); Ryan Huckabone advanced to second; Teddy Monahan advanced to third.,51,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,5,bot,"Logan Mathias singled to right field, 2 RBI (0-1 K); Tristan Datta advanced to third; Ryan Huckabone scored; Teddy Monahan scored.",52,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,5,bot,Dylan Robinson to p for Sam Bliss.,53,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,5,bot,Daniel Gudin pinch hit for Owen Andreatta.,54,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,5,bot,Daniel Gudin hit by pitch (3-2 SBSBH); Logan Mathias advanced to second.,55,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,5,bot,"Carlos Barajas singled to center field, 2 RBI (0-0); Daniel Gudin advanced to second; Logan Mathias scored; Tristan Datta scored.",56,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,5,bot,Will Webster reached on a fielder's choice to second base (0-0); Carlos Barajas out at second 2b to ss.,57,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,6,top,Jake Goldberg to lf for Daniel Gudin.,58,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,6,top,Freeman Hunt reached first on a fielding error by 3b (2-2 BBSFF).,59,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,6,top,Kyle Bailey pinch hit for Matt Conforti.,60,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,6,top,"Kyle Bailey tripled to left center, RBI (2-1 BBK); Freeman Hunt scored, unearned.",61,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,6,top,Ryan Arora to p for Sunil Lindsay.,62,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,6,top,"Shawn Arneja grounded out to 3b, RBI (2-2 KBBKF); Kyle Bailey scored.",63,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,6,top,Josh Markley flied out to cf (0-1 K).,64,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,6,top,Miguel Reich pinch hit for Will Ferris.,65,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,6,top,Miguel Reich struck out swinging (1-2 BFKS).,66,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,6,bot,Will Scibona to cf for Miguel Reich.,67,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,6,bot,Kevin Schmidt to 1b.,68,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,6,bot,Kyle Bailey to c.,69,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,6,bot,Sammy Besztery hit by pitch (2-1 KBH).,70,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,6,bot,Jake Bentivenga grounded into double play 3b to 2b to 1b (0-0); Sammy Besztery out on the play.,71,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615331,6,bot,Teddy Monahan grounded out to p (2-2 KBBK).,72,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,7,top,Kevin Schmidt singled to left center (1-0 B).,73,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,7,top,Johnny Bruno walked (3-2 BBFBFB); Kevin Schmidt advanced to second.,74,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,7,top,Luke Gartland hit by pitch (1-0 H); Johnny Bruno advanced to second; Kevin Schmidt advanced to third.,75,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,7,top,John Kumpa pinch hit for Ethan Sodl.,76,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,7,top,"John Kumpa reached on a fielder's choice to shortstop, RBI (1-1 BF); Luke Gartland out at second ss to 2b; Johnny Bruno advanced to third; Kevin Schmidt scored.",77,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,7,top,Jake Del Vecchio to p for Ryan Arora.,78,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,7,top,Ben Milligan pinch ran for John Kumpa.,79,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,7,top,Freeman Hunt popped up to 2b (0-1 K).,80,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564344,615195,Dickinson Red Devils,615331,Rochester (NY) Yellowjackets,615195,7,top,Kyle Bailey reached on a fielder's choice to second base (2-0 BB); Ben Milligan out at second 2b to ss.,81,2026-03-12 00:00:00-04:00,"Rochester, NY",91,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,1,top,Alex Ognen grounded out to ss (2-1 BBF).,1,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,1,top,Mallick Metcalfe singled to left field (0-1 K).,2,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,1,top,Noah Avey walked (3-2 KBBFBB)3a Mallick Metcalfe advanced to second.,3,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,1,top,Trent Bielak singled to right field (0-1 F)3a Noah Avey advanced to second3a Mallick Metcalfe advanced to third.,4,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,1,top,"Alex Colwell flied out to rf, sacrifice fly, RBI (2-0 BB)3a Noah Avey advanced to third3a Mallick Metcalfe scored.",5,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,1,top,"Trent Bielak out at second c to ss, caught stealing.",6,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,1,bot,Eli Michaelis singled to right center (0-2 KF).,7,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,1,bot,Ryan Pierquet singled to right field (1-0 B)3a Eli Michaelis advanced to third.,8,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,1,bot,Ian Rintelman grounded into double play ss to 2b to 1b (0-1 K)3a Ryan Pierquet out on the play3a Eli Michaelis scored.,9,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,1,bot,Colt Ratliff struck out swinging (0-2 FSS).,10,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,2,top,Kenny Nickson III hit by pitch (1-0 H).,11,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,2,top,"Kenny Nickson III out at first c to 1b, picked off.",12,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,2,top,Kyle Ketcham walked (3-0 BBBB).,13,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,2,top,Ethan Obergfell fouled out to 3b (2-1 BBF).,14,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,2,top,Aiden Zimmerman flied out to cf (1-1 KB).,15,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,2,bot,Jacob Lorbecki grounded out to ss (1-2 BSF).,16,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,2,bot,Oliver Lopeztello doubled to right center (1-2 BSS).,17,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,2,bot,Lincoln Thede grounded out to ss (2-2 BSBF).,18,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,2,bot,"Dawsen Burington singled up the middle, RBI (0-0)3a Oliver Lopeztello scored.",19,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,2,bot,Will Winiarz popped up to 3b (0-0).,20,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,3,top,Alex Ognen flied out to cf (1-2 SBF).,21,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,3,top,Mallick Metcalfe flied out to rf (0-0).,22,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,3,top,Noah Avey singled to right center (0-0).,23,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,3,top,"Trent Bielak doubled to left center, RBI (3-2 BBKBKFF)3a Noah Avey scored.",24,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,3,top,Alex Colwell fouled out to 1b (2-1 KBB).,25,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,3,bot,Eli Michaelis grounded out to ss (0-0).,26,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,3,bot,Ryan Pierquet grounded out to ss (1-1 KB).,27,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,3,bot,Ian Rintelman grounded out to 3b (0-1 K).,28,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,4,top,Kenny Nickson III singled to left field (0-2 KKF).,29,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,4,top,"Kyle Ketcham popped into double play p to 1b, bunt (2-1 SBB)3a Kenny Nickson III out on the play.",30,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,4,top,Ethan Obergfell doubled to left center (1-0 B).,31,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,4,top,Aiden Zimmerman grounded out to 3b (0-0).,32,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,4,bot,"Colt Ratliff homered to left center, RBI (0-0).",33,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,4,bot,Jacob Lorbecki struck out swinging (1-2 BFSS).,34,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,4,bot,Oliver Lopeztello walked (3-1 KBBBB).,35,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,4,bot,Lincoln Thede hit by pitch (2-1 SBH)3a Oliver Lopeztello advanced to second.,36,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,4,bot,"Dawsen Burington reached first on a fielding error by 3b (2-2 KFBB)3a Lincoln Thede advanced to third3a Oliver Lopeztello scored, unearned.",37,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,4,bot,Will Winiarz struck out looking (2-2 BFSBK).,38,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,4,bot,"Eli Michaelis reached first on an error by lf, advanced to second (2-0 BB)3a Dawsen Burington advanced to third3a Lincoln Thede scored, unearned.",39,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,4,bot,Ryan Pierquet walked (3-2 KBBKBB).,40,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,4,bot,Ian Rintelman grounded out to 2b (0-2 KS).,41,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,5,top,Willie Lewis to p for Jacob Bickel.,42,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,5,top,Alex Ognen flied out to rf (1-0 B).,43,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,5,top,Mallick Metcalfe grounded out to p (0-0).,44,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,5,top,Noah Avey walked (3-0 BBBB).,45,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,5,top,"Trent Bielak doubled down the lf line, RBI (0-2 FK)3a Noah Avey scored.",46,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,5,top,Alex Colwell hit by pitch (1-0 H).,47,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,5,top,Kenny Nickson III walked (3-2 FBFBBB)3a Alex Colwell advanced to second3a Trent Bielak advanced to third.,48,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,5,top,Zach Rodrigues to p for Willie Lewis.,49,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,5,top,Kyle Ketcham flied out to cf (2-0 BB).,50,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,5,bot,Colt Ratliff doubled to center field (1-0 B).,51,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,5,bot,Jacob Lorbecki hit by pitch (1-1 SH).,52,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,5,bot,"Oliver Lopeztello reached first on a throwing error by p, SAC, bunt (0-0)3a Jacob Lorbecki advanced to third on the error3a Colt Ratliff scored on the error.",53,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,5,bot,"Lincoln Thede reached on a fielder's choice to shortstop, RBI (3-2 KBSBFB)3a Oliver Lopeztello out at second ss to 2b3a Jacob Lorbecki scored, unearned.",54,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,5,bot,Dawsen Burington doubled to right field (1-1 BK)3a Lincoln Thede advanced to third.,55,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,5,bot,Seth Helgert to p for Patrick Synan.,56,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,5,bot,"Will Winiarz singled to left center, 2 RBI (1-0 B)3a Dawsen Burington scored, unearned3a Lincoln Thede scored, unearned.",57,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,5,bot,Eli Michaelis singled to left field (2-2 BKFBF)3a Will Winiarz advanced to second.,58,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,5,bot,Ryan Pierquet walked (3-1 BBKBB)3a Eli Michaelis advanced to second3a Will Winiarz advanced to third.,59,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,5,bot,"Ian Rintelman reached on a fielder's choice to shortstop, RBI (0-0)3a Ryan Pierquet out at second ss to 2b3a Eli Michaelis advanced to third3a Will Winiarz scored, unearned.",60,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,5,bot,"Colt Ratliff doubled to left field, 2 RBI (1-2 KFB)3a Ian Rintelman scored, unearned3a Eli Michaelis scored, unearned.",61,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,5,bot,Jacob Lorbecki struck out looking (2-2 BKSBFK).,62,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,6,top,Ethan Obergfell walked (3-1 BFBBB).,63,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,6,top,Aiden Zimmerman flied out to lf (0-0).,64,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,6,top,Alex Ognen walked (3-2 BBBKKB)3a Ethan Obergfell advanced to second.,65,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,6,top,Mallick Metcalfe struck out swinging (1-2 SBFFS).,66,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,6,top,Noah Avey walked (3-2 BBSBSB)3a Alex Ognen advanced to second3a Ethan Obergfell advanced to third.,67,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,6,top,Trent Bielak flied out to rf (1-0 B).,68,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,6,bot,"Oliver Lopeztello grounded out to p, bunt (0-0).",69,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,6,bot,Lincoln Thede hit by pitch (1-0 H).,70,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,6,bot,Dawsen Burington walked (3-2 BSBKBB)3a Lincoln Thede advanced to second.,71,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,6,bot,"Will Winiarz singled down the lf line, RBI (0-1 F)3a Dawsen Burington advanced to second3a Lincoln Thede scored.",72,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,6,bot,Eli Michaelis grounded into double play 3b to 1b (0-0)3a Dawsen Burington out on the play.,73,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,7,top,Cameron Vahldick to p for Zach Rodrigues.,74,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,7,top,Alex Colwell walked (3-1 KBBBB).,75,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,7,top,Kenny Nickson III struck out looking (1-2 FBFK).,76,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,7,top,Alan Compres pinch hit for Kyle Ketcham.,77,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,7,top,Alan Compres struck out swinging (0-2 KFFS).,78,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,7,top,Ethan Obergfell hit by pitch (3-2 KKBFBFH)3a Alex Colwell advanced to second.,79,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,7,top,"Aiden Zimmerman homered to left field, 3 RBI (0-0)3a Ethan Obergfell scored3a Alex Colwell scored.",80,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,7,top,Payton Edlen to lf for Jacob Lorbecki.,81,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,7,top,Alex Ognen fouled out to 1b (2-1 KBB).,82,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,7,bot,Alan Compres to lf.,83,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,7,bot,Ryan Pierquet flied out to cf (1-0 B).,84,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,7,bot,"Ian Rintelman homered to left field, RBI (1-2 KSB).",85,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,7,bot,"Colt Ratliff homered to left center, RBI (3-1 BSBB).",86,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,7,bot,Tim Beimel to p for Seth Helgert.,87,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,7,bot,Payton Edlen walked (3-2 BKBSBB).,88,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,7,bot,Payton Edlen advanced to second on a wild pitch.,89,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,7,bot,Oliver Lopeztello grounded out to 1b unassisted (1-2 BKKF)3a Payton Edlen advanced to third.,90,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,7,bot,Zach Alburg pinch hit for Lincoln Thede.,91,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,7,bot,Zach Alburg flied out to cf (1-0 B).,92,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,8,top,Zach Alburg to c.,93,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,8,top,Aiden Migneault to p for Cameron Vahldick.,94,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,8,top,Mallick Metcalfe flied out to cf (0-2 SK).,95,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,8,top,Noah Avey singled to second base (1-1 FB).,96,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,8,top,Trent Bielak reached on a fielder's choice to second base (0-1 K)3a Noah Avey out at second 2b to ss.,97,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615442,8,top,Alex Colwell reached on a fielder's choice to third base (1-1 KB)3a Trent Bielak out at second 3b to 2b.,98,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,8,bot,Dawsen Burington walked (3-0 BBBB).,99,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564360,615442,Pitt.-Bradford Panthers,615467,Wis. Lutheran Warriors,615467,8,bot,"Will Winiarz doubled down the lf line, RBI (2-1 FBB)3a Dawsen Burington scored.",100,2026-03-12 00:00:00-04:00,"Fort Myers, FL",0,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,1,top,Aiden Zimmerman hit by pitch (2-1 BFH).,1,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,1,top,"Alex Ognen grounded out to p, SAC, bunt (1-0 B); Aiden Zimmerman advanced to second.",2,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,1,top,Trent Bielak flied out to cf (0-1 S); Aiden Zimmerman advanced to third.,3,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,1,top,"Alex Colwell singled to left field, RBI (1-1 BK); Aiden Zimmerman scored.",4,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,1,top,Kenny Nickson III singled to center field (0-0); Alex Colwell advanced to second.,5,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,1,top,Braden Meadows struck out swinging (0-2 SFS).,6,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,1,bot,Matthew O'Neill flied out to lf (3-2 KSFBBBF).,7,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,1,bot,Eddie Galvao singled to center field (1-2 FBK).,8,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,1,bot,Jack Collins grounded out to 2b (0-2 SKFF); Eddie Galvao advanced to second.,9,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,1,bot,"Mac Cady tripled to center field, RBI (1-1 KB); Eddie Galvao scored.",10,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,1,bot,Landon Schwartzman struck out swinging (1-2 KBKS).,11,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,2,top,Logan McConnell singled to shortstop (0-2 KF).,12,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,2,top,"Alan Compres popped up to p, bunt (0-1 F).",13,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,2,top,Grant Casses grounded out to 3b (0-0); Logan McConnell advanced to second.,14,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,2,top,Aiden Zimmerman struck out looking (2-2 FBBFK).,15,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,2,bot,Quinn McDonald struck out looking (1-2 SBFK).,16,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,2,bot,Holden Caney flied out to cf (3-2 KBBSBF).,17,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,2,bot,Jack Riva doubled to right center (2-2 BBSK).,18,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,2,bot,Nate Vandersea struck out looking (0-2 KKK).,19,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,3,top,Alex Ognen flied out to rf (1-2 FKB).,20,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,3,top,Trent Bielak lined out to lf (2-0 BB).,21,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,3,top,Alex Colwell walked (3-1 BKBBB).,22,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,3,top,Kenny Nickson III struck out swinging (0-2 FFFS).,23,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,3,bot,Matthew O'Neill singled to left field (3-2 BBFBF).,24,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,3,bot,Matthew O'Neill stole second.,25,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,3,bot,Eddie Galvao walked (3-2 BBKFBB).,26,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,3,bot,"Jack Collins singled to left field, RBI (2-1 FBB); Eddie Galvao advanced to second; Matthew O'Neill scored.",27,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,3,bot,Mac Cady struck out looking (3-2 BSSFBBK).,28,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,3,bot,Eddie Galvao stole third.,29,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,3,bot,Landon Schwartzman fouled out to 1b (3-2 BBKFB).,30,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,3,bot,Quinn McDonald flied out to rf (1-1 BF).,31,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,4,top,Braden Meadows flied out to rf (1-0 B).,32,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,4,top,Logan McConnell grounded out to 3b (0-0).,33,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,4,top,Alan Compres hit by pitch (1-0 H).,34,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,4,top,Grant Casses popped up to ss (1-1 BK).,35,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,4,bot,Holden Caney reached first on a fielding error by ss (3-2 KBBFB).,36,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,4,bot,"Jack Riva homered to left field, 2 RBI (1-2 FFB); Holden Caney scored, unearned.",37,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,4,bot,Nate Vandersea grounded out to ss (1-0 B).,38,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,4,bot,Matthew O'Neill grounded out to ss (0-2 FS).,39,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,4,bot,Eddie Galvao walked (3-0 BBBB).,40,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,4,bot,Eddie Galvao stole second.,41,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,4,bot,Eddie Galvao advanced to third on a wild pitch.,42,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,4,bot,"Jack Collins singled through the left side, RBI (3-1 KBBB); Eddie Galvao scored, unearned.",43,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,4,bot,Carter Leviski to p for Collin Porter.,44,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,4,bot,"Mac Cady homered to left field, unearned, 2 RBI (3-1 BBFB); Jack Collins scored, unearned.",45,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,4,bot,"Landon Schwartzman homered to center field, unearned, RBI (1-2 KKB).",46,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,4,bot,Quinn McDonald grounded out to ss (0-1 K).,47,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,5,top,Aiden Zimmerman hit by pitch (2-0 BH).,48,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,5,top,Alex Ognen hit by pitch (2-1 BSH); Aiden Zimmerman advanced to second.,49,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,5,top,Alex Ognen advanced to second on the error; Aiden Zimmerman advanced to third on a throwing error by p.,50,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,5,top,Trent Bielak struck out swinging (1-2 KBFFS).,51,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,5,top,Alex Colwell popped up to 1b (2-2 FBFB).,52,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,5,top,Kenny Nickson III struck out swinging (2-2 KBFFBFS).,53,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,5,bot,Holden Caney grounded out to ss (1-2 BKK).,54,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,5,bot,Jack Riva singled to left field (0-0).,55,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,5,bot,"Nate Vandersea doubled to right center, RBI (1-2 BFS); Jack Riva scored.",56,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,5,bot,Matthew O'Neill flied out to cf (0-0); Nate Vandersea advanced to third.,57,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,5,bot,Eddie Galvao struck out swinging (1-2 KKBFS).,58,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,6,top,Cal Champeau to p for Colby Bohnen.,59,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,6,top,Braden Meadows flied out to cf (1-1 BK).,60,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,6,top,Logan McConnell popped up to ss (3-2 BFBBSF).,61,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,6,top,Alan Compres doubled to right field (2-2 BSKBF).,62,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,6,top,Grant Casses struck out swinging (0-2 KKS).,63,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,6,bot,Jack Collins grounded out to ss (1-2 KFB).,64,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,6,bot,Mac Cady struck out looking (1-2 BKFK).,65,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,6,bot,Landon Schwartzman grounded out to 3b (3-2 SBBBKF).,66,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,7,top,Aiden Zimmerman hit by pitch (1-1 KH).,67,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,7,top,Alex Ognen doubled down the rf line (1-0 B); Aiden Zimmerman advanced to third.,68,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,7,top,Griffin Adams to p for Cal Champeau.,69,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,7,top,"Trent Bielak flied out to rf, sacrifice fly, RBI (0-0); Aiden Zimmerman scored.",70,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,7,top,Alex Colwell struck out swinging (0-2 SSS).,71,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,7,top,Kenny Nickson III grounded out to 2b (1-0 B).,72,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,7,bot,Quinn McDonald grounded out to ss (2-2 BSBF).,73,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,7,bot,Holden Caney grounded out to 2b (1-2 KSB).,74,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,7,bot,Jack Riva doubled down the lf line (1-1 FB).,75,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,7,bot,Nate Vandersea hit by pitch (1-1 KH).,76,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,7,bot,Matthew O'Neill grounded out to p (1-2 FFB).,77,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,8,top,Braden Meadows hit by pitch (2-1 BKH).,78,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,8,top,Logan McConnell hit by pitch (2-2 KFBH); Braden Meadows advanced to second.,79,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,8,top,Will Markwood to p for Griffin Adams.,80,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,8,top,Alan Compres reached on a fielder's choice to third base (2-1 FBB); Logan McConnell out at second 3b to 2b; Braden Meadows advanced to third.,81,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,8,top,Grant Casses struck out looking (2-2 BBSKK).,82,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,8,top,Aiden Zimmerman struck out swinging (0-2 FKFS).,83,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,8,bot,Eddie Galvao tripled to right center (0-2 KKF).,84,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,8,bot,"Jack Collins grounded out to 2b, RBI (0-1 K); Eddie Galvao scored.",85,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,8,bot,Mac Cady flied out to rf (0-1 K).,86,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615352,8,bot,Landon Schwartzman flied out to rf (2-2 BBFK).,87,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,9,top,Alex Ognen singled to right center (0-0).,88,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,9,top,"Trent Bielak doubled to center field, RBI (1-2 KBF); Alex Ognen scored.",89,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,9,top,"Alex Colwell tripled to center field, RBI (0-1 S); Trent Bielak scored.",90,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,9,top,Kenny Nickson III struck out swinging (1-2 SBSS).,91,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,9,top,Braden Meadows walked (3-1 BSBBB).,92,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,9,top,"Logan McConnell flied out to rf, sacrifice fly, RBI (1-2 KBSF); Alex Colwell scored.",93,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564376,615442,Pitt.-Bradford Panthers,615352,Skidmore Thoroughbreds,615442,9,top,Alan Compres struck out swinging (1-2 SBKS).,94,2026-03-12 00:00:00-04:00,"Fort Myers, FL",65,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,1,top,Justin Fields flied out to cf (0-0).,1,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,1,top,John Churchward struck out swinging (0-0).,2,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,1,top,Vincent Fuller grounded out to 3b (0-0).,3,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,1,bot,Mark Whittington flied out to cf (0-0).,4,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,1,bot,Adriel Espada walked (0-0).,5,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,1,bot,Eric Galarza struck out swinging (0-0).,6,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,1,bot,"Joey O'Hara homered to left field, 2 RBI (0-0); Adriel Espada scored.",7,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,1,bot,Baltazar Mesa struck out swinging (0-0).,8,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,2,top,Braeden O'Connell flied out to rf (0-0).,9,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,2,top,Charlie Coors flied out to rf (0-0).,10,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,2,top,"Jack McCoy homered to left field, RBI (0-0).",11,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,2,top,Liam Curley flied out to cf (0-0).,12,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,2,bot,Noah Grosso struck out swinging (0-0).,13,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,2,bot,Alex Perez flied out to rf (0-0).,14,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,2,bot,Brayden Hastings hit by pitch (0-0).,15,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,2,bot,Brayden Hastings advanced to second on a balk.,16,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,2,bot,Robert Anton walked (0-0).,17,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,2,bot,Mark Whittington lined out to cf (0-0).,18,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,3,top,Aidan Callahan singled to left field (0-0).,19,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,3,top,Xavier Hall singled to left field (0-0); Aidan Callahan advanced to third.,20,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,3,top,"Justin Fields flied out to rf, sacrifice fly, RBI (0-0); Aidan Callahan scored.",21,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,3,top,John Churchward grounded out to ss (0-0); Xavier Hall advanced to second.,22,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,3,top,Vincent Fuller flied out to rf (0-0).,23,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,3,bot,Adriel Espada hit by pitch (0-0).,24,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,3,bot,Adriel Espada advanced to second on a balk.,25,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,3,bot,Adriel Espada stole third.,26,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,3,bot,"Eric Galarza tripled to left field, RBI (0-0); Adriel Espada scored.",27,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,3,bot,"Joey O'Hara singled to center field, RBI (0-0); Eric Galarza scored.",28,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,3,bot,Baltazar Mesa walked (0-0); Joey O'Hara advanced to second.,29,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,3,bot,Samuel Ravela to p for Russell Silverman.,30,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,3,bot,"Noah Grosso singled to center field, RBI (0-0); Baltazar Mesa advanced to second; Joey O'Hara scored.",31,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,3,bot,"Noah Grosso advanced to second; Baltazar Mesa out at third c to 3b, caught stealing.",32,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,3,bot,Alex Perez walked (0-0).,33,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,3,bot,Brayden Hastings struck out swinging (0-0).,34,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,3,bot,Robert Anton struck out swinging (0-0).,35,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,4,top,Braeden O'Connell doubled to center field (0-0).,36,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,4,top,Charlie Coors grounded out to 3b (0-0).,37,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,4,top,Braeden O'Connell advanced to third on a passed ball.,38,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,4,top,"Jack McCoy grounded out to 2b, RBI (0-0); Braeden O'Connell scored, unearned.",39,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,4,top,Liam Curley flied out to cf (0-0).,40,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,4,bot,Mark Whittington flied out to rf (0-0).,41,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,4,bot,"Adriel Espada homered to right field, RBI (0-0).",42,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,4,bot,Eric Galarza struck out swinging (0-0).,43,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,4,bot,Joey O'Hara singled to left field (0-0).,44,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,4,bot,"Baltazar Mesa doubled to center field, RBI (0-0); Joey O'Hara scored.",45,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,4,bot,Noah Grosso grounded out to 3b (0-0).,46,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,5,top,Aidan Callahan grounded out to 3b (0-0).,47,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,5,top,Xavier Hall flied out to lf (0-0).,48,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,5,top,Justin Fields singled to right field (0-0).,49,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,5,top,John Churchward singled to left field (0-0); Justin Fields advanced to second.,50,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,5,top,Vincent Fuller struck out swinging (0-0).,51,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,5,bot,Alex Perez walked (0-0).,52,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,5,bot,"Brayden Hastings grounded out to p, SAC, bunt (0-0); Alex Perez advanced to second.",53,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,5,bot,Robert Anton grounded out to 3b (0-0).,54,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,5,bot,Mark Whittington singled to right field (0-0); Alex Perez advanced to third.,55,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,5,bot,"Adriel Espada homered to right field, 3 RBI (0-0); Mark Whittington scored; Alex Perez scored.",56,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,5,bot,Eric Galarza walked (0-0).,57,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,5,bot,Joey O'Hara doubled to left field (0-0); Eric Galarza advanced to third.,58,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,5,bot,Oliver Low to p for Samuel Ravela.,59,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,5,bot,Joey O'Hara advanced to third; Eric Galarza scored on a wild pitch.,60,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,5,bot,Baltazar Mesa struck out swinging (0-0).,61,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,6,top,Braeden O'Connell hit by pitch (0-0).,62,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,6,top,Charlie Coors singled to center field (0-0); Braeden O'Connell advanced to second.,63,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,6,top,Jack McCoy fouled out to 1b (0-0).,64,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,6,top,"Liam Curley doubled to center field, RBI (0-0); Charlie Coors advanced to third; Braeden O'Connell scored.",65,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,6,top,"Aidan Callahan singled to center field, 2 RBI (0-0); Liam Curley scored; Charlie Coors scored.",66,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,6,top,Xavier Hall grounded into double play 2b to ss to 1b (0-0); Aidan Callahan out on the play.,67,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,6,bot,Noah Grosso walked (0-0).,68,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,6,bot,Noah Grosso advanced to second on a wild pitch.,69,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,6,bot,Noah Grosso advanced to third on a wild pitch.,70,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,6,bot,Alex Perez walked (0-0).,71,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,6,bot,"Brayden Hastings reached on a fielder's choice, RBI (0-0); Alex Perez out at second ss to 2b; Noah Grosso scored.",72,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,6,bot,Brayden Hastings advanced to second on a balk.,73,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,6,bot,Brayden Hastings advanced to third on a wild pitch.,74,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,6,bot,"Robert Anton flied out to cf, sacrifice fly, RBI (0-0); Brayden Hastings scored.",75,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,6,bot,Mark Whittington walked (0-0).,76,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,6,bot,Adriel Espada walked (0-0); Mark Whittington advanced to second.,77,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,6,bot,Ian Sullivan to p for Oliver Low.,78,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,6,bot,Eric Galarza flied out to lf (0-0).,79,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,7,top,Justin Fields struck out swinging (0-0).,80,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,7,top,John Churchward walked (0-0).,81,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,7,top,Vincent Fuller singled through the left side (0-0); John Churchward advanced to second.,82,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,7,top,Vincent Fuller advanced to second; John Churchward advanced to third on a wild pitch.,83,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,7,top,Braeden O'Connell walked (0-0).,84,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,7,top,"Charlie Coors homered to center field, 4 RBI (0-0); Braeden O'Connell scored; Vincent Fuller scored; John Churchward scored.",85,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,7,top,Alexander Heidel to p for Riley Corgan.,86,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,7,top,Jack McCoy struck out swinging (0-0).,87,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,7,top,Liam Curley lined out to lf (0-0).,88,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,7,bot,Joey O'Hara reached first on a throwing error by ss (0-0).,89,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,7,bot,Baltazar Mesa singled to right field (0-0); Joey O'Hara advanced to second.,90,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,7,bot,Noah Grosso reached on a fielder's choice (0-0); Baltazar Mesa out at second 3b to 2b; Joey O'Hara advanced to third.,91,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,7,bot,Noah Grosso stole second.,92,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,7,bot,"Alex Perez struck out, out at first c to 1b (0-0).",93,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,7,bot,"Brayden Hastings doubled to left field, 2 RBI (0-0); Noah Grosso scored, unearned; Joey O'Hara scored, unearned.",94,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,7,bot,Robert Anton grounded out to 3b (0-0).,95,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,8,top,Aidan Callahan struck out looking (0-0).,96,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,8,top,Xavier Hall singled to left field (0-0).,97,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,8,top,Justin Fields singled to center field (0-0); Xavier Hall advanced to second.,98,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,8,top,John Churchward singled to right field (0-0); Justin Fields advanced to second; Xavier Hall advanced to third.,99,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,8,top,"Vincent Fuller walked, RBI (0-0); John Churchward advanced to second; Justin Fields advanced to third; Xavier Hall scored.",100,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,8,top,"Braeden O'Connell walked, RBI (0-0); Vincent Fuller advanced to second; John Churchward advanced to third; Justin Fields scored.",101,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,8,top,"Charlie Coors singled to left field, 2 RBI (0-0); Braeden O'Connell advanced to second; Vincent Fuller scored; John Churchward scored.",102,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,8,top,Joshua Santiago to p for Alexander Heidel.,103,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,8,top,Jack McCoy flied out to rf (0-0).,104,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,8,top,Liam Curley hit by pitch (0-0); Charlie Coors advanced to second; Braeden O'Connell advanced to third.,105,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,8,top,Aidan Callahan grounded out to 2b (0-0).,106,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,8,bot,Mark Whittington reached first on a throwing error by ss (0-0).,107,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,8,bot,Adriel Espada struck out looking (0-0); Mark Whittington stole second.,108,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,8,bot,"Eric Galarza doubled to right field, RBI (0-0); Mark Whittington scored, unearned.",109,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,8,bot,Joey O'Hara reached first on a fielding error by ss (0-0).,110,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,8,bot,Baltazar Mesa reached on a fielder's choice (0-0); Joey O'Hara out at second ss to 2b; Eric Galarza advanced to third.,111,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,8,bot,"Noah Grosso singled to center field, RBI (0-0); Baltazar Mesa advanced to second; Eric Galarza scored, unearned.",112,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615458,8,bot,Alex Perez struck out swinging (0-0).,113,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,9,top,Xavier Hall singled through the right side (0-0).,114,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,9,top,"Justin Fields reached on a fielder's choice, out at second c to 2b (0-0); Xavier Hall out at second ss to 2b.",115,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026
+6564390,615204,Emerson Lions,615458,Albertus Magnus Falcons,615204,9,top,John Churchward struck out looking (0-0).,116,2026-03-12 00:00:00-04:00,"St. John's Prep (Danvers, MA)",104,MBA,2026

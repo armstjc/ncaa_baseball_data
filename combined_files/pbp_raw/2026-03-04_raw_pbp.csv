@@ -1,115 +1,738 @@
 game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,1,top,Matthew Torreto walked (3-1 KBBBB).,1,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,1,top,Matthew Torreto stole second.,2,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,1,top,Daniel Fedorco flied out to 2b (2-2 BBK).,3,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,1,top,"Michael Weinbel singled to center field, RBI (3-2 KBFBB)3a Matthew Torreto scored.",4,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,1,top,Malik Little singled to left field (0-2 FK)3a Michael Weinbel advanced to second.,5,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,1,top,"Joseph Bernardo doubled to center field, 2 RBI (0-2 K)3a Malik Little scored3a Michael Weinbel scored.",6,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,1,top,RJ Kernan flied out to cf (0-1).,7,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,1,top,Jonathan Jerez grounded out to 3b (1-2 FBK).,8,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,1,bot,Joseph Frei struck out swinging (3-2 BBKBFS).,9,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,1,bot,Dominick Chiego struck out swinging (1-2 BKFF).,10,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,1,bot,Myles Castillo out at first 1b to p (0-2 F).,11,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,2,top,Liam Riley flied out to cf (0-1).,12,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,2,top,Reid Duffus walked (3-0 BBBB).,13,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,2,top,Reid Duffus stole second.,14,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,2,top,Reid Duffus stole third.,15,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,2,top,Matthew Torreto walked (3-0 BBBB).,16,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,2,top,Matthew Torreto advanced to second.,17,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,2,top,"Daniel Fedorco flied out to cf, sacrifice fly, RBI (1-2 FB)3a Matthew Torreto advanced to third3a Reid Duffus scored.",18,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,2,top,Matthew Torreto scored on a wild pitch.,19,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,2,top,Michael Weinbel hit by pitch (3-2 KBBFBFH).,20,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,2,top,Malik Little singled to left field (0-1)3a Michael Weinbel advanced to second.,21,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,2,top,Drew Oppenheim to p for Milan Raparelli.,22,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,2,top,Joseph Bernardo grounded out to ss (2-2 KBFFFB).,23,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,2,bot,Mike DeSena grounded out to 2b (2-2 FBFB).,24,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,2,bot,Anthony DiGrande struck out swinging (1-2 BFFS).,25,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,2,bot,Dylan Pyle grounded out to p (2-2 BSB).,26,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,3,top,RJ Kernan flied out to lf (1-1 B).,27,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,3,top,Jonathan Jerez popped up to 1b (2-2 BSB).,28,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,3,top,Liam Riley hit by pitch (1-0 H).,29,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,3,top,Reid Duffus struck out swinging (0-2 KFS).,30,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,3,bot,RJ Fiore struck out swinging (1-2 FFBS).,31,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,3,bot,Nick Friscia singled to center field (1-2 FSB).,32,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,3,bot,Simeon Reed singled to left field (0-2 FF)3a Nick Friscia advanced to second.,33,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,3,bot,"Joseph Frei doubled to left center, 2 RBI (0-2 K)3a Simeon Reed scored3a Nick Friscia scored.",34,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,3,bot,Dominick Chiego reached on a fielder's choice (0-2 F)3a Joseph Frei out at third 3b unassisted.,35,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,3,bot,"Dominick Chiego out at second c to ss, caught stealing.",36,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,4,top,Matthew Torreto walked (3-0 BBBB).,37,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,4,top,"Matthew Torreto out at second c to ss, caught stealing.",38,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,4,top,Daniel Fedorco flied out to rf (1-2 KFB).,39,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,4,top,Michael Weinbel grounded out to 2b (0-2 FF).,40,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,4,bot,Myles Castillo singled to right field (1-1 B).,41,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,4,bot,Mike DeSena singled to right field (0-2 K)3a Myles Castillo advanced to second.,42,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,4,bot,"Anthony DiGrande out at first p to 2b, SAC (1-1 B)3a Mike DeSena advanced to second3a Myles Castillo advanced to third.",43,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,4,bot,"Dylan Pyle grounded out to 3b, RBI (2-2 FBFB)3a Mike DeSena advanced to third3a Myles Castillo scored.",44,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,4,bot,"RJ Fiore singled to center field, RBI (1-2 SFFB)3a Mike DeSena scored.",45,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,4,bot,Nick Friscia singled to second base (3-2 BBBKK)3a RJ Fiore advanced to second.,46,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,4,bot,"Simeon Reed singled to right field (1-1 B)3a Nick Friscia advanced to second3a RJ Fiore advanced to third, out at home rf to c.",47,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,5,top,Malik Little hit by pitch (3-2 KBKFBH).,48,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,5,top,Joseph Bernardo grounded out to 2b (1-2 KB)3a Malik Little advanced to second.,49,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,5,top,Will Henderson to p for Drew Oppenheim.,50,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,5,top,"RJ Kernan homered, 2 RBI (0-1)3a Malik Little scored.",51,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,5,top,Jonathan Jerez flied out to rf (0-2 F).,52,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,5,top,Liam Riley struck out swinging (1-2 KKBS).,53,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,5,bot,Lukas Meyer to p for Joey Santi.,54,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,5,bot,Joseph Frei popped up to 3b (2-2 BKFB).,55,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,5,bot,Dominick Chiego grounded out to ss (3-2 BFBSBF).,56,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,5,bot,Myles Castillo flied out to cf (2-2 BFBS).,57,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,6,top,Carter Sari to p for Will Henderson.,58,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,6,top,Reid Duffus singled to right field (1-1 B).,59,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,6,top,"Matthew Torreto grounded out to p, SAC (0-1)3a Reid Duffus advanced to second.",60,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,6,top,Daniel Fedorco grounded out to p (1-1 B).,61,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,6,top,Michael Weinbel walked (3-2 BFBBSB).,62,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,6,top,Malik Little struck out swinging (0-2 FKS).,63,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,6,bot,Mike DeSena hit by pitch (1-0 H).,64,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,6,bot,Anthony DiGrande struck out swinging (0-2 KKS).,65,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,6,bot,Mike DeSena stole second.,66,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,6,bot,Dylan Pyle walked (3-0 BBBB).,67,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,6,bot,RJ Fiore struck out swinging (2-2 BFFBS).,68,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,6,bot,Nick Friscia walked (3-2 BBKBFB)3a Dylan Pyle advanced to second3a Mike DeSena advanced to third.,69,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,6,bot,Matthew L'Hommedieu to p for Lukas Meyer.,70,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,6,bot,"Simeon Reed hit by pitch, RBI (1-0 H)3a Nick Friscia advanced to second3a Dylan Pyle advanced to third3a Mike DeSena scored.",71,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,6,bot,"Joseph Frei singled to second base, RBI (1-2 KB)3a Simeon Reed advanced to second3a Nick Friscia advanced to third3a Dylan Pyle scored.",72,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,6,bot,Dominick Chiego flied out to rf (2-2 KBFB).,73,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,7,top,Vincent DeGrado to 2b for Anthony DiGrande.,74,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,7,top,Joseph Bernardo doubled to left field (0-1).,75,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,7,top,"RJ Kernan tripled down the rf line, RBI (0-1)3a Joseph Bernardo scored.",76,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,7,top,Jonathan Jerez singled to third base (0-2 F).,77,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,7,top,"Liam Riley grounded out to 2b, RBI (1-2 KFFB)3a Jonathan Jerez advanced to second3a RJ Kernan scored.",78,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,7,top,"Reid Duffus singled to right center, RBI (0-2 K)3a Jonathan Jerez scored.",79,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,7,top,Matthew Torreto flied out to rf (1-2 BK).,80,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,7,top,"Daniel Fedorco doubled to left center, advanced to third, RBI (2-1 BB)3a Reid Duffus scored.",81,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,7,top,Anthony Aguilera to p for Carter Sari.,82,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,7,top,Michael Weinbel hit by pitch (3-2 BFBFFH).,83,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,7,top,Malik Little struck out looking (1-2 BKFK).,84,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,7,bot,Jack Pozo to p for Matthew L'Hommedieu.,85,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,7,bot,Myles Castillo flied out to lf (1-1 B).,86,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,7,bot,Michael Romano to p for Jack Pozo.,87,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,7,bot,Mike DeSena grounded out to ss (1-2 SB).,88,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,7,bot,Vincent DeGrado hit by pitch (3-0 BBBH).,89,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,7,bot,Dylan Pyle flied out to rf (0-1).,90,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,8,top,Joseph Bernardo grounded out to ss (1-2 BKF).,91,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,8,top,RJ Kernan out at first 2b to ss (2-2 BKB).,92,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,8,top,Jonathan Jerez grounded out to ss (0-1).,93,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,8,bot,Derek DePace pinch hit for RJ Fiore.,94,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,8,bot,Derek DePace flied out to rf (3-2 FBBB).,95,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,8,bot,Nick Friscia struck out swinging (0-2 SFS).,96,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,8,bot,Simeon Reed doubled to left field (1-1 B).,97,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,8,bot,Joseph Frei grounded out to 2b (1-2 KBK).,98,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,9,top,Dominick Chiego to 3b.,99,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,9,top,Derek DePace to c.,100,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,9,top,Tyler Voltaire to p for Anthony Aguilera.,101,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,9,top,Liam Riley walked (3-0 BBBB).,102,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,9,top,Reid Duffus hit by pitch (1-2 FKH)3a Liam Riley advanced to second.,103,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,9,top,Matthew Torreto grounded out to 2b (2-2 BFSBF)3a Reid Duffus advanced to second3a Liam Riley advanced to third.,104,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,9,top,Daniel Fedorco grounded out to ss (1-2 BFK).,105,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,9,top,"Michael Weinbel singled to left field, RBI (2-2 BSB)3a Reid Duffus advanced to third3a Liam Riley scored.",106,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,9,top,"Malik Little singled to center field, RBI (2-2 KBBK)3a Michael Weinbel advanced to second3a Reid Duffus scored.",107,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,9,top,Joseph Bernardo reached first on an error by 3b (0-1)3a Malik Little advanced to second3a Michael Weinbel advanced to third.,108,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615336,9,top,RJ Kernan lined out to 2b (1-2 KB).,109,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,9,bot,Luke Hagen to p for Michael Romano.,110,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,9,bot,Dominick Chiego flied out to cf (1-1 B).,111,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,9,bot,Myles Castillo singled to second base (2-2 KBB).,112,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,9,bot,Mike DeSena flied out to lf (3-2 SBBFB).,113,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
-6557740,615336,Rutgers-Newark Scarlet Raiders,615475,Centenary (NJ) Cyclones,615475,9,bot,Vincent DeGrado grounded out to ss (1-2 BFS).,114,2026-03-04 02:30:00-05:00,"Our Diamond of Dreams (Hackettstown, NJ)",0,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,1,top,Nathan Loch walked (3-2 BKKFBBB).,1,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,1,top,Jack Smale walked (3-0 BBBB)3a Nathan Loch advanced to second.,2,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,1,top,Michael Sabella grounded into double play p to 2b to ss (0-2 SK)3a Jack Smale out on the play3a Nathan Loch advanced to third.,3,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,1,top,"Andres Cruz singled to center field, RBI (1-2 SB)3a Nathan Loch scored.",4,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,1,top,Andres Cruz Failed pickoff attempt.,5,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,1,top,Jack Veith reached on a fielder's choice (1-2 BK)3a Andres Cruz advanced to second.,6,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,1,top,Matthew Show hit by pitch (3-0 BBBH)3a Jack Veith advanced to second3a Andres Cruz advanced to third.,7,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,1,top,Gavin Lacoe grounded out to p (1-1 B).,8,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,1,bot,Owen Berry struck out looking (1-2 KBKF).,9,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,1,bot,Spencer Butz flied out to cf (3-2 SKBFBB).,10,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,1,bot,Kody Phillips struck out looking (2-2 KBBKK).,11,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,2,top,Gannon Decker struck out looking (3-2 BBKBKK).,12,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,2,top,Jacob Cambria hit by pitch (2-1 BFH).,13,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,2,top,Jacob Cambria Failed pickoff attempt.,14,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,2,top,Jacob Cambria Failed pickoff attempt.,15,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,2,top,"Jacob Cambria out at second c to ss, caught stealing.",16,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,2,top,Nathan Loch struck out swinging (2-2 KBKBS).,17,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,2,bot,Tyler Satterfield grounded out to ss (0-1).,18,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,2,bot,Kenny Palmieri struck out swinging (2-2 KBBSS).,19,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,2,bot,Devin Kreger singled to left field (2-2 KBFFBF).,20,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,2,bot,Devin Kreger Failed pickoff attempt.,21,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,2,bot,Devin Kreger Failed pickoff attempt.,22,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,2,bot,John Teehan grounded out p to 2b to 1b (1-2 KBK).,23,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,3,top,Jack Smale grounded out to 2b (2-2 BBK).,24,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,3,top,Michael Sabella grounded out to 1b unassisted (2-2 BSFFB).,25,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,3,top,Andres Cruz struck out looking (2-2 KBBFK).,26,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,3,bot,Joey Santora popped up to 2b (1-1 B).,27,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,3,bot,Dylan Mennillo popped up to 2b (0-2 KF).,28,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,3,bot,Owen Berry struck out swinging (2-2 BKFBS).,29,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,4,top,Jack Veith struck out swinging (2-2 KFBBF).,30,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,4,top,Matthew Show grounded out to ss (0-1).,31,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,4,top,Gavin Lacoe flied out to rf (2-2 SBBF).,32,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,4,bot,Spencer Butz struck out swinging (3-2 BKBBFS).,33,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,4,bot,Kody Phillips singled to right field (2-2 KBKB).,34,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,4,bot,Kody Phillips Failed pickoff attempt.,35,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,4,bot,Kody Phillips Failed pickoff attempt.,36,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,4,bot,Tyler Satterfield fouled out to 1b (3-2 BBBKS).,37,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,4,bot,Kenny Palmieri flied out to lf (2-2 BKB).,38,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,5,top,Gannon Decker singled to center field (2-2 FFBB).,39,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,5,top,Gannon Decker Failed pickoff attempt.,40,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,5,top,Jacob Cambria struck out swinging (3-2 FBFBBS).,41,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,5,top,Landon Sexton to p for Connor Smith.,42,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,5,top,Gannon Decker Failed pickoff attempt.,43,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,5,top,Gannon Decker stole second.,44,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,5,top,Nathan Loch walked (3-2 FBBBSB).,45,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,5,top,Gannon Decker Failed pickoff attempt.,46,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,5,top,Jack Smale reached on a fielder's choice (3-2 KFBBBF)3a Nathan Loch out at second 2b to ss3a Gannon Decker advanced to third.,47,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,5,top,Michael Sabella walked (3-0 BBBB)3a Jack Smale advanced to second.,48,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,5,top,Andres Cruz struck out looking (3-2 BBKFBFF).,49,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,5,bot,Devin Kreger singled to left field (0-2 KF).,50,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,5,bot,Devin Kreger Failed pickoff attempt.,51,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,5,bot,John Teehan flied out to rf (0-1).,52,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,5,bot,Devin Kreger Failed pickoff attempt.,53,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,5,bot,Devin Kreger Failed pickoff attempt.,54,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,5,bot,Devin Kreger Failed pickoff attempt.,55,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,5,bot,Joey Santora singled to left field (2-2 KBB)3a Devin Kreger advanced to second.,56,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,5,bot,Dylan Mennillo singled to left field (1-1 B)3a Joey Santora advanced to second3a Devin Kreger advanced to third.,57,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,5,bot,Dylan Mennillo advanced to second3a Joey Santora advanced to third3a Devin Kreger scored on a wild pitch.,58,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,5,bot,Owen Berry struck out swinging (2-2 KKBBS).,59,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,5,bot,Spencer Butz walked (3-2 BBBKFB).,60,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,5,bot,"Kody Phillips hit by pitch, RBI (2-1 BKH)3a Spencer Butz advanced to second3a Dylan Mennillo advanced to third3a Joey Santora scored.",61,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,5,bot,Ethan Grodack to p for Mike Show.,62,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,5,bot,Tyler Satterfield struck out swinging (1-2 KBKF).,63,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,6,top,Jack Veith struck out looking (2-2 BKBKK).,64,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,6,top,Matthew Show flied out to cf (1-2 KBK).,65,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,6,top,Gavin Lacoe flied out to rf (1-2 BK).,66,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,6,bot,Kenny Palmieri struck out swinging (1-2 BFSS).,67,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,6,bot,Devin Kreger doubled to center field (0-1).,68,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,6,bot,John Teehan grounded out to 1b unassisted (0-1)3a Devin Kreger advanced to third.,69,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,6,bot,Joey Santora struck out swinging (1-2 KBFS).,70,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,7,top,Evan Melberger pinch hit for Gannon Decker.,71,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,7,top,Evan Melberger struck out swinging (0-2 KKS).,72,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,7,top,Jacob Cambria doubled to left field (1-1 B).,73,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,7,top,Jacob Cambria advanced to third on a wild pitch.,74,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,7,top,Nathan Loch struck out swinging (3-2 BSSBFFB).,75,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,7,top,"Jack Smale doubled to left field, RBI (2-2 BKB)3a Jacob Cambria scored.",76,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,7,top,Jack Smale advanced to third on a wild pitch.,77,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,7,top,"Michael Sabella doubled to center field, RBI (2-2 KKFBFB)3a Jack Smale scored.",78,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,7,top,Andres Cruz walked (3-1 BSBBB).,79,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,7,top,Tyler Uram pinch hit for Jack Veith.,80,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,7,top,Parker Tarnoci to p for Landon Sexton.,81,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,7,top,Tyler Uram walked (3-1 BBKBB)3a Andres Cruz advanced to second3a Michael Sabella advanced to third.,82,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,7,top,Matthew Show grounded out to p.,83,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,7,bot,Evan Melberger to cf.,84,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,7,bot,Dylan Mennillo singled to left field (0-2 KK).,85,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,7,bot,Dylan Mennillo Failed pickoff attempt.,86,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,7,bot,Owen Berry hit by pitch (1-0 H)3a Dylan Mennillo advanced to second.,87,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,7,bot,Owen Berry advanced to second3a Dylan Mennillo advanced to third on the throw.,88,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,7,bot,Spencer Butz struck out swinging (0-2 FKS).,89,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,7,bot,"Kody Phillips singled to right field, 2 RBI3a Owen Berry scored3a Dylan Mennillo scored.",90,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,7,bot,Matthew Kendall pinch ran for Kody Phillips.,91,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,7,bot,Tyler Satterfield struck out swinging (2-2 BBKSS)3a Matthew Kendall out at second c to ss.,92,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,8,top,Matthew Kendall to lf.,93,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,8,top,Gavin Lacoe doubled to center field.,94,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,8,top,"Evan Melberger grounded out to p, SAC, bunt (0-1)3a Gavin Lacoe advanced to third.",95,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,8,top,Jacob Cambria struck out swinging.,96,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,8,top,Nathan Loch struck out looking (3-2 BBBKFK).,97,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,8,bot,Kenny Palmieri singled to center field.,98,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,8,bot,Devin Kreger singled to left field3a Kenny Palmieri advanced to second.,99,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,8,bot,John Teehan flied out to cf (1-1 B).,100,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,8,bot,"Devin Kreger scored, unearned3a Kenny Palmieri advanced to third on a throwing error by c, Kenny Palmieri, unearned.",101,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,8,bot,"Devin Kreger scored, unearned3a Kenny Palmieri advanced to third on a throwing error by c, Kenny Palmieri, unearned.",102,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,8,bot,Joey Santora struck out swinging (2-2 BBKSS).,103,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,8,bot,Dylan Mennillo struck out looking (2-2 BBKSF).,104,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,9,top,Hayden Fravel to p for Parker Tarnoci.,105,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,9,top,Jack Smale walked (3-1 BKBBB).,106,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,9,top,Michael Sabella struck out swinging (2-2 KKBFBF).,107,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,9,top,Andres Cruz singled to left field (2-1 BB)3a Jack Smale advanced to second.,108,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,9,top,Tyler Uram struck out looking (3-2 SBKBBF).,109,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,9,top,"Matthew Show singled to left field, RBI (3-2 BBBKK)3a Andres Cruz advanced to second3a Jack Smale scored.",110,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,9,top,Gavin Lacoe walked (3-2 BKBKBB)3a Matthew Show advanced to second3a Andres Cruz advanced to third.,111,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,9,top,Richie Rossi pinch ran for Gavin Lacoe.,112,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,9,top,Mark Nazar pinch hit for Evan Melberger.,113,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,9,top,"Mark Nazar hit by pitch, RBI (2-1 BKH)3a Richie Rossi advanced to second3a Matthew Show advanced to third3a Andres Cruz scored.",114,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,9,top,Jordy Polanco to p for Hayden Fravel.,115,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,9,top,Luke Kraszewski pinch ran for Mark Nazar.,116,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,9,top,"Jacob Cambria walked, RBI (3-2 BBBKKB)3a Luke Kraszewski advanced to second3a Richie Rossi advanced to third3a Matthew Show scored.",117,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,9,top,Jacob Cambria advanced to second on a wild pitch3a Luke Kraszewski advanced to third on a wild pitch3a Richie Rossi scored on a wild pitch.,118,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615392,9,top,Nathan Loch struck out looking (3-2 BKFBBFF).,119,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,9,bot,Michael Sabella to c.,120,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,9,bot,Ryan Campbell to lf for Andres Cruz.,121,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,9,bot,PJ Stonsby to 1b for Tyler Uram.,122,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,9,bot,Richie Rossi to dh.,123,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,9,bot,Brian McDermott to 2b for Luke Kraszewski.,124,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,9,bot,Jacob Cambria to cf.,125,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,9,bot,Owen Berry flied out to cf (0-1).,126,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,9,bot,Spencer Butz popped up to lf (0-1).,127,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6498238,615392,Wilkes Colonels,615246,Lebanon Valley Flying Dutchmen,615246,9,bot,Matthew Kendall popped up to 2b (1-2 KKBF).,128,2026-03-04 11:00:00-05:00,"Fort Pierc, FL",82,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,1,top,Dominick Viggiano struck out (0-0).,1,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,1,top,Harry Leipold struck out (0-0).,2,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,1,top,Alex Bardi singled (0-0).,3,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,1,top,Owen Weber fouled out to 1b (0-0).,4,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,1,bot,Jackson Frey grounded out to 2b (0-0).,5,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,1,bot,Mario Cubello struck out (0-0).,6,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,1,bot,Jack Griffin walked (0-0).,7,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,1,bot,Jack Griffin advanced to second on a wild pitch.,8,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,1,bot,Brendan Bucello hit by pitch (0-0).,9,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,1,bot,"Jordan Perry doubled, 2 RBI (0-0)3a Brendan Bucello scored3a Jack Griffin scored.",10,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,1,bot,"Scott Sleurs singled, RBI (0-0)3a Jordan Perry scored.",11,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,1,bot,Anthony Shortino walked (0-0)3a Scott Sleurs advanced to second.,12,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,1,bot,Jacob Penafeather walked (0-0)3a Anthony Shortino advanced to second3a Scott Sleurs advanced to third.,13,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,1,bot,Noah Pohrte struck out (0-0).,14,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,2,top,David Granucci struck out (0-0).,15,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,2,top,Guytano Kiesel struck out (0-0).,16,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,2,top,Chris Picarella walked (0-0).,17,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,2,top,Joey Goodman hit by pitch (0-0)3a Chris Picarella advanced to second.,18,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,2,top,"Randy Ventura singled, RBI (0-0)3a Joey Goodman advanced to second3a Chris Picarella scored.",19,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,2,top,Dominick Viggiano hit by pitch (0-0)3a Randy Ventura advanced to second3a Joey Goodman advanced to third.,20,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,2,top,Harry Leipold struck out (0-0).,21,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,2,bot,Colin Horowitz to p for Sean Mylan.,22,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,2,bot,Jackson Frey tripled (0-0).,23,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,2,bot,"Mario Cubello singled, RBI (0-0)3a Jackson Frey scored.",24,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,2,bot,Mario Cubello Failed pickoff attempt.,25,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,2,bot,Mario Cubello stole second.,26,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,2,bot,Mario Cubello stole third.,27,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,2,bot,Jack Griffin walked (0-0).,28,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,2,bot,Jack Griffin Failed pickoff attempt.,29,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,2,bot,Brendan Bucello struck out (0-0).,30,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,2,bot,"Jordan Perry singled, RBI (0-0)3a Jack Griffin advanced to second3a Mario Cubello scored.",31,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,2,bot,Scott Sleurs lined out to lf (0-0).,32,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,2,bot,Anthony Shortino walked (0-0)3a Jordan Perry advanced to second3a Jack Griffin advanced to third.,33,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,2,bot,"Jacob Penafeather doubled, 2 RBI (0-0)3a Anthony Shortino advanced to third3a Jordan Perry scored3a Jack Griffin scored.",34,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,2,bot,"Noah Pohrte doubled, 2 RBI (0-0)3a Jacob Penafeather scored3a Anthony Shortino scored.",35,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,2,bot,"Jackson Frey singled, RBI (0-0)3a Noah Pohrte scored.",36,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,2,bot,Jackson Frey Failed pickoff attempt.,37,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,2,bot,Mario Cubello grounded out to 3b (0-0).,38,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,3,top,Alex Bardi fouled out to 1b (0-0).,39,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,3,top,Owen Weber flied out to cf (0-0).,40,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,3,top,David Granucci singled (0-0).,41,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,3,top,"Guytano Kiesel doubled, RBI (0-0)3a David Granucci scored.",42,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,3,top,Chris Picarella struck out (0-0).,43,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,3,bot,Andrew Cavagnaro to p for Colin Horowitz.,44,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,3,bot,Jack Griffin singled (0-0).,45,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,3,bot,Brendan Bucello reached first on an error by 3b (0-0)3a Jack Griffin advanced to second.,46,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,3,bot,Jordan Perry flied out to cf (0-0).,47,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,3,bot,Scott Sleurs flied out to cf (0-0).,48,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,3,bot,"Anthony Shortino singled, RBI (0-0)3a Brendan Bucello advanced to third3a Jack Griffin scored, unearned.",49,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,3,bot,Jacob Penafeather flied out to rf (0-0).,50,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,4,top,Joey Goodman grounded out to ss (0-0).,51,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,4,top,Randy Ventura grounded out to 3b (0-0).,52,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,4,top,Dominick Viggiano hit by pitch (0-0).,53,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,4,top,Dominick Viggiano stole second.,54,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,4,top,Harry Leipold popped up to ss (0-0).,55,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,4,bot,Noah Pohrte popped up to rf (0-0).,56,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,4,bot,Jackson Frey hit by pitch (0-0).,57,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,4,bot,Jackson Frey Failed pickoff attempt.,58,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,4,bot,Mario Cubello lined out to cf (0-0).,59,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,4,bot,Jack Griffin singled (0-0)3a Jackson Frey advanced to third.,60,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,4,bot,Brendan Bucello struck out (0-0).,61,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,5,top,Ethan Fulton to p for Sean Cleary.,62,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,5,top,Alex Bardi singled (0-0).,63,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,5,top,Alex Bardi advanced to second on a wild pitch.,64,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,5,top,Owen Weber walked (0-0).,65,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,5,top,Alex Bardi stole third.,66,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,5,top,David Granucci struck out (0-0).,67,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,5,top,Guytano Kiesel walked (0-0)3a Owen Weber advanced to second.,68,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,5,top,Chris Picarella popped up to 2b (0-0).,69,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,5,top,"Joey Goodman walked, RBI (0-0)3a Guytano Kiesel advanced to second3a Owen Weber advanced to third3a Alex Bardi scored.",70,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,5,top,"Joey Goodman advanced to third on an error by p3a Guytano Kiesel scored on the throw, unearned3a Owen Weber scored on the throw, unearned.",71,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,5,top,Randy Ventura grounded out to ss (0-0).,72,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,5,bot,Jordan Perry popped up to cf (0-0).,73,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,5,bot,Scott Sleurs hit by pitch (0-0).,74,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,5,bot,Scott Sleurs Failed pickoff attempt.,75,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,5,bot,Anthony Shortino reached on a fielder's choice (0-0)3a Scott Sleurs out at second ss to 2b.,76,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,5,bot,Jacob Penafeather grounded out to p (0-0).,77,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,6,top,Michael Bowler to p for Ethan Fulton.,78,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,6,top,Dominick Viggiano hit by pitch (0-0).,79,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,6,top,Dominick Viggiano advanced to second on a passed ball.,80,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,6,top,Harry Leipold struck out (0-0).,81,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,6,top,Alex Bardi grounded out to ss (0-0).,82,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,6,top,"Owen Weber singled, RBI (0-0)3a Dominick Viggiano scored.",83,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,6,top,David Granucci struck out (0-0).,84,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,6,bot,Jackson Tulchoski to p for Andrew Cavagnaro.,85,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,6,bot,Noah Pohrte struck out (0-0).,86,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,6,bot,Jackson Frey grounded out to 1b unassisted (0-0).,87,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,6,bot,Mario Cubello walked (0-0).,88,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,6,bot,Mario Cubello stole second.,89,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,6,bot,Jack Griffin popped up to ss (0-0).,90,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,7,top,Guytano Kiesel struck out (0-0).,91,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,7,top,Chris Picarella singled (0-0).,92,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,7,top,Joey Goodman lined out to rf (0-0).,93,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,7,top,Randy Ventura reached on a fielder's choice (0-0)3a Chris Picarella out at second 3b to 2b.,94,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,7,bot,Brendan Bucello grounded out to 2b (0-0).,95,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,7,bot,Jordan Perry singled (0-0).,96,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,7,bot,Scott Sleurs struck out (0-0)3a Jordan Perry stole second.,97,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,7,bot,Jordan Perry stole third.,98,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,7,bot,Anthony Shortino struck out (0-0).,99,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,8,top,Dominick Viggiano lined out to rf (0-0).,100,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,8,top,Harry Leipold popped up to 1b (0-0).,101,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,8,top,Alex Bardi hit by pitch (0-0).,102,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,8,top,Owen Weber lined out to rf (0-0).,103,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,8,bot,Francis Montalvo to p for Jackson Tulchoski.,104,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,8,bot,Jacob Penafeather doubled (0-0).,105,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,8,bot,Noah Pohrte singled (0-0)3a Jacob Penafeather advanced to third.,106,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,8,bot,Jackson Frey walked (0-0)3a Noah Pohrte advanced to second.,107,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,8,bot,"Mario Cubello walked, RBI (0-0)3a Jackson Frey advanced to second3a Noah Pohrte advanced to third3a Jacob Penafeather scored.",108,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,8,bot,"Jack Griffin reached on a fielder's choice (0-0)3a Mario Cubello advanced to third3a Jackson Frey advanced to third, scored on a throwing error by c, unearned3a Noah Pohrte out at home 3b to c.",109,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,8,bot,Mario Cubello scored on a passed ball.,110,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,8,bot,Brendan Bucello walked (0-0)3a Jack Griffin advanced to second.,111,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,8,bot,Jack Griffin advanced to third on a passed ball.,112,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,8,bot,Gavin McIntyre to p for Francis Montalvo.,113,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,8,bot,Jordan Perry lined out to 1b (0-0).,114,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615337,8,bot,Scott Sleurs out at first ss to 2b (0-0).,115,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,9,top,Dylan Payano pinch hit for David Granucci.,116,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,9,top,Dylan Payano walked (0-0).,117,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,9,top,John Carollo pinch hit for Guytano Kiesel.,118,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,9,top,John Carollo singled (0-0)3a Dylan Payano advanced to second.,119,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,9,top,"Chris Picarella doubled, 2 RBI (0-0)3a John Carollo scored3a Dylan Payano scored.",120,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,9,top,Nathan Weber to p for Michael Bowler.,121,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,9,top,Joey Goodman struck out (0-0).,122,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,9,top,Randy Ventura struck out (0-0).,123,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,9,top,Dominick Viggiano hit by pitch (0-0).,124,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6501320,615297,SUNY Maritime Privateers,615337,St. John Fisher Cardinals,615297,9,top,Harry Leipold popped up to 2b (0-0).,125,2026-03-04 11:00:00-05:00,"Dugan Yard (Rochester, NY)",146,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,1,top,Baumgardner flies out to right fielder Klotz,1,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,1,top,DeRichie hits a ground ball and reaches on an error by third baseman Shuey,2,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,1,top,Seibert flies out to left fielder Pupek,3,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,1,top,"Kelly strikes out swinging, Shoop pitching",4,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,1,bot,Klotz grounds out to shortstop Baumgardner,5,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,1,bot,Licklider grounds out to third baseman Seibert,6,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,1,bot,Cieless grounds out to pitcher Hefner,7,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,2,top,Reyes flies out to right fielder Klotz,8,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,2,top,"Crills walks, Shoop pitching",9,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,2,top,Crills steals 2nd,10,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,2,top,"Thalassinos strikes out swinging, Shoop pitching",11,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,2,top,Crills advances to 3rd on passed ball,12,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,2,top,"Brancato walks, Shoop pitching",13,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,2,top,"Grove strikes out swinging, Shoop pitching",14,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,2,bot,Ruggiero singles on a line drive to right fielder Brancato,15,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,2,bot,Zimmerman singles on a hard ground ball to left fielder Grove,16,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,2,bot,Pupek singles on a line drive to left fielder Grove,17,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,2,bot,Guerrero out on infield fly to first baseman Thalassinos,18,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,2,bot,Shoop singles on a fly ball to center fielder Reyes. Ruggiero scores,19,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,2,bot,Shuey out on infield fly to second baseman DeRichie,20,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,2,bot,Lineup changed: Shoop in at designated hitter,21,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,2,bot,"Klotz singles on a ground ball, third baseman Seibert to shortstop Baumgardner. Zimmerman scores",22,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,3,top,Lineup changed: Shoop in at pitcher,23,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,3,top,Baumgardner flies out to left fielder Pupek,24,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,3,top,DeRichie flies out to right fielder Klotz,25,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,3,top,Seibert flies out to right fielder Klotz,26,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,3,bot,Licklider flies out to right fielder Brancato,27,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,3,bot,"Cieless is hit by pitch, Hefner pitching",28,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,3,bot,Cieless steals 2nd,29,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,3,bot,Ruggiero grounds out to shortstop Baumgardner,30,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,3,bot,Zimmerman pops out to second baseman DeRichie,31,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,4,top,Kelly grounds out to third baseman Shuey,32,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,4,top,Reyes doubles on a fly ball to left fielder Pupek,33,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,4,top,Crills grounds out to third baseman Shuey,34,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,4,top,Thalassinos flies out to left fielder Pupek,35,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,4,bot,Lineup changed: Shoop in at designated hitter,36,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,4,bot,Lineup changed: Siwik in at pitcher,37,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,4,bot,Lineup changed: Shoop in as designated hitter for Siwik,38,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,4,bot,"Pupek strikes out looking, Hefner pitching",39,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,4,bot,Guerrero grounds out to third baseman Seibert,40,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,4,bot,Shoop flies out to center fielder Reyes,41,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,5,top,Brancato hits a ground ball and reaches on an error by third baseman Shuey,42,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,5,top,Grove singles on a line drive to left fielder Pupek,43,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,5,top,Baumgardner sacrifices to pitcher Siwik,44,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,5,top,DeRichie doubles on a line drive to left fielder Pupek. Brancato scores. Grove scores,45,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,5,top,Seibert flies out to center fielder Guerrero,46,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,5,top,Kelly grounds out to third baseman Shuey,47,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,5,bot,Shuey flies out to left fielder Grove,48,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,5,bot,Klotz flies out to right fielder Brancato,49,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,5,bot,Licklider singles on a fly ball to center fielder Reyes,50,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,5,bot,Cieless singles on a ground ball to left fielder Grove,51,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,5,bot,Ruggiero flies out to center fielder Reyes,52,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,6,top,Reyes flies out to center fielder Guerrero,53,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,6,top,Lineup changed: Pallay in for third baseman Shuey,54,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,6,top,"Crills walks, Siwik pitching",55,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,6,top,Crills advances to 2nd on wild pitch,56,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,6,top,Thalassinos grounds out to shortstop Cieless,57,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,6,top,Brancato grounds out to third baseman Pallay,58,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,6,bot,Lineup changed: Barner in for pitcher Siwik,59,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,6,bot,Lineup changed: Turka in for pitcher Hefner,60,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,6,bot,Zimmerman flies out to center fielder Reyes,61,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,6,bot,"Pupek strikes out swinging, Turka pitching",62,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,6,bot,Guerrero singles on a fly ball to right fielder Brancato,63,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,6,bot,Shoop singles on a pop fly to center fielder Reyes,64,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,6,bot,Pallay singles on a line drive to right fielder Brancato. Guerrero scores,65,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,6,bot,Pallay advances to 2nd on passed ball,66,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,6,bot,"Klotz strikes out swinging, Turka pitching",67,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,7,top,Grove flies out to center fielder Guerrero,68,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,7,top,"Baumgardner walks, Barner pitching",69,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,7,top,Baumgardner steals 2nd,70,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,7,top,DeRichie lines out to shortstop Cieless. Baumgardner scores,71,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,7,top,Baumgardner advances to 3rd on passed ball,72,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,615500,7,top,Seibert flies out to center fielder Guerrero,73,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,7,bot,Licklider singles on a hard ground ball to right fielder Brancato,74,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,7,bot,Cieless sacrifices to pitcher Turka,75,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6526449,615500,Penn St.-Berks Nittany Lions,-1,Penn St.-Schuylkill,-1,7,bot,Ruggiero singles on a line drive to center fielder Reyes. Licklider scores,76,2026-03-04 11:00:00-05:00,", ",57,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,1,top,"D. Brooks reached first on a throwing error by p, bunt.",1,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,1,top,D. Brooks stole second.,2,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,1,top,A. Rakotz walked (3-1 BKBBB).,3,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,1,top,A. Rakotz advanced to second on a wild pitch: D. Brooks advanced to third on a wild pitch.,4,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,1,top,N. Ciesielka walked (3-1 BBBKB).,5,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,1,top,J. Boccio popped up to 1b (0-1).,6,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,1,top,"A. Brown walked, RBI (3-1 BBKBB): N. Ciesielka advanced to second: A. Rakotz advanced to third: D. Brooks scored, unearned.",7,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,1,top,C. Shaub popped up to p (0-2 SSF).,8,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,1,top,"N. Ciesielka advanced to third: A. Rakotz scored on a throwing error by c, failed pickoff attempt.",9,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,1,top,"N. Ciesielka advanced to third: A. Rakotz scored on a throwing error by c, failed pickoff attempt.",10,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,1,top,B. Decker struck out swinging (3-2 BBBKKS).,11,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,1,bot,J. Robinson flied out to cf (1-2 KB).,12,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,1,bot,Q. Feng flied out to cf (3-2 BBFB).,13,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,1,bot,C. Tortorici walked (3-1 BBBKB).,14,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,1,bot,V. Lucyszyn popped up to 2b (0-1).,15,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,2,top,B. Foltz walked (3-1 BKBBB).,16,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,2,top,C. Rullo singled to third base (0-2 FF): B. Foltz advanced to second.,17,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,2,top,"B. Foltz picked off, out at second p to 2b.",18,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,2,top,D. Brooks grounded into double play 2b to 1b (1-2 FBF): C. Rullo out on the play.,19,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,2,bot,J. Nelson struck out swinging (1-2 SFBF).,20,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,2,bot,N. Hall walked (3-0 BBBB).,21,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,2,bot,M. Riddell grounded out to p (0-1): N. Hall advanced to second.,22,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,2,bot,T. Kenney grounded out to 2b (1-1 B).,23,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,3,top,A. Rakotz grounded out to 1b unassisted (0-2 K).,24,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,3,top,N. Ciesielka walked (3-1 BBBKB).,25,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,3,top,J. Boccio walked (3-1 KBBBB): N. Ciesielka advanced to second.,26,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,3,top,J. Boccio advanced to second: N. Ciesielka advanced to third on a wild pitch.,27,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,3,top,J. Boccio advanced to third: N. Ciesielka scored on a wild pitch.,28,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,3,top,A. Brown walked (3-0 BBBB).,29,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,3,top,DeCicco III to p for H. Zhang.,30,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,3,top,"C. Shaub grounded out to 1b, bunt unassisted, SAC, RBI (0-1): A. Brown advanced to second: J. Boccio scored.",31,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,3,top,A. Brown advanced to third on a balk.,32,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,3,top,B. Decker walked (3-1 BBBKB).,33,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,3,top,B. Decker advanced to second on a balk: A. Brown scored on a balk.,34,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,3,top,B. Foltz hit by pitch.,35,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,3,top,C. Rullo reached on a fielder's choice (2-2 BKB): B. Foltz out at second ss to 2b.,36,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,3,bot,D. Ebersole singled to left field (0-2 KK).,37,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,3,bot,J. Robinson struck out swinging (2-2 BBKSS).,38,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,3,bot,Q. Feng struck out swinging (2-2 BKFBS).,39,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,3,bot,C. Tortorici singled to third base (2-1 BB): D. Ebersole advanced to second.,40,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,3,bot,V. Lucyszyn hit by pitch (1-1 FH): C. Tortorici advanced to second: D. Ebersole advanced to third.,41,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,3,bot,J. Nelson struck out looking (2-2 KBBFK).,42,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,4,top,D. Brooks hit by pitch (3-1 BKBH).,43,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,4,top,D. Brooks stole second.,44,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,4,top,"A. Rakotz singled to right field, RBI (2-1 BB): D. Brooks scored.",45,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,4,top,A. Rakotz stole second.,46,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,4,top,N. Ciesielka was intentionally walked (3-0 BBBB).,47,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,4,top,N. Tyler to p for DeCicco III.,48,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,4,top,J. Boccio hit by pitch (1-0 H): N. Ciesielka advanced to second: A. Rakotz advanced to third.,49,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,4,top,A. Brown reached on a fielder's choice (1-2 BKS): J. Boccio advanced to second: N. Ciesielka advanced to third: A. Rakotz out at home ss to c.,50,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,4,top,"C. Shaub reached on a fielder's choice, advanced to second on an error by 2b (0-2 F): A. Brown advanced to third: J. Boccio scored: N. Ciesielka scored.",51,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,4,top,B. Decker struck out swinging (1-2 BKFS).,52,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,4,top,B. Foltz grounded out to ss (1-2 SB).,53,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,4,bot,N. Hall walked (3-1 SBBBB).,54,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,4,bot,N. Hall stole second.,55,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,4,bot,M. Riddell struck out swinging (1-2 FBFS).,56,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,4,bot,"N. Hall out at third c to 3b, caught stealing.",57,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,4,bot,T. Kenney struck out swinging (2-2 KKBBS).,58,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,5,top,C. Rullo singled to third base (0-2 KF).,59,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,5,top,"D. Brooks singled to pitcher, bunt (1-2 FB): C. Rullo advanced to second.",60,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,5,top,A. Rakotz walked (3-2 BKBFBFFFB): D. Brooks advanced to second: C. Rullo advanced to third.,61,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,5,top,N. Ciesielka reached on a fielder's choice (1-2 BF): A. Rakotz advanced to second: D. Brooks advanced to third: C. Rullo out at home 2b to c.,62,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,5,top,"J. Boccio hit by pitch, RBI (1-1 KH): N. Ciesielka advanced to second: A. Rakotz advanced to third: D. Brooks scored.",63,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,5,top,"A. Brown reached on a fielder's choice to third base, advanced to second (1-2 KFBF): J. Boccio advanced to second on an error by p, scored: N. Ciesielka scored, unearned: A. Rakotz scored on a throwing error by 3b, unearned.",64,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,5,top,C. Shaub grounded out to 3b (1-2 BF).,65,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,5,top,B. Decker struck out swinging (1-2 BSSS).,66,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,5,bot,D. Ebersole struck out looking (0-2 KKK).,67,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,5,bot,J. Robinson popped up to 2b.,68,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,5,bot,Q. Feng flied out to cf (1-1 B).,69,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,6,top,T. Waldridge to p for N. Tyler.,70,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,6,top,B. Foltz hit by pitch (2-1 BKH).,71,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,6,top,C. Rullo lined into double play 1b unassisted (1-1 B): B. Foltz out on the play.,72,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,6,top,D. Brooks walked (3-0 BBBB).,73,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,6,top,D. Brooks advanced to second on a wild pitch.,74,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,6,top,A. Rakotz hit by pitch (3-2 BKBBKH).,75,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,6,top,"N. Ciesielka reached first on an error by 1b, assist by 2b, advanced to second (0-2 K): A. Rakotz advanced to third: D. Brooks scored, unearned.",76,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,6,top,"J. Boccio reached first on a throwing error by 3b (3-2 BFBB): N. Ciesielka advanced to third: A. Rakotz scored, unearned.",77,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,6,top,T. Kilmer pinch ran for J. Boccio.,78,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,6,top,A. Brown grounded out to 2b (3-2 BBKBK).,79,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,6,bot,T. Kilmer to 3b.,80,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,6,bot,T. Kilmer to 2b.,81,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,6,bot,B. Decker to 3b.,82,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,6,bot,K. Dailey to p for A. Gambol.,83,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,6,bot,C. Tortorici tripled down the lf line.,84,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,6,bot,"V. Lucyszyn doubled to left field, RBI (1-1 B): C. Tortorici scored.",85,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,6,bot,J. Nelson hit by pitch.,86,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,6,bot,N. Hall flied out to cf (0-2 KP).,87,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,6,bot,M. Riddell struck out swinging (2-2 SBBFS).,88,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,6,bot,T. Kenney lined out to cf (2-2 KBB).,89,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,7,top,Q. Feng to p for T. Waldridge.,90,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,7,top,C. Shaub struck out swinging (3-2 BBBKFS).,91,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,7,top,B. Decker struck out looking (2-2 BBKFK).,92,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615438,7,top,B. Foltz struck out swinging (1-2 BKSS).,93,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,7,bot,N. Murdock to p for K. Dailey.,94,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,7,bot,D. Ebersole grounded out to 3b (0-2 K).,95,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,7,bot,J. Robinson hit by pitch (1-0 H).,96,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,7,bot,Q. Feng struck out looking (2-2 BFFBK).,97,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,7,bot,J. Robinson stole second.,98,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,7,bot,"C. Tortorici singled to center field, RBI (3-2 BBBKS): J. Robinson scored.",99,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6541533,615438,Neumann Knights,615131,Houghton Highlanders,615131,7,bot,V. Lucyszyn grounded out to 3b (2-2 BBFK).,100,2026-03-04 11:00:00-05:00,"Houghton Baseball Stadium (Houghton, NY)",83,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,1,top,Quincy Esannason reached first on a fielding error by ss (2-2 BBKK).,1,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,1,top,"Mike Pulcini struck out swinging (3-2 BBBKKS)3a Quincy Esannason out at second c to 2b, caught stealing.",2,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,1,top,Timmy Hitchcock struck out swinging (1-2 KFBS).,3,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,1,bot,Charlie Colson walked (3-2 KKBBBFB).,4,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,1,bot,Kielan LaMarr popped up to 2b (2-2 BKB).,5,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,1,bot,Charlie Colson stole second.,6,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,1,bot,Bryce Kyees walked (3-0 BBBB).,7,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,1,bot,Charlie Colson stole third.,8,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,1,bot,Robby Harrison struck out swinging (2-2 BSBFS).,9,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,1,bot,Ty Clifton flied out to lf (0-1).,10,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,2,top,Bobby Hansen singled to left field (1-2 KB).,11,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,2,top,Jack Zabarsky grounded into double play 2b to ss to 1b (1-2 BK)3a Bobby Hansen out on the play.,12,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,2,top,Harold Ivery III grounded out to 2b (2-1 BB).,13,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,2,bot,Gio Mastrorosa reached first on a fielding error by p (2-2 BSBF).,14,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,2,bot,Hutch Crociata flied out to cf (0-2 F).,15,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,2,bot,Grayson Gulley lined out to rf (0-1).,16,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,2,bot,M. Andryszczyk singled through the left side (2-2 BBKS)3a Gio Mastrorosa advanced to second.,17,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,2,bot,"Charlie Colson popped up to 1b, bunt (2-2 KBB).",18,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,3,top,Will Woodring grounded out to ss (0-2 K).,19,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,3,top,Logan Nelson walked (3-2 KBFFBBB).,20,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,3,top,Jake Chapman grounded into double play ss to 1b (0-2 FFF)3a Logan Nelson out on the play.,21,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,3,bot,Kielan LaMarr singled to left center (2-2 FBKB).,22,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,3,bot,Bryce Kyees grounded out to p (0-1)3a Kielan LaMarr advanced to second.,23,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,3,bot,Robby Harrison struck out looking (3-2 BKBSBK).,24,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,3,bot,Ty Clifton flied out to lf (1-1 B).,25,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,4,top,Quincy Esannason hit by pitch (2-1 KBH).,26,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,4,top,Mike Pulcini walked (3-0 BBBB)3a Quincy Esannason advanced to second.,27,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,4,top,"Timmy Hitchcock singled, bunt (0-1)3a Mike Pulcini advanced to second3a Quincy Esannason advanced to third.",28,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,4,top,"Bobby Hansen reached on a fielder's choice, RBI (0-1)3a Timmy Hitchcock out at second p to ss to 2b3a Mike Pulcini advanced to third3a Quincy Esannason scored.",29,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,4,top,"Jack Zabarsky flied out to cf, SAC, RBI (1-1 B)3a Mike Pulcini scored.",30,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,4,top,Harold Ivery III walked (3-1 BBBKB)3a Bobby Hansen advanced to second.,31,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,4,top,Will Woodring walked (3-0 BBBB)3a Harold Ivery III advanced to second3a Bobby Hansen advanced to third.,32,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,4,top,"Logan Nelson singled to left center, 2 RBI (0-2 KK)3a Will Woodring advanced to third3a Harold Ivery III scored3a Bobby Hansen scored.",33,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,4,top,Logan Nelson advanced to second on a wild pitch.,34,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,4,top,"Jake Chapman singled to shortstop, RBI (2-2 KSFBBF)3a Logan Nelson advanced to third3a Will Woodring scored.",35,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,4,top,Quincy Esannason reached on a fielder's choice (1-2 KBKF)3a Jake Chapman out at second ss to 2b.,36,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,4,bot,Gio Mastrorosa singled to left field (0-1).,37,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,4,bot,Gio Mastrorosa advanced to second on a wild pitch.,38,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,4,bot,Hutch Crociata singled to center field (2-2 KBB)3a Gio Mastrorosa advanced to third.,39,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,4,bot,Grayson Gulley grounded into double play 3b to 2b to 1b (1-1 B)3a Hutch Crociata out on the play.,40,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,4,bot,M. Andryszczyk grounded out to 3b (1-2 FKFB).,41,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,5,top,Mike Pulcini lined out to lf (3-2 BBBKF).,42,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,5,top,Timmy Hitchcock struck out looking (3-2 BKBBFK).,43,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,5,top,"Bobby Hansen grounded out to p, bunt (0-2 F).",44,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,5,bot,Charlie Colson singled up the middle (0-1).,45,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,5,bot,Kielan LaMarr flied out to ss (1-1 B).,46,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,5,bot,Charlie Colson stole second.,47,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,5,bot,Bryce Kyees walked (3-2 BFBBKB).,48,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,5,bot,"Robby Harrison doubled down the lf line, RBI (1-2 BSK)3a Bryce Kyees advanced to third3a Charlie Colson scored.",49,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,5,bot,Ty Clifton popped up to 3b (1-2 BKF).,50,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,5,bot,"Gio Mastrorosa reached first on a fielding error by 3b (2-2 KBBFF)3a Robby Harrison advanced to third3a Bryce Kyees scored, unearned.",51,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,5,bot,Hutch Crociata struck out swinging (2-2 BFBFF).,52,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,6,top,Jack Zabarsky singled to second base (0-2 K).,53,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,6,top,Harold Ivery III walked (3-2 BBKBFB)3a Jack Zabarsky advanced to second.,54,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,6,top,Tyler Bebout to p for Noah Bromberg.,55,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,6,top,"Will Woodring singled to third base, bunt (0-2 K)3a Harold Ivery III advanced to second3a Jack Zabarsky advanced to third.",56,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,6,top,"Logan Nelson singled to left center, RBI (0-2 F)3a Will Woodring advanced to second3a Harold Ivery III advanced to third3a Jack Zabarsky scored.",57,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,6,top,"Jake Chapman hit by pitch, RBI (1-0 H)3a Logan Nelson advanced to second3a Will Woodring advanced to third3a Harold Ivery III scored.",58,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,6,top,"Quincy Esannason reached on a fielder's choice, RBI (0-2 K)3a Jake Chapman out at second ss to 2b3a Logan Nelson advanced to third3a Will Woodring scored.",59,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,6,top,Quincy Esannason stole second.,60,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,6,top,"Mike Pulcini struck out swinging, out at first c to 1b (1-2 KSBS).",61,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,6,top,Timmy Hitchcock grounded out p to ss to 1b (2-1 BB).,62,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,6,bot,Donovan Hughes to p for Tyler Weil-Kaspar.,63,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,6,bot,Grayson Gulley grounded out to 3b (3-2 BBSB).,64,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,6,bot,M. Andryszczyk doubled down the lf line (1-1 B).,65,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,6,bot,Charlie Colson walked (3-0 BBBB).,66,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,6,bot,Kielan LaMarr struck out swinging (1-2 SSBS)3a Charlie Colson stole second3a M. Andryszczyk stole third.,67,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,6,bot,Bryce Kyees walked (3-1 KBBBB).,68,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,6,bot,Robby Harrison struck out swinging (3-2 BFFBBS).,69,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,7,top,Bobby Hansen lined out to 2b (1-2 BKKF).,70,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,7,top,Jack Zabarsky walked (3-1 BFBBB).,71,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,7,top,Harold Ivery III singled to left field (0-2 FK)3a Jack Zabarsky advanced to second.,72,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,7,top,Will Woodring reached on a fielder's choice (3-2 BBKBKF)3a Harold Ivery III out at second ss to 2b3a Jack Zabarsky advanced to third.,73,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,7,top,"Will Woodring out at second c to 2b to 1b to ss, caught stealing3a Jack Zabarsky scored.",74,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,7,bot,Ty Clifton fouled out to 3b (1-1 B).,75,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,7,bot,Gio Mastrorosa walked (3-1 BFBBB).,76,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,7,bot,Hutch Crociata flied out to rf (0-1).,77,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,7,bot,Grayson Gulley struck out looking (1-2 KSBK).,78,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,8,top,Julian McCann to p for Tyler Bebout.,79,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,8,top,Logan Nelson singled through the left side (2-2 KBB).,80,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,8,top,Jake Chapman reached on a fielder's choice (0-1)3a Logan Nelson out at second 1b to ss.,81,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,8,top,"Jake Chapman advanced to second on a throwing error by p, failed pickoff attempt.",82,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,8,top,"Quincy Esannason flied out to cf (0-2 K)3a Jake Chapman out at second ss unassisted, runner left early.",83,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,8,bot,Logan Solomine to p for Donovan Hughes.,84,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,8,bot,M. Andryszczyk grounded out to 2b (2-2 BKB).,85,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,8,bot,Charlie Colson grounded out to 2b (1-2 KBK).,86,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,8,bot,Kielan LaMarr fouled out to 1b (0-2 K).,87,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,9,top,Mike Pulcini doubled to left center (0-2 K).,88,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,9,top,Timmy Hitchcock grounded out to 1b unassisted (0-1)3a Mike Pulcini advanced to third.,89,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,9,top,"Bobby Hansen singled to right field, RBI (1-2 BK)3a Mike Pulcini scored.",90,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,9,top,Joseph Sclama pinch hit for Jack Zabarsky.,91,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,9,top,Joseph Sclama flied out to lf (0-1).,92,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615409,9,top,Harold Ivery III struck out swinging (2-2 SBSBS).,93,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,9,bot,Benjamin Palita to p for Logan Solomine.,94,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,9,bot,Bryce Kyees walked (3-0 BBBB).,95,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,9,bot,Arnulfo Gonzalez pinch hit for Robby Harrison.,96,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,9,bot,Arnulfo Gonzalez struck out swinging (2-2 BBKSS).,97,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,9,bot,Ty Clifton fouled out to 3b (2-2 BBKSF).,98,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,9,bot,Gio Mastrorosa walked (3-0 BBBB)3a Bryce Kyees advanced to second.,99,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,9,bot,Trent Clark pinch hit for Hutch Crociata.,100,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6542665,615409,Alvernia Golden Wolves,615168,Capital Comets,615168,9,bot,Trent Clark struck out swinging (2-2 KBBKS).,101,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,1,top,Trent MacDougall popped up to 3b (1-2 KB).,1,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,1,top,Robert Del Buono walked (3-2 KFBFBBFB).,2,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,1,top,Luke Meehan reached on catcher's interference (1-2 FB)3a Robert Del Buono advanced to second.,3,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,1,top,Matt McSorley singled to center field (0-1)3a Luke Meehan advanced to second3a Robert Del Buono advanced to third.,4,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,1,top,Ryan Alfonso reached on a fielder's choice (0-2 KFF)3a Matt McSorley advanced to second3a Luke Meehan advanced to third3a Robert Del Buono out at home 1b to c.,5,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,1,top,Trevor Harris struck out swinging (1-2 FFBS).,6,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,1,bot,Kaden Bolt hit by pitch (1-2 FKH).,7,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,1,bot,Cj Wheaton fouled out to 3b (0-1).,8,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,1,bot,Kaden Bolt stole second.,9,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,1,bot,"Jordan Barthel doubled to left center, RBI (1-2 SB)3a Kaden Bolt scored.",10,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,1,bot,Connor Stone flied out to cf (0-1).,11,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,1,bot,Xander Canfield grounded out to 2b (2-1 BB).,12,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,David Garrido singled to left field (0-2 K).,13,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,Lane Heuer flied out to rf (1-1 B).,14,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,Thomas Kozlusky walked (3-2 KBFBBFB)3a David Garrido advanced to second.,15,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,Trent MacDougall singled to right center (0-1)3a Thomas Kozlusky advanced to second3a David Garrido advanced to third.,16,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,"Robert Del Buono reached on catcher's interference, RBI (3-2 BBBK)3a Trent MacDougall advanced to second3a Thomas Kozlusky advanced to third3a David Garrido scored, unearned.",17,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,"Luke Meehan singled to right field, advanced to second on the throw, advanced to third, 2 RBI3a Robert Del Buono advanced to third, scored on a throwing error by 1b, unearned3a Trent MacDougall scored, unearned3a Thomas Kozlusky scored.",18,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,"Matt McSorley singled to left field, RBI (0-1)3a Luke Meehan scored.",19,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,Ryan Alfonso out on batter's interference (0-1).,20,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,Trevor Harris walked (3-0 BBBB)3a Matt McSorley advanced to second.,21,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,Nate Lowry to p for Ryan Wiser.,22,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,David Garrido walked (3-1 KBBBB)3a Trevor Harris advanced to second3a Matt McSorley advanced to third.,23,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,"Lane Heuer singled to left field, 2 RBI (1-2 BKF)3a David Garrido advanced to second3a Trevor Harris scored, unearned3a Matt McSorley scored, unearned.",24,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,Lane Heuer advanced to second3a David Garrido advanced to third on a wild pitch.,25,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,"Thomas Kozlusky doubled to right center, 2 RBI (2-1 BB)3a Lane Heuer scored, unearned3a David Garrido scored, unearned.",26,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,"Trent MacDougall doubled down the lf line, RBI (1-2 KB)3a Thomas Kozlusky scored, unearned.",27,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,Robert Del Buono singled to left field (1-1 B)3a Trent MacDougall advanced to third.,28,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,"Luke Meehan singled to right field, RBI (1-1 B)3a Robert Del Buono advanced to third3a Trent MacDougall scored, unearned.",29,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,2,top,Matt McSorley struck out looking (1-2 SKBK).,30,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,2,bot,Sean Deaner singled to center field (3-2 BFBBF).,31,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,2,bot,Bobby Cavalier singled to right field (1-2 BKF)3a Sean Deaner advanced to second.,32,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,2,bot,Jadyn Wagner struck out swinging (3-2 BFBKFB).,33,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,2,bot,Benjamin Intili fouled out to 1b (0-1).,34,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,2,bot,Kaden Bolt popped up to 1b (2-2 SBKBF).,35,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,3,top,Graham Matus to p for Nate Lowry.,36,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,3,top,Ryan Alfonso hit by pitch (2-1 BFH).,37,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,3,top,Trevor Harris struck out looking (2-2 KBKBK).,38,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,3,top,David Garrido hit by pitch (1-0 H)3a Ryan Alfonso advanced to second.,39,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,3,top,Lane Heuer grounded into double play 3b to 2b to 1b (3-2 BBBK)3a David Garrido out on the play.,40,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,3,bot,Cj Wheaton struck out swinging (1-2 BKFS).,41,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,3,bot,Jordan Barthel flied out to cf (2-1 BB).,42,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,3,bot,Connor Stone flied out to cf (2-1 BB).,43,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,4,top,Thomas Kozlusky doubled to left field (2-1 BB).,44,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,4,top,Trent MacDougall walked (3-1 BSBBB).,45,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,4,top,Robert Del Buono walked (3-1 BFBBB)3a Trent MacDougall advanced to second3a Thomas Kozlusky advanced to third.,46,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,4,top,Brennan Goin to p for Graham Matus.,47,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,4,top,"Luke Meehan reached on a fielder's choice (3-2 BBKB)3a Robert Del Buono advanced to third3a Trent MacDougall scored3a Thomas Kozlusky scored on a throwing error by 3b, unearned.",48,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,4,top,"Matt McSorley singled to center field, RBI (0-2 K)3a Luke Meehan advanced to second3a Robert Del Buono scored.",49,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,4,top,"Ryan Alfonso doubled down the lf line, RBI (1-2 FB)3a Matt McSorley advanced to third3a Luke Meehan scored.",50,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,4,top,"Trevor Harris grounded out to 1b unassisted, RBI (1-2 BK)3a Ryan Alfonso advanced to third3a Matt McSorley scored.",51,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,4,top,Ryan Alfonso scored on a wild pitch.,52,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,4,top,David Garrido singled to center field (1-1 B).,53,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,4,top,Lane Heuer struck out swinging (2-2 FBBFS).,54,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,4,top,Thomas Kozlusky flied out to cf (0-2 K).,55,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,4,bot,Xander Canfield grounded out to p unassisted (0-2 KK).,56,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,4,bot,Sean Deaner hit by pitch (1-0 H).,57,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,4,bot,Bobby Cavalier struck out looking (3-2 KBSBBK).,58,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,4,bot,Jadyn Wagner struck out looking (3-2 BKBBKK).,59,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,5,top,Nicholas Dinicola to 1b for Sean Deaner.,60,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,5,top,Brandon Policar to 3b for Xander Canfield.,61,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,5,top,Flynn Carroll pinch hit for Trent MacDougall.,62,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,5,top,Flynn Carroll walked (3-2 BBBKFFFB).,63,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,5,top,Joe Scimone pinch hit for Robert Del Buono.,64,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,5,top,Joe Scimone singled to right field (1-2 BK)3a Flynn Carroll advanced to second.,65,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,5,top,Justin DiCesare pinch hit for Luke Meehan.,66,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,5,top,Justin DiCesare reached on a fielder's choice (0-2 KFF)3a Joe Scimone advanced to second3a Flynn Carroll out at third ss to 3b.,67,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,5,top,AJ Sonsini pinch hit for Matt McSorley.,68,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,5,top,AJ Sonsini struck out swinging (0-2 KSS).,69,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,5,top,Ryan Alfonso struck out swinging (0-2 SFS).,70,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,5,bot,Flynn Carroll to cf.,71,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,5,bot,Joe Scimone to 2b.,72,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,5,bot,Justin DiCesare to 1b.,73,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,5,bot,AJ Sonsini to dh.,74,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,5,bot,Elijah Kiernan to lf for Thomas Kozlusky.,75,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,5,bot,Benjamin Intili walked (3-2 KSFBBBB).,76,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,5,bot,Kaden Bolt fouled out to 3b (0-1).,77,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,5,bot,Darion Rodriguez pinch hit for Cj Wheaton.,78,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,5,bot,Darion Rodriguez struck out swinging (2-2 FBBKS).,79,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,5,bot,Jordan Barthel singled to right field (0-2 K)3a Benjamin Intili advanced to third.,80,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,5,bot,Ryan Price pinch ran for Jordan Barthel.,81,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,5,bot,Connor Stone flied out to rf (2-2 KBBS).,82,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,6,top,Darion Rodriguez to ss.,83,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,6,top,Ryan Price to lf.,84,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,6,top,Alex Dinicola to 2b for Connor Stone.,85,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,6,top,Benjamin Intili to p for Brennan Goin.,86,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,6,top,Amauri Gonzalez pinch hit for Trevor Harris.,87,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,6,top,Amauri Gonzalez flied out to cf (2-2 KBB).,88,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,6,top,David Garrido struck out swinging (1-2 KFBS).,89,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,6,top,Lane Heuer grounded out to ss (3-2 BKBKB).,90,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,6,bot,Amauri Gonzalez to rf.,91,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,6,bot,Brady Maerz to p for Marcelo Llorente.,92,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,6,bot,Brandon Policar singled to center field (2-2 KBB).,93,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,6,bot,Nicholas Dinicola struck out swinging (0-2 KSS).,94,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,6,bot,Gabriel Schultz pinch hit for Bobby Cavalier.,95,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,6,bot,Gabriel Schultz struck out swinging (2-2 KBSBS).,96,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,6,bot,Jadyn Wagner singled to center field (1-1 B)3a Brandon Policar advanced to second.,97,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,6,bot,Benjamin Intili struck out swinging (2-2 BBKKS).,98,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,7,top,Gabriel Schultz to rf.,99,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,7,top,Benjamin Intili to dh.,100,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,7,top,Jaxon Bernard to p for Benjamin Intili.,101,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,7,top,Elijah Kiernan singled to third base (1-2 BK).,102,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,7,top,Flynn Carroll flied out to cf (0-1).,103,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,7,top,Joe Scimone reached on a fielder's choice (0-1)3a Elijah Kiernan out at second ss to 2b.,104,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,7,top,Justin DiCesare walked (3-2 BFFBBFB)3a Joe Scimone advanced to second.,105,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,7,top,AJ Sonsini walked (3-2 BBBFFFB)3a Justin DiCesare advanced to second3a Joe Scimone advanced to third.,106,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,7,top,Ben Chiara pinch hit for Ryan Alfonso.,107,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,7,top,Ben Chiara grounded out to 2b (1-1 B).,108,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,7,bot,Joe Scimone to ss.,109,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,7,bot,Ben Chiara to 2b.,110,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,7,bot,Devin Sullivan pinch hit for Kaden Bolt.,111,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,7,bot,Devin Sullivan struck out looking (1-2 SBKK).,112,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,7,bot,Darion Rodriguez struck out swinging (0-2 KKS).,113,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615203,7,bot,Ryan Price struck out looking (3-2 KBBBFF).,114,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6544824,615468,Eastern Eagles,615203,Elmira Soaring Eagles,615468,8,top,Devin Sullivan to cf.,115,2026-03-04 11:00:00-05:00,"Myrtle Beach, SC",50,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,1,top,Owen Daminger grounded out to ss (1-2 BKK).,1,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,1,top,Brooks Kanwisher reached first on an error by 2b (0-1 K).,2,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,1,top,Brooks Kanwisher stole second.,3,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,1,top,Shane Patten walked (3-0 BBBB).,4,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,1,top,"Brooks Kanwisher out at second p to 2b, picked off.",5,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,1,top,Gavin Dillard grounded out to 2b (0-1 F).,6,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,1,bot,Michael Girardi singled to left field (2-2 BKBK).,7,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,1,bot,Dylan Heyduk grounded into double play 2b to ss to 1b (1-0 B)3a Michael Girardi out on the play.,8,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,1,bot,Michael Gagliardi singled down the lf line (0-1 K).,9,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,1,bot,Michael Gagliardi advanced to second on a passed ball.,10,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,1,bot,Andrew Haussman struck out swinging (1-2 KBSS).,11,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,2,top,Ben St. Pierre grounded out to 2b (1-1 KB).,12,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,2,top,Bryant Diaz grounded out to ss (2-2 BFKB).,13,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,2,top,Vin Proietto singled to right field (0-1 K).,14,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,2,top,"Vin Proietto out at second c to ss, caught stealing.",15,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,2,bot,Paul Daly singled to center field (0-1 K).,16,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,2,bot,"Lucas Zachesky grounded out to 2b, bunt, SAC (1-1 BF)3a Paul Daly advanced to second.",17,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,2,bot,Jaden Buechler grounded out to ss (3-2 BBBKK).,18,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,2,bot,"CJ Orrego singled to left field, RBI (2-2 BBKK)3a Paul Daly scored.",19,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,2,bot,Austin Wenger struck out swinging (2-2 BKKBS).,20,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,3,top,Michael Duda grounded out to 2b (1-0 B).,21,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,3,top,Drew Van horn flied out to cf (1-1 FB).,22,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,3,top,Owen Daminger flied out to cf (0-1 K).,23,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,3,bot,Michael Girardi grounded out to 2b (2-2 BBKK).,24,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,3,bot,Dylan Heyduk singled to right field (3-2 KKBBB).,25,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,3,bot,Michael Gagliardi walked (3-0 BBBB)3a Dylan Heyduk advanced to second.,26,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,3,bot,Andrew Haussman struck out swinging (3-2 KBBFBFF).,27,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,3,bot,Paul Daly walked (3-1 BBKBB)3a Michael Gagliardi advanced to second3a Dylan Heyduk advanced to third.,28,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,3,bot,"Lucas Zachesky doubled to left center, 2 RBI (1-1 BK)3a Paul Daly advanced to third3a Michael Gagliardi scored3a Dylan Heyduk scored.",29,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,3,bot,"Jaden Buechler singled to third base, 2 RBI (0-1 K)3a Lucas Zachesky scored3a Paul Daly scored.",30,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,3,bot,Jaden Buechler advanced to second on an error by 3b.,31,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,3,bot,CJ Orrego struck out swinging (0-2 KFS).,32,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,4,top,Brooks Kanwisher walked (3-1 KBBBB).,33,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,4,top,Shane Patten struck out swinging (0-2 KFFFF).,34,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,4,top,Brooks Kanwisher advanced to second on a wild pitch.,35,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,4,top,Gavin Dillard grounded out to ss (3-2 KKFFBBFB).,36,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,4,top,Ben St. Pierre struck out swinging (1-2 KKBS).,37,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,4,bot,Austin Wenger flied out to cf (0-1 S).,38,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,4,bot,Michael Girardi walked (3-2 BBKBKFB).,39,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,4,bot,"Michael Girardi out at second p to 1b to 2b to 1b, caught stealing.",40,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,4,bot,Dylan Heyduk flied out to rf (1-0 B).,41,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,5,top,Bryant Diaz singled to first base (2-2 KBBK).,42,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,5,top,Vin Proietto reached on a fielder's choice (1-2 KFFBF)3a Bryant Diaz out at second ss to 2b.,43,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,5,top,Michael Duda walked (3-1 BFBBB)3a Vin Proietto advanced to second.,44,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,5,top,Drew Van horn struck out swinging (1-2 KBKS).,45,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,5,top,Michael Duda advanced to second on a wild pitch3a Vin Proietto advanced to third on a wild pitch.,46,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,5,top,Owen Daminger flied out to cf (3-2 FSBBB).,47,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,5,bot,Michael Gagliardi walked (3-0 BBBB).,48,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,5,bot,Andrew Haussman lined out to rf (3-2 FBKBB).,49,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,5,bot,Owen Fogel to p for Austin Muth.,50,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,5,bot,Paul Daly singled to center field (2-2 BKBKF)3a Michael Gagliardi advanced to second.,51,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,5,bot,Lucas Zachesky struck out looking (1-2 KKBFF).,52,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,5,bot,"Jaden Buechler singled to right field, RBI (0-0)3a Paul Daly advanced to third3a Michael Gagliardi scored.",53,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,5,bot,CJ Orrego flied out to cf (0-0).,54,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,6,top,Brooks Kanwisher popped up to ss (2-2 BBKK).,55,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,6,top,Shane Patten grounded out to 1b unassisted (2-1 BBK).,56,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,6,top,Gavin Dillard flied out to rf (0-0).,57,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,6,bot,Austin Wenger flied out to rf (1-1 BS).,58,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,6,bot,Michael Girardi singled to left field (0-0).,59,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,6,bot,Dylan Heyduk reached on a fielder's choice (0-1 K)3a Michael Girardi out at second 2b to ss.,60,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,6,bot,Michael Gagliardi singled to right center (1-0 B)3a Dylan Heyduk advanced to third.,61,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,6,bot,Michael Gagliardi stole second.,62,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,6,bot,Andrew Haussman hit by pitch (3-1 BBKH).,63,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,6,bot,Paul Daly flied out to cf (0-0).,64,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,7,top,Zach Plank to p for Caden Breault.,65,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,7,top,Ben St. Pierre fouled out to 2b (1-0 B).,66,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,7,top,Bryant Diaz lined out to ss (3-2 KBBKB).,67,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,7,top,Joe Peters pinch hit for Vin Proietto.,68,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,7,top,Joe Peters struck out looking (3-2 BKBKBK).,69,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,7,bot,Joe Peters to lf.,70,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,7,bot,Lucas Zachesky singled to center field (0-0).,71,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,7,bot,"Jaden Buechler grounded out to c, bunt, SAC (0-1 F)3a Lucas Zachesky advanced to second.",72,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,7,bot,"CJ Orrego doubled to left field, RBI (2-2 FSBB)3a Lucas Zachesky scored.",73,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,7,bot,Austin Wenger grounded out to ss (0-1 K).,74,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,7,bot,Michael Girardi flied out to lf (1-0 B).,75,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,8,top,Michael Duda singled to left field (2-2 BKBK).,76,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,8,top,Jake McDonough pinch hit for Drew Van horn.,77,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,8,top,Jake McDonough flied out to lf (1-2 BKK).,78,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,8,top,Owen Daminger flied out to rf (2-1 BBK).,79,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,8,top,Brooks Kanwisher singled to right field (1-2 SBS)3a Michael Duda advanced to second.,80,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,8,top,Shane Patten struck out looking (3-2 KKFBBB).,81,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,8,bot,Nick Remo to 3b for Drew Van horn.,82,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,8,bot,Rafael Fernandez to rf for Owen Daminger.,83,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,8,bot,Dylan Heyduk out at first 1b to p (3-2 BBBKKF).,84,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,8,bot,Michael Gagliardi flied out to lf (1-2 SBK).,85,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,8,bot,Andrew Haussman singled to left field (1-1 BK).,86,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615360,8,bot,Paul Daly grounded out to 1b unassisted (1-2 KSFB).,87,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,9,top,Max Lipton to p for Zach Plank.,88,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,9,top,Gavin Dillard flied out to rf (2-2 KBFB).,89,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,9,top,Ben St. Pierre flied out to cf (1-2 KKFB).,90,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,9,top,Chase Parise pinch hit for Bryant Diaz.,91,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
+6546838,615476,Misericordia Cougars,615360,Susquehanna River Hawks,615476,9,top,Chase Parise struck out swinging (2-2 KSFBB).,92,2026-03-04 11:00:00-05:00,"Fort Pierce, FL",0,MBA,2026
