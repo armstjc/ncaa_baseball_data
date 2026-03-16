@@ -1,0 +1,126 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,1,top,Zach Turko struck out looking (0-2 KFFK).,1,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,1,top,Will Granata grounded out to 2b (2-2 BKBS).,2,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,1,top,Andrew Farina grounded out to ss (0-2 KF).,3,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,1,bot,Aidan Casey walked (3-1 KBBBB).,4,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,1,bot,"Conor Campbell grounded out to p, bunt, SAC (0-0)3a Aidan Casey advanced to second.",5,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,1,bot,John Heitzman flied out to rf (2-2 FBSB)3a Aidan Casey advanced to third.,6,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,1,bot,Joey Granko struck out swinging (3-2 BBBKSS).,7,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,2,top,John Anthony Spanoudakis struck out swinging (2-2 FBKBS).,8,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,2,top,Stephen Marinez flied out to lf (2-2 KSBB).,9,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,2,top,Pablo Austin struck out looking (0-2 KSK).,10,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,2,bot,Matthew Gannon walked (3-2 KBBKBFFB).,11,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,2,bot,Logan Mason walked (3-1 BBBKB)3a Matthew Gannon advanced to second.,12,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,2,bot,Tyler Yoo hit by pitch (1-0 H)3a Logan Mason advanced to second3a Matthew Gannon advanced to third.,13,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,2,bot,"Jimmy Lundari walked, RBI (3-2 BKFBBB)3a Tyler Yoo advanced to second3a Logan Mason advanced to third3a Matthew Gannon scored.",14,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,2,bot,"Evan Laub walked, RBI (3-2 KBBFBB)3a Jimmy Lundari advanced to second3a Tyler Yoo advanced to third3a Logan Mason scored.",15,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,2,bot,"Aidan Casey walked, RBI (3-1 BKBBB)3a Evan Laub advanced to second3a Jimmy Lundari advanced to third3a Tyler Yoo scored.",16,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,2,bot,Gavin Weinstock to p for Will Granata.,17,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,2,bot,"Conor Campbell singled, RBI (0-1 K)3a Aidan Casey advanced to second3a Evan Laub advanced to third3a Jimmy Lundari scored.",18,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,2,bot,John Heitzman struck out swinging (0-2 KKS).,19,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,2,bot,"Joey Granko walked, advanced to second, 2 RBI (3-0 BBBB)3a Conor Campbell advanced to third3a Aidan Casey scored3a Evan Laub scored.",20,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,2,bot,Joey Granko advanced to third3a Conor Campbell scored.,21,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,2,bot,Matthew Gannon walked (3-2 KBBBKB).,22,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,2,bot,"Logan Mason singled to left field, RBI (2-1 KBB)3a Matthew Gannon advanced to second3a Joey Granko scored.",23,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,2,bot,Tyler Yoo reached on a fielder's choice (2-2 KFBB)3a Logan Mason out at second 3b to 2b3a Matthew Gannon advanced to third.,24,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,2,bot,Jimmy Lundari reached first on an error by ss (0-1 K)3a Tyler Yoo advanced to second3a Matthew Gannon scored.,25,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,2,bot,Evan Laub flied out to cf (0-0).,26,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,3,top,Kyle Brindisi struck out swinging (0-2 KSS).,27,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,3,top,Evan Dutzer grounded out to p (1-1 BS).,28,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,3,top,Tyler Margolis grounded out to ss (2-1 BBK).,29,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,3,bot,Ryan Sharkey to p for Gavin Weinstock.,30,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,3,bot,Aidan Casey grounded out to 2b (2-1 BBK).,31,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,3,bot,Conor Campbell grounded out to 2b (2-2 BFBKF).,32,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,3,bot,John Heitzman grounded out to 2b (0-0).,33,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,4,top,Zach Turko reached first on an error by 1b (0-0).,34,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,4,top,Ryan Sharkey walked (3-1 SBBBB)3a Zach Turko advanced to second.,35,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,4,top,Andrew Farina grounded into double play ss to 2b to 1b (1-1 KB)3a Ryan Sharkey out on the play3a Zach Turko advanced to third.,36,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,4,top,"John Anthony Spanoudakis singled to left field (0-0)3a Zach Turko scored, unearned.",37,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,4,top,John Anthony Spanoudakis advanced to second on a wild pitch.,38,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,4,top,Stephen Marinez flied out to rf (2-1 BFB).,39,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,4,bot,Joey Granko hit by pitch (1-0 H).,40,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,4,bot,Matthew Gannon reached first on an error by 3b (0-2 KKF)3a Joey Granko advanced to second.,41,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,4,bot,"Logan Mason doubled, RBI (3-1 KBBB)3a Matthew Gannon scored, unearned3a Joey Granko scored.",42,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,4,bot,Tyler Yoo grounded out to 3b (0-1 K)3a Logan Mason advanced to third.,43,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,4,bot,Jimmy Lundari hit by pitch (2-2 KKBH).,44,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,4,bot,"Jimmy Lundari out at first p to 1b, picked off.",45,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,4,bot,Evan Laub struck out looking (2-2 BBKKK).,46,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,5,top,Jared Cassella to rf for Logan Mason.,47,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,5,top,Pablo Austin grounded out to 2b (0-0).,48,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,5,top,Kyle Brindisi struck out swinging (2-2 BBKSS).,49,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,5,top,Evan Dutzer flied out to lf (1-0 B).,50,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,5,bot,Gerjuan Tyrus to p for Ryan Sharkey.,51,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,5,bot,Aidan Casey walked (3-1 BBKBB).,52,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,5,bot,Conor Campbell singled (1-1 BK)3a Aidan Casey advanced to second.,53,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,5,bot,John Heitzman walked (3-2 BBFBFB)3a Conor Campbell advanced to second3a Aidan Casey advanced to third.,54,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,5,bot,John Heitzman advanced to second on a balk3a Conor Campbell advanced to third on a balk3a Aidan Casey scored on a balk.,55,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,5,bot,John Heitzman advanced to third on a wild pitch3a Conor Campbell scored on a wild pitch.,56,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,5,bot,"Joey Granko doubled to right field, RBI (2-0 BB)3a John Heitzman scored.",57,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,5,bot,Stephen Pearson to p for Gerjuan Tyrus.,58,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,5,bot,Matthew Gannon hit by pitch (1-0 H).,59,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,5,bot,Jared Cassella hit by pitch (3-1 BBBKH)3a Matthew Gannon advanced to second3a Joey Granko advanced to third.,60,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,5,bot,Hunter Petrich pinch hit for Tyler Yoo.,61,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,5,bot,"Hunter Petrich walked, RBI (3-2 BBKKBB)3a Jared Cassella advanced to second3a Matthew Gannon advanced to third3a Joey Granko scored.",62,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,5,bot,Jacob Wenzel to p for Stephen Pearson.,63,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,5,bot,Jimmy Lundari struck out looking (3-2 BFKBBK).,64,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,5,bot,Evan Laub struck out swinging (3-2 FBBBFS).,65,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,5,bot,Deuce Rzucidlo pinch hit for Aidan Casey.,66,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,5,bot,Deuce Rzucidlo flied out to cf (1-0 B).,67,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,6,top,Deuce Rzucidlo to 3b.,68,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,6,top,Brandon Prince to lf for John Heitzman.,69,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,6,top,Brayden Keller to 1b for Joey Granko.,70,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,6,top,Roman Valvano to 2b for Matthew Gannon.,71,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,6,top,Patrick Walsh to c for Jimmy Lundari.,72,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,6,top,Daniel Bello to p for Mason Fischer.,73,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,6,top,Tyler Margolis struck out swinging (1-2 KBKS).,74,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,6,top,Carter Niles pinch hit for Zach Turko.,75,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,6,top,Carter Niles grounded out to 3b (3-1 BBBK).,76,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,6,top,Josue Cepeda pinch hit for Jacob Wenzel.,77,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,6,top,Josue Cepeda walked (3-1 BKBBB).,78,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,6,top,Marcos Castro pinch hit for Andrew Farina.,79,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,6,top,Josue Cepeda advanced to second on a wild pitch.,80,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,6,top,Marcos Castro struck out looking (1-2 BSSK).,81,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Carter Niles to ss.,82,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Marcos Castro to 2b.,83,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Jacob Wenzel to p.,84,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Logan Garcia to cf for Tyler Margolis.,85,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Michael Akalski to 3b for Pablo Austin.,86,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Joseph DeSantis to lf for Kyle Brindisi.,87,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Joe Reid to c for John Anthony Spanoudakis.,88,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Conor Campbell singled to left field (3-1 BBBK).,89,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Brandon Prince singled (3-2 BKBFB)3a Conor Campbell advanced to third.,90,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Brayden Keller hit by pitch (2-2 KBKH)3a Brandon Prince advanced to second.,91,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,"Roman Valvano hit by pitch, RBI (1-0 H)3a Brayden Keller advanced to second3a Brandon Prince advanced to third3a Conor Campbell scored.",92,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Hudson T. Oliviery to p for Jacob Wenzel.,93,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Roman Valvano advanced to second on a wild pitch3a Brayden Keller advanced to third on a wild pitch3a Brandon Prince scored on a wild pitch.,94,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,"Jared Cassella doubled to left field, 2 RBI (3-1 BBBK)3a Roman Valvano scored3a Brayden Keller scored.",95,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,"Hunter Petrich doubled to left center, RBI (1-1 BK)3a Jared Cassella scored.",96,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Patrick Walsh singled to right field (1-0 B)3a Hunter Petrich advanced to third.,97,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,"Evan Laub flied out to rf, sacrifice fly, RBI (0-2 KS)3a Hunter Petrich scored.",98,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Deuce Rzucidlo doubled to center field (1-1 BK)3a Patrick Walsh advanced to third.,99,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Will Hunsinger pinch hit for Conor Campbell.,100,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,"Will Hunsinger singled to left field, RBI (2-1 KBB)3a Deuce Rzucidlo advanced to third3a Patrick Walsh scored.",101,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,"Brandon Prince singled, RBI (2-2 KBKFB)3a Will Hunsinger advanced to second3a Deuce Rzucidlo scored.",102,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Brandon Prince advanced to second on a wild pitch3a Will Hunsinger advanced to third on a wild pitch.,103,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Brayden Keller struck out swinging (3-2 BBKBKS).,104,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,"Roman Valvano singled to center field, RBI (2-2 FBBS)3a Brandon Prince advanced to third3a Will Hunsinger scored.",105,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,TJ Minner to p for Hudson T. Oliviery.,106,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,"Jared Cassella singled, RBI (3-2 BKBBF)3a Roman Valvano advanced to second3a Brandon Prince scored.",107,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,6,bot,Hunter Petrich struck out looking (2-2 BSFBK).,108,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,7,top,Will Hunsinger to cf.,109,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,7,top,Hunter Petrich to dh.,110,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,7,top,Joe Reid hit by pitch (3-2 FBBBKH).,111,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,7,top,Jayson Nigro pinch hit for Stephen Marinez.,112,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,7,top,Jayson Nigro walked (3-1 KBBBB)3a Joe Reid advanced to second.,113,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,7,top,Jayson Nigro advanced to second on a wild pitch3a Joe Reid advanced to third on a wild pitch.,114,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,7,top,Michael Akalski walked (3-2 BBFFBB).,115,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,7,top,"Joseph DeSantis flied out to cf, sacrifice fly, RBI (0-0)3a Joe Reid scored.",116,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,7,top,Evan Dutzer struck out looking (1-2 SBFK).,117,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,7,top,Logan Garcia singled (0-0)3a Michael Akalski advanced to second3a Jayson Nigro advanced to third.,118,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,7,top,"Carter Niles singled to center field, 2 RBI (0-2 KK)3a Logan Garcia advanced to third3a Michael Akalski scored3a Jayson Nigro scored.",119,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,7,top,Josue Cepeda walked (3-2 FBBBKB)3a Carter Niles advanced to second.,120,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,7,top,Matthew Saita to p for Daniel Bello.,121,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,7,top,"Marcos Castro doubled to center field, 2 RBI (0-1 K)3a Josue Cepeda advanced to third3a Carter Niles scored3a Logan Garcia scored.",122,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615283,7,top,Joe Reid struck out looking (1-2 KBKK).,123,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,7,bot,Devin Lane pinch hit for Jayson Nigro.,124,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
+6537204,615283,UMSV Dolphins,615349,Scranton Royals,615349,7,bot,Devin Lane to 1b.,125,2026-03-15T14:30:00-04:00,"Lakeland, FL",120,MBA,2026
