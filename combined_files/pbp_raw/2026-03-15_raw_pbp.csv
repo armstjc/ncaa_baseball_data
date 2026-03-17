@@ -1,104 +1,121 @@
 game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,1,top,Harrison Blu out at first 1b to p.,1,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,1,top,"Kosta Mockli reached on an error by ss, advanced to second.",2,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,1,top,Kosta Mockli advanced to third on an error by c.,3,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,1,top,CJ Franchini walked.,4,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,1,top,"Max Oliviera singled to center field, RBI3a CJ Franchini advanced to second3a Kosta Mockli scored, unearned.",5,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,1,top,Max Oliviera advanced to second3a CJ Franchini advanced to third on a wild pitch.,6,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,1,top,Domonic Holt struck out swinging.,7,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,1,top,Mason Clark struck out looking.,8,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,1,bot,Nick Irizarr out at first 1b to p.,9,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,1,bot,Jayden Kenne flied out to cf.,10,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,1,bot,Joseph Karpi walked.,11,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,1,bot,Evan Grimes grounded out to 1b unassisted.,12,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,2,top,Evan Robson singled to center field.,13,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,2,top,Matt Dahl flied out to cf.,14,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,2,top,Aidan Howlad hit by pitch3a Evan Robson advanced to second.,15,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,2,top,"Harrison Blu singled to right field, RBI3a Aidan Howlad advanced to second3a Evan Robson scored.",16,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,2,top,Kosta Mockli walked3a Harrison Blu advanced to second3a Aidan Howlad advanced to third.,17,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,2,top,CJ Franchini struck out looking.,18,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,2,top,Max Oliviera flied out to rf.,19,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,2,bot,Collin Casey popped up to ss.,20,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,2,bot,Darren Dengl grounded out to ss.,21,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,2,bot,Mitch Neer struck out swinging.,22,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,3,top,Domonic Holt flied out to lf.,23,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,3,top,Mason Clark walked.,24,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,3,top,Evan Robson flied out to lf.,25,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,3,top,Matt Dahl singled to left field3a Mason Clark advanced to second.,26,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,3,top,Aidan Howlad hit by pitch3a Matt Dahl advanced to second3a Mason Clark advanced to third.,27,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,3,top,Harrison Blu grounded out to 1b unassisted.,28,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,3,bot,Anthony Rizz singled to left field.,29,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,3,bot,John Kellehe grounded out to 2b3a Anthony Rizz advanced to second.,30,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,3,bot,Nick Irizarr walked.,31,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,3,bot,Jayden Kenne flied out to cf.,32,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,3,bot,Joseph Karpi walked3a Nick Irizarr advanced to second3a Anthony Rizz advanced to third.,33,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,3,bot,Evan Grimes lined out to 2b.,34,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,4,top,Asa Dugan to p for Tyler Murray.,35,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,4,top,Kosta Mockli reached on an error by 2b.,36,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,4,top,Kosta Mockli advanced to second on a wild pitch.,37,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,4,top,"CJ Franchini singled to right field, RBI3a Kosta Mockli scored, unearned.",38,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,4,top,Max Oliviera singled to center field3a CJ Franchini advanced to second.,39,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,4,top,Domonic Holt struck out looking.,40,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,4,top,Mason Clark struck out swinging.,41,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,4,top,Evan Robson walked3a Max Oliviera advanced to second3a CJ Franchini advanced to third.,42,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,4,top,"Matt Dahl singled to center field, 2 RBI3a Evan Robson advanced to second3a Max Oliviera scored, unearned3a CJ Franchini scored, unearned.",43,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,4,top,"Aidan Howlad reached on an error by 3b3a Matt Dahl advanced to third3a Evan Robson scored, unearned.",44,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,4,top,Harrison Blu struck out swinging.,45,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,4,bot,Collin Casey struck out looking.,46,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,4,bot,Darren Dengl flied out to cf.,47,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,4,bot,Mitch Neer singled to center field.,48,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,4,bot,Mitch Neer advanced to second on a wild pitch.,49,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,4,bot,"Anthony Rizz doubled to left field, RBI3a Mitch Neer scored.",50,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,4,bot,Anthony Rizz advanced to third on an error by p.,51,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,4,bot,John Kellehe grounded out to 2b.,52,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,5,top,Collin Casey to 1b.,53,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,5,top,Darren Dengl to c.,54,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,5,top,Kosta Mockli grounded out to 3b.,55,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,5,top,CJ Franchini singled to right field.,56,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,5,top,Max Oliviera hit into double play ss to 2b to 1b3a CJ Franchini out on the play.,57,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,5,bot,Ansel Balmer to p for Cooper Paule.,58,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,5,bot,Nick Irizarr singled to shortstop.,59,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,5,bot,Jayden Kenne hit into double play 2b to ss to 1b3a Nick Irizarr out on the play.,60,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,5,bot,Joseph Karpi struck out swinging.,61,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,Domonic Holt doubled to left field.,62,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,Mason Clark walked.,63,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,Evan Robson singled to third base3a Mason Clark advanced to second3a Domonic Holt advanced to third.,64,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,"Matt Dahl singled to center field, 2 RBI3a Evan Robson advanced to second3a Mason Clark scored3a Domonic Holt scored.",65,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,Aidan Howlad singled to third base3a Matt Dahl advanced to second3a Evan Robson advanced to third.,66,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,"Harrison Blu flied out to lf, SAC, RBI3a Matt Dahl advanced to third3a Evan Robson scored.",67,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,"Kosta Mockli singled to center field, RBI3a Aidan Howlad advanced to third3a Matt Dahl scored.",68,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,"CJ Franchini singled to right field, RBI3a Kosta Mockli advanced to third3a Aidan Howlad scored.",69,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,Richard Tams to p for Asa Dugan.,70,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,CJ Franchini advanced to second3a Kosta Mockli scored on a balk.,71,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,CJ Franchini advanced to third on a wild pitch.,72,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,Nick Irizarr to 2b.,73,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,Alex Payne to lf for Jayden Kenne.,74,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,Anthony Rizz to 3b.,75,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,"Max Oliviera doubled to right field, RBI3a CJ Franchini scored.",76,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,Domonic Holt singled to second base3a Max Oliviera advanced to third.,77,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,Mason Clark hit by pitch3a Domonic Holt advanced to second.,78,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,"Evan Robson grounded out to 1b unassisted, RBI3a Mason Clark advanced to second3a Domonic Holt advanced to third3a Max Oliviera scored.",79,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,6,top,"Matt Dahl singled to center field, out at second c to ss, 2 RBI3a Mason Clark scored3a Domonic Holt scored.",80,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,6,bot,Nate Shook-T pinch hit for Evan Grimes.,81,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,6,bot,Nate Shook-T struck out swinging.,82,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,6,bot,Collin Casey struck out swinging.,83,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,6,bot,Darren Dengl struck out swinging.,84,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,7,top,Nate Shook-T to cf.,85,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,7,top,Jameson DeLa to rf for John Kellehe.,86,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,7,top,Paul Roesel to p for Richard Tams.,87,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,7,top,Aidan Howlad struck out swinging.,88,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,7,top,Harrison Blu singled to left field.,89,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,7,top,Kosta Mockli walked3a Harrison Blu advanced to second.,90,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,7,top,Tucker McDon pinch hit for CJ Franchini.,91,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,7,top,Tucker McDon lined out to 2b.,92,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,7,top,Dan Argenzia pinch hit for Max Oliviera.,93,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615298,7,top,Dan Argenzia struck out looking.,94,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,7,bot,Tucker McDon to ss.,95,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,7,bot,Jack Kelman to c for Dan Argenzia.,96,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,7,bot,Nick Schmidt pinch hit for Mitch Neer.,97,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,7,bot,Tyler Tedesc to p for Ansel Balmer.,98,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,7,bot,Nick Schmidt doubled to center field.,99,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,7,bot,James Mitche pinch hit for Anthony Rizz.,100,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,7,bot,"James Mitche singled to right field, RBI, out at second rf to ss3a Nick Schmidt scored.",101,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,7,bot,Jameson DeLa grounded out to ss.,102,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
-6547514,615298,NYU Violets,615277,Russell Sage Gators,615277,7,bot,Nick Irizarr struck out swinging.,103,2026-03-15 10:15:00-04:00,"Auburndale, FL",92,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,1,top,Tyler Moriarty struck out swinging (1-2 BSFS).,1,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,1,top,Landen Meyerdirk singled to left field (1-2 KBK).,2,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,1,top,Landen Meyerdirk advanced to second on an error by p.,3,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,1,top,Ben Meuser walked (3-0 BBBB).,4,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,1,top,"Kellan Oligmueller singled to first base, RBI (1-1 KB); Ben Meuser advanced to third; Landen Meyerdirk scored.",5,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,1,top,Peyton Neadeau walked (3-0 BBBB); Kellan Oligmueller advanced to second.,6,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,1,top,Bradie Black reached on a fielder's choice (2-1 FBB); Peyton Neadeau advanced to second; Kellan Oligmueller advanced to third; Ben Meuser out at home p to c.,7,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,1,top,"Trevor Haberman homered, 4 RBI (0-2 KKF); Bradie Black scored; Peyton Neadeau scored; Kellan Oligmueller scored.",8,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,1,top,Aidan Moran struck out swinging (0-2 SSS).,9,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,1,bot,Dean Wood grounded out to ss (0-1 S).,10,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,1,bot,Johnny Garcia singled to left field (2-1 BBS).,11,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,1,bot,Kailis Mayo struck out looking (2-2 SBBSK).,12,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,1,bot,Josh Bayless flied out to ss (0-0).,13,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,2,top,Calbe Walker grounded out to ss (2-2 BBSS).,14,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,2,top,Tyler Moriarty singled to center field (1-0 B).,15,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,2,top,"Landen Meyerdirk reached on a fielder's choice, advanced to second on an error by 2b (2-0 BB); Tyler Moriarty out at second ss to 2b.",16,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,2,top,"Landen Meyerdirk reached on a fielder's choice, advanced to second on an error by 2b (2-0 BB); Tyler Moriarty out at second ss to 2b.",17,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,2,top,"Ben Meuser doubled to left field, RBI (2-1 BSB); Landen Meyerdirk scored, unearned.",18,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,2,top,Kellan Oligmueller flied out to rf (0-0).,19,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,2,bot,Drake Stilwell popped out to c (1-0 B).,20,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,2,bot,Luis Gil flied out to lf (3-2 BKBKFBFF).,21,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,2,bot,Cole Christensen tripled to center field (1-0 B).,22,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,2,bot,Rat Mean struck out swinging (1-2 SSBS).,23,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,3,top,Peyton Neadeau walked (3-0 BBBB).,24,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,3,top,"Bradie Black doubled, RBI (2-2 BSKB); Peyton Neadeau scored.",25,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,3,top,"Bradie Black doubled, RBI (2-2 BSKB); Peyton Neadeau scored.",26,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,3,top,Trevor Haberman reached on a fielder's choice (2-1 SBB); Bradie Black out at third p to 3b.,27,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,3,top,Trevor Haberman stole second.,28,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,3,top,Aidan Moran struck out looking (1-2 BSSK).,29,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,3,top,Calbe Walker walked (3-0 BBBB).,30,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,3,top,Tyler Moriarty grounded out to 3b (1-2 SBS).,31,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,3,bot,Josh Dement grounded out to 3b (2-0 BB).,32,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,3,bot,Dean Wood grounded out to ss (0-0).,33,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,3,bot,Johnny Garcia doubled to left field (0-2 FK).,34,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,3,bot,Kailis Mayo flied out to rf (0-0).,35,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,4,top,Nick Dolci to p for Tyler Baggiore.,36,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,4,top,Landen Meyerdirk popped up to 2b (2-2 BFBS).,37,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,4,top,Ben Meuser struck out looking (2-2 SBSBFK).,38,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,4,top,Kellan Oligmueller walked (3-0 BBBB).,39,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,4,top,Peyton Neadeau walked (3-2 BBKBKB); Kellan Oligmueller advanced to second.,40,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,4,top,Bradie Black walked (3-1 KBBBB); Peyton Neadeau advanced to second; Kellan Oligmueller advanced to third.,41,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,4,top,Trevor Haberman flied out to lf (2-2 FBBK).,42,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,4,bot,"Josh Bayless singled to left field, out at second lf to ss to 2b (1-2 BKS).",43,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,4,bot,"Josh Bayless singled to left field, out at second lf to ss to 2b (1-2 BKS).",44,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,4,bot,Drake Stilwell singled to left field (3-2 BBSBF).,45,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,4,bot,Luis Gil grounded out to ss (0-0); Drake Stilwell advanced to second.,46,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,4,bot,Cole Christensen flied out to rf (0-0).,47,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,5,top,Ryan Kremer to p for Nick Dolci.,48,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,5,top,Aidan Moran struck out looking (2-2 FBKBK).,49,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,5,top,Calbe Walker grounded out to 3b (0-0).,50,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,5,top,Tyler Moriarty struck out looking (1-2 KSBK).,51,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,5,bot,Rat Mean singled to shortstop (3-2 FBFFBB).,52,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,5,bot,Josh Dement singled to left field (0-0); Rat Mean advanced to second.,53,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,5,bot,"Dean Wood doubled to left field, RBI (1-2 KBS); Josh Dement advanced to third; Rat Mean scored.",54,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,5,bot,"Johnny Garcia singled to left field, RBI (1-1 BF); Dean Wood advanced to third; Josh Dement scored.",55,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,5,bot,"Kailis Mayo flied out to lf, sacrifice fly, RBI (1-2 FBF); Dean Wood scored.",56,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,5,bot,Josh Bayless hit by pitch (1-0 H); Johnny Garcia advanced to second.,57,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,5,bot,Drake Stilwell reached first on an error by ss (3-2 BBSKFFB); Josh Bayless advanced to second; Johnny Garcia advanced to third.,58,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,5,bot,Zach Anderson to p for Parker Gilchrist.,59,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,5,bot,"Luis Gil reached on a fielder's choice, RBI (0-2 KS); Drake Stilwell advanced to second; Josh Bayless advanced to third, scored on an error by ss, unearned; Johnny Garcia scored.",60,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,5,bot,Cole Christensen popped up to 1b (0-0).,61,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,5,bot,Rat Mean grounded out to ss (0-0).,62,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,6,top,Landen Meyerdirk singled to right field (0-0).,63,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,6,top,Landen Meyerdirk stole second.,64,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,6,top,Ben Meuser walked (3-2 KFBBBB).,65,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,6,top,Kellan Oligmueller struck out swinging (0-2 SKFS).,66,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,6,top,Ben Meuser advanced to second on a wild pitch; Landen Meyerdirk advanced to third.,67,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,6,top,"Peyton Neadeau singled to center field, 2 RBI (2-2 BBKF); Ben Meuser scored; Landen Meyerdirk scored.",68,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,6,top,Bradie Black reached on a fielder's choice (0-2 KK); Peyton Neadeau out at second ss to 2b.,69,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,6,top,Bradie Black stole second.,70,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,6,top,Trevor Haberman struck out swinging (2-2 BSBKFS).,71,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,6,bot,Josh Dement hit by pitch (1-0 H).,72,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,6,bot,Dean Wood walked (3-2 BBFBFB); Josh Dement advanced to second.,73,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,6,bot,Johnny Garcia lined into double play lf to 2b (1-0 B); Josh Dement out on the play.,74,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,6,bot,Kailis Mayo fouled out to 1b (0-0).,75,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,7,top,Charlie Reiss to p for Ryan Kremer.,76,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,7,top,Luke McHugh pinch hit for Aidan Moran.,77,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,7,top,Luke McHugh struck out swinging (0-2 SFFFS).,78,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,7,top,Calbe Walker singled to left field (2-0 BB).,79,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,7,top,Calbe Walker advanced to second on a passed ball.,80,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,7,top,Tyler Moriarty grounded out to 2b (2-2 BBKFF); Calbe Walker advanced to third.,81,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,7,top,Landen Meyerdirk walked (3-1 BFBBB).,82,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,7,top,Landen Meyerdirk stole second.,83,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,7,top,"Ben Meuser singled to left field, RBI (2-2 BSFB); Landen Meyerdirk advanced to third; Calbe Walker scored.",84,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,7,top,"Kellan Oligmueller doubled to left field, RBI (0-1 F); Ben Meuser advanced to third; Landen Meyerdirk scored.",85,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,7,top,Nick Cotter to p for Charlie Reiss.,86,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,7,top,"Peyton Neadeau reached first on an error by 2b (1-0 B); Kellan Oligmueller scored, unearned; Ben Meuser scored, unearned.",87,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,7,top,Peyton Neadeau stole second.,88,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,7,top,Bradie Black lined out to cf (1-0 B).,89,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,7,bot,Grayson Van nelson to c for Luke McHugh.,90,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,7,bot,Josh Bayless flied out to lf (0-0).,91,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,7,bot,Drake Stilwell reached first on an error by ss (0-2 KF).,92,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,7,bot,Isaiah Cook pinch hit for Luis Gil.,93,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,7,bot,Drake Stilwell advanced to second on a wild pitch.,94,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,7,bot,Isaiah Cook singled to center field (3-1 BBBK); Drake Stilwell advanced to third.,95,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,7,bot,Juna Bess to p for Zach Anderson.,96,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,7,bot,"Cole Christensen grounded out to 1b unassisted, RBI (0-0); Isaiah Cook advanced to second; Drake Stilwell scored, unearned.",97,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,7,bot,Isaiah Cook advanced to third on a wild pitch.,98,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,7,bot,Rat Mean hit by pitch (3-2 SBBFH).,99,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,7,bot,Josh Dement walked (3-1 BBFBB); Rat Mean advanced to second.,100,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,7,bot,Dean Wood popped out to 3b (0-0).,101,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,8,top,Justice Fortson to rf for Josh Dement.,102,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,8,top,Isaiah Cook to dh.,103,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,8,top,Trevor Haberman walked (3-2 BSBSBB).,104,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,8,top,Grayson Van nelson walked (3-1 FBBBB); Trevor Haberman advanced to second.,105,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,8,top,Calbe Walker singled to pitcher (0-0); Grayson Van nelson advanced to second; Trevor Haberman advanced to third.,106,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,8,top,"Tyler Moriarty singled to left field, RBI (1-1 FB); Calbe Walker advanced to second; Grayson Van nelson advanced to third; Trevor Haberman scored.",107,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,8,top,"Landen Meyerdirk singled to left field, RBI (2-1 SBB); Tyler Moriarty advanced to second; Calbe Walker advanced to third; Grayson Van nelson scored.",108,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,8,top,"Ben Meuser singled to center field, 2 RBI (1-0 B); Landen Meyerdirk advanced to second; Tyler Moriarty scored; Calbe Walker scored.",109,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,8,top,Ben Meuser advanced to second on a wild pitch; Landen Meyerdirk advanced to third.,110,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,8,top,Kellan Oligmueller struck out looking (2-2 BSSBK).,111,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,8,top,"Peyton Neadeau flied out to lf, sacrifice fly, RBI (3-2 FBBKB); Landen Meyerdirk scored.",112,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615437,8,top,Bradie Black popped up to 2b (1-0 B).,113,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,8,bot,Casey Golbiw pinch hit for Johnny Garcia.,114,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,8,bot,Casey Golbiw grounded out to 2b (0-2 KF).,115,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,8,bot,Kailis Mayo popped up to ss (1-1 BK).,116,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,8,bot,Josh Bayless singled to center field (2-2 BKBS).,117,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,8,bot,Gavin Litchauer pinch hit for Drake Stilwell.,118,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,8,bot,Gavin Litchauer walked (3-2 BSSBBB); Josh Bayless advanced to second.,119,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
+6516957,615437,Minn.-Morris Cougars,615320,Principia Panthers,615320,8,bot,Isaiah Cook reached on a fielder's choice (1-2 SBS); Gavin Litchauer advanced to second; Josh Bayless out at third 3b unassisted.,120,2026-03-15 14:15:00-04:00,"Davenport, FL",75,MBA,2026
