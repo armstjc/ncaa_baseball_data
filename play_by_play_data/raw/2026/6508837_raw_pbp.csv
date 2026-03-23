@@ -1,0 +1,105 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,1,top,Noah Townsend struck out looking (2-2 BBKFFK).,1,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,1,top,Jensen Bergman singled through the left side (2-1 BBK).,2,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,1,top,Jack Johnson struck out looking (3-2 BFBKBFFFK).,3,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,1,top,"Jensen Bergman stole second, advanced to third on a throwing error by c.",4,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,1,top,Ethan Fox-Fernandez grounded out to ss (2-2 BKKFB).,5,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,1,bot,Walker Abdallah singled up the middle (0-1 K).,6,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,1,bot,Michael Lebenson hit by pitch (3-2 BKBBKH)3a Walker Abdallah advanced to second.,7,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,1,bot,"Alex Coombes doubled to left field, RBI (3-2 KBKBB)3a Michael Lebenson advanced to third3a Walker Abdallah scored.",8,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,1,bot,Ben Belliss struck out swinging (2-2 KFBBFS).,9,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,1,bot,Matt Chotiner popped up to ss (2-1 BKB).,10,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,1,bot,Andrew Crux fouled out to lf (0-2 KK).,11,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,2,top,Jack Biskupiak grounded out to ss (2-2 BKBF).,12,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,2,top,Aidan Annello struck out swinging (2-2 KBKBS).,13,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,2,top,Kieran McGrath struck out swinging (0-2 KSS).,14,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,2,bot,Charlie Morse singled to third base (3-2 BBBKKB).,15,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,2,bot,"Stephen Koval grounded out to 3b, SAC, bunt (0-0)3a Charlie Morse advanced to second.",16,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,2,bot,Charlie Lapp hit by pitch (0-0).,17,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,2,bot,"Walker Abdallah reached first on a throwing error by p, SAC, bunt (0-0)3a Charlie Lapp advanced to second3a Charlie Morse advanced to third, scored on the error, unearned.",18,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,2,bot,Michael Lebenson struck out swinging (1-2 KFBS).,19,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,2,bot,"Alex Coombes singled through the left side, RBI, advanced to second on the throw (1-0 B)3a Walker Abdallah advanced to second, advanced to third on the throw3a Charlie Lapp scored, unearned.",20,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,2,bot,"Ben Belliss singled to center field, 2 RBI (0-0)3a Alex Coombes scored, unearned3a Walker Abdallah scored, unearned.",21,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,2,bot,Matt Chotiner popped up to ss (2-1 BFB).,22,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,3,top,Miller Young walked (3-2 BKFBBB).,23,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,3,top,Nick Kreatsoulas struck out looking (1-2 BFSK).,24,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,3,top,Noah Townsend doubled to left field (1-1 KB)3a Miller Young advanced to third.,25,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,3,top,Jensen Bergman hit by pitch (3-1 BBBKH).,26,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,3,top,Jack Johnson struck out swinging (1-2 KBFS).,27,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,3,top,Ethan Fox-Fernandez lined out to rf (0-1 K).,28,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,3,bot,"Andrew Crux homered to right field, RBI (1-1 BK).",29,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,3,bot,Charlie Morse singled to shortstop (3-1 BBBK).,30,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,3,bot,Stephen Koval flied out to cf (1-1 BK).,31,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,3,bot,Charlie Lapp struck out looking (1-2 FBKK).,32,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,3,bot,"Charlie Morse stole second, advanced to third on a throwing error by c.",33,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,3,bot,Walker Abdallah struck out swinging (1-2 BKKFS).,34,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,4,top,Jack Biskupiak struck out looking (0-2 SSK).,35,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,4,top,Aidan Annello struck out swinging (0-2 KKS).,36,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,4,top,Kieran McGrath struck out looking (0-2 FKK).,37,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,4,bot,Michael Lebenson grounded out to 1b unassisted (1-2 FBF).,38,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,4,bot,Alex Coombes struck out swinging (2-2 BKBKS).,39,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,4,bot,Ben Belliss singled to right field (0-0).,40,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,4,bot,Matt Chotiner hit by pitch (0-0)3a Ben Belliss advanced to second.,41,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,4,bot,Andrew Crux flied out to lf (2-1 KBB).,42,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,5,top,Miller Young flied out to cf (3-2 BBBKK).,43,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,5,top,Nick Kreatsoulas flied out to cf (1-0 B).,44,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,5,top,Noah Townsend grounded out to p (2-0 BB).,45,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,5,bot,Charlie Morse grounded out to 2b (2-1 BBK).,46,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,5,bot,Stephen Koval grounded out to 3b (2-2 BFBK).,47,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,5,bot,Charlie Lapp hit by pitch (2-1 BFH).,48,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,5,bot,"Walker Abdallah singled to shortstop, advanced to second on a throwing error by ss (0-2 KS)3a Charlie Lapp advanced to third.",49,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,5,bot,"Michael Lebenson singled to right field, 2 RBI (2-1 BBK)3a Walker Abdallah scored, unearned3a Charlie Lapp scored, unearned.",50,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,5,bot,Alex Coombes grounded out to ss (0-0).,51,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,6,top,Jensen Bergman grounded out to 2b (1-1 FB).,52,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,6,top,Jack Johnson struck out swinging (1-2 SSBS).,53,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,6,top,Ethan Fox-Fernandez lined out to ss (0-1 K).,54,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,6,bot,Eric Wallick to p for Addison Lee.,55,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,6,bot,Ben Belliss struck out looking (1-2 KSBF).,56,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,6,bot,Matt Chotiner singled up the middle (1-1 BK).,57,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,6,bot,Andrew Crux reached on a fielder's choice (1-0 B)3a Matt Chotiner out at second ss to 2b.,58,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,6,bot,Andrew Crux stole second.,59,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,6,bot,Charlie Morse grounded out to 1b unassisted (2-2 BKKB).,60,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,7,top,Jack Biskupiak walked (3-0 BBBB).,61,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,7,top,Aidan Annello singled to right field (0-0)3a Jack Biskupiak advanced to third.,62,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,7,top,"Kieran McGrath grounded out to 3b, RBI (0-1 K)3a Aidan Annello advanced to second3a Jack Biskupiak scored.",63,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,7,top,Miller Young walked (3-2 BBFFFBFFB).,64,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,7,top,Nick Kreatsoulas walked (3-1 BBFBB)3a Miller Young advanced to second3a Aidan Annello advanced to third.,65,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,7,top,Dutch Hamilton to p for Liam Riordan.,66,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,7,top,"Noah Townsend reached on a fielder's choice, RBI (0-0)3a Nick Kreatsoulas out at second 3b to 2b3a Miller Young advanced to third3a Aidan Annello scored.",67,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,7,top,Jensen Bergman walked (3-2 BKBFFBB)3a Noah Townsend advanced to second.,68,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,7,top,"Jack Johnson walked, RBI (3-0 BBBB)3a Jensen Bergman advanced to second3a Noah Townsend advanced to third3a Miller Young scored.",69,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,7,top,Ethan Fox-Fernandez flied out to cf (0-1 K).,70,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,7,bot,Stephen Koval grounded out to ss (0-0).,71,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,7,bot,Charlie Lapp hit by pitch (3-1 BKBH).,72,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,7,bot,Walker Abdallah struck out swinging (2-2 BKBFFS).,73,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,7,bot,Michael Lebenson walked (3-1 BFBBB)3a Charlie Lapp advanced to second.,74,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,7,bot,Alex Coombes popped up to ss (3-1 BSBB).,75,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,8,top,Sam Ferrier to p for Dutch Hamilton.,76,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,8,top,Jorge Hitlin to 1b for Ben Belliss.,77,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,8,top,Jack Biskupiak walked (3-2 KBBBFFB).,78,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,8,top,Jack Biskupiak advanced to second on a throwing error by p.,79,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,8,top,Aidan Annello walked (3-2 KBFBBB).,80,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,8,top,"Kieran McGrath doubled to left center, RBI (1-1 KB)3a Aidan Annello advanced to third3a Jack Biskupiak scored.",81,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,8,top,Miller Young popped up to ss (0-0).,82,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,8,top,Nick Kreatsoulas struck out swinging (2-2 KKSBB).,83,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,8,top,"Noah Townsend singled up the middle, 2 RBI (1-2 FKFFBFF)3a Kieran McGrath scored3a Aidan Annello scored.",84,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,8,top,Jensen Bergman hit by pitch (1-2 FFH)3a Noah Townsend advanced to second.,85,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,8,top,Andrew Gaughan to p for Sam Ferrier.,86,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,8,top,Jack Johnson struck out swinging (2-2 KBFBS).,87,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,8,bot,Jack Sadowski to p for Eric Wallick.,88,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,8,bot,"Jorge Hitlin struck out swinging, reached first on a wild pitch (0-2 KKFFFS).",89,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,8,bot,Matt Chotiner fouled out to rf (2-2 FFBB).,90,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,8,bot,Andrew Crux singled up the middle (1-0 B)3a Jorge Hitlin advanced to second.,91,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,8,bot,Charlie Morse walked (3-0 BBBB)3a Andrew Crux advanced to second3a Jorge Hitlin advanced to third.,92,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,8,bot,Danny Nayvelt pinch hit for Stephen Koval.,93,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,8,bot,Danny Wellner to p for Jack Sadowski.,94,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,8,bot,Danny Nayvelt struck out swinging (2-2 BBKFS).,95,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,8,bot,"Charlie Lapp hit by pitch, RBI (0-0)3a Charlie Morse advanced to second3a Andrew Crux advanced to third3a Jorge Hitlin scored.",96,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,8,bot,"Walker Abdallah walked, RBI (3-0 BBBB)3a Charlie Lapp advanced to second3a Charlie Morse advanced to third3a Andrew Crux scored.",97,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615325,8,bot,Michael Lebenson grounded out to ss (0-0).,98,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,9,top,Jack Mullins to 2b for Danny Nayvelt.,99,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,9,top,Zac Zajac to p for Andrew Gaughan.,100,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,9,top,Ethan Fox-Fernandez grounded out to 3b (0-0).,101,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,9,top,Jack Biskupiak struck out looking (3-2 KBFBBK).,102,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,9,top,Aidan Annello singled to center field (0-2 FK).,103,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
+6508837,615372,Vassar Brewers,615325,Rensselaer Engineers,615372,9,top,Kieran McGrath reached on a fielder's choice (0-0)3a Aidan Annello out at second 3b to 2b.,104,2026-03-21T12:00:00-04:00,"Robison Field (Troy, NY)",101,MBA,2026
