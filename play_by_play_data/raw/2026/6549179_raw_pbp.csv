@@ -1,0 +1,106 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,1,top,"Groves,Nick walked (3-1 BBKBB).",1,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,1,top,"Farina,Michael walked (3-2 BKSBFBB)3a Groves,Nick advanced to second base.",2,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,1,top,"Zebig,Jack singled to right field (0-0)3a Groves,Nick advanced to third base3a Farina,Michael advanced to second base.",3,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,1,top,"Putty,AJ popped up down the right field line putout by 2b (1-2 KFB).",4,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,1,top,"Jennings,Collin struck out looking (3-2 FBBBKK).",5,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,1,top,"Contreras,Daniel reached on a fielder's choice hit to third base (1-2 FBS)3a Farina,Michael out at third base, 3b unassisted.",6,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,1,bot,"Durnin,Kam walked (3-2 BBKBFB).",7,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,1,bot,"UICU pitching change: Reed,Sam replaces Plumley,Ben.",8,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,1,bot,"Peer,Kaden reached on a fielder's choice hit to second base (0-2 SK)3a Durnin,Kam out at second base, 2b to ss.",9,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,1,bot,"Seals,Pierre singled to shallow center field (0-1 K)3a Peer,Kaden advanced to second base.",10,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,1,bot,"Woita,Jase walked (3-2 BFKBFBB)3a Peer,Kaden advanced to third base3a Seals,Pierre advanced to second base.",11,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,1,bot,"Benson,Cameron reached on a fielding error fielding by 1b by Putty,AJ (E3), RBI (2-0 BB)3a Peer,Kaden scored3a Seals,Pierre scored from second base3a Woita,Jase advanced from first base to third base3a Benson,Cameron advanced to second base.",12,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,1,bot,"Ward,Blaize doubled to left center, 2RBI (0-1 K)3a Woita,Jase scored3a Benson,Cameron scored from second base, unearned.",13,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,1,bot,"George,Jamal struck out swinging (2-2 BBSFS).",14,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,1,bot,"Knutson,Keegan struck out swinging (1-2 BFFFS).",15,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,2,top,"Schupmann,Kyle grounded out to third base, 3b to 1b (3-2 BBFBK).",16,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,2,top,"Johannes,Will struck out looking (2-2 KBSBFK).",17,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,2,top,"Nelson,JR grounded out to second base, 2b to 1b (3-1 BBKB).",18,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,2,bot,"Frost,Isaiah grounded out, p to 2b, bunt (0-0).",19,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,2,bot,"Durnin,Kam walked (3-1 KBBBB).",20,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,2,bot,"Durnin,Kam stole second base.",21,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,2,bot,"Peer,Kaden hit by pitch (3-1 BBKBB).",22,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,2,bot,"Seals,Pierre grounded into double play to short, ss to 2b to 1b (3-2 KSBBB)3a Peer,Kaden out at 2B on the play, ss to 2b.",23,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,3,top,"Groves,Nick grounded out to short, ss to 1b (0-1 K).",24,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,3,top,"Farina,Michael walked (3-0 BBBB).",25,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,3,top,"Zebig,Jack flied out to shallow left field putout by lf (2-0 BB).",26,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,3,top,"Putty,AJ reached on a fielder's choice hit to third base (2-2 BBKF)3a Farina,Michael out at second base, 3b to 2b.",27,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,3,bot,"UICU pitching change: Mommer,Sam replaces Reed,Sam.",28,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,3,bot,"Woita,Jase struck out swinging (1-2 BSSS).",29,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,3,bot,"Benson,Cameron struck out looking (2-2 FBSBK).",30,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,3,bot,"Ward,Blaize grounded out to the infield, p to 3b to 1b (1-1 KB).",31,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,4,top,"MIZ pitching change: Gonzalez,Keyler replaces Green,PJ.",32,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,4,top,"Jennings,Collin singled in the infield, bunt (0-0).",33,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,4,top,"Contreras,Daniel grounded out to third base, 3b to 1b (3-1 BBBK)3a Jennings,Collin advanced to second base.",34,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,4,top,"Jennings,Collin advanced to third base on a balk.",35,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,4,top,"Schupmann,Kyle struck out swinging (1-2 KKFBS).",36,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,4,top,"Johannes,Will struck out swinging (1-2 SBSS).",37,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,4,bot,"George,Jamal lined out to third base (1-1 FB).",38,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,4,bot,"Knutson,Keegan grounded out to third base, 3b to 1b (2-2 KBSFB).",39,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,4,bot,"Frost,Isaiah struck out looking (0-2 SSK).",40,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,5,top,"Nelson,JR flied out down the right field line putout by rf (1-2 KKB).",41,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,5,top,"Groves,Nick singled to shallow center field (0-0).",42,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,5,top,"Groves,Nick stole second base.",43,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,5,top,"Farina,Michael hit by pitch (1-2 BKFB).",44,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,5,top,"Zebig,Jack walked (3-1 BKBBB)3a Groves,Nick advanced to third base3a Farina,Michael advanced to second base.",45,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,5,top,"Putty,AJ popped up to shallow center field putout by ss (0-1 S).",46,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,5,top,"Jennings,Collin grounded out to the right side of the infield, 2b to 1b (2-1 KBB).",47,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,5,bot,"Durnin,Kam flied out to rf (3-2 KBBBF).",48,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,5,bot,"Peer,Kaden walked (3-2 BBBKSB).",49,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,5,bot,"Seals,Pierre flied out to lf (0-1 K).",50,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,5,bot,"Peer,Kaden stole second base.",51,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,5,bot,"Woita,Jase grounded out to second base, ss to 1b (1-2 SBK).",52,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,6,top,"Contreras,Daniel lined out to first base (1-0 B).",53,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,6,top,"Schupmann,Kyle doubled down the left field line (2-1 SBB).",54,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,6,top,"Schupmann,Kyle advanced to third base on a wild pitch.",55,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,6,top,"Johannes,Will struck out on a dropped third strike and reached on a passed ball (2-3 KKBFBS)3a Schupmann,Kyle scored.",56,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,6,top,"Nelson,JR singled up the middle (3-1 BBBK)3a Johannes,Will advanced to second base.",57,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,6,top,"MIZ pitching change: Drew,Kadden replaces Gonzalez,Keyler.",58,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,6,top,"Groves,Nick grounded out to second base, 2b to 1b (2-2 KBBFFF)3a Johannes,Will advanced to third base3a Nelson,JR advanced to second base.",59,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,6,top,"Farina,Michael flied out to lf (1-1 KB).",60,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,6,bot,"UICU pitching change: Martel,Olivier replaces Mommer,Sam.",61,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,6,bot,"Benson,Cameron doubled to right center (1-2 FKB).",62,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,6,bot,"Ward,Blaize flied out to rf (0-2 KFFF).",63,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,6,bot,"Benson,Cameron advanced to third base on a balk.",64,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,6,bot,"George,Jamal sacrifice fly to cf, RBI (1-2 FSB)3a Benson,Cameron scored.",65,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,6,bot,"Knutson,Keegan singled up the middle (0-1 S).",66,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,6,bot,"Knutson,Keegan stole second base.",67,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,6,bot,"Frost,Isaiah struck out swinging (2-2 KBBFFS).",68,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,7,top,"Zebig,Jack grounded out to second base, 2b to 1b (1-1 KB).",69,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,7,top,"Putty,AJ walked (3-0 BBBB).",70,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,7,top,"Jennings,Collin hit by pitch (0-1 FB)3a Putty,AJ advanced to second base.",71,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,7,top,"MIZ pitching change: Skidmore,Eli replaces Drew,Kadden.",72,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,7,top,"Contreras,Daniel flied out down the right field line putout by rf (0-0).",73,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,7,top,"Schupmann,Kyle lined out to cf (0-1 F).",74,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,7,bot,"UICU pitching change: McKillop,Liam replaces Martel,Olivier.",75,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,7,bot,"Durnin,Kam singled up the middle (2-0 BB).",76,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,7,bot,"Peer,Kaden struck out swinging (1-2 KBSS).",77,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,7,bot,"Durnin,Kam stole second base.",78,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,7,bot,"Seals,Pierre struck out swinging (2-2 SKBBS).",79,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,7,bot,"Woita,Jase hit by pitch (0-2 KFB).",80,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,7,bot,"Benson,Cameron grounded out to second base, 2b to 1b (0-0).",81,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,8,top,"MIZ defensive substitution: Serna,Mateo replaces George,Jamal at c",82,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,8,top,"UICU substitution: CheeAloy,Cameron pinch hitting for Johannes,Will.",83,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,8,top,"CheeAloy,Cameron struck out swinging (0-2 KKS).",84,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,8,top,"Nelson,JR walked (3-2 KKBBFBFB).",85,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,8,top,"Groves,Nick struck out looking (2-2 BBFKK).",86,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,8,top,"Farina,Michael hit by pitch (0-1 KB)3a Nelson,JR advanced to second base.",87,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,8,top,"Zebig,Jack flied out to shallow left field putout by lf (1-1 KB).",88,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,8,bot,"UICU substitution: Landrus,Luke replaces CheeAloy,Cameron at c, batting 8th.",89,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,8,bot,"UICU pitching change: LaCien,Richie replaces McKillop,Liam.",90,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,8,bot,"Ward,Blaize walked (3-2 BKBBKB).",91,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,8,bot,"MIZ substitution: Humbert,Leo pinch running for Ward,Blaize.",92,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,8,bot,"Serna,Mateo popped up to third base (2-1 BFB).",93,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,8,bot,"Knutson,Keegan reached on a fielding error fielding by p by LaCien,Richie (E1) (0-0)3a Humbert,Leo advanced to second base.",94,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,8,bot,"Frost,Isaiah walked (3-2 BKKBFBB)3a Humbert,Leo advanced to third base3a Knutson,Keegan advanced to second base.",95,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,8,bot,"Durnin,Kam struck out looking (0-2 KSK).",96,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614669,8,bot,"Peer,Kaden flied out to cf (0-1 S).",97,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,9,top,"MIZ substitution: Maisonet,Eric replaces Humbert,Leo at 2b, batting 6th.",98,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,9,top,"MIZ pitching change: Rosand,Sam replaces Skidmore,Eli.",99,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,9,top,"Putty,AJ struck out swinging (1-2 KBKS).",100,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,9,top,"Jennings,Collin grounded out to first base, unassisted (0-1 K).",101,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,9,top,"UICU substitution: Warehime,Cole pinch hitting for Contreras,Daniel.",102,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,9,top,"Warehime,Cole hit by pitch (1-2 KBSB).",103,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,9,top,"Warehime,Cole advanced to second base on defensive indifference.",104,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
+6549179,614624,Illinois Fighting Illini,614669,Missouri Tigers,614624,9,top,"Schupmann,Kyle grounded out to third base, 3b to 1b (2-2 BKBF).",105,2026-03-24T19:00:00-04:00,"O'Fallon, MO",1859,MBA,2026
