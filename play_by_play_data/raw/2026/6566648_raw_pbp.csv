@@ -1,0 +1,101 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,1,top,Aaron Johnson flied out to cf (1-0 B).,1,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,1,top,Chuck Cappello grounded out to ss (0-0).,2,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,1,top,Zachary Roethlein flied out to cf (1-2 BKF).,3,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,1,bot,Ryan Keating grounded out to 2b (1-0 B).,4,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,1,bot,Julian Galvan grounded out to 2b (0-0).,5,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,1,bot,Anthony Hackert struck out swinging (3-2 KBBBKS).,6,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,2,top,Joe DiMichele struck out looking (3-2 FKBFBBK).,7,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,2,top,Jacob Wiberg flied out to cf (1-2 KSB).,8,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,2,top,"Greyson Baldizar struck out swinging, out at first c to 1b (1-2 KSBS).",9,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,2,bot,Collin Harty walked (3-0 BBBB).,10,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,2,bot,Adam Pivacek lined out to rf (1-1 BF).,11,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,2,bot,Andrew Rocca popped up to 2b (0-0).,12,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,2,bot,Jack Raymond walked (3-0 BBBB)3a Collin Harty advanced to second.,13,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,2,bot,"Bryce Morrisette singled to right field, RBI (1-1 BK)3a Jack Raymond advanced to third3a Collin Harty scored.",14,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,2,bot,Kyle Birks struck out swinging (2-2 BBKSFS).,15,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,3,top,Shane McLaughlin grounded out to 2b (0-0).,16,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,3,top,Andrew Flamini struck out swinging (1-2 FBKS).,17,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,3,top,Liam Keblin grounded out to ss (1-2 KBKF).,18,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,3,bot,Damon Chase to p for Joseph Conti.,19,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,3,bot,Ryan Keating doubled to center field (1-0 B).,20,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,3,bot,Julian Galvan grounded out to ss (1-0 B)3a Ryan Keating advanced to third.,21,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,3,bot,Anthony Hackert walked (3-1 BBKBB).,22,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,3,bot,Anthony Hackert stole second.,23,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,3,bot,"Collin Harty doubled to center field, 2 RBI (2-2 BKFBF)3a Anthony Hackert scored3a Ryan Keating scored.",24,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,3,bot,Adam Pivacek flied out to rf (0-1 K)3a Collin Harty advanced to third.,25,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,3,bot,"Andrew Rocca singled to left field, RBI (0-0)3a Collin Harty scored.",26,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,3,bot,"Jack Raymond tripled to left center, RBI (0-1 K)3a Andrew Rocca scored.",27,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,3,bot,Bryce Morrisette flied out to cf (0-0).,28,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,4,top,Aaron Johnson grounded out to 2b (2-2 KBBK).,29,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,4,top,Chuck Cappello singled to third base (0-2 KK).,30,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,4,top,Zachary Roethlein walked (3-0 BBBB)3a Chuck Cappello advanced to second.,31,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,4,top,Zachary Roethlein advanced to second3a Chuck Cappello advanced to third on a passed ball.,32,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,4,top,Joe DiMichele walked (3-2 KBBFBB).,33,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,4,top,"Jacob Wiberg singled to center field, RBI (2-2 KBBKF)3a Joe DiMichele advanced to second3a Zachary Roethlein advanced to third3a Chuck Cappello scored, unearned.",34,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,4,top,Tony Abed to p for Ashton Hammond.,35,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,4,top,"Greyson Baldizar walked, RBI (3-1 BBBKB)3a Jacob Wiberg advanced to second3a Joe DiMichele advanced to third3a Zachary Roethlein scored, unearned.",36,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,4,top,"Shane McLaughlin flied out to cf, sacrifice fly, RBI (0-0)3a Joe DiMichele scored.",37,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,4,top,Andrew Flamini reached on a fielder's choice (0-0)3a Greyson Baldizar out at second 3b to 2b.,38,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,4,bot,Kyle Birks infield fly to 2b (1-1 KB).,39,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,4,bot,Ryan Keating grounded out to 1b unassisted (3-2 BBBKK).,40,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,4,bot,Julian Galvan singled to right field (0-0).,41,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,4,bot,Julian Galvan stole second.,42,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,4,bot,Anthony Hackert grounded out to ss (3-1 BBFB).,43,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,5,top,Liam Keblin flied out to rf (3-2 BKBFB).,44,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,5,top,Aaron Johnson walked (3-2 BBBKKB).,45,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,5,top,Chuck Cappello singled to left field (1-1 SB)3a Aaron Johnson advanced to second.,46,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,5,top,Clark Churchill to p for Tony Abed.,47,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,5,top,Zachary Roethlein singled to shortstop (0-0)3a Chuck Cappello advanced to second3a Aaron Johnson advanced to third.,48,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,5,top,Joe DiMichele struck out swinging (1-2 FBSFFS).,49,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,5,top,Jacob Wiberg grounded out to p (1-1 BK).,50,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,5,bot,Alex Hee to p for Damon Chase.,51,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,5,bot,Collin Harty infield fly to 2b (2-2 BKKB).,52,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,5,bot,Adam Pivacek grounded out to ss (0-1 K).,53,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,5,bot,Andrew Rocca struck out swinging (0-2 KFS).,54,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,6,top,Greyson Baldizar struck out looking (0-2 KKK).,55,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,6,top,Shane McLaughlin grounded out to ss (1-2 KBKF).,56,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,6,top,Andrew Flamini out at first 1b to p (0-0).,57,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,6,bot,Kaiden Williams to p for Alex Hee.,58,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,6,bot,Jack Raymond singled to left field (1-1 BS).,59,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,6,bot,"Jack Raymond out at second c to ss, caught stealing.",60,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,6,bot,Bryce Morrisette flied out to cf (3-2 BBKFB).,61,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,6,bot,Kyle Birks grounded out p to 3b to 1b (0-1 K).,62,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,7,top,Liam Keblin grounded out to 2b (0-2 KK).,63,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,7,top,Luca Simonelli to p for Clark Churchill.,64,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,7,top,Aaron Johnson walked (3-0 BBBB).,65,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,7,top,Ryan Keating to cf.,66,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,7,top,Adam Pivacek to rf.,67,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,7,top,Andrew Rocca to p.,68,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,7,top,Jack Raymond to lf.,69,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,7,top,Luca Simonelli to dh.,70,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,7,top,Chuck Cappello walked (3-2 BKBSBFFBBKBSBFFB)3a Aaron Johnson advanced to second.,71,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,7,top,Nicholas Willand to p for Andrew Rocca.,72,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,7,top,Chuck Cappello stole second3a Aaron Johnson stole third.,73,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,7,top,Zachary Roethlein struck out swinging (3-2 BBKKBS).,74,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,7,top,Joe DiMichele struck out looking (2-2 BBKKK).,75,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,7,bot,Brian Riley to p for Kaiden Williams.,76,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,7,bot,Ryan Keating struck out swinging (2-2 SBKBS).,77,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,7,bot,Julian Galvan flied out to rf (1-2 FBK).,78,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,7,bot,Anthony Hackert flied out to rf (0-0).,79,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,8,top,Jacob Wiberg lined out to lf (2-1 BFB).,80,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,8,top,Jack Zawacki pinch hit for Greyson Baldizar.,81,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,8,top,Jack Zawacki singled up the middle (1-0 B).,82,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,8,top,Shane McLaughlin struck out looking (2-2 BKBFK).,83,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,8,top,James DiGiovanni pinch hit for Andrew Flamini.,84,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,8,top,James DiGiovanni struck out looking (2-2 BFKBK).,85,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,8,bot,Jack Zawacki to rf.,86,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,8,bot,Spencer Merrick to c for James DiGiovanni.,87,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,8,bot,Mason Walls to p for Brian Riley.,88,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,8,bot,Collin Harty flied out to cf (2-2 BFFB).,89,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,8,bot,Adam Pivacek hit by pitch (1-1 KH).,90,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,8,bot,"Nicholas Willand grounded out to p, SAC (0-2 FF)3a Adam Pivacek advanced to second.",91,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,8,bot,Jack Raymond walked (3-0 BBBB).,92,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,8,bot,"Bryce Morrisette singled to left field, advanced to second on an error by lf, 2 RBI (2-1 BKB)3a Jack Raymond scored, unearned3a Adam Pivacek scored.",93,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,8,bot,Kyle Birks walked (3-1 BBKBB).,94,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,8,bot,Michael Domino to p for Mason Walls.,95,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615300,8,bot,Ryan Keating struck out swinging (0-2 FKS).,96,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,9,top,Liam Keblin grounded out to p (0-2 FK).,97,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,9,top,Aaron Johnson flied out to rf (1-0 B).,98,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,9,top,Chuck Cappello singled up the middle (0-0).,99,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
+6566648,615405,WPI Engineers,615300,Nichols Bison,615405,9,top,Zachary Roethlein flied out to rf (0-2 KKFFF).,100,2026-03-26T00:00:00-04:00,"Nichols Baseball Field (Dudley, MA)",0,MBA,2026
