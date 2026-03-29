@@ -1,38 +1,40 @@
 season,season_name,sport_id,ncaa_division,ncaa_division_formatted,team_conference_name,school_id,school_name,player_id,player_jersey_num,player_full_name,player_first_name,player_last_name,player_class,player_positions,player_height_string,player_weight,player_batting_hand,player_throwing_hand,player_hometown,player_high_school,player_G,player_GS,player_url
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9694241,35,Jeremy Angeles,Jeremy,Angeles,Jr.,C,-,,,,,,3,3,https://stats.ncaa.org/players/9694241
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9677018,29,Callahan Bullens,Callahan,Bullens,Sr.,C,6-0,,RIGHT,RIGHT,"Chicopee, MA",Chicopee Comp,2,0,https://stats.ncaa.org/players/9677018
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235934,9,Tim Callahan,Tim,Callahan,Sr.,INF,-,,,,,,4,4,https://stats.ncaa.org/players/11235934
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9677295,34,Shea Caton,Shea,Caton,Sr.,P,-,,,,,,2,0,https://stats.ncaa.org/players/9677295
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235967,37,Joshua Cavas,Joshua,Cavas,So.,P,-,,,,,,0,0,https://stats.ncaa.org/players/11235967
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9677160,30,Benjamin Conlon,Benjamin,Conlon,So.,P,-,,,,,,1,0,https://stats.ncaa.org/players/9677160
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235965,77,Tyler Conners,Tyler,Conners,So.,INF,-,,,,,,0,0,https://stats.ncaa.org/players/11235965
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9686024,14,Derrick Dellea,Derrick,Dellea,So.,P,-,,,,,,1,0,https://stats.ncaa.org/players/9686024
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9685754,8,Luke Descheneaux,Luke,Descheneaux,Sr.,P,6-0,,LEFT,RIGHT,,,2,1,https://stats.ncaa.org/players/9685754
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9694241,35,Jeremy Angeles,Jeremy,Angeles,Jr.,C,-,,,,,,12,11,https://stats.ncaa.org/players/9694241
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9677018,29,Callahan Bullens,Callahan,Bullens,Sr.,C,6-0,,RIGHT,RIGHT,"Chicopee, MA",Chicopee Comp,4,0,https://stats.ncaa.org/players/9677018
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235934,9,Tim Callahan,Tim,Callahan,Sr.,INF,-,,,,,,14,14,https://stats.ncaa.org/players/11235934
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9677295,34,Shea Caton,Shea,Caton,Sr.,P,-,,,,,,6,0,https://stats.ncaa.org/players/9677295
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235967,37,Joshua Cavas,Joshua,Cavas,So.,P,-,,,,,,3,0,https://stats.ncaa.org/players/11235967
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9677160,30,Benjamin Conlon,Benjamin,Conlon,So.,P,-,,,,,,4,1,https://stats.ncaa.org/players/9677160
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235965,77,Tyler Conners,Tyler,Conners,So.,INF,-,,,,,,2,0,https://stats.ncaa.org/players/11235965
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9686024,14,Derrick Dellea,Derrick,Dellea,So.,P,-,,,,,,4,2,https://stats.ncaa.org/players/9686024
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9685754,8,Luke Descheneaux,Luke,Descheneaux,Sr.,P,6-0,,LEFT,RIGHT,,,4,2,https://stats.ncaa.org/players/9685754
 2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235917,26,Sawywe DiMatteo,Sawywe,DiMatteo,Fr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/11235917
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235957,11,Matthew Dinoff,Matthew,Dinoff,Jr.,P,-,,,,,,0,0,https://stats.ncaa.org/players/11235957
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9697543,23,Tommy Flanagan,Tommy,Flanagan,Jr.,P,-,,,,,,1,0,https://stats.ncaa.org/players/9697543
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235960,16,Tyus Freidman,Tyus,Freidman,So.,INF,-,,,,,,0,0,https://stats.ncaa.org/players/11235960
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235948,12,Connor Freitas,Connor,Freitas,Sr.,INF,5-10,,RIGHT,RIGHT,"Portsmouth, RI",Portsmouth HS,4,4,https://stats.ncaa.org/players/11235948
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235916,19,Nicholas Groussis,Nicholas,Groussis,Fr.,UT,-,,,,,,2,0,https://stats.ncaa.org/players/11235916
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235962,28,James Hereford,James,Hereford,So.,P,-,,,,,,0,0,https://stats.ncaa.org/players/11235962
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235919,44,Tyler Holt,Tyler,Holt,Fr.,OF,-,,,,,,2,0,https://stats.ncaa.org/players/11235919
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235914,13,Andrew Hosford,Andrew,Hosford,Fr.,INF,-,,,,,,1,0,https://stats.ncaa.org/players/11235914
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235983,7,Robert Leyva,Robert,Leyva,Jr.,INF,-,,,,,,4,2,https://stats.ncaa.org/players/11235983
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9681141,0,Ty Lohsen,Ty,Lohsen,Jr.,P,-,,,,,,1,1,https://stats.ncaa.org/players/9681141
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9694880,5,Bobby Long,Bobby,Long,Jr.,INF,-,,,,,,4,4,https://stats.ncaa.org/players/9694880
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235957,11,Matthew Dinoff,Matthew,Dinoff,Jr.,P,-,,,,,,1,0,https://stats.ncaa.org/players/11235957
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9697543,23,Tommy Flanagan,Tommy,Flanagan,Jr.,P,-,,,,,,4,0,https://stats.ncaa.org/players/9697543
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235960,16,Tyus Freidman,Tyus,Freidman,So.,INF,-,,,,,,1,0,https://stats.ncaa.org/players/11235960
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235948,12,Connor Freitas,Connor,Freitas,Sr.,INF,5-10,,RIGHT,RIGHT,"Portsmouth, RI",Portsmouth HS,14,14,https://stats.ncaa.org/players/11235948
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235916,19,Nicholas Groussis,Nicholas,Groussis,Fr.,UT,-,,,,,,7,0,https://stats.ncaa.org/players/11235916
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235962,28,James Hereford,James,Hereford,So.,P,-,,,,,,1,0,https://stats.ncaa.org/players/11235962
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235919,44,Tyler Holt,Tyler,Holt,Fr.,OF,-,,,,,,4,0,https://stats.ncaa.org/players/11235919
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235914,13,Andrew Hosford,Andrew,Hosford,Fr.,INF,-,,,,,,5,3,https://stats.ncaa.org/players/11235914
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11332333,48,Bryce Isquith,Bryce,Isquith,---,p,-,,,,,,2,0,https://stats.ncaa.org/players/11332333
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235983,7,Robert Leyva,Robert,Leyva,Jr.,INF,-,,,,,,7,3,https://stats.ncaa.org/players/11235983
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9681141,0,Ty Lohsen,Ty,Lohsen,Jr.,P,-,,,,,,3,3,https://stats.ncaa.org/players/9681141
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9694880,5,Bobby Long,Bobby,Long,Jr.,INF,-,,,,,,12,12,https://stats.ncaa.org/players/9694880
 2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235949,20,Adam Marsh,Adam,Marsh,Sr.,P,5-11,,RIGHT,RIGHT,"West Warwick, RI",Bishop Hendricken,1,1,https://stats.ncaa.org/players/11235949
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9698042,2,Tyler McDonald,Tyler,McDonald,Jr.,INF,-,,,,,,4,4,https://stats.ncaa.org/players/9698042
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9681988,25,Will McPherson,Will,McPherson,So.,P,-,,,,,,1,0,https://stats.ncaa.org/players/9681988
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235961,18,Alexander Munz,Alexander,Munz,So.,P,-,,,,,,0,0,https://stats.ncaa.org/players/11235961
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9687973,3,Jonah Nielsen,Jonah,Nielsen,Sr.,OF,-,,,,,,4,4,https://stats.ncaa.org/players/9687973
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9679532,4,Nick Nigro,Nick,Nigro,Jr.,INF,-,,,,,,2,2,https://stats.ncaa.org/players/9679532
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235959,15,Hayden Nunley,Hayden,Nunley,So.,INF,-,,,,,,1,0,https://stats.ncaa.org/players/11235959
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9698042,2,Tyler McDonald,Tyler,McDonald,Jr.,INF,-,,,,,,14,14,https://stats.ncaa.org/players/9698042
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9681988,25,Will McPherson,Will,McPherson,So.,P,-,,,,,,4,0,https://stats.ncaa.org/players/9681988
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235961,99,Alexander Munz,Alexander,Munz,So.,P,-,,,,,,0,0,https://stats.ncaa.org/players/11235961
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9687973,3,Jonah Nielsen,Jonah,Nielsen,Sr.,OF,-,,,,,,14,14,https://stats.ncaa.org/players/9687973
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9679532,4,Nick Nigro,Nick,Nigro,Jr.,INF,-,,,,,,8,7,https://stats.ncaa.org/players/9679532
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235959,15,Hayden Nunley,Hayden,Nunley,So.,INF,-,,,,,,4,0,https://stats.ncaa.org/players/11235959
 2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235964,32,Ashmer Pedraza,Ashmer,Pedraza,So.,C,-,,,,,,0,0,https://stats.ncaa.org/players/11235964
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235920,99,Calvin Sanft,Calvin,Sanft,Fr.,INF,-,,,,,,0,0,https://stats.ncaa.org/players/11235920
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235912,10,Braelen Silva,Braelen,Silva,Fr.,INF,-,,,,,,4,4,https://stats.ncaa.org/players/11235912
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9691301,1,Declan Silva,Declan,Silva,Jr.,OF,-,,,,,,4,4,https://stats.ncaa.org/players/9691301
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11331806,42,Lucas Stogner,Lucas,Stogner,---,p,-,,,,,,1,0,https://stats.ncaa.org/players/11331806
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9678828,33,Chase Supan,Chase,Supan,So.,P,-,,,,,,1,1,https://stats.ncaa.org/players/9678828
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9691937,21,Jeremy Wacker,Jeremy,Wacker,Jr.,P,-,,,,,,1,0,https://stats.ncaa.org/players/9691937
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235963,31,Michael Webber,Michael,Webber,So.,P,-,,,,,,0,0,https://stats.ncaa.org/players/11235963
-2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9687045,22,Matthew Williams,Matthew,Williams,Sr.,C,5-7,,RIGHT,RIGHT,"Middletown, RI",Middletown,1,1,https://stats.ncaa.org/players/9687045
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235920,19,Calvin Sanft,Calvin,Sanft,Fr.,INF,-,,,,,,6,2,https://stats.ncaa.org/players/11235920
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235912,10,Braelen Silva,Braelen,Silva,Fr.,INF,-,,,,,,14,14,https://stats.ncaa.org/players/11235912
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9691301,1,Declan Silva,Declan,Silva,Jr.,OF,-,,,,,,14,14,https://stats.ncaa.org/players/9691301
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11331806,42,Lucas Stogner,Lucas,Stogner,---,p,-,,,,,,2,0,https://stats.ncaa.org/players/11331806
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9678828,33,Chase Supan,Chase,Supan,So.,P,-,,,,,,3,3,https://stats.ncaa.org/players/9678828
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9691937,21,Jeremy Wacker,Jeremy,Wacker,Jr.,P,-,,,,,,5,0,https://stats.ncaa.org/players/9691937
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11235963,31,Michael Webber,Michael,Webber,So.,P,-,,,,,,3,0,https://stats.ncaa.org/players/11235963
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,9687045,22,Matthew Williams,Matthew,Williams,Sr.,C,5-7,,RIGHT,RIGHT,"Middletown, RI",Middletown,7,5,https://stats.ncaa.org/players/9687045
+2026,2025-26,MBA,3,III,Great Northeast,8486,Lasell,11378057,18,Andrew Yen,Andrew,Yen,Fr.,P,5-7,,RIGHT,RIGHT,,,1,0,https://stats.ncaa.org/players/11378057

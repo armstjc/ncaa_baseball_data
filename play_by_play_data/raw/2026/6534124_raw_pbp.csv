@@ -1,0 +1,102 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,1,top,"GRGAS,D popped up to ss (2-1 KBB).",1,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,1,top,"USHER,T struck out swinging (0-2 KSFS).",2,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,1,top,"BUCKLEY,N grounded out to ss (0-1 F).",3,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,1,bot,RUIZ struck out looking (2-2 KFBBK).,4,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,1,bot,SANDERS grounded out to p (1-1 KB).,5,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,1,bot,DUARTE walked (3-2 BBFKBB).,6,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,1,bot,ANGULO struck out swinging (0-2 FFS).,7,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,2,top,"JOHNSON,Q flied out to rf (1-2 KSB).",8,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,2,top,"SEPULVEDA,A singled up the middle (0-2 FF).",9,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,2,top,"CORTEZ,A singled to left center (0-0)3a SEPULVEDA,A advanced to third.",10,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,2,top,"SEGURA,J flied out to cf, SF, RBI (1-0 B)3a SEPULVEDA,A scored.",11,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,2,top,"RAGLAND,Z flied out to cf (0-1 F).",12,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,2,bot,NAHRA singled to left field (0-0).,13,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,2,bot,NAHRA stole second.,14,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,2,bot,BLADE walked (3-2 KBKBBB).,15,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,2,bot,"RICHMAN reached on an error by p, SAC (1-0 B)3a BLADE advanced to second3a NAHRA advanced to third.",16,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,2,bot,"ARGUELLES singled to right field, RBI (2-1 BFB)3a RICHMAN advanced to second3a BLADE advanced to third3a NAHRA scored.",17,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,2,bot,MURILLO struck out swinging (1-2 FKBS).,18,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,2,bot,"RUIZ singled to right field, RBI (2-1 BKB)3a ARGUELLES advanced to second3a RICHMAN advanced to third3a BLADE scored.",19,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,2,bot,"SANDERS singled to right center, 2 RBI (3-2 BBBKF)3a RUIZ advanced to third3a ARGUELLES scored3a RICHMAN scored, unearned.",20,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,2,bot,SANDERS stole second.,21,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,2,bot,"DUARTE singled to shortstop, RBI (1-2 BKK)3a SANDERS advanced to third3a RUIZ scored.",22,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,2,bot,DUARTE stole second.,23,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,2,bot,"ANGULO flied out to lf, SF, RBI (1-0 B)3a SANDERS scored.",24,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,2,bot,NAHRA flied out to cf (3-2 BSBBK).,25,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,3,top,"SAITZ,B flied out to cf (2-0 BB).",26,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,3,top,"GRGAS,D flied out to cf (2-2 BBKF).",27,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,3,top,"USHER,T walked (3-1 BFBBB).",28,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,3,top,"BUCKLEY,N flied out to rf (0-0).",29,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,3,bot,"PLAYMAN,V to p for TOWNLEY,J.",30,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,3,bot,BLADE doubled down the lf line (0-1 K).,31,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,3,bot,"RICHMAN doubled down the rf line, RBI (0-1 F)3a BLADE scored.",32,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,3,bot,ARGUELLES struck out swinging (2-2 BKFBS).,33,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,3,bot,MURILLO grounded out to ss (2-1 BFB).,34,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,3,bot,RUIZ popped up to ss (0-0).,35,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,4,top,"JOHNSON,Q struck out swinging (2-2 KBFFBFS).",36,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,4,top,"SEPULVEDA,A walked (3-2 BBFBFB).",37,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,4,top,"CORTEZ,A flied out to cf (2-2 BKFB).",38,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,4,top,"SEGURA,J struck out swinging (3-2 SBSBBS).",39,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,4,bot,SANDERS singled to left field (1-1 SB).,40,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,4,bot,"SANDERS stole second, advanced to third on an error by c.",41,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,4,bot,DUARTE popped up to 3b (1-1 KB).,42,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,4,bot,ANGULO walked (3-0 BBBB).,43,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,4,bot,NAHRA struck out swinging (2-2 BKBFS).,44,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,4,bot,BLADE popped up to ss (0-0).,45,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,5,top,"RAGLAND,Z struck out swinging (2-2 BKBSS).",46,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,5,top,"SAITZ,B struck out swinging (1-2 KKBFS).",47,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,5,top,"GRGAS,D walked (3-1 BBFBB).",48,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,5,top,"USHER,T struck out looking (1-2 FFBK).",49,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,5,bot,RICHMAN grounded out to 3b (1-0 B).,50,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,5,bot,ARGUELLES flied out to lf (2-2 KBBKF).,51,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,5,bot,MURILLO flied out to cf (1-1 KB).,52,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,6,top,"BUCKLEY,N hit by pitch (0-1 K).",53,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,6,top,"JOHNSON,Q lined out to 3b (2-2 SBBKFFFFFF).",54,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,6,top,"SEPULVEDA,A struck out swinging (0-2 FFS).",55,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,6,top,"CORTEZ,A flied out to cf (0-2 FFF).",56,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,6,bot,RUIZ walked (3-2 KBFBBB).,57,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,6,bot,"RUIZ out at second c to 2b, caught stealing.",58,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,6,bot,SANDERS struck out swinging (3-2 KBFBBS).,59,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,6,bot,DUARTE grounded out to 2b (1-0 B).,60,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,7,top,FERRARO to p for CAMPBELL.,61,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,7,top,"SEGURA,J walked (3-1 SBBBB).",62,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,7,top,"RAGLAND,Z flied out to cf (0-1 K).",63,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,7,top,"SAITZ,B flied out to lf (0-0).",64,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,7,top,"BALLOUE,M pinch hit for GRGAS,D.",65,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,7,top,"BALLOUE,M popped up to 2b (0-1 K).",66,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,7,bot,"BALLOUE,M to lf.",67,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,7,bot,ANGULO struck out swinging (2-2 BKFBS).,68,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,7,bot,NAHRA walked (3-2 SBBKBB).,69,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,7,bot,NAHRA advanced to second on a passed ball.,70,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,7,bot,BLADE singled to left field (2-0 BB)3a NAHRA advanced to third.,71,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,7,bot,BLADE advanced to second on a wild pitch.,72,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,7,bot,RICHMAN popped up to 2b (2-2 FKBB).,73,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,7,bot,"ARGUELLES singled to left field, 2 RBI (0-0)3a BLADE scored3a NAHRA scored.",74,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,7,bot,"LOGAN,B to p for PLAYMAN,V.",75,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,7,bot,MURILLO singled to pitcher (1-2 FBS)3a ARGUELLES advanced to second.,76,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,7,bot,RUIZ popped up to 2b (1-2 SBK).,77,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,8,top,"USHER,T flied out to cf (2-2 BFFB).",78,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,8,top,"CERVANTES,D pinch hit for BUCKLEY,N.",79,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,8,top,"CERVANTES,D struck out swinging (2-2 BFSBS).",80,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,8,top,"CAMARENA,J pinch hit for JOHNSON,Q.",81,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,8,top,"CAMARENA,J reached on an error by 3b (0-1 K).",82,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,8,top,"SMITH,C pinch hit for SEPULVEDA,A.",83,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,8,top,"SMITH,C flied out to rf (0-1 F).",84,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,8,bot,"CERVANTES,D to c.",85,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,8,bot,"CAMARENA,J to 2b.",86,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,8,bot,"SMITH,C to rf.",87,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,8,bot,SANDERS singled to left field (0-0).,88,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,8,bot,SANDERS stole second.,89,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,8,bot,DUARTE flied out to cf (2-1 BFB).,90,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,8,bot,ANGULO lined out to lf (0-1 K).,91,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615014,8,bot,NAHRA flied out to cf (1-1 KB).,92,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,9,top,PORTER to cf for DUARTE.,93,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,9,top,BLADE to rf.,94,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,9,top,"SCOTT,E pinch hit for CORTEZ,A.",95,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,9,top,"SCOTT,E walked (3-0 BBBB).",96,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,9,top,"SEGURA,J homered to left field, 2 RBI (3-2 BBKFB)3a SCOTT,E scored.",97,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,9,top,"PAXTON,W pinch hit for RAGLAND,Z.",98,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,9,top,"PAXTON,W struck out looking (1-2 SSBK).",99,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,9,top,"SAITZ,B struck out swinging (1-2 BSKFS).",100,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
+6534124,615015,Cal St. Dom. Hills Toros,615014,Cal Poly Pomona Broncos,615015,9,top,"BALLOUE,M flied out to cf (2-2 FFBB).",101,2026-03-27T21:00:00-04:00,"Scolinos Field (Pomona, CA)",110,MBA,2026
