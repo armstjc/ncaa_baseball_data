@@ -1,0 +1,84 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,1,top,Massimo Mondi singled to shortstop (0-0).,1,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,1,top,Christian Cox singled to left center (0-0); Massimo Mondi advanced to second.,2,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,1,top,Rosco Palmer flied out to lf (1-2 KKB).,3,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,1,top,Christian Cox advanced to second on a wild pitch; Massimo Mondi advanced to third.,4,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,1,top,"John Lynch flied out to rf, sacrifice fly, RBI (3-1 BBBK); Christian Cox advanced to third; Massimo Mondi scored.",5,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,1,top,Nicholas Kutcher lined out to cf (1-0 B).,6,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,1,bot,Andrew Denison struck out swinging (2-2 KKBBS).,7,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,1,bot,Mason Kolczewski walked (3-2 BKBSBB).,8,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,1,bot,Brady Aylward singled to third base (1-0 B); Mason Kolczewski advanced to second.,9,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,1,bot,Josh Batchelder hit by pitch (2-2 KFBH); Brady Aylward advanced to second; Mason Kolczewski advanced to third.,10,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,1,bot,Jonathan Guardascione struck out looking (1-2 FBKFK).,11,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,1,bot,"Brayden Wright singled to left center, 2 RBI (0-1 S); Josh Batchelder advanced to third; Brady Aylward scored; Mason Kolczewski scored.",12,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,1,bot,Jaiden Driscoll hit by pitch (3-1 BBKH); Brayden Wright advanced to second.,13,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,1,bot,"Aidan Landers singled to right field, RBI (0-1 F); Jaiden Driscoll advanced to second; Brayden Wright advanced to third, out at home rf to 2b to c; Josh Batchelder scored.",14,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,2,top,Zachary Kern struck out swinging (1-2 SKBS).,15,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,2,top,Samuel Conrad struck out swinging (3-2 KKFBBBFS).,16,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,2,top,Scott Paquette struck out looking (1-2 BSKK).,17,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,2,bot,Avery Acuna walked (3-2 KKBBBFB).,18,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,2,bot,Avery Acuna stole second.,19,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,2,bot,Andrew Denison singled up the middle (3-2 FBBBS); Avery Acuna advanced to third.,20,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,2,bot,Andrew Denison stole second.,21,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,2,bot,Mason Kolczewski walked (3-2 BBFBKB).,22,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,2,bot,"Brady Aylward flied out to cf, sacrifice fly, RBI (0-0); Andrew Denison advanced to third; Avery Acuna scored.",23,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,2,bot,Josh Batchelder walked (3-1 BBBKB); Mason Kolczewski advanced to second.,24,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,2,bot,Jonathan Guardascione grounded into double play 2b to ss to 1b (1-2 KBF); Josh Batchelder out on the play.,25,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,3,top,Colin Johnson singled to right field (0-1 K).,26,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,3,top,Colin Johnson stole second.,27,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,3,top,Massimo Mondi reached first on an error by ss (0-2 FK); Colin Johnson advanced to third.,28,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,3,top,Massimo Mondi stole second.,29,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,3,top,Christian Cox struck out swinging (3-2 BFBFFBS).,30,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,3,top,Rosco Palmer struck out swinging (0-2 SKS).,31,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,3,top,"John Lynch reached first on an error by ss (3-2 KBBBK); Massimo Mondi scored, unearned; Colin Johnson scored, unearned.",32,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,3,top,John Lynch advanced to second on a wild pitch.,33,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,3,top,Nicholas Kutcher struck out swinging (2-2 BSKBS).,34,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,3,bot,Garrett Lucht to p for Charlie Ambroult.,35,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,3,bot,Brayden Wright singled to left field (0-1 S).,36,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,3,bot,"Jaiden Driscoll grounded out to c, SAC, bunt (0-0); Brayden Wright advanced to second.",37,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,3,bot,Aidan Landers walked (3-1 BBBKB).,38,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,3,bot,"Avery Acuna doubled down the lf line, RBI (3-1 BSBB); Aidan Landers advanced to third; Brayden Wright scored.",39,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,3,bot,"Andrew Denison grounded out to ss, RBI (1-2 BFS); Avery Acuna advanced to third; Aidan Landers scored.",40,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,3,bot,Mason Kolczewski walked (3-2 BBKBKB).,41,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,3,bot,Brady Aylward lined out to 3b (0-0).,42,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,4,top,Zachary Kern reached first on an error by 2b (0-0).,43,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,4,top,Samuel Conrad struck out swinging (1-2 BFSS).,44,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,4,top,"Scott Paquette doubled down the lf line, RBI (1-1 BK); Zachary Kern scored, unearned.",45,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,4,top,Colin Johnson struck out swinging (1-2 KSBS).,46,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,4,top,Scott Paquette advanced to third on a wild pitch.,47,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,4,top,"Massimo Mondi reached first on an error by 3b (2-2 KFBBF); Scott Paquette scored, unearned.",48,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,4,top,Christian Cox flied out to cf (1-1 KB).,49,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,4,bot,Alexander Montero to p for Garrett Lucht.,50,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,4,bot,Josh Batchelder hit by pitch (1-0 H).,51,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,4,bot,Josh Batchelder advanced to second on a wild pitch.,52,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,4,bot,"Jonathan Guardascione singled up the middle, RBI (1-1 BF); Josh Batchelder scored.",53,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,4,bot,Brayden Wright reached on a fielder's choice (2-2 FBKB); Jonathan Guardascione out at second ss to 2b.,54,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,4,bot,Jaiden Driscoll reached on a fielder's choice (3-2 BBKBK); Brayden Wright out at second 3b to 2b.,55,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,4,bot,Jaiden Driscoll stole second.,56,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,4,bot,Aidan Landers struck out looking (2-2 BKBSFK).,57,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,5,top,Rosco Palmer struck out looking (2-2 FBKBK).,58,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,5,top,John Lynch grounded out to ss (1-0 B).,59,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,5,top,Nicholas Kutcher struck out swinging (1-2 KBSS).,60,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,5,bot,Ben Respress to p for Alexander Montero.,61,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,5,bot,Avery Acuna flied out to cf (3-2 BBSSB).,62,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,5,bot,Andrew Denison struck out looking (1-2 BKKK).,63,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,5,bot,Mason Kolczewski walked (3-1 BBSBB).,64,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,5,bot,Mason Kolczewski advanced to second on an error by p.,65,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,5,bot,Brady Aylward grounded out to p unassisted (1-0 B).,66,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,6,top,Zachary Kern grounded out to 3b (0-0).,67,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,6,top,Samuel Conrad grounded out to ss (0-2 KS).,68,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,6,top,Scott Paquette singled to shortstop (1-0 B).,69,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,6,top,Colin Johnson reached on a fielder's choice (0-0); Scott Paquette out at second ss to 2b.,70,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,6,bot,Josh Batchelder grounded out to 3b (0-0).,71,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,6,bot,Jonathan Guardascione singled to third base (0-2 KS).,72,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,6,bot,Jeremiah Douglas pinch ran for Jonathan Guardascione.,73,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,6,bot,Jeremiah Douglas stole second.,74,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,6,bot,Brayden Wright walked (3-1 BBBKB).,75,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,6,bot,Brayden Wright advanced to second on a wild pitch; Jeremiah Douglas advanced to third.,76,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,6,bot,Jaiden Driscoll struck out swinging (2-2 SKBBS).,77,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615146,6,bot,Aidan Landers grounded out to ss (2-2 KBKB).,78,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,7,top,Evan Dumeny to rf for Jaiden Driscoll.,79,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,7,top,Massimo Mondi singled up the middle (3-1 FBBB).,80,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,7,top,Christian Cox flied out to cf (2-1 BBS).,81,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,7,top,Rosco Palmer flied out to cf (1-2 BKK).,82,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
+6534152,615210,Framingham St. Rams,615146,Anna Maria AMCATS,615210,7,top,John Lynch grounded out to p (0-0).,83,2026-03-29T12:00:00-04:00,"Paxton, MA",245,MBA,2026
