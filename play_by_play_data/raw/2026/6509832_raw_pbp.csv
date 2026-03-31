@@ -1,0 +1,107 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,1,top,Guriyandel Salva flied out to cf (2-1 BBK).,1,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,1,top,Vincent Samuel walked (3-2 BKBBFB).,2,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,1,top,Andreaus Lewis walked (3-2 FBKFBBB)3a Vincent Samuel advanced to second.,3,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,1,top,Justin Best reached on a fielder's choice (3-1 BKBB)3a Andreaus Lewis out at second 2b to ss3a Vincent Samuel advanced to third.,4,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,1,top,Hunter Sute flied out to lf (1-0 B).,5,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,1,bot,DeShiro Matt hit by pitch (1-0 H).,6,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,1,bot,Cristino Greg reached on a fielder's choice (1-0 B)3a DeShiro Matt out at second 1b to 2b.,7,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,1,bot,Frammartino Joey walked (3-2 BSSBBB)3a Cristino Greg advanced to second.,8,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,1,bot,Frammartino Joey advanced to second3a Cristino Greg advanced to third on a wild pitch.,9,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,1,bot,Hamilton Jayden walked (3-2 KBBBFB).,10,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,1,bot,"Craigue Brooks doubled down the lf line, 2 RBI (0-1 F)3a Hamilton Jayden advanced to third3a Frammartino Joey scored3a Cristino Greg scored.",11,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,1,bot,"Scanlon Christian grounded out to 2b, RBI (1-1 BK)3a Craigue Brooks advanced to third3a Hamilton Jayden scored.",12,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,1,bot,Andrews Jack hit by pitch (1-0 H).,13,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,1,bot,Andrews Jack stole second3a Craigue Brooks stole home.,14,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,1,bot,DePalma Jack grounded out to 2b (0-2 KKF).,15,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,2,top,Colin Basehore grounded out to 3b (0-1 K).,16,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,2,top,Jeremy Sosa lined out to rf (1-2 KBS).,17,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,2,top,Trevor Hansen doubled down the lf line (2-2 BKBF).,18,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,2,top,Ryan Lordier flied out to lf (2-0 BB).,19,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,2,bot,Goode Chris hit by pitch (3-2 BKFBH).,20,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,2,bot,DeShiro Matt singled to left center (1-1 BK)3a Goode Chris advanced to second.,21,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,2,bot,"Cristino Greg doubled down the lf line, RBI (0-0)3a DeShiro Matt advanced to third3a Goode Chris scored.",22,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,2,bot,"Frammartino Joey grounded out to 1b unassisted, RBI (1-0 B)3a Cristino Greg advanced to third3a DeShiro Matt scored.",23,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,2,bot,Hamilton Jayden singled to third base (0-0)3a Cristino Greg did not advance.,24,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,2,bot,"Craigue Brooks singled to center field, RBI (0-1 K)3a Hamilton Jayden advanced to second3a Cristino Greg scored.",25,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,2,bot,Scanlon Christian struck out looking (3-2 FBFFBBK).,26,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,2,bot,"Andrews Jack singled up the middle, RBI (1-1 BF)3a Craigue Brooks advanced to second3a Hamilton Jayden scored.",27,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,2,bot,Matthew Steinberg to p for Joseph Duffield.,28,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,2,bot,"DePalma Jack singled to center field, RBI (2-0 BB)3a Andrews Jack advanced to third3a Craigue Brooks scored.",29,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,2,bot,Goode Chris flied out to lf (2-1 BFB).,30,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,3,top,Hunkele Nick to p for Kieinser Chris.,31,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,3,top,Guriyandel Salva struck out swinging (0-2 FFS).,32,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,3,top,Vincent Samuel grounded out to 3b (1-0 B).,33,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,3,top,Andreaus Lewis grounded out to p (2-2 KKBB).,34,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,3,bot,DeShiro Matt struck out swinging (2-2 KKBBS).,35,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,3,bot,"Cristino Greg homered to left field, RBI (0-0).",36,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,3,bot,Frammartino Joey walked (3-1 KBBBB).,37,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,3,bot,Hamilton Jayden struck out looking (2-2 KKFBBK).,38,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,3,bot,Craigue Brooks struck out swinging (0-2 SSS).,39,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,4,top,Justin Best flied out to cf (1-1 BK).,40,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,4,top,Hunter Sute doubled down the rf line (1-0 B).,41,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,4,top,Colin Basehore walked (3-2 KFBBBB).,42,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,4,top,Jeremy Sosa flied out to cf (0-1 F).,43,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,4,top,Trevor Hansen struck out swinging (1-2 KBFS).,44,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,4,bot,Scanlon Christian struck out swinging (3-2 FBKBBS).,45,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,4,bot,Andrews Jack hit by pitch (1-0 H).,46,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,4,bot,DePalma Jack doubled down the lf line (1-0 B)3a Andrews Jack advanced to third.,47,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,4,bot,Goode Chris fouled out to 1b (0-1 K).,48,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,4,bot,DePalma Jack scored3a Andrews Jack scored on a wild pitch.,49,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,4,bot,DeShiro Matt singled up the middle (3-2 BBKFB).,50,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,4,bot,Cristino Greg flied out to lf (0-0).,51,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,5,top,Ryan Lordier grounded out to 2b (3-2 BKFBBF).,52,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,5,top,Guriyandel Salva lined out to 1b (0-1 S).,53,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,5,top,Vincent Samuel struck out swinging (2-2 KBBSS).,54,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,5,bot,Brendan Lewis to p for Matthew Steinberg.,55,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,5,bot,Frammartino Joey walked (3-1 BBBKB).,56,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,5,bot,Hamilton Jayden struck out swinging (3-2 KBBFBS).,57,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,5,bot,Craigue Brooks lined out to cf (3-2 BKBFBF).,58,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,5,bot,Scanlon Christian singled to right field (1-1 KB)3a Frammartino Joey advanced to second.,59,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,5,bot,Andrews Jack singled to pitcher (2-2 BKBF)3a Scanlon Christian advanced to second3a Frammartino Joey advanced to third.,60,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,5,bot,DePalma Jack struck out looking (3-2 SBBKBK).,61,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,6,top,Holmes AJ to p for Hunkele Nick.,62,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,6,top,Andreaus Lewis popped up to ss (1-0 B).,63,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,6,top,Justin Best walked (3-1 BFBBB).,64,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,6,top,Hunter Sute grounded into double play 1b to ss to 1b (2-0 BB)3a Justin Best out on the play.,65,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,6,bot,Goode Chris flied out to cf (1-0 B).,66,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,6,bot,DeShiro Matt walked (3-1 BKBBB).,67,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,6,bot,Cristino Greg grounded out to ss (0-1 F)3a DeShiro Matt advanced to second.,68,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,6,bot,"Frammartino Joey doubled down the lf line, RBI (0-0)3a DeShiro Matt scored.",69,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,6,bot,Hamilton Jayden flied out to cf (1-1 BK).,70,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,7,top,Colin Basehore reached first on a throwing error by 3b (1-2 BFF).,71,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,7,top,Jeremy Sosa popped up to 2b (1-2 KSB).,72,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,7,top,Colin Basehore advanced to second on a wild pitch.,73,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,7,top,Trevor Hansen struck out swinging (2-2 BFFFBS).,74,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,7,top,Colin Basehore advanced to third on a wild pitch.,75,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,7,top,Ryan Lordier lined out to cf (2-2 FFBFBF).,76,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,7,bot,Landon Kuntzelman to p for Brendan Lewis.,77,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,7,bot,Jackson Brinker to cf for Jeremy Sosa.,78,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,7,bot,Dylan Mayer to lf for Colin Basehore.,79,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,7,bot,Craigue Brooks struck out swinging (1-2 SFBS).,80,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,7,bot,Scanlon Christian struck out looking (1-2 FKBK).,81,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,7,bot,Andrews Jack grounded out to 3b (1-2 KFB).,82,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,8,top,Sherman Samuel to 2b for DeShiro Matt.,83,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,8,top,Guriyandel Salva lined out to cf (1-0 B).,84,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,8,top,Vincent Samuel lined out to lf (2-1 BBS).,85,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,8,top,Andreaus Lewis singled down the rf line (0-0).,86,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,8,top,Payton Matthews pinch ran for Andreaus Lewis.,87,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,8,top,Justin Best singled up the middle (0-0)3a Payton Matthews advanced to second.,88,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,8,top,Hayden Jung-Goldberg pinch ran for Justin Best.,89,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,8,top,Hunter Sute struck out swinging (1-2 KKBS).,90,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,8,bot,Hayden Jung-Goldberg to rf.,91,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,8,bot,Jackson Babione to 2b for Guriyandel Salva.,92,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,8,bot,Josiah Brown to 3b for Vincent Samuel.,93,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,8,bot,DePalma Jack walked (3-2 BBKBKB).,94,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,8,bot,Caden Christman to c for Hunter Sute.,95,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,8,bot,Goode Chris singled through the left side (0-2 FK)3a DePalma Jack advanced to second.,96,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,8,bot,Sherman Samuel singled up the middle (2-1 BBF)3a Goode Chris advanced to second3a DePalma Jack advanced to third.,97,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,8,bot,Cristino Greg reached on a fielder's choice (2-1 BFB)3a Sherman Samuel advanced to second3a Goode Chris advanced to third3a DePalma Jack out at home p to c.,98,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,8,bot,Decrescenso Tyler pinch hit for Frammartino Joey.,99,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,8,bot,"Decrescenso Tyler flied out to rf, sacrifice fly, RBI (1-0 B)3a Sherman Samuel advanced to third3a Goode Chris scored.",100,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614826,8,bot,Hamilton Jayden grounded out to 2b (3-2 KBBKFB).,101,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,9,top,Loper Bobby to p for Holmes AJ.,102,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,9,top,Dylan Mayer struck out swinging (1-2 KSBS).,103,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,9,top,Jackson Brinker struck out looking (3-2 KSBBBK).,104,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,9,top,Trevor Hansen walked (3-2 BSSBBB).,105,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026
+6509832,614650,Manhattan Jaspers,614826,Merrimack Warriors,614650,9,top,Ryan Lordier grounded out to 3b (1-2 BKK).,106,2026-03-28T13:00:00-04:00,"North Andover, MA",36,MBA,2026

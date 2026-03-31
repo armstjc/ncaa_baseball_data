@@ -1,0 +1,88 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,1,top,"PRIDGEN, P. struck out looking (1-2 FFFBK).",1,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,1,top,"TAYLOR, Z. singled through the right side (2-0 BB).",2,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,1,top,"VELAZQUEZ, R struck out swinging (2-2 KBBFFFS).",3,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,1,top,"WISDOM, T. struck out swinging (0-2 KSFS).",4,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,1,bot,"GWYN, Parker flied out to lf (0-0).",5,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,1,bot,"MOSENI, Keon singled to right field (1-1 BS).",6,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,1,bot,"NEGRE, Nate grounded into double play ss to 2b to 1b (0-0)3a MOSENI, Keon out on the play.",7,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,2,top,"JOHNSON, C. grounded out to 3b (2-2 FBBF).",8,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,2,top,"MATIAS, A. grounded out to 3b (2-2 KBKB).",9,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,2,top,"ADKINS, D. struck out swinging (2-2 BKFFBS).",10,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,2,bot,"ALLEN, Zeb struck out looking (2-2 KBFBK).",11,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,2,bot,"REYNOLDS, Sa grounded out to 2b (1-2 BKS).",12,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,2,bot,"SCHATTLE, Ja grounded out to c (2-2 BFKFB).",13,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,3,top,"PROCTOR, K. grounded out to 3b (0-1 K).",14,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,3,top,"CONLEY, T. lined out to 2b (1-2 BKF).",15,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,3,top,"PRIDGEN, P. struck out swinging (0-2 KSS).",16,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,3,bot,"RUNSICK, Jac struck out swinging (2-2 KSBBS).",17,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,3,bot,"SLOAN, Jayde flied out to rf (0-0).",18,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,3,bot,"DENTON, Zane reached on a throwing error by 3b (0-2 FS).",19,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,3,bot,"GWYN, Parker singled to center field (2-0 BB)3a DENTON, Zane advanced to second.",20,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,3,bot,"MOSENI, Keon hit by pitch (1-1 BK)3a GWYN, Parker advanced to second3a DENTON, Zane advanced to third.",21,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,3,bot,"NEGRE, Nate doubled down the lf line, 2 RBI (2-2 FFFBFB)3a MOSENI, Keon advanced to third3a GWYN, Parker scored, unearned3a DENTON, Zane scored, unearned.",22,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,3,bot,"ALLEN, Zeb intentionally walked.",23,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,3,bot,"ALLEN, Zeb advanced to second3a NEGRE, Nate advanced to third3a MOSENI, Keon scored on a wild pitch, unearned.",24,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,3,bot,"REYNOLDS, Sa grounded out to 3b (1-1 BK).",25,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,4,top,"TAYLOR, Z. doubled to center field (1-0 B).",26,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,4,top,"VELAZQUEZ, R popped up to 1b (1-0 B).",27,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,4,top,"WISDOM, T. grounded out to 2b (0-2 SF)3a TAYLOR, Z. advanced to third.",28,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,4,top,"JOHNSON, C. grounded out to ss (0-0).",29,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,4,bot,"MCCAIN, B. to p for SHATWELL, K..",30,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,4,bot,"SCHATTLE, Ja hit by pitch (0-0).",31,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,4,bot,"SCHATTLE, Ja advanced to second on a wild pitch.",32,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,4,bot,"RUNSICK, Jac struck out swinging (3-2 BKBBSFS).",33,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,4,bot,"SLOAN, Jayde singled up the middle (0-1 K)3a SCHATTLE, Ja advanced to third.",34,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,4,bot,"DENTON, Zane singled to center field, RBI (2-2 BBKS)3a SLOAN, Jayde advanced to second3a SCHATTLE, Ja scored.",35,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,4,bot,"SLOAN, Jayde stole third.",36,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,4,bot,"GWYN, Parker grounded out to p, SAC, bunt (1-1 BK)3a DENTON, Zane advanced to second.",37,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,4,bot,"MOSENI, Keon reached on a fielding error by cf, advanced to second (1-2 KKB)3a DENTON, Zane scored, unearned3a SLOAN, Jayde scored, unearned.",38,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,4,bot,"MERRIWEATHER to cf for PRIDGEN, P..",39,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,4,bot,"PANGBORN, M. to ss for MATIAS, A..",40,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,4,bot,"NEGRE, Nate flied out to lf (1-1 KB).",41,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,5,top,"PANGBORN, M. struck out swinging (0-2 KFS).",42,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,5,top,"ADKINS, D. struck out swinging (0-2 SKS).",43,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,5,top,"PROCTOR, K. hit by pitch (0-0).",44,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,5,top,"PROCTOR, K. stole second.",45,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,5,top,"CONLEY, T. walked (3-2 BFBBFFB).",46,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,5,top,MERRIWEATHER grounded out to p (0-2 FS).,47,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,5,bot,"ALLEN, Zeb tripled down the rf line (1-2 BSKF).",48,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,5,bot,"REYNOLDS, Sa flied out to lf, SAC, RBI (1-1 KB)3a ALLEN, Zeb scored.",49,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,5,bot,"SCHATTLE, Ja out at first p to ss to 1b (0-2 SS).",50,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,5,bot,"RUNSICK, Jac hit by pitch (2-2 FBKFB).",51,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,5,bot,"SLOAN, Jayde singled through the right side (2-0 BB)3a RUNSICK, Jac advanced to third.",52,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,5,bot,"DENTON, Zane grounded out to ss (0-2 KS).",53,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,6,top,"TAYLOR, Z. struck out looking (2-2 BKBKK).",54,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,6,top,"VELAZQUEZ, R struck out swinging (2-2 BKSBS).",55,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,6,top,"WISDOM, T. struck out swinging, out at first c to 1b (2-2 BFFFFBFFS).",56,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,6,bot,"COSTELLO, T. to 2b for PROCTOR, K..",57,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,6,bot,"GWYN, Parker struck out swinging (0-2 KFFS).",58,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,6,bot,"MOSENI, Keon grounded out to 2b (2-1 FBB).",59,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,6,bot,"NEGRE, Nate struck out swinging (2-2 BKKFBS).",60,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,7,top,"JOHNSON, C. grounded out to p (0-2 KFFF).",61,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,7,top,"PANGBORN, M. struck out looking (2-2 KBSBK).",62,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,7,top,"ADKINS, D. struck out swinging (1-2 BSSS).",63,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,7,bot,"UNDERHILL, E to p for MCCAIN, B..",64,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,7,bot,"ALLEN, Zeb hit by pitch (0-0).",65,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,7,bot,"ALLEN, Zeb stole second.",66,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,7,bot,"REYNOLDS, Sa flied out to rf (1-2 BFK)3a ALLEN, Zeb advanced to third.",67,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,7,bot,"SCHATTLE, Ja hit by pitch (1-0 B).",68,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,7,bot,"RUNSICK, Jac hit by pitch (1-1 KB)3a SCHATTLE, Ja advanced to second.",69,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,7,bot,"SLOAN, Jayde walked, RBI (3-1 BBFBB)3a RUNSICK, Jac advanced to second3a SCHATTLE, Ja advanced to third3a ALLEN, Zeb scored.",70,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,7,bot,"LEWIS, A. to p for UNDERHILL, E.",71,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,7,bot,"DENTON, Zane lined out to rf (3-1 BBBK).",72,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,7,bot,"GWYN, Parker flied out to cf (2-2 KBBK).",73,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,8,top,"ALEXANDER, H to p for HAMILTON, De.",74,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,8,top,"COSTELLO, T. flied out to rf (1-0 B).",75,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,8,top,"CONLEY, T. grounded out to ss (0-1 K).",76,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,8,top,MERRIWEATHER grounded out to 2b (3-1 BBBK).,77,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,8,bot,"MOSENI, Keon walked (3-0 BBBB).",78,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,8,bot,"NEGRE, Nate struck out swinging (2-2 BBKFS).",79,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,8,bot,"ALLEN, Zeb struck out swinging (0-2 KKS).",80,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614825,8,bot,"REYNOLDS, Sa grounded out to 1b unassisted (1-1 BK).",81,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,9,top,"TAYLOR, Z. grounded out to 1b unassisted (3-2 FBBSBF).",82,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,9,top,"VELAZQUEZ, R flied out to lf (1-1 KB).",83,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,9,top,"PICKERING, M pinch hit for WISDOM, T..",84,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,9,top,"PICKERING, M struck out swinging, reached first on a wild pitch (2-2 BSFBS).",85,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,9,top,"PICKERING, M advanced to second on a wild pitch.",86,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
+6526923,614858,Austin Peay Governors,614825,Central Ark. Bears,614858,9,top,"JOHNSON, C. struck out swinging (3-2 KSBBBS).",87,2026-03-28T17:00:00-04:00,"Bear Stadium (Conway, AR)",476,MBA,2026
