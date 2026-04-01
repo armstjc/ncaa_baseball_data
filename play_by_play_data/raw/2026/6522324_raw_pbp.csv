@@ -1,0 +1,101 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,1,top,No play.,1,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,1,top,"BEAN, B grounded out to ss (0-0).",2,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,1,top,"SWYGART, T singled to right center (1-2 BKF).",3,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,1,top,"MILLER, N reached on a fielder's choice (1-2 KSFB)3a SWYGART, T out at second ss to 2b.",4,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,1,top,"SALK, J lined out to ss (0-0).",5,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,1,bot,"Cooney, R singled through the right side (0-0).",6,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,1,bot,"Gimenez, J struck out swinging (3-2 KBBBFS).",7,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,1,bot,"Cooney, R stole second.",8,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,1,bot,"Hellman, D grounded out to 3b (3-1 BBSB).",9,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,1,bot,"Smith, D lined out to ss (1-0 B).",10,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,2,top,"Gosztola, M to p for Featherston.",11,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,2,top,"KATAYAMA, C singled through the right side (2-2 BKBF).",12,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,2,top,"STEWART, C grounded out to 3b, SAC, bunt (0-1 K)3a KATAYAMA, C advanced to second.",13,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,2,top,"NITOWITZ, C grounded out to ss (2-2 KKFBB).",14,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,2,top,"COTE, L struck out swinging (1-2 KKBS).",15,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,2,bot,"Laya, A hit by pitch (3-2 BBKSFFB).",16,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,2,bot,"Molony, M lined out to 2b (0-0).",17,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,2,bot,"Mabeus, B grounded into double play 2b to ss to 1b (2-2 KBKB)3a Laya, A out on the play.",18,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,3,top,"LANDWEHR, J flied out to cf (1-0 B).",19,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,3,top,"BEAN, B homered to right center, RBI (2-0 BB).",20,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,3,top,"SWYGART, T grounded out to 2b (2-1 BBS).",21,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,3,top,"MILLER, N grounded out to 2b (2-2 BKFB).",22,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,3,bot,"Jaksa, B flied out to lf (1-2 BKFF).",23,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,3,bot,"Brooks, J grounded out to ss (1-2 KFFB).",24,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,3,bot,"Cooney, R flied out to lf (1-0 B).",25,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,4,top,"SALK, J struck out swinging (1-2 FBSS).",26,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,4,top,"KATAYAMA, C flied out to lf (2-2 KKBB).",27,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,4,top,"STEWART, C struck out swinging (3-2 BSSBFBS).",28,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,4,bot,"LOUIS, A to p for ANDERSON, L.",29,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,4,bot,"Gimenez, J walked (3-2 BKFFBBB).",30,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,4,bot,"Hellman, D struck out looking (1-2 SBSK).",31,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,4,bot,"Smith, D flied out to cf (1-1 BF).",32,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,4,bot,"Gimenez, J stole second.",33,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,4,bot,"Laya, A grounded out to 2b (1-2 BKKF).",34,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,5,top,"NITOWITZ, C grounded out to 1b unassisted (1-2 BSK).",35,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,5,top,"COTE, L fouled out to c (1-1 KB).",36,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,5,top,"LANDWEHR, J singled to center field (2-2 KBFFB).",37,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,5,top,"BEAN, B reached on a fielder's choice (2-2 BKBK)3a LANDWEHR, J out at second ss to 2b.",38,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,5,bot,"Molony, M lined out to ss (3-2 BFFBBF).",39,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,5,bot,"Mabeus, B hit by pitch (0-1 K).",40,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,5,bot,"Jaksa, B walked (3-0 BBBB)3a Mabeus, B advanced to second.",41,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,5,bot,"Schleichardt pinch hit for Brooks, J.",42,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,5,bot,"Schleichardt walked (3-0 BBBB)3a Jaksa, B advanced to second3a Mabeus, B advanced to third.",43,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,5,bot,"Cooney, R struck out swinging (0-2 KFS).",44,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,5,bot,"Gimenez, J reached on a fielder's choice (0-0)3a Schleichardt advanced to second3a Jaksa, B out at third 3b unassisted.",45,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,6,top,"Gimenez, J to cf.",46,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,6,top,Schleichardt to lf.,47,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,6,top,"SWYGART, T struck out swinging (2-2 SBFBS).",48,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,6,top,"KAUFFMAN, L pinch hit for MILLER, N.",49,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,6,top,"KAUFFMAN, L grounded out to 2b (0-0).",50,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,6,top,"SALK, J struck out swinging (2-2 FFFBBFS).",51,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,6,bot,"KAUFFMAN, L to rf.",52,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,6,bot,"KATAYAMA, C to 3b.",53,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,6,bot,"CHUN, D to c for STEWART, C.",54,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,6,bot,"PFEIFER, I to lf for NITOWITZ, C.",55,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,6,bot,"AVERY, B to ss for LANDWEHR, J.",56,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,6,bot,"Hellman, D grounded out to 2b (0-0).",57,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,6,bot,"Smith, D walked (3-2 KBBBFB).",58,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,6,bot,"Laya, A flied out to lf (0-1 K).",59,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,6,bot,"Smith, D out at second p to 1b to 2b, caught stealing, picked off.",60,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,7,top,"KATAYAMA, C walked (3-1 BKBBB).",61,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,7,top,"CHUN, D struck out looking (0-2 FSK).",62,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,7,top,"PFEIFER, I struck out swinging (0-2 FSS).",63,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,7,top,"BRUCE, G pinch hit for COTE, L.",64,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,7,top,"Morgan, L to p for Gosztola, M.",65,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,7,top,"KATAYAMA, C out at second c to 2b, caught stealing.",66,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,7,bot,"Molony, M grounded out to ss (0-1 K).",67,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,7,bot,"Mabeus, B struck out swinging (0-2 FSS).",68,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,7,bot,"Jaksa, B walked (3-1 BKBBB).",69,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,7,bot,"Cook, E pinch ran for Jaksa, B.",70,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,7,bot,Schleichardt grounded out to 3b (1-2 SBK).,71,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,8,top,"Gimenez, J to lf.",72,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,8,top,"Cook, E to cf.",73,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,8,top,"BRUCE, G to dh.",74,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,8,top,"Miranda, G to 1b for Schleichardt.",75,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,8,top,"BRUCE, G walked (3-1 KBBBB).",76,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,8,top,"BRUCE, G out at first c to 1b, picked off.",77,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,8,top,"AVERY, B struck out swinging (2-2 KBKBFS).",78,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,8,top,"BEAN, B struck out looking (1-2 FFBK).",79,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,8,bot,"YOUNG, C to p for LOUIS, A.",80,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,8,bot,"Cooney, R flied out to cf (3-2 BKKBB).",81,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,8,bot,"Gimenez, J singled to second base, bunt (1-1 BK).",82,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,8,bot,"Hellman, D walked (3-2 BBFBSB)3a Gimenez, J advanced to second.",83,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,8,bot,"Morgan, O pinch ran for Hellman, D.",84,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,8,bot,"VIA, A to p for YOUNG, C.",85,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,8,bot,"Smith, D popped up to 3b (1-0 B).",86,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,8,bot,"Laya, A fouled out to 2b (1-0 B).",87,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,9,top,"SWYGART, T walked (3-2 BBKFBB).",88,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,9,top,"KAUFFMAN, L lined out to ss (0-1 F).",89,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,9,top,"Meckna, M to p for Morgan, L.",90,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,9,top,"SALK, J homered to left field, 2 RBI (2-2 BBSS)3a SWYGART, T scored.",91,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,9,top,"KATAYAMA, C singled through the left side (1-2 KBKF).",92,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,9,top,"CHUN, D singled up the middle (2-1 BBF)3a KATAYAMA, C advanced to second.",93,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,9,top,"PFEIFER, I singled to center field (1-1 BS)3a CHUN, D advanced to second3a KATAYAMA, C advanced to third.",94,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,9,top,"BRUCE, G struck out swinging (1-2 KKFBF).",95,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614711,9,top,"AVERY, B struck out swinging (2-2 KKBBS).",96,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,9,bot,"Molony, M popped up to ss (3-2 KBKBB).",97,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,9,bot,"Mabeus, B struck out swinging (1-2 BFSS).",98,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,9,bot,"Lauaki, N pinch hit for Cook, E.",99,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
+6522324,614711,Portland Pilots,614705,Oregon Ducks,614705,9,bot,"Lauaki, N flied out to rf (2-1 BBF).",100,2026-03-31T20:00:00-04:00,"PK Park (Eugene, OR)",2063,MBA,2026
