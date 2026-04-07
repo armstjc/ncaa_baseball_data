@@ -1,0 +1,95 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,1,top,Quiban struck out swinging (1-2 KKBS).,1,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,1,top,Dobie flied out to cf to right center (0-0).,2,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,1,top,Kwon grounded out to 3b (1-2 KBK).,3,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,1,bot,"Harry homered to right field, RBI (3-1 BBKB).",4,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,1,bot,"**98 mph, 387 ft**.",5,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,1,bot,"Ellis, R struck out swinging (1-2 BKKS).",6,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,1,bot,Dessens lined out to rf (2-0 BB).,7,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,1,bot,Pimentel-Gue flied out to cf (3-1 BBBK).,8,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,2,top,Doyle out at first 1b to p (2-2 BKBS).,9,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,2,top,Cruz Jr. flied out to cf to left center (1-2 KBFF).,10,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,2,top,Yamaguchi grounded out to 3b (2-1 BBK).,11,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,2,bot,Ott flied out to lf (2-1 BBF).,12,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,2,bot,Jeremiah lined out to rf (0-0).,13,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,2,bot,Sewell flied out to rf (1-0 B).,14,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,3,top,Harvey grounded out to ss (2-2 KKBB).,15,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,3,top,Waller walked (3-1 BBKBB).,16,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,3,top,Metcho reached on a fielder's choice to third base (1-2 BKKF)3a Waller out at second 3b to 2b.,17,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,3,top,Quiban popped up to ss (0-0).,18,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,3,bot,Giacomini to p for Brainard.,19,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,3,bot,Hadley hit by pitch (0-0).,20,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,3,bot,Perazzo singled to third base (2-2 BBKF)3a Hadley advanced to second.,21,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,3,bot,Perazzo advanced to second on a wild pitch3a Hadley advanced to third on a wild pitch.,22,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,3,bot,"Harry singled to right center, 2 RBI (2-2 BKSFFBFF)3a Perazzo scored3a Hadley scored.",23,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,3,bot,"Ellis, R grounded out to 1b unassisted, SAC (1-0 B)3a Harry advanced to second.",24,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,3,bot,"Dessens singled through the left side, RBI (0-0)3a Harry scored.",25,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,3,bot,Dessens advanced to second on a wild pitch.,26,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,3,bot,Pimentel-Gue struck out swinging (1-2 KBKS).,27,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,3,bot,Ott walked (3-2 SBKBBB).,28,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,3,bot,Jeremiah struck out swinging (1-2 KSBS).,29,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,4,top,Sandberg to p for James.,30,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,4,top,Dobie lined out to 2b (0-2 KK).,31,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,4,top,Kwon singled to left field (0-0).,32,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,4,top,"Kwon picked off, out at first p to 1b.",33,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,4,top,Doyle walked (3-2 BBFKBB).,34,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,4,top,Doyle stole second.,35,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,4,top,"Cruz Jr. singled through the left side, RBI (3-2 FBBBF)3a Doyle scored.",36,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,4,top,Yamaguchi struck out swinging (1-2 SBFFS).,37,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,4,bot,Miller to p for Giacomini.,38,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,4,bot,Sewell fouled out to 1b down the rf line (2-2 BSBK).,39,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,4,bot,Hadley reached on a fielding error by ss (1-1 KB).,40,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,4,bot,"Perazzo singled to right field, advanced to second on a fielding error by rf (1-1 BF)3a Hadley advanced to second, advanced to third on the error.",41,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,4,bot,"Harry homered to center field, 3 RBI (1-1 FB)3a Perazzo scored3a Hadley scored, unearned.",42,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,4,bot,"Ellis, R walked (3-2 SBBBSB).",43,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,4,bot,"Dessens homered to right center, 2 RBI (0-1 K)3a Ellis, R scored.",44,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,4,bot,Pimentel-Gue flied out to rf (2-0 BB).,45,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,4,bot,Ott grounded out to 1b unassisted (1-0 B).,46,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,5,top,Stockton to p for Sandberg.,47,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,5,top,Harvey flied out to rf (2-2 BKBK).,48,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,5,top,Waller flied out to rf (1-0 B).,49,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,5,top,Metcho grounded out to 2b (1-0 B).,50,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,5,bot,Jeremiah singled to center field (0-2 KS).,51,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,5,bot,Sewell struck out swinging (3-2 BKFBFBS).,52,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,5,bot,Hadley flied out to rf to right center (0-0)3a Jeremiah no advance.,53,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,5,bot,"Perazzo struck out swinging, out at first c to 1b (2-2 FSBBFS).",54,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,6,top,Quiban flied out to lf (3-1 BBBK).,55,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,6,top,"Dobie homered to left center, RBI (3-2 FBBBFFF).",56,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,6,top,Kwon singled to center field (2-2 SFBB).,57,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,6,top,"Kligman, A to p for Stockton.",58,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,6,top,Doyle flied out to rf (1-1 FB)3a Kwon no advance.,59,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,6,top,Kwon advanced to second on a wild pitch.,60,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,6,top,Cruz Jr. flied out to rf (2-1 KBB).,61,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,6,bot,Tomita to p for Miller.,62,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,6,bot,Harry hit by pitch (3-1 BKBB).,63,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,6,bot,"Ellis, R walked (3-1 BBFBB)3a Harry advanced to second.",64,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,6,bot,"Dessens singled up the middle, RBI (1-1 FB)3a Ellis, R advanced to second3a Harry scored.",65,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,6,bot,"Pimentel-Gue walked (3-0 BBBB)3a Dessens advanced to second3a Ellis, R advanced to third.",66,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,6,bot,"Ott singled through the left side, RBI (0-0)3a Pimentel-Gue advanced to second3a Dessens advanced to third3a Ellis, R scored.",67,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,6,bot,Jeremiah struck out swinging (1-2 KFBS).,68,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,6,bot,Sewell flied out to lf (1-1 BK).,69,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,6,bot,Hadley struck out swinging (2-2 KFFFBBS).,70,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,7,top,Beasley to c for Hadley.,71,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,7,top,Yamaguchi grounded out to 3b (0-0).,72,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,7,top,Harvey lined out to ss (2-2 BBKK).,73,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,7,top,Waller grounded out to 3b (1-2 BKF).,74,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,7,bot,Perazzo grounded out to 2b (0-0).,75,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,7,bot,Harry flied out to cf (2-2 KKBB).,76,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,7,bot,"Ellis, R tripled down the rf line (0-0).",77,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,7,bot,Dessens out at first 1b to p (0-1 F).,78,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,8,top,"Winterhalder to p for Kligman, A.",79,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,8,top,Metcho singled to right field (0-0).,80,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,8,top,Quiban reached on a fielder's choice to shortstop (2-2 BKFB)3a Metcho out at second ss to 2b.,81,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,8,top,Dobie flied out to lf (3-2 BBBKK).,82,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,8,top,Kwon struck out swinging (3-2 BBBKSS).,83,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,8,bot,Valdez to p for Tomita.,84,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,8,bot,Pimentel-Gue walked (3-1 BSBBB).,85,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,8,bot,Ott flied out to rf (0-0)3a Pimentel-Gue no advance.,86,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,8,bot,Poturnak pinch hit for Jeremiah.,87,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,8,bot,Poturnak doubled down the lf line (1-1 SB)3a Pimentel-Gue advanced to third.,88,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,8,bot,"Sewell struck out swinging, out at first c to 1b (0-2 KKS).",89,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614570,8,bot,Beasley flied out to cf (0-0).,90,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,9,top,Poturnak to 3b.,91,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,9,top,Doyle grounded out to ss (0-2 KK).,92,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,9,top,Cruz Jr. grounded out to 2b (0-2 KF).,93,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026
+6524692,614681,Nevada Wolf Pack,614570,Sacramento St. Hornets,614681,9,top,Yamaguchi lined out to lf (1-1 BF).,94,2026-04-06T21:00:00-04:00,"John Smith Field (Sacramento, CA)",476,MBA,2026

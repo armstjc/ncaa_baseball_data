@@ -1,0 +1,80 @@
+game_id,away_team_id,away_team_name,home_team_id,home_team_name,batting_team,inning,top_bot,event_text,event_num,game_datetime,stadium_name,attendance,sport_id,season
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,1,top,"Lampert, L. struck out looking (2-2 BKBKFK).",1,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,1,top,"Cortez, J. struck out swinging (1-2 SFBS).",2,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,1,top,"Hammrich, H. grounded out to ss (1-0 B).",3,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,1,bot,"Niaves, A. walked (3-1 BSBBB).",4,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,1,bot,"Tahsini, M. lined into double play 1b unassisted (2-1 FBB)3a Niaves, A. out on the play.",5,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,1,bot,"Kesti, D. grounded out to 3b (0-0).",6,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,2,top,"Davis, C. walked (3-2 KBBKBB).",7,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,2,top,"Behn, E. grounded out to 1b unassisted, SAC, bunt (1-1 BS)3a Davis, C. advanced to second.",8,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,2,top,"Berreth, J. singled up the middle, RBI (1-1 KB)3a Davis, C. scored.",9,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,2,top,"Berreth, J. stole second, advanced to third on a throwing error by c.",10,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,2,top,"Wheeler, N. grounded out to p (1-2 BFF).",11,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,2,top,"Woitalla, B. struck out swinging (3-2 BFSFFBFBS).",12,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,2,bot,"Benson, D. grounded out to ss (2-2 BFBS).",13,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,2,bot,"Lott, C. walked (3-2 BSBKBB).",14,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,2,bot,"Castella, D. walked (3-0 BBBB)3a Lott, C. advanced to second.",15,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,2,bot,"Konechne, K. walked (3-2 BKBBKB)3a Castella, D. advanced to second3a Lott, C. advanced to third.",16,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,2,bot,"Rerick, E. walked, RBI (3-2 KBFBFBB)3a Konechne, K. advanced to second3a Castella, D. advanced to third3a Lott, C. scored.",17,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,2,bot,"Vasgaard, L. to p for Quinn. J..",18,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,2,bot,"Soulek, D. walked, RBI (3-2 BBBKFFB)3a Rerick, E. advanced to second3a Konechne, K. advanced to third3a Castella, D. scored.",19,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,2,bot,"Niaves, A. reached on a fielder's choice, RBI (1-0 B)3a Soulek, D. out at second 2b to ss3a Rerick, E. advanced to third3a Konechne, K. scored.",20,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,2,bot,"Tahsini, M. grounded out to p (0-1 K).",21,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,3,top,"King, C. doubled to right center (0-1 K).",22,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,3,top,"Lampert, L. grounded out to 3b, SAC, bunt (1-0 B)3a King, C. advanced to third.",23,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,3,top,"Cortez, J. singled up the middle, RBI (3-2 KBBFB)3a King, C. scored.",24,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,3,top,"Hammrich, H. singled to center field, advanced to second on the throw (2-1 KBB)3a Cortez, J. advanced to third.",25,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,3,top,"Davis, C. flied out to rf, SF, RBI (2-2 BFFB)3a Cortez, J. scored.",26,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,3,top,"Behn, E. struck out looking (1-2 KKBK).",27,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,3,bot,"Kesti, D. singled to left field (2-2 SBBF).",28,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,3,bot,"Benson, D. struck out swinging (3-2 BFSBBFS)3a Kesti, D. stole second.",29,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,3,bot,"Lott, C. out at first 1b to p (1-1 BF)3a Kesti, D. advanced to third.",30,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,3,bot,"Castella, D. grounded out to p (0-0).",31,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,4,top,"Berreth, J. grounded out to p (1-2 BKK).",32,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,4,top,"Wheeler, N. grounded out to 3b (3-2 FBKBB).",33,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,4,top,"Woitalla, B. walked (3-2 BBKFBFB).",34,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,4,top,"King, C. walked (3-0 BBBB)3a Woitalla, B. advanced to second.",35,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,4,top,"Lampert, L. out at first 1b to p (1-0 B).",36,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,4,bot,"Konechne, K. grounded out to 3b, bunt (1-0 B).",37,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,4,bot,"Rerick, E. singled to shortstop (1-0 B).",38,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,4,bot,"Soulek, D. grounded into double play 2b to 1b (0-0)3a Rerick, E. out on the play.",39,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,5,top,"Cortez, J. walked (3-2 FFBBBB).",40,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,5,top,"Hammrich, H. grounded out to 1b unassisted, SAC, bunt (0-0)3a Cortez, J. advanced to second.",41,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,5,top,"Davis, C. struck out looking (1-2 BFSFK).",42,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,5,top,"Cortez, J. advanced to third on a wild pitch.",43,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,5,top,"Behn, E. struck out looking (2-2 KBBSFK).",44,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,5,bot,"Niaves, A. struck out swinging (0-2 FSS).",45,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,5,bot,"Tahsini, M. doubled down the rf line (0-0).",46,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,5,bot,"Kesti, D. walked (3-2 BBBSFB).",47,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,5,bot,"Benson, D. singled to left center, RBI (3-2 BBKFBF)3a Kesti, D. advanced to second, advanced to third on the throw3a Tahsini, M. scored.",48,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,5,bot,"Dent, A. to p for Vasgaard, L..",49,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,5,bot,"Benson, D. advanced to second on a wild pitch3a Kesti, D. scored on a wild pitch.",50,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,5,bot,"Lott, C. walked (3-2 BBKBKB)3a Benson, D. advanced to third on a wild pitch.",51,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,5,bot,"Castella, D. singled to first base, RBI (1-2 KBK)3a Lott, C. advanced to second3a Benson, D. scored.",52,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,5,bot,"Vining, C. pinch hit for Konechne, K..",53,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,5,bot,"Dalager, R. to p for Dent, A..",54,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,5,bot,"Vining, C. singled to left center, 2 RBI (1-0 B)3a Castella, D. scored3a Lott, C. scored.",55,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,5,bot,"Hull, J. pinch ran for Vining, C..",56,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,5,bot,"Rerick, E. singled to center field (0-1 S)3a Hull, J. advanced to second.",57,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,5,bot,"Soulek, D. struck out swinging (1-2 BKKS).",58,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,5,bot,"Niaves, A. singled to left field, advanced to second on the throw, RBI (0-0)3a Rerick, E. advanced to third3a Hull, J. scored.",59,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,5,bot,"Tahsini, M. grounded out to 3b (2-1 BBF).",60,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,6,top,"Hull, J. to cf.",61,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,6,top,"Berreth, J. walked (3-2 KBBFFBB).",62,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,6,top,"Wheeler, N. struck out swinging (0-2 SFS).",63,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,6,top,"Woitalla, B. lined into double play 2b to 1b (0-0)3a Berreth, J. out on the play.",64,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,6,bot,"Bougher, C. to p for Dalager, R..",65,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,6,bot,"Kesti, D. popped up to 1b (0-0).",66,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,6,bot,"Benson, D. singled to left field (0-1 K).",67,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,6,bot,"Lott, C. struck out swinging (2-2 FBFBFS).",68,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,6,bot,"Sanchez, D. pinch ran for Benson, D..",69,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614891,6,bot,"Castella, D. popped up to 3b (3-2 FFBBB).",70,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,7,top,"Larrigan, G. to c for Niaves, A..",71,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,7,top,"Steinwan, J. to 1b for Sanchez, D..",72,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,7,top,"Behrens, L. to p for Zimmel, C..",73,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,7,top,"King, C. struck out swinging (3-2 BBKBFS).",74,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,7,top,"Lampert, L. hit by pitch (0-0).",75,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,7,top,"Cortez, J. hit by pitch (0-0)3a Lampert, L. advanced to second.",76,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,7,top,"Hammrich, H. grounded out to 3b (3-2 BBKBS)3a Cortez, J. advanced to second3a Lampert, L. advanced to third.",77,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,7,top,"Davis, C. singled up the middle, 2 RBI (1-2 KBF)3a Cortez, J. scored3a Lampert, L. scored.",78,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
+6537799,614920,Southwest Minn. St. Mustangs,614891,Northern St. Wolves,614920,7,top,"Behn, E. struck out looking (1-2 KBSK).",79,2026-04-06T14:30:00-04:00,"Sioux Falls, SD",0,MBA,2026
